@@ -1,0 +1,13 @@
+0	Galactic Arena
+1	^ff3339Galactic Tyranny begins!
+2	^ff3339Cruel of Terrible God of Death!
+3	^ff3339Resolved Excitement from the God of War!
+4	^ff3339Bright Cosmo
+5	^ff3339Battles Specialist
+6	^ff333Any
+7	After the reward of the competition reaches 3000, you can consume it to change for an exclusive title of the Galactic Arena of the "Galactic Arena Justice" \rIt can be changed only once.
+8	After the reward of the competition reaches 5,000, you can consume it to exchange for an exclusive kit of the fashionable Galactic Arena, for a limited time, of "Violent Attack" \r It can be changed only once a month.
+9	After the reward of the competition reaches 5,000, you can consume it to exchange for an exclusive ride of the Galactic Arena, for a limited time, of the "Dark Blue Dragon" \rIt can be changed only once a month.
+10	Galactic Arena Challenge
+11	Ice Coliseum
+12	This mode does not grant prizes or punctuation.

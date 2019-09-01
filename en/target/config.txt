@@ -1,0 +1,711 @@
+0	Adjust the fixed value of the fighting power
+1	^ffff00 ★ Power %d ^f2f3f2
+2	Adjust the fixed value of HP
+3	HP + %d
+4	Adjust the fixed value of the physical force
+5	Vigor + %d
+6	Adjust the fixed value of maximum grudge
+7	Grudge + %d
+8	Adjust the fixed value of maximum rage
+9	Rabies + %d
+10	Adjust the fixed value of HP recovery speed
+11	Recovery of HP + %d
+12	Adjust the fixed value of the recovery speed of the HP status of the battle
+13	Recovery of Battle HP + %d
+14	Setting the MP recovery speed fixed value
+15	Recovery of MP + %d
+16	Adjust the fixed value of the recovery speed of the MP status of the battle
+17	Recovery of battle MP + %d
+18	Setting the fixed value of recovery speed of the Grudge
+19	Spite Recovery + %d
+20	Adjust the fixed value of the recovery speed of the battle Spite status
+21	Recovery from Battle Stub + %d
+22	Setting the fixed value of Rabies recovery speed
+23	Rabies Recovery + %d
+24	Adjust the fixed value of the recovery speed of the Rage status of the battle
+25	Recovery from Battle Rage + %d
+26	Adjust the fixed value of the Earth Damage properties
+27	Land Attack + %d
+28	Adjust the fixed value of Water Damage properties
+29	Water Damage + %d
+30	Adjust the fixed value of the properties of Fire Damages
+31	Fire Damage + %d
+32	Adjust the fixed value of the properties of the air attacks
+33	Air Damage + %d
+34	Adjust the fixed value of the earth resistance properties
+35	Resistance to Earth + %d
+36	Adjust the fixed value of water resistance properties
+37	Water Resistance + %d
+38	Adjust the fixed value of fire resistance properties
+39	Fire Resistance + %d
+40	Adjust the fixed value of the air resistance properties
+41	Resistance to Air + %d
+42	Adjust the fixed value of reduction of the property of resistance to earth
+43	Reduction of Earth Resistance + %d
+44	Adjust fixed value of water resistance property reduction
+45	Reduction of Water Resistance + %d
+46	Adjust the fixed value of reduced fire resistance property
+47	Reduction of Fire Resistance + %d
+48	Adjust the fixed value for reduction of the air resistance property
+49	Reduction of Resistance to Air + %d
+50	Adjust damage frequency of ground properties
+51	Earth Damage + %.0f %%
+52	Adjust frequency of damage of water properties
+53	Water Damage + %.0f %%
+54	Adjust the frequency of fire property damage
+55	Fire Damage damage + %.0f %%
+56	Adjust the frequency of damage of air properties
+57	Air Damage + %.0f %%
+58	Adjust the fixed value of walking speed
+59	Walking Speed ​​+ %0.1fm / s
+60	m / s
+61	Adjust the fixed value of running speed
+62	Running Speed ​​+ %0.1fm / s
+63	Adjust the fixed value of the riding speed
+64	Riding Speed ​​+ %0.1f m / s
+65	Adjust the fixed value of the flight speed
+66	Flight speed + %0.1f m / s
+67	Adjust the fixed value of the swim speed
+68	Swim speed + %0.1f m / s
+69	Adjust the fixed value of the jump height
+70	Jump Height + %0.1f m / s
+71	Adjust the fixed Precision value
+72	Accuracy + %d
+73	Adjust the fixed evasion value
+74	Evasion + %d
+75	Adjust fixed value of the small attack
+76	Minimum Attack + %d
+77	Adjust the fixed value of the big attack
+78	Maximum Attack + %d
+79	Adjust the fixed defense value
+80	Defense + %d
+81	Adjust the fixed value of additional damage
+82	Additional Damage + %.0f %%
+83	Adjust the fixed value of damage frequency
+84	Damage + %.0f %%
+85	Adjust the fixed value of the critical attack rate
+86	Crit Chance +%.1f %%
+87	Setting the fixed value of additional critical attack damage
+88	Critical Attack Damage + %d
+89	Setting the fixed value of the critical attack resistance probability
+90	Prob. Res. Critical +%.1f %%
+91	Adjustment of the fixed value of the extra probability of resistance to critical attack
+92	Physical damage reduction + %d
+93	Adjustment of the fixed value of the Lucky Attack rate
+94	Luck Attack Rate + %1f %%
+95	Adjust the fixed value of the direct attack rate
+96	Direct Attack Index + %.0f %%
+97	Adjust the fixed resistance value of physical damage
+98	Resistance of Physical Damage + %.0f %%
+99	Adjust the fixed value of resistance to magic
+100	Resistance to Magic + %.0f %%
+101	Adjust the fixed value of poison resistance
+102	Resistance to Poisoning + %d
+103	Adjust the fixed value of resistance to confusion
+104	Resistance to Confusion + %d
+105	Adjust the fixed value of resistance to weakness
+106	Resistance to Sleep + %d
+107	Adjust the fixed value of silence resistance
+108	Resistance to Silence + %d
+109	Adjust the fixed value of the speed reduction resistance
+110	Resistance to Speed ​​Reduction + %d
+111	Adjust the fixed value to ignore the resistance to poisoning
+112	Ignore Resistance to Poisoning + %d
+113	Adjust the fixed value to ignore resistance to confusion
+114	Ignore Resistance to Confusion + %d
+115	Adjust the fixed value to ignore resistance to weakness
+116	Ignore Resistance to Weakness + %d
+117	Adjust the fixed value to ignore sleep resistance
+118	Ignoring Sleep Resistance + %d
+119	Adjust the fixed value to ignore the resistance to speed reduction
+120	Ignore Resistance to Speed ​​Reduction + %d
+121	Adjust the fixed value of the medicinal treatment effect
+122	Effect of Medicinal Treatment + %.0f %%
+123	Adjust the percentage of the HP value
+124	HP +%.1f %%
+125	Adjust the percentage of the physical force value
+126	Physical strength + %.0f %%
+127	Adjust the maximum percentage of rancor
+128	Grudge + %.0f %%
+129	Adjust the maximum percentage of rabies
+130	Rabies + %.0f %%
+131	Adjust the HP recovery rate percentage of value
+132	Recovery of HP + %.0f %%
+133	Adjust the speed percentage of the HP combat status value recovery
+134	Recovery of Battle HP + %.0f %%
+135	Adjust the recovery speed percentage of the physical force value
+136	Recovery of Physical Strength + %.0f %%
+137	Adjust the recovery rate percentage of the status value of the physical combat force
+138	Recovery of Combat Physical Strength + %.0f %%
+139	Adjust the percentage of resentment recovery speed
+140	Spite Recovery + %.0f %%
+141	Adjust the recovery speed percentage of the combat grudge status value
+142	Recovery of Combat Rage + %.0f %%
+143	Adjust rabies recovery rate percentage
+144	Rabies Recovery + %.0f %%
+145	Adjust the recovery speed percentage of the combat rage status value
+146	Recovery from Combat Rage + %.0f %%
+147	Adjust the percentage of properties of Earth Damages
+148	Land Attack +%.1f %%
+149	Adjust the percentage of properties of Water Damages
+150	Water Damage +%.1f %%
+151	Adjust the percentage of properties of Fire Damages
+152	Fire Damage + %.1f %%
+153	Adjust the percentage of properties of air attacks
+154	Air Damage + %.1f %%
+155	Adjust the percentage of the walking speed
+156	Walking Speed ​​+ %0f %%
+157	Adjust the percentage of the running speed
+158	Running Speed ​​+ %.0f %%
+159	Adjust the percentage of the speed of riding
+160	Riding Speed ​​+ %.0f %%
+161	Adjust the percentage of the flight speed
+162	Flight Speed ​​+ %.0f %%
+163	Adjust the percentage of the swim speed
+164	Swim Speed ​​+ %.0f %%
+165	Adjust the percentage of the jump height
+166	Jump Height + %.0f %%
+167	Adjusts Precision percentage
+168	Accuracy + %.0f %%
+169	Adjust the percentage of evasion
+170	Evasion + %.0f %%
+171	Adjust the percentage of the small attack
+172	Minimum Attack + %.1f %%
+173	Adjust percentage of the big attack
+174	Maximum Attack +%.1f %%
+175	Adjust defense percentage
+176	Defense + %.1f %%
+177	Adjust percentage of additional damage of the critical attack
+178	Critical Attack + %.1f %%
+179	Adjust the percentage of additional damage reduction critical attack
+180	CritBonus Reduction + %.1f %%
+181	Adjust the percentage of resistance to poisoning
+182	Resistance to Poisoning + %.0f %%
+183	Adjust the percentage of resistance to confusion
+184	Resistance to Confusion + %.0f %%
+185	Adjust the percentage of resistance to weakness
+186	Resistance to Sleep + %.0f %%
+187	Adjust the resistance percentage to silence
+188	Resistance to Silence + %.0f %%
+189	Adjust the percentage of resistance to speed reduction
+190	Resistance to speed reduction + %.0f %%
+191	Adjust to ignore the percentage of resistance to poisoning
+192	Ignore Resistance to Poisoning + %.0f %%
+193	Adjust to ignore the percentage of resistance to confusion
+194	Ignore Resistance to Confusion + %.0f %%
+195	Adjust to ignore the percentage of resistance to weakness
+196	Ignore Resistance to Sleep + %.0f %%
+197	Adjust to ignore the percentage of resistance to silence
+198	Ignore Resistance to Silence + %.0f %%
+199	Adjust to ignore the percentage of resistance to speed reduction
+200	Ignore Resistance to Speed ​​Reduction + %.0f %%
+201	Adjust the percentage of the medicinal treatment effect
+202	Effect of Medicinal Treatment + %.1f %%
+203	Adjust the attack percentage
+204	Attack +%.1f %%
+205	Add new skills
+206	Reduce the cooldown of specific skills
+207	%s reduce the cooldown %d milliseconds
+208	Add the existing skill level
+209	Additional Skills: %s + %d
+210	Money obtained with percentage increase
+211	Moeda obtained + %.0f %%
+212	Experience obtained with percentage increase
+213	Experience in killing monster obtained + %.0f %%
+214	Adjust fixed attack value
+215	Attack + %d
+216	Adjust fixed value of damage resistance properties
+217	Resistance to damage + %.0f %%
+218	Adjust fixed value of the Onslaught
+219	Onslaught + %.0f %%
+220	Adjust fixed protection value
+221	Protection + %.2f %%
+222	Adjust fixed value of the Armature
+223	Armor + %.0f %%
+224	Adjust fixed destruction value
+225	Destruction + %.2f %%
+226	Adjust fixed value of properties of electricity attacks
+227	Thunder Damage + %d
+228	Adjust fixed value of electricity resistance properties
+229	Thunder Resistance + %d
+230	Adjust the fixed value of reduction of properties of resistance to electricity
+231	Penet. resist to Thunder + %d
+232	Adjust damage frequency of electricity properties
+233	Thunder Damage damage + %d
+234	Adjust fixed value of bleeding resistance
+235	Resistance to bleeding + %d
+236	Adjust fixed value of burn resistance properties
+237	Resistance to burn + %d
+238	Adjust fixed value of fall resistance properties
+239	Fall resistance + %d
+240	Adjust fixed value of freeze resistance
+241	Freezing resistance + %d
+242	Adjust fixed value of petrification resistance
+243	Resistance to petrification + %d
+244	Adjust the fixed value for reducing the resistance to bleeding
+245	Penet. resist to bleeding + %d
+246	Adjust the fixed value of burn resistance reduction
+247	Penet. resist to burn + %d
+248	Adjust the fixed value of resistance reduction to fall
+249	Penet. resist to fall + %d
+250	Adjust the fixed value of reduction of freezing resistance
+251	Penet. resist to freezing + %d
+252	Adjust the fixed value of reduction of the petrification resistance
+253	Penet. resist to petrification + %d
+254	Adjust percentage of properties of electricity attacks
+255	Thunder Damage +%.1f %%
+256	Adjust percentage of properties of bleeding attacks
+257	Bleeding attacks + %.0f %%
+258	Adjust percentage of properties of burn attacks
+259	Burn Attacks + %.0f %%
+260	Adjust percentage of fall attack properties
+261	Fall attacks + %.0f %%
+262	Adjust percentage of freeze attack properties
+263	Freeze attacks + %.0f %%
+264	Adjust percentage of properties of petrification attacks
+265	Petrification attacks + %.0f %%
+266	Adjust the percentage of reduction in resistance to bleeding
+267	Penet. resist to bleeding +%.0f %%
+268	Adjust the reduction percentage of the burn resistance
+269	​​Penet. resist to burn + %.0f %%
+270	Adjust the reduction percentage of the drop resistance
+271	Penet. resist to fall +%.0f %%
+272	Adjust the percent reduction in freezing resistance
+273	Penet. resist to freezing + %.0f %%
+274	Adjust percentage of reduction of petrification resistance
+275	Penet. resist to petrification + %.0f %%
+276	Adjust the fixed values ​​of attack properties
+277	Atq elementary + %d
+278	Adjust the fixed values ​​of resistance properties
+279	Resistance to all elements +%.1f
+280	Adjust the reduction of the fixed values ​​of resistance properties
+281	Penetration against resistance to all elements +%.1f
+282	Adjusts the fixed damage values ​​of all the elements
+283	Damage of all elements + %.0f %%
+284	Adjusts the attack rate of all the elements
+285	Atq elementary +%.1f %%
+286	Increase the skill level of the corresponding sign
+287	Adjusts the fixed values ​​of resistance against abnormal status
+288	Resistance against abnormal status + %d
+289	Adjusts fixed penetration values ​​against resistance to abnormal status
+290	Penet. resist to abnormal status + %d
+291	Adjusts the fixed value of Realm transforms level
+292	Darkness + %d
+293	Adjust fixed value of Light Damage properties
+294	Light Damage + %d
+295	Adjust fixed value of light resistance properties
+296	Resistance to light + %d
+297	Adjust fixed value of properties of reduction of resistance to light
+298	Penet. resis. Light + %d
+299	Adjust light damage frequency properties
+300	Light Damage damage + %.0f %%
+301	Adjust percentage of Light Damage properties
+302	Light Damage +%.1f %%
+303	Adjust the fixed value of main attack properties
+304	Main element attack + %d
+305	Adjust the fixed value of main resistance properties
+306	Resistance to main element + %d
+307	Adjust the fixed value of the main strength reduction properties
+308	Penet. resist to main element + %d
+309	Adjust frequency of damage of main properties
+310	Damage index of main elements + %.0f %%
+311	Adjust percentage of main attack properties
+312	Percentage of main attack properties +%.1f %%
+313	Adjust the fixed immunity value
+314	Shield + %d
+315	Adjust immunity percentage
+316	Shield +%.1f %%
+317	Adjust PVP_increase the damage percentage
+318	PVP damage rate + %1f %%
+319	Adjust PVP_Discrease the damage percentage
+320	Resistance to damage PVP + %.1f %%
+321	Realm 1
+322	Realm 2
+323	Realm 3
+324	Realm 4
+325	Realm 5
+326	Realm 6
+327	Realm 7
+328	Realm 8
+329	Realm 9
+330	Realm 10
+331	Realm 11
+332	Realm 12
+333	Realm 13
+334	Realm 14
+335	Realm 15
+336	Realm 1
+337	Realm 2
+338	Realm 3
+339	Realm 4
+340	Realm 5
+341	Realm 6
+342	Realm 7
+343	Realm 8
+344	Realm 9
+345	Realm 10
+346	Realm 11
+347	Realm 12
+348	Realm 13
+349	Realm 14
+350	Realm 15
+351	Realm 1
+352	Realm 2
+353	Realm 3
+354	Realm 4
+355	Realm 5
+356	Realm 6
+357	Realm 7
+358	Realm 8
+359	Realm 1
+360	Realm 2
+361	Realm 3
+362	Realm 4
+363	Realm 5
+364	Realm 6
+365	Realm 7
+366	Realm 1
+367	Realm 2
+368	Realm 3
+369	Realm 4
+370	Realm 5
+371	Realm 6
+372	Realm 1
+373	Realm 2
+374	Realm 3
+375	Realm 4
+376	Realm 5
+377	Realm 6
+378	Realm 1
+379	Realm 2
+380	Realm 3
+381	Realm 4
+382	Realm 5
+383	Realm 6
+384	Realm 1
+385	Realm 2
+386	Realm 3
+387	Realm 4
+388	Realm 5
+389	Realm 6
+390	Realm 1
+391	Realm 2
+392	Realm 3
+393	Realm 1
+394	Realm 2
+395	Realm 3
+396	Realm 1
+397	Realm 2
+398	Realm 3
+399	Realm 1
+400	Realm 2
+401	Realm 3
+402	Realm 4
+403	Realm 5
+404	Realm 6
+405	Realm 8
+406	Realm 9
+407	Realm 10
+408	Realm 11
+409	Realm 12
+410	Realm 13
+411	Realm 14
+412	Realm 15
+413	Realm 1
+414	Realm 2
+415	Realm 3
+416	Realm 4
+417	Realm 5
+418	Realm 6
+419	Realm 7
+420	Realm 8
+421	Realm 9
+422	Realm 10
+423	Realm 11
+424	Realm 12
+425	Realm 13
+426	Realm 14
+427	Realm 15
+428	Delusion 1 (1)
+429	Delusion 1 (2)
+430	Delusion 1 (3)
+431	Delusion 1 (4)
+432	Delusion 1 (5)
+433	Delusion 1 (6)
+434	Delusion 1 (7)
+435	Delusion 1 (8)
+436	Delusion 1 (9)
+437	Delusion 1 (10)
+438	Delusion 1 (11)
+439	Delusion 1 (12)
+440	Delusion 1 (13)
+441	Delusion 1 (14)
+442	Delusion 1 (15)
+443	Delusion 2 (1)
+444	Delusion 2 (2)
+445	Delusion 2 (3)
+446	Delusion 2 (4)
+447	Delusion 2 (5)
+448	Delusion 2 (6)
+449	Delusion 2 (7)
+450	Delusion 2 (8)
+451	Delusion 2 (9)
+452	Delusion 2 (10)
+453	Delusion 2 (11)
+454	Delusion 2 (12)
+455	Delusion 2 (13)
+456	Delusion 2 (14)
+457	Delusion 2 (15)
+458	Delusion 3 (1)
+459	Delusion 3 (2)
+460	Delusion 3 (3)
+461	Delusion 3 (4)
+462	Delusion 3 (5)
+463	Delusion 3 (6)
+464	Delusion 3 (7)
+465	Delusion 3 (8)
+466	Delusion 3 (9)
+467	Delusion 3 (10)
+468	Delusion 3 (11)
+469	Delusion 3 (12)
+470	Delusion 3 (13)
+471	Delusion 3 (14)
+472	Delusion 3 (15)
+473	Delusion 4 (1)
+474	Delusion 4 (2)
+475	Delusion 4 (3)
+476	Delusion 4 (4)
+477	Delusion 4 (5)
+478	Delusion 4 (6)
+479	Delusion 4 (7)
+480	Delusion 4 (8)
+481	Delusion 4 (9)
+482	Delusion 4 (10)
+483	Delusion 4 (11)
+484	Delusion 4 (12)
+485	Delusion 4 (13)
+486	Delusion 4 (14)
+487	Delusion 4 (15)
+488	Delusion 5 (1)
+489	Delusion 5 (2)
+490	Delusion 5 (3)
+491	Delusion 5 (4)
+492	Delusion 5 (5)
+493	Delusion 5 (6)
+494	Delusion 5 (7)
+495	Delusion 5 (8)
+496	Delusion 5 (9)
+497	Delusion 5 (10)
+498	Delusion 5 (11)
+499	Delusion 5 (12)
+500	Delusion 5 (13)
+501	Delusion 5 (14)
+502	Delusion 5 (15)
+503	Delusion 6 (1)
+504	Delusion 6 (2)
+505	Delusion 6 (3)
+506	Delusion 6 (4)
+507	Delusion 6 (5)
+508	Delusion 6 (6)
+509	Delusion 6 (7)
+510	Delusion 6 (8)
+511	Delusion 6 (9)
+512	Delusion 6 (10)
+513	Delusion 6 (11)
+514	Delusion 6 (12)
+515	Delusion 6 (13)
+516	Delusion 6 (14)
+517	Delusion 6 (15)
+518	Delusion 7 (1)
+519	Delusion 7 (2)
+520	Delusion 7 (3)
+521	Delusion 7 (4)
+522	Delusion 7 (5)
+523	Delusion 7 (6)
+524	Delusion 7 (7)
+525	Delusion 7 (8)
+526	Delusion 7 (9)
+527	Delusion 7 (10)
+528	Delusion 7 (11)
+529	Delusion 7 (12)
+530	Delusion 7 (13)
+531	Delusion 7 (14)
+532	Delusion 7 (15)
+533	Delusion 1
+534	Delusion 2
+535	Delusion 3
+536	Delusion 4
+537	Delusion 5
+538	Delusion 6
+539	Delusion 7
+540	Delusion 8
+541	Delusion 9
+542	Delusion 10
+543	Delusion 11
+544	Delusion 12
+545	Delusion 13
+546	Delusion 14
+547	Delusion 15
+548	Realm ${line}
+549	Delusion
+550	Realm ${line}
+551	Realm 1
+552	Realm 2
+553	Realm 3
+554	Realm 4
+555	Realm 5
+556	Realm 6
+557	Realm 7
+558	Realm 8
+559	In the configurations of the external chat box it can be changed for the built-in mode
+560	---- [Kiki]
+561	In the Quests bar located on the right, you can do an automatic search directly for the NPC target!
+562	When jumping, when you are in the air, press the space bar again to use the double jump
+563	Click with the left mouse button on the map interface to automatically search the route to the desired location
+564	You can use the Collect skill to gain fallen spoils, this ability can be found in the Skills interface
+565	Double click on the arrow keys will make you run faster, but it will consume your energy
+566	Hold down the SHIFT key during automatic search to go faster
+567	When there are many players near you, you can press Alt + P to hide them
+568	Part of the tasks will be marked on the ground to bring up the Quest NPC syllabi plates
+569	The Burning of Cosmo leaves you very powerful, use it at critical moments
+570	The ability to collect can help you quickly collect fallen debris around, you can find it in the Basic Skills
+571	Too many players on the same map and you can not finish the quest? Switch channels with fewer players
+572	When the number of messages in the chat bar is very large, you can clean all the information
+573	For each different type of mission, there will be a corresponding and different available mission icon above the head of the NPC, please pay attention to differentiate the missions of the main line with those of the secondary line.
+574	In combat status, it is not possible to select "sweet pineapple bread" or other types of recovery, the most you can do is pick up some portions of HP
+575	Note that you can only see friends who are on the same line as you
+576	If you are in the water or air, press the Z key since it can help you reduce the height
+577	Press the Shift + Directional keys to deflect an attack, you can also find the «Divert» skill in the Skills Book
+578	You can also hold down the SHIFT key and click on the ground to deviate from enemy attacks
+579	Block can also reduce damage in large quantity, please take that skill in the Book of Skills
+580	With insufficient physical strength it is not possible to run, block, divert; but it will recover automatically
+581	Click on the interrogation point in the interface, it will take you to the corresponding entry in the encyclopedia of the help interface
+582	In the Missions Book, you can open / close mission tracking
+583	On the radar map, you will see the nearby NPCs, as well as the missions loaded by them
+584	After reaching a certain level, if you want to continue leveling up you will need to improve the skills to use the value of consciousness to reach the requirements.
+585	Refining an armor can grant even higher properties, in addition to being able to activate many more abilities and be able to modify the appearance of the armor
+586	All the titles obtained load an attributed bonus, go now to open the title interface to see it!
+587	Full backpack, solution 1: discard or sell useless items
+588	Full backpack, solution 2: unused items will be temporarily stored in the warehouse
+589	Full backpack, solution 3: expand backpack
+590	If you think your backpack is very messy, why do not you try using the Sort function?
+591	Cosmic energy will automatically increase during combat
+592	Learning skills can increase one's level of consciousness, enough awareness is needed to improve them
+593	Can not find a specific NPC? You can open the map interface to find the corresponding NPC
+594	If the EXP value is already complete, but you can not make improvements, click on the character properties interface to make the improvement automatically
+595	When you reach a certain level, all the events you can participate in and the instance zones can be found in the Calendar
+596	Are not you making improvements fast enough? Remember to activate the double EXP in the instance zone
+597	In some congested areas, can not you move? Please, in the options menu, click on "Frozen Character"
+598	Anywhere in the game, you can open your store, but the rates will be different
+599	Keeping the SHIFT key pressed, click on the article icon to add it to a chat message
+600	Keeping the SHIFT key pressed, click on the mission icon to add it to a chat message
+601	Holding down the SHIFT key, click on the Atlas to add map coordinates to a chat message
+602	Holding down the SHIFT key, click on the avatar and name of the NPC to add it to a chat message
+603	The degree of perfectionism is synthesis of all the force incorporated after perfecting each piece of equipment
+604	Perfecting the equipment is the best way to improve the properties of the equipment
+605	Learning a trade can improve your combat efficiency in all aspects
+606	Part of the materials for basic productions can be purchased in the NPC of the Sanctuary
+607	Common recovery tools such as blood bottles, bread, etc. can be purchased from pharmacists in the Realm of bread vendors scattered everywhere
+608	The Magic Box system can separate the excess equipment in the backpack, but it can also increase the quality of specific equipment
+609	Magic Box can only separate equipment with colors above the target and no more than 15 levels higher than yours. Open the box, the highlighted items inside the backpack can be separated
+610	The energy of the Magic Box is going to recover automatically every day before the first two hours online
+611	Using the Macro editor several times can lead to an even quieter combat
+612	You can get bread, medicines, other basic recovery products with the NPC in the main city of the Sanctuary
+613	In the game, all nearby cities have message boxes to check emails
+614	When you temporarily exit the game, you can use the "Goria Bath" to get a large amount of EXP
+615	On the days that you mark presence, you will be able to obtain captivating materials
+616	If you want to always be in contact with a person, then ask the TA to add you to their friends list
+617	Do you want to find players with a level close to yours to play together? Use the circle system to search
+618	Part of the strength of the monsters in the instance zones are based on the average level of the team to make the necessary adjustments
+619	In the instance zones, remember to change for Circular Current or Andromeda Triangular Current in time
+620	Every day, within a time limit, the corresponding event instance zone will be activated, bring a lot of profits, please, organize your time well
+621	In the "Golden Proof", "Atlantis", "Crisis of the Twelve Houses" and other events, the experience gained or lost is in accordance with the level of each player
+622	You can get a certain amount of BUFF bonus along with other players' teams
+623	Astrological protection can only be used within an instance zone, according to the daily horoscope, it can increase the strength of a team within a certain period of time
+624	The team platform can help you to teleport from any location to an entrance of the zone of instance, please, learn how to use it
+625	The degree of activity will be cleaned every day at 6:00 a.m.
+626	Participating in all types of events, you can get «Soul Light» required for use in the improvement
+627	If you think the warehouse is not enough, by charging 1 yuan to become a VIP, you can
+628	After meeting certain requirements in the game, you can receive a grand prize in the options of the Fire Clock of the Twelve Houses
+629	Do you want to know in what ways you can increase your fighting power? Come and use the physical force assessment system!
+630	The power of struggle is considered an imp
+631	When you reach a certain level, you can apply to join or create a legion in the Realm District to overcome the difficulties with other players.
+632	The more friends and the more friendly, the more help the player can provide.
+633	With the quick-travel, you can quickly navigate between different maps
+634	Hold down the ALT drag to separate the stacked items
+635	business card holder can help you remember other people's names without revealing your location
+636	If the equipment is damaged, it needs to be repaired before it can be used.
+637	The GT can help you communicate with your teammates. Please turn on the microphone after entering the team.
+638	When you want to replace a piece of equipment, use the Gathering Transfer function to transfer the perfection of the equipment to the new equipment without any loss.
+639	Mall can buy a variety of value-for-money items!
+640	Using energy bars in a copy can make your battle more efficient.
+641	In the copy, teaming up the team can make your customs clearance more efficient, and will not reduce everyone's rewards
+642	Dropped loot will disappear if not picked up in time
+643	Every time a certain time, the wild boss will be brushed out somewhere in the game. After defeating, you will get a lot of rewards. Go and fight for it.
+644	copies of the production equipment and weekly activities will be refreshed at 6 am every week.
+645	After the team leader clicks on the “Collection Team” button below his avatar, all teammates will be called to automatically find the team leader.
+646	When the main line task level is not enough, you can perform some side tasks and participate in daily activities to upgrade the level.
+647	With the improvement of the rank of the sacred clothing, the player will learn the new fighting spirit skills, and the equipment will take effect in the soul library.
+648	Can't put too much skill? The shortcut skill bar can be expanded up to three levels.
+649	Opening and strengthening the Cosmo of Saint Seiya is one of the ways to quickly improve the character's strength.
+650	If you want to get hard-to-get equipment or precious items, please go to the auctioneer to check.
+651	Reasonable combination of fast running and two-step jumping can make you reach the height that many players can't reach.
+652	Want to save a beautiful picture? Hold ALT+Z to enter the photo mode.
+653	Please open the bars in the special areas, there are no charges
+654	Install PK tool can effectively avoid unnecessary attacks by players within the game.
+655	If you encounter a powerful enemy, other team members can help defeat him.
+656	As the players do not yet reach level 66 and have reached 40000 of fighting power, the armor's wings will appear.
+657	The more friends and close they are, the player helps a lot more!
+658	The wind properties for the Pegasus sign have additional damage 50 %higher than the other constellations
+659	The water properties for the Sign of the Cygnus have an additional 50 %higher damage than the other constellations
+660	The ground properties for the Sign of the Dragon have an additional 50 %higher damage than the other constellations
+661	The electricity properties for the Andromeda sign have an additional 50 %higher damage than the other constellations
+662	The fire properties for the Phoenix sign have an additional 50 %higher damage than the other constellations
+663	After getting the mount, please equip it and in the properties interface look for "saddle" and click.
+664	The moment you're strong enough, you can change the sign
+665	At the moment that the players are surpassing level 66 but they have not yet reached 86 and have a fighting power of 100000 the wings of the armor will appear
+666	The moment the players surpass level 86 and reach 180000 wrestling power, the wings of the armor will appear
+667	After the emergence of the new wing fighting power model; if it does not reach the new model, or low level of ancient wings will remain
+668	When they want to add more players to the team, the captain must click on the button below "Raise team"
+669	When the captain clicks the "Create Team" button below, he can transform the group of players into a team.
+670	GM online will never ask you for your account password or other important information per message.
+671	Using other third-party plugin software will greatly increase the risk of having a stolen account
+672	When you go to buy or change items, please check the price and the correct amount
+673	System options can alter the name and display the chat content
+674	SHIFT + click on the icon of the article to send information of articles in a message of the chat channel
+675	SHIFT + click on the Atlas to send map coordinates in a message of the chat channel
+676	SHIFT + click on the avatar and the coordinates of the NPC to send the information in a message of the chat channel
+677	To send a message to the world it is necessary to have a good speaker as a tool
+678	In the system options menu you can change the keyboard shortcuts, you can open the menu by pressing the ESC key
+679	When you receive a new message, look for the message folder to verify
+680	If you got stuck, please press the ESC key to open the menu and click on the option "It was locked"
+681	If you have not reached 18 years of age, then, after exceeding 3 hours of play, you will be asked to pause.
+682	Please do not believe in any unofficial information that involves the name of the website in the game
+683	Please, do not disclose your account or password so as not to be subject to the loss of these.
+684	Linking the security password can decrease the chances of losing the account.
+685	When you think your game is with "Lag", click on the "Avoid Lag" shortcut in the "Options" menu and the system will be adjusted according to the settings of your computer
+686	My fists can break the sky! My legs can crush the earth! I am a symbol of the Knights of Hope
+687	---- Knights of the Goddess!
+688	Trojan Horse suspicious transformation within the game, please delete the directory of the executable folders before entering the game, it is recommended to use the antivirus software to check.
+689	At the time of the collapse of the Trojan horse's suspicious transformation within the game, please delete the directory of the executable folders before entering the game, it is recommended to use the antivirus software to check.
+690	^fff600 The first Galaxy competition, when the time of entry is over, you can enter the corresponding field with the ticket of the game. When you hold the ticket for the game, you can enter the stadium to watch the game. The ticket is in the 6W world BOSS treasure chest. Randomly dropped \r each party up to 18 people to participate in the battle, each game can accommodate up to 80 people to watch the battle, after full staff can not enter
+691	CritRate +%.0f%%
+692	CritNull +%.0f%%
+693	Lucky Hit rate +%.0f%%
+694	Health +%.0f%%
+695	Earth attack +%.0f%%
+696	Water attack +%.0f%%
+697	Fire attack +%.0f%%
+698	Air attack +%.0f%%
+699	Min Attack Power +%.0f%%
+700	Max Attack Power +%.0f%%
+701	Defense +%.0f%%
+702	CritBonus +%.0f%%
+703	CritShield +%.0f%%
+704	Attack Power +%.0f%%
+705	Block +%.0f%%
+706	Armor Breaker +%.0f%%
+707	Thunder attack +%.0f%%
+708	All RESistances +%d
+709	All RESistances reduction +%d
+710	All elements attack +%.0f%%

@@ -1,0 +1,720 @@
+0	Army benefit will be released in 10 minutes. Members of the Army return to the base to receive it.
+1	Army benefit will be released in 5 minutes. Members of the Army return to the base to receive it.
+2	Army benefit will be released in 3 minutes. Members of the Army return to the base to receive it.
+3	Army benefit will be released in 1 minute. Members of the Army return to the base to receive it.
+4	The benefit of the Army is liberated!
+5	The benefit of the Army this week is over. We appreciate the participation of the members. The higher the level of the Army Base, the greater the benefit. We have the participation of all in the construction of his Army.
+6	The current level of the Army Hall is: %d --- No. 11 Reputation
+7	The maintenance of the current base of the Army has not yet been made --- No. 12 Reputation %d
+8	It was made to maintain the current Army base --- No. 12 Reputation %d
+9	Total resource that was withdrawn that week: %d --- No. 5 Reputation
+10	Capital %d
+11	Food %d
+12	Wood %d
+13	Mineral %d
+14	Completed the definition of the Classification Reputation
+15	Start
+16	Damn, %d seconds of wrestling and just hit %d
+17	$noname has already %d enemies inside the Sanctuary! Attack them, fast!
+18	$noname, if more than 10 enemies enter, we will be in trouble!
+19	$noname, you already have %d enemies inside the Sanctuary!
+20	$noname, Shina: allowed many enemies to enter the Sanctuary. You disappointed me
+21	$noname Shina: Do not think so much! Block the Wraith that is getting there!
+22	Black Dragon Wave!
+23	Black Dragon Scout!
+24	I will not let them go one step further!
+25	Combo of Black Kicks!
+26	The earth will tremble because of my attack and you will be swallowed up by the earth!
+27	Bird Phoenix!
+28	Phantom Fist of the Phoenix!
+29	$noname The water that comes out of the statue of Athena can purify the curse of transformation
+30	$noname The statue of Athena emits a light, Gemini of the previous resurrected generation will not be able to move under that light
+31	Slow down!
+32	Sudden Attack!
+33	Bleed!
+34	I'll curse them after ~~ of my death ~~
+35	A pleasure to see them? So ... What kind of death do you prefer?
+36	I must attack in another angle, who will be the weak point so I can move forward?
+37	Vestige of the Phoenix
+38	Skill 1
+39	Skill 2
+40	Suicide
+41	Common attack
+42	Skill 1
+43	Ability 1
+44	5 seconds of a big wave: %d
+45	Mortal Arrows!
+46	Sudden rain of arrows!
+47	Quick Hunt!
+48	You will not escape ~~
+49	Nobody escapes from my Arrow of Persecution, no matter how fast!
+50	Hunting Arrow!
+51	Common attack
+52	Skill 1
+53	Skill 1
+54	Skill 3
+55	Common attack
+56	Ability 1
+57	Ability 2
+58	Common attack
+59	Skill 1
+60	Skill 2
+61	Common attack
+62	Skill 1
+63	Ability 2
+64	Common attack
+65	Skill 1
+66	Ability 2
+67	Common attack
+68	Skill 1
+69	Ability 2
+70	Star Revolution
+71	Star Traction
+72	Crystal Wall
+73	Load Star Extinction
+74	Star Extinction
+75	Live
+76	The Control NPC was born
+77	Attention! Attention! Someone came in and left the area!
+78	Player: %d entered the BUFF zone!
+79	Player: %d outside the BUFF zone!
+80	There are currently %d players in the BUFF zone!
+81	Flames of Jango
+82	$nobubble${lev(50-200)}$noname$UImid ${npc(%d)} appeared in ${line (6, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+83	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+84	$nobubble$noname$UImid${name(%s)} showed his power and killed the world BOSS ${npc(%d)}!
+85	${name(%s)}, Test the power of my Curse of the Flames!
+86	Without target!
+87	$noname Shion: When closing a mechanism, the status of the other, which is connected to it, will change ... I believe that with their wisdom, they can deactivate all mechanisms
+88	$noname Shion: there in front is the magic circle with mechanisms that cause the Illusion of the Celestial World! Disable those mechanisms to eliminate the magic circle!
+89	Nachi de Lobo
+90	$nobubble${lev(30-200)}$noname$UImid ${npc(%d)} appeared in ${line (4, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+91	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+92	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+93	Alma de Ley-hu
+94	$nobubble${lev(35-200)}$noname$UImid ${npc(%d)} appeared in ${line (3, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+95	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+96	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+97	Hahaha, I'm going to show you my special ability that I learned around the world! Tiger Roar!
+98	Hunf, side of the weak! Everyone will fall! I'm going to rest a little, then ......
+99	Shadow of Saga
+100	$nobubble${lev(40-200)}$noname$UImid ${npc(%d)} appeared in ${line (5, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+101	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+102	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+103	Kraken - Isaac
+104	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (7, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+105	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+106	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+107	${name(%s)}
+108	General - Dragon of the Sea
+109	$nobubble${lev(70-200)}$noname$UImid ${npc(%d)} appeared in ${line (8, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+110	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+111	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+112	Cold Storm
+113	God of the dream - Hypnos
+114	$nobubble${lev(80-200)}$noname$UImid ${npc(%d)} appeared in ${line (9, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+115	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+116	$nobubble$noname$UImid${name(%s)} showed his power and killed the world BOSS ${npc(%d)}!
+117	Celestial Star of Ferocity - Radamantis
+118	$nobubble${lev(90-200)}$noname$UImid ${npc(%d)} appeared in ${line (10, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+119	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+120	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+121	God of the Dream - Oneiros
+122	$nobubble${lev(50-200)}$noname$UImid ${npc(%d)} appeared in ${line (6, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+123	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+124	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+125	Oh, show up, my servants! These insignificants who dare to go against my will. I grant you the right to kill them!
+126	Cursed, how dare you kill my servants? Prepare to endure the wrath of the God of Sleep!
+127	Emperor of the Seas- Poseidon
+128	$nobubble${lev(70-200)}$noname$UImid ${npc(%d)} appeared in ${line (8, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+129	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+130	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+131	Queen of the Underworld - Persephone
+132	$nobubble${lev(90-200)}$noname$UImid ${npc(%d)} appeared in ${line (10, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+133	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+134	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+135	$nobubble${lev(90-200)}$noname$UImid ${npc(%d)} appeared in ${line (6, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+136	$nobubble$noname$UImid ${league ( %s)} of the Army ${name(%s)} It's in our base picking up the Treasure Box of Time! ( %d, %d)
+137	¡$nobubble$noname$UImid ${league ( %s)} The Army ${name(%s)} successfully ${league ( %s)} led the Treasury Fund of the Army Base and obtained a lot of Gold!
+138	$nobubble$noname$UImid ${league ( %s)} The Army ${name(%s)} appeared in Base ( %d, %d), and is doing something secretly!
+139	Mini Saori
+140	Mini Seiya
+141	Mini Hyoga
+142	Mini Shiryu
+143	Mini Ban
+144	The competition is about to start! Quickly choose your competitor!
+145	%s remained in %d º place!
+146	All the competitors reached the final stage!
+147	Follow the result of the competition:
+148	%d º place: %s!
+149	Congratulations to the players who won prizes! Please, receive your rewards as soon as possible. Now the competitors need a break.
+150	Start of the competition! Please, players who made a bet, do not move away, but they will not receive the prize!
+151	The competition is about to start! Quickly choose your competitor!
+152	Something is wrong, I'll see how the competitors are
+153	Mini Saori in %d º place!
+154	Mini Seiya in %d º place!
+155	Mini Hyoga in %th place!
+156	Mini Shiryu in %d º place!
+157	Mini Ban in %d º place!
+158	%s place!
+159	Dimensional Explosion!
+160	Fist of Illusion!
+161	I'm going to send them to hyper-dimension, so they never come back!
+162	I am Guardian of the House of Gemini, you will never pass through here!
+163	Losing one's blood
+164	Fist of Illusion!
+165	Explosion of Galaxies!
+166	Dimensional Explosion!
+167	Teleport the Player!
+168	They will die here and they will not be able to come back ~
+169	What a pity, they are not strong enough yet!
+170	Lightning Bolt!
+171	Plasma Lightning!
+172	Storm of Lightning!
+173	Exit the fight status to place buff
+174	Exit fight status to remove buff
+175	Play Animation of the Invincible status
+176	I recognize your courage, come on! Young Knights
+177	People without value, do not go through the House of Leo
+178	You still can not beat me!
+179	$nochat, take this! Voltage Lightning
+180	I can be even faster, are we going to see how long they will last?
+181	$nochat Lightning Bolt!
+182	$nochat Storm of Lightning!
+183	Blue Team Room
+184	Blue Equipment Store
+185	Mobile Stores of the Blue Team
+186	Blue Team Practice Field
+187	Blue Team Workshop
+188	Blue Team Altar
+189	Miracle of the Blue Team
+190	Door on the right side of the Blue Team
+191	Central Door of the Blue Team
+192	Door on the left side of the Blue Team
+193	Blue Team Leader
+194	Red Team Room
+195	Red Equipment Store
+196	Red Team Mobile Store
+197	Red Team Practice Field
+198	Red Team Workshop
+199	Altar of the Red Team
+200	Miracle of the Red Team
+201	Door on the right side of the Red Team
+202	Central Door of the Red Team
+203	Left side door of the Red Team
+204	Red Team Leader
+205	Rebirth
+206	Suffering attack
+207	Destroyed
+208	$noname$UImidEquipo Azul controls the Central Teleportation Point
+209	$noname$UImidEquipo Azul activated the War Carrier Teleportation Portal
+210	$noname$UImidEquipo Rojo controlled the Central Teleportation Point
+211	$noname$UImidEquipo Rojo activated the War Carrier Teleportation Portal
+212	$noname$UImidDappeared the recovery status of the Blue Team leader
+213	$noname$UImidDappeared the attack status of the Blue Team leader
+214	$noname$UImidDappeared the defense status of the Blue Team leader
+215	$noname$UImidDappeared the recovery status of the Red Team leader
+216	$noname$UImidDappeared the attack status of the Red Team leader
+217	$noname$UImidDappeared the defense status of the Red Team leader
+218	$UImid $noname Team Blue can now produce War Truck
+219	$UImid $noname Team Blue can now produce Tower Talisman
+220	$UImid $noname Team Red can now produce War Truck
+221	$UImid $noname Red Team can now produce Tower Talisman
+222	$UImid $noname Team Blue can not produce the War Truck anymore
+223	$UImid $noname Blue Team can not produce the Talisman of the Tower anymore
+224	$UImid $noname Team Red can not produce more War Truck
+225	$UImid $noname Team Red can no longer produce the Talisman of the Tower
+226	$UImid $noname Basic Situation of the Blue Team:
+227	$UImid $noname Basic Situation of the Red Team
+228	$UImid $noname Team Blue War Truck: Lightweight %d; Heavy %d; Total %d / %d
+229	$UImid $noname Team Red War Truck: Light %d; Heavy %d; Total %d %d
+230	$UImid $noname The Monster of General Control of the Qualifiers was born
+231	$UImid $noname Initialization completed, the competition is about to begin!
+232	$UImid $noname Reputation
+233	$UImid $noname Amount
+234	$noname$UImidLa competition will begin officily after %d seconds
+235	Officially start after X seconds
+236	$noname$UImid! The competition officially began! Duration time is 1 hour
+237	$noname$UImid Who kills the leader of the opposing team first, located within the base, can win the competition.
+238	Do I hear that beautiful song of death?
+239	They will resist this symphony of death ~
+240	Infernal Melody!
+241	Create Birth Timer 1 second
+242	Time has run out
+243	Crystal Sword
+244	Celestial Union
+245	Lightning Shock
+246	Lightning Shock
+247	Two-Headed Dragon Flames
+248	Two-Headed Dragon Frost
+249	Furious Dance of Tiamat
+250	Ink Jet
+251	Displacement
+252	Curse of the Nibelungs
+253	Lance of the Frost
+254	Thunder Spear
+255	Spear of the Aurora ascended to the celestial world
+256	Spear of the Aurora radiating
+257	$UImid $noname Irradiation countdown of the Spear of the Aurora: %d seconds
+258	Seconds
+259	String Fist
+260	Illusion Strings
+261	Strings of the Massacre
+262	Strings of the Moon
+263	Strings of the Symphony of Death
+264	$noname$UImidQuantity of activated stamp: %d / 5
+265	Queen Bee
+266	Vampire Bat
+267	Polar Bear
+268	Eagle
+269	​​Wolf
+270	Giant Cobra
+271	Sting of the Queen Bee
+272	Vampire Attack
+273	Fury of the Polar Bear
+274	Powerful Eagle
+275	Wolf's Fangs
+276	Fangs of the Giant Cobra
+277	Dispersion status
+278	No! That's impossible!
+279	Wings of Ice
+280	Coffin of the Aurora
+281	Aurora execution
+282	Ice Tornado
+283	$noname$UImidThe Diamond Dust of Camus made it snow inside the Aquarium House
+284	$noname$UImidThe snow is getting stronger and the temperature inside the Aquarium House is decreasing
+285	$noname$UImidLa Snowstorm overshadowed vision and members are numb, losing consciousness
+286	$noname$UImid Under a low temperature, movement and defense of people decrease
+287	Restriction
+288	Load Scarlet Needle
+289	Scarlet Needle Piercing
+290	Antares
+291	Summon Blood Scorpio LV1
+292	Summon Blood Scorpio LV2
+293	Summon Blood Scorpio LV3
+294	Recover HP
+295	Scarlet Needle Dispersion
+296	Last attack - Scarlet Needle!
+297	$UImid $noname Miro is about to release Scarlet Needle, it is better to have more people to split the attack!
+298	$UImid $noname When the "Scarlet Needle" suffered is greater than %d layers, Miro will release its fatal attack!
+299	layers, Miró will release his fatal attack!
+300	$noname$UImid ${league ( %s)} The Miracle Center ${league ( %s)} of the Army ${name(%s)} was totally destroyed by the powerful attack!
+301	$noname$UImid ^e12500 ${league ( %s)} The Miracle Center ${league ( %s)} of the Army ${name(%s)} was totally destroyed by the powerful attack!
+302	$noname$UImid ${league ( %s)} The Army ${name(%s)} burned the Cosmo and totally destroyed ${league ( %s)} the Army Miracle Center!
+303	$noname$UImid ^e12500 ${league ( %s)} The Army ${name(%s)} burned the Cosmo and totally destroyed ${league ( %s)} the Army Miracle Center!
+304	$noname$UImid ${league ( %s)} Army lost ${league ( %s)} Army, ${league ( %s)} Army ${name(%s)} completely destroyed ${league ( %s)} the Army Miracle Center!
+305	$noname$UImid ^e12500 ${league ( %s)} The Army lost ${league ( %s)} Army, ${league ( %s)} of the Army ${name(%s)} totally destroyed ${league ( %s)} the Army Miracle Center!
+306	$noname$UImid ${league ( %s)} The Army is ${name(%s)} under the leadership, has joined forces, ${league ( %s)} and completely destroyed the Miracle Center from army!
+307	$noname$UImid ^e12500 ${league ( %s)} The Army is ${name(%s)} under the leadership, which has joined forces, ${league ( %s)} and totally destroyed the Center of Miracle of the Army!
+308	$noname$UImid ${league ( %s)} Army ${name(%s)} made the miracle of the Army to enter the fight!
+309	$noname$UImid ${league ( %s)} The Army ${name(%s)} is attacking with all its might and the Army Miracle is already a little damaged.
+310	$noname$UImid ${league ( %s)} The Army ${name(%s)} is determined and the Army Miracle is already damaged, request support immediately!
+311	$noname$UImid ${league ( %s)} The Army ${name(%s)} is showing all its power and the Army Miracle hangs in the balance, request support immediately!
+312	$noname$UImid ${league ( %s)} The Army ${name(%s)} is all powerful and the Army Miracle is very destroyed, request support immediately!
+313	$noname$UImid ${league ( %s)} The Army ${name(%s)} burned the Cosmo and the Army Miracle will be destroyed shortly, request support immediately!
+314	$noname$UImid ^ff0000 ${league ( %s)} The Miracle of the Army was challenged, entering the status of the Miracle Challenge! The status of the Miracle Challenge lasts 1 hour!
+315	$noname$UImid ^ff0000 ${league ( %s)} All members of the Army joined forces, successfully defended the Miracle during the challenge status! It's a Royal Army that dominates the server!
+316	Cycle of the Six Stocks
+317	Treasure of Heaven
+318	Hearing Deprivation
+319	Deprivation of Smell
+320	Deprivation of Touch
+321	Deprivation of the palate
+322	Deprivation of Vision
+323	Activate QTE
+324	Third Eye
+325	Displacement
+326	Blessing of the Darkness
+327	Blessing of the Darkness_Invocation of the Individual Instant Release
+328	Invocation of the Spirits
+329	Treasure of Persecution
+330	Circular Treasure
+331	Skill blocked
+332	Attack of the Crossbow!
+333	I do not play with you anymore ~
+334	Haha ~~ see you later ~~
+335	My level is:
+336	Table of Drops:
+337	I do not play with you anymore ~
+338	Haha ~~ see you later ~~
+339	$noname Bado: these Knights of evil are terrible, my brother ~~
+340	$noname Shido: it's true, brother ~~
+341	$noname Bado: but what weaker Knights, brother ~~
+342	$noname Shido: it's true, brother ~~
+343	Real Diabolical Roses!
+344	Piranha Roses!
+345	Bloody Rose!
+346	Toxic Black Roses!
+347	I like roses!
+348	Roses do not wither, eternal beauty will blossom
+349	What a beautiful rose! Die with your beauty!
+350	Death is also beautiful, enjoy that feeling!
+351	Roses stained with blood! They are so beautiful!
+352	White roses that bloom in the blood. They must be very pretty
+353	I'm going to make them die in the fragrance of roses!
+354	$noname$UImidThe first Knight of level 30 has already appeared. End of the Iron Age. Knights, get together to build the Bronze Age!
+355	$noname$UImidThe first Army was created. The server entered the Bronze Age, officially.
+356	$noname$UImidThe Soul of the resentful Emperor of the Seas tried to invade the Sanctuary and was imprisoned by Athena. After expelling it, the servant will enter the Silver Age.
+357	$noname$UImidThe Soul of the resentful Emperor of the Seas was expelled. The servant entered the Silver Age, releasing level 79 and the Episode of the Underwater World.
+358	$noname$UImid108 The Malignant Stars have already awakened and the God of the Dream is in the Sanctuary. Knights defeat Hypnos and protect Athena!
+359	$noname$UImidThe first attack of the Underworld was prevented.The server entered the Golden Age, releasing level 89 and the Episode of Hades (previous chapter).
+360	$noname$UImidWhen the legendary Great Eclipse arises, the world will be covered by darkness forever. Knights, open the Portal of the Underworld! Only after a long night will it dawn.
+361	$noname$UImidEternal darkness is approaching. The servant will enter the Age of Darkness, releasing level 99 and Episode of Hades (next chapter).
+362	$noname$UImidAtenea entered the Underworld to go to Hades. Knights, open the Path to the Underworld! Athena needs your protection!
+363	$noname$UImidThe Underworld Portal is open! The server is preparing for the opening of the Assassin of Gods, releasing level 100 and the Episode of Hades.
+364	$noname$UImidThe Great Eclipse has already begun. Knights, go beyond Pandora's restriction, destroy the Wailing Wall and enter the Champs de Elysees, returning light to Earth!
+365	$noname$UImidThe Wailing Wall was destroyed. Activated the Hades Bitterness Event, releasing level 10 of the Concentrated Practice and the Episode of Fields of Elysees
+366	$noname$UImidNumber of ore collected.
+367	Crystal Wall
+368	Star Revolution
+369	Star Extinction
+370	Illusive fragrance
+371	Illusive Colony
+372	Fragrance Dispersion
+373	Ugliness eruption
+374	Butterfly Spear
+375	Imperial Dream
+376	Life Lamp
+377	Attack of Butterflies of the Underworld
+378	Arrow of Justice
+379	Arrow of Punishment
+380	They're still not strong enough, come and challenge me when they're ready
+381	They're still not strong enough, come and challenge me when they're ready
+382	They're still not strong enough, come and challenge me when they're ready
+383	They're still not strong enough, come and challenge me when they're ready
+384	Frost Fist!
+385	Flame Fist!
+386	Severe Frost Fist!
+387	Fiery Flame Fist!
+388	They are not strong enough!
+389	Young Knights like you are good to enter my collection!
+390	They will not leave this ice castle ~~
+391	It will become a sculpture of live ice!
+392	I already have enough collection, you only serve to be burned!
+393	Wolf Fist!
+394	Wolf attack!
+395	Poisonous Bite!
+396	Wolf Hunt!
+397	They are not strong enough!
+398	Spirit of Wolves ~~ will not dissipate ~~
+399	In the eyes of the arctic wolves, they are fresh roving meat!
+400	Cut of the Crystal Sword!
+401	They are not strong enough!
+402	They have met through my illusion ~~
+403	Mysteries of illusion, strength of the Crystal Sword!
+404	Mortal Illusion! Crystal Circle!
+405	Cut of the Crystal Sword!
+406	Tiger's Fist!
+407	Change of position!
+408	I want to take revenge for my brother!
+409	They are not strong enough!
+410	$noname Shido: Servants of Athena, we will bury them here, in this land of ice!
+411	$noname Bado: Dear brother, let me be ahead to protect you in this battle!
+412	Healing Waves!
+413	Earthquake Clearance!
+414	Ice Beam!
+415	Change shape!
+416	I want to take revenge for my brother!
+417	They are not strong enough!
+418	^FF7F00Isla Negra ^N
+419	^FF7F00Isla Brillante ^N
+420	^FF7F00Isla of the Star ^N
+421	^FF7F00Chaos ^^N
+422	$UImid $noname ^3A5FCDThe Blue Team ^N activated the Crystal of %s!
+423	$UImid $noname ^FF0000Red Team ^N activated the Crystal of %s!
+424	$UImid $noname ^3A5FCD Blue Team ^N Sneaked the Crystal of %s!
+425	$UImid $noname ^FF0000Red Team ^N stealthily attacked the Crystal of %s!
+426	$UImid $noname ^3A5FCDThe Blue Team ^N recovered the Crystal from %s!
+427	$UImid $noname ^FF0000Red Team ^N recovered the Crystal of %s!
+428	$UImid $noname ^FF0000 Red Team ^N stealthily attacked the Crystal of %s!
+429	$UImid $noname ^3A5FCD¡Equipo Azul ^N He sneaked the Crystal of %s!
+430	$UImid $noname ^3A5FCD¡ Blue team ^N domino %s!
+431	$UImid $noname ^FF0000Red Team ^N domino %s!
+432	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Isla Negra ^N!
+433	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Isla Brillante ^N!
+434	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Isla of the Star ^N!
+435	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Isla of Chaos ^N!
+436	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Isla Negra ^N!
+437	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Isla Brillante ^N!
+438	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Isla of the Star ^N!
+439	$UImid $noname ^FF0000 Red Team ^N dominated the Crystal of the ^FF7F00Isla of Chaos ^N!
+440	$UImid $noname ^3A5FCDThe Blue Team ^N recovered the Crystal from the ^FF7F00Isla Negra ^N!
+441	$UImid $noname ^3A5FCDThe Blue Team ^N recovered the Crystal from the ^FF7F00Isla Brillante ^N!
+442	$UImid $noname ^3A5FCDThe Blue Team ^N recovered the Crystal from the ^FF7F00Isla of the Stars ^N!
+443	$UImid $noname ^3A5FCDThe Blue Team ^N recovered the Crystal from the ^FF7F00 Chaos Island ^N!
+444	$UImid $noname ^FF0000Red Team ^N recovered the Crystal from the ^FF7F00Isla Negra ^N!
+445	$UImid $noname ^FF0000Red Team ^N recovered the Crystal from the ^FF7F00Isla Brillante ^N!
+446	$UImid $noname ^FF0000Red Team ^N recovered the Crystal from the ^FF7F00Isla of the Stars ^N!
+447	$UImid $noname ^FF0000Red Team ^N recovered the Crystal from the ^FF7F00Isla of Chaos ^N!
+448	They are still not strong enough, come and challenge me when they are ready
+449	They're still not strong enough, come and challenge me when they're ready
+450	They are still not strong enough, come and challenge me when they are ready
+451	They are still not strong enough, come and challenge me when they are ready
+452	$UImid $noname Enchantment of Red Team Defense disappeared
+453	$UImid $noname Enchantment of Blue Team Defense disappeared
+454	$UImid $noname %d more minutes to start the Galactic Tournament Competition
+455	
+456	$UImid $noname Start the Galactic Tournament Competition!
+457	$UImid $noname End of the Galactic Tournament Competition! Congratulations to the defense team that won
+458	$UImid $noname One more minute for the end of the Galactic Tournament Competition
+459	$UImid $noname Cristal Core of the Red Team was destroyed, Blue Team victory
+460	$UImid $noname Crystal Red Team Defense was destroyed
+461	$UImid $noname Energy Crystal Red Team was destroyed
+462	$UImid $noname Cristal Core of the Blue Team was destroyed, Red Team victory
+463	$UImid $noname Blue Team Defense Crystal was destroyed
+464	$UImid $noname Blue Team Energy Crystal was destroyed
+465	$UImid $noname Red Team wore the Crystal of Time, the cracks of time appeared at the base of the Red Team
+466	$UImid $noname Blue Team wore the Crystal of Time, the cracks of time will appear at the base of the Blue Team
+467	$noname$UImid ^e12500Line 1, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 1, please look for the Entrance Emissary of the Line 1 Competition to enter the field!
+468	$noname$UImid ^e12500Line 2, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 2, please look for the Entrance Emissary of the Line 2 Competition to enter the field!
+469	$noname$UImid ^e12500Line 3, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 3, please look for the Entrance Emissary of the Line 3 Competition to enter the field!
+470	$noname$UImid ^e12500Line 4, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 4, please look for the Entrance Emissary of the Line 4 Competition to enter the field!
+471	$noname$UImid ^e12500Line 5, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 5, please look for the Entrance Emissary of the Line 5 Competition to enter the field!
+472	$noname$UImid ^e12500Line 6, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 6, please look for the Entrance Emissary of the Line 6 Competition to enter the field!
+473	$noname$UImid ^e12500Line 7, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 7, please look for the Entrance Emissary of the Line 7 Competition to enter the field!
+474	$noname$UImid ^e12500Line 8, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 8, please look for the Entry Emissary of the Line 8 Competition to enter the field!
+475	$noname$UImid ^e12500Line 9, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 9, please look for the Entrance Emissary of the Line 9 Competition to enter the field!
+476	$noname$UImid ^e12500Line 10, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 10, please look for the Entrance Emissary of the Line 10 Competition to enter the field!
+477	$noname$UImid ^e12500Line 11, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 11, please look for the Entrance Emissary of the Line 11 Competition to enter the field!
+478	$noname$UImid ^e12500Line 12, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 12, please look for the Entrance Emissary of the Line 12 Competition to enter the field!
+479	$noname$UImid ^e12500Line 13, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 13, please look for the Entrance Emissary of the Line 13 Competition to enter the field!
+480	$noname$UImid ^e12500Line 14, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 14, please look for the Entrance Emissary of the Competition on Line 14 to enter the field!
+481	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 15, please look for the Entrance Emissary of the Line 15 Competition to enter the field!
+482	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 1, please look for the Entrance Emissary of the Line 15 Competition to enter the field!
+483	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 2! Members of the Army that are going to battle on Line 2, please come and receive your Ticket!
+484	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 3! Members of the Army who are going to battle on Line 3, please come and receive your Ticket!
+485	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 4! Members of the Army who are going to battle on Line 4, please come and receive your Ticket!
+486	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 5! Members of the Army who are going to battle on Line 5, please come and receive your Ticket!
+487	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 6! Members of the Army who are going to battle on Line 6, please come and receive your Ticket!
+488	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 7! Members of the Army who are going to battle on Line 7, please come and receive your Ticket!
+489	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 8! Members of the Army who are going to battle on Line 8, please come and receive your Ticket!
+490	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 9! Members of the Army who are going to battle on Line 9, please come and receive your Ticket!
+491	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 10! Members of the Army who are going to battle on Line 10, please come and receive your Ticket!
+492	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 11! Members of the Army that are going to battle on Line 11, please come and receive your Ticket!
+493	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 12! Members of the Army who are going to battle on Line 12, please come and receive your Ticket!
+494	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 13! Members of the Army who are going to battle on Line 13, please come and receive your Ticket!
+495	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 14! Members of the Army who are going to battle on Line 14, please come and receive your Ticket!
+496	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 15! Members of the Army who are going to battle on Line 15, please, come and receive your Ticket!
+497	^FF7F00Northwest Domain Point ^N
+498	^FF7F00Northeast Domain Point ^N
+499	^FF7F00Southwest Domain Point ^N
+500	^FF7F00Southwest Domain Point ^N
+501	^FF7F00Central Domain Point ^N
+502	$noname$UImidBaught battle, end of the fight
+503	$noname$UImidVictoria of the Blue Team! The fight ended, representative of the winning team, please go to the starting point to withdraw the Victoria certificate!
+504	$noname$UImidVictoria of the Red Team! The fight ended, representative of the winning team, please go to the starting point to withdraw the Victoria certificate!
+505	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Northwest Domain Point ^N!
+506	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of ^FF7F00Northeast Domain Point ^N!
+507	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Southwest Domain Point ^N!
+508	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of ^FF7F00Southwest Domain Point ^N!
+509	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Central Domain Point ^N!
+510	$UImid $noname ^3A5FCDRed Team ^N dominated the Crystal of ^FF7F00Northwest Domain Point ^N!
+511	$UImid $noname ^3A5FCDRed Team ^N dominated the Crystal of ^FF7F00Northeast Domain Point ^N!
+512	$UImid $noname ^3A5FCDR Red Team ^N dominated the Crystal of ^FF7F00Southwest Domain Point ^N!
+513	$UImid $noname ^3A5FCDRed Team ^N dominated the Crystal of ^FF7F00Southwest Domain Point ^N!
+514	$UImid $noname ^3A5FCDRed Team ^N dominated the Crystal of ^FF7F00Central Domain Point ^N!
+515	One more punch!
+516	One more punch!
+517	$noname$UImidThe Center Crystal is already released, the team that collects it first, will get the victory!
+518	$noname$UImidVictoria Blue Team! Fight finished!
+519	$noname$UImidVictoria Red Team! Fight finished!
+520	$noname$UImidLucha tied! Fight finished! Fight finished!
+521	$noname$UImidLight started!
+522	$noname$UImid ^e12500Line 1, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 1, please look for the Emissary of the entry of the Competition of Line 1 · Main City of the Multiserver to enter the field!
+523	$noname$UImid ^e12500Line 2, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 2, please look for the Emissary of the Entrance of the Competition of Line 2 · Main City of the Multiserver to enter the field!
+524	$noname$UImid ^e12500Line 3, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 3, please look for the Emissary of the Entrance of the Competition of Line 3 · Main City of the Multiserver to enter the field!
+525	$noname$UImid ^e12500Line 4, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 4, please look for the Emissary of the Entrance of the Competition of Line 4 · Main City of the Multiserver to enter the field!
+526	$noname$UImid ^e12500Line 5, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 5, please look for the Emissary of the Entrance of the Competition of Line 5 · Main City of the Multiserver to enter the field!
+527	$noname$UImid ^e12500Line 6, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 6, please look for the Emissary of the Entrance of the Competition of Line 6 · Main City of the Multiserver to enter the field!
+528	$noname$UImid ^e12500Line 7, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 7, please look for the Emissary of the Entrance of the Competition of Line 7 · Main City of the Multiserver to enter the field!
+529	$noname$UImid ^e12500Line 8, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 8, please look for the Emissary of the Entrance of the Competition of Line 8 · Main City of the Multiserver to enter the field!
+530	$noname$UImid ^e12500Line 9, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 9, please look for the Entrance Emissary of the Line 9 Competition · Main Multiserver City to enter the field!
+531	$noname$UImid ^e12500Line 10, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 10, please look for the Emissary of the Entrance of the Competition of Line 10 · Main City of the Multiserver to enter the field!
+532	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 11, please look for the Emissary of the Entrance of the Competition of Line 11 · Main City of the Multiserver to enter the field!
+533	$noname$UImid ^e12500Line 12, entrance released! The battle will start after 5 minutes! Armies that are going to battle on Line 12, please look for the Emissary of the Entrance of the Competition of Line 12 · Main City of the Multiserver to enter the field!
+534	$noname$UImid ^e12500Line 13, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 13, please look for the Emissary of the Entrance of the Competition of Line 13 · Main City of the Multiserver to enter the field!
+535	$noname$UImid ^e12500Line 14, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 14, please look for the Entrance Emissary of the Competition of Line 14 · Main City of the Multiserver to enter the field!
+536	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 15, please look for the Emissary of the Entrance of the Competition of Line 15 · Main City of the Multiserver to enter the field!
+537	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 1, please look for the Emissary of the Entrance of the Competition of Line 1 · Main City of the Multiserver to enter the field!
+538	$noname$UImid ^e12500The box office of the competitions appeared on Line 2 · Main City of the Multiserver! Members of the Group that are going to battle on Line 2, please come and receive your Ticket!
+539	$noname$UImid ^e12500The box office of the competitions appeared on Line 3 · Main City of the Multiserver! Members of the Group that are going to battle on Line 3, please come and receive your Ticket!
+540	$noname$UImid ^e12500The box office of the competitions appeared on Line 4 · Main City of the Multiserver! Members of the Group that are going to battle on Line 4, please, come and receive your Ticket!
+541	$noname$UImid ^e12500The box office of the competitions appeared on Line 5 · Main City of the Multiserver! Members of the Group that are going to battle on Line 5, please come and receive your Ticket!
+542	$noname$UImid ^e12500The ticket office of the competitions appeared on Line 6 · Main City of the Multiserver! Members of the Group that are going to battle on Line 6, please, come and receive your Ticket!
+543	$noname$UImid ^e12500The box office of the competitions appeared on Line 7 · Main City of the Multiserver! Members of the Group that are going to battle on Line 7, please come and receive your Ticket!
+544	$noname$UImid ^e12500The box office of the competitions appeared on Line 8 · Main City of the Multiserver! Members of the Group that are going to battle on Line 8, please come and receive your Ticket!
+545	$noname$UImid ^e12500The box office of the competitions appeared on Line 9 · Main City of the Multiserver! Members of the Group that are going to battle on Line 9, please come and receive your Ticket!
+546	$noname$UImid ^e12500The box office of the competitions appeared on Line 10 · Main City of the Multiserver! Members of the Group that are going to battle on Line 10, please come and receive your Ticket!
+547	$noname$UImid ^e12500The box office of the competitions appeared on Line 11 · Main Multiserver City! Members of the Group that are going to battle on Line 11, please come and receive your Ticket!
+548	$noname$UImid ^e12500The box office of the competitions appeared on Line 12 · Main City of Multiserver! Members of the Group that are going to battle on Line 12, please, come and receive your Ticket!
+549	$noname$UImid ^e12500The box office of the competitions appeared on Line 13 · Main Multiserver City! Members of the Group that are going to battle on Line 13, please come and receive your Ticket!
+550	$noname$UImid ^e12500The box office of the competitions appeared on Line 14 · Main Multiserver City! Members of the Group that are going to battle on Line 14, please come and receive your Ticket!
+551	$noname$UImid ^e12500The box office of the competitions appeared on Line 15 · Main Multiserver City! Members of the Group that are going to battle on Line 15, please, come and receive your Ticket!
+552	For Athena!
+553	The promise to protect the Goddess until death ~~ I have fulfilled ~~
+554	By Poseidon!
+555	Immortal determination of the sea ~~
+556	By Hades!
+557	The darkness would cover the Earth in the end ~~
+558	Llama ~~ Burning ~~ Life ~~
+559	Call ~~ No ~~ Extinguish ~~
+560	I'm going to crush them!
+561	That's impossible ~~
+562	Deadly, do not think about overcoming the powers of God!
+563	He became a ~~ Assassin of Gods ~~
+564	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line ( %d, %d)} ( %d, %d), brave warriors, go there and accept the challenge!
+565	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+566	$nobubble$noname$UImid${name(%s)} showed his power and killed the world BOSS ${npc(%d)}!
+567	The corresponding Boss was not found
+568	Glory of the Goddess illuminates the Earth
+569	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line ( %d, %d)} ( %d, %d). Brave warriors of the Faction of the Sanctuary, go protect it!
+570	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+571	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+572	$nobubble$noname$UImid A player from the Sanctuary Faction successfully defended ${npc(%d)} and everyone is encouraged! For 3 minutes, players of the rival faction will not be able to approach the Treasure area of ​​the Athena Statue.
+573	The Ocean will sweep the world
+574	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line ( %d, %d)} ( %d, %d). Brave warriors of the Poseidon Faction, go protect her!
+575	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+576	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+577	$nobubble$noname$UImid A player of the Poseidon Faction defended ${npc(%d)} and everyone is encouraged! For 3 minutes, players from the opposing faction will not be able to approach the Treasure area of ​​the Poseidon Statue.
+578	Darkness would cover the Earth finally
+579	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line ( %d, %d)} ( %d, %d). Brave warriors of the Faction of Hades, go protect her!
+580	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
+581	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
+582	$nobubble$noname$UImid A player from the Hades Faction defended ${npc(%d)} and everyone is encouraged! For 3 minutes, players from the opposing faction will not be able to approach from the Treasure area of ​​the Hades Statue.
+583	The corresponding Boss was not found
+584	Divine punishment!
+585	Divine favor!
+586	Change player faction
+587	Large scale damage!
+588	Divine Fire of the Celestial World!
+589	Sandstorm
+590	Inverted Waterfall!
+591	Ice Wind!
+592	By Hades!
+593	The darkness would cover the Earth in the end ~~
+594	For Poseidon!
+595	Immortal determination of the sea ~~
+596	By Athena!
+597	The promise to protect the Goddess until death ~~ I have fulfilled ~~
+598	^FF7F00IEarth's Core Island^N
+599	^FF7F00Hellfire Island^N
+600	^FF7F00Lava Island^N
+601	^FF7F00Outer Core Island^N
+602	$UImid $noname ^3A5FCDThe Blue Team ^N activated the Crystal of %s!
+603	$UImid $noname ^FF0000Red Team ^N activated the Crystal of %s!
+604	$UImid $noname ^3A5FCD Blue Team ^N Silently attacked the Crystal of %s!
+605	$UImid $noname ^FF0000 Red Team ^N stealthily attacked the Crystal of %s!
+606	$UImid $noname ^3A5FCDThe Blue Team ^N recovered the Crystal of %s!
+607	$UImid $noname ^FF0000Red Team ^N recovered the Crystal of %s!
+608	$UImid $noname ^FF0000 Red Team ^N stealthily attacked the Crystal of %s!
+609	$UImid $noname ^3A5FCD¡Equipo Azul ^N He sneaked the Crystal of %s!
+610	$UImid $noname ^3A5FCD¡ Blue team ^N domino %s!
+611	$UImid $noname ^FF0000Red Team ^N domino %s!
+612	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla del Corazón ^N!
+613	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla del Fuego ^N!
+614	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla de las Llamas ^N!
+615	$UImid $noname ^3A5FCDEquipo Azul ^N dominated the Crystal of the ^FF7F00Isla del Amor ^N!
+616	$UImid $noname ^3A5FCDThe Red Team ^N dominated the Crystal of the ^FF7F00 Heart Island ^N!
+617	$UImid $noname ^3A5FCDEquipo Rojo ^N dominated the Crystal of the ^FF7F00Isla del Fuego ^N!
+618	$UImid $noname ^3A5FCDThe Red Team ^N dominated the Crystal of the ^FF7F00Isla of the Flames ^N!
+619	$UImid $noname ^3A5FCDThe Red Team ^N dominated the Crystal of the ^FF7F00Isla of Love ^N!
+620	$UImid $noname ^3A5FCDEquipo Azul ^N retrieved the Crystal from the ^FF7F00Isla del Corazón ^N!
+621	$UImid $noname ^3A5FCDEquipo Azul ^N retrieved the Crystal from the ^FF7F00Isla del Fuego ^N!
+622	$UImid $noname ^3A5FCDEquipo Azul ^N retrieved the Crystal from the ^FF7F00Isla del Llamas ^N!
+623	$UImid $noname ^3A5FCDEquipo Azul ^N retrieved the Crystal from the ^FF7F00Isla del Amor ^N!
+624	$UImid $noname ^3A5FCDThe Red Team ^N recovered the Crystal from the ^FF7F00 Heart Island ^N!
+625	$UImid $noname ^3A5FCDR Red Team ^N retrieved the Crystal from the ^FF7F00Isla of Fire ^N!
+626	$UImid $noname ^3A5FCDThe Red Team ^N recovered the Crystal from the ^FF7F00Isla of the Llamas ^N!
+627	$UImid $noname ^3A5FCDThe Red Team ^N dominated the Crystal of the ^FF7F00Isla of Love ^N!
+628	^FF7F00Northwest Domain Point ^N
+629	^FF7F00Northeast Domain Point ^N
+630	^FF7F00Southwest Domain Point ^N
+631	^FF7F00Southwest Domain Point ^N
+632	^FF7F00Central Domain Point ^N
+633	$noname$UImidBaught Battle, end of the fight
+634	$noname$UImidVictoria of the Blue Team! Fight finished
+635	$noname$UImidVictoria of the Red Team! Fight finished
+636	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of %s!
+637	$UImid $noname ^FF0000Red Team ^N has mastered the Crystal of %s!
+638	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Northwest Domain Point ^N!
+639	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Northeast Domain Point ^N!
+640	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of the ^FF7F00Southwest Domain Point ^N!
+641	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of ^FF7F00Southwest Domain Point ^N!
+642	$UImid $noname ^3A5FCDThe Blue Team ^N dominated the Crystal of ^FF7F00Central Domain Point ^N!
+643	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Northwest Domain Point ^N!
+644	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Northwest Domain Point ^N!
+645	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Southwest Domain Point ^N!
+646	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Southwest Domain Point ^N!
+647	$UImid $noname ^FF0000Red Team ^N dominated the Crystal of the ^FF7F00Central Domain Point ^N!
+648	ID of my model: %d
+649	Hero Series Number: %d
+650	Hero model was not found
+651	Summoner was not found
+652	Small Battlefield commander
+653	The maximum blood amount of the Boss is 0, thus, it can not release skill
+654	They are not strong enough!
+655	$gm_print $UImid $noname ^EE7621 %d Line, In the Multiserver Competition %d, the ^N ^FF0000 Red Team ^N ^EE7621 won the final victory! ^N
+656	$gm_print $UImid $noname ^EE7621 %d Line, In the Multiserver Competition %d, the ^N ^FF0000 Blue Team ^N ^EE7621 won the final victory! ^N
+657	$gm_print $UImid $noname ^EE7621 %d Line, In the Multiserver Competition %d, the result was a tie! ^N
+658	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (8, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+659	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (9, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
+660	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (7, %d)} ( %d, %d), brave warriors, go to there and accept the challenge!
+661	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (2, %d)} ( %d, %d), Brave Warriors of the Faction of the Sanctuary, go there and defend it!
+662	$nobubble$noname$UImidThe Sanctuary player defended him ${npc(%d)} successfully and everyone is excited!
+663	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (2, %d)} ( %d, %d), Brave Warriors of the Faction of Poseidon, go there and defend it!
+664	$nobubble$noname$UImidThe player of the Poseidon Faction defended him ${npc(%d)} and everyone is excited!
+665	$nobubble${lev(60-200)}$noname$UImid ${npc(%d)} appeared in ${line (2, %d)} ( %d, %d), Brave Warriors of the Faction of Hades, go there and defend it!
+666	$nobubble$noname$UImidThe Hades player defended him ${npc(%d)} successfully and everyone is excited!
+667	Damage Test Time Count is 2 minutes. Current HP is %d
+668	Time out. Current HP is: %d, total damage caused: %d
+669	5 seconds, subtract %d seconds
+670	My faction is still unknown
+671	$noname The Speed ​​Dispute in the City of Hades: the difficulty of that challenge is %d, used %d seconds. The result was already registered. [Hero] The first 50 positions in the Hades Speed ​​Dispute won good rewards. Consult the official page for more details of the event.
+672	$noname The Speed ​​Dispute in the City of Hades: challenge the 4 bosses of the same difficulty and you can participate in the Speed ​​Competition Event in the City of Hades. The 50 groups with the shortest time will receive good rewards. The degree of difficulty of the challenge has to be of Divine Soldier up.
+673	dungeonracing: dungeonname = 32123: difficulty = %d: usedtime = %d: player1 = %s: player2 = %s: player3 = %s: player4 = %s: player5 = %s: player6 = %s
+674	$noname The Speed ​​Dispute in the City of Hades: the degree of difficulty of the challenged leaders is different, therefore, did not generate a result of the dispute.
+675	$noname The Speed ​​Dispute in the City of Hades: the degree of difficulty challenged is below the Divine Soldier, therefore, it did not generate a result of the dispute
+676	Who is the one who would have pity? ~~ Of a withered flower, without perfume or color ~~
+677	Life is beautiful like summer flowers ~~ And death is like autumn leaves ~~
+678	Young Galante, better buried under the flowers than on the battlefield, right?
+679	Have they come from the garden? Since they helped me get rid of those crazy plants, I'll let them die without much suffering!
+680	Listen ~~ The lament of the birds ~~
+681	Attack of the Fierce Bird
+682	His corpse is left for the vultures
+683	His body is left for the bats
+684	I am the mighty Zelos of the Earth Star of Rarity! Surrender now and I can think of forgiving your life!
+685	That's impossible, Zelos never loses! They cheated!
+686	Impossible, how did you manage to discover the real Zelos so fast? They cheated!
+687	Hahaha! It's just the clone ~~
+688	Weaker than me ~~ He means, He did a good job!
+689	Feeling that your vision is blurred? ~~ Zelos is terrible, is not it?
+690	Hades is calling me back to the Underworld, but killing them first will not take long!
+691	Hades is calling me, we will face each other in the Underworld!
+692	I thought I was going to resist a little more. Knights are weaker than I thought.
+693	$UImid${name(%s)}, Traitor! He searched for Athena's refuge! I'll finish with you today!
+694	By Athena!
+695	The promise to protect the Goddess until death ~~ I have fulfilled ~~
+696	Glory of the Goddess illuminates the Earth
+697	For Poseidon!
+698	Immortal determination of the sea ~~
+699	The Ocean will sweep the world
+700	By Hades!
+701	Darkness would cover the Earth in the end ~~
+702	Darkness would cover the Earth finally
+703	Llama ~~ Burning ~~ Life ~~
+704	Call ~~ No ~~ Extinguish ~~
+705	I'm going to crush them!
+706	That's impossible ~~
+707	Funds
+708	Food
+709	Timber
+710	Minerals
+711	Ya Yana
+712	Ha Hasi
+713	Bobodong
+714	Emperor
+715	Hammer
+716	$noname$UImid competition will take place at
+717	$UImid$nonameA urora Spear Illumination Countdown:
+718	$noname$UImid Open the number of seals:
+719	$UImid$noname 'Scarlet Needle' will exceed in

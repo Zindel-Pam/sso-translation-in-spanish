@@ -1,0 +1,493 @@
+0	Beginners Village
+1	Training Fields
+2	Beach of Hope
+3	Arena
+4	Holy Wall
+5	Saints Cemetery
+6	House of Stars
+7	Harbor
+8	Acropolis
+9	Camp of Trials
+10	Roderio Village
+11	Wild Ridge Valley
+12	Lost Forest
+13	Flower Field
+14	Ancient Battlefield
+15	Acheron
+16	Hidden Dragon Village
+17	Bamboo Grove
+18	Bilongtan
+19	Terraced Field
+20	Mountain Temple
+21	Reunion Ridge
+22	Dragon Ridge
+23	Heaven Lake
+24	Holy Ruins
+25	Silver City
+26	Sea of Trees
+27	Bell Village
+28	Hidden Stone Array
+29	Oshino Ranch
+30	Sunset Beach
+31	Redleaf Cliff
+32	Mountain of Exile
+33	Temple of Destiny
+34	Forgotten Village
+35	Forgotten Lands
+36	Temple of Poseidon
+37	Mansion
+38	Aegean Beach
+39	Gods Prison
+40	Hope Sea Beach
+41	Mining Plains
+42	Habitat of the Ashes
+43	Miners Village
+44	Mine Road
+45	Phoenix Tail
+46	Tavana Ruins
+47	Volcano
+48	Kohotic Village
+49	Snow Village
+50	Freezing Tower
+51	Devil Reef
+52	World Tree
+53	Dark Outpost
+54	Aurora Snowfield
+55	Blue Ice Castle
+56	Nereus Village
+57	Swirl Precipice
+58	Coral Forest
+59	Sirens Forest
+60	Sea Outpost
+61	Sacred Forest
+62	Posedonia
+63	Oracle Stone Array
+64	Initiate Camp
+65	Tartaros Volcano
+66	Kruis Village
+67	Harbor
+68	Lake of Tears
+69	Peninsula of Current
+70	Monsters Reef
+71	Forest of Dawn
+72	Andreas Farm
+73	Village of the Dead
+74	Fussen Town
+75	Flower Sea
+76	Hades City
+77	Cemetery of Peace
+78	Chapel
+79	Black Wind Hell
+80	Hell Stones
+81	Cutting Room
+82	Acheron
+83	Field of Execution
+84	Passage of the Boatman
+85	Hell Gate
+86	Ice Hell
+87	Abyss
+88	Hall of Serpent
+89	Hot Sand
+90	Blood Pond	
+91	Fire Sea
+92	Decaying Hell
+93	Flower Garden
+94	Hall of Cain
+95	Hall of Anantola
+96	Hall of Dorome
+97	Hall of Judah
+98	Wall of Torment
+99	Lost paradise
+100	Field of Sleeping Flowers
+101	Temple of Hades
+102	Temple of Hypnos
+103	Heart of the River
+104	Temple of Thanatos
+105	Divine Plain
+106	Forest of Magic Songs
+107	Waterfall Origin
+108	Oblivion River
+109	Training Area
+110	Sea of Stars
+111	Ancient Ruins
+112	Ten Winds Cave
+113	Login World
+114	Land of Stars
+115	Warehouse
+116	Courier
+117	Blacksmith
+118	Supply Merchant
+119	Baker
+120	Sanctuary
+121	Equipment
+122	Physician
+123	Master of Arts
+124	Auctioneer
+125	Emissary
+126	Change of Sign
+127	Spices
+128	Battle Officer
+129	Five Ancient Peaks
+130	Galaxy Arena
+131	Forgotten Road
+132	Death Queen Island
+133	Eastern Siberia
+134	Atlantis
+135	Andromeda Island
+136	Underworld
+137	Elysium
+138	Battle of the Gods
+139	Test
+140	Night Sky Test
+141	Army Rating Map
+142	Map Test
+143	Aegean Sea Bay
+144	Test Illusion 2 (Level 55)
+145	Illusion Test 3 (Level 65)
+146	Test Illusion 4 (Level 75)
+147	Illusion Test 5 (Level 85)
+148	Illusion Test 6 (Level 95)
+149	Illusion Test 1 (Level 45)
+150	Snow Mountain
+151	Multiserver Arena PK
+152	Illusion of Proof 6 (Concentrated Practice Lv5)
+153	Illusion
+154	Halloween! Pumpkin of Madness
+155	Illusion 3
+156	Temple of Athena
+157	Knights Training Camp
+158	Illusion 1
+159	Illusion 2
+160	Illusion 4
+161	Temple of the Goddess
+162	First Multi-Server Battlefield Tournament 1
+163	First Multi-Server Battlefield Tournament 2
+164	First Multi-Server Battlefield Tournament 3
+165	First Multi-Server Battlefield Tournament 4
+166	First Multi-Server Battlefield Tournament 5
+167	First Multi-Server Battlefield Tournament 6
+168	First Multi-Server Battlefield Tournament 7
+169	First Multi-Server Battlefield Tournament 8
+170	First Multi-Server Battlefield Tournament 9
+171	Main Multiserver City
+172	Invasion to the Underworld
+173	Final Land
+174	Cancer Zombies are coming!
+175	Choose! Seduction of the Black side
+176	Flag Protection Zone
+177	Incident of the Red Mist II
+178	Silas Volcano
+179	Base of the Troops
+180	Base Store Administrator
+181	Base Warehouse Administrator
+182	Base Miracle
+183	Troops Training Master
+184	Battlefield of Armies
+185	Blue Room
+186	Blue Warehouse
+187	Blue Store
+188	Blue Training Area
+189	Workshop Blue
+190	Blue Altar
+191	Blue Miracle
+192	Blue Door of the Right
+193	Central Blue Door
+194	Blue Door on the Left
+195	Red Room
+196	Red Warehouse
+197	Red Store
+198	Red Training Area
+199	Red Workshop
+200	Red Altar
+201	Miracle Red
+202	Red Right Door
+203	Central Red Door
+204	Door of the Red Left
+205	The Heart of Sagittarius
+206	The Twelve Houses
+207	Sanctuary of Ice
+208	Seven Pillars of the Ocean
+209	The Poem of the Goddess
+210	Hero of the Ten Wind Cave
+211	Hero of the Heart of Sagittarius
+212	Hero of the Castle of the Grand Blue
+213	Hero of the City of Hades
+214	The End of Hades
+215	The Epic Stars
+216	Requiem of the Well of the Dead
+217	Battle! The Twelve Houses
+218	Battle! Galactic Tournament
+219	Decisive Battle! Deadly Combat in the Ten Wind Caves
+220	Break! Tiger and dragon
+221	Escape! The Yomotsu Hill
+222	Memories! The truth of thirteen years ago
+223	Conspiracy! The Man who deceived God
+224	Battle! Return to Star Hill
+225	Start! Competition for the Armor
+226	Terror! A Drift in Another Dimension
+227	Desperation! Leo's Dilemma
+228	Memories! The Renaissance of the Phoenix
+229	Annihilation! The Ghost Strike of Darkness
+230	Collapse! The Seven Pillars of the Ocean
+231	Memories of Hyoga!
+232	Critical Situation! The Arrow in the Heart of the Goddess
+233	Hard Battle! The Great Horn
+234	Good and Evil! The Confusion of Gemini
+235	Horror! The Cancer Evil
+236	Wake up! Leo's Nightmare
+237	Shaka! The Nearest Man of God
+238	Arctic ice! The House of Frozen Libra
+239	Surrender or Death! The Scorpio Force
+240	Proof of Loyalty! The Order of Sagittarius
+241	Shura! The Man Who Handles Excalibur
+242	Extreme Cold! The Absolute Zero
+243	Funeral of Roses! The Battle in the Last House
+244	The End! Decisive Battle in the Grand Master's Hall
+245	The Prayer of the Goddess!
+246	Protection! Blessing of the Summer Solstice
+247	To the Extreme! The proof of Divine Rendering
+248	Valentine's Day! Shiryu and Shunrei
+249	The Garden of the Twin Trees
+250	Memories of Dohko
+251	I move forward! The Scorpio Judgment
+252	Onslaught! The Sagittarius Crisis
+253	Snowstorm! Christmas Tree Defense
+254	Capricorn! The Way of the Shura Sword
+255	Aquarius! The Most Powerful Strike
+256	Pisces! Roses of the Magic Garden
+257	Aries! Battle between Master and Disciple
+258	Gemini! Confrontation between Good and Evil
+259	World of the Shrivels
+260	Gate of the Underworld
+261	Strings of Flowers! Lamentation Requiem
+262	Depth! The Hell of the Underworld
+263	END? Cocytus River 
+264	Attack! The three judges of the Underworld
+265	The Gemini Gods! Death and Eternal Dream
+266	Life and Death! The battle on the Champs-Elysees
+267	The Festival of the Moon! Death to the Specters
+268	National Day! Saving Athena
+269	​​Libra! Dohko VS Shion
+270	Sagittarius! Pointing at the Golden Apple
+271	Thanksgiving Day! Who has touched the Turkey?
+272	The Problem of Santa Claus!
+273	Sea of ​​Flowers! The trick of the God of Dreams
+274	Thanatos! The Call of Death
+275	Hypnos! The Deep and Eternal Dream
+276	The Queen of the Underworld! The Supreme Guardian
+277	Decisive Battle! Hades
+278	Carmine! Shadows of the Other World
+279	Mount! Chimera of Thor
+280	The Saori Mansion
+281	The Battlefield of the Old Holy War
+282	Inheritance! The Gold Test
+283	Union! The Crisis of the 12 Houses
+284	Storm! Atlantis
+285	The Sanctuary Cemetery
+286	Tartaros
+287	Abyss of Fire and Ice
+288	Small city in Northern Europe
+289	Loki shelter
+290	New 3 Arches: Libra
+291	Grand Coliseum
+292	Invasion! The Avengers
+293	Incubation! The Infernal Butterfly Nest
+294	Anguish! Sonata of Hell
+295	Resurrection! The Dead Warriors
+296	The Dimension of the Pandora's Box
+297	Against Flow! The Gold Test
+298	Against Flow! The Crisis of the 12 Houses
+299	Against flow! Atlantis
+300	Dream! Short life
+301	Illusion! The Cliff of the Destroyed Mountain
+302	Wake up! Fly down waterfall
+303	Seven Oceans of Saori
+304	MAX! Infinite Battle
+305	MAX! Individual Test of the Infinite Battle (White)
+306	MAX! Individual Test of the Infinite Battle (Gold)
+307	MAX! Individual Test of the Infinite Battle (Sea)
+308	MAX! Individual Test of the Infinite Battle (Darkness)
+309	MAX! Individual Test of the Infinite Battle (Infinity)
+310	Test! The road to becoming a God
+311	Test! The road to becoming a God - Mining
+312	Proof! The road to becoming a God - Thief
+313	MAX! Individual Black Hole Challenge (Infinity)
+314	Doze Divine Houses I
+315	Doze Divine Houses II
+316	Doze Divine Houses III
+317	Doze Divine Houses IV
+318	Kyushu test
+319	Li Yingyan test
+320	Special Needs of Animation
+321	Ares! Ruins of Attica
+322	Chaotic Battlefield
+323	Battlefield with Lava
+324	Winged Battlefield
+325	Bloody Battle! Nordic misfortune
+326	Duel! I'm the boss
+327	Battle for the Floating Island
+328	First Galactic Tournament (Balance)
+329	Multiserver - Ruin of Ares
+330	Arena of Multiserver Equipment
+331	PK Multiserver Equipment
+332	New Individual Arena
+333	First Competition in the Milky Way Arena
+334	Second Multiserver Competition of the Galactic Sovereign (Balanced)
+335	Dispute over the Milky Way
+336	Test 1
+337	Test 2
+338	Test 3
+339	Test 4
+340	Test 5
+341	Test 6
+342	Lord of Teleportation
+343	Lord of Return
+344	Manager of the main construction of the Base
+345	Manager of the Base Training Area
+346	Base Altar Administrator
+347	Administrator of the Base Office
+348	Change of the Army Contribution Board
+349	Add Degrees
+350	Hermes
+351	Central Teleport
+352	Southeast Emissary
+353	Emissary of the Southwest
+354	Northeast Emissary
+355	Northwest Emissary
+356	Teleporter of the Aegean
+357	Cupid
+358	Xinxin Marriage Organizer
+359	Presence Recorder
+360	Marriage Pastor John
+361	Stores Area
+362	Against the Master
+363	Teleportation
+364	Return to the City Point
+365	Healer
+366	Embed Amulet
+367	[Commerce] Artisan of the Armor
+368	[Commerce] Messenger of Golden Light
+369	[Commerce] Scales and Sapuris
+370	[Trade] Chief of the Silver and Gold Guards
+371	[Commerce] Messenger of the Constellations
+372	[Trade] Change of Star Soul
+373	[Commerce] Light of Hope - Pearls
+374	[Commerce] Auctioneer
+375	[Commerce] Sale of Brooches and Belts
+376	[Commerce] Emissary of the Divine Artifacts
+377	[Commerce] Armor of the Soul
+378	[Commerce] Treasure Merchants
+379	[Commerce] Father - Title and Glory
+380	[Commerce] Father Oracle
+381	[Commerce] Gift of the Goddess - Brilliance of Athena
+382	[Commerce] Heritage Stores
+383	[Commerce] Craftsman - Learning Production
+384	[Commerce] Knight
+385	[Commerce] Pets
+386	[Trade] Ambassador of the Treasure Hunt
+387	[Commerce] Security Card
+388	[Alert] Squire
+389	[Alert] Army
+390	[Alert] Alliance of Armies
+391	[Alert] Guardian of the Flag
+392	[Alert] Crusade! Boss World
+393	[Alert] Exterminate Evil
+394	[Alert] Change of Equipment
+395	[Alert] Attack Messenger
+396	[Alert] War Messenger
+397	[Center] Marin
+398	[Center] Carnival Ambassador
+399	[Center] Ambassador of Benefits
+400	[Center] Sanctuary Guard
+401	[Center] Promotions Ambassador - Fire Fire
+402	[Center] Ambassador of Events
+403	[Competition] Change of Constellation
+404	[Competition] Battlefield Guide - Catalina
+405	[Competition] Battlefield Reward
+406	[Competition] Layer Merchant
+407	[Competition] Illusion
+408	[Competition] Galactic Tournament - Competition of the Universe
+409	[Competition] Multi-Server Competition Area
+410	[Mansion] Golden Week of the Month
+411	[Mansion] Festival Ambassador
+412	[Mansion] Witness of the Goddess
+413	[Mansion] Carnival Messenger
+414	[Mansion] Ambassador of Event Materials
+415	[Mansion] Marriage - Divorce - Best Friend
+416	[Mansion] Mentor
+417	[Commerce] Bronze Craftsmen
+418	[Commerce] Silver Craftsmen
+419	[Commerce] Black Craftsmen
+420	[Commerce] Gold Craftsmen
+421	[Commercial] Scales
+422	[Commerce] Sample
+423	[Commerce] General Chief of the Silver Guard
+424	[Commerce] General Head of the Gold Guard
+425	[Commerce] Brooches for sale
+426	[Commerce] Sale of Belt
+427	[Alert] MAX! Black Hole Challenge
+428	[Warning] Memories of the Holy War
+429	[Alert] Crisis of the Twelve Houses - Requiem of the Sanctuary - The Nest of the Hells Butterflies
+430	[Warning] Atlantis - The last day of the Magic Star - Sonata of Hell
+431	[Warning] Storm! Amphora of the Goddess
+432	[Warning] Myth of the Great Coliseum
+433	[Alert] Gold Test - Counterattack - Rozán back to dust as a dream
+434	[Warning] Road to the Storm
+435	[Warning] Knights of the Goddess
+436	[Warning] Route of the Knights
+437	[Alert] The Commander of the Sanctuary - Adventure
+438	[Center] Challenge of Destiny
+439	[Mansion] Crisis! Saori protector
+440	[Mansion] Danger! Guardians of the Goddess
+441	[Mansion] Dream of the Goddess
+442	Benefit of the Army (The Mind of the Goddess)
+443	Star Hill entrance
+444	Star Hill departure
+445	Rear entrance of the Star Hill farm
+446	Rear exit of the Star Hill farm
+447	Entrance to the Blue Castle Grand
+448	Exit of the Blue Castle Grand
+449	Exit from the Summit of the Station
+450	Go to Hall of Cain
+451	Back to Cocito
+452	Go to Antenora
+453	Go to Ptolemy
+454	Go to Giudecca
+455	Go to the Western Wall
+456	Go to the Floating Island
+457	Exit of the Floating Island
+458	God of the 12 Golden Houses
+459	Public battlefield temporary
+460	Goddess! The god of midsummer!
+461	Disciple System Guide
+462	Galaxy Fighting Points Exchange NPC
+463	Inherited! Gold trial recipient
+464	Holy War Memory Recipient
+465	Assembly! Zodiac crisis Recipient
+466	Zara
+467	Free Double Payment
+468	Bronze Craftsmen
+469	Silver Craftsmen
+470	Black Craftsman
+471	Gold Craftsmen
+472	Romance Points Exchange
+473	Close friend
+474	Divorce record
+475	Emissary of the Golden Knights
+476	Sacrifice of the Apprentice
+477	Battlefield Guidance
+478	Copy often
+479	Battlefield Quartermaster
+480	Rune Inlay
+481	Abyss! Apocalypse of the Demon Star
+482	Rebirth! Requiem of the Sanctuary
+483	Great Counterattack! Demonic God of the Land of Ice
+484	Squire Emissary
+485	Star Quartermaster
+486	Pet Trainer
+487	Gilgamesh
+488	Goddess of War Emissary
+489	Herald of Extermination
+490	Ribbon Sale Moore
+491	Trial Illusion Transfer
+492	Pandora

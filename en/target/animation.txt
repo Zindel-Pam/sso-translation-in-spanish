@@ -1,0 +1,1606 @@
+0	Film test
+1	Pegasus_temp demonstration
+2	Demonstration Pegasus_temp Sign
+3	Beginners Village - Coliseum
+4	Land of the Beginners
+5	Beginners Village - Calling Eagle
+6	Beginners Village - Illusion of the Golden Battle
+7	Beginners Village - Mu helps players
+8	Beginners Village - Explanation of the Armor
+9	Beginners Village - Entering the small, dark sand
+10	Beginners Village - Small chapter to wear the armor
+11	Beginners Village - Before the Great War
+12	Land of Constellations - Opening animation
+13	Land of Constellations - Opening animation: The fierce day
+14	Land of the Constellations - Opening animation: Poseidon
+15	Land of the Constellations - Pandora explains the Cosmo
+16	Land of the Constellations - The Spirit of the Sea Dragon explains the Cosmo
+17	Land of Constellations - The vision of the Grand Master
+18	Land of the Constellations - The battlefield of Hades
+19	Land of the Constellations - The battlefield of Poseidon
+20	Land of the Constellations - The Sanctuary
+21	Land of Constellations - Explanation of Lyre's armor
+22	Sanctuary - An audience with the Grand Master
+23	Sanctuary - The first knight of Pegasus against the God of Death
+24	Sanctuary - The battle of the three golden knights and twin gods
+25	Sanctuary - The appearance of Shaka
+26	Sanctuary - The appearance of Aldebaran
+27	Sanctuary - Orientations on the ceramic ceiling
+28	Sanctuary - Forced passage through the 12 houses
+29	Sanctuary - Orientations on the pearl ceiling
+30	Sanctuary - Presentation of armor levels
+31	Sanctuary - Get the Prometheus hammer
+32	Sanctuary - The fire clock ignites its flames
+33	Sanctuary - The fire clock goes off
+34	Sanctuary - The fire of the clock goes off_Aries
+35	Sanctuary - The fire of the clock goes out_Tauro
+36	Sanctuary - The fire of the clock goes out_Geminis
+37	Sanctuary - The fire of the clock goes out_Cancer
+38	Sanctuary - The fire of the clock goes out_Leo
+39	Sanctuary - The fire of the clock goes off_Virgo
+40	Sanctuary - The fire of the clock goes out_Libra
+41	Sanctuary - The fire of the clock goes out_Escorpio
+42	Sanctuary - The fire of the clock goes out_Sagit
+43	Sanctuary - The fire of the clock goes out_Capricorn
+44	Sanctuary - The fire of the clock goes out_Aquarium
+45	Sanctuary - The fire of the clock goes off_Piscis
+46	Sanctuary - Llamas in the Villa de Roderic
+47	Sanctuary - Found the fire .anm
+48	Sanctuary - The mystery of the blood of God Hades
+49	Sanctuary - Rumors thirteen years ago
+50	Sanctuary - Obtain Golden Armor
+51	Sanctuary - The Hades Conspiracy
+52	God of the Twelve Golden Houses - Prelude
+53	God of the Twelve Golden Houses - Appearance of Taurus
+54	God of the Twelve Golden Houses - Appearance of Saga
+55	God of the Twelve Golden Houses - Apparition of Mu
+56	Coliseum Grand - Leo's attack
+57	Coliseum Grand - Saori's captivity
+58	Grand Coliseum - Mu saves everyone
+59	Coliseo Grand - Saori al campo
+60	Regional Exhibition - Grand Coliseum - Aokigahara Forest_Enter
+61	Regional Exhibition - Grand Coliseum - Aokigahara Forest_Exit
+62	Coliseum Grand - Saori burns its Cosmo
+63	Coliseum Grand - Memories of Hades
+64	Coliseum Grand - Seiya wears the armor
+65	Grand Coliseum - Look at the Ten Wind Caves
+66	Coliseum Grand - Surge Hyoga
+67	Grand Coliseum - Surge Shiryu
+68	Coliseum Grand - Surge Shun
+69	Coliseum Grand - Surge Seiya
+70	Coliseum Grand - Surge Saori
+71	Coliseum Grand - Saori's life
+72	Coliseum Grand - Surge Shiryu 2
+73	Coliseum Grand- Surge Seiya 2
+74	Coliseum Grand - Surge Saori 2
+75	Coliseum Grand - The life of Saori 2
+76	Rozan - Shiryu saves Shunrei
+77	Rozan - Ley-hu saves Shiryu
+78	Rozan - Ley-hu vs. Shiryu
+79	Rozan - Battle at the Yomotsu Summit
+80	Rozan - The white dragon arises
+81	Three rings of Rozan - The god of sleep
+82	The forgotten land - The Battle of the Sanctuary
+83	The road to oblivion - The call of destiny
+84	The road to oblivion - The king who was exiled emerges
+85	The road to oblivion - The water prison
+86	Island of the Queen Death - The battle of the inactive volcano
+87	Island of the Queen Death - Battle with Black Phoenix
+88	Island of the Queen Death - The Battle of Ikki and Shaka
+89	Island of the Queen Death - Seal the Island of the Queen Death
+90	Eastern Siberia - Hyoga vs Alexer
+91	Eastern Siberia - Hyoga vs Kanon
+92	Eastern Siberia - Surge Isaac
+93	Eastern Siberia - Mountains of ice crumble
+94	Eastern Siberia - Alexer's parricide
+95	Eastern Siberia - The speech of the Valkyries
+96	Eastern Siberia - Imperial Satan of Kanon
+97	Eastern Siberia - Hyoga Captured
+98	Coliseum Grand - Attack of Leo 2
+99	Coliseum Grand - According to Saori's captivity
+100	Coliseo Grand - Saori enters the field the second time
+101	Atlantis - Shuya vs. Sea Dragon
+102	Atlantis - The slopes of Saori
+103	Atlantis - Players VS Hipocampo
+104	Castle of Hades - Players VS Radamanthys
+105	Underworld - Cross the Acheron
+106	Underworld - Eurydice
+107	Underworld - Bathed in the power of the Titan
+108	Inframundo - Shaka enters the field
+109	Underworld - Star Summit six days
+110	Underworld - Pandora has Ikki
+111	Underworld - Players invade Giudecca
+112	Underworld - Memories of Shun
+113	Underworld - The Sound of War .anm
+114	Underworld - Start concentrated practice
+115	Champs Elysees - The sigh in the hyper-dimension espacio.anm
+116	Champs Elysees - Back to the world of light .anm
+117	Exhibition of Escenário - Land of the Constellations
+118	Exhibition of Escenário - Sanctuary
+119	Exhibition of the Stage - Galactic Arena
+120	Exhibition of the Scene - Rozan
+121	Exhibition of the stage - The path of oblivion
+122	Escenario Show - Isla de la Reina Muerte
+123	Exhibition of the Scene - Eastern Siberia
+124	Exhibition of the Scene - Atlantis
+125	Exhibition of the Scene - Andromeda Island
+126	Exhibition of the Scene - Castillo de Hades
+127	Exhibition of the Escenári - The twelve houses
+128	Exhibition of the Scene - Underworld
+129	The Battle of the Gods - The Starstorm Arises
+130	The Battle of the Gods - Players are born _ The power of the sanctuary
+131	The Battle of the Gods - The God of Sleep arises
+132	The Battle of the Gods - The lowest soldier emerges
+133	The Battle of the Gods - The beginning of the road _ The power of the sanctuary
+134	The Battle of the Gods - the god of sleep destroys the bridge
+135	The Battle of the Gods - Aries VS Hypnos
+136	The Battle of the Gods - The Fun of Pisces
+137	The Battle of the Gods - Capricorn vsGrifo
+138	The Battle of the Gods - The Oath of the Knights
+139	The Battle of the Gods - The final showdown
+140	The Battle of the Gods - The players are born _ The power of Poseidon
+141	The Battle of the Gods - Surge Saga
+142	The Battle of the Gods - The Jogadores are born_ the power of Hades
+143	The Battle of the Gods - The beginning of the road _ The power of Hades
+144	The Battle of the Gods - Virgo vs. Wyvern
+145	The Battle of the Gods - Surge Sagittarius
+146	The Battle of the Gods - Surge Shaka
+147	The Battle of the Gods - The beginning of the road _ The power of Poseidon
+148	The Battle of the Gods - Sirena vs. Gemini
+149	The Battle of the Gods - The Knight of Whale Arises _ The Power of Poseidon
+150	Stage Display - Coliseo Graad2
+151	Regional Exhibition - Rozan _ LagoTianchi
+152	Regional Exhibition - Sanctuary _ Yomotsu
+153	Regional Exhibition - The path of oblivion _ The fate of the temple
+154	Regional Exhibition - Eastern Siberia _ The blue ice fort
+155	Regional Exhibition - Eastern Siberia _ World Tree
+156	Regional Exhibition - Atlantis _ Poseidonia
+157	Three Leo Bows - Playing with fire
+158	Three Arcs of Leo - Surge Aiolia
+159	Event - Villa de Saori1
+160	Event - Villa de Saori2
+161	Event - Villa de Saori3
+162	Three Pisces Bows - Apparition of Aphrodite
+163	Tres arcos Libra - Suggestions Portal
+164	Three bows Libra - Surge Doko
+165	Two arcs - Atlantis sinks 1
+166	Two arcs - Atlantis sinks 2
+167	Two arcs - Atlantis sinks 3
+168	Event - The fire clock 1
+169	Event - The fire clock 2
+170	Event - The fire clock 3
+171	Event - The Ten Caves of the Wind_ Surge Ikki
+172	Memories of the Holy War - Troll
+173	Two arcs - Atlantis sinks 4
+174	Event - Ten Wind Caves_ Shun saves Seiya
+175	Event - Ten Wind Caves _ Surge Andromeda
+176	Event - Sagittarius flees
+177	Event - Sagittarius flees 2
+178	Event - Sagittarius flees 3
+179	Event - Sagittarius flees 4
+180	Two new Arches - Tartaro_ Stage presentation mechanism 1
+181	Two new Arches - Tartaro _ Stage 2 presentation mechanism
+182	Two new Arches - Tartaro _ room association
+183	Two new Arches - Tartaro _ The shadow of the God of Death emerges
+184	Cemetery - Players transfigure
+185	The memories of the holy war - The coat of Athena
+186	Three new Arches - Hydrus _ transfer
+187	Three new Arches - Hydrus _ Surge Loki
+188	Two new Arches - The abyss_ Surge Hagen
+189	Two new Arches - Tartaro _ The Queen of the Underworld emerges
+190	Two New Arches - Tartaro_ Transfiguration of the body of the queen of the Underworld
+191	Cemetery - boss arises
+192	Three new Arcos_ northern city _ Plaza de la Ciudad
+193	Three new Arches - northern city_Surge Boss
+194	Ice Sanctuary - Sirena and Kraken
+195	Ice Sanctuary - The Valkyries
+196	Two new Arcos - Tartaro _ Stage 3 presentation mechanism
+197	Two new Arches - Tartaro_Surge the shadow of the God of the Dream
+198	Pillars of the Seven Seas - Poseidon Surge
+199	Event - Q edition of the Villa de Saori 1
+200	Event - Q edition of the Villa de Saori 2
+201	Pillars of the Seven Seas - Broken Main Pillar
+202	Underworld and Twelve Houses - Invasion of the Underworld
+203	Underworld and Twelve Houses - The fate of battle
+204	Underworld and Twelve Houses - The death of Shaka
+205	Underworld and Twelve Houses - Death of the Goddess
+206	Two new Arches - Tartarus _Transfiguration of the body of the Queen of the Underworld 2
+207	Countercurrent - Appearance of Kiew
+208	Contracorriente - Appearance of Zelos
+209	Countercurrent - Emergence of Niobi
+210	The twelve gold houses - Casa de Aries_Mu arranges the armors
+211	The twelve gold houses - Saori hit by the arrow
+212	The twelve gold houses - Taurus _ The beginning of the battle
+213	The twelve gold houses - The titanic supernova of the Taurus knight
+214	The twelve houses of gold - Sagittarius _ the golden arrows fly
+215	The twelve gold houses - Virgo _ Understanding the seventh sense
+216	The twelve gold houses - Leo_ Cassios saves the players
+217	History - The twelve gold houses _ The arrow of Saori
+218	History - The Twelve Houses of Gold _ The Resurrection of the Goddess
+219	The previous generation of the war
+220	Villa of beginners - Seiya VS Cassios
+221	Beginners' Village - Seiya VS Shina
+222	Sanctuary - Orfeu vs. Cerberus
+223	Coliseum Graad_ Ikki takes the armor
+224	Coliseum Graad_ Shiryu vs. The Knight of Perseus
+225	Rozan _ Shiryu vs. Mask of Death
+226	Aiolos vs. Shura
+227	Ikki vs. Guilty
+228	Bronze Knights VS Poseidon
+229	Shion vs. Dohko
+230	Istanbul Sea
+231	Temple of Athena
+232	Infanticide of the Grand Master
+233	Memory of Hyoga_ The shipwreck of the mother's ship
+234	Chapter I
+235	The legend of the Knights!
+236	Chapter I: Legends of a New Era!
+237	Chapter I: Weapons Deadly Combat!
+238	Quick, click on the button to burn your Cosmo!
+239	Chapter II: Burn Explosion of the Cosmo!
+240	Seiya
+241	I hope you find your sister
+242	Unfortunately, I still can not leave the sanctuary
+243	The new holy war is approaching
+244	The Underworld is already acting
+245	I must remain in the sanctuary to fight
+246	I will also fight for Hadaward
+247	Go fight
+248	Start the fight for the Armor!
+249	What place is that?
+250	I feel as if time has stopped ...
+251	Chapter III: Fugue Another Dimension!
+252	Quick, Reach the battle tank and protect it to the sand!
+253	Team attention! The mission will fail if they move too far from the Combat Car.
+254	Fast, with the tanks, you will be safe at the Wailing Wall !!!
+255	The memory of the Elder Master, Dohko!
+256	You will return for that night of the Holy War 200 years ago.
+257	I still can not get out of here
+258	I hope you can rediscover your sister
+259	You have found a Golden Knight
+260	He pushed you into another dimension
+261	At this moment the armor resonates in you
+262	Escape the Hyper Dimension
+263	Volume II
+264	Guardian! Knight of love and justice!
+265	In the endless dream, I heard the call of Athena
+266	Your hot and powerful Cosmo wakes me up
+267	The situation is urgent, we have to find Orpheus!
+268	After returning to the Vila de Roderio
+269	​​Recently,
+270	Great Ridge Valley
+271	Aiolia's investigation continues ...
+272	Chapter II - Guardian! Knights of love and justice!
+273	Urgent! Leo's situation!
+274	There is no news of Mr. Aiolia
+275	I hope he finds no danger
+276	To find another stone piece of Prometheus
+277	I have come once again to the temple of Titan looking for clues
+278	Aiolia fell into an endless sleep
+279	Does the proud leo also have to lower his head?
+280	The Villa de Roderio is my home,
+281	I am willing to protect her with my life!
+282	--Eudora
+283	Young Brave!
+284	Please, Follow what your heart believes!
+285	Field of the Golden Flowers
+286	Orpheus and Eurydice
+287	Suffocating Melody!
+288	Eurydice's death has left Orpheus in an endless sadness
+289	Be people, birds or insects,
+290	can only be lived once.
+291	Even the brightest stars are no exception.
+292	Flowers that have already withered can not bloom again!
+293	- Orpheus
+294	Battle The Twelve Houses!
+295	The strength of the Golden Knights is beyond my imagination
+296	The powerful blow of Aldebaran has sent me out of the Twelve Houses
+297	When I woke up, I was already in Villa Roderio
+298	Chapter 3 - Battle! Death and Dream!
+299	Then the girl in black is Pandora from the underworld
+300	She managed to get the Blood of Hades
+301	Hades revived the Sapuris of the Underworld
+302	As a knight of Athena
+303	I will not allow the power of the underworld to contaminate the sanctuary
+304	Episode 2 - Battle! The Twelve Houses!
+305	The troops of the Underworld army retreated and
+306	regardless of whether their plans were successful or not,
+307	the new Holy War is approaching!
+308	At this time, what kind of secret preparation will be happening at the Coliseum Grand?
+309	Why did the missing Sagittarius armor appear there?
+310	What happened in the Sanctuary thirteen years ago?
+311	After the girl in white woke up
+312	You were expelled by Jamian!
+313	Quick! Find the lost relic of Sagittarius before Jamian returns!
+314	Protect the girl and take her back to the village, be careful not to let her stay too far away from you
+315	Entrance to the Coliseum Grand
+316	Nachi de Lobo was knocked out!
+317	The Sagittarius Armor was carried away by Ikki
+318	The Galactic Tournament is interrupted.
+319	To recover the Sagittarius Armor, Seiya and Hyoga ran out!
+320	At this time, Shun ......
+321	The Galactic Tournament started !!
+322	Galactic Tournament
+323	Seiya of Pegasus VS Geki of Bear
+324	The winner is
+325	Seiya of Pegasus!
+326	The next fight, Hyoga of Cygnus VS Ichi of Sea Dragon!
+327	Hyoga of Cygnus VS Ichi of Sea Dragon
+328	Hyoga of Cygnus!
+329	The Galactic Tournament continues!
+330	Seiya of Pegasus VS Shiryu of Dragon
+331	The winner is Seiya de Pegasus!
+332	Seiya conquers the victory against Shiryu with difficulty!
+333	Volume III
+334	Battle Soldiers in the Coliseum Grad!
+335	Chapter III - Battle! Soldiers under the Grand Coliseum!
+336	Chapter 1 - Home Galactic Tournament!
+337	Chapter 2 - Ikki! The warrior who returned from hell!
+338	Chapter 3 - On guard! The Fist of Fury!
+339	Volume IV
+340	Game The Destiny of the Young!
+341	Chapter IV - Departure! The Destiny of the Young!
+342	Chapter 1 - Go! The Battle of the Ten Wind Caves!
+343	Chapter 2 - Murderer! The Shadows of the Sanctuary!
+344	Chapter 3 - Leo! The Brave Dams!
+345	Shiryu finally brought from Jamir the revived armor of the Dragon
+346	In the darkness of the Ten Caves, the young companions risk their lives in battle.
+347	Fly, Dragon Reborn! Fight with your teammates!
+348	Battle The Deadly Battle
+349	We continue in the direction
+350	to the raven's trail
+351	and we found an old friend!
+352	The silver knight, Crow Jamian.
+353	We must stay by Athena's side!
+354	Marin's announcement, before leaving, left me confused!
+355	Athena should not be in the Sanctuary?
+356	Back to the Kido Mansion
+357	The Ten Wind Caves will collapse
+358	I hope that Seiya and or the others are safe
+359	Due to Aiolia's doubts and suspicions
+360	He went to Rozan to look for the truth
+361	I have recovered the right and left arms of the Sagittarius armor from the hands of Black Phoenix
+362	In the next battle
+363	It is necessary to recover all the parts of the Golden Armor of Sagittarius!
+364	After the misunderstanding
+365	Father and son separated a long time ago finally say goodbye .....
+366	The water level has gone up a bit, it keeps placing stones inside.
+367	The water level has gone up a bit more, still placing stones
+368	The water is already near the mouth of the jar, put more stone!
+369	The water has come out of the jar! The crow can now drink the water.
+370	'Dragon in the Darkness'?
+371	Suddenly you can not move, Who is hiding in the darkness?
+372	Take the Tianyu back to the Children of the Stars Orphanage, careful not to miss it
+373	Lana made a sign for you to accompany her
+374	Lana greeted her
+375	Hyoga! Hyoga! Hyoga! ......
+376	Shiryu screamed, but the Cygnus did not hear his screams.
+377	Now the fiery eyes of the Cygnus only see the Phoenix.
+378	Now
+379	The battle between the strongest birds is about to begin!
+380	Seiya! ...... Seiya! ...... Seiya!
+381	The life of the Cygnus burned with its last cry, and then it fell into flames.
+382	Pegasus! Pegasus! Pegasus!
+383	The task of destroying the Phoenix falls on your shoulders.
+384	Episode 2 - Phoenix! Deadly Battle of the Cave of the Ten Winds!
+385	Chapter IV - Faith! The Knights of the Goddess!
+386	Chapter 1 - Punishment The Silver Knights!
+387	Episode 2 - Fangs! The Leo Gold Fists!
+388	Crow's silver knight Jamian emerged in front
+389	Two years ago ...
+390	In the Bamboo Forest of Rozan
+391	Volume V - Chase! Knowing the truth of men!
+392	Breaking Ties Tiger and Dragon!
+393	I will definitely return, Shiryu!
+394	When the time comes, I will fight with you!
+395	Rozan's crisis was resolved
+396	Quick, go back to the waterfall to find Dohko!
+397	Li-yun drank the water from the Bi Longtan Slope ...
+398	Shiryu returned at this very moment.
+399	He kept circling around the Dragon Summit
+400	Take Wan-Akio back to the source
+401	After a day
+402	Return to Sufang for the burial mound of Lei-hu
+403	He offered flowers
+404	A miraculous power is going to redo it
+405	In a moment you will be on the top of Rozan
+406	Blood power is restless
+407	Hopefully in the near future
+408	You can really match a Golden Knight!
+409	Shenlong's strength engulfed him again
+410	Li-yun sacrificed his own life in exchange for Rozan's hope.
+411	You have to bring the medicine back to the village immediately! ......
+412	It seems that someone is calling you
+413	Kanon was in a mysterious underwater room.
+414	What will be the fate that awaits you?
+415	Volume VIII - The Awakening The Bloody Domain of the Seven Seas!
+416	Conspiracy The Foolish Man of God!
+417	It seems that everything went back to the past
+418	Lava and death
+419	About the Phoenix Renaissance
+420	Volume X - Burn! The Flames of the Island of the Queen of Death
+421	Memories! The rebirth of Phoenix!
+422	Recompose forces in the star observatory, away from the rest of the world.
+423	Battle Back to the Star Observatory!
+424	Time seems to return for the apprentice period of Hyoga
+425	The Siberian cold, the joint training of two aspiring Knights
+426	Of course, there is still value and justice in Isaak
+427	Volume I - Seal! The power of the Emperor of the Seas!
+428	Memories! Justice Aurora!
+429	Cold, cold, cold
+430	Here death came like a severe cold!
+431	Is this the hill Yomotsu Hirasaka?
+432	Volume VI - Inheritance Intentional Millennial Faith!
+433	Escape Yomotsu Hirasaka!
+434	The third jar is over
+435	It starts to feel a little weird
+436	Nonsense and malaise ......
+437	Volume V
+438	Persecution Knowing the Truth of Men!
+439	Chapter 1 - Dark Clouds Crisis in Rozan!
+440	Chapter 2 - Fright Cancer Abandons Justice!
+441	Chapter 3 - Destruction The Most Beautiful Death!
+442	Volume VI
+443	Inheritance Millennial Faith Intact!
+444	Chapter 1 - Fight For the Pride of Rozan!
+445	Chapter 2 - The Soul of the Dragon The Secret of the Rozan Summit!
+446	Chapter 3 - Burn The True Power of the Knights!
+447	Thirteen years ago
+448	Forgotten Path
+449	Night
+450	Chapter VII: The Golden Knight of Sagittarius!
+451	Memories The truth of thirteen years ago!
+452	Where am I?
+453	God of the past: 'This is the forgotten road of 13 years ago, you must look for Aioros, he will appear soon'
+454	God of the present: 'Wake up, young man'.
+455	You could not get the truth before Shura mataze Aioros
+456	Shurra defeated Aioros after he hit him, you did not get the truth.
+457	The person in front of you has a very powerful Cosmo ......
+458	Under the attitude of the people around.
+459	Will it be him, the exiled king?
+460	Along with a violent explosion of the Cosmo,
+461	the cave was completely submerged by the waves.
+462	I do not know why that man emits a mysterious Cosmo ...
+463	The Gemini Knight, Saga, kills the ancient grandmaster Shion and manages to usurp the throne
+464	I still wanted to kill baby Athena, but was prevented by Aioros
+465	Saga ordered that Aioros be killed, that he fled from the sanctuary carrying Athena in his arms
+466	In the middle of the road he was persecuted and mortally wounded by Shura
+467	Before dying, Athena delivered to Mitsumasa Kido
+468	- Secret History of the Sanctuary
+469	Holy War is imminent
+470	Seiya, Shiryu, Hyoga and I will be next to Athena
+471	Ready to end the ambition of the Grand Master
+472	But we still need help from two people
+473	Ikki and Shun
+474	Now, the adventure on the Island of the Queen Death officially began!
+475	Volume VII
+476	Treason The Golden Knight of Sagittarius!
+477	Chapter 1 - Exile Sinners of the Sanctuary!
+478	Chapter 2 - Temple Annihilation of Justice!
+479	Chapter 3 - The Traitor's Epic!
+480	Volume VIII
+481	Awakening! The Bloody Domain of the Seven Seas!
+482	Chapter 1 - Poseidon The Reincarnation of God!
+483	Chapter 2 - Prison of God The Prisoner of Thirteen Years!
+484	Chapter 3 - Sagittarius Under the Flags of the Stars!
+485	Ikki, in the end what is your true self?
+486	Or is it all an illusion?
+487	If it were, then I'm going to destroy everything!
+488	Volume IX - Recovery! The ambition to dominate the world!
+489	Annihilation! The Ghost Strike of Darkness
+490	finally
+491	You and Ikki arrive at the most brutal battlefield
+492	The Phoenix Tail
+493	Ikki: Haha, the fear of phoenix phantom blow!
+494	Ikki: Ha ha ha! You are on the wrong path!
+495	Volume IX
+496	Recovery! The ambition to dominate the world!
+497	Chapter 1 - Combustion! Battle on the Island of Queen Death!
+498	Chapter 2 - True or false! Ikki dropped again?
+499	Chapter 3 - Beware! The truth behind the black hands!
+500	Volume X
+501	Explosion! The Flames of the Island of the Queen of Death
+502	Chapter 1 - Tawana! The pain of the alchemist!
+503	Chapter 2 - Seal! Guilty's mask!
+504	Chapter 3 - Killing! The approach of the deadly armadillo!
+505	Kanon disappeared on the forgotten path ...
+506	Surprisingly, a man was able to deceive the gods,
+507	but, when it appears again in this world ...
+508	a bloody rain will fall.
+509	Volume I
+510	Seal! The Power of Poseidon!
+511	Chapter 1 - Isaak! The dead man!
+512	Chapter 2 - Break! The eternal ice wall!
+513	Chapter 3 - The blue continent! After 100 years of partnership!
+514	Volume II
+515	Blood and fire! The glory of the Far North!
+516	Volume II - Blood and Fire! The glory of the Far North!
+517	Chapter 1 - Nordics! The legendary Warriors!
+518	Chapter 2 - Kraken! General Navy of the Arctic Ocean!
+519	Chapter 3 - The dragon of the sea? The other side of Gemini!
+520	Alexer: I need your strength, Hyoga, be our ally!
+521	Hyoga: Do you want to invade the South and still want me as an accomplice? Do not deceive yourself!
+522	Alexer: Hunf, whatever, it's a waste of time to give more explanations
+523	Hyoga: Diamond dust! The ...... What ?! I don `t believe! The Diamond Dust has not worked!
+524	Alexer: Blue boost!
+525	He was hit by a huge vertigo
+526	Before falling to the ground, I saw vaguely the shadow of Kanon distancing itself .....
+527	What happened?
+528	Kiki is already carrying the Libra Armor for Seiya
+529	Seiya, Shiryu, Shun, Hyoga, you have to destroy the Seven Pillars of the Ocean
+530	Athena entrusted this mission to you!
+531	Volume IV - Deadly combat! Blue Submarine Fortress!
+532	Collapse! The Seven Pillars of the ocean
+533	Andromeda Shun is indo for the South Pacific Ocean Pillar
+534	Phoenix came back again from the end of the Underworld
+535	And now a brave fight with someone
+536	In addition to the North Atlantic Pillar, the six other Pillars have been crushed, one by one
+537	With the help of Hyoga, Shiryu, Shun and Shina, Seiya defeated Poseidon
+538	A group of people went to the Main Pillar
+539	Seiya became a meteor and crushed the Main Pillar, rescuing Athena
+540	and Poseidon has been sealed in Athena Amphora once again
+541	This is the memory that Hyoga has of Isaak
+542	Courage
+543	Force
+544	Justice
+545	They have discovered that everything was a Kasa conspiracy of Lymnades!
+546	Marin and the golden knights were all fake
+547	He was slowly inducing him
+548	Unwittingly, for a deadly trap
+549	The passage to the temple of Poseidon was opened
+550	Come back quickly to find Seiya and the others!
+551	Let the final battle begin!
+552	Tsunami! The wrath of Poseidon!
+553	Volume III - Tsunami! The wrath of Poseidon!
+554	Chapter 1 - Crisis! Athena was captured!
+555	Chapter 2 - Revelation! The previous generation of Poseidon, Nereu!
+556	Chapter 3 - Sea Dragon! The Truth about Poseidon!
+557	Deadly Battle! The Blue of the Underwater Fortress!
+558	Chapter 1 - Resurrection! The Renaissance of the Armor!
+559	Chapter 2 - Discovery! The Poseidon fortress
+560	Chapter 3 - Collapse! The Seven Pillars!
+561	Song of Death! Golden Destroyer!
+562	Volume I - Song of Death! Golden Destroyer!
+563	Chapter 1 - Myth! The legend of Andromeda
+564	Chapter 2 - Blood Road Masacrada Island!
+565	Portal of Hell! The Prologue of the Great Holy War
+566	Volume II - Portal of Hell! The Prologue of the Great Holy War
+567	Chapter 1 Resurrection! The Knight who became a legend!
+568	Chapter 2 - Stars of the Evil One! Decisive Battle in the Portal of Hell!
+569	Saga, Camus, Shura ......
+570	The Cosmo of them is ready to disappear!
+571	Quick! Go quickly!
+572	Wailing! The Treason of the Golden Caballeors
+573	Volume III - Laments! The Treason of the Golden Caballeors
+574	Chapter 1 - Arayashiki! The last message!
+575	Chapter 2 - Die! For the duty of Saint!
+576	Forward! Door leading to the underworld
+577	Volume IV - Go on! Door leading to the underworld
+578	Chapter 1 Damn! World asleep for thirteen years!
+579	Chapter 2 - Go! Deadly battle at Hades Castle!
+580	You are surrounded by a force
+581	Before his eyes there is only darkness!
+582	The charm of the forest has been broken
+583	Return fast to the Hell of the Scarlet Desert
+584	Wailing Wall
+585	Pandora died
+586	Loading dissatisfaction and regret
+587	There is ...... Pray!
+588	She prayed ----
+589	You can reach the Champs Elysees
+590	You can kill the Emperor Hades!
+591	He was pursuing the Cosmo of Lune, advancing to the deepest Underworld of Hades!
+592	Under the great Cosmo of music, bronze knights lose their senses
+593	Shiryu and Hyoga walk together, moving towards the deeps of hell, they will quickly reach the darkest part of the hell of the Swamp of Darkness
+594	Orpheus de facto launched an attack in their direction! How did this happen?
+595	When you wake up with doubts, witness a scene ......
+596	Meeting! Golden Knights!
+597	Volume II - Meeting! Golden Knights!
+598	Chapter 1 - Crime and Punishment! Destiny of the Souls
+599	Chapter 2 - Guidelines! Pandora's attempt ?!
+600	Never look back! Solar rays from hell!
+601	Volume I - Never look back! Solar rays in hell!
+602	Chapter 1 - Interruption! The voice of silence!
+603	Chapter 2 - Eternal love! Melody of the Garden!
+604	Finally the illusion of Morpheus has been broken
+605	Shiryu and Hyoga must be found quickly ....
+606	The golden armor will resonate ...
+607	Unhappily in the presence of a God, the armor is vulnerable ......
+608	So ...... all this ended?
+609	Ah! -
+610	I, a God
+611	How I was defeated by a mere mortal ......
+612	I do not believe it!
+613	I'm tired of playing with you!
+614	Be ready to die! Knight!
+615	Stupid!
+616	---- Hades
+617	The battle has begun ......
+618	Maintaining love and justice of a Knight! Get together fast!
+619	A thunder came from the temple of Hades
+620	At one point the black cloud enveloped the empty sky ......
+621	End of the Paradise Chapter! Return to the hopeful world!
+622	Flowers! The map of Morfeu
+623	Thanatos! The Call of Death
+624	Hypnos! The eternal sleep!
+625	Hyoga and Shiryu also put on the divine armor!
+626	Interruption! In the search for the Divine Power
+627	Shina will not allow Seiya to get away with it.
+628	Warn later for him to get out of here!
+629	Quick return to get ready
+630	It is necessary to leave the Earth of the Constellations immediately!
+631	You went in search of Seiya
+632	Your vision is clouded and then you lose consciousness
+633	Episode 1: Renaissance! The Fall of Darkness!
+634	Episode 1: Poseidon! Choice of Destiny!
+635	The Well of the entrance to the Underworld has been sealed again,
+636	but the danger over the Sanctuary is not over yet.
+637	Pandora steals the divine blood of Hades for an even greater conspiracy!
+638	All this, is it over?
+639	Or, is it just the beginning ...?
+640	Hold down the Q key, to override Geki's 'Bear Hug'
+641	Hold down the Q key to cancel 'Poison Fangs' from Ichi
+642	Hold down the Q key, to override 'Bomb Leo Leo's Minor'
+643	Press and hold the Q key, to cancel Jabú's 'Gallop of the Unicorn'
+644	Press and hold the Q key, to cancel Nachi's 'Deadly Howl'
+645	Despair! The Goddess takes an arrow!
+646	Mu repairs the armor of Seiya and the others.
+647	Seiya and the others begin to advance to the second house, Taurus.
+648	Battle! Big horn!
+649	Horror! Ghosts of the House of Cancer!
+650	No! Do not hit Shunrei !!!
+651	Shiryu roared!
+652	The Dragon's armor can no longer withstand the power of Shiryu
+653	Shaka! The man closest to God!
+654	Seiya, Shiryu and Shun are easily defeated by Shaka of Virgo.
+655	At this moment, directly from the Island of the Queen Death, Ikki appears in the house of Virgo
+656	Ikki burns his Cosmo to the fullest, in an attempt to explode together with Shaka
+657	Ikki: Shun, if life really exists after death, we're going to be brothers again ...
+658	Shun: Brother ......
+659	Arctic! House of Frozen Pound
+660	Not long ago, in another dimension
+661	Shun: Hyoga !!!
+662	Camus: My beloved disciple, Hyoga,
+663	If ​​you continue to advance,
+664	will surely die in the hands of other golden knights,
+665	with that,
+666	Shiryu uses the sword of Libra to cut the Ice Coffin,
+667	but Hyoga does not wake up.
+668	Shun: Hyoga, I will burn my Cosmo to the maximum to warm you
+669	however, or you will wake up,
+670	or my life will be consumed before .....
+671	Calvary! Order of Sagittarius!
+672	Sagittarius armor throws the golden arrow in the direction of the wall,
+673	Some words appear on the wall:
+674	To the young people who arrived here! I entrust to Athena .....-- Aiolos
+675	Shura! The owner of the Excalibur!
+676	Shiryu uses the Last Dragon blow
+677	Sacrificing with Shura of Capricorn
+678	Shura: Shiryu, you must continue living, to protect Athena until the end.
+679	I'll let Capricorn's armor protect him so he can come back safely,
+680	And I, who will become a star, and protect Athena here from heaven ...
+681	Funeral Roses! Decisive battle with the Grand Master!
+682	Shun defeated Aphrodite of Pisces
+683	Petals everywhere, with a great funeral of roses
+684	However, Shun is reached by the Bloody Rose of Aphrodite, coming to be between life and death.
+685	At the same time, Marin arrives at the house of Pisces
+686	Marin takes off his mask and places it on Seiya's face,
+687	Faints because of the poison of the demonic roses on the path
+688	Seiya recovers slowly ......
+689	Ikki prevents the fatal blow that Seiya was going to receive from Saga, all concentrate the Cosmo in Seiya
+690	Seiya launches Pegasus's comet, reaching and defeating Saga
+691	At once, Seiya stumbles off in the direction of the statue of Athena
+692	Good and bad! The confusion of Gemini!
+693	Wake up! Leo's nightmare!
+694	Before the golden arrow reached the body of Saori Kido
+695	Aiolia invaded the palace of the Grand Master
+696	Prepared to question the Grand Master, who always hid behind the mask of conspiracy
+697	The fair Leo Gold
+698	Already taken by the Imperial Satan
+699	Take away your last vestige of light from your heart
+700	Leo finally returns consciousness, but Cassios paid with his young life
+701	still more powerful enemies await you, bronze knights
+702	The Golden Armor of Sagittarius
+703	Missing a long time ago, suddenly emerges in Leo's house
+704	Next, he dresses in Seiya's body
+705	Restriction! The Scorpio Lethal Mince!
+706	The lethal scorpio needle hits the heart of the Pegasus Dragon
+707	Andromeda also sacrificed
+708	Just to give his friends
+709	a last hope of victory.
+710	Hyoga finally awakens amidst the softness of Shun's Cosmo
+711	But Shun was exhausted and fell down the road to the House of Scorpio
+712	It was finally possible to pass through the House of Scorpio, but ahead there was an even more terrible enemy
+713	But in any case, you can not give up your faith
+714	Although you are knocked down a hundred times, you can also get up a hundred times
+715	There is the faith of the knights!
+716	Diamond Dust!
+717	Absolute zero!
+718	Hyoga who was locked in a large ice coffin
+719	He remembered the days of training with the teacher Camus
+720	Piece by piece, the ice skip was tearing apart
+721	Wake up, Hyoga, wake up
+722	Master Camus in his memories repeated that phrase
+723	Finally, Hyoga sob Camus training managed to master the absolute zero
+724	Fiercely, Hyoga finally perished with Camus in the house of Aquarius
+725	An incessant snow began to fall from the sky, like a snow storm
+726	A gentle farewell
+727	You were teleported to the battlefield of the Holy War!
+728	By witnessing this battle, you will better understand the mission of a Knight.
+729	Hades has resurrected and controls the Golden Knights
+730	Specters under the direction of Saga, Shura and Camus attack the Twelve Houses!
+731	Even the ancient Grand Master, Shion of Aries, stood against Athena, the knights face a crisis never seen before
+732	Resurrect the Golden Knights to fight each other
+733	All this was conspiracy of King Hades
+734	To avoid further bloodshed, the goddess decided to sacrifice herself to go down into the Underworld and face Hades!
+735	Invincible Warrior
+736	Listen! The basics to destroy objects
+737	is crushing its atoms.
+738	Concentrate your strength
+739	It seems that you are already qualified to participate in the competition for the Armor
+740	The Pegasus Armor will be mine
+741	You are already qualified to participate in the competition for the Armor in the Sanctuary.
+742	The Cygnus Armor
+743	will be mine
+744	Brute force alone is not enough
+745	The fights of competition in the Sanctuary are about to begin
+746	If you want the armor,
+747	you must first understand the force of the Cosmo
+748	Elder Master, I will conquer the Dragon Armor
+749	He did not imagine that there was such power in his body
+750	I'll get the Andromeda Armor, Master.
+751	Now that you entered here, it will be impossible to escape
+752	Do it, Radamanthys!
+753	Ahh !!
+754	People looking for power, ah! They seem to be the perfect puppets.
+755	Yes, he will always obey our orders after we finish the ceremony.
+756	Ahhh! It hurts so much!
+757	In a short time you will feel much better
+758	What? It's Athena! Damn!
+759	Unfortunately, only the memory has been erased, but it can still be useful
+760	I will become your guide
+761	and I will show you the ways to complete our objectives
+762	Hates
+763	Hate your enemies, hate everything in that world
+764	You do not need compassion, nor need of weakness! Use the power of hatred ...
+765	and destroy everything that is before your eyes!
+766	No one can stop me from going to the Shrine
+767	The Phoenix Armor will be mine
+768	Why did it disappear?
+769	What is happening?
+770	Answers will be given in the future.
+771	For now, just get out of here.
+772	What was that?
+773	Oh, what a disappointment!
+774	Is that the speed of your punches?
+775	Idiot!
+776	Insignificant Bronze Knight!
+777	Very slow!
+778	Before you die, I'll take you to see a person.
+779	Is this ...
+780	the Sanctuary?
+781	Why did you bring me here?
+782	Marin!
+783	That's ...
+784	I think you know that person.
+785	Release it!
+786	I have not imprisoned her.
+787	I will always be faithful to the Lord.
+788	That ... That's impossible!
+789	Marin chose to be faithful to me, do not fight against it.
+790	Ahn !?
+791	How do you ...?
+792	The Knights must watch over love and justice
+793	Save me from that conspiracy!
+794	It is a surprise that I have perceived the illusion that I created, but do not encourage yourself too much
+795	Plasma Lightning!
+796	What an imbecile! You've never had a chance against me!
+797	Even if I risk my life, I will defeat you!
+798	Do not make me laugh!
+799	You're just digging your own grave!
+800	Tch, tch
+801	I detest those imprudent worms!
+802	Hell Waves!
+803	Go to Hell and find your destiny!
+804	Let those I killed torment you
+805	They can not die and suffer eternally, hating every living thing!
+806	Enjoy!
+807	Are you kidding? I do not want to die in a place like this!
+808	Since they insist on resisting ...
+809	I'm going to send you personally down there!
+810	Hey, brother!
+811	Hey, sister!
+812	Who are you? Why are you here?
+813	Am I dead?
+814	I can feel a nice Cosmo ...
+815	The armor is giving me strength ...!
+816	Burn, Cosmo!
+817	Rising Dragon!
+818	I will not be stuck in this place!
+819	Even if I die, it will not be here!
+820	I have returned from Hell, Mask of Death.
+821	Do not boast!
+822	You have only come here to die.
+823	Go straight to Hell!
+824	Cycle of the Six Stocks!
+825	Ohm!
+826	What is that?
+827	It's a crushing Cosmo!
+828	Blessing of the Darkness!
+829	Even after receiving my Blessing from Darkness,
+830	can you still stand?
+831	Is that all you have?
+832	I admire your perseverance
+833	I underestimated it
+834	As compensation, I will show you my true strength!
+835	Treasure of Heaven!
+836	What !?
+837	Deprivation of the first sense!
+838	You lost touch! Now you are incapable!
+839	What? What?
+840	He is unable to use his fists!
+841	Do not play with me, I will still defeat you!
+842	Hunf! It seems that I am making things easier for you.
+843	The next one will be ...
+844	Smell
+845	Eliminated!
+846	Palate
+847	Vision
+848	What are your last words, before you lose your five senses?
+849	I ... I'm still ... a ....
+850	Hunf!
+851	Let despair become your last echo here in this world!
+852	Invocation of the Evil Spirits
+853	Demons and monsters
+854	Dispérsense!
+855	Become ashes in the midst of that fiery fire of Hell!
+856	What? What sensation is that?
+857	What threatening Cosmo is that?
+858	No matter how many times you knock me down, as long as my Cosmo burns, the Phoenix will not be extinguished!
+859	The smell of roses mixed with blood is fascinating!
+860	How cold! I'm dead?
+861	What place is that?
+862	This is the land of forgotten souls
+863	Then forget the souls, and come fight!
+864	But how bragged you are!
+865	You really embarrass me.
+866	Betraying my teachings, contrary to the Golden Knights ...!
+867	Master, it's not that! They are hiding the truth!
+868	Master!
+869	Sinner, it will go through my judgment for having betrayed the Shrine!
+870	No, I did not traction!
+871	Oh, how useless!
+872	As a Knight, it is absurd that you do not have the capacity to protect the Goddess!
+873	You're so useless!
+874	Hunf! This is very boring.
+875	What ?! How is it possible?
+876	You were careless!
+877	The moment I felt more confused
+878	I felt the fighting spirit of the Armor.
+879	It was the Armor that woke me up!
+880	He's already on the verge of death and he still does not want to give up.
+881	What are those petals?
+882	Hmm, this is getting interesting.
+883	Master, it's not that! They are hiding the truth!
+884	Master!
+885	Your attacks definitely do not affect me!
+886	It turns out, all your fighting skills
+887	were taught by me!
+888	Do not boast, you're just an illusion!
+889	Hunf, what do you think you're seeing?
+890	Stop saying nonsense!
+891	You are stubborn! I think you need to see and experience a little of the real Diamond Dust!
+892	He really is a disciple of Camus! Identified my fake body!
+893	But, unfortunately,
+894	you will stay here forever.
+895	I remembered ...
+896	I was trapped in a freezing coffin!
+897	Damn! And now?
+898	Is that all? You really embarrass me!
+899	You seem to have forgotten all my teachings!
+900	So is it like that? Do you intend to resign?
+901	What are you seeing? Wake up your Cosmo, destroy that ice coffin!
+902	Destroy ... But ... My strength ...
+903	If you call yourself a disciple of Camus, then prove it to me so that I can see!
+904	I will!
+905	Athena ...
+906	Please give me strength,
+907	Even for a fraction of a second!
+908	I'm back!
+909	Did you not appreciate the ice coffin that was given to you? He came back only to die!
+910	How ... How is it possible?
+911	The Diamond Dust is surprising you, they are equal to the same!
+912	Incorrect. The great power of your Diamond Dust is weakening!
+913	Incorrect. The great power of your Diamond Dust is weakening!
+914	You have only delayed your destiny!
+915	Go to Hell !!
+916	It seems I need to take things a little more seriously
+917	It's not over yet!
+918	Not bad, nothing bad
+919	It seems that you are not completely useless
+920	It's a shame
+921	But his strength is not even close to that of the Golden Knights
+922	Feel the terror of my power!
+923	Young Knight, the road ahead is full of thorns
+924	Can you stand it?
+925	Strength can conquer everything
+926	To achieve inexhaustible power, you will have to follow the path of evil
+927	Are you ready?
+928	That guy still has a little energy
+929	I'll put it under my control, I bet it will have some use
+930	We will see each other again
+931	But ... What is that feeling?
+932	I will not accept your control
+933	Do not tell me ...
+934	Exact
+935	Your attempts to deceive me
+936	are useless
+937	In my interior, I had already decided my goals a long time ago
+938	The Scale decided to support me
+939	Get ready
+940	Then
+941	you have no more use
+942	You can barely stand up! I'm going to send you to hell!
+943	I did not expect his body to hide that strength
+944	After the explosion of its Cosmo, the intensity of its force increased
+945	However, my strength is still above yours
+946	Well, what power!
+947	Even if I'm called a genius, I will not lose with you
+948	Oh, it's that feeling again
+949	I won, Eide!
+950	Look, right at the moment, how could I lose?
+951	Well, that Cosmo
+952	It became so strange ...
+953	Eide
+954	How fast!
+955	The Cosmo of Eide disappeared
+956	How is it possible?
+957	Eide, wake up!
+958	&name &that Cosmo is very dangerous. Stop it now!
+959	Listen ...
+960	The universe ....
+961	He was born 15 billion years ago, in the Big Bang.
+962	Actually ...
+963	Your own body is one of the microuniverses resulting from that great explosion.
+964	The Knights manifest their energy by exploiting their inner universes.
+965	With that energy, they are capable of tearing the sky and cracking open the earth.
+966	That energy is called Cosmo.
+967	Besides the Cosmo ...
+968	Each Knight has his own Protective Constellation and Armor
+969	If the constellation of Cygnus is your guardian sign,
+970	then your Armor must be of Cygnus.
+971	You must know ...
+972	The Cygnus Armor has a freezing energy. By using it, you will have the strongest Diamond Dust
+973	If the Phoenix constellation is your guardian sign,
+974	then your Armor must be Phoenix.
+975	Phoenix Armor has the ability to regenerate. By using it, you will have immortality.
+976	If the Dragon constellation is your guardian sign,
+977	then your Armor must be Dragon.
+978	The Dragon Armor has the greatest spiritual power. Your fists and shield will be stronger
+979	If the Pegasus constellation is your guardian sign,
+980	then his armor must be Pegasus.
+981	Pegasus Armor will give you extreme speed. By using it, you will have faster strokes.
+982	If the Andromeda constellation is your guardian sign,
+983	then your Armor must be Andromeda.
+984	The Andromeda Armor is the only one that uses weapons. By using it, you will have maximum attack and defense.
+985	The fire of the Twelve Houses has been lit. That is the sign of the Sanctuary to ward off intruders.
+986	Entering the Sanctuary without permission is really fun ...
+987	The flame of the House of Aries has been extinguished. 1 hour has passed
+988	The flame of the house of Taurus is extinguished. It's been 2 hours
+989	The flame of the House of Gemini has been extinguished. It's been 3 hours
+990	The flame of the House of Cancer has been extinguished. It has been 4 hours
+991	The flame of the House of Leo is extinguished. It's been 5 hours
+992	The flame of the Virgo House has been extinguished. It's been 6 hours
+993	The flame of the House of Libra has been extinguished. It's been 7 hours
+994	The flame of the House of Scorpio has become extinct. It's been 8 hours
+995	The flame of the House of Sagittarius has been extinguished. It's been 9 hours
+996	The flame of the Capricorn House has been extinguished. It's been 10 hours
+997	The flame of the House of Aquarius is extinguished. It's been 11 hours
+998	The flame of the House of Pisces has been extinguished. It's been 12 hours
+999	Track: Running + double jump can increase the distance and height of the jump
+1000	Now you are using just the Initial Armor.
+1001	There are 88 Constellation Armor,
+1002	You can make an effort to gather all of them.
+1003	With the use of your Cosmo, the Armor can advance to a new state.
+1004	If you work hard, your Armor can reach the level of the Golden Armor!
+1005	Golden Armor ...!
+1006	I will strive to increase my Cosmo and become a stronger Knight!
+1007	I feel my body full of energy ...!
+1008	We can not waste any more time!
+1009	They are really persistent, ha ha ha ha!
+1010	Who is it?
+1011	I thank you for the blood of the King of the Underworld.
+1012	Now go to Hell!
+1013	Get out of here fast!
+1014	But, Roderio ...!
+1015	Hurry up! I will stop him.
+1016	It's no use running away!
+1017	Hunf! Smug!
+1018	One more is still missing ...
+1019	Stop!
+1020	Your opponent is me!
+1021	What do you think you can do with that empty body?
+1022	While the fire of my soul is on
+1023	I will prevent you!
+1024	Prevent me?
+1025	Ha ha ha ha!
+1026	That's what we'll see, then!
+1027	Centuries of resentment ...
+1028	It's time to put an end to all this!
+1029	Let's transform ourselves into Cosmic dust together, Thanatos!
+1030	This is the Pegasus Knight's pride!
+1031	This Cosmo ... it's Roderio!
+1032	The soul of the first Pegasus Knight will soon come to an end.
+1033	You! Why are you here?
+1034	I only attracted a group of alchemists and apprentices to the forest
+1035	Their fear caused them to deliver the secret of the blood of the King of the Underworld.
+1036	However, I want to thank you. I thought I would get Alex's trust
+1037	But, obviously, you're more suitable
+1038	Damn!
+1039	Make yourself comfortable, because you will not get away!
+1040	Be obedient and surrender the blood of the King of the Underworld.
+1041	I'm not giving it to you!
+1042	You talk too much, Pandora.
+1043	Mr. Hypnos ...!
+1044	My body ... It does not move!
+1045	Take the blood and let's go!
+1046	Yes, sir.
+1047	Calm down, I do not like to kill.
+1048	Eternal dream!
+1049	Young justice, knight of the stars!
+1050	This gentle Cosmo ... Maybe it's ..?
+1051	Never give in to evil! Wake up, my Knight!
+1052	Athena!
+1053	Knight of Hope, I give you the blessing of Mount Olympus, representing the Goddess.
+1054	Hunf! Satan...
+1055	... Imperial!
+1056	Welcome to the Shrine
+1057	Do not worry, that will send you to Hell.
+1058	Plasma Lightning!
+1059	Great Horn!
+1060	We have achieved!
+1061	Of course not. I think I should give you a sample of my power!
+1062	That's bad ...
+1063	It's not good, if it continues like this ...
+1064	Simple mortals dare to hurt me, Thanatos!
+1065	That's unforgivable!
+1066	It is inevitable that the fire of evil will be extinguished.
+1067	Protecting Athena, love and justice, is the mission of all of us, Golden Knights!
+1068	Even if we lose honor or life.
+1069	Shaka ...!
+1070	No matter how powerful the enemy is
+1071	we must fight until the end.
+1072	That's all we can do.
+1073	We will protect the Sanctuary of Athena through the
+1074	Exclamation of Athena!
+1075	The forbidden blow ?!
+1076	Hurry, we take care of that!
+1077	I imagine that the House of Aries is unprotected. How easy was it to go through it?
+1078	You can boast about having arrived at the Taurus house, but you will not get out of here!
+1079	Run away while there is still time!
+1080	You are looking for problems ...
+1081	That guy ... I do not think he's capable of ...
+1082	Yes, you are skillful, but ...
+1083	You forgot something important:
+1084	Your opponent ...
+1085	It's me, Aldebaran!
+1086	But ...
+1087	... you did it very well. LOL!
+1088	Remember that the Holy War occurs since the era of mythology
+1089	The disaster happened suddenly
+1090	Hades invaded the Sanctuary
+1091	Athena, the Guardian of Earth and Peace
+1092	Led a ferocious counter-attack against Hades
+1093	At that time, the golden knight of Sagittarius gave his life
+1094	In exchange for the weapon of Prometheus
+1095	When evil came again
+1096	Athena used the strength of the Prometheus Hammer
+1097	And together with his knights, they prevented the attack of Hades
+1098	And they made Hades shed a drop of blood
+1099	For thousands of years, to recover his power, Hades is behind the whereabouts of the lost blood
+1100	Let me remember ... The story happened thirteen years ago
+1101	The brother of the Leo Knight, Aiolia
+1102	was the Golden Knight of Sagittarius, Aioros
+1103	Aioros was the bravest and most righteous Knight
+1104	However, thirteen years ago, attracted by the force of darkness, Aioros betrayed Athena
+1105	Aiolos tried to kill Athena and was discovered by the Grand Master
+1106	And then, I flee from the Sanctuary
+1107	The Grand Master sent the Shura of Capricorn to kill Aioros, who died on the Path of Oblivion
+1108	During all these years, Aiolia was described as the 'brother of the traitor'
+1109	During the long battle
+1110	His strength woke up
+1111	Now,
+1112	The time has come to take on the new force
+1113	This is the power of the Golden Armor
+1114	I was defeated! I will have to give you control
+1115	But remember! in the moment that justice vacillates your interior,
+1116	I'm going to take advantage to dominate your body again
+1117	How can there be someone with the Cosmo so strong?
+1118	With the attention of everyone ...
+1119	This day has finally arrived!
+1120	Let's go to action! Get out of my way!
+1121	Only about my corpse!
+1122	It seems that the difference between the strength of a golden knight and yours is not yet clear!
+1123	How is it possible ?? I can not see his hit!
+1124	It is useless to resist! You are not a rival to me
+1125	I'll never let you take your armor!
+1126	How strong!
+1127	Even if he loses his life ...
+1128	I will stop you!
+1129	Pegasus Meteor !!
+1130	Hunf! That is all?
+1131	I'll show you what speed is!
+1132	Oh! Seiya
+1133	The armor of Sagittarius !?
+1134	Why?
+1135	Armor ...
+1136	In that direction is the Sanctuary!
+1137	Aiolia, have you still not understood?
+1138	That Cosmo is so strong and soft!
+1139	Could it be that she really is Athena?
+1140	Miss Saori!
+1141	Seiya, you won!
+1142	The armor is yours!
+1143	The mountain will fall apart
+1144	Go!
+1145	Come with us!
+1146	No, maybe that's my destiny!
+1147	Goodbye, my brother!
+1148	Here is very dangerous, let me get you out of that place!
+1149	Finally, I left the forest of nightmares
+1150	It's finished, Athena
+1151	This ... It seems like it happened a long time ago ...
+1152	Is it a dream ...?
+1153	This new armor was obtained at the cost of Shiryu's blood!
+1154	I'm going to use it to achieve victory!
+1155	They are arriving
+1156	That was thirteen years ago
+1157	My grandfather, Mitsumasa Kido, found a warrior very hurt while traveling through Greece
+1158	He was the Golden Knight of Sagittarius, Aiolos!
+1159	Aioros told my grandfather
+1160	that the baby in his arms was the reincarnation of Athena and forces of evil wanted to kill her
+1161	Before dying, Aioros handed over the armor of Sagittarius and Athena to my grandfather
+1162	Please, protect her! Athena is the only hope in this world! Aioros said
+1163	That baby
+1164	It was me!
+1165	Shiryu, I cover you!
+1166	Okay!
+1167	Receive my blow, Mask of Death!
+1168	Is that all you can do?
+1169	Shiryu, now!
+1170	Flying Dragon!
+1171	Very good, Shiryu!
+1172	You are only Bronze Knights ...!
+1173	Shiryu, be careful!
+1174	Who? ... Han ?!
+1175	Mask of Death ...
+1176	What? Teacher...!
+1177	You!
+1178	For now, I'll let you live!
+1179	I wait for you in the Sanctuary!
+1180	Shiryu, let's see who is the best!
+1181	Come on, friend!
+1182	Rising Dragon!
+1183	What happened to you, friend? Wake up!
+1184	This is where we trained ...
+1185	We have to become stronger, Shiryu!
+1186	Shiryu, do not give up!
+1187	Lei-Hu, why did you stay like that?
+1188	Do not you remember the Master, of Rozan ...?
+1189	Wake up!
+1190	Ma ... Teacher ...
+1191	Idiot! To get rid of my control, only with the ...
+1192	DEATH!
+1193	Die, Shiryu !!
+1194	Sorry, friend ...!
+1195	I've lost ... At last you became the strongest, Shiryu ...
+1196	Lei-Hu ...!
+1197	Now, I will send you to Hell!
+1198	Tch, tch ...
+1199	Leave that with me! Both of you, do not be stuck here!
+1200	Go!
+1201	What is that? I can not distract myself from appearing ...
+1202	One more mouse?
+1203	Well ...
+1204	Let everyone come!
+1205	Damn !!
+1206	¡Ley-hu !!
+1207	Weak!
+1208	Damn !!
+1209	Nobody leaves!
+1210	I will not die without first defeating you, Shiryu!
+1211	Get out, fast!
+1212	Shunrei !!
+1213	The only way to save Shunrei is by reversing the flow of the Great Cascade ...
+1214	I promise I will, Shunrei!
+1215	Has understood the blow ...!
+1216	Report your wish, I will do it.
+1217	Goodness
+1218	Understood I will fulfill your wish.
+1219	Dragon
+1220	Do you think you can defeat us like that?
+1221	We will show you the true power of the God of Dreams
+1222	Is that all?
+1223	That Cosmo ...
+1224	It will be ...
+1225	Everyone who knows the truth must die
+1226	Galactic Explosion !!
+1227	Run away ... Fast ...
+1228	Hilda ...
+1229	Let's see who is going to save you this time
+1230	No! Do not bother! I'm losing your Cosmo
+1231	Knights, protect the Goddess!
+1232	Destiny changes constantly, as do the phases of the moon ...
+1233	The life experience has ups and downs, joy and sadness, union and separation
+1234	In short, everything is summarized in a peaceful dream, disappearing like ice and snow ...
+1235	And the wheel of destiny turns constantly, tirelessly.
+1236	Happiness is transient, subtracting only suffering and torture.
+1237	Your goddess brings hatred and fear to people ...
+1238	At the same time, it causes people to worship it out of fear of divine punishment.
+1239	In the moment I touch the strings and invoke the words of God
+1240	Let me hear the sad fate, be it life or death.
+1241	He defeated the shadow of the sea, we can not forgive him!
+1242	Wait!
+1243	I still have something to ask you!
+1244	Save me!
+1245	I can make you the king of this world!
+1246	Look at the stones!
+1247	They can be crushed!
+1248	Haha !! finally, I'm free
+1249	It's time!
+1250	Awaken, oh, dormant resentments in the depths of the Island of the Queen of Death
+1251	Seiya, you are warriors chosen by God, the knights of hope
+1252	They can not die
+1253	This Cosmo is ...
+1254	It seems that things are not so simple. I'm going to leave you out while.
+1255	Great, if we beat him, my brother will wake up
+1256	Do you really believe that you can defeat me?
+1257	In the world of illusion created by me, I am the almighty God
+1258	No one can kill me.
+1259	Shun
+1260	Good defense. But let me show you the strength that Mr. Guilty gave me.
+1261	Her ... Brother ....
+1262	Do you think this illusion is able to stop me ??
+1263	Phoenix Bird!
+1264	Ignorant creature!
+1265	Since you want so much to die
+1266	Treasure of Heaven!
+1267	God gave his punishment
+1268	The volcano erupted
+1269	Even if he does not do anything
+1270	You will not escape death
+1271	Ikki
+1272	Do not say anything else
+1273	But ...
+1274	You have more important things that you do
+1275	And the Island of the Queen Death is my house
+1276	Therefore, I have to defend it
+1277	Board on board
+1278	It seems you have decided to be my enemy
+1279	Hyoga
+1280	I'll give you one last chance
+1281	If you do not accept, then do not blame me
+1282	Forget, Alexer!
+1283	I'm going to stop your conspiracy and get the Oricalco
+1284	It's really ... A pity
+1285	This is the resistance I expected!
+1286	Blue impulse!
+1287	Attack!
+1288	The Knight of the Cygnus will never yield!
+1289	Diamond powder!
+1290	Hunf ... This time I'll let it go!
+1291	But in the not too distant future, the power of Cygnus will be used by me
+1292	Kanon, why?
+1293	I have abandoned the identity of the substitute of the Golden Knight of Gemini a long time ago
+1294	Now ...
+1295	I am the Marine Dragon General
+1296	I'm going to show you the true power of a
+1297	Of the 7 Marine Generals
+1298	Golden Triangle!
+1299	The Oricalco ...
+1300	You will not get it!
+1301	How naive
+1302	You
+1303	They're going to pay for that!
+1304	Isaak
+1305	He has not died, he is still alive!
+1306	Alexer, have you reached any conclusion?
+1307	Asgard Warriors
+1308	We do not want war
+1309	But when the invasion happens
+1310	We use our own bodies to defend our homeland
+1311	Many brothers sacrificed for victory
+1312	But, while we're still standing here, nobody ...
+1313	You can defeat us
+1314	Stand up, warriors!
+1315	Fight for Asgard!
+1316	Kanon
+1317	Do not let it spoil my plan
+1318	It seems to be the only way
+1319	Imperial Satan!
+1320	How long ...
+1321	Have I fallen asleep?
+1322	I need your strength, Hyoga
+1323	Come to our side
+1324	No way! I will not be an accomplice in your invasion to the south
+1325	Diamond dust!
+1326	What? My hit has no effect?
+1327	Hunf, Impulse Blue!
+1328	Take it!
+1329	What !?
+1330	This is a fight between him and me! Do not mess!
+1331	Hunf, I can not believe that you would ally the Knights of Athena
+1332	It does not matter!
+1333	No more nonsense!
+1334	Where are you looking?
+1335	The winds of the hurricane!
+1336	Destroy the main pillar
+1337	Attack!
+1338	Impossible!
+1339	You ... I will not forgive you!
+1340	You failed, Poseidon
+1341	What are you holding?
+1342	The amphora of Athena
+1343	Sorry, Athena
+1344	Awakening in this era was his only intention. Go back to sleep, Poseidon
+1345	Stop, Athena! You will regret!
+1346	Maintaining peace in the world is my mission!
+1347	Your weakness, you do not deserve to die in my own hands
+1348	But it would make me happy to send you to another world
+1349	More desperate than I thought
+1350	Just as you wish ...
+1351	Aiolia
+1352	No hurry! Soon it's your time
+1353	It can not end like this
+1354	&name &you are the last hope
+1355	Athena is with you
+1356	How dare you enter the Holy Underworld?
+1357	While they can not find it,
+1358	Kill it!
+1359	Final blow
+1360	It's Athena! Hold it!
+1361	Hungry and reckless ghosts, come
+1362	Your heights have turned black
+1363	Seek your destiny in reincarnation
+1364	Kanon, we'll settle accounts later
+1365	Lord, leave that Knight with us, please!
+1366	Idiot, even if there were hundreds of you, you would not be pareo for him!
+1367	What love to subordinates! You can go!
+1368	What? Moron! Do not be arrogant!
+1369	You will feel all our power!
+1370	Would you like to see what real 'power' is?
+1371	What a lack of emotion!
+1372	From ... Has it disappeared?
+1373	Pandora
+1374	You will never pass through here!
+1375	Pegasus Meteor
+1376	Stop us!
+1377	Come on!
+1378	If you want to kill me, you will have to prevent me from eclipse, on the contrary, I will not allow anyone to die
+1379	Then, Athena? Were you not willing to give your life of your own free will?
+1380	Wake up now!
+1381	What happened?
+1382	Athena's blood ... It's too hot!
+1383	I can feel ...
+1384	I get to feel the Cosmo of Shun
+1385	While I am alive, I have an obligation to protect all lives and that is why I have reincarnated myself in this age. Get out of Shun's body, Hades!
+1386	You must understand that there is no point in continuing to fight. Interrupts eclipse, Hades
+1387	I want you to be like me
+1388	I will destroy you
+1389	His only strings that can issue the attack notes have already been cut by me
+1390	Now he dies!
+1391	Your face of despair makes me happy
+1392	Since you came here, I've never been able to play for Mr. Hades
+1393	I'm going to tell you the truth before you die
+1394	The sun that you are seeing is my masterpiece
+1395	Damn Orpheus!
+1396	Balance of curse!
+1397	You ...
+1398	Have you used your teeth to hold the strings?
+1399	Arayashiki
+1400	The Holy War is about to begin. I can feel your Cosmo
+1401	You must awaken Arayashiki
+1402	Your previous experiences can no longer help
+1403	New experiences are necessary for the battle
+1404	New experiences
+1405	Yes ...
+1406	To defeat the golden knights, you will have to burn your Cosmo to the highest level
+1407	That is,
+1408	Awakening your seventh sense
+1409	Seventh sense?
+1410	That!
+1411	Seventh sense is an existence that surpasses the six common senses
+1412	You have to understand
+1413	Your armors must also be repaired
+1414	It looks like the armor is full of energy
+1415	Come on! We do not have much time!
+1416	Noo you are my opponent
+1417	Get out of here!
+1418	How can I be defeated here?
+1419	Saori, I will save you!
+1420	Burn, my Cosmo!
+1421	Pegasus Meteor!
+1422	It is a force completely from the previous
+1423	I'll have to take it seriously.
+1424	Supernova Titanic!
+1425	I'm going to take them to find the Grand Master
+1426	But ...
+1427	... In the shape of corpses!
+1428	Get my punch!
+1429	Ghost Arrows!
+1430	Hehehehe
+1431	They can not save this woman
+1432	To the young people who came here! I entrust them to you Athena ---- Aioros
+1433	Cassios
+1434	He will only wake up in this way
+1435	Hurry up!
+1436	It seems that my collections collection is going to win a new specimen
+1437	Immerse yourself in this endless dream
+1438	Disclaimer
+1439	You definitely will not get away
+1440	It was for insignificant things
+1441	Have you come to disturb my sleep?
+1442	What happens ...
+1443	Do you want to die?
+1444	Let's have some fun!
+1445	Do not try to cross there in vain
+1446	Is he dead?
+1447	Get up
+1448	To, Shura
+1449	It does not matter if you explain it
+1450	Since this is the case, I have no way out if I do not use all my strength and put our lives at risk
+1451	Atomic Thunder
+1452	Golden arrow
+1453	Hunf, go to hell!
+1454	Receives
+1455	Shura
+1456	Take! Go dead!
+1457	reached
+1458	Before saving, save yourself
+1459	I can not get involved in this
+1460	Come here, please
+1461	Take
+1462	Beautiful blow
+1463	How I wanted to know the truth
+1464	Just come with me
+1465	Help ... Save me!
+1466	You have finally discovered
+1467	Who is it?
+1468	Do not get nervous
+1469	What will happen next will be even more interesting
+1470	The chosen one needs to select a Scale to accept the challenge
+1471	I wish that
+1472	Find an answer as quickly as possible
+1473	Good luck
+1474	Are you arriving now? How slow!
+1475	It seems that you need to train a little more
+1476	Courage! Go through the fire test of Leo
+1477	^ ff0000 (attract the Leo test examiner for the flames can make him be defeated faster)
+1478	Protects the way to the Sanctuary
+1479	Do not let any enemy pass! If not, the result will be disastrous!
+1480	Forward! For Mr. Hades! Destroy the temple!
+1481	I did not expect you to defeat a spectrum
+1482	A strange Cosmo has arisen next to the statue of Athena
+1483	Go protect the statue of Athena
+1484	Follow me
+1485	Do not delay
+1486	As the King of the Underworld allowed my reincarnation, I will fight for him
+1487	Shameless! Fighting in the midst of so much suffering
+1488	Welcome to the illusion of Pisces
+1489	I am Aphrodite, the warrior of beauty
+1490	Defeat me
+1491	And I'll admit you as a Knight
+1492	Capture Saori Kido
+1493	Come on, my boy
+1494	Capture it for me
+1495	Saori Kido
+1496	Your time has come
+1497	We are going to stop here
+1498	Even if I could save her, it would not make any sense
+1499	Because
+1500	Lord Poseidon
+1501	He has already woken up
+1502	In addition,
+1503	I have prepared a pleasant surprise for you
+1504	I hope you like it
+1505	To protect the multitude of the frozen lands
+1506	Even if I become your enemy
+1507	I will not doubt
+1508	Dohko
+1509	Unforgivable
+1510	Come with me, Saga. I'm going to end this myself
+1511	Saga
+1512	Why do you still have doubts?
+1513	We'll see how long you'll hold
+1514	What unnecessary effort
+1515	You will drown in my shadow
+1516	He has run away
+1517	Leave it, it is clear that it is not a priority
+1518	We have more important things
+1519	What a strong pressure!
+1520	My body and armor seem to be being crushed
+1521	If you continue like this, I can die here
+1522	Maybe
+1523	Is it true that only a god can reach Champs Elysees?
+1524	Is that the power of a golden knight?
+1525	It's too much nonsense
+1526	To make me, the King of the Underworld, come personally to execute you is an honor
+1527	Die, Pegasus!
+1528	We are going to end this war
+1529	I agree
+1530	Hades, you can have it for sure, that I will make you be punished
+1531	Athena, you are only here to see your petty humanity die
+1532	Feel the power of justice
+1533	It is impossible
+1534	I am the King of the Underworld! I dont believe it! I can not believe it!
+1535	Each of us will return to the world of light
+1536	While your power disappears, Athena, I will manage to dominate the whole universe
+1537	Stop!
+1538	Many people have already been sacrificed!
+1539	We must stop now with this war!
+1540	For love and peace ...
+1541	For eternal salvation ...
+1542	For the purification of every bloodstained earth ...
+1543	Fight by my side!
+1544	No
+1545	Was it just a dream?
+1546	What is happening?
+1547	I will make the remnants of the Underworld feel the divine punishment!
+1548	Is this the power of the Virgo Knight? Amazing!
+1549	You're going to flee, right?
+1550	Come with me, fast!
+1551	Hunf ...
+1552	Do not pay attention to him
+1553	Let's go fast
+1554	Where ... am I?
+1555	He finally woke up!
+1556	You have slept for a long time ...
+1557	Uh ...
+1558	Where am I?
+1559	Oh, it's a Siren ...
+1560	Answer me, why did the sea bring you?
+1561	If the Star of Ferocity is your guardian sign,
+1562	then his armor must be that of Wyrm.
+1563	When dressing Wyrm's Armor, you will have the power of darkness.
+1564	If the mystical Dragon of the Sea is your guardian sign,
+1565	Then your scale should be that of the Sea Dragon
+1566	The Sea Dragon Scale has the strength of the Ocean. By using it, you control the seas
+1567	Is that all you have?
+1568	Let me see your true strength ...
+1569	That's right ...
+1570	Just a little more ...
+1571	Did you see?
+1572	This is his true power.
+1573	In the end, he was right about you
+1574	Ha ha ha!
+1575	Oh, you almost reach the speed of light! Attacks come from all directions
+1576	But, unfortunately ...
+1577	I started to find you bored
+1578	See
+1579	The true power
+1580	Interesting!
+1581	Ahhhh !!!!
+1582	Is it over?
+1583	You should be happy because I temporarily change my mind
+1584	But remember: to regenerate the body a new explosion of the Cosmo is necessary
+1585	We will still meet again
+1586	It seems that the Cosmo is flowing in my body
+1587	I am the winner
+1588	Oh, Cassios lost!
+1589	You can not even stand
+1590	This level ...
+1591	It's not enough to be one of my puppets ...
+1592	This Cosmo ...
+1593	This force
+1594	I can not control it
+1595	What ... What incredible strength
+1596	What is that?
+1597	There must be something wrong
+1598	If the constellation of Lira is your guardian sign,
+1599	then his armor must be Lyra's.
+1600	The Armor of Lira has the most beautiful musical tone. By using it, you will have the power of music
+1601	Young one!
+1602	Prepare yourself to protect Athena!
+1603	Test animation
+1604	Chapter cover
+1605	

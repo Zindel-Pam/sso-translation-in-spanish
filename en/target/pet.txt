@@ -1,0 +1,359 @@
+0	Close
+1	Far
+2	Summon
+3	Rest
+4	Pet Bar:%d /%d
+5	Stage %d
+6	No Evolution
+7	Evolved%d times
+8	Pets can evolve now
+9	Alter
+10	Confirm
+11	Attack rating
+12	Defense qualification
+13	Life Ratings
+14	Attack increase rate
+15	Defense increase rate
+16	Rate of increase of life
+17	Increase in attack
+18	Defense increase
+19	Increase in life
+20	Doing that will cause your pet%s to forget the ability%s level%d. Are you sure you want to continue?
+21	An error occurred when using Pet
+22	Pet Level does not meet requirements
+23	Insufficient gold
+24	The load level of the Pet is very high.
+25	The load level of the Pet is very low.
+26	Pet's increase rate has reached, it is not possible to continue the improvement
+27	Learning
+28	Improvements
+29	To learn these skills, the level of learning must be at least%d
+30	Level needed for skill learning%d
+31	Necessary type of pet for skill learning%s
+32	Pet learned new skills!
+33	Pet has not learned new skills, try again later.
+34	The Pet has already learned enough skills; in the case that you learn more, you will not be able to remember> _ <
+35	The Pet has already learned that ability and does not need to learn it again.
+36	The number of active pet skills reached the limit
+37	The number of pet passive skills reached the limit
+38	Incorrect type of pet, you can not learn this skill
+39	The skill evolution level of the pet can not be less than%d
+40	Improved skills require Pet level to reach%d
+41	The Pet's skill level went up!
+42	There was no change in Pet skill level, learn more sometimes and try again
+43	Pet skill level has already reached the maximum level
+44	Pet has not yet learned the corresponding skill, it is not possible to continue with skill improvement
+45	Pet improvement stone and the Pet's ability chosen do not correspond
+46	Pet Skill Level does not correspond to the required prerequisites of the improvement stone
+47	Please put first the Pet that needs to be evolved in the evolution interface
+48	Pet level needed for evolution: level%d
+49	Article necessary for evolution:%s
+50	%s evolved for the successful %d level
+51	The Pet has not been able to evolve
+52	Pet has already evolved to the highest form of stagnation
+53	Material used for evolution
+54	Pet%s improved successfully!
+55	Failure to improve Pet%S
+56	%s Pet has reached the maximum limit, can not continue strengthening
+57	Level higher than the Pet load is%d
+58	Increase%s of Pet in%d points
+59	Fusion of Souls of Pet made successfully!
+60	The status of the two Pets ^ff0000 are not the same, you can not proceed with the fusion of Souls
+61	The initial growth rate of the auxiliary Pet ^ff0000 is relatively lower than that of the main Pet, it is not possible to continue with the fusion of Souls
+62	Alma del Pet moved successfully 1
+63	The discrepancy between the statuses of the two Pets ^ff0000 can only reach 1, at the maximum
+64	Auxiliary Pet ^ff0000 has no help for the growth of the Pet Pet
+65	Siamese
+66	Persian
+67	Short hair
+68	Scottish Fold
+69	Bengal cat
+70	Kitten
+71	Sharpei
+72	Madame
+73	Golden
+74	Pastor
+75	Mastiff
+76	Puppy
+77	Parrot
+78	Cockatoo
+79	Blue Crown Parrot
+80	Gray Parrot
+81	Guacamayo
+82	Eagle
+83	Bald Eagle
+84	Other
+85	Cat
+86	Dog
+87	Parrot
+88	Eagle
+89	Heroic
+90	Quiet
+91	Bright
+92	Enthusiasm
+93	Guest
+94	Owner ~ Owner ~
+95	I want [%s] ...
+96	I want%s for <%s> ...
+97	... Hug ~
+98	Very happy ~
+99	Are you sure you want to release the <%s>?
+100	Message in the bottle
+101	Start procreation
+102	End procreation
+103	Failure in procreation
+104	The content can not be empty
+105	Ah ... [%s] is better!
+106	Growth less than 500 can not be procreated
+107	Growth under 1500 can not be procreated
+108	Growth under 3000 can not be procreated
+109	Growth under 5000 can not be procreated
+110	Growth under 7500 can not be procreated
+111	Name invalid
+112	Message in the bottle
+113	The content can not be empty
+114	Impossible to answer the message due to lack of funds.
+115	<%s' Pet>
+116	Countdown to Operation:%ds
+117	Operation expired, impossible to make procreation
+118	The Pet needs to be invoked
+119	Missing items
+120	Far Away from the Pet
+121	Expired
+122	Invalid pet
+123	There is no desired item%s!
+124	<%s> your desire was satisfied, you are very happy
+125	It is not possible to invoke in water
+126	Pet absent is not in invocation status
+127	Owner of the absent Pet is not Online
+128	Pet is exploring, it is not possible to invoke
+129	It is not possible to invoke Pet under that status
+130	Explore
+131	Explore
+132	Join the exploration! <%s> of%s are already gone!
+133	The exploration troop officially left!
+134	Your Pet <%s> returned from exploration!
+135	This Pet is exploring
+136	This Pet already explored today
+137	Explored
+138	%d minutes
+139	It is not possible to explore if the degree of intimacy does not reach 200
+140	Explore together, <%s> followed <%s> of%s and left ~
+141	<%s> came out!
+142	Scan Error ...
+143	Pet is already exploring
+144	In friends online, it is not possible to conclude
+145	Already explored today
+146	Stamina index of <%s> is not enough, it is not possible to explore
+147	Degree of intimacy of <%s> is not enough, it is not possible to explore
+148	<%s> Entered the exploration troop successfully!
+149	Failed to join the scan ...
+150	You already have a Pet in exploration, it is only possible to have 1 Pet participating at the same time
+151	Captain Offline
+152	This Pet has explored today
+153	Fail to join exploration, it is not a friendship relationship
+154	It is not possible to locate the troop
+155	Fail to join the exploration, the troop has already left
+156	Successfully added!
+157	Error adding
+158	The Pet can not perform procreation
+159	Procreation exceeded the maximum limit of times
+160	Procreation is not possible in different breeds
+161	The blood relationship between the different levels can not perform procreation
+162	In the liberation status, procreation is not possible
+163	It is not possible to perform procreation in equal sexes
+164	Procreation confirmed successfully!
+165	Error in the confirmation of procreation
+166	The other party has not added the Pet
+167	Procreated baby received successfully!
+168	No Pet in procreation
+169	Time is not over yet, please wait a little
+170	Pet bar filled, you need at least 2 empty spaces in the bar
+171	Pet training in progress ...
+172	Stamina del Pet Index is not enough, it is not possible to train
+173	E Pet is not in invocation status, it is not possible to train
+174	Click to invoke the Pet
+175	Click to remove the Pet
+176	No Pet, no procreation is possible
+177	It is not in any troop, it is not possible to perform procreation
+178	If the number of people in the troop is not 2, procreation is not possible
+179	Troop companion is not close, procreation is not possible
+180	It is not the captain, it is not possible to procreate
+181	Procreation in progress ...
+182	Troop companion with procreation in progress
+183	Companion of troops without Pet
+184	1 The little companion found a rabbit on the way up the mountain, he became fond and spent a nice period of time with the bunny. The tireless effort of the Little Companion resulted in 10000 meters of complete training.
+185	2 The little companion found a black bear in the road ahead and, after an intense fight, the small companion ended up defeating him. The little companion runs happily from here to there.
+186	3 The little fellow organized a night party at the campfire. That day was the best day of his life; the Little companion will keep it in his heart. Of course, all that is secret, the owner will never find out.
+187	4 They say that inside a distant forest there is a mysterious castle and that whoever finds it will be able to fulfill their wishes. After a tireless effort, the Little Companion ended up finding that mysterious castle and made his wish come true: stay forever next to its owner.
+188	5 Crossing a crystalline river, he found a majestic waterfall on his forehead. The Little Companion felt the awesomeness of the waterfall and reverenced it in his heart.
+189	6 Information! Target found ahead, is approaching step by step ..... It seems that it has something brilliant, dig to see it! It really is a treasure, take it secretly to the owner.
+190	7 At the fork in front is a warning written: in the forest of the mountain ahead there are wolves that amaze, please, Be careful! But the Little Companion stayed in the line in front of the quietly formed team, just did not appear wolves, but a false alarm and nothing else.
+191	8 Suddenly, heavy rain fell from the heavens and he had to temporarily shelter himself in a cave. However, he unexpectedly discovered a treasure pot and the magical lamp of Aladdin, equally wonderful. So, the Little Companion made a wish - I want food, I want a lot but a lot of food.
+192	9 Information! Target found ahead, is approaching step by step ... Initially, he was a rabbit, became attached to the Little Companion and spent a nice period of time with the rabbit.
+193	10 Information! Target found in front, is approaching step by step ..... The Little Companion found a black bear on the road and, after an intense fight, the Little Companion ended up defeating him.
+194	Option 1
+195	Option 2
+196	Option 1
+197	Option 2
+198	Option 3
+199	Option 4
+200	Option 5
+201	Option 6
+202	Option 1
+203	Option 2
+204	Option 3
+205	Option 4
+206	Option 5
+207	Option 6
+208	Option 1
+209	Option 2
+210	Option 4
+211	Option 5
+212	Option 6
+213	Option 1
+214	Option 2
+215	Option 3
+216	Option 4
+217	Option 5
+218	Option 6
+219	Option 1
+220	Option 2
+221	Option 3
+222	Option 4
+223	Option 5
+224	Option 6
+225	Option 1
+226	Option 3
+227	Option 4
+228	Option 5
+229	Option 6
+230	Option 1
+231	Option 2
+232	Option 3
+233	Option 4
+234	Option 5
+235	Option 6
+236	Option 1
+237	Option 2
+238	Option 3
+239	Option 4
+240	Option 5
+241	Option 6
+242	Option 1
+243	Option 2
+244	Option 3
+245	Option 4
+246	Option 5
+247	Option 6
+248	Language learned successfully!
+249	Friend is not online
+250	It is not a friendship relationship
+251	Friend currently without Pet
+252	Degree of friendship is not enough
+253	Bottle of message used successfully!
+254	To each day, you can only play 3 times maximum, you have exceeded the limit
+255	Filter of sensitive words, error
+256	Clan of full squires
+257	The squire is not invoked
+258	Remove
+259	Different sex, it is not possible to equip
+260	Different location, it is not possible to equip
+261	Do you want to replace this skill?
+262	Complete Skill, please consider expanding or replacing
+263	Article is missing 【%s】, it is not possible to expand the fight training
+264	Please activate the formation of the front fight
+265	Please activate the skill in front
+266	Missing article 【%s】, it is not possible to expand the field of skill
+267	The article is missing 【%s】, it is not possible to renew the classification
+268	The classification has reached the maximum level
+269	​​Gold insufficient, it is not possible to renew the classification
+270	Can not be placed here
+271	It is not possible to invoke underwater
+272	In flight status it is not possible to invoke
+273	The player must reach%s
+274	This article is not the Book of Skills
+275	This ability can not be placed in this field
+276	Available skill field not applicable
+277	This article can not be used to expand
+278	The field has exceeded the maximum limit
+279	GOld enough
+280	<Squire of%s>
+281	Possessing [%s], you can open the store. \ R Squire's reputation will offer that item
+282	%d %%of the Squire's ranking of this position will be added to the Squire that came out to fight
+283	Squire
+284	Please, remove the equipment to the Squire first to be able to continue with the operation again
+285	Insider level insufficient
+286	already there is Squire that goes out to the fight
+287	Squire of the current location can not go out to fight
+288	Click to invoke the Squire
+289	Click here for the Squire wait
+290	Character level too low, it's not possible to equip
+291	Degree of Affection:%d
+292	Insufficient stellar level, it is not possible to equip that skill
+293	Updated practice for%d. Below the current value is not altered.
+294	It is not possible to invoke the Squire under the current status
+295	Drag the Squire here to equip him \ r
+296	Open item required ^%06x%s \ r
+297	^ff0000Power additional%.f %%
+298	Drag the Squire here to equip it, after equipped, it is not possible to undress the skill, you can use a new skill to replace the original
+299	^ff0000Power additional%.f %%^ffffff \ r
+300	The level influences the additional attributes
+301	Practical influence on additional attributes
+302	By increasing the Star Level, the Practice and the Practice limit will be elevated
+303	Article is missing [%s], it is not possible to raise
+304	Drag Squire's equipment here to equip
+305	Position: Boots \ r
+306	Position: Helm \ r
+307	Position: Armor \ r
+308	^ff0000Lv%d
+309	LV Max
+310	Squire blocked, it is not possible to renew Practice
+311	Blocked skills book, it is not possible to equip
+312	Squire blocked, it is not possible to replace the skill you already have
+313	Squire blocked, it is not possible to replace the equipment that has
+314	Attribute
+315	Don
+316	Current Practice
+317	Maximum Practice
+318	LV Maximum
+319	Attack
+320	Hit
+321	Elemental attack
+322	Critical attack
+323	Squire's Level
+324	Additional practice
+325	Collection of Squires
+326	Starry LV
+327	Increase Practice
+328	Up
+329	%d
+330	Practice
+331	Stop
+332	This Squire has reached its maximum phase
+333	^ff0000 can only pick up a Squire according to the same ID
+334	It is necessary that the previous bar of favorites is complete to be able to activate the next bar
+335	Auxiliary Squire is linked, after the absorption, the Squire will remain in linked status, do you want to absorb?
+336	After consumption of the linked Magic Power futa, the Squire will change to a linked status. Do you want to continue growing?
+337	^ff0000 Full%s practice
+338	★ Power%d
+339	^ffff00 ★ Power%d ^ff0000 (%.f %%)
+340	Power collection:%d ^ff0000 (1 %%)
+341	Próx. LV
+342	Exhaust
+343	Elevate
+344	^ff0000%s reached maximum level
+345	^ff0000 Level of the Squire can not exceed the level of the character
+346	^ff0000Please increase the character level
+347	^ff0000Lv%d
+348	Maximum level of the Squire
+349	The level of the Squire is higher than that of the character
+350	^ff0000 First to remove the squire's equipment
+351	^ff0000%s will need that the rating reaches%d, only this way will be able to increase the phase
+352	^ff0000 For the Squire to evolve, he needs to reach%d of Practice.
+353	^ff0000Evolution of%s complete
+354	^ff0000Equipment of equipment of the complete Squire
+355	^ff0000 Insufficient material
+356	Owner level is too low to be equipped
+357	Carrying rating
+358	Owner of the same ID can only collect one

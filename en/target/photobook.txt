@@ -1,0 +1,319 @@
+0	All
+1	Monsters
+2	Characters
+3	OK!
+4	Fail
+5	Deliver incorrectly
+6	Non-existent Illustration
+7	Illustrations can not be delivered
+8	The information delivered is invalid
+9	The number of items delivered is incorrect
+10	The corresponding illustrations have not yet been obtained
+11	Got the illustration %s
+12	You did not get the corresponding illustrations
+13	This item does not correspond to the illustration in question, the Album could not be opened
+14	Characters
+15	Armors
+16	Places
+17	Golden Knights
+18	Silver Knights
+19	Bronze Knights
+20	Navy Generals
+21	Specters
+22	Black Knights
+23	Others
+24	Bronze Armor
+25	Silver Armor
+26	Golden Armors
+27	Divine Armors
+28	Scales
+29	Map of the World
+30	Monsters
+31	Proof of Fate
+32	Items
+33	Relics
+34	Collection Items
+35	Cartoons
+36	Volume I
+37	Volume Dois
+38	Saori
+39	^cd0000Age: ^ffffff14 years \r ^cd0000Height: ^ffffff155cm \r ^cd0000Peso: ^ffffff44kg \r ^cd0000Birthdays: ^ffffff01º of September \r ^cd0000Blood: ^ffffffType A \r ^cd0000 Birthplace: ^ffffffSantuary of Greece
+40	Saori is the reincarnation of the Goddess Athena of the twentieth century, being one of the protagonists of the series 'The Knights of the Zodiac' created by Masami Kurumada. \rAtenea is the goddess of wisdom, war, strategy, justice and hope. According to the Hypermit, she is also the goddess who inherited from Zeus, her true father, the control of Earth.
+41	Julián Solo
+42	^cd0000Birthday: ^ffffff21 March \r ^cd0000Blood: ^ffffffType O \r ^cd0000 Birthplace: ^ffffffGrecia
+43	Incarnation of the God Poseidon, who already disputed with Athenian the dominion of the terrestrial surface. Poseidon always reincarnated in the body of the descendants of the Solo Family, a rich power of maritime trade. This time, Poseidon woke up not because of his own will, but because, accidentally, Kanon found his trident. He planned to create utopia on Earth, after sweeping the earth's surface of human beings themselves through a flood. In the events of the Saga of Hades, Poseidon possesses the body of Julian again and sends five Golden Armors for the Champs Elysees, in order to help Athena and her Bronze Horsemen.
+44	Hades
+45	^cd0000 Height: ^ffffff184cm ^cd0000Peso: ^ffffff73kg ^cd0000Birthdays: ^ffffff09 September
+46	Hades is responsible for the Underworld by judging the souls of people and deciding whether they deserve peace or eternal suffering. Along with his brothers, Zeus and Poseidon, he is one of the 3 greats among the 12 Gods of Olympus, the most powerful deities in the universe. He is the greatest antagonist of the series that with the desire to take the Earth, launches an attack on the Sanctuary with the aim of taking the life of Athena. What he hates the most is the light of the Sun that brings hope to hell by destroying the wall of lamentation.
+47	Mu
+48	^cd0000Age: ^ffffff20 Years \r ^cd0000 Height: ^ffffff182cm \r ^cd0000Peso: ^ffffff75kg \r ^cd0000Birthdays: ^ffffff27 March \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffTibbet \r ^cd0000Training: ^ffffffJamir \r ^cd0000Master: ^ffffffShion \r ^cd0000 Apprentice: ^ffffffKiki
+49	Mu is the Golden Knight of Aries of the 20th century. Able to restore Armor, he repairs the Bronze Armor of Seiya and others before the Battle of the Twelve Houses. Since he distrusted the Grand Master from the beginning, he turned his back on the Shrine. But, as he wanted the purification of the place, he maintained his obligations as a Knight, dedicating himself to the restoration of the Armors in Jamir. But, do not think that his power was weakened by moving away from the Sanctuary, as is noted in the battle against the Wraith. Mu is the most peaceful and peaceful of the Golden Knights and, even so, it is one of the most powerful. It only resorts to violence in extreme cases. Words are your weapons in most cases. Despite his young appearance, Mu is mature and very wise.
+50	Aldebaran
+51	^cd0000Age: ^ffffff20 Years \r ^cd0000Height: ^ffffff210 cm \r ^cd0000Peso: ^ffffff130 kg \r ^cd0000Birthdays: ^ffffff08 May \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffBrasil \r ^cd0000Training: ^ffffffBrasil
+52	Golden Knight who protects the House of Taurus. Endowed with an unusual resistance, even the Meteoro de Pegasus de Seiya managed to cause damage to his body. The Big Horn, allusion to the horn of an angry Taurus, is his signature blow. Of frank and dispatched personality, he trusts what he feels, without worrying about appearances or rationalities. Aldebaran comes from Arabic and means "he who follows". It is also the name given to the Red Giant belonging to the Taurus Constellation, being its brightest star. During the Battle of the Twelve Houses, he intentionally facilitated so that Seiya and the others could pass in safety, losing one of their horns in the process. In the battle in which the Wraith invaded the Sanctuary, he resisted bravely against Niobe, the Earth Star of Darkness, and heroically sacrificed himself. However, before dying, he completely destroyed the body of his adversary.
+53	Saga
+54	^cd0000Age: ^ffffff28 Years \r ^cd0000 Height: ^ffffff188 cm \r ^cd0000Peso: ^ffffff87 kg \r ^cd0000Birthdays: ^ffffff30 may \r ^cd0000Blood: ^ffffffType AB \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffSantuary of Greece
+55	Saga is the Golden Knight of Gemini of the twentieth century, who was formerly the next successor of the Grand Master, having all the necessary characteristics for the position - humanity, skill and physical strength. Supposedly he disappeared thirteen years ago, he was hidden for all that time under the mask of the Grand Master, after assassinating him and taking his place as ruler of the Sanctuary. His plan was to kill Athena and dominate the world. In reality, Saga had a double personality, oscillating between extremes of good and evil. Within him, those opposites were always fighting each other. After having his heart purified, he takes away his life, repented for his acts against the Goddess.
+56	Mask of Death
+57	^cd0000Age: ^ffffff23 Years \r ^cd0000 Height: ^ffffff184 cm \r ^cd0000Peso: ^ffffff82 kg \r ^cd0000: ^ffffff24 June \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffItalia \r ^cd0000Training: ^ffffffSicilia
+58	The Mask of Death is the Golden Knight of Cancer and protector of the fourth House of the Zodiac of the twentieth century. He likes to fight and kill and believes that, to achieve a greater goal, some sacrifices are inevitable. The walls of the Cancer House are decorated with the faces of the people who were killed by him. It emits a white aura from his index finger that sends the soul of the opponent to the entrance of the World of the Dead - it is the "Hell Waves", his secret hit. He dies in the battle against Shiryu, but returns from the World of the Dead as a Specter. On that occasion, he fails to assassinate Athena and ends up again in the Underworld by the hands of Wyvern's Radamanthys. In spite of that, he participates in the fall of the Wailing Wall with the Golden Knights.
+59	Aiolia
+60	^cd0000Age: ^ffffff20 Years \r ^cd0000Height: ^ffffff185 cm \r ^cd0000Peso: ^ffffff85 kg \r ^cd0000Birthdays: ^ffffff16 August \r ^cd0000Blood: ^ffffffType O \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffSantuary of Greece
+61	Leo Golden Knight and brother of Aioros. Despite his explosive personality, he has a pure heart that quickly distinguishes the just, so he was one of the first Golden Knights to recognize the authority of Athena. Like his brother, Aioros was condemned as a traitor, and tries to clear the name of the family by swearing allegiance to the Grand Master, even voluntarily participating in the extermination of the Bronze Horsemen. While the battle against the Specters, he confronted the enemy army and overthrew many Specters, serving as the central power of attack in the Sanctuary.
+62	Shaka
+63	^cd0000Age: ^ffffff20 Years \r ^cd0000Height: ^ffffff182cm \r ^cd0000Peso: ^ffffff68 kg \r ^cd0000Birthdays: ^ffffff19 September \r ^cd0000Blood: ^ffffffType AB \r ^cd0000Birth: ^ffffffIndia \r ^cd0000Training : ^ffffffIndia
+64	Shaka is the Golden Knight of Virgo of the 20th Century. Considered the reincarnation of Buddha, it has a power of observation that allows knowing the truth hidden under appearances. In spite of that, he keeps his eyes closed most of the time, in order to raise his Cosmo. The power to come and go in time and space impresses even other Golden Knights. He has a heroic death under the destructive "Exclamation of Athena", created by Saga, Shura and Camus, but yielded to that blow to accompany Athena in the World of the Dead.
+65	Dohko
+66	^cd0000Age: ^ffffff261 Years \r ^cd0000 Height: ^ffffff140 cm ~ 170 cm \r ^cd0000Peso: ^ffffffUnknown \r ^cd0000Birthdays: ^ffffff20 October \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffChina \r ^cd0000Training: ^ffffffRozan
+67	Golden Knight who protects the House of Libra, master of Shiryu. He received the order of Athena to watch the 108 Hades Specters and for years in a row he has sat on the Five Ancient Peaks of Rozan. He is the most trusted Knight of Athena. Everyone recognizes him as "Master." When the Lord of Darkness attacked again, he returns to his former form and fights in the frontal line. He has helped Seiya and the Bronze Knights on all occasions and, after participating in two Holy Wars, finds his end as a hero helping to bring down the Wailing Wall.
+68	Milo
+69	^cd0000Age: ^ffffff20 Years \r ^cd0000Height: ^ffffff185 cm \r ^cd0000Peso: ^ffffff84 kg \r ^cd0000Birthdays: ^ffffff08 November \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffGrecia
+70	Milo was, in the 20th century, the Golden Knight of Scorpio. He greatly appreciated the friendship, which is why he went on to take care of Hyoga after the death of his friend Camus. He had a lot of pride in being a Golden Knight and he became implacable in front of his enemies. The Great Master summoned him to exterminate the Bronze Knights and he fought against Hyoga in the Sanctuary. He also fought on the front line during the invasion of the Hades army. In the end, he gave his life to make his way to the Champs-Elysees through the Western Wall.
+71	Aiolos
+72	^cd0000Age: ^ffffff14 years \r ^cd0000Height: ^ffffff187 cm \r ^cd0000Peso: ^ffffff85 kg \r ^cd0000Birthdays: ^ffffff30 November \r ^cd0000Blood: ^ffffffType O \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffSantuary of Greece
+73	Big brother of Leo's Golden Knight, Aiolia, would be the successor of Grand Master Shion. His heroic, honest and good-hearted figure is respected by the Knights. Before dying, 13 years ago, she gave Athena still baby and her Golden Armor to the care of Mitsumasa Kido, who was traveling through Greece. Since then, Aioros was considered a traitor in the Sanctuary, which was being ruled by Saga disguised as Grand Master. His loyalty to Athena extends the barriers of death, making his Armor always manifest at critical moments to protect the Goddess.
+74	Shura
+75	^cd0000Age: ^ffffff23 Years \r ^cd0000Height: ^ffffff186 cm \r ^cd0000Peso: ^ffffff83 kg \r ^cd0000Buy: ^ffffff12 January \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffSpain \r ^cd0000Training: ^ffffffPirineos
+76	Golden Knight who protects the House of Capricorn, who left Aioros on the verge of death during his escape. The sword-shaped hand of Shura has the same power as the legendary Excalibur, capable of knocking down any obstacle, cutting with the palm of the hand to the solid shield of the Dragon, splitting it in two. It takes the title of "the most loyal Knight to Athena", but its loyalty is so much that it blinded it and ends up being deceived by the Great Teacher. When he was on the verge of death, he realized and saved Shiryu's life by equipping him with his Golden Armor, proving to be a Knight of Honor. He returns as the Holy War to help the Bronze Knights save the Goddess to whom he swore allegiance.
+77	Camus
+78	^cd0000Age: ^ffffff20 Years \r ^cd0000Height: ^ffffff184 cm \r ^cd0000Peso: ^ffffff76 kg \r ^cd0000Birthdays: ^ffffff07 February \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffFrance \r ^cd0000Training: ^ffffffSiberia
+79	Golden Knight who protects the House of Aquarius, is proud, cold and determined. It has the title of "The Wizard of Ice". His behavior is controlled, honest and has a genuine courage. He was the master of the Cygnus Knight, Hyoga, and of General Marina Isaac of Kraken, and he always taught them that "when facing the enemy, it is necessary to remain indifferent" - but he did not take that into consideration when, in the Twelve Houses, he fought against his beloved disciple, Hyoga, and he smiled at her as he died. For eventuality, he returns while the Holy War, participating in the invasion of the Sanctuary and, later, helping the Bronze Knights to cross the Wailing Wall.
+80	Aphrodite
+81	^cd0000Age: ^ffffff22 Years \r ^cd0000 Height: ^ffffff183 cm \r ^cd0000Peso: ^ffffff72 kg \r ^cd0000Birthdays: ^ffffff10 March \r ^cd0000Blood: ^ffffffType O \r ^cd0000Birth: ^ffffffSweden \r ^cd0000Training: ^ffffffGreenland
+82	Golden Knight of Pisces, it is said that there is no one more beautiful among the 88 Knights, having the title of "Warrior whose brilliance of beauty competes with the Sun and the Moon". Believe piously in the law of the strongest and that only a supreme power can maintain the peace of the world. His blows transform roses into weapons: the red rose, which causes the opponent to lose all five senses; the black one, capable of breaking down any obstacle; and white, which absorbs the blood of the adversary. His Royal Diabolic Roses are one of the most spectacular attacks of all types of Knights. When the Holy War happens, he redeems himself from his sins by giving his strength to knock down the Wailing Wall.
+83	Shion
+84	^cd0000Age: ^ffffff248 Years \r ^cd0000Height: ^ffffff185 cm \r ^cd0000Peso: ^ffffff77 kg \r ^cd0000Birthdays: ^ffffff30 March \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffTibbet \r ^cd0000Training: ^ffffffJamir
+85	Orfeo
+86	^cd0000Age: ^ffffff19 Years \r ^cd0000 Height: ^ffffff173 cm \r ^cd0000Peso: ^ffffff60 kg \r ^cd0000Birthdays: ^ffffff15 November \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffSantuary of Greece
+87	Silver Knight of Lira. When young, Orpheus and Eurydice fell in love - but, unexpectedly, Eurydice ends up dying. Suffering, Orpheus goes to the Underworld to ask Hades to revive her. The beautiful music of Orfeo ends up convincing Hades, who revives her; However, at the exit of the Underworld, Pandora tricks him with Pharaoh to transform Eurydice into stone, so that Orfeo remains trapped there. Orfeo avoids participating in the Holy War until discovering the betrayal, then acting next to the Bronze Horsemen, he dies in battle in the Temple of Hades.
+88	Marin
+89	^cd0000Age: ^ffffff16 Years \r ^cd0000Height: ^ffffff167 cm \r ^cd0000Peso: ^ffffff51 kg \r ^cd0000Birthdays: ^ffffff18 March \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffSantuary of Greece
+90	Águila Silver Amazona and Seiya de Pegasus teacher. Her perception is extraordinary and she is one of the most excellent warriors, with a calm and calm personality. If the opponent lets a weakness appear, an accurate and fatal attack will occur in a flash. He is always looking for his younger brother, who still believes he is alive - and Seiya already mistakenly believed that she was his older sister. In the Saga of Hades he finds Seiya's older sister, Seika, although the whereabouts of his own brother continue a mystery.
+91	Shina
+92	^cd0000Age: ^ffffff16 Years \r ^cd0000 Height: ^ffffff166 cm \r ^cd0000Peso: ^ffffff49 kg \r ^cd0000 Birthday: ^ffffff24 March \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffItalia \r ^cd0000Training: ^ffffffSantuary of Greece
+93	Otiliuco's Silver Amazona, Cassios' teacher hides a beautiful and angelic face behind her mask, despite her aggressive and imposing attitude. Angry because Seiya won the Pegasus Armor in his disciple's place, he attacked him while he was trying to leave the Sanctuary, having his mask broken by Seiya during the fight - and, for an Amazon, letting his face be seen by a man it is the greatest of shame; according to the rules, it is required to kill him or love him. That's why he went behind Seiya and tried to kill him several times; however, he joined the Bronze Knights to know that the Goddess Athena was next to them and, in a short time, he ended up falling in love with the Pegasus Knight, coming to sacrifice for him in some battles. He participated in important fights in the Saga of the Sanctuary, Asgard and Poseidon.
+94	God · Seiya
+95	^cd0000Age: ^ffffff13 Years \r ^cd0000 Height: ^ffffff165 cm \r ^cd0000Peso: ^ffffff53 kg \r ^cd0000Birthday: ^ffffff01 December \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffSantuary of Greece
+96	Pegasus is the main protagonist. Normally, age as uma criança, a rather animated personagem. More em seu combates, especially when Athena is em perigo, luta with all suas forças to help and protect his allies. Total impulse na batalha da frente.Praticar para o santuário grego.discípulos magical Ling.
+97	God · Shiryu
+98	^cd0000Age: ^ffffff14 years \r ^cd0000Height: ^ffffff172 cm \r ^cd0000Peso: ^ffffff53 kg \r ^cd0000Buy: ^ffffff04 October \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffRozan
+99	Dragon Bronze Knight. He was under the care of Dohko of Libra to train in the Five Ancient Peaks, in China. While his training, he managed to reverse the flow of the Rozan Waterfall, and thus, he deserved to win his Armor. Frank personality, gives much value to friendship and believes in the power that she has, always willing to die for friends; He is the one who sacrifices his own life in favor of others. Shiryu participated in many struggles in which he was close to death, because, generally, he needed to exploit his Cosmo in addition to its limits to defeat an enemy that had no chance to win. His willingness to beat can sometimes blind him. Literally.
+100	God · Hyoga
+101	^cd0000Age: ^ffffff14 years \r ^cd0000Height: ^ffffff173 cm \r ^cd0000Peso: ^ffffff60 kg \r ^cd0000Birthdays: ^ffffff23 of January ^cd0000Blood: ^ffffffO \r ^cd0000Birth: ^ffffffEx-Soviet Union \r ^cd0000Training: ^ffffffSiberia Oriental \r ^cd0000Master: ^ffffffCamus
+102	Bronze Knight of Cygnus and disciple of Camus of Aquarius. He has a discreet personality, always in conflict with his own emotions, despite trying to be rational first and foremost. While training in Eastern Siberia, he received orders from the Sanctuary to go to the Galactic Tournament and punish the Bronze Knights who fought for personal ends, but ended up getting involved in the struggles for the Golden Armor to see that it was not true. At that time, Hyoga develops a deep and solid friendship with the other Bronze Knights. After that, as the guardian knight of Athena, he fights together with others to defend peace on Earth.
+103	God · Shun
+104	^cd0000Age: ^ffffff13 Years \r ^cd0000Height: ^ffffff165 cm \r ^cd0000Peso: ^ffffff51 kg \r ^cd0000Birthdays: ^ffffff09 September \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffff Andromeda Island
+105	The Andromeda Bronze Knight is all that is not expected of a warrior. Extremely peaceful and benevolent, avoid to the maximum to enter any type of friction and combat. However, if forced, it shows that he is one of the most powerful knights of the entire army of Athena. Sometimes, it is necessary to press it to the extreme to show its true strength. His soul is so pure that he was chosen to be the host of Hades in this Holy War, but loyalty to his friends and Athena allows him to return to the senses and fight alongside the Bronze Horsemen when the time comes.
+106	God · Ikki
+107	^cd0000Age: ^ffffff15 years \r ^cd0000Height: ^ffffff175 cm \r ^cd0000Peso: ^ffffff62 kg \r ^cd0000Birthdays: ^ffffff15 August \r ^cd0000Blood: ^ffffffType AB \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffIsla de la Reina Muerte
+108	The older brother of Shun de Andromeda, his teacher was the mysterious Knight of the Isle of Queen Death, Guilty. He is the strongest Bronze Knight, as well as being good at attacks that manipulate the opponent's mind. A person overflowing hatred calls himself "the man who desisted from everything", but is described by Saga as that kind of man "whose sense of justice is hidden inside his heart". It is of a cold nature, but it hides emotions about his personality - and the hardest to hide is the care and concern he has with his brother. That's why he's not the type that talks about how his friends give him strength, after all, the others already do it enough, enough of sentimentality.
+109	Seiya
+110	The main character is the Pegasus Bronze Knight. He usually looks like a boy and has an innocent and impulsive personality. However, when fighting, especially when Athena finds some danger, she provides all her strength and shows herself a very clever Knight. It is the spirit that leads the others, with a great sense of justice and always running towards battle. His place of training is the Sanctuary of Greece, where he was a pupil of Marin, and his main goal is to find his sister again. As the owner of the Armor of Pegasus, he is known as the greatest opponent of the Gods among the Knights of Athena.
+111	Shiryu
+112	Hyoga
+113	Shun
+114	Ikki
+115	Nachi
+116	^cd0000Age: ^ffffff14 Years \r ^cd0000 Height: ^ffffff171cm \r ^cd0000Peso: ^ffffff57kg \r ^cd0000Birthdays: ^ffffff20 July \r ^cd0000Blood: ^ffffffType AB \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffLiberia
+117	Despite being only a Bronze Knight, the Knight of the Wolf's loyalty is undoubted. Even aware of the difference in powers between his knight class and others, he puts himself at risk to protect his allies. Its main technique follows the same principle of the Excalibur of Shura, being a movement in which its muscles and Cosmo make the air vibrate, making it sharp. The difference is in the intensity of the blow, in which the one of Shura is much more extensive and powerful.
+118	Geki
+119	^cd0000Age: ^ffffffUnknown \r ^cd0000Height: ^ffffffUnknown \r ^cd0000Weight: ^ffffffUnknown \r ^cd0000Birthday: ^ffffffUnknown \r ^cd0000Blood: ^ffffffUnknown \r ^cd0000Birth: ^ffffffUnknown \r ^cd0000Training: ^ffffffUnknown
+120	One of the 48 Bronze Horsemen who swore allegiance to Athena, protecting fight until her last breath in favor of the Goddess guardian of humanity.
+121	Ban
+122	Ichi
+123	^cd0000Age: ^ffffff14 years \r ^cd0000Height: ^ffffff170 cm \r ^cd0000Peso: ^ffffff56 kg \r ^cd0000Birthdays: ^ffffff10 February \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffFinlandia
+124	Bronze Horseman of Sea Dragon, has a melancholic nature and it is very difficult for other people to understand what they think. He specializes in blows with poisonous prey and has subtle movements in battle, like a snake. In the Galactic Tournament, he was defeated by Hyoga. Despite the rare appearance, Ichi is, in fact, a good person, helping to protect Saori during the Sanctuary Saga.
+125	Jabu
+126	^cd0000Age: ^ffffff13 Years \r ^cd0000Height: ^ffffff165 cm \r ^cd0000Peso: ^ffffff55 kg \r ^cd0000Birthdays: ^ffffff03 November \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffJapón \r ^cd0000Training: ^ffffffArgelia
+127	The Unicorn Bronze Knight who has an eternal quarrel with Seiya. He has been in love with Saori since childhood and is extremely loyal to her. He has basic telekinesis and struggles using mainly his legs to strike his blows. He manages to defeat Ban in the Galactic Tournament, but, in the second turn, he faces the Andromeda Current of Shun and is defeated. In the Saga of the Twelve Houses he returns to the side of Athena.
+128	June
+129	Black Pegasus
+130	^cd0000Age: ^ffffff15 years \r ^cd0000Height: ^ffffff170 cm \r ^cd0000Peso: ^ffffff58 kg \r ^cd0000Birthdays: ^ffffff13 of July \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffIsrael \r ^cd0000Training: ^ffffffIsla de la Reina Muerte
+131	His real name is Kenuma, and he is one of the four Knights of the Apocalypse, responsible for the waist of the Golden Armor of Sagittarius after Ikki stole it in the Galactic Tournament. Its main technique is the Black Meteor, capable of splitting the armor and damaging the body, causing black spots appear on the skin that do not stop increasing in size, which cause poisoning in the enemy's blood and, later, death. He was defeated by Seiya, but before he died, he managed to reach him with his punches and also almost killed him; But Seiya survives thanks to Shiryu, who reached her vital points and managed to purify her blood.
+132	Black Dragon
+133	The real name of the Black Dragon Knight and one of the Knights of the Apocalypse is Shinadekuro, and his strength seems to be the greatest of the four. On the Island of the Death Queen, Ikki fights for the Phoenix Armor and the Knight becomes his subordinate. To help Ikki, he remains responsible for the chest of Sagittarius' Golden Armor and faces Shiryu, who had lost a lot of blood due to the repair of his Armor. In the beginning he was winning, but Shiryu used the Wrath of the Dragon, shedding a lot of blood and winning with difficulty. A step away from death, he was touched by the friendship between the Bronze Knights and reached the vital point of Shiryu, stopping his bleeding. The Black Dragon has a blind twin brother, Fukuryu - who, in the fight in the dark, indicated the position of the enemy so that he had an advantage over the others.
+134	Black Cygnus
+135	^cd0000Age: ^ffffff15 years \r ^cd0000Height: ^ffffff173 cm \r ^cd0000Peso: ^ffffff61 kg \r ^cd0000Birthdays: ^ffffff28 of December \r ^cd0000Blood: ^ffffffType O \r ^cd0000Birth: ^ffffffFinlandia \r ^cd0000Training: ^ffffffIsla de la Reina Muerte
+136	Jido is one of the four Knights of the Apocalypse, in charge of the shoulder pads of Sagittarius Golden Armor after Ikki stole it in the Galactic Tournament. He fought Shun and, later, was defeated by Hyoga in the Valley of Death. Before dying, he memorized the technique of Hyoga and, through a unique ability, recorded the blows in his eyeball and sent them to Ikki by teleportation.
+137	Andromeda Black
+138	^cd0000Age: ^ffffff14 years \r ^cd0000Height: ^ffffff170 cm \r ^cd0000Peso: ^ffffff58 kg \r ^cd0000Buy: ^ffffff04 October \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffTurquia \r ^cd0000Training: ^ffffffIsla de la Reina Muerte
+139	One of the four Knights of the Apocalypse, was in charge of the body of the Golden Armor of Sagittarius after Ikki stole it in the Galactic Tournament. Its Black Currents drain life and create illusions, making the enemy believe that it became a snake. He was defeated by Shun, who was taken by the wrath for being attacked cowardly when trying to save Seiya and easily defeated him. Interestingly, he is the only one of the Black Knights that does not have his true name revealed.
+140	Jango
+141	^cd0000Age: ^ffffff18 years \r ^cd0000Height: ^ffffff188 cm \r ^cd0000Peso: ^ffffff101 kg \r ^cd0000Buy: ^ffffff08 August \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffSamoa \r ^cd0000Training: ^ffffffIsla de la Reina Muerte
+142	A warrior who only believes in brute force. He became the leader of the Black Knights after Ikki was defeated. He tried in vain to take the Phoenix Armor by force, but he did not obtain the approval of the Armor. In the end, he was killed by Ikki, who wore the Phoenix Armor.
+143	Miho
+144	^cd0000Age: ^ffffff13 years \r ^cd0000Height: ^ffffff153 cm \r ^cd0000Peso: ^ffffff41 kg \r ^cd0000Birthday: ^ffffff05 April \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffJapón
+145	Orphaned as a child, Miho has always lived in the Star Children Orphanage, growing up with Seiya. She likes children very much and, after she grew up, she continued at the Orphanage working as a caregiver. She is a gentle and pure girl. The love between her and Seiya is a matter of many people's talk. At first, when Seiya returned from her training at the Shrine, she was very happy. Then, after he and the others had gone through innumerable battles, she decided to try to prevent Seiya from going to the Shrine to battle with the Grand Master, ensuring his survival.
+146	Cassios
+147	^cd0000Age: ^ffffff15 years \r ^cd0000 Height: ^ffffff201 cm \r ^cd0000Peso: ^ffffff128 kg \r ^cd0000Birthdays: ^ffffff14 December \r ^cd0000Blood: ^ffffffType O \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffSantuary of Greece
+148	The disciple of Shina of Ophiuchus and candidate for the Armor of Pegasus. His body is sturdy, strong as a bull and with only one of his hands he can grab Seiya's entire body. Regrettably, Cassios' fate was hardly to be a supporting character and, therefore, the author let him lose to Seiya during the competition for the Pegasus Armor, apart from having also lost an ear. He is a person of respect for his grandiosity of sacrificing himself for love. While the Bronze Horsemen were in the race in the Twelve Houses, Seiya found a bitter struggle in the House of Leo: Leo's Golden Knight, Aiolia, is attacked stealthily by the Grand Master and, under the Imperial Satan and with his sense of confused justice, attacks Seiya. The only way to get rid of the Imperial Satan would be to see the enemy die before him. Upon hearing that, Shina ran quickly to the Leo House - but, in order for Shina not to be hurt, Cassios died in her place, also saving Seiya, her former enemy.
+149	Kiki
+150	^cd0000Age: ^ffffff8 years \r ^cd0000 Height: ^ffffff130 cm \r ^cd0000Peso: ^ffffff34 kg \r ^cd0000Birthday: ^ffffff01 April \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffTibbet \r ^cd0000Training: ^ffffffJamir
+151	Kiki is a disciple of Mu. Each Knight of Aries has an assistant, and Kiki was adopted by Mu as such when they met in Jamir. The eyebrows in the form of circular points are a characteristic of the Lemurians. He is a naughty but kind-hearted boy, helping the Knights whenever he can. Kiki's most important skills are telekinesis, with which he manages to move the body of people or animals for a short period of time, and his speed, which can reach the speed of light.
+152	Shunrei
+153	^cd0000Age: ^ffffff13 Years \r ^cd0000 Height: ^ffffff154 cm \r ^cd0000Peso: ^ffffff42 kg \r ^cd0000Birthday: ^ffffff20 April \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffChina
+154	A baby was still abandoned in a village in Rozan and, since then, it was created by the Master. The beautiful rivers and mountains of China gave him a gentle, humble spirit and a strong determination. Her prayers and cares have always supported Shiryu, her childhood friend for whom she is in love - and whose feeling is reciprocal.
+155	Esmeralda
+156	^cd0000Age: ^ffffff13 Years \r ^cd0000Height: ^ffffff158 cm \r ^cd0000Peso: ^ffffff43 kg \r ^cd0000Birthdays: ^ffffff25 August \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffIsla de la Reina Death
+157	Gentle young man of pure beauty. Inhabitant of the Island of the Queen Death, he met Ikki while training, offering comfort and care. In Ikki's fight to obtain the Phoenix Armor, she accidentally ends up receiving Guilty's blow and dies. Thus, Ikki embodies hate, awakens his Cosmo, kills his master and obtains the Armor.
+158	Guilty
+159	^cd0000Age: ^ffffffUnknown \r ^cd0000Height: ^ffffff192 cm \r ^cd0000Weight: ^ffffff91 kg \r ^cd0000Birthday: ^ffffffUnknown \r ^cd0000Blood: ^ffffffUnknown \r ^cd0000Birth: ^ffffffUnknown \r ^cd0000Training: ^ffffffUnknown
+160	Master of Ikki on the Island of Queen Death, is known as "Devil's Knight", commissioned to wear the mask that seals the evil of the island. He believes that his disciple is too benevolent, always telling him that he is weak and lacks hatred. While the battle for the Phoenix Armor, he accidentally killed Esmeralda - what made Ikki arouse his deepest hatred and kill him.
+161	Kanon
+162	^cd0000Age: ^ffffff28 Years \r ^cd0000 Height: ^ffffff188 cm \r ^cd0000Peso: ^ffffff87 kg \r ^cd0000Birthdays: ^ffffff30 de Mayo \r ^cd0000Blood: ^ffffffType AB \r ^cd0000Birth: ^ffffffGrecia \r ^cd0000Training: ^ffffffSantuary of Greece
+163	The twin brother of Saga, although no one in the Sanctuary knew of his existence. He has a much more maleficent personality than his brother, which is why he was imprisoned in Cape Sounion. There, he ended up awakening the soul of Poseidón and passed through General Marina de Dragon del Mar, wishing to use the name of the God of the Oceans to defeat Athena in order to conquer the whole Earth; This is the reason for his title: "the man who dared to deceive even the gods". After the war in the Marine Kingdom, Kanon sincerely repented of his deeds and inherited the aspiration left by his brother, becoming the new Golden Knight of Gemini and fighting for the Goddess. His strength, in fact, is not inferior to that of Saga, so much that he fought at the same time of equal for equal with the Three Judges of the Underworld.
+164	Krishna
+165	^cd0000Age: ^ffffff19 Years \r ^cd0000Height: ^ffffff187 cm \r ^cd0000Peso: ^ffffff80 kg \r ^cd0000Buy: ^ffffff10 August \r ^cd0000Blood: ^ffffffType B \r ^cd0000Birth: ^ffffffSri Lanka
+166	General Marina de Crisaor. The interior of Krishna's body possesses a mystical side capable of activating the seven chakras, and the liberated cosmic energy is almost equivalent to that of a Golden Knight. Its main weapon is the Golden Spear, whose power is impressive, being able to cut the opponent only with the air driven by it. Defeated by the Excalibur of Shiryu, Krishna showed a spirit of honor, respecting the adversary he considers worthy.
+167	Sorrento
+168	^cd0000Age: ^ffffff16 Years \r ^cd0000Height: ^ffffff178 cm \r ^cd0000Peso: ^ffffff75kg \r ^cd0000Birthdays: ^ffffff10 September \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffAustria
+169	One of the Seven Marine Generals under the control of the King of the Seas, Poseidon. With sincerity in his heart, Sorrento truly believes that Poseidon can wash away the evil of the Earth to establish an ideal world. He is a specialist in using the sound of his flute, whose formidable power has already left Aldebaran in despair. In the fight to protect the Pillar of the South Atlantic Ocean, he was defeated by Shun.
+170	Thetis
+171	Radamanthys
+172	^cd0000Age: ^ffffff23 Years \r ^cd0000 Height: ^ffffff189 cm \r ^cd0000Peso: ^ffffff84 kg \r ^cd0000Birthday: ^ffffff30 October \r ^cd0000Blood: ^ffffffType O \r ^cd0000Birth: ^ffffffUnited Kingdom
+173	Celestial Star of Ferocity, the Wyvern Specter is known as "the strongest of the Three Judges of the Underworld" among the 108 Specters. At the beginning of the story, contrary to the orders of Pandora, he sends by himself a troop of Specters to advance; after that, he became a formidable opponent of Seiya and the others. He does not just have the confidence of Hades, as he is also loved and respected by his subordinates. In the fight against Kanon, it is reached by the suicide attack of its opponent and ends up disappearing in the sky of the Underworld.
+174	Aiacos
+175	Minos
+176	^cd0000Age: ^ffffff23 Years \r ^cd0000Height: ^ffffff184 cm \r ^cd0000Peso: ^ffffff72 kg \r ^cd0000Birthdays: ^ffffff25 March \r ^cd0000Blood: ^ffffffType A \r ^cd0000Birth: ^ffffffNoruega
+177	Celestial Star of the Nobility, the Gryphon Spectrum is one of the Three Judges of the Underworld and its strength is compared to the strength of the other two. The personality of Minos is calm; During a battle, wait until the perfect moment to strike a decisive blow. As the last of the Three Judges to be defeated, in order to prevent the departure of Seiya and the others, he fought in an intense battle against Hyoga. However, when entering the Hiperdimensión, his body ended up becoming dust for not having a divine protection.
+178	Pandora
+179	Pegasus
+180	In Greek mythology, Perseus decapitated and killed the Gorgon Medusa and the blood that flowed from his neck gave life to Pegasus. The winged horse flew to the heavens and posed on Mount Helicon, where he created Spring, a source of inspiration for several poets. Athena tamed the horse and gave it to Bellerophon to travel. On a trip to Mount Olympus, Pegasus was stung by a wasp, in turn knocking Bellerophon back to earth. Pegasus continued to fly alone, finally reaching the horizon and becoming a constellation.
+181	Dragon
+182	According to Greek mythology, when the gods Zeus and Hera were married, the goddess Gaia sent them an apple tree of golden fruits as a gift. Later, Hera planted the apple tree of golden fruit in the garden where the daughters of the goddess of the night lived and sent a fire-spitting dragon to keep it. This Dragon had 100 heads and never slept. The goddess Hera, with the intention of hindering the 11th work of Herakles, requested that he take three apples from the apple tree. When Herakles found the garden, the flames that the dragon spit prevented him from approaching. With his wisdom, Herakles offered himself to Atlas to take charge of his penance - holding the world above his shoulders - with the condition that Atlas made the Dragon sleep and take the golden apples. Once the task was done, Herakles tricked him into supporting the world again. Later, Hera sends the Dragon to heaven, thus creating its constellation.
+183	Cygnus
+184	In Greek mythology, the beauty of Princess Leda attracted the attention of the god Zeus, but he was afraid of the jealous nature of the goddess Hera and was afraid to approach the girl in her true form. Then, Zeus transformed into a Cygnus to seduce the princess. Then later, the princess became pregnant, and gave birth to the twins who would later become the Greek heroes Pollux and Castor. Subsequently, Leda married Tíndaro, King of Sparta, and had with him two daughters, Clytemnestra and Helena. The second one married with Menelau, brother of Agamenon. At this time, Zeus had already returned to heaven and, to commemorate the success of his romance, he transformed his incarnation of Cygnus into the constellation of the same name.
+185	Andromeda
+186	Andromeda has its origin in the myth of Perseus. In it, Cassiopeia, the queen of Ethiopia, boasted that her daughter was prettier than the Nereids. Offended, the nymphs asked Poseidon to punish Cassiopeia, and the divinity sent the sea monster Cetus to attack Ethiopia. In panic, Andromeda's father, Cefeus, was informed by the Oracle of Amon that the only way to save his kingdom would be by sacrificing his daughter. She was chained to a sea rock, but was saved by the hero Perseus, who, in one version of the story, used the head of Medusa to turn the monster into stone. Then Perseus and Andromeda were married and had nine children. After the death of Andromeda, Athena honored her by placing her in the sky as a constellation.
+187	Phoenix
+188	The majestic bird of fire is a recurring figure in mythology. Able to live for periods of up to 500 years, he is still capable of transcending the limits of life and death when he reaches the apex of his maturity, setting his own body on fire and being reborn from the ashes. Unlike most of the constellations here narrated, Phoenix is ​​a relatively new constellation, being baptized at the end of century XVI, and that is why it does not have any classic legend.
+189	Coat of Arms
+190	In 1683, 300 thousand Turkish soldiers surrounded Vienna, the capital of Austria, and tried to conquer Europe. John III Sobieski, the king of Poland, brought to Vienna only 70 thousand soldiers and managed to defeat the Turkish army. The victory had no impact only in Poland, but throughout Europe. A year later, the astronomer Jan Heweliusz named a constellation with the name of the Shield to celebrate the victory achieved, due to the shield used by Sobieski in battle.
+191	Sextans
+192	A powerful armor, which can only be used by the sacred warriors faithful to Athena.
+193	Volans
+194	Snake
+195	The constellation of Serpent is divided into two halves: Caput, the head, and Cola. The division occurs because the constellation of Serpent is between the two. It is one of the oldest constellations in the sky, since these creatures were always admired in the course of civilizations, so much so that several considered both as just one constellation. Nevertheless, Ptolomeo already cataloged them as independent groupings.
+196	Southern Fish
+197	A rather ancestral constellation, as it was admired by civilizations from the Age of ancient Mesopotamia. For that reason, it has received several associations by diverse civilizations with the step of the centuries. For example, the Sirians believed to be the fish that saved the goddess of fertility, Atargatis. In Syrian mythology, it would also be related to the god Dagon, half man and half fish.
+198	Chameleon
+199	Sea Dragon♂
+200	Corona Boreal
+201	In Greek mythology, Ariadne did not want to accept the marriage proposal of Dionísio for believing that this was any human being. To prove that he was a divinity, Dionísio took out Ariadne's crown and threw it into heaven, resulting in the birth of this constellation. Ariadne, in turn, ended up marrying him after what happened.
+202	Southern Cross
+203	The smallest and most famous constellation in the heavens. Receiving different names in different cultures (even known as "Eagle Claw" in Australia), it was a very important constellation at the time of navigations, as the upper end of the cross points to the Southern Celestial Pole.
+204	Popa
+205	Within Greek mythology, Argo Navis is the ship that Jason and the Argonauts used in their search for the Golden Fleece. Only the back half of the ship is visible, the tradition defined that the rest of the vessel was not visible because it was wrapped in the mist. The Popa constellation, as the name already indicates, represents the stern of the Argo Navis. The rest of the ship is in the constellations of Quilla and Vela.
+206	Reno
+207	Austral Crown
+208	Hare
+209	Eridanus
+210	Horologium
+211	Queen
+212	Oriolus
+213	Chita
+214	Coreius
+215	Lira
+216	Although the constellation is of the instrument, the story behind it is that of the musician who wielded it. Orpheus, son of Apollo, played a lyre made by Hermes using a turtle shell. Enamored by the wife Euridice, Orfeo falls apart when the beloved is bitten by a snake and comes to perish. The musician travels to the Underworld and makes a deal with Hades to retrieve his wife, which the divinity accepts, but only if he leaves the Underworld without looking back. In an oversight, he does it to try to see the face of his beloved and, because of his impatience, he loses Euridice forever. Disconsolate, Orpheus sees his end in the hands of countless women after denying his invested. Zeus, in homage to the musician, raised his lyre to the sky and turned it into a constellation.
+217	Auriga
+218	In the Greek interpretation, that constellation would represent Erichthonius, the son of Hephaestus and Athena. Erichthonius learned technical skills with his mother, including training, which he used to tame horses and invented a chariot (hence the translation of Auriga by Cochero in some interpretations).
+219	Cefeus
+220	The mythological figure of Cefeus represents the legendary king of ancient Phoenician territory, husband of Cassiopeia and father of Andromeda. It was he who made the decision to chain his own daughter in order to save his kingdom, after his wife was convinced to be more beautiful than the Nereids and provoke the wrath of Poseidon.
+221	Reticle
+222	Eagle
+223	Triangle
+224	Easily identifiable in the heavens by its format, that constellation was known in Greece as "Deltoton", due to the similarity with the Greek letter Delta (Δ). Eratosthenes associated the constellation to the mouth of the Nile River.
+225	Heracles
+226	Inspired to kill his own family by the Goddess Hera, Heracles begins 12 works almost impossible to redeem. Son of Zeus with the human Alcmene, the demigod is one of the best-known heroes of Greek mythology, being converted into a constellation by his own father at the end of his mortal life.
+227	Raven
+228	Apollo's domestic bird was ordered to look for water in a distant spring. The crow got confused with a fig tree, fell behind in its mission, and then blamed a snake for not allowing it to search for water. The divinity saw through the raven's lies and, as a punishment, put him in the skies next to the serpent and the cup that he should use to look for the water, thus incrding the serpent to never allow the crow to reach the water. the cup.
+229	Centaur
+230	Although there are many centaurs in mythology, what originates the constellation is Chiron, known as "the trainer of heroes" for having taught great mortals of mythology, such as Jason and Heracles. He was very wise, disciplined and benevolent, different from most of his species.
+231	Fornax
+232	Compass
+233	Whale
+234	Perseus
+235	Cassiopeia
+236	Turkey
+237	Lizard
+238	Cup
+239	Cerbero
+240	Crane
+241	Altar
+242	Duchess
+243	Swordfish
+244	Atrium
+245	Master of the Ghosts
+246	Aries
+247	The constellation of Aries originated from a mythical ram whose wool was turned into gold. The Golden Fleece, or the Gold Hulk, the name given to the wool of that ram, becomes one of the most coveted objects in Greek mythology, being the object of the works of Jason and the Argonauts. The ram belonged to Frixo, son of Atamante, and was used to flee from Greece with his sister, Hele.
+248	Taurus
+249	Like the Cygnus, the Taurus in the stars represents one of the forms that Zeus assumed to seduce a mortal. In this case, the objective was the Phoenician princess Europe, with which Zeus had three children. The constellation of Taurus shelters two of the most emblematic star groups of the heavens: the Hyades and the Pleiades. The format of the constellation shows only half the animal, as if it were emerging from the waves.
+250	Gemini
+251	The brothers who give shape to the constellation are Castor and Polux, children of the Queen of Sparta, Leda, after being seduced by Zeus in his swan form. The twins were formidable warriors, but, in a battle for the hand of promised donzellas, Castor was dejected. Polux tries to take away his own life, but his immortal side prevents him. His drama is then immortalized in the stars, with the twins eternally embraced.
+252	Cancer
+253	While Heracles faced the Sea Dragon, a crab was sent to hinder the hero. Without hesitation, the little creature was crushed by a tamper of the son of Zeus. As a reward for his efforts, the being was raised to the heavens and became the constellation of Cancer.
+254	Leo
+255	The first of the Twelve Works of Heracles is to face the Nemean Lion, a colossal cat like an elephant and tough leather like that of a crocodile. The son of Zeus knocks down the beast and kills it strangled, later dressing his skin for protection. Hera, outraged by the defeat of the Lion, makes it a constellation to immortalize Heracles' enemy in the heavens.
+256	Virgo
+257	There are many myths associated with the Virgo constellation, but always linked to female figures in multiple cultures. In Greece, the celestial group referred to the Goddess Demeter, ruler of crops and fertility. In other readings, the young woman would be Erigone, daughter of Icarus and close to the God Dionísio, who was converted into a constellation after committing suicide in mourning for his father.
+258	Pound
+259	The balance is associated with the Goddess Astrea, daughter of Zeus and Themis, being the personification of justice with her mother. A guardian of humanity, she taught men techniques of hunting and planting, and preached love. With the end of the Golden Age, Astrea leaves Earth not to witness the suffering that was to come, going to the heavens and becoming the constellation of Libra. In other interpretations, Astrea became the constellation of Virgo.
+260	Scorpio
+261	Like Cancer, the constellation of Scorpio also originates from a conjured creature to try to kill a Greek hero. In the case, the Scorpio had been sent by Apollo to kill Orion, in an act of jealousy in relation to his sister, Artemis, who was the hunter's girlfriend. After completing the task, he was raised to the heavens and became a constellation. Interestingly, when the stars of Orion are disappearing in the Ocident, those of Scorpio emerge in the East.
+262	Sagittarius
+263	As well as the Centaur constellation, Sagittarius also portrays the Chiron tale. Son of the Titan Cronos and the nymph Filira, was adopted by Apolo and trained a series of heroes of mythology, such as Herakles, Jason, Achilles, Ajax, Theseus, and many others. He lived and died for the sake of others, sacrificing his own immortality to lighten Prometheus from his eternal punishment. His acts caused him to be immortalized in the heavens in the zodiacal constellation.
+264	Capricorn
+265	While the gods were gathered in Greece, the giant Typhon attacked and forced everyone to flee. To evade the creature, the gods were assuming forms of animals; Artemis became a cat, Hermes in Íbis, and so on. Pan, engenhoso, jumped in a river, turned half of his body into fish and the other half into ram, escaping with ease, using the best of the two animals. Admired by his insight, Zeus placed him among the constellations under the surname of Capricorn.
+266	Aquarius
+267	The figure carrying the water amphora is associated with the shepherd Ganimedes, extremely gentle and hard-working, so much so that he was taken to Olympus by Zeus to be the personal servant of the gods and received ambrosia to become immortal. However, even the innumerable gifts sent by Zeus did not appease the nostalgia that the father of Ganymede nurtured for the son. Thus, Zeus puts him in the heavens so that his father could always see him, in the form of Aquarius constellation.
+268	Pisces
+269	​​While the Typhon monster's attack on Greece, all the gods are forced to flee in the face of the creature's fury. Aphrodite and her son, Eros, become a pair of fish and flee through the waters. In order not to lose one another, Aphrodite ties a rope between the two, thus ensuring that they are always connected. The engenhosity of the goddess of love has guaranteed the pair a position in the stars, in the Pisces constellation.
+270	Aries
+271	Gemini
+272	Taurus
+273	Cancer
+274	Leo
+275	Virgo
+276	Pound
+277	Scorpio
+278	Sagittarius
+279	Capricorn
+280	Aquarius
+281	Pisces
+282	Dragon of the Sea
+283	According to the Hypermit, when Zeus left Earth in the hands of Athena, Poseidon begins to prepare to attack and take control of the planet for himself. For that, he builds armors for his generals, so that they can fight with advantage to the forces of the Goddess, and thus the Scales of Poseidon are born. Made of Oricalco, metal from Atlantis, the advantage they give in battle is so great that Athena was forced to create for her own guardians, her own armor, thus giving birth to Athena's armor. That armor is that of the Sea Dragon, used in the series by Kanon, twin brother of Saga.
+284	T. of the Conste.
+285	Near the Aegean Sea, in Greece, it is a place visited by tourists because of its reputation. They say that the name "Land of the Constellations" was given to the place due to the innumerable shooting stars that can be seen in the sky.
+286	Sanctuary
+287	It is the main base of operation of the Knights of Athena. It is from there that the Grand Master and Athena command their forces. It is also where the Twelve Houses remain, the final line of defense of the forces of the Goddess, guarded by the Golden Knights.
+288	Coliseum Grand
+289	The Grand Foundation is an organization with high purchasing power and technological knowledge. Created by Mitsumasa Kido and today directed by Saori, it is one of the largest companies in the world. \r The Coliseum Grand is one of the constructions of property of the foundation, created for the realization of the Galactic Tournament.
+290	Rozan
+291	Located in the Five Ancient Peaks, this place maintains the classic Chinese cultural traditions and characteristics. It is where Shiryu and Shunrei live, as well as the Golden Knight of Libra and Master Dohko, who rests while maintaining his vigil on the seal of Athena, which keeps the Hades Shadowens under control since the last Holy War.
+292	Est. Forgotten
+293	This entrance is the place where the Knight of Sagittarius, Aioros, was killed by the Capricorn Knight, Shura, after rescuing the Goddess Athena, still a baby. It is also the only road that leads to the Solo Mansion.
+294	I. de R. Muerte
+295	As its name implies, the Island of the Death Queen is a cruel place, known as the "Hell on Earth". Ikki received his training here to become the Phoenix Knight. The island serves as a base for the Black Knights.
+296	Sibé. Orien.
+297	Completely covered with ice and snow, or the inhabitants learn to coexist with a devastating cold, or freeze to death. It is where Hyoga lives and did his training to become the Cygnus Knight, under the tutelage of the Aquarian Knight, Camus.
+298	Atlantis
+299	The legendary lost continent of Atlantis is a beautiful and wonderful underwater kingdom. It is where the Palace of Poseidon is located. Formerly, that territory was above the seas, but sank after the first Holy War between the forces of Athena and Poseidon.
+300	Andróm Island.
+301	The place where Shun trained and, through the Ritual of Sacrifice, has obtained the Andromeda Armor. The vegetation of the Andromeda Island is scarce and the temperature variation of the day for the night is very high. In the center of the island is the active volcano of Tartaro, which they claim to be the gateway to Hell.
+302	Cas. of Hades
+303	The place where Pandora was born. Initially, it was a quiet and peaceful castle, but, 13 years ago, when the spirit of Hades was reborn, all forms of life in the surrounding area were extinct. Currently, the place is protected by an enchantment of Hades, preventing ordinary people from approaching and weakening the Knights of Athena to 1/10 of its original power. It has a portal for the Underworld inside.
+304	Underworld
+305	To enter the realm of the dead, the living must reach the Eighth Sense. Inspired by the "Divine Comedy" by Dante Alighieri, the territory of Hades is divided into 9 circles with prisons for different types of souls to be punished. In addition to the Wailing Wall, there is the path to the Champs Elysees, resting place of the benevolent souls selected by the gods, as well as the King of the Underworld.
+306	Sirena
+307	^cd0000 pertencem forças: ^ffffffNeptune
+308	Eles vivem em uma ilha, with a marvelous song to attract marinheiros, sua ilha and, therefore, cheio de ossos humanos.Kraken is really a sea monster as a muito feio and muitas vezes as a human human nature não perto da costa, assim that sirene não tinha found nenhuma prey can stick.Com a memória vai, e eals to evolve for a beautiful mulher, so to sirene for a mAiolia mAiolia beleza.A mAiolia tem mantido uma metade homem sirene e olhar metade peixe for é that You can use or som e aparência à demagogia.
+309	Cerbero
+310	^cd0000 pertencem forças: ^ffffffPluto
+311	Guardavam os portões de inferno de demônio type, this monstrous form terrível.Tem muitas alto, longa cauda da cobra, cabeça e cabelo for behind all or dinheiro for a viagem of estradas cobras, vento ejetado da boca do pôr-do- capim vai give a light to acônito.Na mythology, or submundo two mortos ao enter or first passeio de atravessou river or river Styx, and inferno três cães guardava or subworld Hades was a porta.Inferno três cães de esteemão na alma de cada um dos submundo mortos, more não deixe ninguém de fora.
+312	scepter of ouro Athena
+313	Large or small can scale onipotent bem
+314	Minato Minato palavras palavras palavras palavras Cou
+315	Minato Minato palavras palavras palavras palavras Cou Cou Cou Minato palavras palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou palavras pala pala palavras Cou Cou Cou Cou palavras palavras palavras
+316	Volume Volume ah ah
+317	Quadrinhos ah ah
+318	

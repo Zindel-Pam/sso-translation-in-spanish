@@ -1,0 +1,474 @@
+0	Success without errors
+1	Target Incorrect
+2	Target too far
+3	Serious error: incorrect instruction
+4	When the character dies, it is not possible to receive that command
+5	Specific item was not found in the package
+6	This item can not be picked up.
+7	Full inventory
+8	This item can not be equipped.
+9	You can not attack now.
+10	Can not be invited now.
+11	Fail to join raid
+12	The player is processing the invitation you sent, try again after 30 seconds.
+13	Request to join expired raid
+14	Failure to use the service
+15	Request for incorrect service function
+16	Material required for change or insufficient funds
+17	First, you must leave the Fight
+18	The article can not be used.
+19	Quest not available
+20	Unable to release skill
+21	Can not be strengthened or keyed
+22	During the fight, you can not use Circular in that way
+23	Can not complement the time of Flying Sword
+24	Raw material Insufficient
+25	Error occurred while crafting 
+26	Error when disassembling
+27	Now it is not possible to sit
+28	It is now not possible to replace the equipment
+29	This material is being used
+30	Your collection tool does not correspond
+31	The object could not be opened
+32	Other operations in progress
+33	The password contains characters that are not allowed
+34	Incorrect password
+35	The warehouse has not been opened yet, it is not possible to access it
+36	Currency in the insufficient warehouse
+37	Request to form rejected group
+38	Being rejected along with facial expression
+39	Locked equipment bar, this operation can not be executed
+40	The store can not be opened
+41	Incorrect item
+42	Currently in withdrawal status
+43	Articles can not be discarded
+44	Illegal permit
+45	Non-existent Player
+46	It is not possible to cancel in the PVP status
+47	It is not possible to forget the designated skills
+48	Under the status of unconsciousness, that command can not be executed
+49	Under the stamping status, that command can not be executed
+50	Insufficient level, this operation can not be performed
+51	You can not enter the Instance Zone
+52	The skill has not yet been restored
+53	The article has not yet been restored
+54	Now it is not possible to fly
+55	To restore the Instance Zone it is necessary to wait at least 5 minutes
+56	The package is being blocked
+57	The number of people in the Instance Zone has reached the maximum limit
+58	The number of Instance Zones has reached the maximum limit
+59	Clan base currently closes doors for visits politely
+60	This clan base is only open for the passage of members affiliated with the local
+61	It is not possible to teleport to the same type of Instance Zone
+62	Insufficient rest time
+63	It is not possible to repeat the mourning operation
+64	It is not possible to establish mourning, please try again
+65	It is not possible to do this during the fight
+66	Sex does not correspond to the conditions
+67	You can not hug that way
+68	It is not possible to do this now
+69	The pet is already in invocation status
+70	The pet is not in the Pets bar
+71	The pet has not yet left for the expedition
+72	The pet does not eat this kind of thing
+73	The battlefield has not yet been opened
+74	The unit to which the clan belongs can not enter the battlefield here
+75	Unable to obtain information about the enemy
+76	The NPC is busy
+77	It is not possible to invoke the mount here
+78	Points can not be reset
+79	The fights are over, it is not possible to enter
+80	It is not possible to mourn here
+81	It is not possible to leave for an expedition here
+82	It is not possible to operate more siege weapons
+83	First, it is necessary to resuscitate your Pet.
+84	The pet is still alive
+85	It is not appropriate to do that here
+86	The Protective Constellation does not correspond
+87	Effect of the optimization amulet is still in effect
+88	It is not possible to continue with the improvement operation of this equipment
+89	I can not learn this formula
+90	It is not possible to continue with the improvement of this equipment
+91	Error removing key
+92	Error in the operation
+93	Your spouse and you are not on the same line, or the other part is offline
+94	There are currently no points that can be reset
+95	Error resetting item in destruction
+96	Error when using article
+97	The magic skill has not yet been restored
+98	The location of the Target is beyond the reach of magical teleportation
+99	Its location is beyond the reach of magical teleportation
+100	You have not joined any clan yet
+101	The time you have to join the clan is not long enough
+102	This item can only be reincorporated for use after entering the battlefield
+103	Error refining Magical Artifact
+104	Error when improving Magic Artifact
+105	Failed to restart Magic Artifact
+106	Failure to melt Magic Artifact
+107	Error in enchanting Magic Artifact
+108	Security lock status has not been activated yet, you still can not do that
+109	It is not possible to grow equipment
+110	Quality has already reached the highest level
+111	There is not enough Magic Force to continue with the cultivation of equipment
+112	A Pet is needed to complete this operation
+113	You own a Pet
+114	You do not own that Pet, you can not invoke it
+115	It is only possible to invoke a Pet to help you
+116	You need to invoke a Pet to complete this operation
+117	Failure to melt Alma
+118	The pet was evaluated
+119	The pet is not in dispatch status
+120	Pet Skill Recharge Time
+121	Current capacity is insufficient to improve equipment
+122	Employee relationship successfully removed
+123	Successfully evaluated
+124	The pet is being recovered, temporarily, it is not possible to invoke
+125	Your level is lower than the Pet you have brought
+126	The immortal destination of the Target reached the maximum limit
+127	Insufficient Magical Force
+128	You can not criticize another person
+129	You can not praise another person
+130	You have already voted
+131	The level of the other party is not enough
+132	Your level is insufficient
+133	This article can not be consumed by Pet
+134	Insufficient Pet Level, can not be equipped.
+135	The HP of the target is too high, the soul can not be collected
+136	You need a Pet equipment to complete this operation
+137	The quality of the equipment is not enough, error when synthesizing
+138	Level of gift of the Pet insufficient, error when melting soul
+139	Level of auxiliary equipment is too high, the main equipment could not be melted
+140	Currently the HP of the Pet does not need to be completed
+141	Pet can not eat more food
+142	Rebirth of the Pet successfully made
+143	His reputation is insufficient, it is not possible to invoke the Pet to participate in the fight.
+144	The level of the Pet is higher than yours, error when invoking
+145	The Pet needs to first get Pet skills
+146	The Pet bar is full
+147	The package is full, it is not possible to receive the Pet
+148	Pet's satiety level is too low
+149	You are not the current owner of that Pet, you have no right to change your name
+150	Hero's Pet can not do that
+151	The level of the Pet is too high, the current level of the character is not enough to invoke it
+152	Number of victories of the Pet insufficient, it is not possible to challenge the temple
+153	The pet already has skills
+154	The Pet race does not fit the conditions to understand this innate ability
+155	The level of the Pet does not fit the conditions to understand this innate ability
+156	The nature of the Pet does not fit the conditions to understand this innate ability
+157	The Pet score level and the tool used do not meet the requirements
+158	The price of the product is higher than the maximum allowed value, it is necessary to repeat the operation
+159	The player's inventory is full, error when selling
+160	The amount of money you have spent has exceeded the allowed limit, temporarily, it is not possible to proceed with this type of negotiation
+161	The quantity of purchases exceeded the number of shipments, error when buying
+162	Mount request with many people Incorrect
+163	It is not possible to continue with the saddle with many people
+164	The mount is now complete
+165	You have already invited many people to the saddle
+166	Insufficient Vigor
+167	Insufficient Power
+168	This monster can not be captured
+169	The HP of the monster is greater than the requirements for capture
+170	You are not a tamer, it is not possible to capture that monster
+171	Level of tamer insufficient, it is not possible to capture that monster
+172	Capture Error
+173	Strengthening bar filled
+174	Amount of Coin reached the maximum limit
+175	The magical power of the Pet is full, it is not necessary to complement
+176	Error delegating the book's mission
+177	Collected book
+178	Insufficient vigor index
+179	It is not possible to nail more jewels of the same type
+180	You're too close to the Target
+181	The ability can not be released on its own
+182	Error repairing equipment
+183	It is not possible to collect
+184	Picking up other dropped packages, it is not possible to pick up the current dropped pack
+185	It is not possible to retake the backpack with the Pet in fight
+186	Invalid Pet Name Length
+187	The Target can not be captured to be a Pet
+188	Target capture too far
+189	Target capture too strong
+190	Error capturing the Pet, please try a few more times
+191	The HP index of the capture data is too high
+192	Start "double EXP mode" at recharge time
+193	Your stored EXP is full
+194	The name of the Pet contains characters that are not allowed
+195	Failure to absorb Protective Stone
+196	Faction does not correspond, it is not possible to collect
+197	The prize box of this Instance Zone has already been opened by another player
+198	Award of the Instance Zone has already been opened
+199	Parameter error when opening the Instance Zone prize
+200	Currently under transformation status, Pet can not be invoked
+201	Number of times already reached the maximum limit
+202	Teleportation error, the corresponding line does not exist
+203	Non-existent Instance Zone Service
+204	It is not a store area, it is not possible to open a store
+205	Open the store only in security areas!
+206	It is not possible to open the store in fight status
+207	You can not open the store when you're on the move!
+208	Very close to someone else's store, the store can not be opened
+209	Insufficient product inventory, error when buying
+210	Conflict when stuffing Alma Estelar
+211	When the Cosmo is burning, operations are not allowed
+212	Error activating Ability of the Amateur
+213	Error distributing science and technology points
+214	It is not possible to replace Armor Skill during the fight
+215	Point to return from the city not configured
+216	The character level is too high
+217	Currently, there is no prize for the recommender
+218	Currently, the stored EXP has already reached the maximum limit
+219	Today the total time of the Bath of Glory has already reached the maximum limit, continue tomorrow again
+220	Unknown error
+221	Inactive gift card
+222	This character has already used a card of the same type
+223	This card has been used by this character
+224	This card has been used, and it is also not an application character
+225	Invalid gift card
+226	Gift card has expired
+227	The gift card was used by that account on another server
+228	Network communication error
+229	This account did not link this card, it is not possible to receive the prize
+230	The current status of the player does not allow receipt of the gift card
+231	Body shot has failed
+232	Content entered too long
+233	There is no recommender award
+234	Explore Star City, Wrong Star City
+235	Explore Star City, quantity of items is not enough
+236	Particle synthesis Incorrect particle
+237	Particle synthesis Insufficient number of particles
+238	Current light particles Incorrect parameters
+239	Funds, article and prestige necessary for insufficient purchase
+240	The other player's package is full, it is not possible to sell items
+241	The exploration level of Star City is not enough
+242	Cultivation of the Uncontrolled Star City
+243	Cultivation of the Wrong Star City
+244	Cultivating Star City
+245	Skill use error, it is not on the ground
+246	In unconsciousness status, it is not possible to use skill
+247	In this week, there is competition in both rounds, it is not possible to receive the W.O.
+248	In this week, the round of the competition was W.O, it is not necessary that you enter the battlefield, please go directly to receive your prize of W.O
+249	This service for the Universe Competition has not yet been opened
+250	You did not arrive on the battlefield until the moment of opening, it is not possible to enter. Please try to enter again after 7:55 pm on Saturday
+251	The character creation time (% s) is ahead of the time when this type of gift card is available.
+252	Mission to train the sight has already been done
+253	Number of incorrect questions
+254	The mission can not be completed
+255	It is not possible to block the purple Star Soul and above
+256	Can not see the battle in the current schedule
+257	Renewed rating for% d, is lower than the current index, maintain the current index
+258	Incorrect Parameter
+259	Incorrect Status
+260	Incorrect Hour
+261	already wagered
+262	Incorrect Article
+263	This article does not belong to you, it is not possible to collect it
+264	This item does not belong to your army, it is not possible to collect it
+265	Existing Movement
+266	You still have not learned this movement
+267	Remaining number of times to receive the insufficient gift package
+268	The number of times to receive today reached the maximum limit
+269	​​Incorrect skill learning level or clicked too fast
+270	There is not that skill
+271	Skill can not be learned
+272	It is not possible to learn that skill
+273	Skill level reached the maximum limit
+274	Sex to learn the skill does not match
+275	Constellation to learn skill does not match
+276	Conditions to learn skill does not match
+277	Player level to learn skill insufficient
+278	Level of the Cosmo to learn skill insufficient
+279	Predefined skill level to learn skill insufficient
+280	Reputation to learn skill insufficient
+281	EXP to learn skill insufficient
+282	Coin to learn skill insufficient
+283	Cash to learn skill insufficient
+284	Army contribution level to learn skill insufficient
+285	Reputation consumed to learn skill insufficient
+286	Item consumed to learn skill insufficient
+287	Index of awareness to learn enough skills
+288	It is necessary to be in advanced to have Golden Constellation
+289	There are not enough skill points
+290	Success
+291	Non-existent users
+292	User name and/or password do not match
+293	Exceeded time
+294	Parameter error
+295	Link - friend messages can not be synchronized when they are saved in the database
+296	LINK - the server does not support that request
+297	Network communication error between servers
+298	LINK - repeat the login, currently, the account is blocked, please wait 5 minutes
+299	LINK - repeat the login, the account is currently blocked, please check the force login
+300	LINK - Nonce index invalid
+301	LINK - Error logging out
+302	LINK - Error in the game server's attempt to obtain player character information
+303	Error accessing the account on the game server, please try to login again later.
+304	LINK - The number of people in the game server has reached the maximum limit
+305	LINK - This character is already in the game
+306	LINK - The number on this line has reached the maximum limit
+307	LINK - There is not that line number
+308	LINK - There is currently no line available
+309	LINK - Error while transmitting
+310	LINK - Transmission time exceeded
+311	LINK - The salary of this account is insufficient
+312	LINK - This account was closed, error when logging in
+313	LINK - This name can not be used
+314	LINK - IP blocked, it is not possible to access the game. Please try again after 10 minutes
+315	LINK - You made 3 consecutive misuse attempts with the security card. For your security, the system will temporarily suspend your account. You can try to access again after 10 minutes.
+316	LINK - Security authentication failed
+317	LINK - Error creating character, invalid or used disclosure code
+318	LINK - Error in multi-server access
+319	LINK - Error logging into the game
+320	LINK - The account was expelled from the line
+321	LINK - Error creating character
+322	LINK - Error deleting the character
+323	LINK - Error getting character list
+324	LINK - Failed to undo character exclusion
+325	LINK - The server is in maintenance, error when logging in
+326	LINK - This character was locked, error when starting session
+327	LINK - Number of people in the full server
+328	LINK - The server has disconnected spontaneously
+329	LINK - Duplicate the character's name
+330	LINK - The number of complete characters
+331	LINK - Request friend request
+332	LINK - Reject friendship request
+333	LINK - Add as a Friend
+334	LINK - This character is on sale at xunbao178.com, it is not possible to enter the game
+335	LINK - There are currently accounts pending change of ingot, or ingot message not received; you can not delete the character
+336	LINK - currently have apprentices, it is not possible to delete the character
+337	LINK - nonexistent data
+338	Please, first leave the army and then delete the character.
+339	LINK - the access time to the server exceeded, please log in again and try again
+340	You have a relation in the game, please undo the marriage first to try to eliminate the character again
+341	This character has been authenticated by Athena, it can not be eliminated.
+342	LINK - the other party is no longer online
+343	LINK - the other party refused to negotiate
+344	LINK - the other part is busy
+345	LINK - Failure to fill the database
+346	LINK - Failure to enter the negotiation, both sides of the negotiation already exist
+347	LINK - invalid negotiator
+348	LINK - fails to increase negotiation items
+349	LINK - fails to decrease negotiation items
+350	LINK - sending in half, wait for the other party to send
+351	LINK - delivery completed
+352	LINK - fails to send
+353	LINK - fails to confirm
+354	LINK - successful negotiation
+355	LINK - negotiation in half, wait for the other party to confirm
+356	LINK - fails to cancel negotiation
+357	LINK - fails to move items
+358	LINK - the free space in the article bar of this part of the negotiation is insufficient
+359	LINK - fails to define properties
+360	LINK - the addition of each negotiator has been successful
+361	LINK - the addition of two successful negotiators
+362	LINK - the authorization to negotiate the other party is illegal
+363	Clan service temporarily unavailable
+364	Invalid type of operation
+365	Operation exceeded the time limit
+366	Currently, you are a member of a clan, you can not create clans
+367	This name is being used by another person
+368	Failure in the database
+369	Without permission for this operation
+370	The length of the name does not correspond or contains characters that are not allowed
+371	Number of people has reached the maximum limit
+372	First, you have to leave the clan in which you are currently
+373	You have already joined the clan
+374	The other party thanks, but rejects his invitation
+375	The other part have joined the clan
+376	Non-existent Clan, or the player has not applied to join this clan
+377	The player is not a member of this clan
+378	Does not meet the conditions of the operation
+379	Type of incorrect operation parameter
+380	Player is not online
+381	Service not available
+382	The level of the other party is not enough, it is not possible to join the clan
+383	Dissolving
+384	The other party can not be invited to join the clan
+385	Those who were invited and left the clan in less than 1 day can not join a new clan
+386	You have linked a security phone Please, after calling 010-5885-8566 to continue unlocking, try to log in again
+387	This server must be activated before starting the session, this account has not been activated
+388	If the Zongheng Chinese Website account is not activated, you can not log in to the game
+389	To optimize the server load Since the story has not accessed the game for a long period of time, it was blocked Please contact customer service
+390	This electronic password is in use
+391	The account is under suspicion of malicious entry, entry prohibited in 10 minutes. If you are not trying to connect, please contact customer service
+392	Your account has been blocked, please wait a moment and try to access your account later
+393	You have already entered the password of the wrong security code for three consecutive times To keep your account secure, the system will temporarily suspend your account You can try to access your account in 10 minutes
+394	The ticket has expired in the jump, error when accessing the account
+395	Failure to check the ID information used in the jump, error when accessing the account
+396	Error in checking the server ID information in the saint, error when accessing the account
+397	You are a fast registration user, the account information is still imperfect. There are serious security risks, please log in correctly to authenticate Try to sign in again after completing the account information
+398	Restriction of the level of ownership
+399	Gold from the other party has exceeded the maximum limit
+400	The other party is not connected or the character does not exist
+401	The other party is already a disciple of a teacher
+402	Number of disciples have reached the maximum limit
+403	The system is busy, try later
+404	The other part thanks you, but rejects your invitation to accept you as a disciple
+405	The other party's level does not meet the requirements
+406	It is only possible to recruit one disciple per day
+407	Without Apprentice
+408	Without Teacher
+409	Without an equity index
+410	Teacher operations are too frequent
+411	The disciple's operations are frequent
+412	Already registered
+413	Statement too long
+414	When you are on a multi-server, master and disciple operation is not allowed
+415	Teacher level failure
+416	Disciple level failure
+417	Failure in the Teacher's Power of Strife
+418	Already a relationship of teacher and disciple
+419	I am already a disciple
+420	The other party is already a disciple
+421	Indication not yet registered
+422	Master can not exclude the character
+423	Multi-server communication failure
+424	Multi-server authenticity stage failure
+425	Time to check multi-server identity exhausted
+426	Multi-server identity check does not apply
+427	Multi-server has some protocols that should not be accepted
+428	Timeout for multi-server data
+429	Failed to save multi-server data
+430	Number of people in the entire troop
+431	The player has already joined the troop
+432	The other party rejected your invitation to form a team
+433	Unexisting troops
+434	Captain Offline
+435	Try again, please.
+436	Not to agree with the change in the distribution of team formation
+437	Voting in progress
+438	You do not have the right to do that
+439	Modification in equipment distribution
+440	Invitation to enter the team, without response from another party
+441	Request to enter the team, without response from the other party
+442	No Instance Zone of the troop currently
+443	Troop has members that are in the Instance Zone
+444	The operation chosen by the character has exceeded the time limit
+445	This name is already used
+446	You have reached the maximum number of characters
+447	Failure in Pet practice
+448	The player is not the captain
+449	Work in progress ...
+450	Change of status of the troop
+451	Team member does not attend to the initial conditions
+452	Insufficient team member package space
+453	The use of the service has exceeded the time limit
+454	Status of insufficient team member
+455	Password error
+456	It is necessary to enter the original password
+457	With Timelock in block status, it is not possible to continue with that operation
+458	Fails to create character, fails on character's birthday
+459	Failure to create character, the length of the character's name does not correspond to the requirements
+460	Fail to create character, Character name contains characters not allowed
+461	You have filled in an invalid invitation code
+462	The gold invitation code that you have filled out can not be used
+463	The gold invitation code you filled in cannot be used because the player character does not exist.
+464	Gold Invitation Code cannot be used to invite other characters under the same account
+465	The gold invitation code you filled in has been used.
+466	can not enter the return suit
+467	reflow service can not use the gold promotion code
+468	LINK - You have failed to log in using the security card three times in a row. For your account security, your account has been temporarily suspended. You can try to log in again after 10 minutes.
+469	You have bound your phone secret, please call 010-5885-8566 to unlock and log in.
+470	In order to optimize the server load, the account has been banned because it has not been logged in for a long time. Please contact customer service.
+471	The account has the suspicion of malicious login. It is forbidden to log in within 10 minutes. If you are not logged in, please contact customer service.
+472	You have entered the token password error three times in a row. For your account security, your account has been temporarily suspended. You can try to log in again after 10 minutes.
+473	You are a fast registered user, the account information is not perfect, there are serious security risks, please log in to the perfect passport to fill in the account information and then try to log in.

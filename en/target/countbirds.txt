@@ -1,0 +1,4 @@
+0	You made it!
+1	It was not this time!
+2	Birds
+3	Do not you want to participate in the activities now?

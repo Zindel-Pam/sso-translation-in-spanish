@@ -1,0 +1,618 @@
+0	Question %d
+1	Correct answer!
+2	Wrong answer! \r
+3	The answer is: %s
+4	Solution: %s
+5	Congratulations, you completed the Kiki Questionnaire, click on the button below to receive your reward and close!
+6	Get Prize (s)
+7	How to change the video settings for "3D" or "mangas style" rendering?
+8	In the system settings
+9	In an NPC option
+10	Pressing the ALT + G keys
+11	Only by choosing at the beginning of the game
+12	How to temporarily hide other players?
+13	ALT + P
+14	ALT + V
+15	ALT + H
+16	ALT + E
+17	Which shortcut key should be used to pick up items on the floor?
+18	F
+19	H
+20	ALT
+21	SHIFT + M
+22	In the game, under special circumstances, who has the right to ask for your ID and Password?
+23	Nobody has the right to do it
+24	Other players
+25	The GM that is online
+26	The service and support
+27	What to do when your inventory is full?
+28	Move some items for warehouse
+29	Sell to other players
+30	Sell in stores
+31	Discard everything
+32	When you're not sure about another player's action, what is the best action to take?
+33	Make a report to support
+34	Press up, down, left, right. ABAB
+35	Close the game for 1 hour
+36	Ignore and continue playing
+37	If someone tells about a special award in the game, how to proceed?
+38	Just believe in official news
+39	Do everything the person says
+40	Ignore
+41	Calling friends to win prizes
+42	By which of the following ways is it possible to divide the stacked items in the inventory?
+43	ALT + Drag the item to another slot
+44	Drag with the mouse directly
+45	Double click on the right button.
+46	Right mouse button and then divide
+47	When using the platform to form the team, when there is registration of 6 players in the group, what will happen?
+48	Ignore restriction of Sign and teleports
+49	It is necessary to fill out the restrictions. of Sign
+50	Does not line up, needs individual registration
+51	The system will organize the groups
+52	When your character is stuck, what to do?
+53	In Options, use the "Char Prison" function
+54	Relog
+55	Use the "Return" skill
+56	Ask for help from other players
+57	How to find an NPC in the game?
+58	Open the map and look at the list of NPCs
+59	Ask another NPC
+60	Ask for help from GM Online
+61	Exit looking
+62	How to activate the running mode when it is in automatic route?
+63	Hold down the "SHIFT" key
+64	Press and hold the left button. of the mouse
+65	Press and hold the right button. of the mouse
+66	Shake the computer screen!
+67	How to find players of similar level to yours and become friends?
+68	Using the "Colleagues" system
+69	Publishing an ad in the Sanctuary
+70	Screaming in the game channel
+71	Adding the players you're watching
+72	How do I recover the Energy Bar?
+73	Recovery is automatic
+74	Training the Pet
+75	Burning the Cosmo
+76	Defeating other players
+77	How to defeat a very powerful monster?
+78	Call a friend to help him
+79	Flee!
+80	Burlese of the Monster
+81	Call the GM to help
+82	In what situations can the Guardian of Astrology be used?
+83	In an Instance Zone
+84	In a group
+85	In any situation
+86	At specific times of the day
+87	Which of the following is not an advantage of joining an army?
+88	Call attention and make fun of everyone
+89	Meet new friends
+90	Join other players in battle
+91	Get rewards for the army
+92	How to follow the other players?
+93	Use the "Follow" option
+94	Go immediately back from this player
+95	Ask the player to let you follow him
+96	Ask the NPC to follow the player
+97	Running fast, blocking and diverting what do they consume?
+98	Energy
+99	HP
+100	Expertise
+101	Cosmo
+102	Which of the following is not an advantage of adding other players and making them friends?
+103	Improve your Power
+104	Form a group quickly
+105	Contact friends easily
+106	Getting help from friends
+107	Which shortcut keys can be pressed in the game to block enemy attacks?
+108	Q
+109	N
+110	R
+111	Where can I buy common recovery elixirs and bread?
+112	With NPCs Bakers and Pharmacists
+113	In the Item Mall
+114	All NPCs sell
+115	Pray for players give you a gift
+116	What should I do when the shortcuts in the Skills bar are full?
+117	Expand the third shortcut bar
+118	Remove skills without using the bar
+119	Buy an item to expand the bar
+120	Go to the NPC to open a new bar
+121	Can the Magic Box be used to dismantle what kind of equipment?
+122	Equip. not white and LVreq. do not be + 15
+123	White Equipment
+124	Equipment can not be dismantled
+125	Any equipment can be dismantled
+126	Where in the interface is the calendar icon located?
+127	In the upper right corner
+128	In the upper left corner
+129	In the lower left corner
+130	In the lower right corner
+131	How to use the portable store?
+132	Recharge 1 Real to become VIP
+133	Improving your warehouse
+134	Find specific NPC for that
+135	Requesting on the Official Site
+136	What changes in an Armor when refined?
+137	Improvement of attributes and change of form
+138	Increase comfort when dressing
+139	Increase the sale price in store
+140	Increase Expertise
+141	After forming the team, how to summon the teammates to go to their location?
+142	Click on "Collect Group"
+143	Scream in the group channel
+144	Finding members manually
+145	Sending corners
+146	Regarding the Pets Which description about the function of collecting items is correct?
+147	All Pets have this function
+148	It is not possible to choose the quality of articles
+149	Only strong pets have this function
+150	saved pets can use this function
+151	How to configure the quality of the articles collected by the Pet?
+152	Pick up settings in Pet
+153	System configurations
+154	In the fight, when the pet is not released
+155	NPC of procreation of Pets
+156	At what time is your activity level reset?
+157	6:00 hours
+158	Midnight
+159	Half day
+160	2:00 p.m.
+161	How to send article information in the chat channel?
+162	SHIFT + click on the icon of the article
+163	Click on the item with the left button
+164	Drag the article into the chat bar
+165	Double-click on the article
+166	How to block all the visual effects of the game?
+167	Pressing F12 or ALT + L
+168	Asking the GM
+169	Downloading a Plug-in
+170	Asking the players in your group
+171	How to send NPC information in the chat channel?
+172	SHIFT + click on the NPC image
+173	Talking to the NPC
+174	SHIFT
+175	Write the name of the NPC on the channel
+176	In the "Atlantis" event, does the EXP and the drops obtained relate to which attribute of the character?
+177	Level of each character
+178	Average level of the group
+179	Power of the character
+180	Number of people in the group
+181	What are the rules for the automatic recovery of energy from the Magic Box?
+182	Two first hours online per day
+183	Can not recover
+184	When you are online, you can recover
+185	Recover in some time
+186	What are the benefits of improving equipment?
+187	Improve your attributes
+188	Improve your appearance
+189	Increase comfort when using it
+190	In which of the following situations is it not possible to transfer properties between facilities?
+191	Equip level. target <Level Equip. Origin
+192	Attrib. Equip. target <Atrib. Equip. Origin
+193	Equip level. target> Level Equip. Origin
+194	Durability of incomplete equipment
+195	Is the Instalation Zone for the production of equipment updated in which of the schedules below?
+196	Every Saturday 06:00 a.m.
+197	Every Tuesday 06:00 p.m
+198	Every day 01:00 a.m.
+199	Every day 12:00 a.m.
+200	After the Leader issues a meeting, which actions interrupt the player on the automatic route of the road?
+201	Move or use skills
+202	Send messages
+203	Press SHIFT
+204	Do not press anything
+205	Does the alteration in the improvement of equipment lead to the loss of perfection and ownership of the Rune?
+206	Not exactly, there's only 1 transformation
+207	Yes, it's always better to start over from scratch
+208	There is a small loss
+209	It is not possible to make that alteration
+210	Through what means can the Light of the Soul be obtained, which is used in the perfection?
+211	Carrying out events
+212	Praying
+213	Through Skill Perfection
+214	Through the Bath of Glory
+215	Through which means can one be aware of the weaknesses of the Power of one's own player?
+216	Click on the "Po" button
+217	Asking the NPC of the Sanctuary
+218	Searching online strategies
+219	Asking the GM
+220	Which of the following is not a means to increase the strength of the player himself?
+221	Walking in all places
+222	Refine equipment
+223	Clave Runes
+224	What materials must be collected to obtain a Common Bronze Armor?
+225	Bronze fragments
+226	Production materials or Potions
+227	Equipment materials
+228	Materials collected in general
+229	How to alter the settings of the standard shortcut?
+230	Change shortcut settings in Config
+231	Asking the GM
+232	Can not change shortcuts
+233	Armor Skill improves skills. How to obtain and use the Armor skill?
+234	Refining and configured use of Armor Room
+235	Gift from friends and use conf. of Hab. Arma.
+236	Get and use automatically
+237	Increase expertise and use conf. of Hab. Arma.
+238	When the level required by the main Quest is not enough, what can you do?
+239	Secondary queries, all kinds of events
+240	Main Quest
+241	Entanglement Instance Zone
+242	Nothing can be done
+243	When there are items that need to roll the dice to decide who they belong to, what is the correct procedure?
+244	Wait for the system to decide
+245	Exit the Instance Zone
+246	Go to other maps
+247	Change channel
+248	In which of the following places can a private shop be opened?
+249	Anywhere on the map
+250	In the Galactic Arena
+251	On the Battlefield
+252	At the base of the army
+253	How to send map coordinates in the chat channel?
+254	SHIFT + click on the map
+255	In the symbol on the map
+256	ALT + cllick on the map
+257	Double click on the map
+258	How to interrupt the launch of an enemy skill during the battle?
+259	Use basic skill "interrupt"
+260	Running as far as possible
+261	Continue the attack on the enemy
+262	Change your position as quickly as possible
+263	Within the Instance Zone, if you find the "Knight Thief", what is the most reasonable procedure?
+264	Wait for the whole group to hit
+265	Secretly, get rid of him
+266	Attacking first is vantaja, not warning anyone
+267	Pretend you have not seen it
+268	How to enter camera mode?
+269	​​ALT + Z
+270	ALT + F
+271	ALT + S
+272	ALT + K
+273	Will the weekly activities be updated at what times below?
+274	Friday 09:00 p.m
+275	Monday 10:00 a.m.
+276	Hiding the game interface
+277	ALT + Q
+278	How to avoid an accidental attack on another player?
+279	Configure the PK button
+280	Do not click on other players
+281	Stay away from everyone
+282	Advanced settings
+283	The Pegasus sign has an additional 50 %damage, but on what attribute?
+284	Wind
+285	Water
+286	Earth
+287	Thunder
+288	The Cygnus sign has an additional 50 %damage, but on what attribute?
+289	During the negotiation process, when to do the verification of the negotiated articles to avoid that the other party furtively reduces the quantity of the same?
+290	After both sides block
+291	After both sides put the goods
+292	After you put the goods
+293	Too much work, negotiate at once!
+294	The Dragon Sign has an additional 50 %damage, but on what attribute?
+295	The Sign of Andromeda has an additional 50 %damage, but on what attribute?
+296	The Phoenix sign has an additional 50 %damage, but on what attribute?
+297	Fire
+298	How to make the wings of the Armor when the level is lower than 66?
+299	Reach 40000 of Power
+300	Imploring the Goddess 100 times
+301	Imploring Kurumada 100 times
+302	Undress and dress the Armor 100 times
+303	How to make the wings of the Armor when the level is lower than 86 and higher than 66?
+304	Reaching 100000 of Power
+305	Imploring the Goddess 200 times
+306	Imploring Kurumada 200 times
+307	Undress and dress the Armor 200 times
+308	How to make the wings of the Armor when the level is higher than 86?
+309	Achieve 180000 of Power
+310	Imploring the Goddess 300 times
+311	Imploring Kurumada 300 times
+312	Undress and dress the Armor 300 times
+313	After reaching a certain level, the Power of the wings of the Armor requires an increase, what will happen to the original low level wings?
+314	will still be saved
+315	Will disappear after 3 days
+316	Will disappear after 10 days
+317	Will disappear directly
+318	After changing sign, what will happen to the original wings of the Armor?
+319	Change for the wings of the new Sign
+320	Keeps the original wings of Armor
+321	After 3 days, it will change the wings
+322	How do groups become Raid?
+323	The Leader of the group clicks on "Create Raid"
+324	Add more members to the group
+325	Application for merger with another group
+326	Write "organize raid" in the chat
+327	How to ride after getting a mount?
+328	Dressing up would ride her and use the "Riding" skill
+329	Will automatically assemble when dressing
+330	Click on tools to mount
+331	Shout: I want to ride a horse!
+332	Which of the following couples is not a romantic couple?
+333	Milo and Camus
+334	Ikki and Esmeralda
+335	June and Shun
+336	Shiryu and Shunrei
+337	Which of the following Knights is not beautiful?
+338	Raven Jamian
+339	Aphrodite of Pisces
+340	Sorento de Sirena
+341	Misty of Lizard
+342	Which Golden Knight is the most beautiful?
+343	Dohko of Libra
+344	Aquarium Camus
+345	Mask of the Death of Cancer
+346	Which of the following combinations have no blood relationship?
+347	Hyoga and Isaac
+348	Aiolia and Aioros
+349	Shun and Ikki
+350	Saga and Kanon
+351	Which of the following people is not a woman?
+352	Marin de Águila
+353	Ophiuchus Shina
+354	Pandora
+355	With whom does Cassios have a closer relationship?
+356	Bear Geki
+357	Phoenix Ikki
+358	Rising Dragon is a great blow from which Knight?
+359	Shiryu
+360	Seiya
+361	Dohko
+362	Hyoga
+363	Crystal Wall and Star Extinction are great strokes of which Golden Knight?
+364	Mu of Aries
+365	Shaka of Virgo
+366	Aiolia of Leo
+367	Who is the Golden Knight of Leo's House?
+368	Aiolia
+369	Mask of Death
+370	Aphrodite
+371	Camus
+372	Which knight helped Athena to escape from the Sanctuary 13 years ago?
+373	Sagittarius
+374	Capricorn
+375	Aries
+376	Virgo
+377	During the Battle of the Twelve Houses, which Golden Knight did you facilitate for Seiya and his companions?
+378	Capricorn Shura
+379	Where to get the Cygnus Armor?
+380	Eastern Siberia
+381	Rozan
+382	Sanctuary
+383	Island of the Queen Death
+384	What is the third of the Twelve Golden Houses?
+385	House of Gemini
+386	Taurus House
+387	Aquarium House
+388	Cancer House
+389	In relation to description of Andromeda, which article is not appropriate?
+390	Addict in battles
+391	Armor represents a woman
+392	Complex love for his older brother
+393	Heterosexuality
+394	Who from the list below is not a character from "The Knights of the Zodiac"?
+395	Kratos from Sparta
+396	Kiki of Jamir
+397	Shaka of the Ganges River
+398	Dohko de Rozan
+399	What is the name of the God of Dream?
+400	Hypnos
+401	I do not remember
+402	Thanatos
+403	Darnasus
+404	Which of these is not one of the Three Judges of the Underworld?
+405	Lin, Celestial Star of Courage
+406	Rhadamanthys Celestial Star of Fury
+407	Aiacos, Celestial Star of Courage
+408	Minos, Celestial Star of Nobility
+409	Whose blow can you make with which the nine great planets do not move anymore, that can make an eternal eclipse, bringing heaven and earth into darkness?
+410	Hades, King of the Underworld
+411	Pegasus Black
+412	Cassios
+413	Ban of Leo Menor
+414	Who is the Golden Knight of the House of Capricorn?
+415	Shura
+416	Saga
+417	Aiolos
+418	Milo
+419	From what constellation did the Knight use a bow to wound Saori?
+420	Sagita
+421	Raven
+422	Eagle
+423	Ophiuchus
+424	Which Seiya horn cuts off the Taurus (Golden Knight of Taurus)?
+425	Left Horn
+426	Right Horn
+427	The two horns
+428	Does not cut
+429	Who is the knight known as the "closest man of God"?
+430	Virgo Shaka
+431	Aphrodite of Pisces
+432	Dohko of Libra
+433	Aldebaran of Taurus
+434	With which woman Shun, one of the five protagonists of bronze, is it more similar?
+435	Ikki's companion, Esmeralda
+436	Shiryu's companion, Shunrei
+437	Shina
+438	Marin
+439	Which pair of characters below do not have a blood relationship?
+440	Seiya and Marin
+441	Ikki and Shiryu
+442	Hyoga and Mitsumasa Kido
+443	Seiya and Shiryu
+444	Regarding Seiya, what is the correct description?
+445	Seiya cut Cassios's ear with his hand
+446	Seiya trained in Eastern Siberia
+447	Seiya's teacher is Camus
+448	One of Seiya's punches is Absolute Zero
+449	Who is the Golden Knight of the House of Virgo?
+450	Shaka
+451	What is the second of the Twelve Golden Houses?
+452	House of Pisces
+453	Leo's House
+454	What is the fifth of the Twelve Golden Houses?
+455	House of Scorpio
+456	House of Libra
+457	Who takes the little Saori from the hands of the Grand Master?
+458	Aiolos
+459	Whose golden armor does Seiya wear when he defeats Poseidon?
+460	Aquarius
+461	Pound
+462	What is the name of the master of Shiryu?
+463	Mu
+464	Among the Twelve Golden Knights, to whom was the Excalibur granted?
+465	What is the seventh of the Twelve Golden Houses?
+466	House of Libra
+467	Who is the Golden Knight of the House of Scorpio?
+468	Among the Knights, who participated in 2 Holy Wars?
+469	Which skill manipulates the enemy lies by creating illusions, to destroy their defensive and offensive capacity?
+470	Phoenix Ghost Strike
+471	Phoenix Bird
+472	Pegasus Meteor
+473	Dragon Rising
+474	In the house of Aquarius, what is the strongest freezing technique that Camus teaches Hyoga?
+475	Aurora execution
+476	Thunder Aurora Attack
+477	Ice Coffin
+478	What is the eighth of the Twelve Golden Houses?
+479	When the Armors are broken, who does not let Mu fix them?
+480	Ikki
+481	Shun
+482	In the Shrine, which of the Knights falls in love with Seiya?
+483	Saori
+484	What is the first Golden Armor that Seiya wears?
+485	of Gemini
+486	When Seiya is in battle of the Twelve Houses, who is the first Golden Knight to be defeated?
+487	Aldebaran
+488	The armor of which constellation is an arsenal of weapons?
+489	Pisces
+490	Who is the person who suffers from a schizophrenic personality disorder?
+491	Hagen
+492	Minos
+493	Who is the Golden Knight of the House of Gemini?
+494	Of the five bronze protagonists, does the armor of which constellation possess the capacity to regenerate?
+495	Phoenix
+496	Dragon
+497	Andromeda
+498	Cygnus
+499	How many Golden Constellations are?
+500	Of the 12 Golden, who murdered Shion to take the place of the Grand Master?
+501	Who do they call "Traitor of the Sanctuary?
+502	Docrates
+503	Who cut the horn of the Golden Armor of Taurus?
+504	What is the tenth of the Twelve Golden Houses?
+505	Capricorn House
+506	After Shun uses the chain to attack the Illusion of Gemini, does the chain bring back what object was in Saga's body?
+507	Accounts
+508	Button
+509	Brooch
+510	Helm
+511	What weapon in the Libra Armor does Shiryu use to open the ice coffin and save Hyoga?
+512	Sword
+513	Nunchaku
+514	Coat of Arms
+515	Spear
+516	Who is the Golden Knight of the House of Aries?
+517	Who is the Golden Knight of the House of Pisces?
+518	Mask of Death had been sent by Saga to kill whom?
+519	Why does Dohko remain in meditation position in front of the Rozan Waterfall?
+520	Supervise sealed malignant stars
+521	Raising the Cosmo
+522	Observing the young Knights
+523	Think about life
+524	In the struggle of the Twelve Houses, Saga begins to use the Imperial Satan first in which Golden Knight?
+525	When the five bronze protagonists pass through the first House, during the battle of the Twelve Houses, who is the one who helps them fix the Armor?
+526	Mu
+527	Kiki
+528	Saori Kido
+529	What is the eleventh of the Twelve Golden Houses?
+530	During the Hades Saga: Hell Chapter, Who pierces the Wailing Wall?
+531	The 12 Golden Knights
+532	The 5 bronze protagonists
+533	108 Specters of Hades
+534	Poseidon
+535	During the Saga of Hades, Chapter Elisha, does Seiya have the sword of Hades defended by whom?
+536	Athena
+537	In The Knights of the Zodiac, where does Ikki train?
+538	Five Ancient Summits
+539	Andromeda Island
+540	Nordic Europe
+541	During the Hades Saga, Hell Chapter, where do the 12 Golden Knights meet at the end?
+542	Western Wall
+543	Cocito
+544	Giudecca
+545	Temple of Athena
+546	During the Hades episode, what weapon do the Golden Knights use to pierce the Wailing Wall?
+547	The Golden Arrow of Sagittarius
+548	Divine scepter of Athena
+549	Spear of the Libra Armor
+550	Golden Dagger
+551	During the Hades Saga, Sanctuary chapter, where does Shaka battle fiercely with those three people? Saga, Camus and Milo?
+552	Twin Trees Garden
+553	Clock Tower
+554	Grand Master's Hall
+555	Mountain of Stars
+556	The army that agrees with what conditions can request a base?
+557	Everyone can have a base
+558	5 first places in the ratings
+559	500 people in the army
+560	Army Level 3
+561	Under what circumstances will the base of the army be taken back through the system?
+562	Insufficient funds
+563	Number of people <100
+564	Marshal rejection of the base
+565	Not getting enough ranking
+566	What actions can increase the friendship level of your friends?
+567	Form groups or use divination games
+568	Send Roses
+569	Team up after a period of time
+570	Talk privately
+571	Which shortcut key can open the macro editor interface of the Skills Menu?
+572	K
+573	ALT + G
+574	CTRL + Y
+575	Which of the following is not a function that can be implemented in the Macro editor?
+576	Automatic Explosion of the Cosmo
+577	Choose monster automatically
+578	Fixed area to hit monsters
+579	Using Elixir automatically
+580	In the event "Crisis in the Twelve Houses", the EXP obtained and dropped relates to which attribute of the character?
+581	In the "Golden Proof" event, does the EXP obtained and dropped relate to which attribute of the character?
+582	
+583	How to quickly find the equipment that can be decomposed in the package?
+584	Open the magic box decomposition page, the inside of the package is shiny
+585	Quickly sweep through the equipment description
+586	All equipment can be decomposed
+587	All equipment cannot be broken down
+588	How do you upgrade when you find that your experience is full but you can't upgrade?
+589	Press C to open the panel and upgrade manually.
+590	continue the game, the level will automatically increase
+591	doing activities, automatically improving
+592	hit copy, automatically upgrade
+593	Enough awareness can be upgraded, how can we increase the awareness?
+594	Learning skills or upgrading skills
+595	kill monster
+596	to do the task
+597	team copy
+598	Which parts can use the magic box to upgrade the attributes?
+599	Lingshi, bracelet, badge and bead chain
+600	hair band, ring, necklace
+601	top, pants
+602	fashion
+603	Click the left side of the radar button to view
+604	Virgo
+605	Shaka
+606	Fengyi Tianxiang
+607	Phoenix
+608	12
+609	24
+610	48
+611	64
+612	Seiya
+613	Aeoria
+614	Judija
+615	gold dagger
+616	Last week, the top 200 regiments
+617	Last week, the Legion’s activeness fell to the top 200

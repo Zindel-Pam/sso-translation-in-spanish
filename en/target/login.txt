@@ -1,0 +1,338 @@
+0	Not available...
+1	Not available...
+2	Not available...
+3	The information in your account is not complete, there may be a ^ff0000 security risk ^N. Update your data!
+4	Complete
+5	Later
+6	Welcome to Saint Seiya Online - Reborn!
+7	Account
+8	Password
+9	Save
+10	Forced
+11	OK
+12	Cancel
+13	Login
+14	Exit Game
+15	Animation
+16	Delete
+17	Create
+18	Restore
+19	Cancel sale
+20	Return
+21	Play
+22	Random
+23	Quick Selection
+24	Check character costumes
+25	Select Server
+26	Previous
+27	Next
+28	This option is unavailable...
+29	The next character will be sent in the next treasure hunt, you can cancel the character submission.
+30	Password of the Security Card
+31	Favorites
+32	Click below to choose how to access
+33	Please enter the 6-digit token that appears on your smartphone
+34	Please enter the 6 digits
+35	Select character
+36	Enter recent instance
+37	Enter recent battlefield
+38	Enter recent crosserver
+39	<span class='normal'>Submersible</span>
+40	Sex
+41	M
+42	F
+43	Birthday
+44	Name
+45	Induction
+46	Optional feature. Ask your friend for his/hers Induction code!
+47	Auto Selection.
+48	mon.
+49	?
+50	day
+51	BODY
+52	EYES
+53	FACE
+54	Details
+55	HAIRSTYLE
+56	Armor Preview
+57	SKIN
+58	SIGN
+59	Select realm %s
+60	Select server
+61	Please select the server you wish to enter
+62	Account and password fields can not be empty
+63	Entering... Please Wait!
+64	Entering the game... time limit %d / %d seconds
+65	Connecting to the server
+66	Getting list of characters
+67	List of characters obtained!
+68	If the server does not respond for a long time it may be that the connection has expired, please try to connect again.
+69	To ensure the security of your account, remove your Perfect Aegis from the USB slot and keep it safe.
+70	Cancel Create
+71	Next
+72	Previous
+73	Here you can preview golden armors!
+74	The following error occurred when creating the character:
+75	One account can create up to eight characters
+76	Incorrect data
+77	Character name can not be empty
+78	Character name contains invalid characters
+79	Birthday of the character was not selected
+80	Error creating the character
+81	You used a wrong induction code, check if it is valid
+82	Choose a Sign
+83	Treasure days for sale
+84	Make the character enter the delete state, you can cancel at any time within 7 days
+85	Character deleted
+86	Deleting:
+87	This character will be completely removed from the server after %d days
+88	This character will be completely removed from the server in %d hours %d minutes and %d seconds
+89	Are you sure you want to delete this character?
+90	Error deleting the character. Please try again later.
+91	The character is deleted successfully, you still have seven days to cancel this progress.
+92	Error to restore character, please try again later.
+93	Recovery of the successful character.
+94	%s / %s (LV%d)
+95	Pegasus Meteors
+96	Dragon Rising
+97	Diamond Powder
+98	Nebula Chain
+99	Phoenix Bird
+100	Good
+101	Normal
+102	Full
+103	Double EXP
+104	Triple EXP
+105	Double Drop
+106	Double money
+107	Good
+108	Row
+109	Circle
+110	Please remove the USB and then select "for the game"
+111	That operation will increase the security of your account. The system will be blocked after three consecutive failures. \rYour account will have a short period of time. Are you sure you want to continue?
+112	Operation expired, please try again later.
+113	Carrying dice, wait ...
+114	Some time ago you have not changed your password, to strengthen the security of your account, visit our website and change it immediately.
+115	Your security card has expired, to strengthen the security of your account, visit our website and request a new security card, please.
+116	Unknown
+117	Aries
+118	Taurus
+119	Gemini
+120	Cancer
+121	Leo
+122	Virgo
+123	Libra
+124	Scorpio
+125	Sagittarius
+126	Capricorn
+127	Aquarius
+128	Pisces
+129	Aries
+130	Taurus
+131	Gemini
+132	Cancer
+133	Leo
+134	Virgo
+135	Libra
+136	Scorpio
+137	Sagittarius
+138	Capricorn
+139	Aquarius
+140	Pisces
+141	Aries - Your have strong sense of justice, high morale and lot of courage. \r\r Compatible Signs: Leo, Sagittarius
+142	Taurus - You act cautiously and pursue peace. You can be introverted, shy but also stubborn.\r\r Compatible Signs: Virgo, Capricorn
+143	Gemini - Gemini - You are responsive, comprehensible, adaptable and intelligent.\r\r Compatible Signs: Libra, Aquarius
+144	Cancer - Cancer - You are delicate and sensual. You are not willing to conflict with people. You will pay attention to yours family harmony.\r\rCompatible Signs: Scorpio, Pisces
+145	Leo - You are cheerful, broad-minded, more independent, like to take care of others as a leader. Born leader.\r\r Compatible Signs: Aries, Sagittarius
+146	Virgo - Your observations are meticulous and subtle and the analytical ability is very strong. You are the team think tank.\r\r Compatible Signs: Taurus, Capricorn
+147	Libra - You are elegant and generous, act fairly, respond appropriately and can be impartial. You can often resolve the fierce conflicts. \r\r Compatible Signs: Aquarius, Gemini
+148	Scorpio - Your personality is gloomy and elusive and there is a strong suspicion and struggle in your heart.\r\r Compatible Signs: Cancer, Pisces
+149	Sagittarius - Optimistic, like to make friends, passionate about travel and adventure. \r\r Compatible Signs: Aries, Leo
+150	Capricorn - You work hard, are practical and steady. You are strict, fair and reasonable about everything. \r\r Compatible Signs: Virgo, Taurus
+151	Aquarius - Your spirit is full of creativity and fraternity so you will always be in pursuit of perfection.\r\rCompatible Signs: Libra, Gemini
+152	Pisces - You have a good sixth sense and are born with the talent of the artist. Your sympathy allows you to sacrifice more for others than yourself.\r\rCompatible Signs: Scorpio, Cancer
+153	^a4d1ffClass Specialization:\r^fff2c8Combate Cuerpo a Cuerpo\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Acumulación y liberación del Espíritu de Lucha\r^fff2c8◆ Explosión de daño en un único alvo\r^fff2c8◆ Rápida recuperación física\r^fff2c8◆ Movimiento rápido de ataque\r\r^a4d1ffDificultad: ^fff2c8Fácil\rEl guerrero de la constelación de Pegasus es un luchador incansable, perfecto para duelos o luchas contra bosses. El uso constante de sus golpes le permite concentrar el Espíritu de Lucha. Este recurso puede ser utilizado para aplicar golpes aún más poderosos o recuperarse físicamente.
+154	^a4d1ffClass Specialization:\r^fff2c8Daño a la Distancia\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Dominio del Aire Frío\r^fff2c8◆ Lentitud/Congelación en área\r^fff2c8◆ Daño en área\r^fff2c8◆ Control de los enemigos\r\r^a4d1ffDificultad: ^fff2c8Medio\r\rComo un verdadero maestro táctico, Cisne puede usar el poder del Aire Frío para controlar completamente a los alvos enemigos por un largo periodo de tiempo, impidiendo que alcancen a sus aliados contra el daño que podrían causarles.
+155	^a4d1ffClass Specialization:\r^fff2c8Combate Cuerpo a Cuerpo/Defensa\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Absorción de daño\r^fff2c8◆ Atraer Monstruos\r^fff2c8◆ Control de grupos de monstruos\r^fff2c8◆ Protección de grupo\r\r^a4d1ffDificultad: ^fff2c8Medio\r\rEmpuñando su escudo, el Caballero de Dragón puede absorber una gran cantidad de daño y aún así mantenerse de pie, atrayendo la atención de los enemigos y permitiendo que sus aliados luchen libremente.
+156	^a4d1ffClass Specialization:\r^fff2c8Daño a la Distancia/Soporte\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Alternación de posición para Ataque/Restauración\r^fff2c8◆ Soporte poderoso\r^fff2c8◆ Protección de aliados\r^fff2c8◆ Control de los enemigos\r\r^a4d1ffDificultad: ^fff2c8Fácil\r\rCon sus cadenas, Andromeda protege a sus aliados, curándolos, impidiendo que sean controlados, o controlando a sus enemigos. Él también puede alternar la posición de sus cadenas para modo agresivo y luchar valientemente.
+157	^a4d1ffClass Specialization:\r^fff2c8Daño a la Distancia\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Daño en área\r^fff2c8◆ Auxilio de los Caballeros Negros\r^fff2c8◆ Daño continuo de fuego\r^fff2c8◆ Renace de las cenizas\r\r^a4d1ffDificultad: ^fff2c8Fácil\r\rEl despiadado Caballero de Phoenix no le teme a la muerte, una vez derrotado, resurge de las cenizas para seguir luchando. Phoenix cuenta con el auxilio de los Caballeros Negros, y posee golpes en área poderosos que causan terror por donde pasa.
+158	^a4d1ffClass Specialization:\r^fff2c8Daño a la Distancia\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Habilidades versátiles\r^fff2c8◆ Crea ilusiones\r^fff2c8◆ Combo de habilidades con clones\r^fff2c8◆ Dominio dimensional\r\r^a4d1ffDificultad: ^fff2c8Difícil\r\rLas personalidades del Dragón del Mar influyen en sus habilidades, lo que hace que tengan efectos diferentes siempre que cambia su forma de actuar y pensar. Es necesario tener un gran control sobre las personalidades para utilizar todo su potencial destructivo o defensivo.
+159	^a4d1ffClass Specialization:\r^fff2c8Combate Cuerpo a Cuerpo/Defensa\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Atraer Monstruos\r^fff2c8◆ Transformación en Wyvern\r^fff2c8◆ Absorción de HP\r^fff2c8◆ Control de grupos de monstruos\r\r^a4d1ffDificultad: ^fff2c8Medio\r\rAl ser resucitado por Pandora, Wyrm obtuvo los poderes de las tinieblas. Este poderoso guerrero posee una gran defensa y una increíble capacidad regenerativa. Wyrm también puede transformarse en un poderoso dragón capaz de destruir todo a su frente con el aleteo de sus alas.
+160	^a4d1ffClass Specialization:\r^fff2c8Daño a la Distancia\r\r^a4d1ffHabilidades Especiales:\r^fff2c8◆ Control de Ritmo\r^fff2c8◆ Maldiciones en área\r^fff2c8◆ Fuerte daño en área\r^fff2c8◆ Control de los enemigos\r\r^a4d1ffDificultad: ^fff2c8Fácil\r\rEl Caballero de Lira es capaz de someter los grupos de enemigos a status negativos debilitándolos y facilitando la lucha para sus aliados. Lira puede causar mucho daño a los alvos maldecidos y tiene la capacidad de resetear el tiempo de recarga de algunas habilidades.
+161	^a4d1ffClass Specialization:\r^fff2c8Dano à distância (médio)\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆Golpes Elementares\r^fff2c8◆Múltiplos Combos\r^fff2c8◆Dano Explosivo\r^fff2c8◆Combos Simples\r\r ^a4d1ffDificuldade:\r^fff2c8Fácil \rO guerreiro selvagem de Tornado absorve seu poder do vácuo caótico, para que possa explodir uma enorme energia em um curto espaço de tempo. Qualquer inimigo que se atreva a ficar na frente do vento tempestuoso será destruído por forças tirânicas.
+162	None
+163	Pegasus
+164	Cygnus
+165	Dragon
+166	Andromeda
+167	Phoenix
+168	Sea Dragon
+169	Wyvern
+170	Lira
+171	Tornado
+172	Pegasus - Class Description
+173	Cygnus - Class Description
+174	Dragon - Class Description
+175	Andromeda - Class Description
+176	Phoenix - Class Description
+177	Sea Dragon - Class Description
+178	Wyvern - Description of Sign
+179	Lira - Class Description
+180	Descrição do Tornado Sign
+181	1
+182	2
+183	3
+184	4
+185	5
+186	6
+187	7
+188	8
+189	9
+190	10
+191	1
+192	2
+193	3
+194	4
+195	5
+196	6
+197	7
+198	8
+199	9
+200	10
+201	#1
+202	#2
+203	#3
+204	#4
+205	#5
+206	#6
+207	#7
+208	#8
+209	#9
+210	#1
+211	#2
+212	#3
+213	#4
+214	#5
+215	#6
+216	#7
+217	#8
+218	#9
+219	#1
+220	#2
+221	#3
+222	#4
+223	#5
+224	#6
+225	#7
+226	#8
+227	#9
+228	#10
+229	#11
+230	#12
+231	#13
+232	#14
+233	#15
+234	#16
+235	#1
+236	#2
+237	#3
+238	#4
+239	#5
+240	#6
+241	#7
+242	#8
+243	#9
+244	#10
+245	#11
+246	#12
+247	#13
+248	#14
+249	#1
+250	#2
+251	#3
+252	#4
+253	#5
+254	#6
+255	#7
+256	#8
+257	#9
+258	#10
+259	#11
+260	#12
+261	#13
+262	#14
+263	#15
+264	#16
+265	#17
+266	#18
+267	#19
+268	#1
+269	#2
+270	#3
+271	#4
+272	#5
+273	#6
+274	#7
+275	#8
+276	#9
+277	#10
+278	#1
+279	#2
+280	#3
+281	#4
+282	#5
+283	#6
+284	#7
+285	#8
+286	#1
+287	#2
+288	#3
+289	#4
+290	#5
+291	#6
+292	#7
+293	#8
+294	#1
+295	#2
+296	#3
+297	#4
+298	#5
+299	#6
+300	#7
+301	#8
+302	#9
+303	#10
+304	#1
+305	#2
+306	#3
+307	#4
+308	#5
+309	#6
+310	#7
+311	#8
+312	#9
+313	#10
+314	#1
+315	#2
+316	#3
+317	#4
+318	#5
+319	#6
+320	#7
+321	#8
+322	#9
+323	#10
+324	#11
+325	#12
+326	#13
+327	#14
+328	You can not create a character with this sign. It is necessary to change the sign of an existing character, as long as it has at least level 59
+329	Logging in to the game... please wait
+330	^a4d1ffAttack distance：\r  ^fff2c8近（3米）\r\r^a4d1ffAttribute bias:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆吸血\r  ^fff2c8◆给队友加护盾\r  ^fff2c8◆多人倒地、沉默\r  ^fff2c8◆消耗生命的强力技能\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+331	^a4d1ffAttack distance：\r  ^fff2c8远(15米)\r\r^a4d1ffAttribute bias:\r  ^fff2c8强大的治疗者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆加血\r  ^fff2c8◆复活\r  ^fff2c8◆召唤天使回血加攻\r  ^fff2c8◆召唤星之守护帮你打\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+332	^a4d1ffAttack distance：\r  ^fff2c8远(15米)\r\r^a4d1ffAttribute bias:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人超高伤害\r  ^fff2c8◆大范围多人伤害\r  ^fff2c8◆灼烧（持续伤害）\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+333	^a4d1ffAttack distance：\r  ^fff2c8近（3米）\r\r^a4d1ffAttribute bias:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人石化、沉默\r  ^fff2c8◆队伍攻防提升\r  ^fff2c8◆单人攻击降低\r  ^fff2c8◆反弹伤害\r\r^a4d1ff出生地：\r  ^fff2c8庐山
+334	^a4d1ffAttack distance：\r  ^fff2c8远(15米)\r\r^a4d1ffAttribute bias:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆多人减速、沉默\r  ^fff2c8◆单人攻防降低\r  ^fff2c8◆小范围群攻\r  ^fff2c8◆冰之能量增强技能\r\r^a4d1ff出生地：\r  ^fff2c8庐山
+335	^a4d1ffAttack distance：\r  ^fff2c8近（3米）\r\r^a4d1ffAttribute bias:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人倒地\r  ^fff2c8◆单人控制解除\r  ^fff2c8◆多人控制免疫\r  ^fff2c8◆小范围群攻\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+336	Guardian Constellation 7 Description
+337	Guardian Constellation 8 Description

@@ -1,0 +1,824 @@
+0	A group of 3 or more members is required to activate
+1	The $ {name} LV does not complete the requirements
+2	O participation number of Ouro's Challenge of $ {name} is esgotou ou Ponto de Ares insufficient
+3	Or group não recebeu a Quest Desafio de Ouro! Leão Valente
+4	O seu participation number of Desafio de Ouro is esgotou ou Ponto de Ares insufficient
+5	Or group não recebeu a Quest Ouro Challenge! Peixes Vaidoso
+6	Or group não recebeu a Quest Ouro Challenge! Libra Fair
+7	Proteja Saori's participation number of $ {name} has been exhausted
+8	$ {name} already participated in Proteja Saori, can not participate again in that period
+9	The participation number of Proteja Saori has been exhausted
+10	Already participated in Proteja Saori, can not participate again in that period
+11	Proteja Atenea participation number of $ {name} has been exhausted
+12	$ {name} already participated in Protect Athena, can not participate again in that period
+13	The participation number of Proteja Atenea has been exhausted
+14	Already participated in Protect Athena, can not participate again in that period
+15	O Counter-Attack No. of $ {name} is esgotou ou Ponto de Ares insufficient
+16	O group não recebeu a Quest Contra-Ataque I! Abismo do Fogo e Gelo
+17	O seu Participation number of Counter-Attack is esgotou ou Ponto de Ares insufficient
+18	Or group não recebeu a Quest Contra-Ataque II! Giant wolf gives Montanha de Neve
+19	Or group não recebeu a Quest Contra-Ataque III! Deus Demonic Country of Gelo
+20	$ {name} already participated in the Tempest at Atlantis
+21	Already participated in the Tempest at Atlantis
+22	$ ​​{name} already participated in Demonic Apocalypse
+23	Already participated in Demonic Apocalypse
+24	$ {name} already participated in Crisis of the Twelve Houses
+25	Already participated in Crisis of the Twelve Houses
+26	$ {name} already participated in the Requiem of the Shrine
+27	Already participated in the Requiem of the Sanctuary
+28	A group of 2 or more members is required to activate
+29	$ {name} requires the item: ^0065feRuta de Estrella ^N. When passing the ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
+30	Required item: ^0065fe Star Route ^N. Going from ^fffd44 [Dungeon] Twelve Houses III ^N you can get ^0065feRoute Route ^N
+31	The $ {name} LV is less than 70
+32	$ {name} needs the item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
+33	The LV is less than 70
+34	Necessary item: ^0065feels of Ice ^N. Going from ^fffd44 [Dungeon] Twelve Houses IV ^N you can get ^0065feels of Ice ^N
+35	The $ {name} LV is less than 80
+36	The LV is less than 80
+37	$ {name} precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Beginning) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
+38	Precise do item: ^0065fePedra de Ressonância dos Mares ^N, ao passar da ^fffd44 [Dungeon] Sete Pilares Marinhos (Início) ^N will be able to obtain 0065fePedra de Ressonância dos Mares ^N
+39	The $ {name} LV is less than 90
+40	The number of Dungeon [Heroic] participations from $ {name} has run out or the Hero Points did not reach 45
+41	The LV is less than 90
+42	The number of Dungeon participations [Heroic] has sold out or Hero Points did not reach 45
+43	The $ {name} LV is less than 60
+44	The LV is less than 60
+45	OR Participation number of Counter-Attack is esgotou ou Ponto de Ares insufficient
+46	O nº de participações da Dungeon [Heroic] of $ {name} esgotou ou os Pontos Heroicos não atingiram 10
+47	O nº de participações da Dungeon [Heroic] es esgotou ou os Pontos Heroicos não atingiram 10
+48	OR remaining number of participações of Counter-Attack of $ {name} é insufficient or Ponto de Ares insufficient
+49	O rest of participações de Contra-Ataque and insufficient or Ponto de Ares insufficient
+50	The number of participations of [Heroic] Castillo de Sinigrado of $ {name} has sold out
+51	$ {name} already participated in [Heroic] Castillo de Sinigrado, can not participate again in that period
+52	The LV is less than 95
+53	The number of entries of [Heroic] Castillo de Sinigrado has sold out
+54	Already participated in [Heroic] Castillo de Sinigrado, can not participate again in that period
+55	Player's level $ {name} does not reach the requested level of 100
+56	Ponto Heroico do jogador $ {name} são insufficient
+57	O jogadores $ {name} já participou de [Heroic] Doze Casas Divinas I, during this period I can not participate novamente
+58	Level less than 100
+59	Pontos de herói necessários to enter em [Heroic] Doze Casas Divinas I são insufficient
+60	Already participated in [Heroic] Twelve Divine Houses I, can not participate again in that period
+61	O jogadores $ {name} já participou de [Heroic] Doze Casas Divinas II, during this period I can not participate novamente
+62	Pontos de héro to enter em [Heroic] Doze Casas Divinas II is not enough
+63	Already participated in [Heroic] Twelve Divine Houses II, can not participate again in that period
+64	A group of 4 or more members is required to activate
+65	$ {name} já participou de <Libra! Memories of Dohko>
+66	The LV does not complete the requirements
+67	Já participou de <Libra! Memories of Dohko>
+68	$ {name} já participou de <Ruptura! Desafio de Escorpião>
+69	Já participou de <Ruptura! Desafio de Escorpião>
+70	$ {name} já participou de <Aproximação! Crise de Sagitário>
+71	Já participou de <Aproximação! Crise de Sagitário>
+72	$ {name} already participated in Sonata Infernal
+73	I participated in Lamento! Infernal Sonata
+74	$ {name} already participated in Butterflies of the Underworld
+75	Already participated in Butterflies of the Underworld
+76	$ {name} já participou de <Capricórnio! Kendo of Shura>
+77	Já participou de <Capricórnio! Kendo of Shura>
+78	A group of 6 or more members is required to activate
+79	$ {name} already participated in the Dream of the Goddess
+80	Or group não recebeu a Quest: Delegação de Saori Kido
+81	Already participated in the Dream of the Goddess
+82	$ {name} já participou de <Aquário! Exceptional Strike>
+83	Já participou de <Aquário! Exceptional Strike>
+84	Battle Objective:
+85	Wait for the start of the fight
+86	Soldier [Shrine] %d / 30
+87	Soldier [Sanctuary] %d / 30 \rArgol of Perseus %d / 1 \rMisty of Lizard %d / 1
+88	Defeat the enemies that came to attack Saori \r1a horde %d / 18 \r2a horde %d / 22 \r3a horde %d / 21 \r4th horde %d / 18
+89	Raven Jamian %d / 1
+90	Tremi of Sagita %d / 1
+91	Countdown to the fight: %ds
+92	Soldier [Underworld] %d / 15 \rCeros %d / 1 \rSea soldier %d / 15 \rSorrento %d / 1
+93	Estrela Terrestre da Prisão %d / 1
+94	Earth Star of Evil %d / 1
+95	Disable the mechanisms to eliminate the Illusion of Heaven
+96	Celestial Star of Defeat %d / 1
+97	Cavaleiro de Prata de Cefeu %d / 1
+98	Cavaleiro de Ouro de Peixes %d / 1
+99	Testaador de Leão %d / 4 \rInvocation of Leão %d / 2 \rAtacante de Leão %d / 34
+100	Barreira [Pedra] %d / 1
+101	Ilusão de Aiolia %d / 1
+102	Projection of Griffo %d / 1
+103	Projection of Wyvern %d / 1
+104	Ilusão de Dohko %d / 1
+105	Protect or Santuário, defeating the inimigos! \rNão deixe that a lot of inimigos inside Santuário ultrapasse 10. \rTem %d inimigos no Santuário \rDefendendo to %d / 5 horde of inimigos \rInimigos defeated %d / %d
+106	Defeat Estrela Celeste do Chifre %d / 1
+107	I went to the Athena statute, defeating the inimigos ao longo do caminho
+108	Athena's Attitude Protea! \rDefendendo %d / 8 horde of inimigos \rImigates defeated %d / %d
+109	Defeat or Antecessor of Gêmeos %d / 1
+110	Protect Athena's statute! \rThe next horde of inimigos chega após %ds.
+111	Find or marinheiro not ship of cruzeiro
+112	Navy Warriors %d / 9 \rCavalo Marinho %d / 1
+113	Caranguejo das Marés %d / 20
+114	Kraken %d / 1
+115	Mercedes de Baleia Negra %d / 1
+116	Medusa %d / 20 \rMago das Marés %d / 2
+117	Within 180s, defeat or maximum possível of inimigos: \r ^e12500Remaining field: %ds ^N \rDefeated enemies: %d
+118	Marine Soldier %d / 15
+119	Skilla %d / 1
+120	Go to the Sea Dragon Altar
+121	Marine Dragon %d / 1
+122	Moving on
+123	Defeat the monsters
+124	Follow Thetis to explore the underwater secret
+125	Unleash the soul of Kraken
+126	Release the Siren Soul \rNotal number of defeated enemies: %d
+127	Unleash the soul of Crisaor
+128	Marina Elite %d / 6 \rWarcraft Marine %d / 1
+129	Sorcerer of the Tides %d / 2 \rWind Marine %d / 1
+130	Tidal Crab %d / 40
+131	Marine Assassins %d / 6 \rVolans Volans Black %d / 1
+132	Black Warrior Warriors %d / 9 \rVolans Black Volcano %d / 1
+133	Rider of Elite Ridged %d / 10 \rVolans Volans Black %d / 1
+134	Medusa %d / 15 \ Black Warrior Leader %d / 1
+135	Mage of the Tides %d / 2 \r Black Warrior Leader %d / 1
+136	Within 180s, defeat as many enemies as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated enemies: %d
+137	Marine Soldier %d / 30
+138	Bloodthirsty Bat %d / 15 Black Warrior Leader %d / 3
+139	Black Warrior Elite %d / 7 \r Black Warrior Leader %d / 1
+140	Valiant Warrior resuscitated %d / 6 \rSirenes %d / 6
+141	Identify the true Scale of Marine Dragon \rThe person covered by the blue light can activate the Scale of Marine Dragon
+142	Go ahead and be careful with the rolling stone on the way \rAre arriving in the elevated terrerno, defeat all the Giant Stone Summoners
+143	Go ahead and be careful with the spinal column mechanisms and the monsters on the way
+144	Go ahead and be careful with the freezing attacks of the Sea Serpent on the way.
+145	Thetis appeared again, talk to her \r (Suggest that you look for her when the companions are complete)
+146	Explore the Graveyard
+147	Opening the Pandora Kaleidoscope %d / 1
+148	Talk to Pandora inside the Stone House
+149	Unicorn Predecessor %d / 1
+150	Patio \ Cemetery Guard Leader %d / 4 \ Chameleon Surtainer %d / 1 \rEvent: Breaking the Magic Circle of the Graveyard %d / 1 \r Circle I %d / 1 \r Circle II %d / 1 \r Circle II  %d / 1 \rCircle IV %d / 1 \r Circle V %d / 1
+151	Touching the Armor Box \rDestroy the Enemies \ MudraScope %d / 6 \ Cemetery Execution Officer %d / 6 \rWest of the Underworld %d / 6 \resurrected Soldiers [Shrine] %d / 36
+152	Crypt \rCrypt beggar %d / 5 \rCrypt guard %d / 30
+153	Hades Cosmo energy body %d / 1
+154	Talk to Pandora inside the Stone House \rExplore the event: Cerberus %d / 1
+155	Unicorn Predecessor %d / 1 \rExplore Event: Cerberus %d / 1
+156	Suqing courtyard\r cemetery guard captain %d/4 \r previous generation chameleon %d/1 \r puzzle event: crack cemetery law array %d/1 \rFantasy zone %d/1 \r Array 2 Area %d/1 \rFrequency three areas%d/1 \rFat four areas%d/1 \rFantasy five areas%d/1 \rExploration event: Cerberus %d/1
+157	Touching the Armor Box \rDestroy the Enemies \ MudraScope %d / 6 \ Cemetery Execution Officer %d / 6 \rSurrounding Ghost %d / 6 \risen Soldiers [Shrine] %d / 36 \rExplore the event : Cerberus %d / 1
+158	Crypt \rCrypt Guardian %d / 5 \rCrypt Guard %d / 30 \rExplore Event: Cerberus %d / 1
+159	Hades Cosmo energy body %d / 1 \rExplore the event: Cerberus %d / 1
+160	Pandora Death Gift: %d / 4 Horde, the next monsters horde will be updated in %d / 60 seconds
+161	Get Rid of Death: Defeat the Underworld Souls %d / 20
+162	Pandora's Death Gift: Countdown to the last chapter %d / 60 seconds
+163	Sign in to Tatar
+164	Defeat Titan Gladiator's Guarding Spirit %d / 1
+165	Defeat the Watchman of the Soul Bridge %d / 1 \rMeeting the way to get into Tartarus
+166	Defeating Kanos, Titan's elite %d / 1
+167	Defeat the Guard from old times %d / 2 \rOpen the access door to Tartarus
+168	Go ahead \rDestroy the Empress of the Underworld
+169	Defeat Queen %d / 1
+170	Defeat Shadow of the God of Death %d / 1
+171	Defeat Empress of the Underworld %d / 1 \r Get fruits of the Mokurenji
+172	To leave the depths of Hell
+173	Within 120s, defeat as many Hades guards as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated Enemies: %d
+174	Take advantage of the Gunpowder Gatekeeper and open the corridor door as quickly as possible
+175	Defeat the Celestial Star of Wealth %d / 1 \rBe careful with Wyvern around him
+176	Defeat Charon %d / 1 \rThe presence of the dead Spirit of Barqueiro causes the Charon to become stronger
+177	Defeat the Shadow of the Sleeping God %d / 1 \rCare with Butterfly King and Underworld Butterfly
+178	Destroy the hourglass and get out of your Hypnos Illusion
+179	Within 60s, defeat as many Hades guards as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated Enemies: %d
+180	Bust of the Giant %d / 1
+181	Resist the Abyss Attack \r ^e12500Time Remaining: %ds ^N
+182	Lava Giant %d / 1
+183	Set of Giants %d / 1
+184	Alberich de Megrez %d / 1
+185	Hagen de Merak %d / 1
+186	Centurion of Ice Warriors %d / 3 \rElite of the Ice Warrior %d / 10 \rBattle Warrior of the Ice %d / 6
+187	Defeat Shido from Mizar %d / 1
+188	Ice Warrior Centurion %​​d / 4 \r Warrior Elite %d / 9 \ Polar Bear %d / 6
+189	Defeat Alioth's Fenrir %d / 1
+190	Go ahead under the guidance of the Goddess
+191	Thor of Phecda %d / 1
+192	Go to the head of the Python, defeating the Archers
+193	Dazzle the Python and find the path that leads to your mouth
+194	Jump from the eyes of the Python \rLoki %d / 1
+195	Rescue the Elder, defeating Kerr and Thor
+196	Siegfried de Dubhe %d / 1
+197	Hagen de Merak %d / 1
+198	Hagen de Merak %d / 1 \ Celestial Cry of the Crypt %d / 1
+199	Thor of Phecda %d / 1 \rMines of Griffon %d / 1
+200	Defeat: Golem \rRock %d / 1 \rSteven of the Celestial Murder Star %d / 1 \ Minotaur %d
+201	Alberich de Megrez %d / 1 \ Basilisk Basilisk %d / 1 \rBe careful with Demonic Butterflies and Bats
+202	Alioth Fenrir %d / 1
+203	Bian de Cavalo Marinho %d / 1
+204	Shado of Mizar %d / 1 \rd of Alcor %d / 1
+205	Centaur Degraded %d / 1 \rBalance Degraded %d / 1 \rPosted Gradient %d / 1
+206	Radamanthys %d / 1
+207	Mime de Benetnasch %d / 1 \rFeatured %d / 1
+208	Loki %d / 1
+209	Leader of the Ice Warrior %d / 4 \rService of the Ice Warrior %d / 8 \ Nordic Clan of the Divine Clan %d / 8
+210	Nordic Archers %d / 4 \ Polar Bear %d / 8 \ Forest Fall %d / 8
+211	Hidden Event: \rGrand Arctic Wolf %d / 1
+212	Abyssal %d / 1
+213	Poison Toad %d / 7 \ Underworld Elite Guards %d / 7 \ Bloodthirst %d / 9 \ Deathwing Guards %d / 9
+214	Bloodthirsty Bat %d / 9 \rGuard of the God of Death %d / 9
+215	Troll Iwan %d / 1
+216	Enter the Mysterious Magic Circle
+217	Number of people: %d \rReactive count to break Magic Circle: %d
+218	Griffon Minos %d / 1
+219	Frosts Spectrum %d / 1
+220	Soul-devouring beast %d / 6 \ Underworld Elite Guards %d / 6
+221	Talk to Acheron Charon \r (Only the Leader can do this)
+222	Charon of Acheron %d / 1
+223	Charon detests the Treason Thieves, they always hide in the rubble, coveting the treasure of \rCarbon. \rDestroy the debris, find the thieves and defeat them \r (Only the Leader can talk to Charon) \r %d
+224	Underworld Butterfly %d / 12 \ Underworld Elite Guard %d / 12
+225	Enter the bright area
+226	Within 180s, defeat as many enemies as possible: \r ^e12500Time Remaining: %ds ^N \rDefeated Enemies: %d
+227	Pharaoh of Sphinx %d / 1
+228	Crows %d / 11 \ Underworld Elite Guards %d / 11
+229	Underworld Snake %d / 6 \rFecure Defeat %d / 6
+230	Save the fairies by killing Sphinx as fast as possible \rOtherwise, every 20 seconds, there will be a sacrificed fairy \r ^e12500 Remaining faeces: %d ^N \rsfinge %d / 1
+231	Rescued %d fairies \rYou get the gift left by the fairies.
+232	Meat-eating Eagle Rotten %d / 18 \ Underworld Symbols %d / 18
+233	Aiacos de Garuda %d / 1
+234	Hidden BOSS: Empress of the Underworld %d / 1
+235	Daidalos of Cepheus %d / 1
+236	Argol of Perseus %d / 1
+237	Cepheus Daidalos %d / 1 \rArgol de Perseo %d / 1
+238	Tremi de Sagita %d / 1 \ramaman of Crow %d / 1
+239	Misty de Lagarto %d / 1
+240	Sextant %d / 1
+241	Jamian of Crow %d / 1 \rSetting %d / 1
+242	Defeat the Marine Guards along the way
+243	Isaac of Kraken %d / 1
+244	Sorrento of Sirena %d / 1
+245	Isaac of Kraken %d / 1 \r Siren %d / 1
+246	Baian of Hippocampus %d / 1
+247	Kasa de Lymnades %d / 1
+248	Baian of Hippocampus %d / 1 \rKasa of Lymnades %d / 1
+249	Io of Scylla %d / 1
+250	Krishna of Crisaor %d / 1
+251	Io of Scylla %d / 1 \rKrishna of Crisaor %d / 1
+252	Kanon of Dragon of the Sea %d / 1
+253	Poseidon %d / 1
+254	Kanon of Marine Dragon %d / 1 \rPoseidon %d / 1
+255	Protect the Goddess, defeat: \rPoseidon %d / 1 \rMarinas %d / 32 \rCaution with the cannon
+256	Protect the Goddess, defeat: \rHades %d / 1 \rSpectros %d / 15
+257	What happened? It seems that the Great Teacher betrayed the Goddess
+258	Pursue the Grand Master who betrayed the Goddess \rSold Soldier %d / 10
+259	Continue to chase the Grand Master (Grand Master reached the platform) \rSolder Soldier %d / 8
+260	Continue to chase the Grand Master (Grand Master left the platform) \rSoldier of Knight %d / 10
+261	(The Grand Master reached the center of the Hall) \rDroot the Grand Master %d / 1
+262	Dungeon Objective:
+263	Is the Thieves' Lair here?
+264	Within 2min, capture as many Thieves as possible! ^e12500 Remaining time: %ds ^N
+265	Capturing the Great Thief, Kid
+266	Leave the Hyperdimension of the Magic Box, where the Baby Soul is found
+267	Demon Celestial Star %d / 1
+268	Celestial Shadow Star %d / 1
+269	​​Celestial Shadow Star %d / 1 \rIn 2min, save as many Apprentice as possible: \r ^e12500Remaining time: %ds ^N \rRemaining leavers: %d
+270	Terrestrial Star of Violence %d / 1
+271	Defeat Dark Celestial Star %d / 1
+272	Within 2min, kill as many enemies as possible: \r ^e12500Time Remaining: %ds ^N \r Death Enemies: %d
+273	Celestial Star of Difference %d / 1
+274	Finding the True Underworld Hammer \rThe person covered by Blue Light can activate the True and False Underworld Hammer!
+275	Wait for Athena to finish her meditation, and talk to her to begin the prayer. \r It is recommended that weaker players use the Virgo Gold Armor \r %ds.
+276	Objective: Charge the energy of Athena so that her HP reaches full. Only that one blessed by the Virgo Armor can carry the energy of Athena. By touching the Discipline of God you can carry the energy of Athena and repel the enemies. Activated again after 2 min \rDestroy the Intruders of the Underworld
+277	You defended the Goddess! May the heavens bless you!
+278	Unfortunately, Athena's energy was not charged in time. Now you will have to defeat the Spirit of the Dream God \rSpirit of the Dream God %d / 1
+279	Wait Shunrei find Shiryu's location and then talk to her \r %ds
+280	Objective: Play the Titan Hammer to become a warrior and destroy the Underworld supply \r \rRecover the Wooden Boxes to the Circle to build a Floating Bridge \rSo people who have not turned can lift the boxes \rConclusion of Bridge %d / 35 Through the bridge, go to the Well of the Dead and defeat the Rock of Golem. The fight started there %ds \rWith a thorn floor
+281	Objective to pass the stage: together with Shiryu, defeat Rock, the Celestial Star of the Horn!
+282	Unfortunately, there is no time to reach the bridge. Defeat Rock, Celestial Horn Star, now!
+283	You helped Shunrei save Shiryu! May all lovers marry!
+284	Defeat Ikki, Knight of Phoenix %d / 1
+285	Defeat Pegasus Black %d / 1 \r (Leader talks to Black Pegasus to choose challenge difficulty)
+286	Defeat Black Pegasus %d / 1 \r (The Leader talks to Black Pegasus to choose the difficulty of the challenge) \r ^FFCC00Pégasus Negro has entered the status of fury, updated countdown: ^FF0000 %ds ^N
+287	Defeating Black Cygnus %d / 1 \r (The Leader talks to Black Cygnus to choose the difficulty of the challenge)
+288	Defeating Black Cygnus %d / 1 \r (The Leader talks to Black Cygnus to choose the difficulty of the challenge) \r ^FFCC00Cisne Black has entered rage status, updated countdown: ^FF0000 %ds ^N
+289	Defeat Black Dragon %d / 1 \r (The Leader talks to Black Dragon to choose the difficulty of the challenge)
+290	Defeat Black Dragon %d / 1 \r (The Leader talks to Black Dragon to choose the difficulty of the challenge) \r ^FFCC00Dragon Black has entered rage status, updated countdown: ^FF0000 %ds ^N
+291	Defeat Ikki, Knight of Phoenix %d / 1 \r (The Leader talks to Ikki to choose the difficulty of the challenge)
+292	Defeat Ikki, Knight of Phoenix %d / 1 \r (The Leader talks to Ikki to choose the difficulty of the challenge) \r ^FFCC00Ikki has entered rage status, updated countdown: ^FF0000 %ds ^N
+293	Advance in the dungeon
+294	Protect Aries from Sagittarius. Defeat the enemy!
+295	Defeat Babel of Centaur %d / 1
+296	Defeat Maya of Sagita %d / 1
+297	Run away, do not let Shura reach you.
+298	Defeat Moses from Whale %d / 1
+299	Defeat Shura, Golden Knight of Capricorn %d / 1
+300	Defeat the Vigil Guards in the Valley %d / 5
+301	Eliminate the enemies that are on the way ahead, to Aioros
+302	There is an ambush in the cave, cross it quickly
+303	^FF0000 Failed to help Aioros escape. ^N \r ^FF0000You can talk to Aioros on the Sagita platform and restart the escort ^N
+304	Defeating Babel from Centaur %d / 1 \r (The Leader talks to Babel to choose the difficulty of the challenge)
+305	Defeat Maya from Sagita %d / 1 \r (The Leader talks to Maya to choose the difficulty of the challenge)
+306	Help Aioros to flee \rDon't let Shura reach you
+307	Defeating Whale Mice %d / 1 \r (The Leader talks to Mice to choose the difficulty of the challenge)
+308	Defeating Shura, Capricorn Gold Rider %d / 1 \r (The Leader talks to Shura to choose the difficulty of the challenge)
+309	Defeating Babel from Centaur %d / 1 \r (The Leader talks to Babel to choose the difficulty of the challenge) \r ^FFCC00Babel has entered rage status, updated fight countdown: ^FF0000 %ds ^N
+310	Defeat Sagita Maya %d / 1 \r (The Leader talks to Maya to choose the difficulty of the challenge) \r ^FFCC00Maya has entered rage status, updated fight countdown: ^FF0000 %ds ^N
+311	Defeat Whale Mice %d / 1 \r (The Leader talks to Mice to choose the difficulty of the challenge) \r ^FFCC00Mouses has entered furious status, updated fight countdown: ^FF0000 %ds ^N
+312	Defeating Shura, Capricorn Gold Rider %d / 1 \r (The Leader talks to Shura to choose the difficulty of the challenge) \r ^FFCC00Shura went into fury status, updated fight countdown: ^FF0000  %ds ^N
+313	Go to the House of Aries
+314	Talk to Mu in front of the House of Aries
+315	Collect Silver Star Sand in the Jamiel Illusion %d / 100
+316	Back to House of Aries and talk to Mu
+317	Defeat Mu in the House of Aries %d / 1
+318	Go immediately to the House of Taurus
+319	Defeat Aldebaran %d / 1 \rHelp Seiya to charge the Cosmo %d / 10
+320	Time to start Supernova Titanic: \r Countdown: %ds \rDelay Aldebaran %d / 1
+321	Go immediately to the Gemini House
+322	Defeat Guardian of the House of Gemini %d / 1
+323	Defeat Hyperdimension Guardians %d / 4
+324	Phase Tip:
+325	Entering the Ice Sanctuary
+326	Enter the Portal ^FFCC00Amarelo ^N \r Defeat Mime de Benetnasch %d / 1 \rCor da Aurora: ^FFCC00Amarela ^N
+327	Remove Poseidon seal %d / 1 \rRemove the Coral Barrier from the path \rCor of Aurora: ^FFCC00Amarela ^N
+328	Enter the Portal ^00CC00Verde ^N \rDroot Siegfried, Alpha Star %d / 1 \rCor da Aurora: ^00CC00Verde ^N
+329	Enter the Portal ^00CCCCVerde-water ^N \r Remove Seal of Poseidon %d / 5 Aurora: ^00CC00Verde ^N ^00CCCCVerde-water ^N
+330	Enter the Portal ^0066FFAzul ^N \rDroute Illusion of Sorento %d / 3 \rCor da Aurora: ^00CC00Verde ^N ^0066FFAzul ^N
+331	Defeat Fafner %d / 1 Aurora: ^00CC00Verde ^N ^0066FFAzul ^N
+332	Enter the Portal ^9900FFRoxo ^N \rDroot Valkyrie %d / 1 \rCor da Aurora: ^FFCC00Amarela ^N ^9900FFRoxa ^N
+333	Go to Arctic Ocean \rrrrrrrrrr Isaac de Kraken %d / 1
+334	Go to North Pacific Pillar \ Baian Hippocampus %d / 1
+335	Go to South Pacific Pillar \ 's Dotroot %d / 1
+336	Go to Pillar of the Indian Ocean Krishna of Crisaor %d / 1
+337	Go to Pillar of the Antarctic Ocean \rDotrote Kasa de Lymnades %d / 1
+338	Go to Pilar del Atlantico Sur \rDerrote Sorrento de Sirena %d / 1
+339	Go to North Atlantic Pillar \ Kanon of the Sea Dragon %d / 1
+340	Go to Poseidon Temple \rDrop Poseidon %d / 1
+341	Go to Main Pillar \rDrop Poseidon %d / 1
+342	Go to the Cancer House
+343	Defeat Death Mask, Golden Knight of Cancer %d / 1
+344	Go to Leo's House
+345	Defeating Aiolia, Golden Lion Rider %d / 1 \rYou are out of your mind, your FFCC00 Plasma Lightning can destroy the ^FFCC00Pillar of Stone ^N. The destruction of the Pillar can increase the resistance to damage of Aiolia
+346	Go to the House of Virgo
+347	Defeat Guardians nearby %d / 2
+348	Opening Stone Lotus Gate
+349	Defeat Shaka, Golden Knight of Virgo %d / 1
+350	Go to the House of Libra
+351	Talk to Shun
+352	Rescue Hyoga %d/1 \r to break the hail in %d/180 seconds
+353	Go to the House of Scorpio
+354	Defeat Milo, Scorpio Gold Knight %d / 1
+355	Go to the House of Sagittarius
+356	Defeat four Souls of the House of Sagittarius %d / 4
+357	Go to the House of Capricorn
+358	Invade Capricorn House
+359	Defeat Shura, Golden Knight of Capricorn %d / 1
+360	Go to the House of Aquarius
+361	Going Through the Snowstorm Blockade
+362	Defeat Camus, Golden Knight of Aquarius %d / 1
+363	Go to the House of Pisces
+364	Going through the House of Pisces trap
+365	Defeating Aphrodite, Golden Knight of Pisces %d / 1 \rBe careful with Aphrodite's Bloody FFCC00. When the white rose absorbs the blood and becomes red, the power of death will make it even more powerful
+366	Defeating Shion, the predecessor of the Aries Knight %d / 1 \r (The Leader must talk to Shion to choose the difficulty of the challenge)
+367	Go to the House of Taurus
+368	Talk to Aldebaran
+369	Defeat Niobe, Dark Earth Star %d / 1 \r (The Leader talks to Niobe to choose the difficulty of the challenge)
+370	Go to the House of Gemini
+371	Talking with Gemini Knight to enter Hyperdimension
+372	When entering the Hyperdimension, talk to Shura
+373	Accept the Sagittarius test and go to the next Hyperdimension
+374	Go to the next Hyperdimension and talk to Camus
+375	Breaking the Hyoga Ice Coffin Seal
+376	Talk to Hyoga and go to the next dimension
+377	Go to the next Hyperdimension and talk to Saga
+378	Enter the Memory Labyrinth and defeat the Gemini Shadow Collect ^66ccff Memory Fragments * Cause ^N %d / 1 \r Collect ^66ccff Memory Fragments * Effect ^N %d / 1
+379	Use two Fragments of Memory to synthesize ^cc66ffChave of Gemini ^N \r Open Kanon Prison %d / 1
+380	Talk to Kanon and head back to Gemini's House
+381	Defeat Myu, Sinister Terrestrial Star %d / 1 \r (The Leader talks to Myu to choose the difficulty of the challenge)
+382	Defeat Shion, the predecessor of the Aries Knight %d / 1 \r (The Leader must talk to Shion to choose the difficulty of the challenge) \r ^FFCC00Shion has entered furious status, updated fight countdown: ^FF0000 %ds ^N
+383	Defeat Niobe, Dark Earth Star %d / 1 \r (The Leader talks to Niobe to choose the difficulty of the challenge) \r ^FFCC00Niobe entered rage status, updated fight countdown: ^FF0000 %ds
+384	Defeat Myu, Sinister Terrestrial Star %d / 1 \r (The Leader talks to Myu to choose the difficulty of the challenge) \r ^FFCC00Myu has entered furious status, updated fight countdown: ^FF0000 %ds N
+385	Disarm Trap %d / 6 \rFind true Laimi, Terrestrial Star of Submission
+386	Defeating Laimi, Terrestrial Star of Submission %d / 1 \r (The Leader talks to Laimi to choose the difficulty of the challenge)
+387	Defeating Laimi, Submission Ground Star %d / 1 \r (The Leader talks to Laimi to choose the difficulty of the challenge) \r ^FFCC00Laimi has entered rage status, updated fight countdown: ^FF0000 %ds
+388	Defeating Giganto, Terrestrial Star of Violence %d / 1 \r (The Leader talks to Giganto to choose the difficulty of the challenge)
+389	Defeating Giganto, Terrestrial Star of Violence %d / 1 \r (The Leader talks to Giganto to choose the difficulty of the challenge) \r ^FFCC00Gigant entered fury status, updated fight countdown: ^FF0000 %ds
+390	Enter the Virgo House and defeat the Hell Shadow Devils %d / 8
+391	Enter the Garden of the Twin Trees
+392	Defeat Trinity, Golden Rider reborn %d / 1 \r (The Leader talks to Saga to choose the difficulty of the challenge)
+393	Defeat Trinity, Golden Rider reborn %d / 1 \r (The Leader talks to Saga to choose the difficulty of the challenge) \r ^FFCC00A Trinity has entered into fury status, updated fight countdown: ^FF0000  %ds ^N
+394	Use the teleportation to go to the Temple of the Goddess and discover the truth about the facts
+395	Defeat Hagen from Merak, Beta Star %d / 1 \r (The Leader talks to Hagen to choose the difficulty of the challenge)
+396	Defeat Alioth's Fenrir, Star Epsilon %d / 1 \r (Leader talks to Fenrir to choose challenge difficulty)
+397	Defeat Alberich de Megrez, Star Delta %d / 1 \r (The Leader talks to Alberich to choose the difficulty of the challenge)
+398	Defeating Shido from Mizar, Star Zeta %d / 1 \rDestroying Bordo de Alcor, Star Zeta %d / 1 \r (The Leader talks to Shido to choose the difficulty of the challenge)
+399	Go to the western part of the Grand Blue Castle and look for Fenrir, the northern wolf
+400	Resist the attacks of the Ice Warriors and the wolves until Fenrir arrives.
+401	Defeat Hagen from Merak, Beta Star %d / 1 \r (The Leader talks to Hagen to choose the difficulty of the challenge) \r ^FFCC00Hagen went into fury status, updated fight countdown: ^FF0000 %ds
+402	Defeat Alioth's Fenrir, Epsilon Star %d / 1 \r (The Leader talks to Fenrir to choose the difficulty of the challenge) \r ^FFCC00Fenrir has entered furious status, updated fight countdown: ^FF0000 %ds
+403	Defeating Alberich from Megrez, Star Delta %d / 1 \r (The Leader talks to Alberich to choose the difficulty of the challenge) \r ^FFCC00Alberich has entered furious status, updated fight countdown: ^FF0000 %ds
+404	Defeating Shido from Mizar, Star Zeta %d / 1 \rDestroying Alcor Bado, Star Zeta %d / 1 \r (The Leader talks to Shido to choose the difficulty of the challenge) \r ^FFCC00The Tiger Saber brothers of Saber entered furious status, updated fight countdown: ^FF0000 %ds ^N
+405	Defeat Queen of Alraune, Demon Celestial Star %d / 1 \r (The Leader talks to Queen to choose the difficulty of the challenge)
+406	Defeat Valentine of Harpia, Celestial Star of Cry %d / 1 \r (The Leader talks to Valentine to choose the difficulty of the challenge)
+407	Defeating Frog Zeros, Bizarre Terrestrial Star %d / 1 \r (The Leader talks to Zeros to choose the difficulty of the challenge)
+408	Defeat Radamanthys, Celestial Star of Fury %d / 1 \r (The Leader talks to Radamanthys to choose the difficulty of the challenge) \r ^FFCC00 After starting Boss, the fighting zone will be closed
+409	Defeat the Elite Guards inside the Castle of Hades %d / 12
+410	Defeat Queen of Alraune, Demon Celestial Star %d / 1 \r (The Leader talks to Queen to choose the difficulty of the challenge) \r ^FFCC00Queen went into fury status, updated fight countdown: ^FF0000  %ds ^N
+411	Defeat Valentine of Harpia, Celestial Star of Cry %d / 1 \r (The Leader talks to Valentine to choose the difficulty of the challenge) \r ^FFCC00Valentine has entered into fury status, updated fight countdown: FF0000 %ds ^N
+412	Defeating Frog Zeros, Bizarre Land Star %d / 1 \r (The Leader talks to Zeros to choose the difficulty of the challenge) \r ^FFCC00Zeros has entered furious status, updated fight countdown: ^FF0000  %ds ^N
+413	Defeat Radamanthys, Celestial Fury Star %d / 1 \r (The Leader talks to Radamanthys to choose the difficulty of the challenge) \r ^FFCC00Radamanthys has entered furious status, updated fight countdown: ^FF0000 %ds
+414	Obtain Wind Soul %d / 10 \rObter Earth Soul %d / 5 \rObter Water Soul %d / 80 \rObter Fire Soul %d / 140
+415	Obtain Wind Soul %d / 5 \rObter Earth Soul %d / 10 \rObter Water Soul %d / 140 \rObter Fire Soul %d / 80
+416	Obtain Wind Soul %d / 60 \rObter Earth Soul %d / 25 \rObter Water Soul %d / 60 \rObter Fire Soul %d / 20
+417	Obtain Wind Soul %d / 25 \rObter Earth Soul %d / 60 \rObter Water Soul %d / 20 \rObter Fire Soul %d / 60
+418	Get Wind Soul %d / 20 \rObter Earth Soul %d / 10 \rObter Water Soul %d / 160 \rObter Fire Soul %d / 280
+419	Obtain Wind Soul %d / 10 \rObter Earth Soul %d / 20 \rObter Water Soul %d / 280 \rObter Fire Soul %d / 160
+420	Get Soul of Wind %d / 120 \rObter Earth Soul %d / 50 \rObter Water Soul %d / 120 \rObter Fire Soul %d / 40
+421	Obtain Wind Soul %d / 50 \rObter Earth Soul %d / 120 \rObter Water Soul %d / 40 \rObter Fire Soul %d / 120
+422	Get Soul of Wind %d / 30 \rObter Earth Soul %d / 15 \rObter Water Soul %d / 240 \rObter Fire Soul %d / 420
+423	Obtain Wind Soul %d / 15 \rObter Earth Soul %d / 30 \rObter Water Soul %d / 420 \rObter Fire Soul %d / 240
+424	Obtain Wind Soul %d / 180 \rObter Earth Soul %d / 75 \rObter Water Soul %d / 180 \rObter Fire Soul %d / 60
+425	Obtain Wind Soul %d / 75 \rObter Earth Soul %d / 180 \rObter Water Soul %d / 60 \rObter Fire Soul %d / 180
+426	Fight preparation phase, select Kingdom \rAfter selecting Kingdom, speak to Shaka to start the fight
+427	Fight with the Beings of the Six Corresponding Existences ^00ffff%d/100^N\r^ffff00When fighting with the Six Existences equal to you, you can get a count^N\r^00ff00Tip: If you attack the Six Stocks that are not correspondents to you, your Pet may not get knowledge^N\rIn struggling with the Six Existences just like you, you can gain knowledge\r^ffff00Individually,^N to get ^ffff0010^N knowledge, free the ^ffff00second^N ability of the Six Existence\r^ffff00Individually,^N to get ^ffff0020^N conhecimentos, libera a ^ffff00terceira^N habilidade das Seis Existência\rTime until uma grande quantidade de Seres das Seis Existências apareçam: ^ff0000%d^N segundos
+428	Fight with the Beings of the Six Corresponding Existences ^00ffff%d/100^N\r^ffff00When fighting with the Six Existences equal to you, you can get a count^N\r^00ff00Tip: If you attack the Six Stocks that are not correspondents to you, your Pet may not get knowledge^N\rIn struggling with the Six Existences just like you, you can gain knowledge\r^ffff00Individually,^N to get ^ffff0010^N knowledge, free the ^ffff00second^N ability of the Six Existence\r^ffff00Individually,^N to get ^ffff0020^N conhecimentos avançados da ^ffff00terceira^N habilidade das Seis Existência\r^ff0000Atenção! Grande quantidade de Seres das Seis Existências apareceram nas proximidades do Jardim das Árvores Gêmeas^N
+429	Defeat Saga, Golden Knight with Sapuris %d / 1
+430	Fight preparation phase, talk to Dohko to start it
+431	Help Dohko eliminate the Wraiths who are in the way \rDroot Subterranean Shadow Soldiers ^00ffff %d / 15 ^N
+432	Follow Dohko \rDroute Celestial Star of Fury ^00ffff %d / 1 ^N
+433	Help Dohko eliminate the Wraiths who are in the way \rDroot Subterranean Shadow Soldiers ^00ffff %d / 20 ^N
+434	Follow Dohko \rDroot Celestial Star of Nobility ^00ffff %d / 1 ^N
+435	Help Dohko eliminate the Wraiths that are in the way \rDroot Subterranean Shadow Soldiers ^00ffff %d / 18 ^N
+436	Follow Dohko \rDroute Celestial Star of Valor ^00ffff %d / 1 ^N
+437	Follow Dohko \rDroute Hades ^00ffff %d / 1 ^N
+438	Fight preparation phase, talk to Miro to start it
+439	Defeat Scarlet Scorpion ^00ffff%d/100^N\r^ffff00O Arctic field around it can eliminate scorpion venom from the body ^N \rdic: After poisoning, it will cause ^FF0000danos ^N in the ^00ff00Pets ^N around, continuously. Eliminate the poison as quickly as possible
+440	Breaking the Scorpion Challenge \rDroot Miro ^00ffff %d / 1 ^N
+441	Preparation phase of the fight, talk to Aioros to start it
+442	Collecting energy from the Cosmo ^00ffff%d/200^N\rPay attention to deviate from the attacks of the God of Death. Collect golden cosmic energy spheres: Rationally use the ability of acceleration, Star Unity^N
+443	Eliminate Sagittarius Crisis \ Defeat God of Death ^00ffff %d / 1 ^N
+444	Talk to Santa to start the fight \rThe Ice Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies \rThe level of the Ice Fairies is more important than the amount445	Time until ^ffff001ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff0012^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+445	Time until ^ffff001^N horde of enemies appear ^ffff00%ds ^N\rEnemies defeated / Enemies who ran away\r ^ffff00%d ^N/ ^ff0000%d ^N\r remaining ^ffff0012^N Wave enemies \r snow elves have a total of 3 levels, collect the ball of light dropped by the enemy, you need to use 1, 2, 2 times of snowflake skills to upgrade \r^ffff00 snow elf level is more important than the number
+446	Current progress: ^ffff001 ^N / ^ffff0012 ^N hordes of enemies \rInimigos defeated / Enemies that have fled \r ^ffff00 %d ^N ^^ff0000 %d ^N \rThe Ice Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies \r ^ffff00The level of the Ice Fairies is more important than the amount
+447	Time until ^ffff002ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff0011^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+448	Progresso atual: ^ffff002^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+449	Time until ^ffff003ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff0010^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+450	Progresso atual: ^ffff003^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+451	Time until ^ffff004ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff009^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+452	Progresso atual: ^ffff004^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+453	Time until ^ffff005ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff008^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+454	Progresso atual: ^ffff005^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+455	Time until ^ffff006ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff007^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+456	Progresso atual: ^ffff006^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+457	Time until ^ffff007ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff006^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+458	Progresso atual: ^ffff007^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+459	Time until ^ffff008ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff005^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+460	Progresso atual: ^ffff008^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+461	Time until ^ffff009ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff004^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+462	Progresso atual: ^ffff009^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+463	Time until ^ffff0010ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff003^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+464	Progresso atual: ^ffff0010^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+465	Time until ^ffff0011ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rRemain ^ffff002^N hordes of enemies\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+466	Progresso atual: ^ffff0011^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+467	Time until ^ffff0012ª^N horde of enemies appear: ^ffff00%ds^N\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rResta ^ffff001^N horda de inimigos\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+468	Progresso atual: ^ffff0012^N/^ffff0012^N hordes of enemies\rEnemies defeated / Enemies who ran away\r^ffff00%d^N/^ff0000%d^N\rIce Fairies have 3 levels in total. It is necessary to use Snowflake Skill 1, 2, 2x, separately, to level them up. Collect the spheres of light dropped by your enemies\r^ffff00O level of Ice Fairies is more important than the quantity
+469	Congratulations! Once again, you conquered evil! \rEvening Enemies / Enemies who fled \r ^ffff00 %d ^N / ^ff0000 %d ^N
+470	Fight preparation phase, talk to Shura to start it
+471	Defeat Soldier [Submundo] ^00ffff %d / 270 ^N \rExcalibur Remaining: %d\rAfter obtaining the Excalibur domain, 00ff00Shura ^N, may cause effective damage to Underworld forces
+472	Defeat Celestial Star of Crying ^00ffff %d / 1 ^N
+473	Preparation phase of the fight, talk to Camus to start it
+474	Collection Ice crystal ^00ffff%d / 120^N\r Tips: Collect ice crystals through ^ffff00^N to get ^ffff00[The true trick of the trick] ^N\r^ffff00 Note ^N Avoid the frost bomb
+475	Defeat Camus ^00ffff %d / 1 ^N
+476	The Camus Inheritance Test has been completed!
+477	Phase of preparation of the fight, talk with Guarda da Casa de Pisces to start it
+478	Delete Rose corroded ^00ffff %d / 120 ^N \rTime Remaining: %d\r^ffff00Rosa ^N does not stop growing, destroy it as quickly as possible and prevent it from turning into a flower malignant \rIf it is transformed into Underworld Butterfly, go as fast as possible until near the White Rose eliminate the poison
+479	Defeat Queen, Demon Celestial Star ^00ffff0 / 1
+480	House Fish Crisis eliminated!
+481	Talk to Kiki to start the fight
+482	Defeat all Kikis ^00ffff %d / 28 ^N \rTime Remaining: ^00ffff %ds ^N \rAttention: Beware of all the f ^fff00falls ^N that Kiki leaves at the location \rMu will place the Crystal Wall to interfere with the fight
+483	Defeat Mu of Aries ^00ffff0 / 1
+484	Congratulations on passing the Mu test!
+485	Talk to Gemini of evil to start the fight
+486	Defeat Soldiers of evil ^00ffff %d / 100 ^N \rTime left: ^00ffff %ds
+487	Defeat Twins from Evil
+488	You have preserved the goodness in the heart of Gemini!
+489	Resurrected Warrior %d / 8 \rOnly with the Sacred Lotus at the end of the road, it is possible to remove the terrible curse of the enemy
+490	Giant Bloodthirsty Bat %d / 1 \rBorneo Queen of the Underworld %d / 1 \ Underworld Myu Nymph %d / 1
+491	Union of the Dream God %d / 1
+492	Defeated the God of the Dream!
+493	Go to the Underworld's Portal \r ^fff000Destroy all Shadowhunters and Soul Hunters on the Path of Death. \r Shadowhunters %d / 128 \ Soulcatchers %d / 32
+494	Destroy the Portal of the Underworld \r ^fff000Be careful of the Lava Fury and the Guard of the Blood of Despair, near the entrance. The Fury attacks the soldiers near the entrance and the Guard retrieves HP from the Portal.
+495	Defeating Charon, Celestial Star of the Hiatus \r ^fff000Destroying Charon, the boatman of Acheron. Be careful with your paddle
+496	Cross the Acheron \r ^fff000For the teleporter opened by Shaka, go to the other side of the river and destroy the Shield of the Shield ^fff000.
+497	Go to Address of Trial \r ^fff000Destroy all Addicted Zombies and Wrecked Zombies on the bank of the river \rZumbis %d / 160
+498	Defeat Lune, Eminence's Celestial Star \rWithout the fight, Lune will summon the Monument of Destiny in front of the Abode of Judgment. If you do not destroy it within 15 min, it will add a Protection Star to Lune; among them: the Star of Life, which recovers the Lune HP, the Death Star, which attacks its enemies and the Star of Confusion, which increases Lune's damage reflection status. It is best to organize a platoon in front of the Judgment Abode to destroy the Monument of Destiny without delay.
+499	Fair and brave young men, congratulations on having attacked the Abode of Judgment! Many challenges are still waiting for you!
+500	Reach the Valley of the Black Ventania \r ^fff000Destroy all the Dark Investigators behind the Address of the Judgment. \rDiscoverers of Darkness %d / 60
+501	Defeat Moe, the Darkest Star of Darkness Moe, guardian of the Black Ventania Valley. Be careful, for he can summon a hellish black wind.
+502	Reach the Inferno of Rolling Stones \r ^fff000Eliminate all the Guards of the Black Ventania in the Valley of the Black Ventania, Guards of the Black Ventania %d / 64
+503	Defeat Rock, the Celestial Star of the Horn \r ^fff000Destroy Rock, the guardian of Inferno of Rolling Stones. Be careful as he can summon an avalanche of rocks.
+504	Defeat Pharaoh, Celestial Star of the Beast and Papillon, Sinister Terrestrial Star \r ^fff000Destroy these mighty Wraiths. After the fight begins, the Pharaoh's gate will be closed and you will not be able to pass through it. If the two are not in fight status, they will enter invincible status, so it is wise for the platoon to simultaneously attack to defeat them.
+505	Fair and brave young people, congratulations on having attacked the Rolling Stones Hell! Many challenges are still waiting for you!
+506	Defeat Queen ^fff000Divide a part of the comrades and use the power of ^ff0000Orfeu ^fff000 to defeat the Magic Flowers, preventing them from increasing Queen's power. ^The remaining Magic Flowers: ^ff0000 %d
+507	Find the true Iwan In the Dark Swamp there are 4 false Iwan. Only when you find the true one, the Celestial Star of Defeat will appear \r ^fff00When entering the Star Barrier, you can eliminate the distorting effect of the Dark Swamp
+508	Defeat Iwan ^fff000With a fight with the Celestial Star of Defeat, divide a part of the comrades to defeat Iwan's Souls, preventing them from increasing their power. ^NNo remainder of Ivan's Souls: ^ff0000 %d
+509	Join forces to cross the barriers on the way to the Fire Cemetery! \r ^fff000It is necessary to defeat the Guards of the 2 paths that lead to the Fire Cemetery in order to move forward
+510	Defeat Kagaho ^fff000With fighting with Kagaho, divide a part of the comrades to defeat the Degraded Souls, preventing them from increasing Kagaho's power. ^N The remainder of Degraded Souls: ^ff0000 %d
+511	Fair and brave young people, congratulations on having attacked the Fire Cemetery! Many challenges are still waiting for you!
+512	Go to the end of the Lake of Blood, turning off the mechanism of the Rolling Stones. \r ^fff000Using the power of Shun can heal quickly the companions struck by Stones
+513	Defeat Gordon, Celestial Star of the Prison \r ^fff000When fighting with Gordon, separate a part of the groupmates to collect Hot Sand, to weaken it ^The more sand collected, the weaker it will be. Every 15 seconds, the Celestial Star of the Jail will shake the Hot Sands of your body to regain the forces. \r^fff000 Collecting hot sand number: ^ff0000%d\r^fff000 Tianqixing strongness: ^ff0000%d
+514	Defeat Sylphid, Celestial Star of Insight \r ^fff000With fighting Sylphid, separate a part of the groupmates to break the nearby snake eggs and prevent the Underworld Snakes from increasing the strength of the Celestial Star of Insight
+515	Quickly cross the Abyss of the Gods and close the lava mechanism
+516	Defeat Valentine, Celestial Star of Crying \r ^fff000Destroy the Soldier of the Underworld who protects the centers of the storm to prevent Valentine from creating a blizzard throughout the Covenant ^N \rNot unconstrained centers ^ffff00 %d ^N ^^ff00003 ^N \rWhen the snowstorm approaches, hiding in the cracks may prevent it from being frozen
+517	Fair and brave young people, congratulations on having attacked the Ccicito! Many challenges are still waiting for you!
+518	Get to the Western Wall \r ^fff000Please go through Caina, Antenora, Ptlomeia and Giudecca to reach the Western Wall.
+519	The Three Judges of the Underworld \r ^fff000Dragon Radamanthys, Celestial Star of Fury; Aiacos, Celestial Star of Valentia and Minos, Celestial Star of Nobility.
+520	Fair and brave young people, congratulations on having attacked the Western Wall! Many challenges are still waiting for you!
+521	Talk to Ikki to start the fight
+522	Defeating the God of Death and the God of Sleep separately
+523	Fair and courageous young people, congratulations on having defeated the God of Death and the God of Sleep! Many challenges are still waiting for you!
+524	Preparation of the Fight \r ^00ff00After initiating the fight, it is necessary to defeat Hades, the Emperor of the Underworld, within 30min
+525	The Underworld Emperor wants to start the ceremony to summon the Death Stars, destroy all invocation stones within 30s. Hades can not be attacked at this stage. \r ^00ff00After starting the fight, it is necessary to defeat Hades within 30min
+526	Only by attacking the true body of Hades does it harm. Attention to Raide's coordination, Hades clones need to be defeated within 15sec, otherwise they will suffer damage from the curse of the remaining clones. \rAfter initiating the fight, you must defeat Hades, the Emperor of the Underworld within 30min
+527	The Eternal Eclipse of Hades is extremely destructive, attention to dodge! \rAfter initiating the fight, it is necessary to defeat Hades within 30min
+528	Fair and brave young people, congratulations on defeating the Emperor of the Underworld! You will have the highest glory!
+529	Talking with the Emissary of the Fall Festival and the Moon Cake to start the fight
+530	Defeat all Spectra \r ^ffff00 %d ^N / ^ff0000120
+531	Defeat all Specters \r ^ffff00 %d ^N / ^ff0000120 ^N \rWhen you kill Zeros, Bizarre Earth Star, you are very likely to get extra prize
+532	Congratulations on defeating all the Wraiths!
+533	Talk to Seiya to start the fight
+534	Collected star glory: ^00ffff%d / 80 ^N\r^00ff00 Acceleration ball ^N can temporarily increase the movement speed \r^00ff00 sacred ban ^N can temporarily block the action of Hades\r please use ^ 00ff00 Rescue ^N Skills to restore the speed of teammates \r Hades that was knocked down by Hades will be faster and faster, please collect enough stars as soon as possible
+535	You saved the Goddess one more time!
+536	Talk to Master Dohko to start the fight
+537	Defeat all Soldiers [Underworld] \r ^ffff00 %d ^N / ^ff0000120
+538	Defeat Shion from Aries
+539	Congratulations on passing the Dohko test!
+540	Go to the end of the mountain trail to defeat Aegis! \rícelo %d / 1
+541	Defeat the Road Guard along the way ahead
+542	There are a large number of monsters gathered in the Elder Tree, eliminate them!
+543	When the countdown is over or when you defeat 200 monsters, Oneiros will appear in front of the Elder Tree! \rTime Remaining: %ds \rMonsters in front of Tree %d / 200
+544	Oneiros stands in front of the Elder Tree! \rOneiros %d / 1
+545	Defeat the Monster along the way
+546	Defeat the Underworld Giant from the path! \ SubGun GG %d / 1
+547	Oneiros	is on the other side of the bridge; follow this path
+548	Oneiros is there, defeat him! \rOneiros %d / 1
+549	Congratulations on defeating Oneiros, talk to Shunrei
+550	Defeat the Illusion of Morpheus %d / 1
+551	Follow along this path and defeat the Hydra of the Underworld %d / 1
+552	Follow along this path and defeat the monsters \rAbissais %d / 6
+553	Follow along this path and defeat the Immortal Dragon
+554	Defeat Fâstaso %d / 1
+555	Follow the signal ahead and teleport to the Temple of Thanatos next to the Breeder of Eagles to defeat the God of Death, Thanatos! \rThanatos %d / 1
+556	Defeat the God of Death, Thanatos! \rThanatos %d / 1 \rIf the whole Temple sinks into the Dark Forest, ask the 6 ^FFCC00 Lamps ^N to light the fire, to disperse the Dark Death
+557	Follow the sign ahead to reach the Temple of Hypnos and defeat the God of Sleep! \rHypnos %d / 1
+558	Defeat the God of Sleep, Hypnos! \rHypnos %d / 1 \rWait to eliminate the ^FFCC00 ^Ns of Hpynos, or they will be a great threat in the future
+559	Follow the signal ahead and teleport to the Forest of Magic Songs next to the Creator of Eagles to defeat the God of Dream! Dreamer %d / 1
+560	Defeat the Dream God! \rDeus of the Dream %d / 1 \rFollow to ^FFCC00complete the HP ^N of the players in status "Deep Dream" \rWhen a companion becomes "Shadow of the Dream God", you should 1 minute, as long as you can, direct the ^FFCC00according to the Dream God for the Nightmare Roses ^N in order to eliminate them
+561	Follow the signal ahead and teleport to the Field of Sleeping Flowers next to the Breeder of Eagles to defeat the Empress of the Underworld! \rImperatrix of the Underworld %d / 1
+562	Defeat the Empress of the Underworld! The Underworld Creator %d / 1 The rider turned into a serpent must immediately use the skill ^FFCC00Aidode ^N to heal the "transformed" status of the Knights
+563	Teleport yourself to the Hades Training Camp and defeat him! \rRunning against him is the fear and the glory of all! \rHades %d / 1
+564	Defeat Hades! To fight with it is the fear and glory of all! \rHades %d / 1 \rWhen Hades launches ^FFCC00 Flying Spaces ^N ^N, destroy them quickly \rWhen Hades uses the ability to repel large-scale, When the eclipse occurs, in the Explosion of the Eclipse of Hades, ^FFCC00 is counted under ^N the Giant Sword. Finally, destroy the Sword \rTime remaining until the Eclipse Explosion ^FFCC00 %ds. ^N \r While Hades is fighting, other people can not board the Floating Island
+565	The Horseman who defeated Hades is already at the top of the world
+566	Talking with Athena to start the fight
+567	Alimentos recuperados: ^00ffff%d/ 100^N\rOs ^ffff00Ladrões^N estão sob status invisível. Use^00ff00Investigar^N\rDerrote o^ffff00Ladrão de Torta de Abóbora^Ne obtenha^00ff001^N alimento\rLadrão de Peru^ffff0Derrote o^NLadrão de Peru^Ne obtenha^00ff0010^N alimento
+568	You and your partner have recovered all their food, have a good Thanksgiving!
+569	Talk to Santa Claus to start the fight
+570	Defeated Enemies: ^00ffff %d / 200 ^N \rPaste the Candy Jar ^to put it in the incubation screen!
+571	You resisted your enemies successfully, Santa decided to give them gifts! Go soon to receive them!
+572	The Sanctuary plunged into a silence that never was, surrounded by the despair and fear of the survivors. \rAnd what happened here? Talk to ^ffff00 Nachi de Lobo ^N
+573	It is necessary to pass through the Valley of the Black Ventania ^N, in order to continue! \rJuntar ^00ff00Universe of Light ^N, it can help them control the Black Wind of Evil: ^ffff00%d / 12
+574	Is the world going to face another catastrophe? Who is in charge of all this? On the way ahead a dense fog rises, the first step to discovering the truth, to defeat the Celestial Star of the Prison! Shaka's magician is hidden in the ^00ff00Santuary ^N, if two members of the group ^00ff00 come together ^N you can open it! Use it to contain the enemy!
+575	The Celestial Star of the Prisoner claims to have been deceived by the God of the Force, Naveen. But who is he? This is far from over! \rRemove the obstacles in front of you, ^ffff00 Demonic Celestial Star! full of tricks, but if you use the ^00ff00Cosmo ^N left by the Silver Knight, you can break his Magic Barrier!
+576	The death of the Devil Celestial Star has made you even more surprised, God of Ethics, Mokurius? Is it not just a person behind it? \r No matter what the truth, the enemy of the Sanctuary can not escape! ^Ffff00 Defeat Celestial Star of Agility ^N \rThe Cosmo Remaining of ^00ff00 Silver Knight ^N will give advantageous help during the battle!
+577	After all, how did this happen? Why would Lira come here? \rThis is ... The Golden 12? They had not sacrificed that?
+578	Victory is only temporary! The God of the Element, Phaedrus, took advantage of the Celestial Star of Agility and the truth is still shrouded in a dense fog, the victory is only temporary! put your guard down, catastrophe has arrived!
+579	Talk to the ^FFCC00Gran Judge ^N to start the battle
+580	Defeat or antecessor of Cavaleiro de Câncer! \rAnterestor de Câncer %d / 1 \rO Antecessor Câncer will invoke zumbis to recover or HP as sacrifices. ^FFCC00Elimine os zumbis ^N or more rapid possível
+581	Defeat Alraune's Ancestor! \r Alraune Alternate %d / 1 \ Alraune's Ancestor will summon Demon Flowers. By absorbing the strength of those flowers, Alraune will recover a large amount of HP. ^FFCC00Demove the Demonic Flowers ^N as quickly as possible.
+582	Defeat the Aquarius Antecedent! \r Aquarius Aquarius %d / 1 \rThe Aquarius Antecedent will put his enemies in an ice box and only the ^FFCC00 will destroy him ^N, it will be possible to get out of that prison.
+583	Defeat Bennu! \rBennu %d / 1 \rBennu will invoke the celestial fire, which will leave it resistant to all damage; therefore, ^FFCC00remove the fire ^N as fast as possible.
+584	Defeat or Antecessor of Capricórnio! \r Capricorn Anionor %d / 1 \rO Antecessor de Capricórnio will invoke Excalibur to recover its own HP. Caso ela apareça, FFCC00mantenha a Excalibur longe ^N na primeira oportunidade
+585	Wyvern's Defeat or Antecessor! \ Wyvern's Adventure %d / 1 \rO Wyvern Antecessor Previous will be the invention of Wyvern's status. ^FFCC00Coletar Vento Essentia ^N Wyvern hair cuspids can disfavor such status
+586	The challengers have won! Open the ^FFCC00 Treasure Chest of Arena ^N to receive the award! \r Treasure Chest of Arena %d / 1
+587	Use the teleport in the ^FFCC00Gran Judge ^FFCC00 to leave the Colosseum.
+588	Defeat the corrupted Aries ancestor! \rShion of Aries %d / 1 \rThe Crystal Wall created by Shion has a very large destructive power. You should quickly ^FFCC00destroy it ^N and avoid the next hit.
+589	Defeat the Knight of Libra! \rPound Knight %d / 1 \rWhen the triangular magic circle starts, the 3 people who carry the colors red, green and gold, must ^FFCC00 to stay on top of the corresponding color ^N. Thus, Dohko's invincibility will end!
+590	Defeat Poseidon! \rPoseidón %d / 1 \rWith the wrath of the Seven Oceans, Poseidon will attack with all force, only ^FFCC00deviating ^N of his attack will bring the final victory.
+591	Defeat Estrela Celeste Demoníaca! \rGuerreiro das Sombras, Estrela Celeste Demoníaca %d / 1 \rDemony battle can increase sua força, apos invoke Ilusão for 20 seconds, which will disappear for 10 seconds. As não pode atacá-la during this period , will cause great damage, by isso, ^FFCC00 attack to Ilusão do Estrela Celeste Demoníaca ^N immediately
+592	Defeat Basilisk! \ Basilian Basilisk %d / 1 \ Basilisk will summon the beasts to join. After the alliance, it will cause great damage. Attack immediately to the ^FFCC00 Lava Battery ^N and to the ^FFCC00Giant of Ice ^N.
+593	Clique no Baú do Tesouro da Medusa to open or walk to Ilusão
+594	Baú do Tesouro da Medusa %d / 1
+595	Go to the Divine Pillar of the Arctic Ocean! \rDestroy the Malignant Child %d / 4
+596	Go to the Divine Pillar of the Arctic Ocean! \rDestroy the Pirate of Evil %d / 4
+597	Go to the Divine Pillar of the Arctic Ocean \rDestroy General Marina Isaac de Kraken %d / 1
+598	Go to Pilar Divine North Pacific Ocean! \rGeneral Marina Bian Cavalo Marinho %d / 1 \rO Ice God invoked grant Bian a perfect defense against all ^FFCC00derrote damage the God of Ice ^N and perfect defense disappear
+599	Go to Pillar Divine South Pacific Ocean! \rGeneral Marina Io Skilla %d / 1 \rA illusion Skilla causes Io the body can not be defeated, explore the beads to ^FFCC00transformar is = N the corresponding Animal and eliminate the illusion
+600	Go to the Divine Pillar of the Indian Ocean! \rGeneral Marina Crisaor de Krishna %d / 1 \r The divine force allows Crisaor to possess an immortal body. Only when he is inside ^FFCC00Astrolábio ^N is that it will be without the divine force
+601	Go to the Divine Pillar of the Antarctic Ocean! \rRecrown General Marina Kasa of Lymnades %d / 1 \rKasa has a flock of faithful fans! Watch out! Their kiss can make Kasa ^FFCC00recupere HP ^N!
+602	Go to the South Atlantic Pillar! \rBreak the sea witch Surant %d/1\r Surant's flute keeps you in your sleep, the eye of the ^FFCC00 awakening into the ground ^N can avoid you falling asleep
+603	Go to Pilar Divine North Atlantic Ocean! \rExamine suspicion stone on the floor %d / 2
+604	Go to Pilar Divine North Atlantic Ocean! \rDerrote General Marina Kanon Dragon Navy %d / 1 \r ^^FFCC00Dudu nwill be a companion able to help you in this fight
+605	Go to the Temple of Poseidon! \rDestroy the sirens %d / 7 \rThese sirens protect the last barrier of the Temple of Poseidon, you know what to do!
+606	Enter the Temple of Poseidon! \rDerrote the Medusa %d / 1 \ Stopper directly into the eyes of Medusa you turn to stone when she look at you, quickly move back to her FFCC00de ^^N!
+607	Go to the Central Pillar! \rDestroy the Emperor of the Seas, Poseidon %d / 1
+608	The Specter ^ffff00Gerald, the Prisoner Earthstar ^N brought his soldiers to attack the Sanctuary. Everyone must be defeated !!
+609	Gain from the Specter ^ffff00Isolde, the Earth Star of Evil ^N! Defend the Sanctuary!
+610	They have successfully resisted enemies, they are really Knights of Love and Justice!
+611	They have successfully resisted enemies, they are really Knights of the Goddess!
+612	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and Deusa, oil to prova vindo da Caixa Magica de Pandora
+613	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Black Pégasus! \rA Ilusão do Pégasus Negro tem a velocity and attack of Pegasus comuns, ^FFCC00devie-se seus attacks ^N or more rapid possível
+614	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDeerrote or Black Cygnus! \rA Ilusão do Cisne Negro chama- I know if it is the same as the possum or Ar Frio mais poder; não se deixe ser ^FFCC00congelado ^N by ele
+615	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Andrômeda Negro! \rA corrente da Ilusão do Andrômeda Negro and equally powerful. When I click for it, a real ^FFCC00 will transform ^N in small serpentes to attack you
+616	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Dragão Negro! \rA Ilusão do Dragão Negro possu uma força poderosa , ^FFCC00desvie-se ^N of your attacks or more quickly possível!
+617	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Black Star Bosses: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDerrote or Cavaleiro de Bronze, Ikki de Fênix! \rO Coup Fantasma da Fênix da Ilusão da Fênix will invoke illusões do seu próprio corpo to fight against você, mantenha-se firme e ^FFCC00derrote as ilusões ^N!
+618	Through the ^FFCC00Diosa Athena ^N, leave the Illusion of the Pandora's Magic Box
+619	Through ^FFCC00Pandora ^N, leave the Illusion of the Pandora's Magic Box
+620	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Silver Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
+621	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Silver Nebulae ^FFCC005 ^N Boss! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Silver Knight of Centaur! The Illusion of Centaur releases red lotus fire, ^FFCC00save these flames ^N as fast as possible to reduce damage
+622	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Silver Nebula:. ^FFCC005 ^N \ defeated rBosses:! ^FFCC00 %d ^N \rDerrote Whale silver knight \rWhen whale is dying, he will explode in fury, letting all his force go
+623	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Silver Nebula:. ^FFCC005 ^N \ defeated rBosses:! ^FFCC00 %d ^N \rDerrote the Sagita silver knight \rWhen are dying , Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
+624	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Silver Nebula: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Silver Knight of Perseus! Perseus possesses a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
+625	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Silver Nebula:. ^FFCC005 ^N \ defeated rBosses:! ^FFCC00 %d ^N \rDerrote Cefeu \rA illusion Cefeu an impregnable barrier and their watchmen will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
+626	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, proof from the Magic Box of Pandora
+627	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Knight of Pisces! \rBe careful of the Bloody Rose of Pisces, when his teammates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
+628	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Rider of Aquarius! enemies in an ice coffin and only when ^FFCC00 destroy him ^N, it will be possible to leave this prison.
+629	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Golden Galaxy:. ^FFCC005 ^N \ defeated rBosses: ^FFCC00 %d ^N \rDerrote Cancer Gold Knight \ Death rMáscara! will summon zombies to raise the blood as a sacrifice. ^FFCC00Eliminate the zombies ^N as fast as possible
+630	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Golden Galaxy:. ^FFCC005 ^N \ defeated rBosses:! ^FFCC00 %d ^N \rDerrote Capricorn Gold Knight \rCapricórnio invoke Excalibur to recover your own HP. If it does, FFCC00 keep Excalibur away ^N as fast as possible
+631	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Golden Galaxy: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Golden Horseman of Libra! \rWhen the circle triangular magician is started, the 3 people who carry the red, green and gold colors, should ^FFCC00 above the corresponding color ^N. Thus, Dohko's invincibility will end!
+632	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rThis is a bet between Pandora and the Goddess, accepted proof coming from the Magic Box of Pandora
+633	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Star Navy:. ^FFCC005 ^N \ defeated rBosses: ^FFCC00 %d ^N \rDerrote Isaac Kraken \rA attack area ^FFCC00Círculo Frost ^N of Isaac is very powerful, avoiding it is a good option
+634	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss on the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \ Bian Seahorse Warbler \ The God of Ice invoked will grant the Bian a perfect defense against all damage ^FFCC00reject the God of Ice ^N and the perfect defense will disappear
+635	Time to close Dungeon: ^FFCC00 %ds.^N\rTotal of Boss on the Marine Star: ^FFCC005^N!\rBosses defeated: ^FFCC00%d^N\rDerrote o General Marina Kasa de Lymnades!\rKasa tem um bando de fãs fiéis! Cuidado! O beijo delas pode fazer com que Kasa ^FFCC00recupere HP^N!
+636	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal the Star Navy:. ^FFCC005 ^N \ defeated rBosses:! ^FFCC00 %d ^N \rDerrote chrysaor Krishna \rA divine force allows chrysaor having an immortal body. Only inside ^FFCC00Astrolábio ^N will be without the divine force
+637	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Marine Star: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
+638	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal in Hades wormhole:. ^FFCC005 ^N \ defeated rBosses: ^FFCC00 %d ^N \remains is affixed between Pandora and the Goddess accept the proof from the Magic Box of Pandora
+639	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal in Hades wormhole: ^FFCC005 ^N \ defeated rBosses: ^FFCC00 %d ^N \rDerrote Shion Aries illusion \ra! Shion's Crystal Wall is highly lethal, destroy it as quickly as possible and deviate from the next attack
+640	Time to close Dungeon: ^FFCC00 %ds. ^N \rBosses in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Illusion of Alraune's Antecessor! Alraune will summon Demon Flowers. By absorbing strength from these flowers, Alraune will recover a large amount of HP. ^FFCC00Delete the Demon Flowers ^N as fast as possible.
+641	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N \rDestroy the Benu Illusion! heavenly fire, which will render it resistant to all harm; so ^^FFCC00eliminate the fire ^N as quickly as possible
+642	Time to close dungeon: ^FFCC00 %ds ^N \ Boss RTotal in Hades wormhole: ^FFCC005 ^N \ defeated rBosses:! ^FFCC00 %d ^N \rDerrote the predecessor Wyvern \rO's predecessor Wyvern will be invincible under Wyvern status. ^FFCC00Colling Wind Essences ^N spiked by Wyvern can undo such status
+643	Time to close Dungeon: ^FFCC00 %ds. ^N \rTotal of Boss in the Wormhole of Hades: ^FFCC005 ^N! \rBosses defeated: ^FFCC00 %d ^N! The Roses of Nightmare takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
+644	Time to close Dungeon: ^FFCC00 %ds.^N\rrDrooking^FFCC00 5 ^NBosses time restarts!\rBosses defeated in this round: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+645	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Pegasus Illusion! has the usual speed and attack of Pegasus, ^FFCC00see your attacks ^N as soon as possible
+646	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Cygnus Illusion! Black Cygnus Illusion! calls himself the one with the most powerful Diamond Dust; do not let yourself be frozen ^FFCC00 ^N by him
+647	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Black Andromeda Illusion! Black Andromeda is equally powerful. When you get caught by it, the current ^FFCC00 will turn ^N into small snakes to attack you
+648	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Black Dragon Illusion! The illusion of the Black Dragon has a powerful force, FFCC00 to break off his attacks as quickly as possible!
+649	Time to close Dungeon: ^FFCC00 %ds  ^N\rDrocking FFCC00 ^5 ^el tiempo NBosses restart \ en rBosses defeated this round: %d FFCC00 ^^N \r¡Derrote it Ilusión del Saint of Bronze Phoenix! The Phantom Fist of the Phoenix of Ikki's Illusion of Phoenix will invoke illusions of his own body to fight against you, stand firm and FFCC00reject illusions ^N!
+650	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Silver Knight of Centaur! \rCaution! The Illusion of Centaur releases fire from the red lotus, ^FFCC00devote those flames ^N as quickly as possible to reduce damage
+651	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Whale Silver Knight! \rWhen Whale is Dying , he will explode in fury, letting all his force leave ^N
+652	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Silver Knight of Sagita! \rWhen dying, Sagita will release arrows ^FFCC00 in all directions ^N, get away from those incessant flying arrows!
+653	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Silver Knight's Illusion of Perseus! of Perseus has a mighty force, ^FFCC00descend Petrification ^N as soon as possible!
+654	Time to close dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Cefeus Illusion! invincible barrier and their sentries will protect it! Attack the ^FFCC00 Leader of these sentinels ^N and the victory will be yours!
+655	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Pisces! \rBe careful with the Bloody Rose of Pisces, when his group mates are hit by white roses, ^FFCC00 destroy them quickly. Do not let them absorb blood and turn red
+656	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Aquarius He will put his enemies in an icebox, and only when he is destroyed will it be possible to leave that prison.
+657	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDelieve the Illusion of the Golden Knight of Cancer ! The Death Mask will summon zombies to raise the blood as a sacrifice. ^FFCC00Eliminate the zombies ^N as quickly as possible.
+658	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Knight of Capricorn! Excalibur to recover its own HP. If it does, FFCC00 keep Excalibur away ^N as fast as possible
+659	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Golden Horseman of Libra! triangle magic circle is started, the 3 people who carry the red, green, and gold colors, should ^FFCC00 above the corresponding color ^N. Thus, Dohko's invincibility will end!
+660	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDleave the Illusion of the Kraken Isaac! The attack area of ​​the ^FFCC00 Frost Circle ^Isaac is very powerful, avoiding it is a good choice.
+661	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooting ^FFCC00 5 ^NBosses time resets! \rBosses defeated in this round: ^FFCC00 %d ^NDriver Bian of Seahorse \ The God of Ice invoked will grant the Bian a perfect defense against all damage ^FFCC00reject the God of Ice ^N and the perfect defense will disappear
+662	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the illusion of General Marina Kasa of Lymnades! a bunch of loyal fans! Watch out! Their kiss can make Kasa ^FFCC00recupere HP ^N! Do not let them get close to Kasa!
+663	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy Crisaor de Krishna! \rThe Force Divine allows Crisaor to have an immortal body. Only within the ^FFCC00Astrolabio ^N will be without divine force.
+664	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy General Marina of Skilla! so that the body of Io can not be defeated, explore the spheres to transform into the corresponding animal and eliminate the illusion
+665	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Shion Illusion of Aries! The Crystal Wall created by Shion is highly lethal, destroy it as quickly as possible and deviate from the next attack.
+666	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrooking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDrive the Illusion of Alraune's Antecessor! will invoke Demon Flowers. By absorbing strength from these flowers, Alraune will recover a large amount of HP. ^FFCC00Delete the Demon Flowers ^N as fast as possible.
+667	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Bennu Illusion! \rBennu he will invoke the heavenly fire, which will render him resistant to all damages; therefore, ^FFCC00eliminate the fire ^N as quickly as possible.
+668	Time to close Dungeon: ^FFCC00 %ds. ^N \rDroute ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of Wyvern's Antecessor! Wyvern's predecessor will remain invincible under Wyvern status. ^FFCC00 Collecting Wind Essences ^N spits by the Wyvern can undo such status.
+669	Time to close Dungeon: ^FFCC00 %ds. ^N \rDrocking ^FFCC00 5 ^NBosses time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDestroy the Illusion of the Dream God! takes you to a dream; direct the ^FFCC00at the Dream God cone to the roses ^N in order to eliminate them! Whoever carries the Medusa's Shield must stay away from the companions ^N, otherwise he will recreate the Medusa's curse!
+670	Through the ^FFCC00 Goddess Athena ^N out of the Illusion of the Pandora's Box! \r Through ^FFCC00 Pandora ^N out of the Illusion of the Pandora's Box!
+671	Tempo to date Dungeon: ^FFCC00 %ds. ^N \rDerrotando ^FFCC00 5 ^NBosses or tempo restarts! \rBosses defeated n this shot: ^FFCC00 %d ^N \rDerrote to Ilusão do Cavaleiro de Ouro de Peixes! \rTake care com to Rosa Sangrenta de Peixes, when there are teammates of equip forem hit by roses brancas, ^FFCC00destrua-as ^N quickly. Do not say that they absorb blood and they become vermelhas
+672	Time to enclose Dungeon: ^FFCC00 %ds. ^N \rDriving ^FFCC00 5 ^NBosses the time restarts! \rBosses defeated in this round: ^FFCC00 %d ^N \rDerrote the Illusion of the Golden Knight of Aquarius ! \rAquario will put the player in an ice box and only ^FFCC00rom the ice box ^N as fast as possible will guarantee the departure of the group.
+673	Tempo to date Dungeon: ^FFCC00 %ds. ^N \rDerrotando ^FFCC00 5 ^NBosses or tempo reboots! \rBosses defeated nesta rolled: ^FFCC00 %d ^N \rDerrote to Ilusão do Cavaleiro de Ouro de Libra! \rWhen or magical triangular circle for initiated, as 3 pessoas that carregam a cor vermelha, green e dourada, respectively, devem ^FFCC00ficar em cima da cor corresponding ^N. The invincibility of Dohko will end!
+674	Through the FFCC00 Deusa Athena ^N sir da Ilusão da Caixa de Pandora! \rThrough ^FFCC00 Pandora ^N sair da Ilusão da Caixa de Pandora! \rActivities do ^FFCC00 Obelisco ^N receber prêmio!
+675	Via ^FFCC00 Som do Teletransporte ^N, select to open or the corresponding road number. \rDrotate ^FFCC00 20 ^N Bosses to open to 5th round! \rDrotate ^FFCC00 40 ^N Bosses to open to 9th round! \rDrotate ^FFCC00 60 ^N Bosses to open to 13th round! \rDrotate ^FFCC00 80 ^N bosses to open to 17th round!
+676	Start Challenge
+677	Defeat the largest number of enemies before the end of the countdown! By giving the full final blow to the enemies, you will get extra Large Gold Box! \rThe Sacred can eliminate the enemy's Protection Shield, use it with caution. \rTime remaining: ^FFCC00 %d seconds ^N \rEnemie defeated %d / 600
+678	Finished Challenge
+679	Talk to the Thief
+680	Defeat the maximum number of enemies before time runs out! \rRemaining time: ^FFCC00 %ds ^N \rEnemies defeated %d / 40
+681	Challenge completed, can you know?
+682	Go to Casa de Áries! \rDerrotar Deus · Cavaleiro de Ouro de Áries · Mu \rNão has not managed to survive the Star Extinction of Mu, unless the ffcc00 is hidden inside Cristal de Proteção ^N \r ^ffcc00O Campo de Força do Relâmpago eo Mysterious Crystal ^N invoked by Mu, through Poder dos Céus, we can not be underestimated. Explosion of Campo de Força do Relâmpago causes ^ffcc00 impressing damage ^No Mystery Crystal can be cured by Áries ^N. When they appear, they destroy them immediately.
+683	Go to the House of Taurus!
+684	Rescue Seiya \rO ^ffcc00Great Horn ^N of the Taurus Illusion can free Seiya from the moorings \rSeiya can help them ffccccbreak the Illusion ^N
+685	Defeating God · Bullfighter's Golden Knight · Aldebaran \rAldebaran has two postures: in the attack posture ^N, his attack increases immensely; in the defense field, his defense becomes invulnerable. Each time he changes his posture, Aldebaran can fire his final technique and summon the Taurus ^Nf. The Rune gives Taurus an overwhelming power, eliminate them as quickly as possible
+686	Go to the House of Taurus!
+687	Defeat Gemini clone Gemini Symbiosis ^N, the two personalities together become even more powerful, separate them and attack them one at a time ^N \rIf you are hit by the ffcc00 Deprivation of the 5 Senses ^N, go to the Bright Circle ^N invoked by the personality of the good and may be able to get rid of the ^N curse, but do not stay within the circle for long
+688	Defeating God · Golden Knight of Gemini · Saga \rThe Black Hole can summon from the Other Dimension the Spirits of the Knights, who will come to help Saga in battle. After the black hole appears, the bombs are destroyed immediately.
+689	Advance in the dungeon!
+690	Go to the House of Cancer! Death Mask can summon the mighty Waves of Hell. Please, Knights, look for the most prudent place to hide.
+691	Go to the Lion House! \r While Lion is aware, his defense is very strong, but when he becomes unconscious, it may be the best time to attack
+692	Go to the Virgin's House! The Virgo's salvation can defend some of the damage caused by the Buddha's Palm, but each salvation only works for one person. When the companions are struck by the Invocation of Spirits, Andromeda needs to help eliminate the control. When the Hungry Ghosts appear, eliminate them quickly.
+693	Go to the House of Libra!
+694	Go to the Houses of Libra! \rDohko threw the Magic Circle of the Dragon Hidden by the Mist, the Knights who were hit will be immobilized! \rPlease, Knights, immediately kill the Dragon hidden by the haze! \rAttention: Only killing the big dragon to prevent the Magic Circle
+695	Go to the House of Scorpio!
+696	Go to the House of Scorpio! \rMiro prepared a toxic charade \rObserve the six cavities! \r Five poisons, an antidote! \rThe fate of every group depends on your idea!
+697	Go to the Sagittarius House!
+698	Go to the House of Sagittarius! \rDeus · Golden Glory of Aiolia will bring infinite damage! \rThe Goddess Shelter will save your life \rDon't forget: do not leave the boundaries of the Shelter! Otherwise the Gods will not be able to help it!
+699	Congratulations! Advanced in the dungeon!
+700	Next to the House of Pisces
+701	Advance to the House of Pisces \rTo avoid the white rose of blood that Aphrodite invoked! [BERAK] When your ally is immobilized by the white rose, turn the white rose, your time is limited! When the companion is fixed by the white rose, turn the white rose, your time is limited \rNote: The black rose behind the Boss will continue to summon the red rose.
+702	Next to the House of Aquarius
+703	Go to the House of Aquarius! \rCamus can cause 8 seconds of damage and freeze! \rLead around! The target can be immune to slowness!
+704	Go to the House of Capricorn!
+705	Go to the House of Capricorn! \rShura will cause disastrous damage! \rRemember: do not step on the golden area
+706	Aries
+707	Taurus
+708	Gemini
+709	Cancer
+710	Leo
+711	Virgo
+712	Pound
+713	Scorpio
+714	Sagittarius
+715	Capricorn
+716	Aquarius
+717	Pisces
+718	^ffff00Guardian of %s %s
+719	^ffffffInvoke your Constellation Guardian. Click on the image of the Guardian to receive the protection \r30 min. of buff. Group partners can also touch it. \rYou can only be invoked in Dungeon.
+720	^00ff00Atake + %d
+721	Luck: %d
+722	☆
+723	★
+724	You are not in the group and you will leave the Dungeon after ^ff0000 %s ^N \rA summary of the Dungeon will appear after ^ff0000 %s ^N
+725	Victory! It will leave the Dungeon after ^ff0000 %s ^N \rSummary of the Dungeon will appear after ^ff0000 %s ^N
+726	Failed It will leave the Dungeon after ^ff0000 %s ^N \rSummary of the Dungeon will appear after ^ff0000 %s ^N
+727	The Dungeon will close. You will leave the Dungeon after ^ff0000 %s ^N \rA summary of the Dungeon will appear after ^ff0000 %s ^N
+728	You are not in Raide and you will leave the Dungeon after ^ff0000 %s ^N \rA summary of the Dungeon will appear after ^ff0000 %s ^N
+729	Some members do not agree with the requirements. Including level, limitation of members, item for entry, etc.
+730	%s has created a Dungeon, do you want to enter?
+731	There are members of your group who are not in the vicinity; this prevents the activation of the Dungeon. Do you want to send them a notification?
+732	%s want to activate the Dungeon [ %s], but it failed because you are far away. Do you want to go immediately to the meeting place: [ %s]?
+733	Prize
+734	Dungeon created successfully
+735	O limit of Dungeons raised not served foi atingido
+736	Essa Dungeon allows you to single entry
+737	Essa Dungeon allows you to enter the Group
+738	Failure in the Dungeon
+739	%s could not enter the Dungeon in the current status
+740	The %s LV does not meet the requirements of the Dungeon
+741	The %s daily entry number in this Dungeon has been exhausted
+742	The weekly entry number of %s in this Dungeon has been exhausted
+743	Missing item for %s enter this Dungeon
+744	Reputation of %s is insufficient to enter this Dungeon
+745	Missing BUFF for %s entering nessa Dungeon
+746	I can not enter, I do not know how to walk in such a Dungeon
+747	This Dungeon requires everyone to belong to the same Army
+748	%s is not on the same realm
+749	Fail to create Dungeon
+750	It is necessary to create group to activate this Dungeon
+751	This Dungeon must be activated by the Leader
+752	The number of people in the group is insufficient to activate the Dungeon
+753	To activate the Dungeon, it is necessary that everyone be together
+754	The number of people to form the group in the surroundings is less than the required
+755	The group already has a Dungeon at the moment, wait a while
+756	At the moment, you're still in a Dungeon, wait 1min
+757	Non-existent Dungeon
+758	The Dungeon is not yet activated
+759	Dungeon has not yet been activated, was not found or server enabled
+760	Dungeoneering operations must be realized in the Great World
+761	Surprising time in creating Dungeon
+762	Required to meet the prerequisites
+763	Entry only in Raid
+764	Activated only by the Leader
+765	Does not allow activation by Raid
+766	Invalid Raid information
+767	Raid Group or Reputation does not correspond
+768	This Dungeon has ended, entry is not allowed
+769	Army Leader needs to participate
+770	Army Reputation does not correspond
+771	Individual power surpasses the requirement of the Dungeon
+772	Individual power does not meet the requirement of the Dungeon
+773	You can not enter the Dungeon in your current status
+774	Your LV does not meet the requirement of the Dungeon
+775	Your daily entry number in this Dungeon has sold out
+776	Your weekly entry number in this Dungeon has sold out
+777	Missing item to enter this Dungeon
+778	Your Reputation is not enough for you to enter this Dungeon
+779	Missing BUFF to enter in this Dungeon
+780	You are not on the same realm.
+781	The Possum group Dungeon currently activated
+782	The time of entry in the dungeon has run out
+783	%s updated to Dungeon where the Group is
+784	Phase %d
+785	^00ff00Power Required: %d
+786	^ff0000Power Required: %d
+787	I never challenge
+788	Phase %d ( %s)
+789	Phase %d, challenged with success
+790	After  %ds., Enter next phase automatically
+791	Exit gives area of challenges after %ds.
+792	To succeed it is necessary to accumulate points: %d / %d
+793	To succeed, it is necessary to defeat: %s
+794	Many Players is participating in the Individual Challenge, try again later
+795	It was not met or Individual Challenge
+796	Failed to initiate Dungeon of Individual Challenge
+797	You just made a challenge., wait for a tempo
+798	Your power and insufficient, to participate in a hastily challenge is very dangerous. Practice first to then to enter in one!
+799	Player ${name} is below level 30
+800	players ${name} is below level 25
+801	level is lower than level 25
+802	player ${name} is below level 20
+803	level is below level 20
+804	Player ${name} is below level 15
+805	level is below level 15
+806	Player ${name} is below level 35
+807	level is below level 35
+808	Player ${name} is below level 45
+809	level is lower than level 45
+810	Player ${name} is below level 55
+811	level is below level 55
+812	Player ${name} is below level 68
+813	level below level 68
+814	Player ${name} has been exhausted for [Hero] copy or hero is less than 30 points
+815	The number of copies of [Hero] has been exhausted or the hero is less than 30 points.
+816	Player ${name} is below level 100
+817	Collection of ice crystals ^00ffff%d / 120^N\r Tips: Collect ice crystals by ^ffff00^N or ^ffff00 to crush the ice on the teammates ^N get ^ffff00【The true essence of strokes】^N\r^ Ffff00 attention ^N avoiding frost bombs
+818	Open battle with mysterious mooncake conversation
+819	Defeat the dream god! \rDream god %d/1\r Please try to increase the ^FFCC00 health of the player who has the "Enter Nightmare" status. ^N\r When a teammate becomes a "dream shadow", then he only has Wait a minute.\r Please try to bring the dream FFCC00 fan attack to the nightmare rose ^N to eliminate the rose.
+820	Go to the Indian Ocean Pillar! \rBreak the sea emperor Ke Xiula%d/1\r God's power to let Ke Xiula have an undead body, only to pull it into the ^FFCC00 prajna star ^N, in order to break the magic blessing, please pay attention to Tianlei
+821	Go to the South Ice God Tower! \rBeat the sea general sea monster Casa %d/1\r Casa has a batch of diehard sea monster powder, pay attention! The Kraken kiss can make Casa ^FFCC00 recover life ^N!
+822	Go to the South Atlantic Pillar! \rBreak the sea witch Surant %d/1\r Surant's flute keeps you in your sleep, ^FFCC00 awakening eyes into the ground ^N tingling can avoid you falling asleep
+823	Go to the North Atlantic Pillar! \rBreak the sea dragon Galleon %d/1\r^FFCC00 Beans ^N is a small partner that can help you fight, they are pressed under the stone of the road. Crush all the stones, the more the better!

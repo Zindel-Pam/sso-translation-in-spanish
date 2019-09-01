@@ -1,0 +1,2111 @@
+0	Despise
+1	Laughs
+2	Haha
+3	Send a kiss
+4	Force
+5	Give your best
+6	Cry
+7	Crying to tears
+8	Clap
+9	Clap clap
+10	Bravo
+11	Furious
+12	I'm angry
+13	Sleeping
+14	Being sleepy
+15	Good evening
+16	No
+17	I do not want
+18	No!
+19	Do not do that
+20	I do not
+21	It is not
+22	Stay dizzy and faint
+23	Fainting
+24	I fainted
+25	See you later
+26	Bye bye
+27	Sit
+28	Read
+29	Read a book
+30	He was attacked so hard that he flew
+31	He was hit with such force that he flew
+32	Exploit
+33	Run
+34	Running
+35	Run
+36	Give lashes
+37	Azotarte
+38	Dizziness
+39	Kick
+40	Kick you
+41	Give yourself a kick
+42	Street dance
+43	Hurricane Leg
+44	Exclamation of Athena 1
+45	Exclamation of Athena 2
+46	Exclamation of Athena 3
+47	Deadly Leap
+48	Died and fell
+49	Died
+50	Kneel
+51	Revere kneeling
+52	Dying of fear
+53	Resist
+54	Win a little kiss
+55	:%)
+56	Making love \r (used by the one who hugs)
+57	Making love
+58	Kiss
+59	Resist \r (used by the target)
+60	I do not want!
+61	Reborn Radio
+62	Invalid command
+63	^fff600 "Battle of the Gods" Universe Competition When the time comes for the competition, you can use the Ticket to enter the field. \rEach team can have a maximum of 18 participants
+64	↑
+65	↓
+66	Others
+67	Temporarily without
+68	The new Holy War is about to arrive and only qualified warriors can become Protective Knights of the Goddess. Players of level 40 or higher, fight!
+69	Specification:
+70	Reput. max .:
+71	Guide:
+72	After gaining the reputation of the battlefield you can go to ${pos (351, 333, 337, 20, 'Sherlock')} change prizes.
+73	Battle Reputation
+74	${name} earned: ${point}
+75	${name} consumed: ${point}
+76	Dismount to receber 10 de exp
+77	Sagittarius
+78	Leo
+79	Gemini
+80	Aquarius
+81	Libra
+82	Aries
+83	Scorpio
+84	Capricorn
+85	Pisces
+86	Wyvern
+87	Garuda
+88	Harpia
+89	Acheron
+90	Alraune
+91	Basilisk
+92	Minotaur
+93	★ Sacred
+94	Type 0
+95	Type of Energy
+96	Type of HP
+97	Type of Defense
+98	Type of Attack
+99	Type of Survival
+100	Type of Protection
+101	Element Type
+102	Type 8
+103	Type 9
+104	Level 1
+105	Level 2
+106	Level 3
+107	Level 4
+108	Level 5
+109	Level 6
+110	Level 7
+111	Level 8
+112	Level 9
+113	Level 10
+114	Announcement (System)
+115	Invincible ON / OFF
+116	ON / OFF Invisible
+117	Bring player
+118	Go to the player's side
+119	Block / Unblock chat
+120	Block / Unblock login
+121	Teleport
+122	Regeneration
+123	Toughness
+124	Tough
+125	Holy Blessing
+126	Vibrant
+127	Divine Power
+128	Energy
+129	Holy gift
+130	Courage universe
+131	Holy Wings
+132	Eternal
+133	Divine Power
+134	Impact
+135	Divine Power
+136	Vast universe
+137	Holy Strike
+138	Black Hole
+139	Holy Spirit
+140	Bronze
+141	Silver
+142	Gold
+143	Divine
+144	General
+145	Individual
+146	Today
+147	Level
+148	My rank:
+149	Sign
+150	Level
+151	Players receive the titles: \r1º place: Champion \r2º - 3rd places: Last to lose \r4º - 10th places: Penultimate to lose
+152	Wealth
+153	Wealth (Gold)
+154	Players receive the titles: \r1º place: Rico del Mundo \r2º - 3rd places: Rico del País \r4º - 10º places: Rico de la Ciudad
+155	Investor of the week
+156	Recharge (Star)
+157	Within this week (Monday to Sunday) the cumulative charge ranking of all the players, only to recharge above 10000 Star is going to the list this list will be updated once each day at 00:00, and the amount This day's top-up will be posted every day, at 00:00, the data in this list will be recorded in the benefit reputation list of the previous week, and this week's data will be deleted.
+158	Weekly inverter
+159	This Sunday, at 00:00 hours, the recharge data accumulated from last week of all the players will be counted and closed \r is ready as a base, after Tuesday's maintenance, will be awarded to the player, who obtained the first place (for loads above 10000 Star), the Fashion of the Wings of Special Effect of the Black Pearl for a period of 1 week. \rAfter Tuesday's maintenance, the Priestly Zone of the Sanctuary will raise a statue for the player of the first place of that week and, in his name, will grant the benefit for the players of that server!
+160	Achievements
+161	Points
+162	The players receive the titles: \r1º place: Perfectionist \r2º - 3rd places: Extraordinary \r4º - 10º places: Notáble
+163	Expertise
+164	Expertise
+165	Star Epic
+166	Number of litters
+167	Player obtained the title of Incarnation of the God of War. If in the list of individual Star Epic rankings, he won the first place in the ranking of the Star of War. If in the ranking list of individual Star Epics, he obtained 2 ° -3 ° places. Semillador de la Gloria Militar. If in the ranking list of individual Star Epics, obtained from the 4th to the 10th place
+168	Roses
+169	Every month the general list will be updated and, on day 01 of each time, the list will be deleted. At the same time, the titles of last month's ranking list will be awarded. \rThe players receive the titles: \r1 ° place: Dazzling Beauty \r2 ° place: Beleza Florescente \r3 place: Beleza Brillante \r4º - 10º places: Beleza Encantadora
+170	Total power
+171	Power
+172	Players receive the titles: \r1º place: Emperador \r2º - 5th places: Rey \r6º -20º places: Prince
+173	Cosmo
+174	Players receive the titles: \r1º place: Campo Divino \r2º - 3rd places: Heart of the Cosmo \r4º - 10º places: Arayashiki
+175	Armor
+176	Players receive the titles: \r1º place: Assassin \r2º - 3rd places: Annihilator \r4º - 10th places: Hero
+177	Accessory
+178	The players receive the titles: \r1º place: Symbolic Plaque of the God of the Assassin \r2º - 3rd places: Symbolic Plaque of Matanza \r4º - 10º places: Symbolic Plate of the Hero
+179	Equipment
+180	The players receive the titles: \r1º place: Covenant of the God of the Assassin \r2º - 3rd places: Pact of Matanza \r4º - 10º places: Pact of Hero
+181	Squire
+182	Level of Ruins of Mars
+183	Level
+184	Power of Competition
+185	Weekly activity
+186	Activities
+187	Players receive the titles: \r1º place: Presbíterio \r2º - 10º places: Corazón del Cosmo \r11º - 100º places: Priest \r101º - 200º place: Apprentice
+188	List of fresh flowers of the Day of the Singles
+189	Level
+190	My army:
+191	Level
+192	Power
+193	Power Statistics
+194	The Army's Fighting Power will become the sum of the highest Fighting Power in the history of the Army, of the 60 players with the highest Fighting Power in the history of the Army. The first two Armies with the greatest Fighting Power they can not make alliances with others
+195	General Army
+196	Activity
+197	Looting War
+198	My army:
+199	Total Wars
+200	Victories
+201	Looting Wealth
+202	Fighting Spirit
+203	Activity
+204	Heads of the army obtain the titles: Medal of the Epic Divine Army. If it obtained the 1st Place in the ranking list of the Degree of Weekly Activity of the Gold Army obtained: 144000000 Medal of contribution obtained: 25Medal of the Lendário Army. If he obtained the 2nd place in the list of the rank of Weekly Activity Level of the Gold Army obtained: 12800000 Medal of Contribution obtained: 20 Medal of the Supreme Army. If it obtained the 3rd place in the list of the ranking of the Weekly Activity Level of the Gold Army Obtained: 12800000 Medal of Contribution obtained: 15 Medal of the Magnificent Army. If it obtained 4 ° -10 ° place in the list of the rank of the Weekly Activity of the obtained army Gold: 9600000 Medal of Contribution obtained: 10 Medal of the Glowing army. If it obtained from 21 ° -30 ° place in the list of the ranking of the Weekly Activity Level of the Bright Army. If he obtained from 31st -41st place in the list of the Weekly Activity Level of the Moralizing Army If he obtained from 41st -51st place in the ranking list of the Weekly Gold Army Activity Level obtained: 1600000
+205	Multi-server
+206	After the Qualification to participate in the Multi-Server Dispute, the statistic deadline is August 1, please visit the Official Page to confirm.
+207	Army Wealth
+208	Alliances
+209	Domains
+210	Wealth
+211	Multiserver Competition
+212	The players in the first 30 places will obtain the qualification of Captain multiservidor, being able to lead the group to participate in the inscription of the multi-server competition
+213	Power
+214	Inverter
+215	Recharge
+216	The cumulative recharge ranking of all the players of that week (from Monday to Sunday). \rAll Sundays, at 00:00 hours, the data in this list will be recorded in the benefit reputation list of the previous week and the data for that week will be cleaned.
+217	Roses received
+218	Roses Shipping
+219	The qualification statistics to participate in the Multi-Server Dispute is about to be counted. Please visit the official page to confirm
+220	Roses
+221	In the 24 hours of the last day of that month, the dice of this month of all the players will be counted taking this list as base \rMartes of the first week of the next month, after the maintenance, will be granted to the player the title of Fresh Flower
+222	Null
+223	LV
+224	Person
+225	One Hundred Million
+226	Ten thousand
+227	pts.
+228	a.
+229	x
+230	^ff0000 award guidelines have not yet been determined ^ffffff currently, the content of the improvement is being adjusted.
+231	World
+232	Character
+233	Battle
+234	Imposing and solemn, that is the main meeting place of the Knights. In the center are distributed some organizations that are related to the Sanctuary.
+235	Location:
+236	How to obtain:
+237	SancTuary
+238	Main quests
+239	When the reputation reaches a certain level, you can buy items with ${pos (-234,351,311.2, 'Vicente')}
+240	A construction of the Grand Foundation, one of the largest companies in the world. It was created for the completion of the Galactic Tournament.
+241	Coliseum Grand
+242	When the reputation reaches a certain level, you can buy items with ${pos (443,317,209,20, 'Imai Sokyu')}
+243	The place where Shiryu, Shunrei and the Elder Master live together. Place of the Five Ancient Peaks, still retains the characteristics of the houses of Ancient China.
+244	Rozan
+245	When the reputation reaches a certain level, you can buy items with ${pos (-228,319, -116.3, 'Richard')}
+246	The place where Aioros was killed by Shura while saving the baby Athena. It is also the only road that leads to the Mansion of the Solo family.
+247	Forgotten Road
+248	When the reputation reaches a certain level, you can buy items with ${pos (0.308, -165.5, 'Glicerio')}
+249	Like its name, this island is a cruel place. Known as "Hell on Earth", it is the base of the Black Knights and where Ikki received his training to become the Phoenix Knight.
+250	Island of the Queen Death
+251	When the reputation reaches a certain level, you can buy items with ${pos (-133,365, -143,6, 'Zigurat')}
+252	A vast continent covered with layers of ice millennia ago. The Cygnus Armor is buried in the depths of its Eternal Ice Wall. This is where Camus trained Hyoga and Isaak.
+253	Eastern Siberia
+254	When the reputation reaches a certain level, you can buy items with ${pos (-235,297,336.7, 'Alisha')}
+255	The underwater fortress of the King of the Seas, Poseidon, supported by the Seven Pillars of the Ocean. It was sunk in the first Holy War by the Knights of Athena.
+256	Atlantis
+257	When the reputation reaches a certain level, you can buy items with ${pos (-316,357, -100,8, 'Gibel')}
+258	The place where Shun trained and, through the Ceremony of Sacrifice, obtained the Andromeda Armor. There vegetation is scarce, the environment is poor and the temperature variation between day and night is very high.
+259	Andromeda Island
+260	When the reputation reaches a certain level, you can buy items with ${pos (-319,316, -144.9, 'Avdol')}
+261	Pandora's native land, originally calm and peaceful. When the soul of Hades was reborn, all life forms around were extinguished. He is currently involved in a Hades enchantment.
+262	Fortín de Heinstein
+263	When the reputation reaches a certain level, you can buy items with ${pos (144,299,329.10, 'Kleindienst')}
+264	Amazona de Aquila and Maestra de Seiya de Pegasus. Her perception is extraordinary and she is one of the most excellent warriors, with a calm and serene personality.
+265	Single Room:
+266	Flash of the Eagle
+267	When the reputation reaches a certain level, you can buy items with ${pos (463,317,182.20, 'Delilah')}
+268	Amazona de Ophiuco and Cassios teacher. Hide a beautiful and angelic face behind his mask, despite his aggressive and imposing attitude.
+269	​​Thunder Claws
+270	When the reputation reaches a certain level, you can buy items with ${pos (463,317,182.20, 'Delilah')}
+271	The Knight of Aries has a very strong telekinesis, and he is also one of the only people capable of repairing Armor. He has abundant justice and wisdom.
+272	Star Extinction
+273	When the reputation reaches a certain level, you can buy items with ${pos (464,318,162.20, 'Horácio')}
+274	Knight who protects the House of Taurus, known as "Golden Taurus". Despite his giant physical bearing and his very strong defense, his agility is not affected.
+275	Great Horn
+276	When the reputation reaches a certain level, you can buy items with ${pos (464,318,158.20, 'Golias')}
+277	Knight who protects the House of Gemini. He has a double personality, varying between good and evil - which led him to assassinate the Grand Master and act in his place.
+278	Imperial Satan
+279	When the reputation reaches a certain level, you can buy items with ${pos (464,318,154.20, 'Griveous')}
+280	Knight who protects the House of Cancer. He is extremely sadistic and violent, believes that sacrifices are inevitable for a greater purpose.
+281	Hell Waves
+282	When the reputation reaches a certain level, you can buy items with ${pos (464,318,150.20, 'Agaris')}
+283	Knight who protects Leo's House, also called "Leo Dorado". He is known for his firmness and bravery, and is extremely fair and courageous.
+284	Lightning Plasma
+285	Knight who protects the House of Virgo. He is the reincarnation of Buddha and is known as "The man closest to God."
+286	Treasure of Heaven
+287	Knight of Libra. He received the order of Athena to watch the seal of the 108 Hades Specters and for years in a row he sat in the Five Ancient Peaks of Rozan to protect him.
+288	One hundred Rozan Dragons
+289	The Scorpio Knight is the second youngest among the Golden Knights. He is very calm and controlled in battle, despite his passionate personality.
+290	Scarlet Needle
+291	Old Knight of Sagittarius and older brother of the Knight of Leo, Aiolia. His heroic, honest and willing figure was respected by all.
+292	Golden Arrow
+293	Capricorn Knight. It was who left Aioros on the verge of death during his escape with Athena thirteen years ago. It has the title of "the most loyal Knight".
+294	Excalibur Sword
+295	Knight who protects the House of Aquarius. It is cold, prudent and determined. It has the title of "The Ice Wizard". His behavior is controlled, honest and has a genuine courage.
+296	Aurora execution
+297	Pisces Knight. It is said that there is no one more beautiful among the 88 Knights, it has the title of "Warrior whose brightness of beauty competes with the Sun and the Moon".
+298	Royal Diabolic Roses
+299	Light of Faith can be obtained through certain items obtained in the dungeons and used to exchange for Beads.
+300	Use:
+301	NPC:
+302	Buy Beads
+303	When the reputation reaches a certain level, you can buy rosaries with ${pos (403,317,179.20, 'Severe')}
+304	After the Light Ray Index of the Sign reaches a certain degree of Luminosity, it can invoke the Altair Squire or Vega Squire to aid in the battles.
+305	Daily Quest:
+306	You can buy with ${pos (310,317,179.20, 'Intendente de Squire')}
+307	Favor Points can be obtained in Disciple Mode for players above level 60 and used to exchange for different items.
+308	Buy favor package
+309	The gift package can be purchased in the ${pos (365,317,172.20, 'Favor Store')}
+310	Weekly the Goddess gives 105 Ares Points to the Knights. Points can be used to participate in some activities and access quests from the battlefield.
+311	Update:
+312	Every Saturday at 06:00
+313	Ares Points can be used with ${pos (222,317,238.20, 'Amanda')}
+314	When you step up in [Dungeon] Seven Pillars of Ocean I, [Dungeon] Seven Pillars of Ocean II and in [Heroic] in the dungeon, in difficult mode, you can get Hero Points.
+315	Releases in:
+316	Level 80
+317	When you reach a certain level, you can participate in the dungeon corresponding to [Heroic]
+318	By using the Blessing of the Goddess, you can get your reputation.
+319	You can change with ${pos (364,317,190.20, 'Cristina')}
+320	Guardianship Award; When the Apprentice graduates, you can receive your prize with the NPC.
+321	Can be changed with ${npc(34576)}
+322	Romance Points are specific reputation awards for players who are husband and wife. They can be accumulated through daily Quests. If they divorce, the points are deleted, but the titles are not.
+323	The specific title of husband and wife can be changed with ${npc(38333)}
+324	Area governed by Hades where people go to die. In addition to the Wailing Wall, there is the road to the Champs Elysees. To enter the World of the Dead alive, it is necessary to awaken the 8th Sense.
+325	Underworld
+326	When the reputation reaches a certain level, you can buy items with ${pos (-93.74,271.53, -785.2,11, 'Greed')}
+327	The paradise of the World of the Dead where only the chosen people can enter. It is a place free from all sufferings and sorrows. The real body of Hades is kept in this place.
+328	Champs Elysees
+329	When the reputation reaches a certain level, you can change titles with ${pos (-172,343,279.2, 'Gilgamesh')}
+330	Golden Knight
+331	Silver Knight
+332	Zone
+333	Individual
+334	Reputation of ${name} earned: ${point} points
+335	Reputation of ${name} lost: ${point} points
+336	Earned ${name} ${point / 100} points
+337	Production consumed ${name} ${point / 100} points
+338	Update the narrative <The Knights of the Goddess> consumed ${point} points of the daily update amount
+339	Today you can still receive the Quest <Destiny Challenge> ${total} times
+340	${name} consumed: ${point}
+341	Today you can still receive the quest <Way of the Saints> ${50-total} times
+342	Update the narrative <Knights of the Goddess> consumed ${point} points of the target's update amount
+343	Get ${point} cumulative recharge points
+344	Consume ${point} cumulative recharge points
+345	${name} of the Army increased by ${point} pts.
+346	${name} of the Army reduced by ${point} pts.
+347	Air element damage bonus %d%%
+348	Fire element damage bonus %d%%
+349	Water element damage bonus %d%%
+350	Earth element damage bonus %d%%
+351	Thunder element damage bonus %d%%
+352	Light element damage bonus %d%%
+353	^ff0000LV5 there is a higher bonus ^f2f3f2
+354	^ff0000LV11 changes to Silver ^f2f3f2
+355	^ff0000LV17 changes to Gold ^f2f3f2
+356	^ff0000LV33 there is a higher bonus ^f2f3f2
+357	^ff0000LV40 changes to Divine ^f2f3f2
+358	^ff0000LV48 reaches the final Divine ^f2f3f2
+359	^ff0000LV11 there is a bigger bonus ^f2f3f2
+360	^ff0000LV17 there is a higher bonus ^f2f3f2
+361	^ff0000LV24 there is a bigger bonus ^f2f3f2
+362	^ff0000LV40 there is a greater bonus ^f2f3f2
+363	^ff0000LV20 receives Divine Wings ^f2f3f2
+364	^ff0000LV34 there is a bigger bonus ^f2f3f2
+365	^ff0000LV48 there is a bigger bonus ^f2f3f2
+366	• King's Mark (Resistance to Earth): \rJupiter + Venus + Sun + Moon + Uranus \rJupiter + Venus + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rJupiter + Venus + Sun + Moon + Neptune \rJupiter + Venus + Moon + Uranus + Neptune \r • Phoenix Brand (Resistance to Fire): \rJupiter + Venus + Sun + Moon + Pluto \rJupiter + Venus + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rJupiter + Venus + Sun + Uranus + Neptune \rJupiter + Venus + Moon + Neptune + Pluto \r • Mark of the Titan (Thunder Resistance): \rJupiter + Venus + Sun + Uranus + Pluto \rJupiter + Venus + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rJupiter + Venus + Sun + Moon + Polaris \rJupiter + Venus + Sun + Uranus + Polaris
+367	• King's Mark (Resistance to Earth): \rMercury + Jupiter + Sun + Moon + Uranus \rMercury + Jupiter + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rMercury + Jupiter + Sun + Moon + Neptune \rMercury + Jupiter + Moon + Uranus + Neptune \r • Phoenix Brand (Resistance to Fire): \rMercury + Jupiter + Sun + Moon + Pluto \rMercury + Jupiter + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rMercury + Jupiter + Sun + Uranus + Neptune \rMercury + Jupiter + Moon + Neptune + Pluto \r • Titan Mark (Thunder Resistance): \rMercury + Jupiter + Sun + Uranus + Pluto \rMercury + Jupiter + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rMercury + Jupiter + Sun + Moon + Polaris \rMercury + Jupiter + Sun + Uranus + Polaris
+368	• King's Mark (Earth Resistance): \rSaturn + Mercury + Sun + Moon + Uranus \rSaturn + Mercury + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \r Saturn + Mercury + Sun + Moon + Neptune \rSaturn + Mercury + Moon + Uranus + Neptune \r • Phoenix Brand (Fire Resistance): \rSatur + Mercury + Sun + Moon + Pluto \rSatur + Mercury + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rSaturn + Mercury + Sun + Uranus + Neptune \rSaturno + Mercury + Moon + Neptune + Pluto \r • Titan Mark (Thunder Resistance): \rSaturn + Mercury + Sun + Uranus + Pluto Saturn + Mercury + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \ Saturn + Mercury + Sun + Moon + Polaris \ Saturn + Mercury + Sun + Uranus + Polaris
+369	• King's Mark (Resistance to Earth): \rVenus + Mars + Sun + Moon + Uranus \rVenus + Mars + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rVenus + Mars + Sun + Moon + Neptune \rVenus + Mars + Moon + Uranus + Neptune \r • Phoenix Brand (Fire Resistance): \rVenus + Mars + Sun + Moon + Pluto \rVenus + Mars + Moon + Uranus + Pluto \r • Brand of Pegasus (Wind Resistance): \rVenus + Mars + Sun + Uranus + Neptune \rVenus + Mars + Moon + Neptune + Pluto \r • Mark of the Titan (Thunder Resistance): \rVenus + Mars + Sun + Uranus + Pluto \rVenus + Mars + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rVenus + Mars + Sun + Moon + Polaris \rVenus + Mars + Sun + Uranus + Polaris
+370	• King's Mark (Resistance to Earth): \rMarte + Saturn + Sun + Moon + Uranus \rMarte + Saturn + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rMarte + Saturn + Sun + Moon + Neptune \rMarte + Saturn + Moon + Uranus + Neptune \r • Phoenix Brand (Fire Resistance): \rMarta + Saturn + Sun + Moon + Pluto \rMarte + Saturn + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rMarte + Saturn + Sun + Uranus + Neptune \rMarte + Saturn + Moon + Neptune + Pluto \r • Mark of the Titan (Thunder Resistance) \rMarte + Saturn + Sun + Uranus + Pluto \rMarte + Saturn + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rMarta + Saturn + Sun + Moon + Polaris \rMarte + Saturn + Sun + Uranus + Polaris
+371	• King's Mark (Resistance to Earth): \rMercury + Venus + Sun + Moon + Uranus \rMercury + Venus + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rMercury + Venus + Sun + Moon + Neptune \rMercury + Venus + Moon + Uranus + Neptune \r • Phoenix Brand (Resistance to Fire): \rMercury + Venus + Sun + Moon + Pluto \rMercury + Venus + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rMercury + Venus + Sun + Uranus + Neptune \rMercury + Venus + Moon + Neptune + Pluto \r • Mark of the Titan (Thunder Resistance): \rMercury + Venus + Sun + Uranus + Pluto \rMercury + Venus + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rMercury + Venus + Sun + Moon + Polaris \rMercury + Venus + Sun + Uranus + Polaris
+372	• King's Mark (Resistance to Earth): \rSaturn + Mars + Sun + Moon + Uranus \rSaturno + Mars + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rSaturno + Mars + Sun + Moon + Neptune \rSaturno + Mars + Moon + Uranus + Neptune \r • Phoenix Brand (Fire Resistance): \rSaturn + Mars + Sun + Moon + Pluto \rSaturno + Mars + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rSaturno + Mars + Sun + Uranus + Neptune \rSaturno + Mars + Moon + Neptune + Pluto \r • Mark of the Titan (Thunder Resistance): \rSaturno + Mars + Sun + Uranus + Pluto Saturn + Mars + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rSaturn + Mars + Sun + Moon + Polaris \rSaturno + Mars + Sun + Uranus + Polaris
+373	• King's Mark (Resistance to Earth): \rBenetnasch + Jupiter + Sun + Moon + Uranus \rBenetnasch + Jupiter + Sun + Neptune + Pluto \r • Whale Mark (Water Resistance): \rBenetnasch + Jupiter + Sun + Moon + Neptune \rBenetnasch + Jupiter + Moon + Uranus + Neptune \r • Phoenix Brand (Fire Resistance): \rBenetnasch + Jupiter + Sun + Moon + Pluto \rBenetnasch + Jupiter + Moon + Uranus + Pluto \r • Brand of Pegasus (Resistance to Wind): \rBenetnasch + Jupiter + Sun + Uranus + Neptune \rBenetnasch + Jupiter + Moon + Neptune + Pluto \r • Mark of the Titan (Thunder Resistance): \rBenetnasch + Jupiter + Sun + Uranus + Pluto \rBenetnasch + Jupiter + Uranus + Neptune + Pluto \r • Holy Mark (Resistance to Light): \rBenetnasch + Jupiter + Sun + Moon + Polaris \rBenetnasch + Jupiter + Sun + Uranus + Polaris
+374	• King's Mark (Resistance to Earth): \rJupiter + Benetnasch + Sol + Lua + Uranus \rJupiter + Benetnasch + Sol + Netuno + Plutão \r • Brand of Baleia (Resistance à Água): \rJupiter + Benetnasch + Sol + Lua + Netuno \rJupiter + Benetnasch + Lua + Uranus + Netuno \r • Mark of Fênix (Resistência à Fogo): \rJupiter + Benetnasch + Sol + Lua + Plutão \rJupiter + Benetnasch + Lua + Uranus + Plutão \r • Brand of Pégasus (Resistência à Vento): \rJupiter + Benetnasch + Sun + Uranus + Netuno \rJupiter + Benetnasch + Lua + Netuno + Plutão \r • Mark of Titã (Resistance à Trovão): \rJupiter + Benetnasch + Sun + Uranus + Plutão \rJupiter + Benetnasch + Uranus + Netuno + Plutão \r • Holy Mark (Resistência à Luz): \rJupiter + Benetnasch + Sun + Lua + Polaris \rJupiter + Benetnasch + Sun + Uranus + Polaris
+375	CHA
+376	BAG
+377	SKI
+378	QUE
+379	SOC
+380	ARM
+381	GUA
+382	PET
+383	CSH
+384	SYS
+385	ARM
+386	SQU
+387	COS
+388	AST
+389	REL
+390	SOU
+391	DDV
+392	DIV
+393	BRM
+394	UNI
+395	ASK
+396	MBX
+397	STO
+398	COM
+399	CRA
+400	PTY
+401	MIS
+402	RAN
+403	ACH
+404	ALB
+405	REP
+406	TRE
+407	LCK
+408	EXA
+409	ENC
+410	PHO
+411	GUA
+412	PRO
+413	CHAT
+414	H 1
+415	H 2
+416	COM
+417	AUC
+418	12H
+419	RAD
+420	ATH
+421	STA
+422	H 3
+423	LIT
+424	GUI
+425	GRM
+426	EXC
+427	Buying any Star value, you will be promoted to VIP level 1!
+428	1. Portable warehouse \r2. Portable perfecting \r3. "Reward" system, the reward prize accumulates for a maximum of 1 day
+429	1. Claveteado de Runa portable \r2. Portable store \r3. Perfecting portable
+430	1. Portable mail \r2. Item Mall VIP \r3. Claveteado de Runa laptop \r4. Portable store \r5. Perfecting portable
+431	1. Portable Auction House \r2. Portable mail \r3. Claveteado de Runa laptop \r4. Portable store \r5. Portable upgrading and VIP Mall Item
+432	1. Receives the permanent effect title "Full Portfolio" \r2. Maintains the privileges of VIP LV4 \r3. Increase the current limit of the "Reward" system in 2 days.
+433	1. Receive the permanent effect title "Dancing with Gold" \r2. Maintains VIP LV4 privileges
+434	1. Receive the permanent effect title "Implacable Miner" \r2. Enable the use of VIP chat \r3. Maintains the privileges of VIP LV4 \r4. Increase the current limit of the "Reward" system in 3 days.
+435	1. Receive the permanent effect title "Sweet Fortune" \r2. Enable the use of VIP chat \r3. Maintains VIP LV4 privileges
+436	1. Receive the permanent effect title "Fantastic Wealth" \r2. Enable the use of VIP chat \r3. Maintains the privileges of VIP LV4 \r4. Increase the current limit of the "Reward" system in 4 days.
+437	1. Receive the permanent effect title "Incessant Wealth" \r2. Enable the use of VIP chat \r3. Maintains VIP LV4 privileges
+438	1. Receive the permanent effect title "Magnate Shining" \r2. Enable the use of VIP chat \r3. Maintains the privileges of VIP LV4 \r4. Increase the current limit of the "Reward" system in 5 days.
+439	1. Receive the permanent effect title "Global Monopoly" \r2. Enable the use of VIP chat \r3. Maintains VIP LV4 privileges
+440	Thank you for supporting CDZ Online!
+441	Buying any value of Star in that month, in the next month you will be promoted to VIPM LV1!
+442	Monthly reimbursement of 400 Emerald
+443	Monthly reimbursement of 800 Emerald
+444	Monthly reimbursement of 1200 Emerald
+445	Monthly reimbursement of 2400 Emerald
+446	Monthly reimbursement of 3200 Emerald
+447	1. Monthly restitution of 4200 Emerald \r2. Enjoy the different VIPM brand.
+448	1. Monthly restitution of 5200 Emerald \r2. Enjoy the different VIPM brand.
+449	1. Monthly restitution of 8800 Emerald \r2. Enjoy the different VIPM brand.
+450	1. Monthly restitution of 14000 Emerald \r2. Enjoy the different VIPM brand.
+451	1. Monthly restitution of 21000 Emerald \r2. Enjoy the different VIPM brand.
+452	1. Monthly restitution of 24000 Emerald \r2. Enjoy the different VIPM brand.
+453	1. Monthly restitution of 28500 Emerald \r2. Enjoy the different VIPM brand.
+454	1. Monthly restitution of 36500 Emerald \r2. Enjoy the different VIPM brand.
+455	1. Monthly restitution of 48000 Emerald \r2. Enjoy the different VIPM brand.
+456	1. Monthly restitution of 70000 Emerald \r2. Enjoy the different VIPM brand.
+457	1. Monthly restitution of 100000 Emerald \r2. Enjoy the different VIPM brand.
+458	1. Monthly restitution of 145000 Emerald \r2. Enjoy the different VIPM brand.
+459	1. Monthly restitution of 210000 Emerald \r2. Enjoy the different VIPM brand.
+460	Obtain the product indicated by 880 Star to receive 30 times the benefit. The number of purchases can be accumulated. \rAll days you can receive 667 Emerald. The number of times of use can be accumulated. The total accumulation is 20,000 Emerald.
+461	Obtain the product indicated by 1980 Star to receive 30 times the benefit. The number of purchases can be accumulated. \rAll days you can receive 1167 Emerald. The number of times of use can be accumulated. The total accumulation is 35000 Emerald.
+462	Obtain the product indicated by 5000 Star to receive 30 times the benefit. The number of purchases can be accumulated. \rAll days you can receive 2667 Emerald. The number of times of use can be accumulated. The total accumulation is 80000 Emerald.
+463	Buy First Package
+464	Buy First Package
+465	Buy First Package
+466	Buy First Package
+467	Buy First Package
+468	Buy First Package
+469	Buy First Package
+470	Buy First Package
+471	Buy First Package
+472	Buy First Package
+473	Buy First Package
+474	Buy First Package
+475	Buy First Package
+476	Event Protect Saori
+477	Limited midday event
+478	Event of the two great arches
+479	Event of the three arches
+480	Grand Coliseum Event
+481	Amphora Sealing Event
+482	Saint Seiya Online
+483	Saint Seiya Online - %s
+484	Saint Seiya Online - %s - %s
+485	Warning
+486	Error
+487	The last update of the client has not been finished, this will cause serious problems, not being possible to enter the game. Please start the automatic update program to verify!
+488	Sorry, due to problems with your system hardware or system software, it is not possible to run this game!
+489	It was not possible to create the cache directory, the game can not be executed! Check if there is enough space on the hard drive before executing this game!
+490	Can not create the screenshots directory, the game can not be executed! Check if there is enough space on the hard drive before executing this game!
+491	Can not create the RoleSettings directory, the game can not be executed! Check if there is enough space on the hard drive before running this game!
+492	It is not possible to create the GameSave directory, the game can not be executed! Check if there is enough space on the hard drive before executing this game!
+493	Can not create the directory of logs, the game can not be executed! Check if there is enough space on the hard drive before executing this game!
+494	NetMeeting is being executed! Close the NetMeeting before running the game!
+495	Sorry, due to the lack of an important file in the game resources installed on your machine, the game can not be executed! Please reinstall the game client!
+496	Error loading construction The program will close!
+497	Resource data reading error, the program will close!
+498	File package [ %s] damaged, it is not possible to open. Please reinstall the game client
+499	Error opening the file package
+500	Unknown error
+501	Direct3D can not be created, please check the current DirectX version
+502	The video board needs, at a minimum, a support of two texture group texture groups of multiple groups. Please check the device driver and the dxdiang command execution of your video card to detect if the Direct3d acceleration of the video card is working regularly!
+503	It is not possible to obtain the 16-bit display format, check the device driver of your video card, as well as the current DirectX version
+504	DirectDraw2 targets can not be created, please check the current DirectX version
+505	Can not get the video memory size, check the current DirectX version
+506	The remaining video memory of the system available for graphics is less than %dMB, the user canceled the execution of the game
+507	High
+508	Medium
+509	Low
+510	High Resolution Image
+511	The remaining video memory of your system available for graphics is less than %dMB, during the game, distorted screen, system error and other serious errors may appear! Are you sure you want to enter the game?
+512	Error loading script %s!
+513	Unable to load the game data files! This error may be the result of an incomplete update, please perform the update again or check the current version!
+514	Unable to load game data files! This error may be the result of an incomplete update. Click on 'Yes' to: update this version and verify. (Note: This process may take some time) Click on 'No' to: manually update later or verify this version.
+515	Warning: the program will close irregularly
+516	Low internal memory
+517	The remaining available physical memory of your system is less than 512MB, that will influence the fluidity of the game, we advise you to close some programs and then enter the game again. Are you sure you want to enter the game?
+518	The available physical memory is less than %dMB, the user canceled the execution of the game.
+519	Dangerous module
+520	Warning Sign
+521	Safety Signal
+522	Please use the official patcher to start the game.
+523	This version of the operating system currently used (including WinXP 64 bits) does not support. 64-bit systems in the Vista, Win7 and Win8, the game using XP-compatible execution may also present similar problems.
+524	Please wait for the game to be started completely to try again
+525	Please make sure that the game is not banned by antivirus programs or firewall, and be sure to start the game in the administrator account. If the problem persists, try the following methods: 1, If ​​the Windows system is updated, please try to restart the computer. 2, Try using the latest antivirus program to find and eliminate Trojan Horses and viruses.
+526	The remote Windows process call failed and has not yet been executed, please restart your computer
+527	Please wait for the game to be finalized completely to try again.
+528	Too long opening time, close all game clients and try again.
+529	The maximum number of clients that are allowed to be executed simultaneously is 3
+530	As the operating system has incomplete operations, if you update automatically, please, conclude these operations and restart your computer, then try to open the game again
+531	Insufficient system internal memory, please turn off or restart your computer and then try again
+532	LV %d
+533	Concentrated practice %d
+534	^66ff00 Concentrated Practice %d
+535	^66FF00%d
+536	%d
+537	LV %d (Concentrated Practice %d)
+538	LV %d ^66FF00 (Concentrated Practice %d)
+539	LV %d ( %d)
+540	LV %d ^66FF00 ( %d)
+541	%d ( %d)
+542	%d ^66FF00 ( %d)
+543	Blood!
+544	Blue!
+545	Offline
+546	EXP: %.0f / %.0f
+547	Astro EXP: %.0f / %.0f
+548	Accumulated EXP: %I64d
+549	Astro EXP Accumulated: %I64d
+550	『%s』
+551	『%s + %d』
+552	%d
+553	Concentrated Practice Level
+554	Concentrated Practice Level:
+555	Foundation Foundation
+556	EXP
+557	EXP
+558	%s ...
+559	Greece
+560	Siberia
+561	Buy your first Pack
+562	Sign
+563	All Signs
+564	Unknown Sign
+565	Initiate
+566	Pegasus
+567	Cygnus
+568	Dragon
+569	Andromeda
+570	Phoenix
+571	Sea Dragon
+572	Wyvern
+573	Lira
+574	Tornado
+575	Unknown constellation enhancement
+576	Cadete constellation enhancement
+577	Virgo
+578	Sagittarius ★ Divine
+579	Aquarius ★ Divine
+580	Libra ★ Divine
+581	Virgo ★ Divine
+582	Leo ★ Divine
+583	Gemini ★ Divine
+584	Wyvern ★ Divine
+585	Pisces ★ Divine
+586	Aries ★ Divine
+587	Sex
+588	Sex:
+589	Earth
+590	Fire
+591	Water
+592	Wind
+593	Thunder
+594	Pegasus Attack
+595	Cygnus Attack
+596	Dragon Attack
+597	Attack Andromeda
+598	Phoenix Attack
+599	Sea Dragon Attack
+600	year %Y month %m day %d %H: %M: %S
+601	%s behind
+602	%dd
+603	%dh
+604	%dmin
+605	%dmin
+606	%ds
+607	%dmin %ds
+608	%dh %dmin
+609	%dd %dh
+610	Remaining time:
+611	Cont:
+612	%s x %d
+613	year %04d month %02d day %02d %02d: %02d
+614	Sunday
+615	Monday
+616	Tuesday
+617	Wednesday
+618	Thursday
+619	Friday
+620	Saturday
+621	%of the year
+622	%of the month
+623	%0.1f sec
+624	%after
+625	Tomorrow
+626	Noon
+627	Afternoon
+628	Night
+629	Early Morning
+630	%s or %s
+631	January
+632	February
+633	March
+634	April
+635	May
+636	June
+637	July
+638	August
+639	September
+640	October
+641	November
+642	December
+643	Monday
+644	Tuesday
+645	Wednesday
+646	Thursday
+647	Friday
+648	Saturday
+649	Sunday
+650	Yes
+651	No
+652	%d million
+653	You
+654	,
+655	Male
+656	Female
+657	(Group %s)
+658	Cash
+659	Emerald
+660	%s Cash obtained
+661	%s Gold obtained
+662	%s Star obtained
+663	%s Cash reduced
+664	%s Gold reduced
+665	%s %d Star obtained
+666	%s %d Star reduced
+667	%s %d Emerald obtained
+668	%s %d Emerald reduced
+669	%of Emerald
+670	%d / %d Emerald
+671	Due to death with the red name, he lost %s Gold
+672	Due to death with the red name, he lost %d % %of the durability of the equipment and of the Armor
+673	Index of lost EXP %I64d
+674	Index EXP obtained %I64d
+675	Index of Astro EXP lost %I64d
+676	Index of Astro EXP obtained %I64d
+677	Get accumulated EXP %I64d
+678	Get Astro EXP Accumulated %I64d
+679	accumulated EXP released %I64d
+680	Astro EXP accumulated released %I64d
+681	Earned %d Fury
+682	You have reached the highest level
+683	Reached the maximum level allowed by the Era, please join the other troops to defeat the BOSS and open the new Ages, press Y for more details.
+684	Already reached the highest level allowed by the Era on the multi-server, please return to the initial service to try.
+685	It is not necessary to update manually at the current level
+686	^ffffff Awareness Index too low (in ${jump (6)} interface improvement ^00ff00 Fighting ^ffffff may increase), it is not possible to increase the level
+687	Index of insufficient EXP, it is not impossible to improve
+688	Index of Astro EXP insufficient, it is not possible to improve
+689	Current EXP: %.0f \rNeeded: %.0f
+690	Current expertise: %.0f \rNeeded: %.0f
+691	[ %s]
+692	[ %s LV %d]
+693	[ %s LV %d]
+694	???
+695	Searching route for: %s
+696	^ffffff → %s ^N
+697	^999999 %s ^N
+698	Go for %s
+699	Go for [ %s] %s
+700	Teleportation for [ %s]
+701	Change for [ %s]
+702	%s: %s
+703	Going for [ %s]
+704	Changing for [ %s]
+705	Go now
+706	Teleport immediately for [ %s]
+707	Cancel
+708	Change now
+709	Change immediately for [ %s]
+710	Cancel
+711	It is not possible to search for a route under the current status
+712	It is not possible to search a route on the current map
+713	You need to find an appropriate starting location
+714	It is not possible to search the road automatically for the destination you have selected
+715	Route to this destination has not been found
+716	Auto-route initiated
+717	Auto-route canceled
+718	Auto-route completed
+719	To continue, please teleport to [%s]
+720	Required Level: %s
+721	^ff0000 Required level: %s ^N
+722	Without grace
+723	Teach and remove doubts
+724	Education for All
+725	Training talents
+726	Sermon of the Buddha's light
+727	Students everywhere
+728	A good education requires time
+729	The Master of Generation
+730	An exemplary teacher for all ages
+731	Holy of the Universe
+732	Moving
+733	Would ride
+734	Return to the base of the army
+735	Teleportation
+736	Fly
+737	Return to the original service
+738	Already in mount
+739	There would be no equipped
+740	It is not possible to mount in the current state
+741	It is not possible to ride during the fighting state
+742	It is not possible to mount in the current zone
+743	At the current level, it is not possible to use the fitted equipment
+744	The fitted mount is invalid in this zone
+745	%s invites you to join the ride ..
+746	%s: Uncle, we do not go out ..
+747	Would ride
+748	During the transformation, you can not add more people to the mount
+749	During the negotiation in personal store you can not add more people to the ride
+750	During the multiplayer ride, you can not send messages
+751	During the multiplayer ride, you can not auction
+752	During the multiplayer ride, you can not negotiate in the Xunbao 178
+753	During the multiplayer ride, you can not join an army
+754	During the multiplayer ride, you can not open the store to negotiate
+755	Start the Glory Bath
+756	Suspend the Glory Bath
+757	At this time you are in the middle of the Glory Bath, if it continues, it will interrupt the current progress, do you want to continue?
+758	During practice, an unknown error occurred
+759	You can only practice in the place of birth
+760	Your practice time today has reached the maximum limit
+761	Your accumulated EXP has reached the maximum limit of the current level: %I64d, you can not continue practicing.
+762	Today you spent 8 hours in the Glory Bath, continue tomorrow.
+763	You are already in practice status
+764	You can not start practicing in your current status
+765	Meditation started
+766	Action interrupted
+767	Praying can not start
+768	Can not pray
+769	Squire reached the highest level
+770	Maximum rate that each Protective Stone can absorb: %d
+771	Protective Stone not yet placed
+772	This Protective Stone can not be absorbed with the level of the Squire
+773	An error occurred during the absorption of the Protective Stone
+774	Player %s is using illegal additional content
+775	The time interval between the previous claim can not be less than 5 minutes
+776	Report
+777	Application for common help
+778	I'm stuck
+779	Report fraudulent informative ad
+780	Report fake Gold ad
+781	Report account sharing announcement
+782	Player %s is making fraudulent informative announcement
+783	Player %s is making fake Gold ad
+784	Player %s is making account sharing announcement
+785	The complaint was made successfully, wait patiently for us to take care of the case. Thank you for your efforts to maintain a healthy environment in the game The Knights of the Zodiac
+786	The current server time is:
+787	Only above level 30 is it possible to become a teacher.
+788	With 10 levels or lower than yours, you can become your student
+789	The application to recruit the student has already been sent, please wait for the answer.
+790	You received the blessing of Athena! Click on the button to receive. Remaining time: %d seconds
+791	You received the blessing of Athena! Click on the button to receive. Remaining time: %d minutes %d seconds
+792	The screenshot has been saved in the screenshots folder.
+793	You will not be able to attack and move within the next 10 seconds, then it will teleport to the nearest rebirth point (can not be used again in 2 minutes)
+794	The current battlefield does not allow the use of the 'freeze' function of the character, if you really stay frozen, please click on inform BUG
+795	New discovered area: %s
+796	There is no achievement data
+797	Completed
+798	Incomplete
+799	Phase %s
+800	1
+801	2
+802	3
+803	4
+804	5
+805	6
+806	7
+807	8
+808	9
+809	10
+810	Overview of achievements
+811	Total achievements
+812	Anger
+813	Kiss
+814	Scare
+815	Rest
+816	Cheerful
+817	Naughty
+818	Tender
+819	Greeting
+820	Solicitation
+821	Assault
+822	Consider
+823	Cry
+824	Enlarge
+825	Shyness
+826	Attack 1
+827	Attack 2
+828	Attack 3
+829	Attack 4
+830	Defense
+831	Fall
+832	Falling to the ground
+833	Look around you
+834	Dance
+835	Reborn
+836	Defender
+837	Exploit
+838	Meteor
+839	Petrification
+840	Radiation
+841	Totem
+842	Burn
+843	Strong Petrification
+844	Strong Freezing
+845	Strong Paralysis
+846	Strong Burn
+847	Recovery
+848	Furious
+849	Mercenary
+850	Self-destructive
+851	Separation
+852	The amount of NPC visible in the whole map is greater than 30, please, properly delete the NPCs visible in the whole map
+853	NPC quantity is greater than 100, delete the appropriate NPC
+854	Insufficient Cash, Complete with Gold?
+855	Unlimited
+856	Reached
+857	^FF0000 the goddess Athena - %s visit this server, Knights who protect her, burn her Cosmo, burn with fury!
+858	Congratulations, Athena authentication was successfully done! Now you can create your own protection of the Twelve Houses with the testimony of the goddess!
+859	Athena authentication fails!
+860	Congratulations, you succeeded in creating the 12 Houses! You can open: click on the "Twelve Houses" button below the social contact button to check
+861	Fail to create the 12 Houses
+862	Nomination of %s successful!
+863	Error in %s nomination!
+864	fails to name %s, this player was not found
+865	Fail to name %s, you were not authenticated by Athena!
+866	Failed to name, %s has already been authenticated by Athena or is already another Athena guardian!
+867	Fail to name, %s is already guardian!
+868	Failed to name, %s refused to become your guardian!
+869	Failed to name %s, the answer exceeded time!
+870	Failed to name %s, this player is not online!
+871	The other part is not online now!
+872	Elimination carried out successfully!
+873	Fail to delete!
+874	Waiver made successfully!
+875	Failure to resign!
+876	%I resigned the position of guardian %s gold!
+877	You were exempted by the goddess Athena %s from Guardian's obligations!
+878	Declaration modified successfully!
+879	Fail to modify statement!
+880	The goddess Athena %s invites you to become a guardian %s of Gold!
+881	^FF0000 the Goddess Athena %s will promote %s for her own guardian %s Gold!
+882	Love and peace, Team Rocket, which crosses the Milky Way, for love and peace, Team Rocket, which crosses the Milky Way, for love and peace, the Rocket Team, which crosses the Milky Way ,
+883	%s Declaration of Athena:
+884	Double click to modify the Declaration of Athena, then ENTER to confirm
+885	Male players can not authenticate to become Athena
+886	You are Athena!
+887	You were nominated to become Guardian of the 12 Houses of Athena! To create Athena, please separate first from the current 12 Athena Houses
+888	Lack of tools to authenticate!
+889	(Free)
+890	Connection
+891	Item: %s %dun.
+892	Sprays: %d / %d
+893	Cash: %d
+894	Gold: %d
+895	Astrology LV %d
+896	Currency needed for insufficient Astrology
+897	Cash needed for Insufficient Astrology
+898	Item %s needed for Insufficient Astrology
+899	%s needed for insufficient connection
+900	Required: %s %dun.
+901	Illuminated
+902	Illuminate \r %s
+903	Not illuminated \r %s
+904	Astrology performed successfully
+905	Number of times of Astrology was recalculated and returned for the Astrology of the first round !!!
+906	Critical attack (surprise!)
+907	Earned %s %dun.
+908	Consumed %s %dun.
+909	Evolve
+910	Stop
+911	Evolution made successfully
+912	What a shame, it fails to evolve
+913	Congratulations, successful illuminated star connection
+914	Congratulations, you received the spray from %s
+915	%s insufficient
+916	^FF0000Cash insufficient
+917	^FF0000Gold insufficient
+918	^FF0000 %s insufficient
+919	After using %s the success rate increases considerably, do you want to use it?
+920	%02d: %02d: %02d
+921	Deliver offering
+922	Receive
+923	Inadequate coin for Ritual
+924	Your Cash is insufficient, participate in events to win Cash
+925	%s insufficient
+926	The conclusion of this Stellar Connection will activate Muon spraying \rAt the time of Muon spraying, you will be able to gather the group members to obtain Muons \rThe member of the group is likely to get Muon level 4 or higher
+927	The conclusion of this Star Connection will open the Ritual. \rAfter obtaining, every day you can enter the interface of the Ritual and proceed \rThe god will answer your sincerity and every day you will get a reward
+928	To activate that Star Ritual it is necessary to reach the level of Astrology %d \rConclude the constellation connection, you can increase the level of Astrology
+929	There is still the last star that was not illuminated! The conclusion of this Stellar Connection will activate the spray for the group members who are in the vicinity!
+930	It is recommended to illuminate the last star only after gathering the group members!
+931	The conclusion of this Stellar Connection will activate the muon spraying. At the moment of spraying, the members of the group that are within a limit of 15 meters, will be able to obtain Muons of advanced level. Do you want to continue?
+932	Continue
+933	Call Group
+934	You will have a higher profit in the 2nd round
+935	You will have a higher profit in the 3rd round
+936	Success rate: %.01f %%
+937	Start
+938	Stop
+939	^FF0000 Not enough
+940	Cash: %I64d
+941	Astrology LV %d
+942	Liberation offering in Astrology LV %d.
+943	When Astrology reaches level 24, a strong aura will shine on the body
+944	When Astrology reaches level 48, an even stronger aura will shine on the body
+945	When Astrology reaches level 64, a super strong aura will shine on the body
+946	When Astrology reaches level 88, an extremely strong aura will shine on the body
+947	All offerings
+948	Receive everything
+949	Their Múons are insufficient, go quickly to collect some Cosmic Keys
+950	The Star Ritual was initiated, please await the conclusion
+951	When Astrology reaches level 24, a strong aura will shine, click on preview
+952	When Astrology reaches level 48, a strong aura will shine, click on preview
+953	When Astrology reaches level 64, a strong aura will shine, click on preview
+954	When Astrology reaches level 88, a strong aura will shine, click on preview
+955	Do not use the %s ^N will consume a lot of materials, confirm evolution?
+956	Now, you are synthesizing advanced level mouses \r Do not use %s ^N will consume a lot of materials, confirm evolution?
+957	Aura level 24
+958	Aura level 48
+959	Aura level 64
+960	Aura level 88
+961	Active relics
+962	Relic Store
+963	No combination
+964	Failure to equip Relic
+965	Fails to remove Relic
+966	Failure to replace Relic
+967	Failure to change the position of the divine artifact on the equipment bar
+968	The relic inventory is full.
+969	Mineral: Bronze
+970	Mineral: Silver
+971	Mineral: Gold
+972	Mineral: Sacred
+973	Mineral: Perfect
+974	Insufficient aura, it is not possible to bathe
+975	Successful completion of Relic
+976	Mineral successfully bathed
+977	The Relic is already in the original state, it is not possible to restore
+978	Success in restoring the Relic to the original state
+979	Failure to restore the Relic to the original state
+980	Inventory full, please leave some empty space and then try to remove the Relic again
+981	Only Relics without Minerals can be returned to the Character Inventory \rThe levels of the Minerals can be removed or transferred to other Relics
+982	Please restore the number of Relic Charms to the original form, and then try to proceed with the return
+983	Relic successfully eliminated
+984	Failure to remove Relic
+985	Power: %d
+986	Divine power needed: %d \r Level: %d \r
+987	LV Current: %d / %d \r
+988	LV Current: ^ff0000 %d ^ffffff / %d \r
+989	Next LV .: %d \r
+990	When selected, efficiency increases in %0.2fx
+991	When cleaning all levels of the Minerals, the Relic will change to its initial state \rIt is advisable to transfer the level for another Relic, do you wish to proceed?
+992	^NThe use option of %s ^N was not selected. Selecting the option, the efficiency to bathe the mineral will be greater, do you want to select the option?
+993	Do you want to bathe automatically until the Mineral level increases? \r (When the Aura is insufficient, the process will be interrupted)
+994	Continue with the Enchantment?
+995	Do you want to restore the enchantments? \r (After restoring to the original state, all Divine Jades will be reinstated, please make sure there is enough space in the inventory)
+996	Relics that have not yet been Charmed do not need to be restored to the original state
+997	%s insufficient
+998	Enchantment: %d \r
+999	All attributes of the Relic Minerals increased by %d % %\r
+1000	LV Max of the Mineral + %d ^ffffff \r
+1001	Required items: %s x %d ^ffffff
+1002	Click on the left button to continue with the Enchantment
+1003	Divine Power: %d
+1004	Effect
+1005	Attributes
+1006	Bronze Ore: LV  %d / %d
+1007	Silver Ore: LV  %d / %d
+1008	Gold Ore: LV  %d / %d
+1009	Sacred Mineral: LV  %d / %d
+1010	Perfect Mineral: LV  %d / %d
+1011	(Active after Divine Power reaches %d)
+1012	Effect
+1013	LV Max of Minerals: %d
+1014	After using, the Relic will be transferred to the Relic Store, do you wish to proceed?
+1015	Origin relic
+1016	Relic target
+1017	Select the Origin Relic
+1018	LV of Relic Mineral insufficient source
+1019	Select the Relic target
+1020	The Relic target and Relic Origin became a single
+1021	The Relic target has already been strengthened
+1022	The current level of certain Minerals of the Origin Relic exceeds the maximum level of the Relic target, it is not possible to change
+1023	Check the option you want to transfer
+1024	The Relic target has not yet been Charmed, it is not possible to transfer
+1025	Origin relic can not have null enchantment
+1026	Charms of the Origin Relic is greater than the objective
+1027	Success in modifying the Relic
+1028	Failure to modify improvement of the Relic
+1029	Aura:
+1030	The maximum level of the target Relic Minerals is less than the Origin Relic, are you sure you want to proceed with the change? (The level of the Mineral will change completely)
+1031	The maximum level of the Minerals of the target Relic is relatively low, after changing, the level of the Mineral will be fully conserved, but the surplus level will not be added to the Attribute, Divine Power, etc. Confirm change?
+1032	Enchantment made successfully
+1033	Enchantment failed
+1034	Enchantment successfully removed
+1035	Insufficient inventory space, please try again after freeing space
+1036	%s \ t Power + %d
+1037	Activate %d units of \ t Power: %d
+1038	%s LV %d
+1039	Define Password
+1040	Modify Password
+1041	Can unlock
+1042	Unlock in: %s
+1043	Items lock unlocked successfully
+1044	Article Pad Password successfully defined
+1045	Fail to define / modify password, find out if entered correctly
+1046	Successfully blocked
+1047	The countdown to the lock of the item lock started, after 7 days, it will be blocked
+1048	The forced unlocking of the item lock started, after 15 days, it will be unlocked
+1049	Incorrect password, fail to unlock
+1050	Unlock canceled, the blocking status was restored
+1051	Countdown started. After the term expires, the item can be completely unlocked.
+1052	Unlocked successfully
+1053	item is already locked, if you need to unlock, please open the operation in the security padlock interface
+1054	The password has not been activated yet, please define a password first
+1055	Currently, it is in the period to be unlocked, if it is necessary to protect an item, please cancel the unlocking first
+1056	After blocking an item, it is necessary to wait 7 days, do you want to block %s?
+1057	%s can only complete the %dun unlock. \rFirst, separate the correct amount and then click again to complete the unlock
+1058	%unlock time in progress
+1059	Number of unlocks
+1060	%unlockables: %d
+1061	Virtue: %d
+1062	Requirements: \rCharacter %s ^FFFFFF \rPericia %s ^FFFFFF
+1063	EXP %s ^FFFFFF
+1064	Astro EXP %s
+1065	Current level: %d \r
+1066	Virtue increased successfully
+1067	Failure to increase Virtue
+1068	Claveteado del Alma en el Virtud realized successfully
+1069	Failure in the spiking of the Soul in Virtue
+1070	Separation of the Soul in Virtue carried out successfully
+1071	Failure in the separation of the Soul in Virtue
+1072	%s rolled the data and the %d fell (0 - 100)
+1073	In case you do not sign a day, you can still sign on. \r ^FFB90FFirmastes presence in %d days in this month. \rThe Prize Presence is renewed monthly.
+1074	Signed
+1075	Sign
+1076	Replenish ( %d)
+1077	Not signed
+1078	You do not have a Presence Replacement Card
+1079	Fail to sign presence
+1080	Presence signed successfully
+1081	Korean prevention of gambling addiction exceeded %dh
+1082	After keying, the equipment will be linked, do you want to continue?
+1083	Confirm disassembly: \r
+1084	%s (LV %d) \r
+1085	Energy Core completed the level
+1086	EXP insufficient to level up
+1087	The same type of jewel was already spiked.
+1088	Clave in the wrong place
+1089	Dismantling EXP reached the limit, can not dismantle
+1090	This equipment can not nail in the jewel
+1091	Dismantling inventory is full.
+1092	Lost mosaic
+1093	Mosaic mounted with successor
+1094	Substitution made with success
+1095	Error of Mosaic Position
+1096	Mosaic of Experience, impossible equip
+1097	Not a Mosaic, impossible to use
+1098	To equip, mosaic will be linked. Continues?
+1099	Removal done with success
+1100	Full Inventio. Free space first.
+1101	Successfully Enhanced!
+1102	Maximum Level
+1103	Mosaic of Experience, impossible to hone
+1104	Insufficient Exp
+1105	Cash Insufficient
+1106	Missing Materials
+1107	Fragments are frozen, can not be upgraded
+1108	The fragment is in an unbound state. After the upgrade, the fragment will be bound. Continue?
+1109	If insufficient Cash, Gold will be used. OK?
+1110	Dismantled successfully!
+1111	Experience value maximum
+1112	Full inventory, necessary free space
+1113	This item can not be disassembled
+1114	This item is locked and can not be unmounted
+1115	This item is frozen and can not be disassembled
+1116	Space to dismount full
+1117	Indestructible Mosaic
+1118	Contains mosaic locked, can not be disassembled
+1119	Contains frozen mosaic, can not be disassembled
+1120	%s (LV %d x %d)
+1121	Updated successfully
+1122	The maximum number of updates for the period has been reached
+1123	Stars Insufficient
+1124	Insufficient Emeralds
+1125	Insufficient Items
+1126	Purchase completed successfully.
+1127	Previously purchased. Can not be purchased again until next update.
+1128	Are you sure you want to buy %s * %d?
+1129	Snow
+1130	Ruby
+1131	Amber
+1132	Lima
+1133	Blue
+1134	Purple
+1135	Black
+1136	Rose
+1137	Naval
+1138	Green
+1139	Linen
+1140	Gold
+1141	Coffee
+1142	Silver
+1143	Red
+1144	Truffle
+1145	Cream
+1146	Beige
+1147	Gray
+1148	Coral
+1149	Lucky %s today
+1150	Fail to open Star Luck for a friend
+1151	Spend double, very small results
+1152	%s says: %s today, in love, you need to spend twice as much patience and, even, please, but you will receive very small results.
+1153	Negotiation of Love
+1154	%s said for %s: Love is not something you want to buy, what you want to buy can be bought
+1155	Crisis of hidden feeling
+1156	%s said in a low voice: the bachelor %s is secretly in love. Even if he has a partner, he will still sink into the crisis of hidden feeling.
+1157	It is not possible to renounce the cure.
+1158	%s said for %s: even that no one loves you, even so, it is not possible to give up on the cure.
+1159	It is not possible to jump out of the bonds of old love.
+1160	%s He remembered %s: The old love is hard to forget. First, because the time was not long enough and, second, because the new love is not good enough. Either one can only be found in the future, not in the past.
+1161	To distance oneself from a cozy situation makes the vision of love more objective, and that everything moves in a good direction.
+1162	%s seen, satisfied, %s distancing from a cozy situation makes the vision of love more objective, and everything moves in a good direction.
+1163	The fog began to rise. The less it is recognized, the more it feels repressed, the easier it is to sink.
+1164	%s indicates that the fog has begun to come up. The more unrecognized, the more repressed emotions, the easier it is to get %s into it.
+1165	Expectations about reality, can generate unrealistic ideas.
+1166	%s If that reality is considered as a reason for expectation, %s feelings are created that can generate unrealistic ideas.
+1167	Love sunk in the imagination
+1168	%s always in a persistent wait, but before you perceive %s you already feel connected to the person of your imagination.
+1169	Changes in the mind bring changes in emotions
+1170	The changes that %s brought are beginning to appear. The intervention of reality begins to dissolve, %s changes occur in the feelings caused by the thoughts of spiritual level.
+1171	When feelings not yet revealed are brought to the light of day, the results are not always so bad
+1172	%s You have witnessed the %s monodrama, feelings never clarified before, today, it will be brought to the light of day, the development of the situation is generally not imagined as something bad.
+1173	Nowadays, in the way of emotions, it is necessary to go without any burden
+1174	%s said: As %s asked with all your sincerity, I tell you with great piety - Today, you have to go without any burden in the way of emotions.
+1175	Having patience to solve small conflicts will make coexistence easier
+1176	%said: %s today may find small conflicts of love but, after solving them with patience, coexistence will be easier
+1177	Loves were broken, but, despite that, someone close and dear will appear
+1178	All love has been wasted by %s. Loneliness around %s is not small, but a love will appear that will make you feel very loved.
+1179	The road is full of thorns
+1180	%s is in %s on the road of love today, full of thorns.
+1181	Advance by opening the way between difficulties
+1182	%s said to %s: out of love, any barrier can be broken.
+1183	The help of another person can help you navigate gently in the seas of love
+1184	%s can help %s navigate smoothly in the seas in search of love
+1185	Sometimes ... be brave and fearless
+1186	%s can help %s to have great ambitions in the seas in search of love.
+1187	Careful grooming may or may not tracer love?
+1188	%s carefully prepared in new visual for %s, will it be that love will come faster?
+1189	Give me a hug
+1190	%s said for %s: Can you give me a hug?
+1191	Loves open, where is the person for me?
+1192	%s Says: %s loves bloom, but where will the person be for me?
+1193	Leaning on his shoulder
+1194	%s said for %s: If you are tired, you can lean on my shoulder.
+1195	Go find the person to confess
+1196	%s said the short one for %s, today, go find the person to confess
+1197	Best impossible
+1198	%s you want to declare %s, but you do not know how to start talking.
+1199	A certain mind brings bold actions
+1200	%s through a long period of efforts, with the determined mind of %s, the actions will become even more daring.
+1201	I am the wind, you are the sand
+1202	%s is the wind, %s is sand, blowing continuously for infinity.
+1203	Love that is revealed creative can only bring happiness
+1204	%s having a loving attitude that is revealed creative will make the sweetheart %s feel a sweet happiness.
+1205	Take the initiative to approach the opposite sex
+1206	%respectfully heard the oracle of the Goddess: if there was an approach initiative of the opposite sex of %s, it is necessary to take such opportunity well
+1207	How many loves, do not be ashamed to declare yourself!
+1208	%s brought to %s good luck in love, today, when declaring for the other person, there will be no mistakes in the result, do not be ashamed
+1209	We're getting married!
+1210	%s said to %s: We're getting married!
+1211	Lucky in love
+1212	%s luck was opened in today's Love for %s
+1213	Financial luck falling apart a thousand miles
+1214	%said: %s financial luck is falling apart a thousand miles, life is extremely difficult.
+1215	Excessive spending on fun can lead to misery
+1216	%s said: %s today, excessive spending on fun can lead to misery
+1217	Money and scattered riches will return
+1218	%s advised the already poor and miserable %s: money and scattered riches will return.
+1219	The pressure of having a large amount of money requires you to take care of your wallet
+1220	%s said: %s today, the money pressure is very big, please take care of your wallet
+1221	Now, luck with money is not favorable, but it may be that unexpected wealth is in the wait
+1222	While luck with money today is weak, %s told %s that unexpected wealth may be in the wait
+1223	Is it to borrow money, or is it to borrow money? Or is it to borrow money?
+1224	%s intends to borrow money for %s, do you lend? Or does it lend?
+1225	Unexpected expenses due to fun and to pay the bill for the opposite sex
+1226	%s predicted that, today, the unexpected expenses of %s will be mainly for fun and to pay the opposite sex account.
+1227	Making money is not easy, it is necessary to know how to control expenses
+1228	%s are surprised that today's %s earnings have all been earned through hard work, but even so, he has not yet learned to control spending.
+1229	Gains and losses are unexpected, it's just not giving rise to finances today
+1230	Gains and losses are unexpected, %s recommends %s
+1231	The discovery of inner wealth is in a good friendship
+1232	%s discovered inner wealth, but did not count the %s, has a strong disdain +1
+1233	Help from a friend may bring new sources of income
+1234	Today, it may be that the usual sources of income present variables, %s maybe slight %s to find new ways
+1235	If today you buy land in the Sanctuary, you will earn a large amount of money.
+1236	%s counted for %s: If today you buy land in the Sanctuary, you will earn a large amount of money.
+1237	Respecting the expense planning table is advantageous for enrichment.
+1238	%s an expense planning table was designated for %s, if it is respected, it will be advantageous for enrichment.
+1239	Keeping money well is the way to safety
+1240	%s look with envy for the pocket full of %s money
+1241	The way to make money in life quietly
+1242	%recalled that to increase financial luck %s, you can not act impulsively.
+1243	Just keep the facts of the ancestors and squander the favorable financial luck of today.
+1244	%s It's a pity, because today the financial luck is very good, but %s decided to just keep their capital.
+1245	Financial luck that nobody can stop
+1246	%s look at the financial luck that nobody can stop %s with envy
+1247	The key to today's financial luck is to be on good influences
+1248	%s can make the key to the financial luck of %s now be about good influences.
+1249	With emotional control, it is possible to have financial control
+1250	%s can not bear the adulation of %s, is said in a low voice: the control of humor is the key to the financial luck of now.
+1251	Frenzied financial luck
+1252	%s are amazed at the frenzied financial luck of %s.
+1253	Trusting your team is the key to today's fortune
+1254	%s can not bear the adulation of %s, and said quietly: trusting your team is the key to today's financial luck.
+1255	If you had a rich and beautiful sponsor, take the opportunity!
+1256	He rich and pretty %s says, Is there someone who needs sponsorship?  %s Take advantage of the opportunity!
+1257	Freeing yourself a bit is an even easier way to get benefits
+1258	%s advises %s to free our own pockets, because, sometimes, running a little bit of risk makes it easier to get benefits.
+1259	Exuberant financial luck
+1260	%s so that %s brings an exuberant financial luck, now the way to obtain even more advantages is to earn money step by step.
+1261	Divine financial luck
+1262	%​​s observing the divine financial luck of %s, he drooled to the ground.
+1263	Fortune beyond the divine
+1264	%s financial luck, which no one can avoid, compared to that of %s, overcomes the financial fate of the gods and continues to grow; When leaving, one should be careful not to be crushed between the gold bars.
+1265	Financial luck
+1266	%s opened today's Financial Luck for %s
+1267	The friend silently accompanied you in solitude
+1268	%s silently accompanied %s in solitude
+1269	Friends Card
+1270	%I said for %s: I will always have you as a friend.
+1271	Today, a fight with the friend may occur
+1272	Today, there may be a fight between %s and %s.
+1273	The discussion will also increase the affection
+1274	After the discussion between %s and %s, they are even firmer.
+1275	The party is a way to meet new people
+1276	%s e %s need a party to meet new friends.
+1277	Being reserved unnecessarily will hinder the care of friends
+1278	%s expressed great care for %s, but the last one has not been reserved.
+1279	It is not necessary to be reserved among friends
+1280	%s expressed great care with %s, for what reservations, put that aside soon.
+1281	The coldness affects the mood of the two parties, reconcile as quickly as possible and returns to talk with everyone
+1282	%show coldness to %s and this will affect the mood of the day of both, we hope that they will reconcile soon.
+1283	Me and my little companions
+1284	%s if your Little Companion %s need to take risks together.
+1285	for harmony to be prioritized, it is necessary to solve the friction
+1286	There may be friction in the %s struggle with %s today, but the harmony must be valued so that it goes through that in peace
+1287	Friendship that has friction can become even more solid
+1288	There was a friction between %s and %s, but it did not influence their friendship.
+1289	Your happiness is the sincere expectation of friends
+1290	%s has assumed a strange pose, and draws %s to be even happier
+1291	Friendship without regrets
+1292	%s I said for %s: so that you are happy, I am willing to pay any price
+1293	Just call your boyfriend and forget your friends
+1294	%s shows sadness, because %s only matters with the boyfriend and forgets friends.
+1295	In general, who else can understand you are the bad friends
+1296	%s said for %s, making a bad friendship is a mistake for life, you have to take responsibility!
+1297	Friendship that grows day by day
+1298	The friendship of %s and %s will grow every day
+1299	Friendship advancing fast
+1300	%s The friendship of %s and will move fast.
+1301	Inviting a friend to play together is the best way to increase a friendship
+1302	%s want to invite %s to participate in the event, but they do not know how to start talking.
+1303	To invite, it is necessary to speak out loud
+1304	%s said for %s: Let's play together!
+1305	To invite, it is necessary to speak aloud · alter
+1306	%s said for %s: Let's play together! Otherwise, I would die for you to see!
+1307	Help from a friend takes you out of the shade
+1308	%s help brings %s out of the shadows, TA shows gratitude.
+1309	Friends walk together for the whole life
+1310	%s prove to %s that he is a friend for life
+1311	Good friend, a life
+1312	%s said for %s: well ami (ji-) go, all life
+1313	Today, helping in love is friendship, there is no harm in seeking the help of friends.
+1314	%s friendship is help in %s love, a friend's help can alleviate the worries.
+1315	Luck in Friendship
+1316	%s Luck in Friendship today for %s
+1317	Do not be afraid of the weaknesses of your team colleagues, fight with your effort to obtain good final results
+1318	%s said: encountering a short board may make %s today's battle difficult, but the ending is always good.
+1319	Learning with the strengths of others to overcome their own flash points is the way to balance
+1320	%s said for %s: Do not be ashamed of your weaknesses, learn to overcome them through weak points of others
+1321	Fatigue also can not stop the urge to fight
+1322	Even if you are exhausted, yet %s like that you want to give your best to conclude %s this endless struggle.
+1323	Go to the end, without return
+1324	%s said for %s: Shows the value of going to the end, without return. There is nothing that can stop your steps.
+1325	Responding unexpectedly is the basic realization of the struggle
+1326	%s said: today's bucket pressure is great, and things emerged out of what was expected, making %s not know which way to go.
+1327	He is strong, let it be
+1328	%s encouraged %s: The enemy is formidable, he is strong, let him be
+1329	Find can make today's fight even more realistic
+1330	Nowadays, if you find %s in the event, it will cause %s to feel very realistic.
+1331	Heroic fight behavior
+1332	%s heroic wrestling behavior leaves %s extremely fascinated.
+1333	The struggle may bring huge profits, and only having the common heart is that you can face it.
+1334	%s said: The power struggle may bring huge profits, %s Will you still manage to keep your heart simple?
+1335	Moving forward with conviction
+1336	%s remembered %s that only walking step by step with conviction is that you can make the road to victory; today's battle depends on that
+1337	Knowing how to use strategies well will bring even better successes
+1338	%s recommend %s to use strategies well in today's fight as it can bring even more perfect achievements.
+1339	Levar a crush on the knee
+1340	%s heard %s say: I remember that, when I was a boss, I had a fighting power of more than 5 million competitors, until I took an arrow in the knee
+1341	Wish of war 100 percent
+1342	Testimonied all the %s of the event and said: Today's %s motivated struggle
+1343	Do not walk on the common path
+1344	%s advise %s to break the conventions in today's fight,
+1345	The fighting partner may become your new friend
+1346	It is necessary to pay attention to the comrades who fight together today, since, in the middle of them it may be that %s bring a new friend for %s.
+1347	Beast instincts
+1348	%showed an instinct and roared in the form of a beast for %s during the fight! If you manage to make sure today, the fight will be successful in each endeavor
+1349	The bonds of friendship make the struggle be successful in each endeavor
+1350	The mutual understanding of %s and %s is getting better, fight together
+1351	Madness sometimes, crash!
+1352	%s advised %s: today, do not think about the consequences, rely on intuition to fight, madness, sometimes, it will be a new experience for your rationality
+1353	Today there is good continuous luck in the war, it is appropriate to try new struggles
+1354	%s has foreseen that today's struggle of %s will be particularly undisturbed, and will be especially appropriate to try new struggles
+1355	Cooperating with more friends in combat makes the fight even quieter
+1356	If %s can cooperate with %s, you can get many good answers in today's fight and you can spend that day relaxed.
+1357	Luck in the victory of the battle
+1358	%s Luck in today's fight for %s
+1359	Attack: represents the damage capacity, the higher the value, the greater the speed of defeating the enemy
+1360	Defense: represents the ability to survive, the higher the value, the more difficult to be defeated
+1361	Support: represents the group support capacity, allowing allies to have a higher survival capacity
+1362	DPS: represents the ability to generate a large amount of damage in a short period of time
+1363	Control: represents the ability to crowd control
+1364	Range: represents the skill range
+1365	Range: short \rSpeciality:\r  dps, group support, speed.
+1366	Brief introduction to the Sign 1 lalala ¥ %​​...... * ((...... @ ....
+1367	^ffffffRange: short \rSpeciality:\r dps, group support, speed.
+1368	^O021 ^c0d9d9 Features: \rPegasus is a great warrior and ultimate force that terrifies enemies. With his strength, he is capable of defeating anyone.
+1369	^ffffffRange: long \rSpeciality:\r  freezing, aoe, control.
+1370	^O021 ^0099ccFeatures: \rThe Cygnus is able to use ice to control the enemy and cause immense damage. It is excellent at handling air and thunder.
+1371	^ffffffRange: short \rSpeciality:\r  survival, healing, crowd control, support.
+1372	^O021 ^33ff99Features: \rThe Dragon has a powerful and incomparable force, capable of withstanding great amount of damage.
+1373	Defensive
+1374	Offensive
+1375	^ffffffRange: medium \rSpeciality:\r Support, offensive/defensive mode
+1376	^O021 ^ff3366Features: \rAndromeda is able to alternate between two modes. One increases the recovery and the other uses grants offensive abilities.
+1377	^ffffffRange: long \rSpeciality:\r DoT damage, Black Knights summoning, fire, resurrection.
+1378	^O021 ^cd7f32Features: \rThe Phoenix is ​​the embodiment of death and a brutal personality. It manipulates the power of flames against enemies and can reborn.
+1379	Good
+1380	Evil
+1381	^ffffffRange: long \rSpeciality:\r illusions, alternates between support or attack.
+1382	^O021 ^CD00CDFeatures: \rGood and Evil Personalities: ^FFFF00Good^CD00CD provides support abilities, while ^FFFF00Evil ^CD00CD grants powerful damage.
+1383	^ffffffRange: short \rSpeciality:\r incarnation, dps, auto-recovery.
+1384	^O021 ^FFFFFFCFeatures: \rDefense and incredible self-recovery, great to destroy enemy formations, besides transforming into a huge dragon.
+1385	^ffffffRange: long \rSpeciality: control and explosion. \r Tactics: use curses to exhaust the enemy, powerful explosion.
+1386	^O021 ^FFFFFFCaracteristics of Lyra: \rControl the power of the curse and strengthening, is a deadly killer who roams the battlefield, causing fear in enemies.
+1387	^ffffffRange: medium \rSpeciality: controle, investida, erupção \rTáticas: Use powerful forças to attack inimigos, free energy imensa em curto period
+1388	^O021 ^FFFFFFCaracteristics of Tornado: \rTornado detém uma força estrondosa that lhe allows avançar no batalha field. It is an explosive and ideal power to ceive to life two inimigos.
+1389	Constellation
+1390	Level 37 character, after reaching level 10, it is necessary to increase the level of the character manually.
+1391	Domain
+1392	Solar sequence
+1393	You sent a request to form a group, please wait until the other party answers ...
+1394	You can not expel yourself in the group.
+1395	The formation of the group is complete, before dissolving it is not possible to modify the mode of distribution of the articles.
+1396	&%s&: %s
+1397	You said for &%s&: %s
+1398	It is not possible to send empty MP.
+1399	You are going to leave the quest selected Confirm?
+1400	Effect limit time: %d: %02d: %02d
+1401	　
+1402	The passwords entered in the previous two do not match, please enter it again.
+1403	Dead: %s ( %d)
+1404	Protected object: %s
+1405	Preservation period: %d: %02d: %02d
+1406	the other party is still on his blacklist.
+1407	The other party is not online or the %s character is non-existent
+1408	Your blacklist is already full.
+1409	&%s& auto responder: %s
+1410	Real elements needed to learn this insufficient skill.
+1411	You have not learned this skill required in the Skills Book.
+1412	You sent your voicemail too fast, to send twice a 1 second interval is necessary
+1413	Please, do not talk too fast when repeating your voice message, to resend twice a time interval of 6 seconds is necessary.
+1414	You suffered serious damage.
+1415	^FFFF00 equipment ready to be damaged
+1416	^FF0000 equipment has been damaged
+1417	Window Mode
+1418	Full Screen
+1419	Obtained: %s ( %d)
+1420	Stamina
+1421	Satiety level
+1422	Level of good impression
+1423	Lifetime
+1424	Common channel
+1425	%s Configuration
+1426	Evaluation completed successfully
+1427	Error in evaluation, please try again.
+1428	Fundos required to learn this skill insufficient
+1429	%dm
+1430	%s sent you a friend request.
+1431	My friends
+1432	Are you sure you want to exclude this friend?
+1433	Excluding this subgroup will cause the friends that are in them to be transferred to the standard subgroup. Do you want to confirm the exclusion?
+1434	Has not reached the required level of Comprehension.
+1435	In conversation with ^F6C95E %s ^FFFFFF
+1436	%s accepted your friend request
+1437	Skill level to learn this insufficient skill.
+1438	Automatic answer: Sorry, at the moment I'm busy, I'll get in touch with you later.
+1439	The individual price of the product / the total price can not transfer 2000000000
+1440	The individual price of the product / the total price can not be less than 1.
+1441	The quantity of products can not exceed the existing quantity / maximum limit of stacked products.
+1442	%s is already your friend.
+1443	Your question has been sent, please wait for it to be processed.
+1444	Channel: %s \r Level: %s \rLocation: %s
+1445	%s of %s ( %d, %d) is asking for news from you, go look.
+1446	The fight is over, you are ready to leave the battlefield: %d
+1447	The invitation to join the Clan has already been sent, please wait for the answer.
+1448	%s invite you to join the clan %s. Do you agree to join this clan?
+1449	The interval of the customer support service since the last time can not be less than 3 minutes, please wait a while and try again.
+1450	The other party has no army or has already joined a clan, it is not possible to invite him to the clan.
+1451	Failed to produce %s
+1452	The invitation to the chat room has been sent, please wait for the answer.
+1453	The amount of currency in the inventory is insufficient.
+1454	%s sent you an invitation to a duel, do you accept the duel?
+1455	%s thanks, but refuses to enter into a duel with you.
+1456	%s both extend the arms gracefully to hug him, do you agree?
+1457	%s spread both arms in a polite manner to hug him, do you agree?
+1458	It's a shame, %s thanks but refuses his hug.
+1459	^50210f complete Quest: %s %s
+1460	%s asked to join the group, do you agree?
+1461	Can not establish a duel.
+1462	%s is asking for news from him, go look, maybe there are unexpected profits.
+1463	Construction cost: %d
+1464	%s Construction Time: %d seconds Construction Cost: %d Necessary articles: %s
+1465	Error sending voice message, you need the support of the "Divination Flute" to allow all people to hear your voice.
+1466	Sending the voice message will now consume a "Divination Flute", do you want to send a voice message?
+1467	%dX Expand screen capura
+1468	[LV %d] %s
+1469	Time in double for system prize
+1470	Time in double for player's prize
+1471	No
+1472	month %d day %d %d: %02d
+1473	Summon Pet
+1474	Return Pet
+1475	%days
+1476	Combo ( %d)
+1477	Common attack
+1478	Subsequent cycle
+1479	The Quest can not be completed.
+1480	Current page: %d / %d
+1481	Do you want to spend %s to buy " %s"?
+1482	Not online
+1483	Time of death: %d year %d month %d day %d: %02d
+1484	The couple - %s is online.
+1485	The couple - %s is offline.
+1486	Buy
+1487	Sell
+1488	Authorizing
+1489	The clan " %s" sent a letter of mourning to his clan, do you accept the challenge?
+1490	Buy
+1491	Sell
+1492	%dun.
+1493	The currency exchange system is not yet open
+1494	The related account is under negotiation, please, augarde
+1495	Insertion error
+1496	The maximum limit of the amount has been exceeded
+1497	The bank manager is busy at the moment, please wait
+1498	The salary of the bank account of the transaction is insufficient, please deposit first enough funds.
+1499	Confirm the unit value of %s ^ffffff for the purchase of %d of diamonds?
+1500	Confirm the unit value of %s ^ffffff for the %d diamond sale?
+1501	Do you want to undo negotiation authorization number " %d"? After undoing, your commission will be returned.
+1502	Undone
+1503	Authorization time exceeded
+1504	Decompact
+1505	High definition
+1506	Media definition
+1507	Low definition
+1508	x %d per group = %dun.
+1509	Congratulations for obtaining %d prizes:
+1510	After equipping, you will become the owner of this Magical Artifact, do you want to equip?
+1511	Are you sure you want to discard %s ^ffffff?
+1512	Stage %d
+1513	%s have merged the Magic Artifacts " %s" and " %s", and produced " %s".
+1514	The passwords inserted in the two times do not correspond, please enter again.
+1515	Password error.
+1516	Error changing the password.
+1517	The negotiation account number of 元宝 has been blocked, please try again to perform the operation of 元宝 after unlocking
+1518	Failure to join, this faction can not accommodate more people.
+1519	The factions on both sides of the battlefield can not accommodate more people, it is not possible to be recruited!
+1520	Solo remained vague in the Toca del Dragón Faction, do you want to enter the queue to participate?
+1521	Solo remained vague in the Toca del Dios Faction, do you want to enter the queue to participate?
+1522	The %s fight has begun! Are you ready to enter the battlefield?
+1523	The battlefield here has not yet been opened.
+1524	Previously, you were already enrolled in other battlefields.
+1525	Your previous battlefield conclusion has not yet reached 1 minute, it is not possible to sign up for a new battlefield, please rest a little.
+1526	The battlefield here is very dangerous and your current level does not allow you to sign up.
+1527	Registration in the battlefield carried out, please prepare.
+1528	Here, the battle has already started a long time ago, you can not intervene in the middle of your walk, please, try to enroll in other battlefields.
+1529	Unlimited
+1530	Department %s
+1531	(None)
+1532	^ffcb4a remaining number of times: ^ff0000 %s ^ffffff
+1533	^ffcb4a remaining number of times: ^00ff00 %s ^ffffff
+1534	It is not allowed to use this key, please replace it with another one.
+1535	This key is already in use. select "confirm" to replace the original definition, select "cancel" to insert the key again.
+1536	You have mastered this ability completely, it is not possible to continue the improvement.
+1537	%s want to accept him as a disciple.
+1538	^ffcb4a Pet Attack (^00ff00 E ^ffcb4a) (Total Pet Attack: ^00ff00 Alt + E ^ffcb4a)
+1539	^ffcb4a Cancel Pet attack (^00ff00 R ^ffcb4a) (Cancel total Pet attack: ^00ff00 Alt + R ^ffcb4a)
+1540	Follow
+1541	Temporarily Stop
+1542	Active
+1543	Passive
+1544	The equipment can not be evaluated again.
+1545	^ffcb4a Pet skill bar %d ^ffffff It is possible to drag from the Pet bar to this column
+1546	No Pet selected
+1547	Do you want to use " %s" in Pet %s " %s"?
+1548	You do not have " %s", you can not forget the Pet's ability
+1549	Do you want to forget the " %s" ability of the Pet " %s"?
+1550	Do you want to feed the Pet " %s" with " %s"?
+1551	All Pets in the Pet bar are in use, this Pet can not be loaded.
+1552	Select a Pet skill in the Pet bar, click on the "forget skill" button to be able to use this article "
+1553	This article is linked, you can not let the Pet devour it
+1554	^00ff00 Off-hook automatically ^ffffff you can ^ffcb4a right-click ^ffffff to set to off-hook manually
+1555	Off-hook manually you can ^ffcb4a right-click ^ffffff to configure for ^00ff00 to automatically pick-up ^ffffff
+1556	Number of times the Pet has been called: %d Maximum limit that can be called the Pets: %d
+1557	Pet "%s" is not enough level to use this item
+1558	In this moment, you can not give items for the Pet devour
+1559	The personality type of the Pet " %s" does not correspond, it is not possible to use this article
+1560	Incorrect item, the Pet can not use
+1561	The Pet is dead. Please, first, revive the Pet to continue with the operation
+1562	Full package, it is not possible to transfer the Pet " %s" to the package bar
+1563	The Pet " %s" can not be transferred for the package bar. The free space in the package is insufficient to accompany the Pet " %s" and the equipment " %s"
+1564	The Pet is resting
+1565	In call status, the Pet can help you attack enemies
+1566	In merger status, the Pet can divide the damages suffered by you
+1567	Pet Bar
+1568	Character Inventory
+1569	Deaths
+1570	Not Evaluated
+1571	Do you want %s to use %s in the " %s" Pet %s " %s"?
+1572	Can not use this Pet tool
+1573	Parchment of the Renaissance
+1574	Evaluation Scroll
+1575	Scroll of Ability
+1576	Can not be equipped
+1577	Can not feed
+1578	The parchment of skill can not be used
+1579	The Pet of this breed can not use this equipment.
+1580	Pet level is not enough.
+1581	Pet Title does not meet the requirements.
+1582	Pet skill recharge time
+1583	^ffff00 Additional ability: ^ffffff
+1584	^ffff00 Additional property: ^ffffff
+1585	^ff0000 of Pet %s is too low ^ffffff
+1586	No valid Pet selected
+1587	This player's immortal reason: %d
+1588	%d ^ffdc50 Gold Diamond ^ffffff
+1589	%d ^b1b1b1 Silver Diamond ^ffffff
+1590	%d ^ffdc50 Gold Diamond ^ffffff %d ^b1b1b1 Silver Diamond ^ffffff
+1591	Price: %s
+1592	Term: %s
+1593	Qty: %d
+1594	^ffffff Level of the required sign: %s %d
+1595	^ffffff Previous Skill Required
+1596	^ffffff Required Reputation:
+1597	^ffffff Required item: %s %s %s %d
+1598	Do not teach this skill.
+1599	Without limits
+1600	6360 All levels
+1601	6361 level 01 ~ 20
+1602	6363 level 41 ~ 50
+1603	6363 level 41 ~ 50
+1604	6364 level 51 ~ 60
+1605	6365 Level 60 or higher
+1606	The battle of %s has already started, have you prepared to enter the battlefield?
+1607	Article is missing %s ^ff2828
+1608	You can only sign up in the battlefields of the line you are on.
+1609	The number of people registered in this battlefield is enough, it is not possible to enter.
+1610	(Number of people complete)
+1611	Victoria
+1612	Defeat
+1613	Draw
+1614	Each Team
+1615	%d Gold
+1616	%d Cash
+1617	The other party is not on the battlefield.
+1618	Today you participated in many struggles, you can not inspect more, please rest a little.
+1619	It is necessary to join a group that was registered in this battlefield, only then you can register.
+1620	Error in the operation
+1621	Only as a Captain it is possible to conduct a group for registration.
+1622	error in the status of the battlefield
+1623	All Skills
+1624	Available Skills
+1625	Databases Not Available
+1626	^123d45 Coin ^123d45 %s
+1627	^123d45 EXP ^123d45 %d
+1628	^123d45 True Element ^123d45 %d
+1629	^123d45Art .: ^123d45 ???
+1630	^123d45 Chivalry: ^123d45 %d
+1631	^123d45 Spiritual Currency ^123d45 %s
+1632	Updating items from the " %s" auction list, please wait ...
+1633	All Articles
+1634	Messages System: %s you divorced.
+1635	On the battlefield %s (line %s), %s killed %s, and got the first drop of blood
+1636	In the battalion field %s (line %s), %s already killed and became a demon! Is there a warrior that will prevent you from carrying out this killing?
+1637	On the battlefield %s (line %s), %s prevented the massacre of %s!
+1638	%d Level %s %d / %d
+1639	General Formula
+1640	%s (character ID = %I64d)
+1641	Please, enter the reasons.
+1642	There is an open dialog box related to "user processing message"
+1643	There is a dialog box open for "user process message", please, first, finish the processing of this dialog box.
+1644	- There are no runes -
+1645	The rune to be eliminated has not been selected.
+1646	%d month %day
+1647	Missing %s, can not continue to record the name.
+1648	The hidden potential of the strengthening of this equipment already exhibited its maximum limit, the strengthening teacher has no more strength to continue to strengthen.
+1649	This equipment can not find a hole to use in the rune code.
+1650	This equipment can not find an adequate hole to nail the current rune.
+1651	Even higher level equipment can only nail this rune.
+1652	The degree of strengthening of equipment and the level of the stone necessary for the change do not correspond.
+1653	Among the equipment of different parts of clothing, the change in quality can not be strengthened.
+1654	This equipment can not find any strengthening quality.
+1655	A %s is missing, the quality change can not be strengthened.
+1656	This equipment can not find a hole to use in the keychain of Jewels
+1657	The equipment of this level does not manage to sustain the hidden potential of this jewel, it is not possible to conclude the spiking
+1658	The equipment of this position can not initiate the hidden potential of this Jewel, it is not possible to complete the key
+1659	The study area has changed.
+1660	^000000 Method of Magic against God: %s ^000000 Radiant and stable brightness, keeps astrology as %s
+1661	^000000 Method of Magic against God: %s ^000000 Rays of light flooded the twilight of %s ^000000, reverse astrology for %s
+1662	^000000 Astrology: in the future, %d hours to %d, %s will appear with the appearance of a celestial body
+1663	ID error
+1664	^ffae00 %s ^ffffff Ability is not enough, it is not possible to continue
+1665	This system requires Don Points: %d points
+1666	Someone
+1667	%s sowed discord against his Pet!
+1668	You sowed discord against Pet's %s.
+1669	Display current attack: %d %%
+1670	%s started a combo, but was defended by %s
+1671	%s extreme fury, started an attack with all the forces, %s has been defeated.
+1672	At a certain height, %s has comprehended some battle tricks, and executed a refined blow, defeating %s.
+1673	%s did %s stumble successfully, and took the opportunity to start a deadly attack, %s has been defeated
+1674	The duel of %s with %s is not very easy, the two parties have not yet decided the winner and the loser.
+1675	Property of the Character
+1676	Battle of the Boss
+1677	Inventory
+1678	List of Missions
+1679	Fighting skills
+1680	Map
+1681	Video camera
+1682	Little Companion
+1683	System configuration
+1684	Calendar (click here)
+1685	Circle
+1686	Coliseum of the Heroes
+1687	Macro Editor
+1688	Title
+1689	PK Configuration
+1690	IE Window
+1691	Help
+1692	Basic Skill
+1693	Flexible Service
+1694	Photo
+1695	Hide player
+1696	Hide Company
+1697	Self-hunting
+1698	OPT
+1699	Practice
+1700	Item Level
+1701	Automatically search the path for the npc to key rune
+1702	Kiki Dictionary
+1703	Treasure House of the Goddess
+1704	Available
+1705	Physical combat power
+1706	Galactic Arena
+1707	Astromancy
+1708	Automatically search for the path for the Intendant of the Squire
+1709	Automatically search the way for Masami Kurumada
+1710	Dismantling the Magic Box
+1711	Click for more details
+1712	Automatically search the way for Altai
+1713	Guard of the Twelve Houses
+1714	Automatically search for the path for the Master Trainer
+1715	Automatically search the way for the Craftsman
+1716	Star Change
+1717	Hide Effect
+1718	Hide interface
+1719	Hide Monster
+1720	Display control screen
+1721	Display GM screen
+1722	Enter the Chat
+1723	Chat bar response
+1724	Automatically find the way for the Divine Artifact Emissary
+1725	Armor of the Spirit
+1726	Star Store
+1727	Aokigahara Forest
+1728	Grand Master of the Server
+1729	Automatically search the way for Monique
+1730	automatically search the way for Kaizen
+1731	Automatically search the way for Elisa
+1732	Automatically search the way for Severo
+1733	Automatically search the way for the Auctioneer
+1734	Automatically find the way to the Message Box
+1735	Flower of True Love
+1736	Daily Presence
+1737	Hide company name
+1738	Hide monster name
+1739	Select yourself
+1740	Infinity Black Hole Ranking List
+1741	Search automatic path of Athena Improvement
+1742	Find automatic way for the Memories of the Holy War
+1743	Find automatic way for the Memories of the Holy War 2
+1744	Video Mode
+1745	......
+1746	Masked Man
+1747	Overcoming oneself, refining the essence of the body and mind to become a myth, is the goal that all the Knights pursue in the Sanctuary. Recently, a girl named Lachesis appeared in the Sanctuary, claiming to be able to summon a strong person that every warrior will find throughout his life. After hearing that rumor, all the warriors of the Sanctuary were anxious to try ...
+1748	Mysterious Knight
+1749	Awkward Man
+1750	God of the Underworld
+1751	Distorted Monster
+1752	The man who sank in the dark
+1753	Mystery Cerberus
+1754	King of the Zombies
+1755	Beast Feroz
+1756	Queen Mermaid
+1757	Valkyries
+1758	Fire Golem
+1759	Mysterious Spectrum
+1760	Mysterious Marina
+1761	^9400D3Aldebarán
+1762	Golden Knight who protects the House of Taurus, known as "Golden Taurus". In spite of its giant physical bearing and its strong defense, its agility is not affected, being good also in dodging. In addition to fighting like a ferocious bull, he still has his famous deadly blow, the Big Horn - whose posture, normally, is to put both hands on his chest and quickly release both arms, forming electro-shock waves and doubling his power. This technique of struggle is also similar to the sword of "Iaido". \rThe personality of Aldebaran is that of an uninhibited, honest and big-hearted person, who is not limited to outward appearance and great principles, relying only on his own determination. While the battle of the Twelve Houses, he intentionally facilitated for Seiya and the others to pass safely, resulting in one of his horns cut off. In the battle in which the Wraith invaded the Sanctuary, Aldebaran resisted bravely against Niobe, the Earth Star of Darkness, and heroically sacrificed himself. Before dying, however, he completely destroyed the body of his adversary.
+1763	^00BFFFOrfeo
+1764	When young, Orpheus and Eurydice fell in love - but, unexpectedly, Eurydice ends up dying. Suffering, seeking to revive his beloved, he goes to the Underworld to ask Hades to revive her. The beautiful music of Orfeo ends up convincing Hades, who revives her; However, at the exit of the Underworld, Pandora tricks him with Pharaoh to turn Eurydice into stone, so that Orfeo can continue stuck there. When Seiya and the others come, Orpheus helps them, but ends up not participating in the Holy War immediately. In the end, because of Seiya and Shun, Orpheus discovers that the trap that Pharaoh had planned is the one that transformed Eurydice into stone. That has made Orfeo understand the reason of life and face Pharaoh. At the moment when Orpheus leads Seiya and Shun to kill Hades, he is surprised by Radamanthys attack, being seriously wounded. Later, the biggest blow Orfeo makes is, in reality, an illusion of Hades, causing his movement to fail. Orpheus dies in battle at the Temple of Hades. Following his beloved who had also left, Orpheus becomes stardust and, in heaven, plays his love song.
+1765	^00BFFFDragon Black
+1766	One of the Four Knights of the Apocalypse, his strength seems to be the greatest of the four. On the Island of the Death Queen, ikki fights for the Phoenix Armor and the Knight becomes his subordinate. To help ikki, he remains responsible for the chest of Sagittarius Golden Armor and faces Shiryu, who had lost a lot of blood due to the repair of his Armor. At first he was winning, but Shiryu uses the Rising Dragon of Rozan, shedding a lot of blood and beating him with difficulty. Shinadekuro, about to die, was touched by the friendship between the Bronze Knights and reached the vital point of Shiryu to stop his hemorrhage. \rThe Black Dragon has a blind twin brother, Fukuryu - who, in the struggle of darkness, it indicated the position of the enemy so that it had an advantage over others.
+1767	^00BFFFCassios
+1768	The disciple of Shina of Ophiuchus, a Silver Amazon, and the candidate for the Armor of Pegasus. Since childhood, Cassios lived in the Sanctuary, in Greece, and accepted the rigorous and laborious training of Saint. His body is robust, strong as a bull, and with only one hand he can grab Seiya's entire body. Regrettably, Cassios's destiny was only to be a supporting character, and, therefore, the author let him lose to Seiya during the Pegasus Armor competition, as well as having lost an ear too. \rIt is a person of respect for his grandiosity of sacrificing himself for love. When the Bronze Horsemen were in the race of the Twelve Houses, Seiya found a bitter struggle in the House of Leo: the Golden Knight of Leo, Aiolia, is attacked surreptitiously by the Grand Master, and under the Imperial Satan, with his sense of confused justice, attacks Seiya. The only way to get rid of the Imperial Satan would be to see the enemy die before him. Upon hearing that, Shina promptly ran to Leo's House - but, lest Shina be injured, Cassios died in her place, also saving Seiya, her former enemy.
+1769	^00BFFF Miho
+1770	She is an orphan since she was a child and always lived in the Children of the Stars Orphanage, growing up together with Seiya. She likes children very much and, after she grew up, she continued at the Orphanage, working as a caregiver. She is a gentle, tender and pure girl. The love between her and Seiya is a topic of conversation for many people. First, when Seiya came back from her training at the Shrine, she was very happy. Then, after Seiya and the others had gone through innumerable battles, she decided to try to prevent Seiya from going to the Shrine to battle with the Grand Master.
+1771	^00BFFFMarin Aquila
+1772	Aquila Silver Amazona and Pegasus Seiya teacher. Her perception is extraordinary and she is one of the most excellent warriors, with a calm and calm personality. Although his physical strength leaves a little to be desired when compared to that of the Knights, his extreme agility is even faster in fight. If the opponent shows a weakness, a certain and fatal attack will be given in a flash. \rYou are always looking for your little brother, who thinks he is still alive - and Seiya already mistakenly believed that she was his older sister. In the Saga of Hades, find Seiya's older sister, Seika.
+1773	^9400D3Mu
+1774	Golden Knight of Aries, with abundant justice and wisdom. When he began to distrust the Grand Master, he went on to live in the Jamir region, refusing to take his orders. Mu telekinesis is very strong and is also one of the only people with the ability to repair Armor. During the race at the Battle of the Twelve Houses, he helped Seiya and the others understand the Seventh Sense. During the Battle of the Underworld, he defeated the powerful Hades Specter: the Earth Star of Enchantment, Papillon. Later, in the demolished of the Wailing Wall, he sacrificed himself along with the other Golden Knights.
+1775	^00BFFFShina
+1776	Ophiuchus Silver Amazona, Cassios' teacher hides a beautiful and angelic face behind her mask, despite her aggressive and imposing attitude. Outraged by Seiya winning the Pegasus Armor in the place of his disciple, she attacked him while he tried to leave the Sanctuary. However, during the fight, he had his mask broken by Seiya, and for an Amazon, letting his face be seen by a man is the greatest of shame; according to the rules, you have to kill him or love him. For that reason, he went back to Seiya and tried to kill him several times, but, he joins the Bronze Knights when he learns that the Goddess Athena was next to them and, little by little, he ends up falling in love with the Pegasus Knight, reaching up to sacrifice for him in some battles. He participated in important fights in the Saga of the Sanctuary, Asgard and Poseidon.
+1777	^00BFFFIchi
+1778	Bronze Horseman of Sea Dragon, has a melancholic nature and it is very difficult for others to understand what he thinks. He specializes in blows with poisonous prey and has subtle movements in battle, like a snake. In the Galactic Tournament, he lost to Hyoga and had his Armor destroyed. Although it has a strange appearance, in truth, Ichi is a good person, who helps protect Saori during the Sanctuary Saga.
+1779	^9400D3Dohko
+1780	Golden Knight who protects the House of Libra and the master of Shiryu. He received the order of Athena to watch the 108 Hades Specters; for years he sat in the Five Ancient Peaks of Rozan to protect the seal and, for that, he was granted the technique of delayed aging. He is the most trusted Knight of the Goddess and one of the most powerful, known to all Knights as "Master". Like Mu, he mistrusted the old Grand Master and refused to receive orders from the Shrine - and, after Saga's defeat, takes over. He is one of the longest-living Knights, with 261 years. He sacrifices himself, finally, in the demolition of the Wailing Wall, along with the other Golden Knights.
+1781	^00BFFFGeki
+1782	The Bear Knight is the one of greatest stature and physical strength among the Bronze Knights. His only ability is the Bear Hug, which he learned after strenuous training in the Canadian Rockies, where he faced bears. Even being very safe, he is defeated by Seiya in the Galactic Tournament eliminatory and his Armor ends up being destroyed in the battle. They say he carries the dream of becoming a coach. Despite his more brute appearance, he is full of compassion and loves children.
+1783	^00BFFFJabu
+1784	Unicorn Bronze Knight who has an eternal quarrel with Seiya. He is in love with Saori since childhood and is extremely loyal to her. He has basic telekinesis and struggles using mainly his legs to strike his blows. Defeat Ban in the Galactic Tournament, and then, in the second round, he faces the Andromeda Chain of Shun and is defeated. In the Saga of the Twelve Houses, after a new training in Algeria, he returns to be close to Athena, to protect her and help repel the invasion of the Sailors.
+1785	^00BFFFSeiya
+1786	Main character and the Bronze Horseman of Pegasus. Normally, he acts like a child and has an innocent and impulsive personality. However, when it comes to fighting, especially when Athena finds some danger, she uses all her strength and shows herself a very skilled Knight. It is the spirit that leads the others, with a great sense of justice and always running forward of the battle. His place of training is the Sanctuary of Greece, where he was a pupil of Marin.
+1787	^00BFFFShiryu
+1788	Dragon Bronze Knight. He was under the care of Dohko of Libra to train in the Five Ancient Peaks, in China. While his training, he has managed to reverse the flow of the Great Cascade of Rozan and, thus, deserved to win his Armor. \rDe frank personality, gives much value to friendship and believes in the power that it has, always ready to die for his friends; He is the one who sacrifices his own life for others. Shiryu participated in many fights in which he was close to death, since, generally, he needed not to hesitate to exploit his Cosmo and, in the end, to defeat an enemy that had no chance to win.
+1789	^9400D3Aiolia
+1790	Golden Knight who protects Leo's House, is also called "Leo Dorado". He is known for his firmness and bravery, he is extremely fair and brave. He ardently wishes to cleanse the stigma of his older brother, Aiorios de Sagitario, who was killed for being considered a traitor to the Sanctuary. In a fight in the Underworld, he resisted only the six Wraiths, using his Lightning Plasma to defeat the Earth Star of Concealment, Laimi. In the end, due to the enchantment of the Underworld that was weakening him, he was defeated by one of the Three Judges - The Celestial Star of Fury, Radamanthys. In the Underworld, in order to overthrow the Wailing Wall, it is also sacrificed in devotion to Athena.
+1791	^00BFFFEsmeralda
+1792	Gentle young man of pure beauty, obstinate as fresh flowers that bloom in the middle of Hell. Inhabitant of the Island of the Queen Death, he met Ikki while training, and gave him comfort and care. In Ikki's fight to obtain the Phoenix Armor, she ends up accidentally receiving Guilty's blow and dies. Thus, ikki incarnates in hate, awakens his Cosmo, kills his master and obtains the Armor.
+1793	^00BFFFCisne Black
+1794	One of the four Knights of the Apocalypse, responsible for the shoulder pads of the Golden Armor of Sagittarius after Ikki steal it in the Galactic Tournament. Jido fought Shun and, later, was defeated by Hyoga in the Valley of Death. But, before dying, he memorized Hyoga's technique and, through a unique skill, recorded the blows on his eyeball and sent them to Ikki by teleport.
+1795	^00BFFFPegasus Black
+1796	One of the four Knights of the Apocalypse, was responsible for the waist of the Golden Armor of Sagittarius after Ikki steal it in the Galactic Tournament. Kenuma uses the Black Meteor: that technique is able to split the armor and damage the body, causing black spots appear on the skin that do not stop to increase in size, and cause poisoning in the blood of the enemy and, finally, the death. He was defeated by Seiya, but, before dying, manages to strike his blows and almost killed him too; Seiya survives thanks to Shiryu, who reached her vital points and managed to purify her blood.
+1797	^00BFFFAndrome Black
+1798	One of the four Knights of the Apocalypse, was responsible for the body of the Golden Armor of Sagittarius, after Ikki stole it in the Galactic Tournament. Its Black Currents drain life and create illusions, causing the enemy to believe that it became a serpent. He was defeated by Shun, who was taken by the wrath for being attacked cowardly when trying to save Seiya and easily defeated him.
+1799	^00BFFFGuilty
+1800	Master of Ikki on the Island of Queen Death and called "Devil's Knight", responsible for wearing the mask that seals the evil of the island. He believes that his disciple is too benevolent, always tells him that he is weak and lacks hatred. During the battle for the Phoenix Armor, he accidentally killed Esmeralda - which made Ikki arouse his deepest hatred and kill him.
+1801	^00BFFFJango
+1802	A warrior who believes only in brute force. He became the leader of the Black Knights after Ikki was defeated by the other Bronze Knights. He tried in vain to take the Phoenix Armor by force, but the Armor did not approve. In the end, Ikki, who wore the Phoenix Armor, killed him.
+1803	^9400D3Saga
+1804	Golden Knight of Gemini who has a double personality, oscillating between good and evil; when the good side prevails, it receives admiration as a god; when the bad side prevails, it was as if it were the devil himself. 13 years ago he imprisoned Kanon, his twin brother, in Cape Sunion for his extreme evil. However, he failed to control the ambitions of his shadow side and murdered the previous Grand Master, acting as an imposter instead. In terms of combat, Saga possesses, at the same time, the ability to control the mind and the capacity for material destruction. \\ Only when Seiya arrives at the Grand Master's Hall, the evil side of Saga disappears next to the arrow in the chest of Saori. Finally, he committed suicide in front of Athena, in order to redeem himself.
+1805	^9400D3 Shaka
+1806	Golden Knight who protects the House of Virgo - which, under his protection, is the strongest point of defense of the Twelve Houses. He is the reincarnation of the Buddha and is known as "The man closest to God." He was the first to understand the Eighth Sense, and usually closes his eyes to refine his senses and increase his Cosmo, which has the likeness of a God.
+1807	^9400D3Shura
+1808	Golden Knight who protects the House of Capricorn. He was the one who left Aioros almost dead during his flight with Athena, thirteen years ago. The sword-shaped hand of Shura possesses the same power as the legendary Excalibur sword, capable of breaking down any obstacle, cutting with the palm of the hand even the solid shield of the Dragon, splitting it in two. He has the title of "the most loyal Knight", but his loyalty is so great that he becomes blind and ends up being cheated by the Grand Master because of her. But, when he was about to die, he fell into himself and saved Shiryu's life by wearing him in his Golden Armor, proving to be an honorable Knight.
+1809	^​​00BFFFIkki
+1810	The older brother of Shun de Andromeda, his teacher was the mysterious Knight of the Isle of Queen Death, Guilty. He is the strongest Bronze Knight, as well as being good at attacks that manipulate the opponent's mind. A person overflowing hatred, calls himself "the man who gave up everything", but is described by Saga as that style of man "whose sense of justice is hidden inside his heart". It is cold in nature, but it hides emotions about his personality - and the hardest to hide is the care and concern he has for his brother. He never says that friends give him hope, trust and faith, but he always appears at the moment when Seiya and the others are in greater danger.
+1811	^00BFFFHyoga
+1812	Cygnus Bronze Knight and disciple of Camus of Aquarius. He has a discreet personality, always in conflict with his own emotions, despite trying to be rational above all. While his training in Eastern Siberia, he received orders from the Shrine to go to the Galactic Tournament to punish the Bronze Horsemen who fought for personal ends, but ended up getting into the struggles for the Golden Armor to see that it was not true. In that half time, Hyoga develops a deep and solid friendship with the other Bronze Knights. After that, as Knight Protector of Athena, he fights together with others in order to defend peace on Earth.
+1813	^9400D3Mascara de la Muerte
+1814	Golden Knight of Cancer. He is extremely sadistic and violent, believing that sacrifices are inevitable for a greater purpose. The four walls of the Cancer House are covered with the faces of their victims, in order to exhibit their victories; for that reason, he obtained the title of "Mask of Death". Its mortal blow is the Infernal Waves, in which it emits a white aura of its index finger, sending the spirit of its opponent to the entrance of the Underworld. In the fight against Shiryu, he is abandoned by his Armor and ends up defeated and killed. During the Hades Saga, he revives thanks to Hades and is sent to the Sanctuary to execute the mission to kill the Goddess, but again he is defeated and sent to the Underworld, by Radamanthys. In the Elysian chapter, he participates as a Golden Knight in the demolition of the Wailing Wall, sacrificing himself.
+1815	^9400D3Aioros
+1816	Former Golden Knight of Sagittarius and older brother of the Golden Knight of Leo, Aiolia. His heroic, honest and good-hearted figure was respected by all, and he would be the successor of Grand Master Shion. Thirteen years ago, in order to protect the young Goddess from the danger of the impostor Grand Master, she decided to flee from the Sanctuary, but was severely wounded by Capricorn Shura. So, he took his Golden Armor and the little Goddess and entrusted them to a tourist who was traveling through Greece, Mitsumasa Kido, and he died soon afterwards. Even after his death, his heroic spirit remained in the Golden Armor, and several times when Seiya and the others were in great danger, he appeared at his side, helping them overcome powerful enemies. On the wall of the House of Sagittarius his testament is stuck: "To the young people who arrive here, I trust Athena to their care".
+1817	^00BFFFKrishna
+1818	The General Marina de Crisaor. The interior of Krishna's body possesses a mystical side capable of activating the seven chakras, and the liberated cosmic energy is almost equivalent to that of a Golden Knight. His main weapon is the Golden Spear, whose power is impressive, being able to cut the opponent only with the air driven by it. Defeated by the Excalibur of Shiryu, Krishna demonstrated an honest spirit like that of a samurai, respecting the adversary he considers worthy, even being an enemy.
+1819	^9400D3Kanon
+1820	Twin brother of Saga, although no one in the Sanctuary knew of its existence. He has a much more evil personality than his brother, this being the reason for having been imprisoned in the Cape Sunion. There, he ended up awakening the soul of Poseidon and passed by General Navy of Sea Dragon, wishing to use the name of the God of the Oceans to defeat Athena, with the purpose of conquering the whole Earth; this is the reason for his title of "The man who dared to deceive even the gods". After the War of the Underwater World, Kanon sincerely repented of his deeds and inherited the aspiration left by his brother, becoming the new Golden Knight of Gemini, fighting for the Goddess. His strength, in fact, is not inferior to that of Saga, so much so, that he fought at the same time and from the same to the same with the Three Judges of the Underworld.
+1821	^9400D3 Aquarium Camus
+1822	Golden Knight who protects the House of Aquarius. It is cold, prudent and determined. It has the title of "The Wizard of Ice". His behavior is controlled, honest and possesses genuine courage. He was the master of the Cygnus Knight, Hyoga, and Marina Isaak of Kraken, and he always instructed them that "in front of the enemy, one must remain indifferent" - but he himself leaves such teaching aside when, in the Twelve Houses, he fights against his beloved disciple, Hyoga, and he smiles at his death.
+1823	^9400D3Milo
+1824	Protector of the eighth of the Twelve Houses of the Sanctuary, the Scorpio Knight has the calmest personality among the Golden Knights. It is known in the Sanctuary as "The Sunbeam of Greece". He is very sure of himself and has a proud and passionate nature, but he is always very calm and controlled in battle. In the end, Milo and the other Golden Knights used their lives so that the Bronze Horsemen could open the way to the Champs-Elysees. Milo's loyalty to the Goddess and the love she had for the Earth were transformed into a bright ray of light, which will remain eternally in the Scorpio Armor.
+1825	^9400D3Aphrodite
+1826	Golden Knight of Pisces, it is said that there is no one more beautiful among the 88 Knights, having the title of "Warrior whose brightness of beauty competes with the Sun and the Moon". He has a great sense of justice, but he believes piously in the law of the strongest and that only a supreme power can maintain peace in the world. His blows transform the roses into weapons: among which is the red rose, which causes the opponent to lose his five senses; the black one, capable of breaking down any obstacle; and white, which absorbs the blood of his adversary. His Royal Diabolical Roses are among the greatest deadly attacks of all types of Knights.
+1827	^00BFFFKiki
+1828	Kiki is a disciple of Mu. Each Knight of Aries has an assistant, and Kiki was adopted by Mu as such when they met at Jamir. The eyebrows, in the form of circular dots, are a characteristic of the race of Jamir. He is a mischievous but kind-hearted child, who helps the Knights whenever he can. Kiki's most important skills are telekinesis, with which he manages to move the body of people or animals for a short period of time, and its speed, which can reach the speed of light.
+1829	^00BFFFShunrei
+1830	A baby was still abandoned in a village in Rozan and, since then, it was created by the Master. The beautiful rivers and mountains of China gave him a gentle, humble spirit and a strong determination. Her prayers and care always gave her support to Shiryu, her childhood friend for whom she is in love.
+1831	^9400D3Sorrento
+1832	One of the Seven Marine Generals on the mandate of the King of the Seas, Poseidon. With sincerity in his heart, Sorrento really believes that Poseidon can cleanse the evil of the Earth to establish an ideal world. Sorrento is a specialist in using the sound of his flute, whose formidable power has already left Aldebaran in despair. In the fight to protect the Pillar of the South Atlantic Ocean, he is defeated by Shun.
+1833	^9400D3Rhadamanthys
+1834	Celestial Star of Fury, the Wyvern Specter is known as "the strongest of the Three Judges of the Underworld" among the 108 Specters. When the story begins, contradicting Pandora's orders, he sends by himself a troop of Specters to advance against the Underworld; After that, he becomes a formidable opponent of Seiya and the others. He does not have only the trust of Hades, as he is also loved and respected by his subordinates. In the fight against Kanon, in the Underworld, he was hit by his opponent's suicide attack and ends up disappearing into the Underworld sky.
+1835	^9400D3Mines
+1836	Celestial Star of the Nobility, the Gryphon Spectrum is one of the Three Judges of the Underworld, and its strength almost equals that of the other two. The personality of Minos is calm; During a battle, wait until the perfect moment to strike a decisive blow. As the last of the Three Judges to be defeated, in order to prevent the departure of Seiya and the others, he had an intense fight against Hyoga. However, as he entered the Hyperdimension, as he did not have divine protection, his body ended up turning into dust.
+1837	Power to obtain Wings %s: %s
+1838	Auxiliary items:
+1839	Recommendations:
+1840	Party
+1841	Send MP
+1842	Add friend
+1843	Visualize
+1844	Negotiate
+1845	Guild
+1846	Duel
+1847	Copy name
+1848	Block
+1849	Power
+1850	Achievements
+1851	Contact
+1852	Apprentice
+1853	Teacher
+1854	Appoint substitute
+1855	You have been muted!
+1856	Mutual embrace
+1857	Teacher and apprentice
+1858	Embracing
+1859	Reply
+1860	Exclude
+1861	Book
+1862	Cancel Reservetion
+1863	Leave Group
+1864	Undo
+1865	Collect Group
+1866	Restart DG
+1867	Undo Raid
+1868	Cancel Embrace
+1869	Change Leader
+1870	Eject
+1871	Negotiate
+1872	Follow target
+1873	Move up
+1874	Auxiliary
+1875	Challenge
+1876	Level: %s
+1877	Change Leader
+1878	Adjust group
+1879	Define Leader
+1880	Eject
+1881	Change Regent
+1882	Open chat
+1883	Move friend
+1884	Exclude
+1885	Pet Parrot
+1886	Send roses
+1887	Add unlock code password
+1888	Configure Permissions
+1889	Expulsion from the battlefield
+1890	─────────────────────────
+1891	.
+1892	(Empty)
+1893	(Empty) \ t
+1894	Strong features
+1895	Weak characteristics
+1896	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV38 \r ^ffffffSearch for Joseph in Silver City \rNecessary items: \rBraze fragment x15
+1897	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \ Need to Own the Flying Fish Armor \r ^ffffffFind Joseph in Silver City \rNecessary items: \rBronze Shard × 60
+1898	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \ Need to Own the Sextans Armor \r ^ffffffFind Joseph in Silver City \rNecessary items: \rBronze Shard × 60
+1899	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV38 \r ^ffffffFind Altai in Silver City \rNecessary items: \rFragment of Silver × 40
+1900	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \ Need to Own the Cassiopaean Armor \r ^ffffffSearch for Altai in the Silver City \rRequired Items: \rSharp Shard × 200 \rAuthorization of Armor [Silver] × 3
+1901	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to possess the Snake Armor \r ^ffffffFind Joseph in Silver City \rNecessary items: \rBronze Shard × 60
+1902	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \ Need to own the Dolphin Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Silver] × 2
+1903	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own Raven Armor \r ^ffffffSearch for Altai in Silver City \rRequired Items: \rPlateral Shard × 160 \rAuthorization of Armor [Silver] × 2
+1904	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV75 \rNecessary to possess the Compass Armor \r ^ffffffSearch for Altai in the Silver City \rRequired items: \rFragment of Silver × 200 \rAuthorization of Armor [Silver] × 3
+1905	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \ Necessary to own the Whale Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rFragment of Silver × 200 \rAuthorization of Armor [Silver] × 3
+1906	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Reticle Armor \r ^ffffffFind Altai in the Silver City \rNecessary items: \rFragment of Silver × 120
+1907	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it [1]: \rChange with the Emissary of the Golden Sacred Light in the Silver City \rNecessary items: \rChange - Golden Armor x1 \r Golden Sacred Light x100 \rHow get it [2]: \rOpen the Armor album and put all the pieces together \rThe pieces can be changed with Jonathan for Armor Authorization [Gold] \rThe World Bosses dropam pieces
+1908	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign of ^0184ffPegasus \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1909	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign ^0184ffDragon. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1910	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the Corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign ^0184ffCisne. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1911	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign ^0184ffAndromeda. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1912	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing Sign in the LV59 \rTalk to Clyde in the Silver City and change to the sign ^0184ffPhoenix \r ^ffffffHave again with Clyde and perform the Predestination Quest.
+1913	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rDo you need to own the Centaur Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Silver] × 2
+1914	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Sagite Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rSharp Shard × 200 \rAuthorization of Armor [Silver] × 3
+1915	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Auriga Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rSilver Shard × 120
+1916	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Eagle Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rSilver Shard × 120
+1917	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNeed to own the Reindeer Armor \r ^ffffffFind Joseph in Silver City \rNecessary items: \rBronze Shard × 60
+1918	^ff0000You did not obtain the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV65 \rNecessary to possess the Armor of Heracles \r ^ffffffSearch for Altai in the Silver City \rRequired items: \rFragment of Silver × 160 \rAuthorization of Armor [Silver] × 2
+1919	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNecessary to own the Triangle Armor \r ^ffffffSearch for Altai in the Silver City \rRequired items: \rPlant Shard × 160 \rAuthorization of Armor [Silver] × 2
+1920	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \ Need to own the Berenice Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rFragment of Silver × 160 \rAuthorization of Armor [Silver] × 2
+1921	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Perseus Armor \r ^ffffffSearch for Altai in the Silver City \rRequired items: \rSharp Shard × 200 \rAuthorization of Armor [Silver] × 3
+1922	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Turkey Armor \r ^ffffffSearch for Altai in the Silver City \rRequired Items: \rSharp Shard × 200 \rAuthorization of Armor [Silver] × 3
+1923	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to own the Cefeus Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rFragment of Silver × 120
+1924	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \ Do you need Pigeon Armor \r ^ffffffSearch for Altai in Silver City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Silver] × 2
+1925	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Fornax Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rSilver Shard × 120
+1926	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV65 \rNeed to own the Sword Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rPlateral Shard × 160 \rAuthorization of Armor [Silver] × 2
+1927	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \ Necessary to own the Hunting Dog Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \r Silver Shard × 200 \r Armor Authorization [Silver] × 3
+1928	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV75 \rNecessary to own the Atrium Armor \r ^ffffffSearch for Altai in the Silver City \rRequired items: \rSharp Shard × 200 \rAuthorization of Armor [Silver] × 3
+1929	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNeed to own the Empress Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rSilver Shard × 120
+1930	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \ Need to have the Stern Frame \r ^ffffffFind Joseph at the Cidade Prata \rNecessary items: \rBronze Shard × 60
+1931	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \ Need to have the Shield Armor \r ^ffffffFind Joseph in Silver City \rNecessary items: \rBronze Shard × 60
+1932	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNew LV50 \rNecessary to own the Southern Crown Armor \r ^ffffffFind Joseph in Silver City \rNecessary items: \rBronze Shard × 60
+1933	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV50 \rNecessary to possess the Hare Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rSilver Shard × 120
+1934	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \rSearch for Zephyr in Silver City for the change \rNecessary items: \r Armor Authorization [Black] × 1 \rYou can get the Armor Authorization [Black] through of change with Zephyr \rNecessary items: \rBlack insignia × 30
+1935	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Pandora in Silver City \rNecessary items: \r Surplice fragment × 90 \rFixed fragment × 100 \rFragment fragment Bronze × 100 \rIt is possible to obtain Surplice Fragment with Pandora. \rNecessary items: \r Gold fragment \r \rTeaTea Tear
+1936	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Silver City \rRequired Items: \r Gold Shard × 50 \rFragment Shard × 100 \rFragment Shape Bronze × 100
+1937	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV92 \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 240 \r It is possible to get Metal from the Underworld with Pandora . \rNecessary item: \rFragment of Silver
+1938	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign ^0184ffDragon Mar. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1939	^ff0000You did not get the Armor yet. \r ^ffffffHow to obtain it: \r ^0184ffNecessary LV50 \rNecessary to possess the Fly Armor \r ^ffffffSearch for Altai in the Silver City \rNecessary items: \rFragment of Silver × 120
+1940	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign ^0184ffWyrm. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1941	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to possess the Surplice of Acheron \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1942	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNeed to own the Surplice of Alraune \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1943	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Harpian Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1944	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Balrog Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1945	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ \ \ You need to have the Basilisk Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1946	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Minotaur Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1947	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Sphinx Surplice \r ^ffffffFind Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1948	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Silver City \rRequired Items: \r Gold Shard × 100 \rFragment Shard × 100 \rFragment Shape Bronze × 100
+1949	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Silver City \rRequired Items: \rFragment of Gold × 125 \rFragment of Silver × 100 \rFragment of Bronze × 100
+1950	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Silver City \rRequired items: \r Gold Shard × 150 \rFragment × 100 \rFragment Bronze × 100
+1951	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNew LV80 \r ^ffffffFind Julián in Silver City \rRequired Items: \r Gold Shard × 175 \rFixed Shard × 100 \rFragment Shard Bronze × 100
+1952	^ff0000You did not get the Scale yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV80 \r ^ffffffFind Julián in Silver City \rNecessary items: \rFragment of Gold × 200 \rFragment of Silver × 100 \rFragment of Bronze × 100
+1953	^ff0000You did not obtain the Armor. \r ^ffffffOftended through the main quest of the corresponding Sign. \rCan be obtained by changing the Sign in LV59. \rTalk to Clyde in the Silver City and change to the sign ^0184ffLira. \r ^ffffffHey again with Clyde and perform the Predestination Quest.
+1954	^ff0000You did not get the Surplice yet. \r ^ffffffHow to get it: \r ^0184ffNecesary LV97 \rYou need to own the Lycaon Surplice \r ^ffffffSearch for Pandora in Silver City \rNecessary items: \rInterworld Metal × 280 \rEs possible to obtain Metal from the Underworld with Pandora. \rNecessary article: \rFragment of Silver
+1955	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \rNecessary to own the Taurus Armor \r ^ffffffChange with the Emissary of the Golden Sacred Light in the Silver City \rNecessary items: \ Sacred Piece 1 [Taurus] × 16 \r Sacred Piece 2 [Taurus] × 16 \r Sacred Piece 3 [Taurus] × 16 \rThe World Bosses dropam pieces
+1956	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ NNecessary to possess the Pisces Armor \r ^ffffffChange with the Emissary of the Golden Sacred Light in Silver City \rNecessary items: \ Gold insignia × 120 \rThe badges can be obtained at major events
+1957	^ff0000You still did not get the Armor. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Need to Own the Cancer Armor \r ^ffffffChange with the Emissary of the Golden Light of the Silver City \rNecessary items: \ Sacred Part 1 [Cancer] × 16 \r Sacred Piece 2 [Cancer] × 16 \r Sacred Piece 3 [Cancer] × 16 \rThe Dropam Parts of World Bosses
+1958	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Leo Armor \r ^ffffffChange with the Emissary of the Golden Light of the Silver City \rNecessary items: \ Sacred insignia [Leão] × 32 \rThe insignia can be dropped in the Heilong World Boss
+1959	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to possess the Scorpio Armor \r ^ffffffChange with the Emissary of the Golden Sacred Light in the Silver City \rNecessary items: \ Gold insignia × 120 \rThe badges can be obtained at major events
+1960	^ff0000You still did not get the Armor \r ^ffffffHow to obtain it: \r ^ff0000Require level 92 \rNecesario first obtain fff600Armor of ^ff0000Geminis \r ^72fe00con ^0184ffEmisary of the Golden Light of Sacred ^72fe00for the change \r ^ffffffFor the change it is necessary to gather ^fff600 Fifty Sacred Badges of Gemini \r ^ffffffMode to obtain badges: \r ^72fe00 Instance Zone ^0184ffInside of the 12 Golden Houses I ^72fe00Derrotar ^0184ffGeminis of degree of difficulty Assassin of Gods ^72fe00
+1961	^0184ffArmy Competitions for Galactic Sovereignty ^fff600 Winning Army Award
+1962	^ffffffCan obtain official events
+1963	^ff0000Not available at the moment \r ^fff600Available only through quest. \r ^ffffffHow to obtain (Future): \r ^ff0000Needdance LV59 \rProcure ^0184ffAllen ^72fe00 and change sign to ^0184ffTurned ^72fe00, then complete quest: \r ^0184ffTroca! Predestined Sign (Tornado)
+1964	^ff0000You still did not get the Armor \r ^ffffffHow to get: \r ^ff0000Needded LV50 \rYou need to have Tsunami Armor \r ^ffffffProcure ^fff600Altai ^ffffffna Silver City \r ^fff600 Items Needed: \r ^ffffff Silver Shield x120
+1965	^ff0000You still did not get the Armor \r ^ffffffHow to get: \r ^ff0000Needded LV65 \rNeeded to have Desert Armor \r ^ffffffProcure ^fff600Altai ^ffffffna City Silver \r ^fff600 Required items: rAuthorization Authorization [Silver] x2
+1966	^ff0000You have not yet obtained the Armor \r ^ffffffHow to obtain: \r ^ff0000Needance Required LV75 \rEquired to have Aurora Armor \r ^ffffffProcure ^fff600Altai ^ffffffna Silver City \r ^fff600 Items Required: rAuthorization Authorization [Silver] x3
+1967	^ff0000You have not yet gotten the Armor \r ^ffffffHow to get: \r ^ff0000Needed LV97 \rNeeded to have the Sapuris of ★ Matter \r ^ffffffProcure ^fff600Pandora ^ffffffna Silver City \rItems required: \rMethod of the Underworld x280 \rE possible get Metal from the Underworld with Pandora \r ^fff600Item required: \r ^ffffff Silver Shard
+1968	(Customize)
+1969	First chapter
+1970	Blood and Fire Test
+1971	SOC
+1972	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1973	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1974	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1975	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Volans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1976	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+1977	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Sextans^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1978	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Cassiopeia^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200^72fe00\r^0184ffArmor Authorization [Silver]×3
+1979	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Serpent^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+1980	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Crow^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+1981	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Piscis Aus.^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+1982	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Compass^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+1983	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Cetus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items:\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+1984	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Reticle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+1985	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Oriolus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+1986	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1987	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1988	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1989	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1990	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1991	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1992	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1993	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1994	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1995	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1996	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1997	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain1：\r^72fe00From ^0184ffEmissary of the Golden Knights^72fe00 exchange\r^ffffffRequired items：\r^fff600Change - Golden Armor×1\r^fff600Sacred Light of Gold×100\r^ffffffHow to obtain: \r^72fe00After opening Gold Holy Armor illustrations\rCollect all ^fff600Parts of the Random Gold Armor\r^ffffffVisit：\r^0184ffJonathan^72fe00 to exchange for ^fff600Armor Authorization [Gold]^72fe00\r^0184ffWorld Bosses ^72fe00drop
+1998	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffPegasus^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Pegasus)
+1999	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffDragon^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Dragon)
+2000	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffCygnus^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Cygnus)
+2001	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffAndromeda^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Andromeda)
+2002	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffPhoenix^72fe00 sign\rand complete quest: ^0184ffConversion! Star of Fate (Phoenix)
+2003	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Centaur^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2004	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Sagitta^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2005	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Auriga^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2006	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Eagle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2007	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Tarandus^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2008	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Hercules^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2009	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Triangle^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2010	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Berenices^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2011	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Perseus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2012	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Pavo^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2013	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Cepheus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2014	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Lyraff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2015	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Chameleon^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2016	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Fornax^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2017	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2018	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2019	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Hydra^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2020	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 84\rRequires ^fff600Dorado^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×160\r^0184ffArmor Authorization [Silver]×2
+2021	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Crux^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2022	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Corona Borealis^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2023	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 94\rRequires ^fff600Atrium^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×200\r^0184ffArmor Authorization [Silver]×3
+2024	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Queen^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2025	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Puppis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2026	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 60\rReq. Combat Power 39960\rRequires ^fff600Eridanus^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×40
+2027	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Shield^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2028	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 50\rReq. Combat Power 5140\rRequires ^fff600Corona Australis^ff0000 Holy Armor\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×60\r^0184ffArmor Authorization [Bronze]×1
+2029	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 30\rReq. Combat Power 5140\r^72fe00Bronze Craftsman ^0184ffJoseph^72fe00 exchange\r^ffffffRequired items：\r^0184ffBronze Shards×15
+2030	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2031	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2032	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2033	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2034	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2035	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment of Surplice×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffFragment of Surplice^72fe00 can be obtained via ^fff600Fragment of the Golden Armor^72fe00 or ^fff600Tears of Athena^72fe00
+2036	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment of the Golden Armor×50\r^0184ffSilver Shards×100\rBronze Shards×100
+2037	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment of Surplice×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffFragment of Surplice^72fe00 can be obtained via ^fff600Fragment of the Golden Armor^72fe00 or ^fff600Tears of Athena^72fe00
+2038	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffPandora^72fe00 exchange：\r^ffffffRequired items：\r^a800ffFragment of Surplice×90\r^0184ffSilver Shards×100\r^72fe00Bronze Shards×100\r^a800ffFragment of Surplice^72fe00 can be obtained via ^fff600Fragment of the Golden Armor^72fe00 or ^fff600Tears of Athena^72fe00
+2039	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2040	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2041	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2042	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2043	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2044	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffSea Dragon\r^72fe00and complete quest: ^0184ffConversion! Star of Fate (Sea dragon)
+2045	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2046	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2047	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 75\rReq. Combat Power 39960\rRequires ^fff600Musca^ff0000 Holy Armor\r^72fe00Silver Craftsman^0184ff Altai^72fe00 exchange\r^ffffffRequired items：\r^0184ffSilver Shards×120\r^0184ffArmor Authorization [Silver]×1
+2048	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 2\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×240\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2049	^ff0000You don't have this Holy Armor yet\r^fff600This Holy Armor may be obtained via Main Quest progression\r^ffffffNon-class Holy Armor. How to obtain：\r^ff0000Required level 59\r^0184ffAllen^72fe00 is able to switch your constellation to ^0184ffWyern^72fe00\rand complete quest: ^0184ffConversion! Star of Fate (Wyvern)
+2050	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^72fe00From Dark Cratfsman ^0184ffCephiro^72fe00 exchange\r^ffffffRequired items：\r^0184ffArmor Authorization [Black]\r^72fe00You can obtain it by exchanging ^0184ffBlack Badge×30^72fe00
+2051	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Acheron^ff0000 Scale\r^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2052	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Alraune^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2053	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Harpy^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2054	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Balrog^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2055	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Basilisk^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2056	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Minotaur^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2057	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required submersible level 7\rRequires ^fff600Sphinx^ff0000 Scale\r^0184ff^72fe00At ^0184ffPandora^72fe00 exchange\r^ffffffRequired items：\r^0184ffMetal from the Underworld×280\r^0184ffMetal from the Underworld^72fe00can be found at ^0184ffPandora^72fe00 by\rusing ^0184ffSilver Shards^72fe00
+2058	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment of the Golden Armor×100\r^0184ffSilver Shards×100\rBronze Shards×100
+2059	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment of the Golden Armor×125\r^0184ffSilver Shards×100\rBronze Shards×100
+2060	^ff0000You don't have this Holy Armor yet\r^ffffffHow to obtain：\r^ff0000Required level 80\r^72fe00At ^0184ffJulian^72fe00 exchange\r^ffffffRequired items：\r^fff600Fragment of the Golden Armor×150\r^0184ffSilver Shards×100\rBronze Shards×100
+2061	2333
+2062	55555
+2063	888
+2064	After getting enough battlefield reputation points, you can visit ${pos(-182,339,402,2,'Sherlock')} to redeem rewards
+2065	Personal combat power
+2066	Personal instant
+2067	Within the legion
+2068	Legion
+2069	     All players who settled at 24 o'clock this week accumulated accumulative data\r based on the list. After the maintenance on Tuesday, the first player will be given a time limit of 1 week. Black Pearl special effects wings fashion\r After the maintenance on Tuesday, Sanctuary The district will erect a statue for the first player this week and issue benefits to the players in its name!
+2070	
+2071	 A total list refresh will be performed every month, and the monthly list will be reset on the 1st of each month to display the list of the month. The first month of each month will be issued the title of the previous month after maintenance. \r The player gets the title\r The gorgeous individual flower list of the arrogant frost gets the 1st place\r The beautiful individual flower list of the bloom gets the 2nd place\r The 3rd place of the shining individual flower list in the flower cluster \r Born like a summer flower, the warmth of individual flower list won the 4th-10th
+2072	The qualifications for the competition have been closed and the points will automatically expire on August 1. Please visit the official website to confirm the final list of the finalists, please also enter the team leader to receive the tickets.
+2073	Once reputation reaches a certain level visit ${pos(203,317,292,4,'Imai Sokyu')} to purchase items
+2074	Once reputation reaches a certain level visit ${pos(-236,350,352,2,'Horacio')} to purchase items
+2075	Once reputation reaches a certain level visit ${pos(-236,350,356,2,'Golias')} to purchase items
+2076	Once reputation reaches a certain level visit ${pos(-236,350,360,2,'Griveous')} to purchase items
+2077	Once reputation reaches a certain level visit ${pos(-236,350,364,2,'Agaris')} to purchase items
+2078	Once reputation reaches a certain level visit ${pos(-239,358,306,2,'Severe')} to purchase bead chain
+2079	Once reputation reaches a certain level visit ${pos(-278,343,220,2,'Star Quartermaster')} to purchase items
+2080	Available at ${pos(-264,356,309,2,'Legacy Store')}
+2081	Available at ${pos(-204,337,16,2,'Amanda')} war exchange
+2082	Available at ${pos(-227,337,66,2, 'Cristina')} exchange
+2083	1.  Open the portable warehouse service\r2.  Turn on the portable service
+2084	Permanent attribute title: “Full Portfolio”\rPortable mail, runes, warehouse, gathering, VIP privileged mall services
+2085	Permanent attribute title: “Courage Gold Rush”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service
+2086	Permanent attribute title: “Fanatic Wealth”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service
+2087	Permanent attribute title: “Bright Magnate”\rVIP channel access\r Portable mail, runes, warehouse, Gathering, VIP privileged mall service
+2088	Monthly 200 Star Coins
+2089	Monthly 600 Star Coins
+2090	Monthly 2000 Star Coins
+2091	1.  Monthly 4000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2092	1.  Monthly 5000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2093	1.  Monthly 8500 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2094	1.  Monthly 32000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2095	1.  Monthly 40000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2096	1.  Monthly 60000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2097	1.  Monthly 80000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2098	1.  Monthly 126000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2099	1.  Monthly 180000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2100	1.  Monthly 280000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2101	1.  Monthly 415000 Star Coins\r2.  Enjoy the MVIP distinguished logo
+2102	Unable to load game data file! This error may be due to an incomplete update! \nClick \"Yes\": Update and verify the version. (Note: It may take a long time)\nClick \"No\": Manual update or version verification later.
+2103	Guardian Constellation 8
+2104	guardian constellation 8 ascending constellation
+2105	years ago
+2106	%d god casting\r
+2107	^00ff00 Left click to go to God Cast\r
+2108	The target artifact has been cast, unable to transfer the number of castings
+2109	The number of artifacts to be transferred is higher than the target artifact
+2110	Report liar

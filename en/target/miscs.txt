@@ -1,0 +1,412 @@
+0	%s added to the collection: %s
+1	Without practice
+2	With practice
+3	This article is not necessary for the auxiliary sign of oblivion
+4	Hide other monsters
+5	Show other monsters
+6	Hide other players
+7	Show other players
+8	Hide other Pets
+9	Show other Pets
+10	Decrease video settings
+11	Restore video settings
+12	Power Index: %d / %d
+13	Vigor Index: %d / %d
+14	The Pet was not yet linked, it can not be done that way
+15	The Name contains invalid characters
+16	Pets already trained can not be trained again
+17	After %d minutes, the strengthening of Pet %s will be complete
+18	Add the Pet Elemental Stone to the strengthening bar will begin the strengthening Confirm?
+19	It is only possible to change the name of the Pet that was linked
+20	The Strength Bar of the Pet Master Trainer is full
+21	After adding the Pet to the bar, he will be linked and it will not be possible to negotiate with another person. Do you want to confirm?
+22	Adding the Pet Elemental Stone will start the strengthening
+23	Strengthening in progress
+24	The Pet bar is full
+25	Pet strengthening bar is full
+26	Your level has not yet reached the level of strengthening required for the Elemental Stone of this Pet.
+27	Please select or call first the Pet that needs to be fed.
+28	Food required by this Pet not found
+29	There is no animal selected or the Pet's food does not correspond.
+30	Strengthening %s in progress \rThe strengthening continues by %dmin e %ds
+31	Strengthening %s in progress \rRemaining time %dh %dmin
+32	Strengthening the substitute Master Pet trainer requires 12 hours to progress, but if the hosting is offline, the effects of strengthening the substitute and its own strengthening will be the same.
+33	%s successful strengthening
+34	Can not be separated
+35	The inventory is full, you can not divide the item.
+36	Mastery of Physical Forces
+37	Domain of the Earth
+38	Water Domain
+39	Domain of Fire
+40	Air Domain
+41	Domain of Light
+42	Domain of Darkness
+43	Physical Weakness
+44	Weakness against Earth
+45	Weakness against Water
+46	Weakness against Fire
+47	Weakness against Air
+48	Weakness against Light
+49	Weakness versus Darkness
+50	Don to increase HP, level %d
+51	Don to increase the Attack, level %d
+52	Don to increase the Defense, level %d
+53	Growth rate of increase of HP %.1f %%
+54	Growth rate of Attack increase %.1f %%
+55	Defense increase growth rate %.1f %%
+56	The value you have brought to pay for the expenses of this strengthening is insufficient. Do you want to use Gold to complete the value?
+57	The value you have brought to pay for this purchase is insufficient. Do you want to use Gold to complete the value?
+58	Previous gift %s is required up to the %d level
+59	The request was ignored because it has exceeded the time
+60	%s graduated
+61	%s was expelled by the teacher
+62	%s has betrayed the teacher
+63	%s was accepted by the teacher
+64	You climbed to the %d level
+65	The level of Concentrated Practice has risen to the level %d
+66	Obtained %d EXP points from the Auxiliary Sign
+67	%dx %s collected
+68	%dx %s produced
+69	The connection to the server was lost. Please, log in again.
+70	Target not selected
+71	Target far away
+72	Your client version of the program is outdated, please exit the game to proceed with the update.
+73	%s is not currently online or the character does not exist.
+74	Unselected wrong
+75	Search Group
+76	Recruit Member
+77	%s %s
+78	Active
+79	Passive
+80	Error in the operation, you are in death status
+81	Your level reached %s
+82	Can not connect to the server
+83	The %I64d character was blocked
+84	Account number %d was blocked
+85	Number of people online %d / %d
+86	The server is about to be restarted
+87	The character %I64d was banned from talking for %d seconds
+88	Account number %d was prohibited from speaking for %d seconds.
+89	Insufficient currency
+90	My Friends
+91	Error sending information
+92	This message can only be sent once every hour.
+93	Operation carried out successfully
+94	This person was not found in the search or is not online now.
+95	The game will temporarily close in %d seconds
+96	This person was not found in the search.
+97	%dx %s began the strengthening.
+98	%dx %s consumed
+99	Welcome to Saint Seiya Online - Reborn!
+100	The command has not yet been restored
+101	The warehouse was expanded to %d slots
+102	%s has defeated you.
+103	%s: %s
+104	%s received %s of the Blessing of Athena
+105	Time Left: %dmin
+106	This character is banned!
+107	Please select the game line.
+108	Forbidden to send voice messages
+109	Prohibited from conducting business with players
+110	Prohibited to sell article.
+111	Mute Reason: %s
+112	Reasons for the Blockade: Disturb the order in the Sanctuary
+113	& %s & has won & %s & the duel.
+114	& %s & and & %s & tied in the duel.
+115	You can not enter into a decisive struggle in fighting status
+116	The invitation to the decisive fight was already sent to the other player, please wait until he responds.
+117	The Protective Constellation does not meet the requirements, it is not possible to do it that way.
+118	Forecast of the market
+119	Pet's backpack is full, it can not be strengthened
+120	Server in maintenance, please wait a while to login.
+121	Receive the right to control the catapult
+122	Losing the right to control the catapult
+123	Enter invisible status
+124	Leave invisible status
+125	Enter incomparable status
+126	Leave incomparable status
+127	The destination is not within the limits of the map
+128	Destiny is northeast.
+129	Destiny is southeast.
+130	Fate is east.
+131	Destiny is northwest.
+132	The destination is to the southwest.
+133	Destiny is to the west.
+134	Destiny is north.
+135	Destiny is south.
+136	Destiny is up.
+137	Destiny is below.
+138	Reduce price
+139	Increase price
+140	Costing the eyes of the face
+141	%s successful.
+142	The Item Mall is not synchronized with the server.
+143	Inventory expanded to %d slots
+144	%s Error!
+145	%s successfully linked
+146	%s will be linked after dress
+147	Learned " %s" level %d
+148	Restored " %s" to %d level
+149	The clan store expanded to %d slots
+150	No
+151	First understanding litter
+152	Second compression litter
+153	Third litter of understanding
+154	Fourth litter of understanding
+155	Fifth comprehension litter
+156	Sixth litter of understanding
+157	Book 1
+158	Product purchased
+159	Product sold
+160	Don attended phase %s %d
+161	Your auxiliary protective constellation rose to %d level
+162	Now it is not possible to organize
+163	Connecting Self-Bewitching
+164	Disconnect Self-Bewitching
+165	Error registering: the shortcut key is registered by another procedure
+166	Businesses of Mercury
+167	Business Day
+168	Reserve type 3 of money sachet with the itinerant merchant
+169	Reserve type 4 of money sachet with the itinerant merchant
+170	Reserve type 5 of money sachet with the itinerant merchant
+171	Reserve type 6 of money sachet with the itinerant merchant
+172	Reserve type 7 of money sachet with the itinerant merchant
+173	Reserve type 8 of money sachet with the itinerant merchant
+174	Reserve type 9 of money sachet with the itinerant merchant
+175	Reserve type 10 of money sachet with the itinerant merchant
+176	Reserve type 11 of money sachet with the itinerant merchant
+177	Reserve type 12 of money sachet with the itinerant merchant
+178	Reserve type 13 of money sachet with the itinerant merchant
+179	Reserve type 14 of money sachet with the itinerant merchant
+180	Reserve type 15 of money sachet with the itinerant merchant
+181	Reserve type 16 of money sachet with the itinerant merchant
+182	Reserve type 17 of money sachet with the itinerant merchant
+183	Reserve type 18 of money sachet with the itinerant merchant
+184	Reserve type 19 of money sachet with the traveling merchant
+185	Reserve type 20 of money sachet with the itinerant merchant
+186	Reserve type 21 of money sachet with the itinerant merchant
+187	Book type 22 of money sachet with the itinerant merchant
+188	Reserve type 23 of money sachet with the itinerant merchant
+189	Reserve type 24 of money sachet with the itinerant merchant
+190	Reserve type 25 of money sachet with the itinerant merchant
+191	Reserve type 26 of money sachet with the itinerant merchant
+192	Reserve type 27 of money sachet with the itinerant merchant
+193	Book type 28 of money sachet with the itinerant merchant
+194	Book type 29 of money sachet with the itinerant merchant
+195	Reserve type 30 of money sachet with the itinerant merchant
+196	Reserve type 31 of money sachet with the itinerant merchant
+197	Reserve type 32 of money sachet with the itinerant merchant
+198	You are not in any army.
+199	You are not in any clan.
+200	External standard
+201	Alternative appearance
+202	No Gem
+203	%s ( %d)
+204	Incorrect Article
+205	All
+206	Article with occurrence of fatal error
+207	Kit ( %d):
+208	Level of Comprehension Requirement %s
+209	Skill %s level %d
+210	Improvement completed successfully, the quality of the equipment has improved.
+211	Fortification completed successfully, the quality of the equipment has improved Congratulations for having obtained %d of Joya cavity!
+212	Improvement Error
+213	Success in spiking, the force contained in the Rune was awakened.
+214	Gem spiked successfully
+215	Rune disassembled successfully, the rune was destroyed.
+216	Gem successfully disassembled, you got fragment of Gem
+217	Name recorded successfully, you became the exclusive owner of this equipment.
+218	Error recording name, the item used is damaged.
+219	Equipment evaluated successfully!
+220	Equipment successfully re-evaluated!
+221	The equipment has already been evaluated!
+222	Please proceed with the evaluation after inserting the equipment into the inventory.
+223	Broken
+224	Common
+225	Extraordinary
+226	Excellent
+227	Epic
+228	Legend
+229	Reserved
+230	Kit
+231	Advanced level kit
+232	%s in the production process unexpectedly received [ %s] * %d!
+233	You forgot about the auxiliary Protective Constellation %s
+234	Protective Constellation %s dropped to %d level
+235	Astrology appears as %s
+236	Obtained %d of points of the auxiliary Protective Constellation
+237	Wait for a new revelation:
+238	Touch the astrological phenomenon to get a revelation
+239	Leave slots in the package and then click to receive. Wait a few minutes to open the new revelation.
+240	Leave slots in the package and then click to receive.
+241	Show all damages
+242	Show only own and pet damages
+243	Do not show damage
+244	The new revelation is still to come
+245	Current return point: %s
+246	The president of the other player is not online, it is not possible to continue with the challenge.
+247	Clan Honor War request is in reload time, the interval is 5 minutes.
+248	The clan is in a Clan Honor War, please send the challenge again later.
+249	The level of the other player's clan has not reached level 2, it is not possible to declare war against him.
+250	Clan %s made a War of Honor request to Clan %s
+251	Clan %s accepted the clan's War of Honor request %s
+252	Clan %s rejected the Clan Honor War request %s
+253	Clan %s Honor War declaration to Clan %s is slow and unanswered, the request for declaration of war has failed.
+254	Clan's War of Honor declaration %s to clan %s is over, the total number of deaths %d: %d, Clan %s was victorious!
+255	The declaration of War of Honor of clan %s to clan %s is over, total number of deaths %d: %d, the two clans tie.
+256	Prayer for the blessing of Today: %d / 4. The prayer for the blessing of this chapter (4 first times of each day) can get EXP of the Character and there is a probability of obtaining the blessing and offerings of the gods.
+257	Prayer for the blessing of Today: %d / 4. The prayer for the blessing of the continuation of the chapter (4 first times of each day) can not obtain EXP of the Character and offerings of the gods, but there is a probability of obtaining the blessing of the gods.
+258	Friend status notification on / offline connected.
+259	Friendly on / offline status notification disconnected.
+260	Automatic friend response connected.
+261	Automatic friend response disconnected.
+262	ID of the player's character
+263	Time for receiving the request
+264	Type of Request
+265	Content of the Request
+266	GM ID of the application received
+267	Processing / Process abandoned
+268	Time to finalize the request
+269	​​Observations
+270	Command Name
+271	Detailed command execution parameters
+272	Command execution time
+273	ID of the GM executing the command
+274	User ID of the related request
+275	Time of receipt of the related request
+276	Intimacy Relationship
+277	Embrace Embrace
+278	End multi-riding
+279	%s invites you to a milti ride, do you accept?
+280	%is grateful, but rejects the multi ride.
+281	Multi-ride
+282	Little Secretary
+283	Search results
+284	Agent name not allowed, error when getting ticket
+285	Agent account not allowed, error when getting ticket
+286	Other errors (data bank anomaly)
+287	Time out, please try again later
+288	Network communication error, please try again later
+289	Prohibit this account from login in other systems
+290	Automatic login of this account is not allowed
+291	Destination not allowed, error when receiving a ticket
+292	Non-existent account
+293	GT accessed frequently, try again later
+294	Multi-server error
+295	Multi-server communication error
+296	Error in the multi-server authentication stage
+297	Exhausted multi-server identity check time
+298	Multi-server identity check does not match
+299	Time for multiserver data exhausted
+300	Error saving multiserver data
+301	Can not use in multi-server status
+302	Are you sure you want to choose ^FFFF00 %s ^FFFFFF? Upon reaching level 59 it is possible to choose another Constellation again.
+303	%s selected %s as Sign.
+304	The player needs to reach %s
+305	It is not possible to continue in the water
+306	It is not possible to continue with prayer in the water
+307	It is not possible to continue with meditation on water
+308	It is not possible to continue in transformation status
+309	It is not possible to continue with the prayer in transformation status
+310	It is not possible to continue with meditation in transformation status
+311	It is not possible to fly in the current status
+312	Flying in the current scenario is not allowed
+313	It is not possible to fly in transformation status
+314	It is forbidden to fly in fighting status
+315	It is not allowed to ride in the current scenario
+316	Every 5 minutes in the Glory Bath you can get %d stored EXP points
+317	Cash: %d
+318	Cash: %d \r (Gold can be used to complete the remaining value)
+319	(Cash insufficient, do you want to use Gold to complete the remaining value?
+320	Cash:
+321	Gold: %d
+322	Total Gold
+323	LEvel %d
+324	%dh %dmin %ds
+325	High efficiency time
+326	Common time
+327	Total time
+328	%d EXP Reserve + %d EXP
+329	%d Astro EXP Reserve + %d Astro EXP
+330	Your Glory Bath today has reached 8 hours \rIf you continue, it will not be possible to get any EXP or EXP.
+331	Your Glory Bath today has reached 8 hours \rIf you continue, it will not be possible to obtain any accumulated Astro EXP or Astro EXP.
+332	EXP Reserve:
+333	Astro EXP Reserve:
+334	Your level is very high, it is not possible to collect.
+335	Do you want to use [ %s]? \r %s
+336	Today you have completed 8 hours, use it tomorrow again, otherwise the loss will be great.
+337	The stored EXP has reached the maximum limit, release it a little, otherwise it will not be possible to obtain more EXP stored.
+338	Required level: %s
+339	Rank LV needed: LV %d
+340	Power needed: %d
+341	%s must reach %s
+342	Cost of %s: %s
+343	[Limit %dx]
+344	[Unlimited]
+345	[%dx a day]
+346	[%dx a week]
+347	[Tomorrow]
+348	[Next week]
+349	[Group]
+350	[Army]
+351	Liberate Protective Constellation [Aries]
+352	Liberate Protective Constellation [Taurus]
+353	Liberate Protective Constellation [Gemini]
+354	Liberate Protective Constellation [Cancer]
+355	Liberate Protective Constellation [Leo]
+356	Liberate Protective Constellation [Virgo]
+357	Liberate Protective Constellation [Libra]
+358	Liberate Protective Constellation [Scorpio]
+359	Liberate Protective Constellation [Sagittarius]
+360	Release Protective Constellation [Capricorn]
+361	Liberate Protective Constellation [Aquarius]
+362	Liberate Protective Constellation [Pisces]
+363	Insufficient level, can not be changed.
+364	Insufficient power, can not be changed.
+365	Number of times maximum for change reached
+366	Requests of the quest insufficient, can not be changed.
+367	There are mutually exclusive quests, it can not be changed.
+368	Insufficient reputation, can not be changed.
+369	Gold insufficient, can not be changed.
+370	Cash insufficient, can not be changed.
+371	There is not enough reputation, it can not be changed.
+372	Item consumed incomplete, can not be changed.
+373	Article not allowed for change in time limit
+374	Conditions of incomplete quest, can not be changed.
+375	Inventory full, can not be changed.
+376	Insufficient package free space
+377	Has exceeded the maximum number of change of 100 times
+378	Gold insufficient
+379	Cash insufficient
+380	%s insufficient
+381	Enter the group voice chat room
+382	Leave the group voice chat room
+383	When many people enter the fight scenario, in order to make it more fluid and help you hide the unimportant models, you can use the Alt + N shortcut keys to restore.
+384	Error loading the construction. Please exit the game to check the version
+385	Brightness effect on the game screen
+386	Do you want to open the army teleport in the current location?
+387	【Red Team】 %s
+388	【Blue Team】 %s
+389	Energy Crystal %d %%
+390	Defense Crystal %d %%
+391	Nuclear Crystal %d %%
+392	Remaining fight time: %dmin
+393	Do you want to leave the current battlefield?
+394	Open army teleportation
+395	Situation of the fight - %s
+396	Fight waiting time: %dmin
+397	Exiting ( %ds)
+398	Number of war cars of the Red Team: %d
+399	Number of war cars of the Blue Team: %d
+400	The head of the army has launched the teleportation portal in %s, after 30 seconds, the members of the army can go to the teleportation!
+401	A %ds recharge time is required
+402	You can open the teleport portal
+403	The portal has stabilized, the assault began Fight!
+404	The teleportation portal is without power and has disappeared ...
+405	Remaining fight time: %ds
+406	Fight waiting time: %ds
+407	You can not enter the battlefield in fight status
+408	You can not leave the battlefield in fight status
+409	%.0f %s ( %.0f %%)
+410	%.0f %s
+411	100M

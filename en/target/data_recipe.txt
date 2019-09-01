@@ -1,0 +1,253 @@
+0	Test Recipe
+1	Elixir of the King
+2	Potion
+3	Super Potion II
+4	Potion
+5	Super Potion III
+6	Potion
+7	Super Potion IV
+8	Potion
+9	Super Potion V
+10	Potion
+11	Super Potion VI
+12	Potion
+13	Super Potion VII
+14	Potion
+15	Elixir of Steadiness
+16	Potion
+17	Elixir of Pulsation Elements
+18	Potion
+19	Elixir of Battle
+20	Potion
+21	Magic Potion of Immortality
+22	Potion
+23	Gradual Potion I
+24	Potion
+25	Gradual Potion III
+26	Potion
+27	Gradual Potion II
+28	Potion
+29	Purification of Elixir basic level
+30	Potion
+31	Super Magic Energy Potion
+32	Potion
+33	Magic Potion of Charm
+34	Potion
+35	Magic Potion of Nothing
+36	Potion
+37	Magical Cold Potion of Sepsia
+38	Potion
+39	Magic Potion of Rays of Light
+40	Potion
+41	Renaissance mixture
+42	Mix
+43	Blend of Deterioration
+44	Mix
+45	Mixture of Pure Mind
+46	Mix
+47	Blend of Blood Stagnation
+48	Mix
+49	Master Elixir Belt
+50	Mix
+51	Weak Mix
+52	Mix
+53	Siren Soul Mix
+54	Mix
+55	Soft Mix
+56	Mix
+57	Blend of Pure Mind advanced level
+58	Mix
+59	Distortion Mix
+60	Mix
+61	Move Heaven and Earth
+62	Refining
+63	Abrasive Star Powder
+64	Refining
+65	Fell of Judgment
+66	Refining
+67	Extraction Glass
+68	Refining
+69	Star Transformation
+70	Refining
+71	Starfish Granule
+72	Refining
+73	Promise Jade Bracelet
+74	Refining
+75	Purify Space
+76	Refining
+77	Pink of the Night
+78	Refining
+79	Molten Star
+80	Refining
+81	Philosopher's Stone
+82	Treasures
+83	Alchemist Lord of the Rings
+84	Treasures
+85	Precision Treasure Production Pendant
+86	Treasures
+87	Spiritual Light
+88	Treasures
+89	Treasure Pendant Precision
+90	Treasures
+91	Star Element level 1
+92	Treasures
+93	Soul Light
+94	Treasures
+95	Spiritual Light +
+96	Treasures
+97	Star Element level 2
+98	Treasures
+99	Soul Light +
+100	Treasures
+101	Discipline of Starlight
+102	Refine
+103	Star Blessing I
+104	Refine
+105	Hammer of Jamir
+106	Refine
+107	Stardust
+108	Refine
+109	Starry Arena
+110	Refine
+111	Star Blessing II
+112	Refine
+113	Shining Star Crystal
+114	Refine
+115	Fragment of Starlight
+116	Refine
+117	Blur in the Starlight
+118	Refine
+119	Star Blessing III
+120	Refine
+121	Divine Amulet
+122	Amulet
+123	Amulet of Vigor
+124	Amulet
+125	Resistant Amulet
+126	Amulet
+127	Battle Amulet
+128	Amulet
+129	Advanced Amulet of Vigor
+130	Amulet
+131	Advanced Amulet Resistant
+132	Amulet
+133	Amulet Advanced Batalha
+134	Amulet
+135	Mysterious Amulet of Vigor
+136	Amulet
+137	Amulet M.
+138	Amulet
+139	Mysterious Amulet of Batalha
+140	Amulet
+141	Letter of Recommendation for Intermediate Level Apprentices
+142	Guardian Spirit
+143	Reincarnation Method
+144	Guardian Spirit
+145	Letter of Recommendation for entry level learners
+146	Guardian Spirit
+147	Magic whistle of the Phantom's sharp whistle
+148	Guardian Spirit
+149	Fell of Judgment
+150	Guardian Spirit
+151	Reincarnation method advanced level
+152	Guardian Spirit
+153	Magic whistle of acute whistle of the Evil Spirit
+154	Guardian Spirit
+155	Double-Sided Force
+156	Guardian Spirit
+157	Mysterious method of reincarnation
+158	Guardian Spirit
+159	Magic whistle of acute whistle of the crazy spirit
+160	Guardian Spirit
+161	Divine Engraving
+162	Engraving
+163	Engraving of Vigor
+164	Engraving
+165	Heavy Duty Engraving
+166	Engraving
+167	Battle Etching
+168	Engraving
+169	Advanced Vigorous Engraving
+170	Engraving
+171	Engraving Advanced Resistant
+172	Engraving
+173	Advanced Battle Engraving
+174	Engraving
+175	Mysterious Engraving of Vigor
+176	Engraving
+177	Mysterious Resistant Engraving
+178	Engraving
+179	Mysterious Battle Engraving
+180	Engraving
+181	Book of the Emperor
+182	Tactic - Magic Transformation
+183	Learner's Teaching Book
+184	Tactic - Magic Transformation
+185	Specialist Teaching Book
+186	Tactic - Magic Transformation
+187	Teacher's Teaching Book
+188	Tactic - Magic Transformation
+189	Book of Critical Hits
+190	Tactic - Magic Transformation
+191	Book of Heroes
+192	Tactics - Magic Transformation
+193	Book of Teaching of the Sage
+194	Tactic - Magic Transformation
+195	Essence Purification Book
+196	Tactic - Magic Transformation
+197	Book of the Wise
+198	Tactics - Magic Transformation
+199	Epic Book
+200	Tactic - Magic Transformation
+201	Talisman of the Mad Warrior
+202	Tactics - Commander
+203	Obedience Talisman
+204	Tactics - Commander
+205	Statue of the Commander's Tiger
+206	Tactics - Commander
+207	Promise Talisman
+208	Tactics - Commander
+209	Remaining Chapters of the Art of War
+210	Tactics - Commander
+211	Fortitude talisman
+212	Tactics - Commander
+213	Talisman of Faith
+214	Tactics - Commander
+215	Essence Purification Book
+216	Tactics - Commander
+217	Invocation Talisman
+218	Tactics - Commander
+219	Talisman of Principle
+220	Tactics - Commander
+221	Sacred Flag
+222	Tactics - Special Teachings
+223	Apprentice Front Line Trumpet
+224	Tactics - Special Teachings
+225	Union of Forces Flag
+226	Tactics - Special Teachings
+227	Special Front Line Trumpet
+228	Tactics - Special Teachings
+229	Recruitment Flag
+230	Tactics - Special Teachings
+231	Flag of Enthusiasm
+232	Tactics - Special Teachings
+233	Wanderer of the Master's Front Line
+234	Tactics - Special Teachings
+235	Construction Flag
+236	Tactics - Special Teachings
+237	Assault Flag
+238	Tactics - Special Teachings
+239	Trumpet of the Front Line of the Sage
+240	Tactics - Special Teachings
+241	Delicious Integral Bread
+242	Bread
+243	Delicious Danish Bread
+244	Bread
+245	Delicious Honey Bread
+246	Bread
+247	Dry and Delicious Hard Bread
+248	Bread
+249	Delicious Rye Bread
+250	Bread
+251	Delicious Sandwich Bread
+252	Bread

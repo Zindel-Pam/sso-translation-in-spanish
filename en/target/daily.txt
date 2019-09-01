@@ -1,0 +1,909 @@
+0	Rozan
+1	Wuhan
+2	Fuyang
+3	first-order active treasure chest
+4	On the 12th level and above, you can get 15 points of activity to open. If you open this treasure box above level 70, you can get 2 additional artifact fragments.
+5	second-order active treasure chest
+6	On the 12th level, you can get 55 points of activity to open. If you open this treasure box above level 70, you can get 2 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional 5 shards.
+7	third-order active treasure chest
+8	On the 12th level, you can get 110 points of activity to open on the same day. If you open this treasure box above level 70, you can get 3 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional Essence.
+9	fourth-order active treasure chest
+10	On the 10th level and above, you can get 180 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments. Players above \r100 level can open this treasure chest for an additional 2 Essence and 1 Divine Imprint I.
+11	[Events] assembly! Zodiac crisis
+12	Sanctuary
+13	level 35 or higher
+14	(3-6 people recommended full team)
+15	[Event] Rebirth! Sanctuary Town Soul Song
+16	Level 60 or above
+17	[Event] Critical! Yarn Guardian
+18	25 or above
+19	(1-6 people recommended full team)
+20	[Event] Critical! Goddess Guard
+21	[Activity] Heritage! Gold trial
+22	40-100 level (^fffd44 can only get 59 rewards ^N)
+23	[Activity] Heritage! Gold trials of evil spirits
+24	Level 60-89
+25	[Activities] Storm! Atlantis
+26	above 45
+27	[Activities] Abyss! The end of the magic star
+28	[personal] goddess of the holy warrior
+29	[Activity] Trial of Destiny
+30	Galaxy Arena
+31	[Personal] Saints's Road
+32	[Activities] Underworld invasion
+33	20 or above
+34	[Personal] Star Epic Discard
+35	[Army] bathing glory
+36	none
+37	[The Legion] The Elegy of the Resurrection
+38	Legion Base
+39	[The Legion] God's Prank
+40	[Army] Legion welfare
+41	[Legion] Time treasure box
+42	[Warcraft] fight for treasure chest
+43	illusion
+44	[Warland] marching into the illusion
+45	[Event] Heritage! Holy War memories
+46	[Equipment] Ten Wind Cave
+47	Mount Fuji
+48	(2-6 people recommended full team)
+49	[Equipment] Heart of the shooter
+50	above 40
+51	[Equipment] Golden Zodiac (Beginning)
+52	[Equipment] Ice Temple
+53	level 70 or higher
+54	[Equipment] Seven Ocean Giants (front)
+55	80 or above
+56	[Equipment] Seven Ocean Giants (after)
+57	[Battlefield] Attica Ruins (Mysterious Man Edition)
+58	[Equipment] Killing Evil
+59	victory! The glory of the battlefield (abandoned)
+60	[Personal] Run! Little brother (lucky star)
+61	${npc(20091,1)}
+62	[personal] noble ghost dictionary
+63	${jump(54)}
+64	lucky stars
+65	Sirius Nazhi
+66	${npc(17445,9)}
+67	Thunder Tiger Soul
+68	${npc(17446,1)}
+69	level 30 or higher
+70	Shadow of Saga
+71	${npc(17447,4)}
+72	The Road to Forgotten
+73	Yin Yang
+74	${npc(17448,7)}
+75	Death Queen Island
+76	level 50 or higher
+77	discarded
+78	${npc(31610,10)}
+79	Eastern Siberia
+80	${npc(31611,1)}
+81	Atlantis
+82	${npc(31612,7)}
+83	Fairy Island
+84	${npc(31613,10)}
+85	Heinstein
+86	${npc(31614,7)}
+87	${npc(31615,1)}
+88	${npc(31616,10)}
+89	Hades City
+90	[Battlefield] Attica 1v1
+91	[Battlefield] Attica Temporary Test
+92	greedy yarn weaving
+93	20-100 level (^fffd44 can only get 59 rewards ^N)
+94	25-100 level (^fffd44 can only get 59 rewards ^N)
+95	45-100 level (^fffd44 can only get 59 rewards ^N)
+96	[Equipment] Golden Zodiac (continued)
+97	[Equipment] Golden Zodiac (final)
+98	level 55 or higher
+99	[Equipment] Golden Zodiac (Me)
+100	[Hero] the elegy of the goddess (front)
+101	90 or above
+102	[Hero] the elegy of the goddess (post)
+103	[Army] Legion Qualifying
+104	[Personal] Run! Little brother
+105	[person] snowman grabs the pro (lucky star)
+106	[personal] snowman grabs relatives
+107	[personal] dream god's trick
+108	(3 or more people)
+109	[Warcraft] Trying out the fantasy
+110	[Sports] Galaxy Fighting Field
+111	${jump(58)}
+112	[Festival] Dragon Boat Festival Musk
+113	[Festival] A Midsummer Night's Dream
+114	[Monthly] war! Cancer front line
+115	${pos(-366,327,130,1, 'The Land of the Stars')}
+116	stars of the land
+117	(4 or more people)
+118	[Monthly] Midsummer Carnival Day Drop Gift
+119	anywhere, online
+120	[Battlefield] Abandoning Charge! Attica ruins
+121	[Month] Goddess of God
+122	(4-6 people recommended full team)
+123	[Hero] Ten Wind Cave
+124	[Hero] Shooter's Heart
+125	[Event] break! The Avengers (God Wars)
+126	[Battlefield] Chaos Battlefield Test
+127	[Activity] Fighters return
+128	[personal] Saints! The glory of the stars
+129	[Monthly] Fight! Lion's tooth decay
+130	${pos(-20,302,451,2, 'Rodrio Village')}
+131	(3 or more people)
+132	[Monthly] Tanabata! Zilong and Chunli
+133	[Battlefield] Chaos Battlefield
+134	above 100
+135	[Battlefield] Chaos Battlefield 3v3 Test
+136	[personal] challenge! Saint's limit
+137	[Monthly] Halloween! Crazy pumpkin
+138	[Fantasy] trial illusion
+139	[Monthly] Awakening! Six roads in Shaka
+140	[monthly] carnival coins
+141	[monthly] Attacking Ssangyong
+142	[monthly] day drop treasure chest
+143	[Monthly] me and my friends
+144	[Festival] Mid-Autumn Festival! Oyster of osmanthus wine
+145	[Battlefield] abandoned occupation! Chaos battlefield
+146	close
+147	[Monthly] National Day! Dragon of the East
+148	[Monthly] "Happy National Day" collection
+149	[Monthly] Libra! Tong Hu's memories
+150	[monthly] Halloween! Carnival night
+151	[Event] Magic Halloween
+152	[Equipment] Battle! Flame of the dead bird
+153	[Equipment] Battle! Shooter's will
+154	[Equipment] Battle! Gold rebellion
+155	[Equipment] Battle! Goddess of wonder
+156	[Festival] Thanksgiving! Heavenly turkey
+157	[Month] Thanksgiving feast
+158	[activity] happy eggs
+159	[Monthly] breakthrough! Trial of Scorpio
+160	[monthly] gift! Gratitude
+161	[monthly] memories of those years
+162	[monthly] approaching! Shooter's crisis
+163	[Monthly] Christmas! Reunion night
+164	[individual] attack! Golden zodiac
+165	[Monthly] heavy snow! Defend the Christmas tree
+166	(4 or more people)
+167	[Event] Mourning! Hell sonata
+168	[Event] Tianbao treasure chest
+169	[Monthly] Ice and Snow Carnival
+170	[monthly] Christmas tree fantasy
+171	[monthly] double "egg" surprise
+172	[Monthly] the oath of resurrection
+173	Sanctuary - Aeoria
+174	${npc(38380,9)}
+175	Sea King-Gallon
+176	${npc(38382,9)}
+177	Pluto - Persephone
+178	${npc(38387,9)}
+179	Neutral - Loki
+180	${npc(38390,9)}
+181	Sanctuary - Shura
+182	${npc(38381,13)}
+183	Sea Emperor-Keshura
+184	${npc(38383,13)}
+185	Pluto - Shunos
+186	${npc(38386,13)}
+187	Neutral - Abyssal Devil
+188	${npc(38389,13)}
+189	Sanctuary - Arudiba
+190	${npc(38379,11)}
+191	Sea King - Elzak
+192	${npc(38384,11)}
+193	Pluto - Radha Mandis
+194	${npc(38385,11)}
+195	Neutral-Lava Giant
+196	${npc(38388,11)}
+197	Guardian - Athena Statue
+198	${npc(38391,11)}
+199	Guardian - Sea King Statue
+200	${npc(38392,11)}
+201	Guardian - Pluto Idol
+202	${npc(38393,11)}
+203	[Activity] Incubation! Shadow Butterfly Nest
+204	[Monthly] Capricorn! Shura's Kendo
+205	60-100 level (^fffd44 can only get 89 rewards ^N)
+206	[Sports] Ares ruins (single match)
+207	${jump(86)}
+208	Ares ruins
+209	(1 person only)
+210	[Sports] Ares ruins (team match)
+211	(only for 5 team captains to register)
+212	[Army] critical! Goddess of mind
+213	[Monthly] Year of the Horse Treasure Cavalry
+214	[Monthly] Happy New Year collection
+215	[Monthly] Year of the Horse
+216	[Monthly] Year of the Horse Happy Commemorative Coin
+217	[monthly] sweet still Valentine's Day
+218	[monthly] horse galloping
+219	[Army] Gold Legion
+220	[Activities] Underworld Invasion (Advanced)
+221	[Event] New Year! Immediately
+222	[Event] New Year!
+223	[monthly] water bottle! The strongest trick
+224	[Monthly] Pisces! Rose against magic flower
+225	[Event] Rebirth! Big battlefield myth
+226	[monthly] white Valentine's Day
+227	[Hero] Blue Ice Fort
+228	above 95
+229	[monthly] eternal love
+230	[battlefield] no difference battlefield 1v1 test
+231	[Monthly] Aries! Master and mentoring
+232	[monthly] those forgotten fighters
+233	[copy] battle! Ice castle
+234	[copy] battle! Dark castle
+235	[Monthly] Gemini! Good and evil
+236	[Battlefield] Push the tower! Narrow teenager
+237	level 12 or higher
+238	[Battlefield] Zoom out! juvenile
+239	[Battlefield] Zoom out! Junior 1V1 test
+240	[Battlefield] Lava Battlefield 3v3 Test
+241	[Battlefield] flag is open! Victory
+242	victory! The Road to the King (Abandoned)
+243	[Battlefield] Lava Battlefield
+244	[Battlefield] Flight 1
+245	[Monthly] Labor Day! Goddess of gratitude
+246	[Activity] Countercurrent! Atlantis
+247	[Activity] Countercurrent! Zodiac crisis
+248	[activity] inheritance! Gold trial countercurrent
+249	[monthly] labor glorious
+250	[monthly] laborer's reward
+251	[Battlefield] Sky Battlefield 3v3
+252	[Battlefield] Sky Battlefield
+253	Second Army Corps pk 3v3
+254	second legion pk 1v1
+255	[monthly] anniversary celebration! medal
+256	[monthly] anniversary celebration! Flying armor
+257	[Personal] practice eyesight! Leisurely bird
+258	${jump(90)}
+259	[Monthly] anniversary celebration! Saint cloth
+260	[monthly] Cancer! Zombies are coming
+261	[monthly] bloody battle! Nordic chaos
+262	[monthly] bloody battle! Nordic chaos 1V1
+263	[Monthly] participate in the war! Nordic chaos
+264	[Monthly] Indulge in the summer - vitality
+265	[monthly] indulge in midsummer - a cool moment
+266	[Monthly] I am BOSS today.
+267	[monthly] showdown! I am BOSS
+268	Demon battlefield! Monthly Lion 1v1 test
+269	​​[Event] Heritage! Gold trial dream
+270	[monthly] monthly golden week - brave adventure
+271	[Hero] Hades City
+272	[Army] broke! Gate of the underworld
+273	(12-36 people)
+274	[Army] String Flower! Town soul lament
+275	[Army] Go deep! Underworld Hell
+276	[The Legion] at the end? Ice hell
+277	[Army] sniper! The Big Three
+278	[Army] Gemini! Death and sleep
+279	[Army] marching! Counterattack underworld
+280	Rehabilitated version of the coupon time (not shown)
+281	[Monthly] Rebirth Carnival - Event Celebration
+282	[Monthly] Rebirth Carnival - Mid-Autumn Night
+283	[Festival] Mid-Autumn Festival! Step on the dead
+284	[monthly] Libra! Tong Hu to Shi Ang
+285	[Personal] gift! Goddess Treasure
+286	${jump(55)}
+287	[Festival] National Day! Save Athena
+288	[Festival] National Day Seven Days
+289	[Festival] Thanksgiving! Goddess of grace
+290	[Festival] National Day Clown
+291	${npc(1000002,15, '15 line sanctuary')}
+292	[Festival] Halloween Party
+293	[Battlefield] The first Galaxy platform
+294	[Battlefield] Shooter! Aiming at golden apple
+295	[Battlefield] Shooter! Aiming at the Golden Apple 1V1 test
+296	[Festival] Arrow of Love
+297	[Festival] single pair confrontation
+298	[Epic] The end of Pluto (12 people)
+299	above 99
+300	(2-12 people recommended full team)
+301	[Festival] Thanksgiving! Who moved my turkey
+302	battle! The end of Pluto
+303	[Festival] Thank you! Happy people
+304	[Festival] Thanksgiving! Strange thief
+305	11-15 line under the sanctuary of the sanctuary
+306	[Festival] Year-end! Santa's dilemma
+307	[personal] gift! Gold suit experience
+308	[Personal] gift! Gold service star coupon
+309	[Festival] ten years of perfection, youthful bloom
+310	[Festival] Double Dan! Heavenly artifact
+311	[Festival] Double Dan! Hard work
+312	[Festival] Double Dan! Past Santa Claus
+313	[Festival] Double Dan! Red envelope delivery
+314	[Festival] New Year! Saints military parade
+315	[Festival] Ice Dance! Snowman invasion
+316	[Festival] Double Dan! Santa's intelligence
+317	[Festival] Golden Week! Big treasure
+318	[Festival] Hi from heaven! Goddess password
+319	[Festival] the warmth of winter
+320	[Festival] agreement! Lantern Festival gift
+321	[Festival] New Year! Blessing of the goddess
+322	[Festival] Good news! Send online
+323	[Festival] welfare! New Year's greetings
+324	[Festival] WeChat! Happy dumplings
+325	[Festival] Love on Valentine's Day
+326	[Battlefield] Floating Island Hegemony 1v1
+327	[Activities] Storm! Seal pot
+328	[Festival] Bathfire Warrior Parade
+329	Anywhere, online (salary, death is not available)
+330	[Festival] Bathfire! Returning warrior
+331	[Event] MAX! Dark Stars of Infinity
+332	[Activities] MAX! Infinite War Silver Nebula
+333	[Event] MAX! Infinite War Gold Galaxy
+334	[Activities] Trial! The Road to God
+335	[Activities] MAX! The Ocean of Infinity
+336	[Activities] MAX! Unlimited War King's Wormhole
+337	[Event] MAX! Infinite Black Hole of Infinity
+338	[Activities] crusade! World BOSS
+339	[Battlefield] Cloud Hegemony 2v2
+340	[Battlefield] Cloud Hegemony
+341	Neutral - Haughty (Air Boss)
+342	${npc(51356,12)}
+343	[Battlefield] Cloud Hegemony 3v3
+344	Saints Golden League
+345	Saints Golden League test
+346	[Event] Crimson! The shadow of the outside world!
+347	[Event] tribute to the classic! Active gift
+348	[Activities] Golden Star Soul Strikes
+349	[Event] continuous landing Meng pet send
+350	[Event] tribute to the classic! Whole point benefit
+351	[Hero] God Golden Zodiac I
+352	Neutral - Shadow of Pluto
+353	${npc(213502,8)}
+354	bliss pure land
+355	[Festival] at the end of the year! Escaped Christmas elf
+356	[Festival] for blessing! Prelude to the New Year
+357	[Festival] for blessing! Wanfuhe old age
+358	[Festival] for blessing! Deep blessing
+359	[Festival] New Year! WeChat big turntable
+360	[Event] Red Fog Event: Mythical Crystal
+361	[Activities] Red Fog Event: Guarding Battle
+362	[Festival] invasion! White valentine
+363	Aegean Sea
+364	[Battlefield] The 2nd Galaxy Overlord
+365	[Activities] Red Fog Event II: The Gap of Void
+366	[Hero] God Golden Zodiac II
+367	[monthly] lion! Meet like a dream
+368	[Activities] Red Fog Event III: Volcano Overture
+369	[Event] Daily Gifts
+370	[Event] Active reward
+371	[Activities] Grand Parade
+372	[Activity] Fighting off evil
+373	[Festival] Fireworks! Flying dragon flag
+374	[Hero] God Golden Zodiac III
+375	[Event] Hard work! Steel warrior
+376	[Event] Login! God's reward (need to enter the legion base)
+377	[Activity] planting trees! Sanctuary
+378	[Event] Shining の Fashion
+379	[Event] Carnival の 者
+380	[Event] Hard work
+381	[Hero] God Golden Zodiac IV
+382	experience or experience
+383	experience
+384	experience
+385	energy props
+386	star casting props
+387	equipment synthetic props
+388	production materials
+389	formula
+390	equipment
+391	gold coupon
+392	gold coins
+393	treasure chest
+394	Hope Insignia
+395	Battlefield reputation points
+396	Light of Faith
+397	Legion Contribution
+398	^12ff005 point activity ^N
+399	^12ff0010 point activity ^N
+400	^12ff0020 point activity ^N
+401	^12ff0030 point activity ^N
+402	^12ff0040 point activity ^N
+403	^12ff005-20 point activity ^N
+404	^12ff0015 point activity ^N
+405	^12ff0050 point activity ^N
+406	Blood of Silver
+407	character reputation
+408	Blood of the Demon
+409	regional reputation
+410	character and regional reputation
+411	Flag of Glory
+412	Guardian Star Skill Book
+413	Star Spirit Essence
+414	The Light of Experience
+415	various props
+416	title
+417	Pegasus * Wing (7 days)
+418	sweeping card
+419	Galaxy Carnival Coin
+420	Carnival Treasure Chest
+421	Ghostly Nights · Double Head Dragon (10 days)
+422	Double Dragon Gold Badge
+423	^e1250010 orange star soul
+424	^e12500 Blood of the Demon (must be perfect)
+425	^e12500 Gold Saint Cloth Pack
+426	^e12500 Bunny
+427	^e12500 Blood of the Demon *100
+428	^e12500 permanent double-headed dragon mount
+429	^e12500 time and space key *100
+430	^e12500 cat Xiaomi
+431	^e12500 Silverbone Tyrannosaurus (7 days)
+432	^e12500 massive experience
+433	^e12500 violent bear
+434	^e12500 out of print Phoenix mount
+435	^e12500 billion experience
+436	^e12500 super massive experience
+437	60 points of love
+438	key to time and space
+439	Star Voucher
+440	Blood of Athena
+441	Gold Saint Cloth Shard
+442	Orange Star Soul
+443	title: remember your warmth
+444	Thanksgiving Call Scroll*14
+445	New Year Summoner Scroll*14
+446	title: Ze Ma Pentium
+447	Grateful Hammer
+448	pumpkin pie
+449	a lot of experience
+450	Magic Candy
+451	Destiny
+452	days of choice
+453	Level 1 Destiny Stone
+454	Gold Saints Reputation
+455	Critical! Goddess Guard
+456	Critical! The woven Guardian can do it once a day. \r and the high-level event "critical! Goddess Guards" jointly counted. \r Critical! The level of monsters in the woven Guardian is the average level of the team members. It is recommended to have 6 people to participate. \r Background: The goddess's Cosmo is waking up. This is the darkest moment before dawn. The goddess needs you and needs your defense.
+457	Assembly! Zodiac crisis
+458	and the high-level event "Rebirth! The soul song of the Sanctuary town" "incubation! The butterfly nest" jointly counted. \rOpen every day from 12:00-14:00 and 20:00-22:00. \r Assembly! In the zodiac crisis, the monster level is the average rank of the team members, and only one reward per day is available. It is recommended that the group be 6 people to participate. \r Background: The power of Pluto is invading the sanctuary, and the holy warriors are going to defend the gates of the sanctuary!
+459	Holy War memories
+460	Meteorological recalls 3 people can participate in the team, it is recommended to call some teammates. \r "The Guladu consortium used its superb technology and abundant financial resources to simulate the battle of the last holy war. The holy warriors can go back and experience the hard battles in the holy war."
+461	Saint Goddess of the Goddess
+462	The story of the various Saints is circulated in the world of Saints. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi. More than \r30 will receive time debris, which can be used to redeem rewards in the Legion Base.
+463	Desire of fate
+464	Breaking through the self, the body of tempering has been the goal pursued by the fighters in the sanctuary since the myth. A girl named Lacesis recently appeared in the sanctuary, claiming that the fortune can be summoned by each of the fighters in the life. After hearing this rumor, the fighters in the Sanctuary became eager to try...\r Mission: 3 or more participants.
+465	Legion Daily: The Elegy of the Resurrection
+466	Activity time: The head of the army will open at the addendum once a day. After the opening, all the members will take the task at the place of Pafia. \r Level number: The level is not limited, it is recommended that the team be full. \rThe legion needs a legion base to open this event.
+467	Legion Zhou Chang: God's Prank
+468	Activity time: Opened by the head of the army, the deputy head or the head of the agency, once a week. After the event is opened, a powerful monster will appear in the Legion Base. \rNumber: The entire legion. \rThe legion needs a legion base to open this event.
+469	heritage! Gold trial
+470	fate rotation, gold trial! This activity includes "Pisces Trial", "Libra Trial" and "Lion Trial". Each time you choose a copy to play. \rThis activity rewards a large number of vouchers. If you are short of vouchers, please brush this!
+471	stars of the epic
+472	The Star Epic is a copy of the personal challenge that can be used to test the strength of the teenagers and count the results once a week. Constantly challenging more powerful enemies will also receive more generous rewards.
+473	storm! Atlantis
+474	Counts with the high-level event "The Abyss! The End of the Magic Star". \rstorm! The level of monsters in Atlantis is the average rank of the team members. It can only be taken once a day. It is recommended to have 6 people to participate. \r Background: The tsunami is frequent and the disaster is heavy. People are praying for the glory of the goddess to shine on the earth. The sanctuary needs you to investigate the truth of the tsunami and calm it down.
+475	Legion Benefits: The Gift of the Goddess
+476	In order to encourage the members of the Legion to make painstaking efforts in the construction of the Legion, the Legion will distribute benefits to the members of the Legion every Saturday night from 19:40 to 19:55. Members are invited to participate on time. \rThis activity requires a legion base to participate.
+477	The Legion will open the Legion Qualifying Tournament every Saturday night from 22:00 to 23:00, and members are invited to participate on time. \rThis activity requires a legion base to participate.
+478	Ten Wind Cave
+479	Ten Wind Cave can get up to 10 rewards per week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saints led the Dark Saints to the Galaxy Arena and captured the gold saint of Sagittarius! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
+480	Battlefield: Attica Ruins
+481	Battle size: 10-18 people/square\r In order to hone the fighting skills and meet the new holy war, the holy warriors in the holy war ancient battlefield Attica ruins Conduct practical training！
+482	In the arena in the middle of the illusion, there will be a treasure chest, and the treasure chest will be destroyed and the prize will be dropped. \rTime: Start at 11:00 every day, brush one every 2 hours, and close at 23:00. \r^e12500 Note: The map is PK without penalty area, I hope the player pays attention. ^N
+483	In order to welcome the awakening of Hades, the world is attributed to the eternal darkness and horror, and the four gods of the goddess of death are killed by the gods of Nadousus and the life of the sleeping gods. They look for the gladiators who have not yet awakened, and wake up the dark universe that they lurk in their dreams. For love and justice, for the light and peace of the earth, stop them, the young Saints! \r Everyday 10:00-23:59 points, in the illusion will be a lot of monsters, the difficulty is high, I hope to team up. \r 幻境1 enters the lowest level is 50 level\r 幻境2 enters the lowest level is 65 level ^e12500 Note: The map is PK without penalty area, I hope the player pays attention. ^N
+484	is open all day, and a lot of monsters will be brushed out in the illusion. It is recommended to enter the team. \r^e12500 Note: This map is a safe area. ^N
+485	On time: Every Saturday and Sunday from 16:30-17:00 pm. \rReceive the task from the event messenger card. \r The more you kill, the more rewards you get. It is recommended to team up.
+486	The Golden Zodiac (starting) drops up to 10 times a week and is more difficult. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Arudiba of Taurus and the mysterious Gemini Saints?
+487	Golden Zodiac (continued) Drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
+488	Golden Zodiac (final) drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Tonghu teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
+489	Golden Zodiac (reminder) drops up to 10 times a week. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Capricorn Palace, Aquarius Palace and Pisces Palace. \r Capricorn's holy sword can cut off all tangible things; Aquarius's frozen gas and even molecular movements can freeze; Pisces' poisonous rose is the last barrier that cannot be crossed. Teenagers of love and justice, can you move on?
+490	The heart of the shooter drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save Athena in the middle of the battle, protect Sagittarius from the pursuit of Capricorn!
+491	can only be completed 2 times a week. \r After receiving the task, the team is completed according to the task prompt, and a lot of rewards can be obtained after completion!
+492	can only be completed 2 times a week. \r After receiving the task, follow the task prompts and get a lot of rewards after completion!
+493	Collect 10 "Golden Mansions" to redeem a "key of time" in the Legion Base. \r Players with the "Key of Time" can open the "Time Box" that appears randomly in their own or other legion bases. \r "Time treasure box" contains gold coins!
+494	You can enter the bathing glory state by clicking the “Bathing Glory” skill in the basic skill bar. You will get a storage experience every 5 minutes. The storage experience is related to the combat power. \rYou can "bath glory" up to 8 hours a day, and you can get extra bonus bonus in the Legion base.
+495	Every Monday, Wednesday, Friday and Sunday (between 6 pm and 6 pm) will be blessed by lucky stars and appear in front of everyone! \r This event is only open in Sanctuary 1 and is held every 4 minutes! \rEveryone to guess who is the first to run racing!
+496	Time Travel - Go and find the time and space ambassador to show you the young yarn weaving! \rIf today's lucky star is directed at gluttony yarn, then complete the gluttony yarn to get the extra bonus of Lucky Star!
+497	Lucky Stars - Lucky Star will guide you to the Super Run or Gui Gui Dictionary, and you can get a reward for the lucky star guide! Come and join!
+498	The lovely noble ghost has been working hard to complete his book, the Gui Gui Dictionary, and help him!
+499	Remember that you became the original intention of the Saints - killing evil! \r Saints's Road rewards the reputation of the area where the mission is located. When the player's reputation in the area reaches 50,000, 750,000, 100000 respectively, in order to appreciate their contribution to regional security, the security team's leaves will give players different rewards. Oh~\r Also, when all players complete a certain amount of tasks in the same area, they will randomly brush out the boss monsters on the map, and there will be rich rewards in defeating! You need to be aware that when the level reaches level 30 or above, the Saints Road will only be awarded a reputation award. Saints! Go guard your land!
+500	Open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Reborn! The monster level in the soul song of the Sanctuary is the average level of the team members. Only one event can be taken every day. It is recommended that the group be 6 people to participate. \r Background: The sacred cemetery has changed on the eve of the holy war, and the underworld has sneaked into the cemetery, trying to turn it into a place to steal the power of the sanctuary and a bridgehead to attack the sanctuary...
+501	Seven Ocean Giants (front) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then participate. \r Athena was imprisoned by the sea emperor in the pillar of life behind the temple of the sea. The seas of the seven oceans poured on the goddess. Soon the sea will drown the goddess. Only the generals of the sea who defeated the seven great ocean pillars can you see the sea emperor and save Athena! Saints, rush into the bottom of the sea, crush the minions of the sea emperor!
+502	Seven Oceans Giant Pillars (post) can participate in up to 10 times a week. You need to participate in [Copy] Seven Oceans Giant Pillars (front) and get the items: ^61f2ff Sea Resonance Stone ^N before you can participate. \r Athena was imprisoned by the sea emperor in the pillar of life behind the temple of the sea. The seas of the seven oceans poured on the goddess, and soon the sea would drown the goddess. The Saints defeated the emperor Poseidon and rescued the goddess!
+503	[Hero] Goddess's elegy (front) requires a hero to point more than 45 points to participate, you can press the "V key" to view the hero point, customs clearance [copy] seven ocean giant column (front), [copy] seven ocean giant column (after ), [Hero] Ten Winds and [Hero] Shooter Hearts can get hero points, up to 5 times a week, together with other [hero] difficulty copies, the difficulty is very high, I hope you be careful.
+504	[Hero] The elegy of the goddess (post) requires a hero to point more than 45 points to participate, you can press the "V key" to view the hero point, customs clearance [copy] seven ocean giant column (front), [copy] seven ocean giant column ( After), [Hero] Ten Wind Cave and [Hero] Shooter Heart can get hero points, can participate in up to 5 times a week, and count with other [Hero] difficulty copies, the difficulty is very high, I hope you be careful.
+505	This activity includes three copies of “Icefire Abyss”, “Giant Wolf Mountain” and “Ice Country Evil God”, each time choosing one copy to play. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59.
+506	The Ice Temple has a maximum of 10 drop bonuses per week. \rIceland Princess Valkyrie was cursed by Nibelungen's ring and turned into a female Valkyrie. She was controlled by the sea emperor and occupied the seal of the sea emperor under the ice sea against Athena. In order to save the Princess of Valkyrie from the curse, break through the night of this blockade of ice, the boy of love and justice, march toward the Temple of Ice and Ice!
+507	critical! The goddess guards can only finish once a day. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59. \r Critical! The monster level in the Goddess Guard is the average level of the team members. It is recommended that the group be 6 people to participate. \r Background: The goddess's Cosmo is waking up. This is the darkest moment before dawn. The goddess needs you and needs your defense.
+508	supports the “inheritance team mode”. In the inheritance team mode, the customs clearance rewards the players who pass the level of 60 or above according to the number of players below level 59. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \rAbyss! The monster level in the last days of the Magic Star is the average level of the team members. It can only be taken once a day. It is recommended that the group be 6 people to participate. \r Background: The holy war is about to break out, and the goddess is convening the holy warrior to Tartarus to obtain the fruit of the hibiscus that can make the Virgo beads.
+509	Dream God attempted to sneak into the sanctuary through the well of Huang Quan. Now it has appeared near the well of Huangquan with the minions of the underworld. Fortunately, the pope has already understood the whole conspiracy. The Taurus gold Saints has been ordered to go. Go Help Arudiba! \r can only participate once a day, recommend team to participate!
+510	Every Tuesday, Thursday, Saturday (between 6 pm and 6 pm) will be blessed by lucky stars and appear in front of everyone! \rAs a goddess defender, do you want to go back to the past to understand the yarn of the girlhood through the tunnel of time and space? \r With the current energy, it can only be maintained for 10 minutes, and you will be sent back to reality. I hope that you can grab more snowballs and give them to the girlish yarn in a limited 10 minutes! \rFriendly Tip: Don't underestimate those snowmen. Only when the snowball on you is bigger than it can you hit it!
+511	Galaxy Gymnasium opens the venue on 13:00-15:00, 22:00-23:55 every Saturday and accepts registration. \rGray River Fighting Field provides a platform for Saints to show their strength. \rIn the opening time of the weekly venue, through the registration competition, and the powerful opponent 1v1 confrontation, continue to accumulate scores, and upgrade their ladder level, and fight against more powerful opponents. \r In addition to the rich rewards obtained in each game, you can get rich weekly awards according to the ladder level, and you can use the reward points to redeem premium items.
+512	Event time: June 07-June 14, 2016. \r value on the occasion of the Dragon Boat Festival, many Saints gathered in Lushan. The tranquil Lushan Mountain is very lively at this moment. The village head also specially invites you to visit Lushan to attend their Dragon Boat Festival celebrations. What are you waiting for, go to the party! \rJune 14th at 6:00 am to end the event!
+513	Midsummer has arrived, but the sanctuary is very lively. It seems that the enthusiasm of the people in the Sanctuary is even more hot than in the hot summer days. What is going on? Go and ask Sarna.
+514	The land of stars is an important spiritual practice in Greece, and it is also the mapping of Cancer on the earth. When the zodiac was run to the Cancer Palace, a large number of squadrons came to the stars to try to occupy it.
+515	Midsummer Carnival Dayfall will last until June 30th! \rTuesday to Friday 20:00 - 2:00; Saturday to Sunday 15:00 - 5:00, 20:00 - 2:00! \r天降奇福, treasure chest is on the horizon! Get a massive surprise prize online and get a chance to get 100 gods! \r Every 15 minutes, the game interface will be randomly popped out of the treasure chest, and you will receive the prize in the treasure chest! Please only have 1 minute to pick up each time, please don't miss it!
+516	Goddess gives each Saints a 105-point battle point every week. God's battle point can pick up this mission at the god warrior Andina. Every 3 points, the battle point can pick up the mission once. After completing the mission, you can get a lot. Reward, limited to 2 times a day, can not be received when the war is insufficient.
+517	When the night falls, it is the time when the power of the god O'Neill is the most prosperous. At the touch of a holy war, Athena needs to complete an important star prayer ceremony before the battle, and she will consume a lot of energy in the ceremony. \r turned into a golden warrior, reviving the physical strength of the goddess with the golden universe and the resonance of God, and prevented the dream god and his party feathers coming to attack.
+518	[Hero] Ten Winds Point requires more than 30 heroes to participate, you can press the "V key" to view the hero points, customs clearance [copy] seven ocean giant columns (front) and [copy] seven ocean giant columns (after) available Hero points, you can participate in up to 5 times a week, together with the [Hero] shooter heart, the difficulty is very high, I hope everyone is careful.
+519	[Hero] The heart of the shooter needs more than 30 points to participate in the hero. You can press the "V key" to view the hero points, and the customs clearance [copy] seven ocean giant columns (front) and [copy] seven ocean giant columns (after) can be obtained Hero points, you can participate in up to 5 times a week, and the [Heroes] ten wind points together count, the difficulty is very high, I hope you be careful.
+520	Take part in the break! The Avengers need to consume 2 counterattacks, and the remaining counterattacks can't participate if they are less than 2 times! In order to dominate the world, the evil spirits cooperated with the Pluto Sea Emperor, entangled a group of fallen silver, conspiring to attack the sanctuary, Athena's fighters, and go to destroy the plot of the evil spirits!
+521	Get a lot of storage experience and 1 hour of "indelible oath" status every day, and get a lot of experience every 5 minutes online!
+522	Saints! The glory of the stars can only be completed once a week. After taking the mission, you can complete the mission by performing the epic challenge of Stars at Coyes. The higher the historical record level, the higher the experience reward!
+523	Those who were exiled on the road of forgetting turned their backs on the faith of the goddess. Under the impetus of the dark forces, they attempted to use the forgotten village as a base to carry out the terrorist plan to destroy the entire sanctuary. As the guardian of the road to forget, the gold Saints, Ioria, was ordered to annihilate the rebellion.
+524	On the night of Tanabata, there was a terrible change in the well of Huangquan. Even Zilong, who was ordered to investigate, was trapped in the well of Huangquan. Chun Li sensed the crisis of Zilong, and rushed into the well of Huang Quan, and asked you to help her rescue the green dragon.
+525	Battle size: 10-18 people/square\r100 level open\r Athena created this chaotic battlefield in order to train the young Saints with Hades. In the chaotic battlefield, one side is the Athena force, the other side plays the power of the Pluto, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
+526	Where is the limit of Saints? Nobody knows! Because the holy warrior is always breaking the limit! \r In order to holy war, the commander of the Sanctuary was prepared by the life of Athena for the extreme tasks of the Saints. It is said that as long as you complete all the extreme tasks, you will become the strongest Saint. Go ahead and challenge, young Saints! The strongest belongs to you! ! !
+527	Hades City ghosts are rampant, is it another plot of Pluto? Fortunately, the Sanctuary is ready to deal with these ghost pumpkin bombs! Let's bomb together!
+528	Entering the trial illusion of the corresponding level, you will receive the illusion of the illusion, killing 30 corresponding levels of the mandala flower. The task is triggered every 5 minutes, 72 times a day, and 12 times at night. \r^e12500 Note: This map is a safe area. ^N
+529	Virgo's Golden Saints presume that in the near future there will be a battle of the entire Holy War in the Sharo Doubletree Park. In order to allow more Saints to comprehend the eighth sense as early as possible, he decided to send these Saints through six rounds. Enter the illusion of the Sharo Double Tree Garden and experience the eighth sense of the Cosmo. Young Saints! For the coming holy war, bravely accept the trial of Shaka!
+530	Event deadline: October 25. \rOnline online to get more than 100 points of activity, you can get a "Galaxy Carnival Coin" and a "Galaxy Treasure Chest" at the Galaxy Fighting Carnival Ambassador.
+531	You can get a ghost night line and double head dragon (10 days) before going online on September 22nd. \rOnline online to get more than 100 points of activity, you can get a "Double Dragon Gold Badge" at the Galaxy Fighting Carnival Ambassador. \rAccumulate 7 "Shuanglong Gold Badges" to redeem permanent double-headed dragon mounts. Redemption deadline: September 30th.
+532	Event time: March 13th - March 19th, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive the artifact essence and mystery prize! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+533	Event deadline: September 30th. \r has props "witness of the little friends" can summon hidden BOSS in the designated copy; with the title "the appearance of the fighter in memory" can receive hidden tasks in the carnival master. Mission rewards 4 hours 10% killing experience bonus status, effective for teammates. \r Players who have not logged in for more than 15 days can get the item and title.
+534	Mid-Autumn Festival is here! There are not only delicious moon cakes on the Rozan Mountain, but also the famous osmanthus wine. It is said that the osmanthus wine brewed by the village chief floats ten miles. Go to Hidden Dragon Village and have a look at it. Drink three bowls to live this life!
+535	Among the Saints, there are many teenagers from an ancient country in the East. \r These days are the national day of that country. However, as a holy warrior who guards the peace of the earth, the teenagers cannot leave the sanctuary and return to their country. Therefore, at this time of the year, the Pope has a magic bell to celebrate them in the sanctuary.
+536	during the event, in Libra! Tong Hu on Shion, the flying dragon flag mission, crusade the world BOSS mission, the Golden League mission, random rewards props "country", "celebration", "fast" and "le" four items (not bound). \r Single-word items can be opened directly to get a small amount of experience and vouchers. Collect 4 words to exchange a lot of experience and props with Master Chetian, and redeem one time per day.
+537	One day more than two hundred years ago, on the eve of the holy war, the original silent sky was cut by black lightning, and there was a figure in the wind that made the world horrible - he was Hades Hades. The golden holy warriors scattered around the sanctuary immediately went to their goddess Athena, where holy war began...
+538	The annual Halloween is coming! In order to meet this festival of mass revelry, the goddess ordered everyone to decorate the sanctuary with pumpkin lanterns and hold a grand fireworks show! Join this event and have fun with everyone!
+539	Get a magical candy every day, a lot of storage experience and 1 hour of "magic Halloween" status, you can get a lot of experience every 5 minutes online.
+540	can only be completed once a week. \r After taking the task, team up to participate in [Hero] Ten Wind Cave and win the victory, you can complete a lot of rewards!
+541	can only be completed once a week. \r After taking the task, team up to participate in the [Hero] shooter heart and win the victory, you can complete a lot of rewards!
+542	can only be completed once a week. \r After taking the task, team up to participate in the [hero] of the [Hero] goddess and win the victory, you can complete a lot of rewards!
+543	It can only be completed once a week. \r After taking the task, team up to participate in the [Hero] goddess's elegy (post) and win through, you can complete a lot of rewards!
+544	Activity time: November 25th - November 27th, every night from 20:30 to 21:30. \r Every 10 minutes will randomly pop up the turkey in the game interface, click on the turkey to receive a lot of experience and mystery award! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+545	Event deadline: December 9. \rGet online more than 100 points online, you can get a "pumpkin pie" at the Thanksgiving chef. \r1, 3, and 6 grateful hearts can be exchanged for rich rewards.
+546	Get a hammer of thanksgiving, a lot of storage experience and a one-hour "Warm Thanksgiving" every day, and get a lot of experience every 5 minutes online.
+547	The power of the underworld gradually recovered, and Scorpio Miro, who was called the “Greek Sunshine” in the sanctuary, decided to test the new generation of Saints. In what way will the gold Saints, known for its scarlet poison needle, carry out his trial? The Saints of the new generation of the Sanctuary are full of expectations...
+548	Good comrades, forever! On Thanksgiving Day, express gratitude to all those who have helped you! They gave you strength, they are accompanying you to fight, they are worthy of your guard... for love and justice!
+549	Event deadline: December 9. \r Players who have not logged in for more than 7 days can get the title "Remember your warmth" and 14 items "Thank you summon scroll". \r has the title to receive 12 "Thanksgiving Food Baskets" and 7 "Grateful Experience Powerful Rolls" with the Thanksgiving Chef, only one time. \r has the item "Grateful Summon Scroll" to summon hidden BOSS in the specified copy.
+550	Death Danadus perceives the soul of Aioros, who has been squatting in the archer's palace, so he sneaked into the hand palace and used powerful power to bind Aioros's Cosmo, ready to pull it into the abyss of the underworld. In a critical moment, the goddess Athena perceives the change from the archer's palace. In order to stop the conspiracy of death, she immediately sent the brave Saints to the Sagittarius Palace.
+551	With the snow in the sky, Christmas is here! The holy warriors decorated the sanctuary with colorful Christmas trees, and the children also hung up the Christmas stockings! In this happy day, will Santa Claus appear on the sled pulled by the reindeer?
+552	Now you can play Seiya and others every week and experience the original zodiac tour, then you will gain the reputation of the corresponding twelfth house, and even get the gold holy dress component.
+553	Santa Claus has prepared a lot of holiday gifts for people. This is a happy holiday, but evil is everywhere. A group of robbers composed of sea and underworld are preparing to snatch Christmas gifts. The brave and just teenagers are going to help. Santa Claus defeats evil and defends our Christmas gifts!
+554	supports the “inheritance team mode”. In the inheritance team mode, the customs clearance rewards the player with a rating of 90 or above according to the number of players below level 89. \r mourn! The monster level in the Hell Sonata is the average level of the team members. It can only be taken once a day. It is recommended that the group be 6 people to participate. \r Background: After everyone's unremitting battle, finally into the underworld hell, the battle ahead will be even more fierce, work hard! The goddess of the goddess.
+555	Event time: 20:00-22:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive the mystery prize! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+556	Event deadline: January 7, 2014. \rOnly when the online activity reaches 50 points and 100 points, you can receive one "ice and snow festival package" and "ice and snow festival gift package" at the Nana Department of Ice and Snow Carnival Celebration Ambassador. \r1, 3, and 7 ice and snow festival decorations can be exchanged for rich rewards.
+557	Deadline for the event: On December 30th, you can get one ice-cream and mysterious big gift every day. After opening it, you can get a generous reward!
+558	Event deadline: On December 29th, one surprise box will be available during the event, and one "singular yellow egg" will be opened. Singular yellow eggs can be opened between January 1 and January 12, 2014. Open up to get 3 super double yellow eggs, each double yellow egg opens to get a massive reward, on January 1, 2014 One serving per day between January 12th.
+559	A large amount of storage experience and 1 hour of “resurrection vows” status can be obtained every day, and a lot of experience can be obtained every 5 minutes online.
+560	It is open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89. \rHate! The level of monsters in the Butterfly Nest is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The mysterious underworld cannibal flower, the enchanting red rose spreads the whole audience, it seems to be hidden in danger, the five stone people carry out mysterious rituals, the passage of the underworld will open, for the peace of the earth, the holy of Athena The fighter must destroy the ceremony!
+561	The underworld forces are preparing to invade the sanctuary with the night, and the Saints who know the news immediately go to meet the underworld soldiers. When the Saints arrived, they were surprised to find that a familiar figure had been guarded there. The soul of the Capricorn Golden Saint Sebastian is still fighting for the bravery of defending the sanctuary...
+562	can only be completed once a week, and a group of 6 people can participate. \r Captain needs to carry items: the power of the city's yarn woven book, at the Tatsumi Kyuma, the team to take the task: the commission of the city's yarn weaving, and then can participate. \rNote: The power of attorney is mainly produced in the Legion, so joining an active legion can make it easier to participate in this event.
+563	Event deadline: March 3, 2014. \rOnline online to get an activity of 20 points, you can receive a "Ma Nian Treasure Map Fragment" at the Year of the Horse New Year Ambassador Zilong. \r Collection 1, 7, 20, 30 can be exchanged for the Spring Festival. (After February 10th, the exchange will be started, and the exchange will not consume debris. After March 3, the "Yamao Treasure Map Debris" can be used directly).
+564	Event deadline: February 18, 2014. \r During the event, players above level 20 can get the items "new", "year", "fast", "le", "blessing" and "fu" through personal activities "super run", "snowman grabs the pro", "magic bell daily". "heart". \rCollect 7 words to receive the New Year blessing mission with the New Year Ambassador (limited to 1 time). \rCollect the "new", "year", "fast" and "le" four words to receive the Happy New Year mission with the New Year Ambassador (one time per day).
+565	Event deadline: February 2, 2014. Players above level 20 can choose one of the two idioms in the "Immediately Money" and "Thinking" events with the New Year Ambassador. Two batches of lottery draws will be opened during the two redemption periods. Winning players get a big prize! Players who have not won and did not participate in the selection process will also receive a special reward!
+566	Event deadline: February 24, 2014. Players above level 20, during the event, can be in the "rebirth! Sanctuary of the soul of the sanctuary" "assembly! The zodiac crisis" "incubation! The butterfly nest" "the abyss! the end of the magic star" "mourn! Hell Sonata" In the "Storm! Atlantis" copy, kill the copy of the final BOSS, you can drop the New Year special props Year of the Horse Commemorative Coin. Accumulate a certain number of Year of the Horse Commemorative Coins and exchange special awards with the New Year Ambassador Seiya.
+567	Event time: February 11th - February 17th, 2014. \rEvery day, you can take the husband and wife team task "sweet and still" in the blink of an eye, and you can get 60 points of love reward after completion.
+568	Activity time: February 11th - February 24th, 2014. \rOnline players who have been offline for more than 7 days can get the cyan title "Zemao Pentium" and 14 items "New Year Summon Scroll" after going online. \rYou can get a lifetime mission with Seiya through the title "Ze Ma Pentium", rewarding 6 title packages "Running to Your Arms" and 7 "New Year Experience Powerful Volume", and 7 "Red Bags for You" props .
+569	The Spring Festival fell, and the underworld forces were rushing to attack the various Saints. The Athena learned of the news and sent 12 gold Saints and the Saints Army to defend the base. \r Enter the legion base, pick up the mission at Athena near the miracle, and resist the underworld forces in the battlefield in the center of the base map. You can also wear the gold sacs around Athena and use the power of the Golden Saints to fight. \r The activity time is 9:00-22:30 on Mondays, Wednesdays, Fridays and Sundays.
+570	New Year, He Xinchun! The New Year is just around the corner, and the sanctuary is filled with a peaceful atmosphere. With good wishes, everyone is looking forward to the new year! Hang lanterns, golden eggs, and celebrate each other with everyone! I wish you a good local tyrant, immediately handsome and handsome!
+571	Opening time: Every Saturday and Sunday from 16:30-17:00 pm. \rReceive the mission from the event messenger Zara. \r The more you kill, the more rewards you get. It is recommended to team up.
+572	test activity name 5
+573	New Year is coming, He Xinchun! The New Year is just around the corner, and the sanctuary is filled with a peaceful atmosphere. With good wishes, everyone is looking forward to the new year!
+574	On the eve of the holy war, the long-awaited Aquarius Palace suddenly burst into a Cosmo. When the young Saints quickly rushed to the Aquarius Palace, he discovered that the golden Saints, who had passed away, appeared here. This time, the gold Saints of Aquarius is the best trick to teach the younger generation of Saints...
+575	Roses around the Pisces Palace are an important defensive barrier to the Golden Saint, just like Pisces Abrodi, not only beautiful but also deadly. But the forces of the underworld will never give up the invasion of the earth. This time, Pluto sent the demon star Quinn and its devil flowers to the Pisces. The devil flower is constantly eroding the rose, trying to break the rose barrier of the Pisces Palace...
+576	Event time: May 22nd - May 28th, every night from 20:00 to 21:00. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive massive experience and mystery award! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+577	The Big Fighting Field is a trial field made by Mr. Mu using his power. Only the really powerful Saints can pass the trial here.
+578All	the people who receive chocolates and flowers on Valentine's Day, please note that the day of response to love comes. On Valentine's Day, convey your love and gratitude to those who love you, and let the Saints defend the love of the earth. The world!
+579	Aries Mu and his disciple are preparing a trial for the Saints, a solid crystal wall and a mischievous noble ghost, which is really a headache.
+580	Once, the warriors who fought for the justice and peace of the earth, whether they eventually became holy or not, deserve to be admired by all. On the occasion of the Ching Ming Festival, visit the forgotten fighters.
+581	In the mysterious alien space, justice and evil are spreading. A brave and just boy, go to the alien space to help Gemini dispel the evil in your heart and let justice last forever!
+582	Shrinking the world is undergoing an entertainment competition, each participant will receive a reward, destroying the other's fortress will win the competition, the winner will receive additional rewards.
+583	This is a war that belongs to the ruler! Get the battlefield mission from the gentle big ugly, and then in the shrinking world into a ruling star to destroy the other's fortress to win the battlefield victory, and get extra reward! What are you waiting for? Come and fight one game!
+584	You can use the God of War to pick up the mission every day at the warrior Angelina: the flag is open! Win the new game and win in the [Lava Battlefield] [Sky Battlefield], and you can get a lot of rewards in the top 90%.
+585	You need to participate and win in the [Lava Battlefield] [Sky Battlefield], which can only be completed once a week. \r After receiving the task, follow the task prompts and get a lot of rewards after completion!
+586	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r lava battlefield can provide an absolutely fair competitive environment, here will be you Show the stage! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
+587	Labor Day is approaching, for those Saints who have long worked hard to protect the sanctuary peace, the goddess Athena prepared a mysterious gift to thank them for their contributions.
+588	Event deadline: May 19, 2014. \r During the event, players above level 20 can get 4 characters of the item "Labor", "Move", "Light" and "Right" through personal activities. \r Collect 4 words to receive a surprise gift with the Labor Day Celebration Ambassador (1 time per day).
+589	In order to thank the Saints who has been working hard for the sanctuary, the goddess Athena is prepared to issue a thank-you award during the Labor Day, and a large amount of experience vouchers are waiting for you. \rEvent time: May 1st - May 3rd every day 20:00 - 23:59
+590	The long-running soul of Hades Castle is attached to the body and becomes a terrible zombie. Cancer Dissmus is an expert in dealing with zombies. He will let the Saints use his power to defeat the zombies, but Desmus has also done some pranks, occasionally turning a Saint to a zombie.
+591	In the 5V5 battlefield at the Guladu training base, players need to freely choose one of the many occupations and use this power to defeat the enemy players. Kill the player to get the corresponding resource points and accumulate enough resources to win. . Open every Monday, Wednesday, Friday and Sunday!
+592	The Guladu consortium recently purchased and built a new training base in Northern Europe. Those who enter there must defeat various opponents with stunts by various means. It is said that only those with keen insight and intellectual analysis will become the ultimate weapon to control the entire battle.
+593	The gold-tested BOSSs have gone too far because of being abused, but life has to continue. Only the Saints themselves can be BOSS! Every day to participate in the battlefield "matching! I am BOSS" may become BOSS to abuse other Saints!
+594	This is a 1V6 battlefield! The BOSS of the gold trials have been abused too badly! Every day, I have been abused many times, and some Saints have become addicted. The BOSS broke their hearts and decided not to play happily anymore. Who loves to be a BOSS? No way, only the Saints themselves can be BOSS!
+595	break! Gate of the underworld
+596	string flower! Town soul lament
+597	Go deep! Underworld Hell
+598	End? Ice hell
+599	sniper! The Big Three
+600	Gemini! Death and sleep
+601	The holy warriors are following the Athena finger to introduce the military underworld! From 6:00 to 3:00 every day, the head of the army led the members to enter the underworld from the Guladu employees of the Galaxy Arena. There are a total of 7 levels in the underworld, which require 12-36 Saints to complete together. First of all, you must pass the "Breakthrough! The Gate of the Underworld", and then randomly open one of the 2nd to 7th levels at the Legion Base to complete the battle of these two stages to receive the victory fruit at the Legion Base.
+602	Dream God with a group of gladiators preparing to ambush in the sky battlefield sneak attack on the Saints is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saints, Saints They all became huge, and in addition, the rabbits also made some special candy, which is said to have a mysterious effect, ready to step on the flat warriors together!
+603	Time to return to the moment when Shiang and the gladiators broke into the twelfth house, helping Tong Hu to fight against the former comrades--the challenge of Aries, the same powerful Aries as the teacher. \rProbability gets "Libra to treasure pieces" Oh!
+604	Hades Hades took the goddess Athena away as the Saints celebrated the National Day. In order to save the goddess, the holy warriors embarked on the road to rescue Athena. When the people finally caught up with Pluto, they found that Hades and the goddess Athena became another look.
+605	Sagittarius Ptolemy decided to play an archery match with Sagittarius Aioros. The two Saints decided to give their skills to other Saints. The other Saints judged who the archery skills were. .
+606	Miss Saori wants to thank the Saints who worked hard for her on Thanksgiving Day, so she decided to open a gourmet party in her villa. Unexpectedly, a group of uninvited guests suddenly broke in and snatched pumpkin pies and turkeys...
+607	Santa Claus came to the world with a gift, but was chased by evil forces, trying to steal his gift and destroy this beautiful holiday...
+608	In the ancient East, there is a legendary time and space called Perfect World. Here, the people of the world have realized many dreams, the 10th anniversary of the perfect world, let us celebrate with the goddess! If you get gold or silver coins, don't forget to go to the draw!
+609	test activity name 8
+610	test activity name 9
+611	test activity name 10
+612	test activity name 11
+613	Test Activity Description 1
+614	Test Activity Description 2
+615	Test Activity Description 3
+616	Test Activity Description 5
+617	Test Activity Description 6
+618	Test Activity Description 7
+619	Test Activity Description 8
+620	Test Activity Description 9
+621	Test Activity Description 10
+622	Test Activity Description 11
+623	Pet trap
+624	Pet Reinforcement
+625	Pet Skill Book
+626	Legion Fund
+627	Legion supplies
+628	all day
+629	Double-click to select an event to view details.
+630	heteromorphic ceremony
+631	Defending the power of the Holy Cloth
+632	Pandora's Box
+633	double daily
+634	Prophet's Nightmare
+635	[City] star trial
+636	[City] Demos hail
+637	[District City] Dispute Temple
+638	[City] Sagittarius fleeing
+639	[week mission] Demos hail
+640	[week mission] dispute temple
+641	[Week Mission] Sagittarius Escape
+642	Receive the login treasure chest
+643	Constellation Gate
+644	Devil's Land
+645	dark invasion
+646	Single ring mission, picked up at the Sanctuary of the Sanctuary of Rodeo. \r Every 10 times a cycle, within the loop, the higher the number of rings, the higher the reward. \r can be completed up to 10 times per person per day.
+647	Single ring mission, picked up at the Sanctuary of the Sanctuary of Rodeo. \r Every 10 times a cycle, within the loop, the higher the number of rings, the higher the reward. \r can be completed up to 5 times per person per day.
+648	The dark invasion began, and now is the first step: the dark Pisces Palace, you need to take the task of dark attack at Annabel: the fisher threatens \r recommend a team of 6 people to go, and do not leave in the event\ The level of the monster in the r copy is related to the average rank of the team members.
+649	The dark invasion began, and now is the first step: the dark Pisces Palace, you need your teammates to take the task of dark attack at Annabel: the fisher threat, then the captain opens the copy\r recommended group of 6 people Go again, and don't leave the level of the monster in the \r copy related to the average rank of the team members.
+650	The dark invasion began, and now is the first step: the dark Pisces Palace, follow the guidance of the combat target, through the dark Pisces Palace, complete the task of dark invasion: the fisher threatens \r recommended group of 6 people to go again, and activities Don't leave the level of the monster in the \r copy related to the average rank of the team members.
+651	The dark invasion began, and now the second step is: Dark Libra Palace, you need to take the task of dark attack at Anna Hill: Libra balance\rRecommended group of 6 people to go again, and do not leave in the activity\ The level of the monster in the r copy is related to the average rank of the team members.
+652	The dark invasion began. Now is the second step: Dark Libra Palace, you need your teammates to take the task of dark attack at Anna Hill: Libra balance, then the captain opens the copy\r recommended group of 6 people The team goes again, and the level of monsters in the \r copy is not related to the average rank of the team members.
+653	The dark invasion began, and now is the second step: the dark Libra Palace, following the guidance of the battle target, through the dark Libra Palace, complete the task of dark invasion: Libra balance\r recommended group of 6 people to go again, and do not in the event The level of the monster in the \r copy is related to the average rank of the team members.
+654	The dark invasion began, and now is the third step: the Dark Lion Palace, you need to take the task of dark invasion in Vallilis: Lion ambition\r recommended group of 6 people to go, and do not leave in the event\ The level of the monster in the r copy is related to the average rank of the team members.
+655	The dark invasion began, and now is the third step: the Dark Lion Palace, you need your teammates to take the task of dark invasion at Wallis: the lion ambition, then the captain opens the copy\r recommended group of 6 people The team goes again, and the level of monsters in the \r copy is not related to the average rank of the team members.
+656	The dark invasion began, and now is the third step: the Dark Lion Palace, following the guidance of the combat target, through the Dark Lion Palace, complete the mission of dark invasion: the Lion Ambition\r recommended a group of 6 people to go again, and in the event Don't leave the level of the monster in the \r copy related to the average rank of the team members
+657	The dark forces of Pluto have greatly threatened the source of strength that constitutes the casting of the Holy garment. The Jiamirs need the help of the holy warriors!
+658	You can get a double time every day at Dabel in Rodeo City. You can get double experience rewards when killing monsters after you double the effect.
+659	The level of the monster in the copy is related to the average level of the player team. \r During the activity time, I found Zagrazzi of the Sanctuary of Rodeo, entering the dream of the prophet and discovering the threat of dream prophecy. \rRecommended group of 6 people to go again.
+660	The actual assessment of the Saints in order to improve his own Cosmo, an assessment that no one has passed in the past decade.
+661	In the first great holy war, Demos, the leader of the Fire Corps under the Ares, was sealed in the hail of Mount Fuji by the amaze of the goddess. Now his will is gradually waking up...
+662	Known as the northern end of the Jiamil Road in the mainland, the goddess of dispute is planning a sinking of the entire Jiamir plot in her temple. The minds of the Jiamirites are fighting the Warcraft that suddenly struck. Go and help the warriors of Camille to crush the conspiracy of the goddess of dispute!
+663	The fate of the ridge of the three priests guides you through the gates of the Morning Star Valley, witnessing the plot of the Pope's assassination of the goddess 13 years ago and the truth of the Sagittarius escape.
+664	Entering the Des Moines, destroying the plot of Demos and the Eight-Divisional Snake. \r (weekly series of tasks, can be completed three times a week, give up the task does not consume the number of times)
+665	Rushed into the Temple of Disputes, killing the god of labor, the generation of Cancer, the goddess of dispute, and lifting the threat of the Temple of Disputes. \r (weekly series of tasks, can be completed three times a week, give up the task does not consume the number of times)
+666	Back to thirteen years ago, assisted the Sagittarius seat to protect Athena from the Pope's pursuit. The pope sent several powerful Saints to kill them. Defeat these chasing Saints. \r (weekly series of tasks, can be completed three times a week, give up the task does not consume the number of times)
+667	After logging in to the game every day, you can pick up a login treasure box at the magic bell of Roderia City.
+668	Line: 2, 3, 4 lines\r Find the demon door waiter in the time, enter the devil's land battle\r copy the level of the monster is related to the average rank of the team members\r recommended group of 6 people go with
+669	Secret Detective in the Dark Land
+670	Devil's Gatekeeper
+671	Requires more than 5 people to team up, the team in Jiamir (Xinghai Plain, deep sea lotus, night forest), the road to forget (Chenxing Valley, Poseidon ruins, Crete), find the goddess messenger, open the constellation door. \r consumes 4 points of justice value each time.
+672	\t%s channel
+673	Today is the day of the moon, make a wish to the moon.
+674	Today is the hot day, make a wish to Mars.
+675	Today is the water day, make a wish to Mercury.
+676	Today is Muxi Day, make a wish to Jupiter.
+677	Today is the Golden Day, make a wish to Venus.
+678	Today is a bandit day, make a wish to Saturn.
+679	Today is the day of the sun, make a wish to the sun.
+680	You have already made a wish today.
+681	Requires 20 or above to make a wish.
+682	Sirius Nazhi only appeared in the Galaxy Arena 6. \rBronze Saints Nachi of the Sirius Constellation, who had practiced hard in Liberia and used the stunt "Death Roar" of the Wolf Constellation to fight. At present, in order to have stronger strength, people are looking for a duel in the vicinity of the Galaxy Arena.
+683	The soul of Thunder Tiger only appears in Lushan 8. \rBefore the Dragon Dragon Constellation Zilong, I went to the predecessor of the Lushan Mountain, the Saints and the Tonghu Gate, as my disciples. I hope to inherit the Tianlong Saint Cloth, but I was tempted by the power during the practice and fell into a belief in strength. The dark side.
+684	The shadow of Saga appears only on the road to forgetting. \r Gemini Golden Saints, Saga's illusion, with the support of the strong spiritual power of Saar, has superhuman strength, can use all the moves of Gemini, and is driven by Saga to destroy the uneasy elements of the sacred domain in the path of forgetting.
+685	Chirongo only appeared in Death Queen Island 1. \r The leader of the Dark Saints was blasted into the volcano under the hands of the Phoenix Constellation Yihui. Because of the fate of not being willing to fail, through the mysterious contract to reincarnate from the lava hell, the fire of hatred surrounded by his body has greatly increased his power, and is currently looking for revenge for the bronze Saints.。
+686	Devil Fish - Elzak
+687	Devil Fish - Elzak appears in the Eastern Siberia 4, 5, 6 \r Guarding the pillars of the Arctic Ocean - the devil fish Elzak, is a warrior with a sense of justice as the majestic East Siberian continent. In order to save the land of sin, Elzak insisted on the conviction of the emperor Poseidon and wanted to destroy the entire continent to welcome the new world. At this moment, Elzak is waiting for the continent of Eastern Siberia with his nirvana "Light of the Arctic"!
+688	General - Hai Feilong
+689	General - Haifeilong will appear in Atlantis 5, 6, 1 \r Haifeilong, the first of the seven sea generals under the Emperor Poseidon, known as the most powerful sea general. It is mysterious, has the ambition to rule the world, and is the chief culprit in the whole ocean war.
+690	Sleeping God - Shunos
+691	Sleeping God - Shunos appeared in the Greek mythology of Fairy Island 1, 2, 3\r, the god of sleep, the confidant of Hades. Ever since being released by Pandora, he has been planning the holy war of the second era. Stunts are eternal sleeps that make people enter a permanent sleep.
+692	days of fierce - Lada Mandis
+693	days of violent star - Radha Mandis appeared in the city of Hades, 1, 2, 3 \r, the star of the martial arts - Lada Mandis, one of the three giants of the underworld, the strength of the Golden Saints. The town should be guarded in the underworld, and the king who refused to trust the resurrection would come to the world because of his true loyalty to Pluto. Controlling the underworld fighters and the holy warriors to carry out many invisible contests.
+694	Dream God - Oneeilos
+695	Dream God - Oneeilos only appeared in Death Queen Island 1. \r Master the power of dream power, is the left and right hand of the sleeping god · Shu Pulusi. In order to weaken the power of the holy warrior, the leader of the dark Saints, who was laid down by the volcano, was resurrected. However, it failed to achieve the desired results, so I personally went out and tried to wipe out the Saints.
+696	Sea King - Poseidon
+697	Sea King-Poseidon only appeared in Atlantis 5. \rThe sea god in ancient Greek mythology, sealed by Athena, was released for a special reason. Although not fully awakened, his power as the most powerful sea god is enough to subvert the whole world.
+698	After the glory - Persephone
+699	After the glory - Persephone only appeared in the city of Hades. \r After Hades Hades. Living in the deepest part of hell - the other side of the garden of Tartalos. Responsible for the control of the tree of the scorpion that can restrict the power of Pluto. She is beautiful and glamorous, with great charm, and can control the plants of the underworld and the spirit of death. Being good at transforming human form and tree form is the absolute right master in the deepest underworld.
+700	Leo is one of the most powerful Saints in the Sanctuary camp, and he will appear on Fairy Island 3 at specific times of the day. \r The high-level players in the Pluto camp and the Sea Emperor camp can challenge him.
+701	General Hailong is one of the most powerful sea fighters in the Sea Emperor camp. He will appear on Fairy Island 3 at certain times of the day. \r Sanctuary camp and high-level players in the Pluto camp can challenge him.
+702	belongs to the Pluto camp after the Ming Dynasty. It has the same strength as God. He will appear on Fairy Island 3 at certain times of the day. \r Sanctuary camp and high-level players in the Sea King camp can challenge him.
+703	The evil god Loki does not belong to any camp, but he also has strong strength and poses a threat to all living beings. He will appear on Fairy Island 3 at specific times of the day. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
+704	Capricorn is one of the most powerful Saints in the Sanctuary camp, and he will appear in Atlantis at certain times of the day. \r The high-level players in the Pluto camp and the Sea Emperor camp can challenge him.
+705	Sea King is one of the most powerful sea fighters in the Sea King camp, and he will appear in Atlantis at certain times of the day. \r Sanctuary camp and high-level players in the Pluto camp can challenge him.
+706	Sleeping God belongs to the Pluto camp and has the same power as God. He will appear in Atlantis at certain times of the day. \r Sanctuary camp and high-level players in the Sea King camp can challenge him.
+707	The abyss demon does not belong to any camp, but he also has strong strength and poses a threat to all creatures. He will appear at Atlantis 2 at certain times of the day. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
+708	Taurus is one of the most powerful Saints in the Sanctuary camp, and he will appear in Eastern Siberia at certain times of the day. \r The high-level players in the Pluto camp and the Sea Emperor camp can challenge him.
+709	Devil Fish is one of the most powerful sea fighters in the Sea Emperor camp, and he will appear in Eastern Siberia at certain times of the day. \r Sanctuary camp and high-level players in the Pluto camp can challenge him.
+710	days of stellar is one of the most powerful fighters in the Pluto camp, and he will appear in Eastern Siberia at certain times of the day. \r Sanctuary camp and high-level players in the Sea King camp can challenge him.
+711	The Lava Giant does not belong to any camp, but he also has great strength and poses a threat to all creatures. He will appear in Eastern Siberia at a specific time of the day. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
+712	The statue of Athena represents the grace and glory of the goddess Athena. At certain times of the day, the goddess will appear in the Holy Land 11. The high-level players in the Sanctuary camp can be rewarded by defending the goddess. \r Players in other camps can also attack the goddess and plunder the treasures of the sanctuary. The camp is full of power, the strong is the king!
+713	The Emperor of the Sea represents the grace and glory of the emperor Poseidon. At certain times of the day, the Emperor's Idol will appear in the Sanctuary 11. The high-level players of the Emperor's camp can be rewarded by defending the Emperor. \r Players in other camps can also attack the sea god statue and plunder the treasures of the sea emperor. The camp is full of power, the strong is the king!
+714	The statue of Pluto represents the grace and glory of Hades. At certain times of the day, the Phantom Idol will appear in the Sanctuary 11. The high-level players in the Pluto camp can be rewarded by defending the Phantom. \r Players in other camps can also attack the Pluto idol and plunder the treasures of Pluto. The camp is full of power, the strong is the king!
+715	A group of ice warriors occupied the Blue Ice Fort. Trying to confront Athena, let the earth ignite the war again. \r Loyal Saints, go to the blue ice castle, crush their attempts. \r Hero points can be participated when they reach 60 or above. You can drop up to 5 rewards per week, and count them with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
+716Hades	City is the position of the Gladiator on the ground, and it is also the entrance to the underworld. \rSaints rushed into Hades City and smashed Pluto's minions to get through the path to save Athena in the underworld. \r Hero points can be participated when they reach 60 or above. You can drop up to 5 rewards per week, and count them with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
+717	Players who have an activity level of 20 per day can receive a true love token from Ayros, the son of the god of love, and can exchange a variety of precious items with true love tokens.
+718	Open the cross-service team Arena single-person registration every day at a fixed time. Players can register personally. The system matches the team with the same strength and then cross-service 5v5 duel. One of the three competition modes will be randomly selected for PK. The game receives rewards to redeem premium prizes!
+719	Open the cross-service team arena team registration every day at a fixed time. After the player group has 5 teams, the captain clicks to sign up. After the system matches the team with the same strength, the cross-service 5v5 showdown will be randomly selected from the three match modes for PK, and the prize will be redeemed by winning the game to redeem the prize!
+720	Can only be completed once a week. \r After taking the task, team up to participate in [Hero] Blue Ice Fort and win the victory, you can complete a lot of rewards!
+721	It can only be completed once a week. \r After taking the task, team up to participate in [Hero] Hades City and win the victory, you can complete a lot of rewards!
+722	supports the “inheritance team mode”. In the inheritance team mode, the clearance reward will be awarded to the players above level 90 according to the number of players below level 89.
+723	Open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89. \r counterflow! In the zodiac crisis, the monster level is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The power of Pluto is invading the sanctuary, and the holy warriors are going to defend the gates of the sanctuary!
+724	supports the “inheritance team mode”. In the inheritance team mode, the clearance reward will be awarded to the players above level 90 according to the number of players below level 89. \r counterflow! The level of monsters in Atlantis is the average rank of the team members. It can only be taken once a day. It is recommended to have 6 people to participate. \r Background: The tsunami is frequent and the disaster is heavy. People are praying for the glory of the goddess to shine on the earth. The sanctuary needs you to investigate the truth of the tsunami and calm it down.
+725	Combat scale: 18v18\r grade segmentation: 60-79; 80-94; 95-submersible 2; submersible 3 - submersible 10\r [sky battlefield] can be understood as a flight battlefield, not only to test here The ability to fight on the ground is also where you show your flight combat skills. \r can use God's battle point to pick up the mission at the Angel of the Angels: the flag opens! Win a new game and get a lot of rewards when you're done.
+726	During the 726th anniversary celebration, you will receive a medal for the anniversary celebration with a 20-point activity every day.
+727	During the anniversary celebration, you can receive a badge for the anniversary celebration at 20-22 o'clock every day.
+728	Nether Flying A (Permanent)
+729	During the 729th anniversary celebration, you can receive a piece of gold sacred clothing at 20-22 every day.
+730	Magic Bell wants you to challenge a very difficult training, that is to practice your eyesight! \r She has prepared a lot of birds for you. When they fly past your eyes, you need to know the number of them accurately. \r This task can only be completed once a day. Accept the final challenge and you will have the opportunity to receive mystery prizes. \r Note: To subtract the bird that was shot by the arrow, plus the one born from the egg.
+731	^e12500 time and space key *200
+732	Activity time: From July 22nd to August 4th, the daily activity will reach 20 and you can get unlimited vitality. \rSet one, three, six, and nine. You can find the Zilong for the Summer Vibrant Award.
+733	Activity time: From July 22nd to August 4th, you will get a summer experience package by completing daily daily tasks and daily copies.
+734	is the most beautiful mountain, like a dream, a decade of traces, ten years of heart. This activity will randomly select one of the six copies of “Qishan Trial” and “Underworld Gold Trial”. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89.
+735	Activity time: From August 12th to August 19th, you will get the treasure map fragments by completing daily daily tasks and daily copies. Players who have 1 set of treasure map fragments can redeem a treasure map. The treasure map can be In exchange for rewards.
+736	Activity time: From now until September 22, you can receive 2 tickets for the Mid-Autumn Festival. \r When collecting 1.8.14.25.45.70 sheets, you can find Zilong for the resurrection carnival celebration ceremony.
+737	Activity time: From now until September 22, you can get a Mid-Autumn Festival voucher at the Purple Dragon from 8:00 to 10:00 every day. When collecting 1.8.14.25.45.70 sheets, you can find Zilong for the resurrection carnival celebration ceremony.
+738	The goddess thank you for your contribution to the sanctuary, so you can get a lot of stars when you complete a few simple tasks every day.
+739	Event time: From now until October 7th, you can receive a holiday reward and a National Day redemption voucher at the National Day Messenger at 8-10am. Collect 5 pieces, and after October 8th, you can find the bear for the National Day.
+740	Activity time: From now until December 1st, you can find Athena to receive an online experience BUFF every day for 3 hours, adding a small amount of experience every 10 minutes.
+741	Event time: From now until October 7th, the National Day clown will appear in the 15-line Sanctuary from 12:00 to 13:00 and 21:22 to -22. The reward can only be opened 20 times. If you exceed the opening limit, please sell the store yourself.
+742	Event time: From October 28th to November 3rd, pick up or kill the zodiac crisis, rebirth, hatching, and copy of the clock tower after the final BOSS at 8:00-10pm. \r Accumulate 1, 3, 6, and 9 fruit can be exchanged for rich rewards at the pumpkin lanterns, and 9 special Halloween titles.
+743	Activity time: November 8th to November 14th, every day, you can find the son of the god of love to get the activity task.
+744	Event time: From November 10th to November 16th, every day from 12:00 to 14:00 or 20:00 to 2:00, you can get one of the 1-10 participation coupons, 6-10 is a rare number. After using the item, there will be a number BUFF, and you need to find another number BUFF owner whose number is equal to 11. The body has two digital BUFFs and adds up to 11 to automatically receive the reward task. Note: Two numbers of BUFF cannot come from themselves at the same time, and must be found together with other players.
+745	Epic team equipment copies, each BOSS only has 1 drop per week, and is separated from the "Hero" copy. The higher the difficulty of BOSS, the better the drop, so please ask the Saints to cherish their chances of falling. \r suggests 1 tank player, 3 treatment players, and 8 output players. \r Hero points can be participated when they reach 60 or more.
+746	can only be completed once a week. \r After taking the task, team up to participate in [Hero] Blue Ice Fort, [Hero] Hades City, [Epic] Pluto and pass the victory, you can complete a lot of rewards!
+747	Time-limited fashion mount
+748	special effect title
+749	Activity time: From now until December 1, when the daily activity reaches 20, you can receive a Thanksgiving turkey at the Son of Love. When you collect 1, 3, or 5, you can redeem the surprise reward at the Son of Love.
+750	Activity time: From now until December 1st, every day from 20:00 to 21:00 in the 11-15 line Sanctuary will appear mysterious thieves, killing can get rewards. The reward can only be opened 20 times. If you exceed the opening limit, please sell the store yourself.
+751	Gold service exclusive benefits, can get a lot of experience every day
+752	Gold Service Exclusive Benefits, 1000 Star Certificates per day
+753	Event time: From December 23rd to January 12th, when the daily activity reaches 20, you can get a double card at the Christmas tree. When you collect 3, 6, 10, and 15, you can redeem the surprise reward at Santa Claus.
+754	Activity time: From December 23rd to December 25th, every day from 20:00 to -22, you can get Santa's information at the Christmas tree. From January 1st to January 3rd, you can use Santa Claus every day. The information was exchanged at Santa Claus for the reward.
+755	Event time: From December 23rd to December 25th, 3 days, you can receive 2 New Year's red envelopes at the Christmas tree. The red envelopes will be used by other players from January 1st to January 3rd. Earn rewards.
+756	Activity time: From January 1st to January 3rd, two Attica battlefields or chaotic battlefield missions will be completed twice a day, and you will receive an additional double reward for the battlefield.
+757	The goddess of ice and snow, imprisoned in the snow-capped mountains, sent her men in the coldest hours of the year to avenge the gods of Olympus who imprisoned her. Now, countless snowmen have invaded East Siberia and threatened the peace of the earth. Brave Saints, defeat these abominable invaders!
+758	Activity time: From January 1st to January 3rd, you can exchange your Santa Claus information for the reward.
+759	Silver Crystal
+760	Activity time: From January 20th to January 26th, players who have an activity level of 20 per day can receive 1 piece of “Great Treasure Shard”. Players who gather 1, 3, 5 can exchange rich gifts at the gift ambassador. reward!
+761	100 gold blood
+762	Event time: From January 23rd to January 25th, players can log in to GT Radio to listen to the "Star River Tavern" section of Saint Channel's exclusive channel. The famous radio host, coco, will lead everyone to carry out the task. 20:10-20:20, 20:25-20:35, 20:40-20:50 3 times to listen to the radio to get the reward task, each time there are 5 reward digital tasks, listen to the radio to get the correct number, select the correct The numbers can be rewarded with great rewards.
+763	Activity time: From January 20th to January 26th, during the event, the boss who successfully killed the rebirth, hatching, zodiac crisis, abyss, mourning, resurrection, storm, countercurrent, goddess series, etc. can get extra cold every day. Warm pack.
+764	Activity time: From January 26th to February 15th, during the event, the corresponding level of mourning, goddess and hatching eggs will be completed daily. Each copy will receive 1 copy of “Xinchun Tangyuan” with 3 new springs. Tang Yuan, daily to the Q version of the Pope, redemption of a lantern ticket. At the same time of redemption, get a certain amount of experience and vouchers. With 10 lantern tickets, you can redeem a rich Lantern Festival gift at the Q version of the Pope from February 16th to March 2nd. The remaining 10 lantern tickets can be redeemed for small prizes.
+765	During the event, the player can log in every day and receive the “Blessing of the Goddess” in the Q version of Athena. This state lasts for 3 hours. During the state, every 5 minutes, you can get the corresponding experience or experience and vouchers. reward.
+766	During the event period, within the set time range (20:00-21:00), players do not need any operation, just online, every 10 minutes, you can get rich online rewards. In addition to the fixed income, you can also get a variety of premium rewards at random!
+767	During the event, during the time frame (20:00-21:00), the player does not need any operation, only online, every 10 minutes, you can get rich online rewards. In addition to the fixed income, you can also get a variety of premium rewards at random!
+768	During the event period (February 10th - March 9th), Saints official WeChat will release the activation code of the package every day. Each micro-signal code can participate in the event once a day, and the activation code of the package can be used. NPC Zela (Sanctuary: -241, -402), click the NPC-Zela dialogue and select the gift card option, enter the activation code of the obtained package, click on the confirmation, you can redeem the New Year happiness blessing bag (open to get happiness) One of the dumplings and the greeting cards of the New Year, together with 1, 3, 6, and 9 happy dumplings, can be exchanged for a premium prize at (April 19th - March 9th) to the Q version of Athena. . Use the New Year's greeting card to get a fixed bonus, up to 30 per player.
+769	On Valentine's Day, the system will record the world call (including the name of the person being blessed) and (the words or blessings that Valentine said to TA), each server will randomly select 10 pairs of lovers (ie send blessed characters and be blessed) Role), gifted with the special edition of the Valentine's Day 2015 special title: 2015. Note: The event winners will be announced on the official website after February 25th. The event awards will be issued within 5 working days after the winners are announced.
+770	title: 2015
+771	The goddess was taken away again! Why do I say that...
+772	Event time: From March 17th to March 30th, you can get an extra double reward for the battlefield by completing two Attica battlefields or chaotic battlefield missions every day.
+773	Event time: January 23 - February 5, every night from 20:00 to 22:00. \r Every 10 minutes will randomly pop up the treasure box in the game interface, click on the treasure chest to receive the item reward! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+774	Activity time: From March 17th to March 30th, players who have an activity level of 20 per day can receive 1 "Rebirth Return Card", and players who collect 1, 4, 7, or 10 cards can be in Q. Exchange a great reward for the Athena!
+775	Join MAX! The Dark Stars of Infinite War must kill all BOSS within ten minutes! The faster the speed, the more reward you get! This is Pandora's gamble with Athena, who are looking for the most dazzling universe in the world. Who is the dazzling star that stands out from the infinite battle? Come on, Saints. Fighting from chaos to create a new paradise!
+776	Join MAX! The Silver Nebula infinite battle must kill all BOSS within ten minutes! The faster the speed, the more reward you get! This is Pandora's gamble with Athena, who are looking for the most dazzling universe in the world. Who is the dazzling star that stands out from the infinite battle? Come on, Saints. Fighting from chaos to create a new paradise!
+777	Take part in MAX! The infinite battle of the Golden Galaxy must kill all BOSS within ten minutes! The faster the speed, the more reward you get! This is Pandora's gamble with Athena, who are looking for the most dazzling universe in the world. Who is the dazzling star that stands out from the infinite battle? Come on, Saints. Fighting from chaos to create a new paradise!
+778	The road to God is a copy of the output voucher. Each round needs to complete 5 copies. After completing 1 round and 5 copies, there will be random surprises waiting for you. This copy is not difficult, but it takes a long time, so it is recommended to complete other After the copy, organize the companions to pay the voucher.
+779	Join MAX! The Ocean of the Infinite Battle must kill all BOSS within ten minutes! The faster the speed, the more reward you get! This is Pandora's gamble with Athena, who are looking for the most dazzling universe in the world. Who is the dazzling star that stands out from the infinite battle? Come on, Saints. Fighting from chaos to create a new paradise!
+780	Join MAX! Unlimited War King's wormhole must kill all BOSS within ten minutes! The faster the speed, the more reward you get! This is Pandora's gamble with Athena, who are looking for the most dazzling universe in the world. Who is the dazzling star that stands out from the infinite battle? Come on, Saints. Fighting from chaos to create a new paradise!
+781	In the infinite black hole made by Pandora, you must kill a round of enemies within ten minutes, one round of five illusions BOSS! Each time you kill a round of enemies, the challenge time will be reset! Of course, the next illusion BOSS will be more and more powerful! The gambling game is close to the end of the winning and losing match! Come on, Saints! Fighting for a new paradise from this black hole-like infinite battle!
+782	Combat scale: 8-15 people / square \ r100 level open \ r cloud hegemony is the first tripartite battlefield, using the "death fight" game, the first to win 50 people to win! \r can take the task at the angelic messenger Angelina: the flag is open! Win a new game and get a lot of rewards when you're done.
+783	In this illusory chaos, time is cut into line segments. The way to reset the time is as always, killing one round of enemies within ten minutes, and five rounds of illusion BOSS! Of course, this is also your chance to prove yourself! Come on, Saints! Grinding this suppresses your vain jokes, in this chaos, you only cover your hands!
+784	Do you still remember the days of fighting with your friends? The battle of blood, the cry of passion, the joy of victory and the mutual failure of failure, now these long-lost passion gold leagues are all given to you at the same time, the 30-level or above partners (30-79; 80-99; 100-level three) Participate in fast-paced 5v5 battles and high-value rewards that can't stop you completely, what are you waiting for? Come and join! ! !
+785	Activity time: From June 16th to June 22nd, complete the Attica Battlefield or Chaos Battlefield mission twice a day, you can get an additional double reward for the battlefield.
+786	Event time: June 16th - June 22nd, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive the mystery prize! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+787	Event time: From now until April 27, when the daily activity reaches 20, you can receive one gold soul resurrection card at Aeoria. When you collect 1, 3, or 5, you can redeem the surprise reward at the gift ambassador.
+788	Event time: From now until April 27, during the event, every day, you will be able to get a copy of the zodiac, Atlantis, rebirth, abyss, hatching, mourning, counter-current, yarn weaving, etc.
+789	Activity time: From now until May 12, during the event, every day, you will be able to successfully complete the 12th house, Atlantis, rebirth, abyss, hatching, mourning, counter-current, yarn weaving, etc. "Light" and "Rong".
+790	Activity time: From May 22nd to June 5th, players who have an activity of 20 per day can receive 1 piece of "Limited Fashion Fragments", and 7 players + limited edition (limited time) fashion players can be in Q. A version of the Athena exchange for permanent fashion!
+791	Event time: May 22nd - May 28th, every night from 20:00-21:00, starting from the time of the line, automatically send you a mysterious gift every 10 minutes, please don't miss it!
+792	Event time: May 22nd - June 5th, complete the "flag open! Victory new battle" battlefield mission every day, you can get another battlefield reward in the Q version of the Pope.
+793	Haughty is the new world BOSS, but you must fly in the air to attack it, otherwise the black dragon curse around him will crush you! He will appear on the 3rd line of Hades City at certain times of the day. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
+794	Crusade! World BOSS, you can take one mission a day, carry the mission to attack the corresponding world BOSS to complete the task to receive rewards, rich rewards waiting for you! ! !
+795	Saints under the leadership of Athena ended the dream of Hades Hades, is this the end? The increasingly clear future has once again climbed the fog, and the shadow of the sky heralds the advent of more brutal battles... Players above level 90 participate in the activities of the collection of enough Kauss, can be enlightened in the magic bell . In addition, when you strive to pursue the truth to defend the sanctuary, Athena and her guardians will reappear at some point, giving you generous rewards!
+796	Activity time: From now until May 24th, you can receive an “active gift” with a daily activity of more than 120, and have a chance to win a surprise prize.
+797	Event time: From now until October 25th, the daily activity level will reach 100 or more. You can get one "Golden Orange Soul Shard" from the Q version of Athena. \rSet 7 can go to the Q version of the Pope to redeem a level 1 metal star soul
+798	Event time: From now until November 1st, you can get 3 "Meng Chong Debris" at the Q version of Athena every day. \rSet one, 10 can go to the Q version of the Pope to redeem the item reward, 30 can be exchanged for a permanent cute pet
+799	Activity time: May 12 to May 24, every night from 19:00 to 22:00. \r Each hour will randomly pop up the Fuxing treasure chest in the game interface, click on the treasure chest to receive the mystery prize! Please don't miss it!
+800	The power of the ancients was guarded by the twelve gods of gold and holy warriors representing justice and peace. \rThe right warriors, to get the ancient gods, go to the trial of the Twelve Gods Golden Saints! \r Hero points can be participated when they reach 60 or more, and you can drop up to 1 reward per week. The difficulty is high, it is recommended to complete the team and then go to participate. \r
+801	The Shadow of Pluto is refreshing the world BOSS in Pole Pure Land 2 at 21:30 every night. There are a lot of Hades remnants guarding him. The last blow to kill these guards can get a good reward. \r Any level of high-level players can challenge him. When you challenge him, you may face a huge threat from other camp players. For the honor of the camp, attack!
+802	Activity time 12-22 to December 28\r Santa's gift, but it was destroyed by evil forces, and turned into a mad snow fairy to escape...
+803	Activity time: from January 26th to February 15th, 2016\r80 or above, the daily activity reaches 15 and 180 to open the activity treasure chest, respectively, you can get 1 guard badge exchange coupon\r set 30 coupons You can redeem a child of the god of love, each character is limited to 2 times\r exchange time: February 16 to February 22, 2016
+804	Event time: January 26th to February 15th, 2016\r The role of level 80 or above is open daily. 55,110,180 activity treasure chests can be obtained corresponding to ordinary, rare, precious monkey year red envelopes each one\r all Saints Killing the Big Map of Hades City: The Guardian of the Underworld, the Butterfly of the Underworld, the Secret of the Underworld, the Underworld Tracker, the Underworld Killer, the Graveyard, the Underworld, the Flower of the Devil, the Reaper of the Underworld, the girlfriend of Victor, Underworld soldiers, bloodthirsty bats, type a blood bats, type b blood bats, ab blood bats, o type blood bats\r underworld hell: first prison town soul officer, second prison town soul officer, third prison town soul Officer, fourth prison town soul officer, fifth prison town soul officer, blood scorpion, violent judge, soul-soul flower, poison beetle, group snake guard, Titan guard, ice hunter, underworld guardian, ice guard , Soul Soul Travels\r Bliss Pure Land: Forest Fairy, Guarding Fairy, Guarding Fairy Monsters, Randomly Obtaining Monkey Year Red Packets
+805	Activity time: January 26th to February 15th, 2016\r collect 100,300,500, 1000 monkey year Chinese New Year fragments plus corresponding gold coins can be exchanged for the New Year special gift\r100 convertible dance skills package, 300 Convertible Sagittarius Transformer Card (Permanent), 500 Convertible Destroy, Sun, Golden Power Mount, 1000 Convertible Roaring Bears Out of Print Mounts\r Redemption Time: February 16th to February 22nd, 2016
+806	Event time: February 4th to February 15th, 2016\r All Saints during the event, pay attention to the official micro-signal wanmeiseiya, reply to the "carousel" available activity QR code, long press the QR code to select "identify two-dimensional Code" can enter the activity carousel to participate in the lucky draw\r or log in to the official website activity page, scan the QR code to enter the activity carousel to participate in the lucky draw\r, get 2 lucky draws every day, directly extract for the first time, share the circle of friends and get another chance. View the winning record in the reward inquiry, you can redeem the reward in the game with the redemption code\r. Please pay attention to the official website\r exchange time deadline: February 29, 2016
+807	The outbreak of the red fog incident made the mythical crystals extremely scarce. Please collect 10 mythological crystals from the "one-stop" to the big pharmacist Hemier.
+808	The god of nothingness, Ramos, has sent his men to attack the weak sanctuary. Please go to the gate of the sanctuary for defense at 20 o'clock on the evening of April 15, 2016.
+809	Event time: March 15th to March 22nd, 20:00-20:30 every night. \rThe underworld singles collectively invade the Aegean Sea, and it is easy to kill one hundred "Underworld Fighters" to face the "underworld", and she will also offer a generous reward in her hands! Go and go!
+810	Every Saturday night 20:00 - 23:00 \r imaginary Rammons! Born in the chaos of chaos. In the constant confrontation of the participation of Saints. Can the vain god's destructive plan be realized?
+811	Leo Gold Saints Aiulia has always wanted a chance to return to the past! This will help the elder brother and rewrite the fate of life! When there is such an opportunity, there are actually a bunch of irrelevant people to hinder! Young Saints, defeat the flies around "Aioria"!
+812	Activity time: From now until November 14th, the character login game will receive a reward.
+813	Activity time: December 11th - December 25th, the daily activity level is above 200, you can be rewarded with a reward.
+814	Activity time: From November 16th to November 26th, complete a battlefield mission every day, you can receive a "Gift of God" gift.
+815	Activity time: From November 5th to November 15th, players can receive the "Repel Evil" mission every day, kill any 5000 monsters, and receive a lot of props rewards.
+816	Activity time: From now until November 28th, players can go online to find the "Child of Love" to receive Thanksgiving activities.
+817	Activity time: From now until January 9th, players can go online and find "Santa Claus" to receive a double red envelope.
+818	Event time: From now until January 3, players can go online to find "Santa Claus" to pick up the mission, kill the monster in the "Siberian" scene, get the snowman component, and send the component to Santa Claus to get rewards.
+819	Activity time: From now until January 9th, players can go online to find "Santa Claus" to pick up the task.
+820	To thank the All Saints for their contribution to the Sanctuary. The goddess gave the seedlings of the tree of the future of mankind. As long as we can take care of and develop the tree of the future, the power of the tree of the future will cover the whole world, and everyone will have unexpected gains.
+821	Event time: From December 11th to December 25th, you can get 3 hours of “blessing and blessing” status at the Legion Base every day, and get rewards every 15 minutes online.
+822	During the event: As of February 6th, equipped with the "early morning call" headdress, you can find the master of the car field to receive the task daily (limited once a day)
+823	During the event: As of February 6th, you can enter the army to find the army's funds to get the task every day (limited once a day)
+824	Activity time: From March 7th to March 20th, a copy of the “Crisis! Goddess Guards” activity of the corresponding level of daily customs clearance, can be activated as “March Fund Card”, which can be redeemed at “Chetian Master” reward
+825	Event time: At 6 o'clock on March 8th, at 6 o'clock on March 9th, you can receive holiday rewards at the "Car Tian Master" on the line.
+826	Event time: From January 16th to January 23rd, you can get the activity task at the "Car Tian Master" every day.
+827	Event time: May 26th - June 5th, during the event: Players kill "Bei Le Pure Land, Underworld Hell, Hades City, Fairy Island, Atlantis, Eastern Siberia, Death Queen Island, Forgotten Road, "The monster of the scene, has the opportunity to get the "anniversary carnival fragments", after accumulating a certain number of carnival fragments, the convertible event award
+828	Event time: January 7th - January 16th, during the event: players can receive a set of fashion, experience 10 days! One day, you can receive one "Yesterday Fashion Card", and collect 7 redeemable "Classic Fashion Insignia".
+829	Event time: December 11th - December 25th, during the event: 20:00-23:59 daily, players can go to the Yindu downtown tower carnival messenger, receive 500 star coupons
+830	Activity time: January 2nd - January 15th, during the event: When the daily activity reaches 200, you can receive 1 reward and get one "anniversary special card", which can be redeemed for the grand prize.
+831	Event time: May 26th - June 5th, during the event: the character can get a "Dead Return Fund" on the line, with this item, you can redeem a super gift after the event!
+832	Event time: From November 16th to November 26th, a character with a daily activity of more than 200 can receive an “active reward package”.
+833	Activity time: From November 27th to December 8th, players can receive the "Repel Evil" mission every day, kill any 5000 monsters, and receive a lot of props rewards.
+834	Event time: November 5th - November 15th, every night from 20:00 to 22:00. \r Every 10 minutes will randomly pop up the treasure box in the game interface, click on the treasure chest to receive the item reward! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+835	Event time: November 27th - December 8th, every night from 20:00 to 22:00. \r Every 10 minutes will randomly pop up the treasure box in the game interface, click on the treasure chest to receive the item reward! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+836	On the 12th level and above, you can get 55 points of activity to open. If you open this treasure box above level 70, you can get 2 additional artifact fragments.
+837	On the 12th level and above, you can get 110 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments.
+838	On the 12th level and above, you can get 180 points of activity to open. If you open this treasure box above level 70, you can get 3 additional artifact fragments.
+839	[activity] inheritance! Gold Trial (God of War 3)
+840	[Event] big counterattack! Ice Country Evil God (3rd Ring of God)
+841	[Event] Holy War memories
+842	15 or above
+843	level 35 or above (^fffd44 drop 29-48 level equipment ^N)
+844	45 or above (^fffd44 drop 38-56 equipment ^N)
+845	55 or above (^fffd44 drop 48-63 equipment ^N)
+846	level 70 or above (^fffd44 drop 68-81 level equipment ^N)
+847	80 or above (^fffd44 drop 78-89 equipment ^N)
+848	[Battlefield] victory! Glory of the battlefield
+849	[person] super run (lucky star)
+850	30-100 level (^fffd44 can only get 59 rewards ^N)
+851	60 or above (^fffd44 drop 56-68 equipment ^N)
+852	level 68 or above (^fffd44 drop 60-75 level equipment ^N)
+853	90 or above (^fffd44 drop 89-99 equipment ^N)
+854	[personal] super run
+855	[monthly] goddess! Midsummer god pray
+856	[Monthly] Rebirth Carnival - Heavenly Treasure Chest
+857	[Monthly] Mid-Autumn Festival! Oyster of osmanthus wine
+858	[Event] Critical! Goddess of mind
+859	[Army] over the years! Gold Legion
+860	[Event] Resurrection! Big Fighter Field Myth (God War)
+861	[Battlefield] victory! The road to the king
+862	[Activity] Countercurrent! Gold Trial (God of War 3)
+863	(6 people)
+864	[Event] Dream God! Like a dream to return to the dust (the third ring of the gods)
+865	[Festival] Eros Collection Order
+866	110 or above
+867	(6-12 people recommend the full team)
+868	[Festival] Santa's Dilemma
+869	[Activities] Storm! Sealed pot (God of Heroes)
+870	[Festival] Bathfire! Heavenly treasure chest
+871	various blood, etc.
+872	and the high-level event "Rebirth! Sanctuary of the Holy Land". \rOpen every day from 12:00-14:00 and 20:00-22:00. \r Assembly! In the zodiac crisis, the monster level is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The power of Pluto is invading the sanctuary, and the holy warriors are going to defend the gates of the sanctuary!
+873	holy war recalls 3 people to participate in the team, it is recommended to call some teammates. \r Background: When the commemoration of the holy warriors who died in the previous holy war, the player was suddenly affected by the inexplicable power, returned to the sanctuary in the previous holy war, and experienced the hard battle of the last holy war.
+874	The story of the various Saints is circulated in the world of Saint Seiya. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi.
+875	All battles and three rings are counted together. \rThis activity includes 2 copies of the serial challenge with sequential relationship: \r "Pisces Trial" - "Litender Trial" or "Lion Trial"\r Participate in any copy count 1 time, can participate in 6 cumulatively per day Secondly, it takes 1 point of war to participate in the "Pisces Trial", and it takes 2 points to participate in the "Litli Trial" or "Lion Trial"!
+876	Ten Wind Cave can participate in up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saint Seiya led the Dark Saint Seiya to the Galaxy Arena and captured the gold saint of Sagittarius! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
+877	Combat scale: 24v24\r grade segmentation: 40-59; 60-79; 80-94; 95-submersible 2; submersible 3-submersible 10\r in order to hone combat skills and meet new holy war, holy The fighters conducted actual training in the ruins of the ancient battlefield Attica! \r can use God's battle point to pick up the mission at the god warrior Andina: Charge! The Attica ruins can be rewarded with a lot of rewards.
+878	The Golden Zodiac (starting) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Arudiba of Taurus and the mysterious Gemini Saint Seiya?
+879	Golden Zodiac (continued) can participate up to 10 times a week, and the difficulty is high, it is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
+880	Golden Zodiac (final) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Tonghu teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
+881	Golden Zodiac (Yu) can participate in up to 10 times a week, you need to participate in [Copy] Golden Zodiac (final), get the item: ^61f2ff star trajectory ^N before you can participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Capricorn Palace, Aquarius Palace and Pisces Palace. \r Capricorn's holy sword can cut off all tangible things; Aquarius's frozen gas and even molecular movements can freeze; Pisces' poisonous rose is the last barrier that cannot be crossed. Teenagers of love and justice, can you move on?
+882	The heart of the shooter can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save Athena in the middle of the battle, protect Sagittarius from the pursuit of Capricorn!
+883	The growth of Saint Seiya often needs to be accompanied by fierce battles. In order to hone her Saints, Athena decided to let them improve their strength through various tempering. Fighters, try to grow in all kinds of tests!
+884	All battles and three rings are counted together. This activity includes 2 copies of the serial challenge with sequential relationship: \r "Icefire Abyss" - "Giant Wolf Mountain" or "Ice Country Evil God"\r to participate in any copy count 1 time, can participate in 6 times a day, participate "Icefire Abyss" consumes 1 point of war, and participates in "Giant Snow Mountain" or "Ice Country Evil" consumes 2 points of war. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59.
+885	Ice Temple can participate up to 10 times a week, you need to participate in the [copy] Golden Zodiac (Yu), get the item: ^61f2ff ice wing ^N before you can participate. \rIceland Princess Valkyrie was cursed by Nibelungen's ring and turned into a female Valkyrie. She was controlled by the sea emperor and occupied the seal of the sea emperor under the ice sea against Athena. In order to save the Princess of Valkyrie from the curse, break through the night of this blockade of ice, the boy of love and justice, march toward the Temple of Ice and Ice!
+886	On the occasion of the Dragon Boat Festival, many Saints gathered in Lushan. The tranquil Lushan Mountain is very lively at this moment. The village head also specially invites you to visit Lushan to attend their Dragon Boat Festival celebrations. What are you waiting for, go to the party!
+887	Midsummer night comes, it is the most powerful time of the god of the gods, and Athena will carry out an important star prayer ceremony on this day, she will consume a lot of energy in the ceremony. \r turned into a golden warrior, reviving the physical strength of the goddess with the golden universe and the resonance of God, and prevented the dream god and his party feathers coming to attack.
+888	Combat scale: 18v18\r grade segmentation: 80-94; 95-submersible 2; submersible 3 - submersible 10\r In order to train the young Saint Seiya with Hades, Athena created this chaotic battlefield . In the chaotic battlefield, one side is the Athena force, the other side plays the power of the Pluto, and the two sides conduct practical exercises. Only the most real confrontation can sharpen the ability to confront God, and strive for the peace of the earth! juvenile.
+889	Among the holy warriors, there are many teenagers from an ancient country in the East. \r These days are the national day of that country. However, as a holy warrior who guards the peace of the earth, the teenagers cannot leave the sanctuary and return to their country. Therefore, at this time of the year, the Pope has a magic bell to celebrate them in the sanctuary.
+890	During the event, on National Day! Dragon of the East, Mid-Autumn Night! Mooncake big bang and awakening! In the six activities of Shaka, four items (not bound) are randomly prized for “National”, “Celebration”, “Fast” and “Le”. \r Single-word items can be opened directly to get a small amount of experience and vouchers. Collect 4 words to exchange a lot of experience with Emily, and redeem it once a day.
+891	Event time: December 24th - December 30th, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive massive experience and mystery award! Only 2 minutes of pick-up time per pop-up, please don't miss it!
+892	can only be completed once a week, and a group of 6 people can participate. \rCaptain needs to carry items: the power of the city's yarn weaving power of attorney, at the Chen Yude pill to lead the team to take the task: the commission of the city's yarn weaving, and then can participate.
+893	Take part in the resurrection! The myth of the big battlefield needs to consume 2 times of the third ring of the Lushan Mountain. When the remaining number of the third ring of the Lushan Mountain is less than 2 times, it is impossible to participate! The big battlefield is a trial field that Mr. Mu used to create his mind. Only the really powerful Saints can pass the trial here.
+894	Shrinking the 6V6 battlefield in the world, players need to choose one of the many heroes to gain power, and use this power to defeat enemy players and eventually destroy the other's fortress. You can get rewards after receiving the task on Mondays, Wednesdays, Fridays and Sundays!
+895	Dream God with a group of gladiators preparing to ambush in the sky battlefield to attack the Saint Seiya is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saint Seiya, Saint Seiya They are all huge, ready to step on the flat warriors!
+896	Time to return to the moment when Shi'an and the gladiators broke into the twelfth house, helping Tong Hu to fight against the former comrades--the challenge of Aries, the same powerful Aries as the teacher.
+897	A group of ice warriors occupy the Blue Ice Fort. Trying to confront Athena, let the earth ignite the war again. \r Loyal Saints, go to the blue ice castle, crush their attempts. \r Hero points can be participated when they reach 60 or above. You can participate in up to 5 times a week, and count with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
+898	Hades City is the position of the Gladiator on the ground and the entrance to the underworld. \rSaints rushed into Hades City and smashed Pluto's minions to get through the path to save Athena in the underworld. \r Hero points can be participated when they reach 60 or above. You can participate in up to 5 times a week, and count with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
+899	All battles and three rings are counted together. This activity includes 3 copies of the serial challenge with sequential relationship: \r "Countercurrent! Pisces Trial" - "Countercurrent! Libra Trial" or "Countercurrent! Lion Trial"\r Participate in any copy count once a day Can participate in 6 times in total, participate in "countercurrent! Pisces trial" need to consume 1 point of war, participate in "countercurrent! Libra trial" or "countercurrent! Lion trial" need to consume 2 points of war. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89.
+900	All battles and three rings are counted together. This activity includes 3 copies of the serial challenge with sequential relationship: \r "Dream! Summer bugs" - "Dream! Broken Mountain Cliffs" or "Wake Up! Flying Down"\r Participate in any copy count 1 time, you can participate in 6 times a day, participate in "Dream! Summer bugs" need to consume 1 point of war, participate in "Dream! Broken Mountain Cliff" or "Wake Up! Flying Down" takes 2 points God fights. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89.
+901	Activity time: From November 11th to November 17th, you can find the child of the god of love to get the activity task every day. After completing the task, you can not only get the task reward but also get the special props romantic certificate. Collect 9 romantic certificates. Redeem a special title.
+902	Activity time: From November 11th to November 17th, every day from 12:00 to 14:00 or 20:00 to 2:00, you can get one of the 1-10 participation coupons, 6-10 is a rare number. After using the item, there will be a number BUFF, and you need to find another number BUFF owner whose number is equal to 11. The body has two digital BUFFs and adds up to 11 to automatically receive the reward task. Note: Two numbers of BUFF cannot come from themselves at the same time, and must be found together with other players.
+903	The epic team has a copy of the equipment. Every BOSS has only one drop per week. The higher the difficulty, the better the drop. So please ask the Saint Seiya to cherish your chance to drop. \r Note that the epic copy is now separated from the hero copy. Record, the player can continue to attack the epic copy after Raiders the hero copy. \r suggests 1 tank player, 3 treatment players, and 8 output players. \r Hero points can be participated when they reach 60 or above. You can enter unlimited times every week, but each BOSS drops only once a week.
+904	Gold Service exclusive benefits, a large amount of experience per day and 3.5 times experience time per hour
+905	Gold Service Exclusive Benefits, 1000 Star Certificates and 10 Sweep Cards per day
+906	Event time: February 10th - March 9th, during the event, the corresponding level of mourning, goddess and hatching eggs will be completed daily. Each copy will receive 1 copy of "New Spring Tangyuan" with 3 new springs. Tang Yuan, daily to the Q version of the Pope, redemption of a lantern ticket. At the same time of redemption, get a certain amount of experience and vouchers. With 10 lantern tickets, you can redeem a rich Lantern Festival gift at the Q version of the Pope from February 18th to March 9th. The remaining 10 lantern tickets can be redeemed for small prizes.
+907	Participate in the storm! The goddess' seal pot needs to consume 2 times of the Lushan three-ring count, and the remaining number of the third ring of the Lushan Mountain cannot be participated when it is less than 2 times! The goddess was taken away again! Why do I say it again... This time it was taken away by the seal of the Sea King, but our brave Saints must be able to save the goddess greatly!
+908	Event time: March 17th - March 23rd, 20:00-21:00 every night. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive the mystery prize! Only 2 minutes of pick-up time per pop-up, please don't miss it!

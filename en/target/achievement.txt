@@ -1,0 +1,1176 @@
+0	Inevitable sadness
+1	Accidental player death
+2	Level 10
+3	Reached Level 10
+4	Level 20
+5	Reached Level 20
+6	Level 30
+7	Reached Level 30
+8	Hard Work
+9	Fulfill the mission of the ring 2 times within 4 days.
+10	Cautiously and consciously
+11	Fulfill the mission of the library once a week.
+12	Increase Cloth level.
+13	Registered realization.
+14	Equipment improvement
+15	Disassemble equipment through the Magic Box.
+16	Merge items through the Magic Box.
+17	Production skills
+18	Aries task guide
+19	Taurus task guide
+20	Gemini task guide
+21	Cancer task guide
+22	Cancer task guide (registered accomplishment)
+23	Virgo task guide
+24	Leo task guide
+25	Libra task guide
+26	Scorpio task guide
+27	Sagittarius task guide
+28	Capricorn task guide
+29	Aquarius task guide
+30	Pisces task guide
+31	Atticas Arena
+32	Add Friend
+33	Add army
+34	Auction
+35	Auction successfully made
+36	Fit Store
+37	Time montage sound
+38	Army sound
+39	Combo Edit
+40	Stuffing amulet
+41	PVP in slow pace
+42	Astrology of the Cosmo
+43	Build a team
+44	Bathed in glory (Gaining experience)
+45	Reached level 5
+46	Orientations Achievements premise
+47	Reached level 11
+48	Reached 12
+49	Met level 15
+50	Reached level 25
+51	Met level 35
+52	Reached level 40
+53	Met level 45
+54	Reached level 50
+55	Met level 59
+56	Fulfilling the level up mission
+57	Fulfill the mission of merging the equipment with the Magic Box.
+58	Win title 21301
+59	Complete 1x the Kiki Questionnaire
+60	In ${dynamic_dir(55, "Day Programming")}, complete Kiki Quiz.
+61	Complete 1x Crisis of the Twelve Houses
+62	In ${dynamic_dir(55, "Day Programming")}, complete Crisis of the Twelve Houses.
+63	Complete 1x Tempest Atlantis
+64	In ${dynamic_dir(55, "Day Programming")}, complete Tempest at Atlantis.
+65	Complete 1x Ten Caves
+66	In ${dynamic_dir(55, "Day Programming")}, complete Ten Caves.
+67	Be victorious in [Arena] Ruinas de Atica
+68	In ${dynamic_dir(55, "Day Programming")}, complete Attic Ruins.
+69	Complete 1x Exterminate Evil
+70	In ${dynamic_dir(55, "Day Programming")}, complete Eradicate Evil.
+71	Participate in the Memories of the Holy War and see the Golden Armor
+72	After Lv 15, go to the Recommendations Interface in the Calendar and participate in [Instance] Memories of the Holy War and test the power of the Golden Armor
+73	Refine any Armor up to LV 2
+74	Use ${dynamic_dir(5, "Refine")} to refine any Armor to the LV2
+75	Create or participate in an Army
+76	Go to ${npc(14799)} to create or participate in an Army
+77	Participate in the Duel Arena
+78	Go to the interface of the ${dynamic_dir(26, "Duel Arena")} and conquer 10 wins.
+79	Change Sign 1x
+80	Go to ${npc(18405)} and change Sign 1x
+81	Make a purchase with Emeralds in the Item Mall
+82	Go to ${dynamic_dir(44, "Item Mall")} and make a purchase with Emerald
+83	Strengthen the Cosmo 1x
+84	Go to ${dynamic_dir(1, "Cosmo")} and perform 1x Astromancy, inserting the Soul so that the Star Power Index reaches 500
+85	Concluding Cosmo Quest
+86	Obtain the 2nd Bronze Armor
+87	Go to ${npc(17439)} to get the 2nd Bronze Armor
+88	Perform a Division by the Magic Box
+89	Use ${dynamic_dir(3, "Magic Box")} to divide an Equipment
+90	Refine 1x the Equipment
+91	Go to ${npc(11576)} to Refine any 1x Equipment
+92	Raise 1x the LV through the Magic Box
+93	Use ${dynamic_dir(4, "Magic Box")} to raise the LV of an Equipment
+94	Learning 1 Production Skill
+95	Go with ${npc(17542)} and learn some Production skill.
+96	Offer an offer of an item at the Auction
+97	Go to ${npc(11575)} and bid on an auction item
+98	Clave Rune 1x
+99	Go to ${npc(17850)} and key a rune in any Equipment
+100	Activate a Title
+101	Activate any ${dynamic_dir(56, "Title")} obtained
+102	Activate 2x EXP
+103	Go to ${npc(14838)} to receive 2x EXP and activate it in ${dynamic_dir(6, "2x EXP")}
+104	Reach LV 18
+105	Reach LV 18
+106	Use the Warehouse
+107	Go to ${npc(11565)} to activate the Store and save the 1x items
+108	Refine the Equipment until the Power reaches 2000
+109	With ${npc(11576)} Perfect the Power at $2000 {jump (1)}
+110	Buy 1x supplies
+111	Go to ${npc(11303)} and ${npc(17282)} to buy 50 Danamarqueses and 50 HP Potions
+112	Complete 1x Knights of the Goddess
+113	In ${dynamic_dir(55, "Programming of the Day")}, complete Knights of the Goddess.
+114	Complete 1x Destiny Challenge
+115	In ${dynamic_dir(55, "Day Programming")}, complete Destination Challenge.
+116	Power reached 5000 and LV 25
+117	Orientations Achievements
+118	combat power of 9000 and 35
+119	Power Level of 15,000 and 45
+120	Power Level of 28,000 and 55
+121	Power Level of 50,000 and 65
+122	Power Level of 80,000 and 75
+123	Power Level reached 115,000 and 85
+124	Power Level reached 150,000 and 95
+125	Link Security Card
+126	Go to ${npc(29306)} to link the Security Card
+127	Refine any Armor up to LV 5
+128	Use ${dynamic_dir(5, "Refine")} and refine any Armor up to LV 5
+129	Get 5 Armors
+130	Go to ${npc(17439)}, ${npc(17440)} or ${npc(28252)} to get another Armor
+131	Star Power Index of the Cosmo reach 1000
+132	In ${dynamic_dir(1, "Cosmo")} make the Star Power Index reach 1000
+133	Get 2 Silver Armors
+134	Go to ${npc(17440)} to get clues and get more than 2 Silver Armor
+135	Obtain 1 Golden Armor
+136	Go with ${npc(28252)} to get clues and get 1 Gold Armor.
+137	The Knights of the Zodiac OL Introduction of the Discloser
+138	Go to ${npc(32159)} to read the Introduction of the Diviner of the Zodiac Knights OL
+139	Get 1 Pet
+140	Go to the ${npc(1240)} and ask how you get 1 Pet.
+141	Perform 1x Pet Procriation
+142	Go to ${npc(17340)} and perform 1x Pet Procriation
+143	Complete 3x the Quest Challenge of the Garden of Illusion
+144	Go to ${npc(33799)} to complete 3x the Garden of Illusion Challenge Quest
+145	Obtain 10 Bronze Armor
+146	Refine 14 Comum Bronze Armor up to LV Max
+147	Refine 14 Bronze armor up to LV Max
+148	Increase any Guardian constellation cloth to Level 17
+149	Get 10 silver cloths
+150	Basic for silver intermediate cloth has a star assigned for the maximum level
+151	High-level silver star cloth fused to have a maximum level
+152	Obtain 6 Golden Armor
+153	Any gold cloth star cast at 20
+154	Any star cast gold cloth from 12 to 20
+155	Fitting any hole in 100% shape
+156	Equipment for any hole in 100% shape, if there is 100% polyethylene, can be assembled once.
+157	Equipment of all three shaped holes for 100%
+158	Equipment of all three holes in the form of 100%, 100%, 3 holes need to be in the same equipment
+159	Star Power Index of the Cosmo reach 5000
+160	Star Power Index of the Cosmo reach 5000, consult the Cosmo System for more details
+161	Cosmo of star power reached 8000
+162	Cosmo of star power reached 13,500
+163	Cosmo of star power reached 19,000
+164	Reach 1500 of power with the Squire.
+165	Squad of combat practice power of 1500, see the specific character of the combat power of the practice property rule
+166	Reach 4000 power with the Squire.
+167	Reach 6000 power with the Squire.
+168	Perfect the Equipment until the Power reaches 6000.
+169	Perfect the Equipment until the bonus power reaches 6000.
+170	combat power equipment in shape reached 8000
+171	Combat power equipment in forms reached 12,000
+172	combat power equipment in shape reached 15000
+173	Either from a dark cast to star cloth 16
+174	Read the system instructions on Guardianship
+175	Go to ${npc(34575)} to read the instructions on the requirements to become an apprentice
+176	Get 20 Silver Armors
+177	Obtain 12 Golden Armor
+178	There are three friendship friends reached 1w
+179	Reputation any total value of a geographic scope
+180	Reputation any character that reaches a total value
+181	Degree observation of stars 5
+182	Stargazing scope of degree 5, complete 5 constellation
+183	Stargazing level reached 24
+184	Stargazing level reached 48
+185	Players daily activity reaches 200
+186	Complete cult 1 Star
+187	In Star from an interface of cult rituals
+188	Becoming the Golden Discloser of the Knights of the Zodiac
+189	Go to ${npc(32159)} to read the detailed guidance on the Golden Discloser, motivating other players to reach LV 10
+190	Get the legendary five Xiaoqiang cloth
+191	In the main mission to climb to 9, right away, can be placed on the legend of the five Xiaoqiang cloth
+192	LV 10 LV Accelerator Package
+193	In ${jump (88)} Star-Bestselling, buy and open LV 10 LV Progress Pack
+194	Summon the Knights of the Dragon
+195	Congratulations, you picked up the four dragons! Maybe in the near future you can satisfy your desire.
+196	Complete the Challenge of the Instance
+197	Go to the ${npc(212333)} to complete the "Black Meteor" dungeon
+198	Go to the ${npc(212333)} to complete the dungeon "Huracán de las Tinieblas"
+199	Go to the ${npc(212333)} to complete the "Galactic Explosion" dungeon.
+200	Go to the ${npc(212333)} to complete the "Final Symphony" dungeon
+201	Go to the ${npc(212333)} to complete the "Destr. Máxima" dungeon
+202	Go to the ${npc(212333)} to complete the "Black Hole" dungeon
+203	Apprentice Certificate
+204	Reach the Lv. 10
+205	Novato Certificate
+206	Reach the Lv. twenty
+207	Wrestler's Certificate
+208	Reach the Lv. 30
+209	Guerrero Certificate
+210	Reach the Lv. 40
+211	Elite Certificate
+212	Reach the Lv. 50
+213	Hero Certificate
+214	Reach the Lv. 60
+215	Guardian Certificate
+216	Reach the Lv. 70
+217	Certificate of Overcoming
+218	Reach the Lv. 80
+219	Grand Master Certificate
+220	Reach the Lv. 90
+221	Certificate of God
+222	Reach the Lv. 100
+223	Legend of the Massacre
+224	Get 10000 of Power
+225	Massacre of the Demons
+226	Get 50000 Power
+227	Immortal Legend
+228	Get 100000 Power
+229	Legend of the Assassin of Gods
+230	Obtain 150000 Power
+231	Way to Wealth
+232	Get 100000 Gold
+233	Good of Life
+234	Get 500,000 Gold
+235	Rich Person
+236	Get 1000000 Gold
+237	Capitalist
+238	Get 5000000 Gold
+239	Accumulator
+240	Get 100000 Cash
+241	Cash
+242	Get 500000 Cash
+243	Tycoon
+244	Get 1000000 Cash
+245	Millionaire
+246	Get 5000000 Cash
+247	Hard Work
+248	Open the 4th Activity Box 1x
+249	Working Bee
+250	Open the 4th Activ Box. for 7 consecutive days
+251	Hard Work
+252	Open the 4th Activity Box 120x
+253	From East to West
+254	Obtain 400pts of Activity in 1 day
+255	From Top to Bottom
+256	Obtain 800pts of Activity in 1 day
+257	On All Sides
+258	Obtain 1500pts of Activity in 1 day
+259	1st Drop of Blood
+260	Complete the Quest Eradicate Evil 1x
+261	Hunting Dog
+262	Complete the Quest Eradicate Evil 8x
+263	The Hunter
+264	Complete the Quest Eradicate Evil 20x
+265	5th Sense
+266	Reach the LV 1 of the Cosmo
+267	6th Sense
+268	Reach the LV 2 of the Cosmo
+269	​​7th Sense
+270	Reach the LV 3 of the Cosmo
+271	8th Sense
+272	Reach the LV 4 of the Cosmo
+273	9th Sense
+274	Reach the LV 5 of the Cosmo
+275	Destined for the Sanctuary
+276	Get 5 Armors
+277	Destined for the Constellation
+278	Obtain 12 Armors
+279	Spirit of a Knight
+280	Get a ride
+281	Marin's Companion
+282	Scope Reputation Lv. Esteem with her
+283	Shina's Companion
+284	Scope Reputation Lv. Esteem with her
+285	Companion of Mu
+286	Scope Reputation Lv. Esteem with him
+287	Companion of Aldebaran
+288	Scope Reputation Lv. Esteem with him
+289	Companion of Saga
+290	Reach Reputation Lv. Esteem with him
+291	Companion of the Mask of Death
+292	Scope Reputation Lv. Esteem with him
+293	Aiolia's Companion
+294	Scope Reputation Lv. Esteem with him
+295	Shaka's Companion
+296	Scope Reputation Lv. Esteem with him
+297	Fellow of Milo
+298	Scope Reputation Lv. Esteem with him
+299	Dohko's Companion
+300	Reach Lv. Esteem with him
+301Aioros	companion
+302	Scope Reputation Lv. Esteem with him
+303	Shura Companion
+304	Scope Reputation Lv. Esteem with him
+305	Camus Companion
+306	Scope Reputation Lv. Esteem with him
+307	Aphrodite's Companion
+308	Scope Reputation Lv. Esteem with him
+309	Seiya Mate
+310	Reach Reputation Lv. Esteem with him
+311	Hyoga Mate
+312	Scope Reputation Lv. Esteem with him
+313	Companion of Shiryu
+314	Scope Reputation Lv. Esteem with him
+315	Shun Companion
+316	Scope Reputation Lv. Esteem with him
+317	Ikki companion
+318	Scope Reputation Lv. Esteem with him
+319	Guardian of the Sanctuary
+320	Reach Reputation Lv. Zelo in this region
+321	Guardian of the Coliseum Grand
+322	Scope Reputation Lv. Zelo in this region
+323	Guardian of Rozan
+324	Scope Reputation Lv. Zelo in this region
+325	Guardian of the Forgotten Path
+326	Scope Reputation Lv. Zelo in this region
+327	Guardian of the Island of the Queen Death
+328	Scope Reputation Lv. Zelo in this region
+329	Guardian of Eastern Siberia
+330	Reach Reputation Lv. Zelo in this region
+331	Guardian of Atlantis
+332	Reach Reputation Lv. Zelo in this region
+333	Guardian of the Island of Andromeda
+334	Reach Reputation Lv. Zelo in this region
+335	Guardian of Hades Castle
+336	Reach Reputation Lv. Zelo in this region
+337	The Legend of the Knights!
+338	Complete "Saga of the Twelve Golden Houses", Ch.1
+339	Knight of Love and Justice!
+340	Complete "Saga of the Twelve Golden Houses", Chap.
+341	Warrior under the Milky Way!
+342	Complete "Saga of the Twelve Golden Houses", Chap.
+343	Young Destined!
+344	Complete "Saga of the Twelve Golden Houses", Chap.4
+345	Man who knows the truth!
+346	Complete "Saga of the Twelve Golden Houses", Cap.5
+347	Faith Milenar Intact!
+348	Complete "Saga of the Twelve Golden Houses," Cap.6
+349	The Golden Knight of Sagittarius!
+350	Complete "Saga of the Twelve Golden Houses", Chap.7
+351	The Bloody Domain of the Seven Seas!
+352	Complete "Saga of the Twelve Golden Houses", Cap.8
+353	The Ambition to Rule the World!
+354	Complete "Saga of the Twelve Golden Houses", Chap.9
+355	The Flames of the Island of the Death Queen!
+356	Complete "Saga of the Twelve Golden Houses", Chap.10
+357	The Power of Poseidon!
+358	Complete "Episode Fight of Poseidon", Cap.1
+359	The Glory of the Far North!
+360	Complete "Episode Fight of Poseidon", Cap.2
+361	The Wrath of Poseidon!
+362	Complete "Episode Fight of Poseidon", Chap.3
+363	The Blue of the Underwater Fortress!
+364	Complete "Episode Fight of Poseidon", Chap.4
+365	Golden Destroyer!
+366	Complete "Episode Crusade of the Underworld", Chap.1
+367	The Prologue of the Great Holy War!
+368	Complete "Episode Crusade of the Underworld", Chap.
+369	The Treason of the Golden Knights!
+370	Complete "Episode Crusade of the Underworld", Chap.3
+371	Portal that leads to the Underworld!
+372	Complete "Episode Crusade of the Underworld," Chap.4
+373	Fugue Another Dimension!
+374	Complete this Tangle Quest
+375	Suffocating Melody!
+376	Complete this Tangle Quest
+377	Urgent The Situation of the Lion!
+378	Complete this Tangle Quest
+379	Battle The Twelve Houses!
+380	Complete this Tangle Quest
+381	Galactic Tournament
+382	Fight in the Galactic Tournament
+383	Deadly Battle of the Ten Caves!
+384	Complete this Tangle Quest
+385	Rupture Dragon and Tiger!
+386	Complete this tangle Quest
+387	Fugue Yomotsu Hirasaka!
+388	Complete this Tangle Quest
+389	Memories The Truth Thirteen Years Ago!
+390	Complete this Tangle Quest
+391	Conspiracy The Man Who Fooled God!
+392	Complete this Tangle Quest
+393	Confrontation Return to the Mount of Stars!
+394	Complete this Tangle Quest
+395	Phantom Fist [Darkness]
+396	Complete this [Tangle] Quest!
+397	Memories The Phoenix Renaissance!
+398	Complete this Tangle Quest
+399	Regards The Justice of the Aurora!
+400	Complete this Tangle Quest
+401	Deep Blue The Battle of the Seven Seas!
+402	Complete this Tangle Quest
+403	Crimson! Shadow of Another World!
+404	In ${npc(212687)} complete Transcendental Shadow.
+405	Legend of the Coliseum Grand
+406	Complete 30 secondary quests in this region
+407	Legend of Rozan
+408	Complete 30 secondary quests in this region
+409	Legend of the Forgotten Path
+410	Complete 30 secondary quests in this region
+411	Legend of the Island of the Queen Death
+412	Complete 30 secondary quests in this region
+413	Legend of Eastern Siberia
+414	Complete 30 secondary quests in this region
+415	Legend of Atlantis
+416	Complete 30 secondary quests in this region
+417	Legend of the Island of Andromeda
+418	Complete 30 secondary quests in this region
+419	Legend of Hades Castle
+420	Complete 30 secondary quests in this region
+421	Little Mathematician
+422	Complete "Twelve Houses" and "Hero of Destiny"
+423	Bardo
+424	Complete the Quest 5x
+425	Bardo Traveler
+426	Complete the Quest 25x
+427	Epic Writer
+428	Complete the Quest 50x
+429	Rumor Collector
+430	Complete the Quest daily for 5 days
+431	Skilled
+432	Complete the Quest 1x
+433	Beat the Enemies
+434	Complete the Quest 10x
+435	Indomitable
+436	Complete the Quest 25x
+437	Astro EXP concentrated
+438	Complete the Quest daily for 5 days
+439	Extreme Passion
+440	Complete 1x the "Extreme Quest" of Star 1
+441	Extreme Challenge
+442	Complete 1x the "Extreme Quest" of Star 2
+443	Extreme Honor
+444	Complete 1x the "Extreme Quest" of Star 3
+445	Limit of the Knights!
+446	Complete 50x total "Extreme Quest"
+447	Crisis of the Twelve Houses
+448	Complete this event Quest
+449	Protect Saori
+450	Complete this event Quest
+451	Tempest in Atlantis
+452	Complete this event Quest
+453	Pisces Challenge
+454	Complete this event Quest
+455	Libra Challenge
+456	Complete this event Quest
+457	Leo Challenge
+458	Complete this event Quest
+459	Requiem of the Sanctuary
+460	Complete this event Quest
+461	Protect Athena
+462	Complete this event Quest
+463	Counterattack (1)! Abyss of Fire and Ice
+464	Conclude "Against (1)! Abis. Fire Ice "
+465	Counterattack (2)! Giant Wolf of the Snow Mountain
+466	Conclude "Against (2)! Wolf Mountain Snow "
+467	Counterattack (3)! Demonic God of the Land of Ice
+468	Conclude "Against (3)! God of the Ice Country "
+469	Demonic Apocalypse
+470	Complete this event Quest
+471	Invasion The Avengers!
+472	Complete this event Quest
+473	Infernal Sonata
+474	Complete this event Quest
+475	Butterflies of the Underworld
+476	Complete this event Quest
+477	Dream of the Goddess
+478	Complete this event Quest
+479	Countercurrent! Pisces Challenge
+480	Conclude "Countercurrent! Pisces Challenge "
+481	Countercurrent! Libra Challenge
+482	Conclude "Countercurrent! Libra Challenge "
+483	Countercurrent! Leo's Challenge
+484	Conclude "Countercurrent! Challenge Leo "
+485	Tsunami in Atlantis
+486	Complete this event Quest
+487	Conflict of the Twelve Houses
+488	Complete this event Quest
+489	Memories of the Holy War
+490	Complete this dungeon
+491	Ten Caves
+492	Complete this dungeon
+493	Heart of Sagittarius
+494	Complete this dungeon
+495	Twelve Houses I
+496	Complete this dungeon
+497	Twelve Houses II
+498	Complete this dungeon
+499	Twelve Houses III
+500	Complete this dungeon
+501	Twelve Houses IV
+502	Complete this dungeon
+503	Ice Sanctuary
+504	Complete this dungeon
+505	Seven Pillars I
+506	Complete this dungeon
+507	Seven Pillars II
+508	Complete this dungeon
+509	Elegy of the Goddess I
+510	Complete this heroic Quest
+511	Elegy of the Goddess II
+512	Complete this heroic Quest
+513	Eternal Memories
+514	Complete 100x "Memories of the Holy War"
+515	[Heroic] Ten Caves
+516	Complete this heroic Quest
+517	[Heroic] Heart of Sagittarius
+518	Complete this heroic Quest
+519	[Heroic] Castillo del Grand Azul
+520	Complete this heroic Quest
+521	[Heroic] Hades Castle
+522	Conclude "[Hero] Castillo Hades"
+523	[Epic] The End of Hades
+524	Complete this heroic Quest
+525	Hero_Twelve Divine Houses I
+526	Complete this heroic Quest
+527	[Heroic] Twelve Divine Houses II
+528	Complete this heroic Quest
+529	[Heroic] Twelve Divine Houses III
+530	Finish [Heroic] Doze Divine Houses III
+531	[Heroic] Doze Divine Houses IV
+532	Finish [Heroic] Doze Divine Houses IV
+533	Victorious
+534	Go through the 1st phase of the "Star Epic"
+535	Victorious Constant
+536	Go through the 10th phase of the "Star Epic"
+537	Break the Enemy Line
+538	Go through the 20th phase of the "Star Epic"
+539	Winner
+540	Go through the 30th phase of the "Star Epic"
+541	Brave
+542	Go through the 40th phase of the "Star Epic"
+543	Battle Soul
+544	Go through the 50th phase of the "Star Epic"
+545	Positioned for Battle
+546	Go through the 60th phase of the "Star Epic"
+547	Enemy Destroyer
+548	Go through the 70th phase of the "Star Epic"
+549	Heroic Attitude
+550	Go through the 80th phase of the "Star Epic"
+551	Immortal Bravura
+552	Pass through the 90th phase of the "Star Epic"
+553	Invincible
+554	Go through the 100th phase of the "Star Epic"
+555	Enemy of the People
+556	Go through the 110th phase of the "Star Epic"
+557	Feroz of the World
+558	Go through the 120th phase of the "Star Epic"
+559	Battlefield Legend
+560	Go through the 130th phase of the "Star Epic"
+561	Army Star
+562	Go through the 140th phase of the "Star Epic"
+563	Undefeated Hero
+564	Go through the 150th phase of the "Star Epic"
+565	Attitude of Conquest
+566	Go through the 160th phase of the "Star Epic"
+567	Incomparable
+568	Go through the 170th phase of the "Star Epic"
+569	Break the Sky
+570	Go through the 180th phase of the "Star Epic"
+571	Reincarnation of Ares
+572	Go through the 190th phase of the "Star Epic"
+573	Despot of Heaven
+574	Go through the 200th phase of the "Star Epic"
+575	Eternity
+576	Go through the 210th phase of the "Star Epic"
+577	Coming from Heaven
+578	Go through the 220th phase of the "Star Epic"
+579	Power of the Assassin of God
+580	Pass through the 230th phase of the "Star Epic"
+581	Massacre of the Gods
+582	Go through the 240th phase of the "Star Epic"
+583	Twilight of the Gods
+584	Complete the "Star Epic"
+585	Race Against Time
+586	Conclude [Ayu. Watchmaker] in [Uni.! Cri. 12Cases]
+587	Sage who looks silly
+588	Defeat Thetis in [Tempest! Atlantis]
+589	The Lost Cute Things
+590	Conclude [Conse. Niña Mis.] In [Here. From. Pisces]
+591	It's a Spectrum!
+592	Defeat Leader Ocul. Spectra in [Here. From. Leo]
+593	Join in the sad moments
+594	Defeat Somb. Spec. Dream in [Cris. Gua Saori]
+595	Join in the happy moments
+596	Read Diário Alegría in [Crisis Guardian of Saori]
+597	Always accompany you in the sad moments
+598	Defeat Somb. Spec. Dream in [Cris. Gua Goddess]
+599	Always accompany you in happy times
+600	Read Diário Alegría in [Cris. Guar. Goddess]
+601	Shadows in the Dark
+602	Defeat Gigan. Tartarus in [Abis. Apoc. Est. Dem.]
+603	Enterrador
+604	Defeat Cerberus in [Renac. Requiem of the Santua.]
+605	Do not Let Nothing Happen
+606	Defeat Bado in [Against. (2) Wolf Gigan. Mon. Nie.]
+607	Sixth Artifact of the Soul
+608	Defeat Naska, Serpent King N. in [Ten Caves]
+609	Furious Dance of the Black Serpent
+610	Defeat 100 Cobras N. or Eggs in [Ten Caves]
+611	Withdrawal from the Evil Spirit
+612	Defeat Mons. Buddha in [12Cas. Do. (con.)]
+613	Journey in Time
+614	Get / open [Rega Box. Prince.] In Santu. Hie.
+615	Divine Fighter · Pegasus Black
+616	Defeat Pegasus N. in [[Hero] 10Cue.] Dif. Lu.Di.
+617	Divine Fighter · Black Cygnus
+618	Defeat Cygnus N. in [[Hero] 10Cue.] Dif. Lu.Di.
+619	Divine Fighter · Black Dragon
+620	Defeat Dragon N. in [[Hero] 10Cue.] Dif. Lu.Di.
+621	Divine Fighter · Phoenix Ikki
+622	Defeat Ikki in [[Hero] 10Cue.] Difficulty Lu.Di.
+623	Demigods · Pegasus Black
+624	Defeat Pegasus N. in [[Hero] 10Cue.] Dif.Sem.
+625	Demigods · Black Cygnus
+626	Defeat Cygnus N. in [[Hero] 10Cue.] Dif.Sem.
+627	Demigods · Black Dragon
+628	Defeat Dragon N. in [[Hero] 10Cue.] Dif.Sem.
+629	Demigods · Ikki de Phoenix
+630	Defeat Ikki in [[Hero] 10Cue.] Dif.Sem.
+631	Divine Fighter · Centaur
+632	Defeat Centaur in [[Hero] Cor. Sag.] Dif.Lu.Di
+633	Divine Fighter · Sagitta
+634	Defeat Sagita in [[Hero] Cor. Sag.] Dif.Lu.Di
+635	Divine Fighter · Whale
+636	Defeat Whale in [[Hero] Cor. Sag.] Dif.Lu.Di
+637	Divine Fighter · Capricorn
+638	Defeat Capricor. in [[Hero] Cor. Sag.] Dif.Lu.Di
+639	Demigods · Centaur
+640	Defeat Centaur in [[Hero] Cor. Sag.] Dif.Semi.
+641	Demigods · Sagitta
+642	Defeat Sagita in [[Hero] Cor. Sag.] Dif.Semi.
+643	Demigods · Whale
+644	Defeat Whale in [[Hero] Cor. Sag.] Dif.Semi.
+645	Demigods · Capricórnio
+646	Defeat Capricor. in [[Hero] Cor. Sag.] Dif.Semi.
+647	Divine Soldier · Pegasus Black
+648	Defeat Pegasus N. in [[Hero] 10Cue.] Dif.So.Di.
+649	Divine Soldier · Black Cygnus
+650	Defeat Cygnus N. in [[Hero] 10Cue.] Dif.So.Di.
+651	Divine Soldier · Black Dragon
+652	Defeat Dragon N. in [[Hero] 10Cue.] Dif.So.Di.
+653	Divine Soldier · Ikki de Phoenix
+654	Defeat Ikki in [[Hero] 10Cue.] Dific.Solda.Divino
+655	Divine Soldier · Centaur
+656	Defeat Centaur in [[Hero] Cor. Sag.] Dif.So.Di.
+657	Divine Soldier · Sagitta
+658	Defeat Sagita in [[Hero] Cor. Sag.] Dif.So.Di.
+659	Divine Soldier · Whale
+660	Defeat Whale in [[Hero] Cor. Sag.] Dif.So.Di.
+661	Divine Soldier · Capricorn
+662	Defeat Capricor. in [[Hero] Cor. Sag.] Dif.So.Di.
+663	Inflexible Pegasus
+664	See Seiya SD in the Event [Crisis Guar. of Goddess]
+665	Strong Dragon
+666	See Shiryu SD in the Event [Crisis Guar. of Goddess]
+667	Severe Cygnus
+668	See Hyoga SD in the Event [Crisis Guar. of Goddess]
+669	Phoenix in Flames
+670	See Ikki SD in the Event [Crisis Guar. of Goddess]
+671	Benevolent Andromeda
+672	See Shun SD in the Event [Crisis Guar. of Goddess]
+673	Divine Fighter · Aries
+674	Defeat Aries in [[Hero] Eleg. Dio. (I)] Dif. Lu.Di.
+675	Divine Fighter · Deep
+676	Defeat Deep in [[Hero] Eleg. Dio. (I)] Dif. Lu.Di.
+677	Divine Fighter · Papillon
+678	Defeat Papil. in [[Hero] Eleg. Dio. (I)] Dif. Lu.Di.
+679	Divine Soldier · Aries
+680	Defeat Aries in [[Hero] Eleg. Dio. (I)] Dif. So.Di.
+681	Divine Soldier · Deep
+682	Defeat Deep in [[Hero] Eleg. Dio. (I)] Dif. So.Di.
+683	Divine Soldier · Papillon
+684	Defeat Papil. in [[Hero] Eleg. Dio. (I)] Dif. So.Di.
+685	Demigods · Aries
+686	Defeat Aries in [[Hero] Eleg. Dio. (I)] Dif. Semi.
+687	Semites · Deep
+688	Defeat Deep in [[Hero] Eleg. Dio. (I)] Dif. Semi.
+689	Demigods · Papillon
+690	Defeat Papil. in [[Hero] Eleg. Dio. (I)] Dif. Semi.
+691	Divine Fighter · Laimi
+692	Defeat Laimi in [[Hero] Eleg. Dio. (I)] Dif. Lu.Di.
+693	Divine Fighter · Giganto
+694	Defeat Gigan. in [[Hero] Eleg. Dio. (I)] Dif. Lu.Di.
+695	Divine Wrestler · Trinidad
+696	Defeat Trini. in [[Hero] Eleg. Dio. (I)] Dif. Lu.Di.
+697	Divine Soldier · Laimi
+698	Defeat Laimi in [[Hero] Eleg. Dio. (I)] Dif. So.Di.
+699	Divine Soldier · Giganto
+700	Defeat Gigan. in [[Hero] Eleg. Dio. (I)] Dif. So.Di.
+701	Divine Soldier · Trinidad
+702	Defeat Trini. in [[Hero] Eleg. Dio. (I)] Dif. So.Di.
+703	Demigods · Laimi
+704	Defeat Laimi. in [[Hero] Eleg. Dio. (I)] Dif. Semi.
+705	Demigods · Giganto
+706	Defeat Gigan. in [[Hero] Eleg. Dio. (I)] Dif. Semi.
+707	Sepmidia · Trinidad
+708	Defeat Trini. in [[Hero] Eleg. Dio. (I)] Dif. Semi.
+709	Assassin of Gods · Aries
+710	Defeat Aries in [[Hero] Eleg. Dio. (I)] Dif. As.Di.
+711	Killer of the Gods · Deep
+712	Defeat Deep in [[Hero] Eleg. Dio. (I)] Dif. As.Di.
+713	Killer of the Gods · Papillon
+714	Defeat Papil. in [[Hero] Eleg. Dio. (I)] Dif. As.Di.
+715	Killer of the Gods · Laimi
+716	Defeat Laimi in [[Hero] Eleg. Dio. (F)] Dif. As.Di.
+717	Killer of the Gods · Giganto
+718	Defeat Laimi in [[Hero] Eleg. Dio. (F)] Dif. As.Di.
+719	Assassin of Gods · Trinidad
+720	Defeat Trini. in [[Hero] Eleg. Dio. (F)] Dif. As.Di.
+721	Divine Fighter · Beta Star
+722	Defeat Es.Be. in [[Hero] Ca. Gr. Az.] Dif. Lu.Di.
+723	Divine Fighter · Star Epsilon
+724	Defeat Es.Ép. in [[Hero] Ca. Gr. Az.] Dif. Lu.Di.
+725	Divine Wrestler · Delta Star
+726	Defeat Es.De. in [[Hero] Ca. Gr. Az.] Dif. Lu.Di.
+727	Divine Fighter · Zeta Star
+728	Defeat Es.Ze. in [[Hero] Ca. Gr. Az.] Dif. Lu.Di.
+729	Divine Soldier · Beta Star
+730	Defeat Es.Be. in [[Hero] Ca. Gr. Az.] Dif. So.Di.
+731	Divine Soldier · Star Epsilon
+732	Defeat Es.Ép. in [[Hero] Ca. Gr. Az.] Dif. So.Di.
+733	Divine Soldier · Delta Star
+734	Defeat Es.De. in [[Hero] Ca. Gr. Az.] Dif. So.Di.
+735	Divine Soldier · Zeta Star
+736	Defeat Es.Ze. in [[Hero] Ca. Gr. Az.] Dif. So.Di.
+737	Semidians · Beta Star
+738	Defeat Es.Be. in [[Hero] Ca. Gr. Az.] Dif. Semi.
+739	Semidians · Star Epsilon
+740	Defeat Es.Ép. in [[Hero] Ca. Gr. Az.] Dif. Semi.
+741	Demigods · Delta Star
+742	Defeat Es.De. in [[Hero] Ca. Gr. Az.] Dif. Semi.
+743	Demigods · Zeta Star
+744	Defeat Es.Ze. in [[Hero] Ca. Gr. Az.] Dif. Semi.
+745	Killer of Gods · Beta Star
+746	Defeat Es.Be. in [[Hero] Ca. Gr. Az.] Dif. As.Di.
+747	Assassin of Gods · Star Epsilon
+748	Defeat Es.Ée. in [[Hero] Ca. Gr. Az.] Dif. As.Di.
+749	Gods Killer · Delta Star
+750	Defeat Es.De. in [[Hero] Ca. Gr. Az.] Dif. As.Di.
+751	Killer of the Gods · Zeta Star
+752	Defeat Es.Ze. in [[Hero] Ca. Gr. Az.] Dif. As.Di.
+753	Divine Lutador · Alraune
+754	Defeat Alrau. in [[Hero] Cas. Hades] Dif. Lu.Di.
+755	Divine Worshiper · Harpy
+756	Defeat Harpía in [[Hero] Ca. Hades] Dif. Lu.Di.
+757	Divine Warrior · Frog
+758	Defeat Frog in [[Hero] Cas. Hades] Dif. Lu.Di.
+759	Divine Worshiper · Wyvern
+760	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Lu.Di.
+761	Divine Soldier · Alraune
+762	Defeat Alrau. in [[Hero] Cas. Hades] Dif. So.Di.
+763	Divine Soldier · Harpy
+764	Defeat Harpía in [[Hero] Ca. Hades] Dif. So.Di.
+765	Divine Soldier · Frog
+766	Defeat Frog in [[Hero] Cas. Hades] Dif. So.Di.
+767	Divine Soldier · Wyvern
+768	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Lu.So.
+769	Demigods · Alraune
+770	Defeat Alrau. in [[Hero] Cas. Hades] Dif. Semi.
+771	Demigods · Harpía
+772	Defeat Harpy in [[Hero] Ca. Hades] Dif. Semi.
+773	Demigods · Frog
+774	Defeat Frog in [[Hero] Cas. Hades] Dif. Semi.
+775	Demigods · Wyvern
+776	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Semi.
+777	Killer of the Gods · Alraune
+778	Defeat Alrau. in [[Hero] Cas. Hades] Dif. As.Di.
+779	Killer of the Gods · Harpy
+780	Defeat Harpía in [[Hero] Cas. Hades] Dif. As.Di.
+781	Assassin of the Gods · Frog
+782	Defeat Frog in [[Hero] Cas. Hades] Dif. As.Di.
+783	Killer of the Gods · Wyvern
+784	Defeat Wyv. in [[Hero] Cas. Hades] Dif. As.Di.
+785	Dream Short Life!
+786	Complete this event Quest
+787	Illusion Mountain of the Precipice Destroyed!
+788	Complete this event Quest
+789	Awakening The Waterfall!
+790	Complete this event Quest
+791	Rozan The Dream became Dust!
+792	Complete this event Quest
+793	Mortal Dragon of Rozan
+794	Defeat the hidden Boss in this event Quest
+795	Divine Fighter · Thanatos
+796	Defeat Tha. in [[Epo.] End Hades] Dif. Lu.Di.
+797	Divine Fighter · Hypnos
+798	Defeat Hyp. in [[Epo.] End Hades] Dif. Lu.Di.
+799	Divine Fighter · Morfeu
+800	Defeat Mor. in [[Epo.] End Hades] Dif. Lu.Di.
+801	Divine Fighter · Persephone
+802	Defeat Pers. In [[Epo.] End Hades] Dif. Lu.Di.
+803	Divine Fighter · Hades
+804	Defeat Hades in [[Epo.] End Hades] Dif. Lu.Di.
+805	Divine Soldier · Thanatos
+806	Defeat Tha. in [[Epo.] End Hades] Dif. So.Di.
+807	Divine Soldier · Hypnos
+808	Defeat Hyp. in [[Epo.] End Hades] Dif. So.Di.
+809	Divine Soldier · Morfeu
+810	Defeat Mor. in [[Epo.] End Hades] Dif. So.Di.
+811	Divine Soldier · Persephone
+812	Defeat Pers. In [[Epo.] End Hades] Dif. So.Di.
+813	Divine Soldier · Hades
+814	Defeat Hades in [[Epo.] End Hades] Dif. So.Di.
+815	Demigods · Thanatos
+816	Defeat Tha. in [[Epo.] End Hades] Dif. Semi.
+817	Demigods · Hypnos
+818	Defeat Hyp. in [[Epo.] End Hades] Dif. Semi.
+819	Demigods · Morfeu
+820	Defeat Mor. in [[Epo.] End Hades] Dif. Semi.
+821	Demigods · Persephone
+822	Defeat Pers. In [[Epo.] End Hades] Dif. Semi.
+823	Demigods · Hades
+824	Defeat Hades in [[Epo.] End Hades] Dif. Semi.
+825	Killer of the Gods · Thanatos
+826	Defeat Tha. in [[Epo.] End Hades] Dif. As.Di.
+827	Killer of the Gods · Hypnos
+828	Defeat Hyp. in [[Epo.] End Hades] Dif. As.Di.
+829	Killer of the Gods · Morfeu
+830	Defeat Mor. in [[Epo.] End Hades] Dif. As.Di.
+831	Killer of the Gods · Persephone
+832	Defeat Per. in [[Epo.] End Hades] Dif. As.Di.
+833	Killer of the Gods · Hades
+834	Defeat Hades in [[Epo.] End Hades] Dif. As.Di.
+835	Black Star
+836	Complete the dungeon "[Event] MAX Black Meteor!"
+837	Silver Nebula
+838	Complete the dungeon "MAX Hurricane of Darkness"
+839	Gold Galaxy
+840	Complete the dungeon "MAX Galactic Explosion!"
+841	Marine Star
+842	Complete the dungeon "MAX Final Symphony!"
+843	Hole of Earthworm of Hades
+844	Complete the dungeon "MAX Maximum Destruction!"
+845	Holy War! Prisoners in the star!
+846	Go to ${npc(200359)} and conclude the Holy War! Earth Star Prisoner! Get and view 3 green level equipment
+847	Holy War! For the star of evil!
+848	Go to ${npc(200438)} and end the Holy War! Celestial Star of Evil! Get and view four green level equipment
+849	Young and Dangerous
+850	Complete the dungeon "MAX Black Hole!"
+851	Divine Fighter · Divine Aries
+852	Defeat Ar.Di. in [[Hero] 12Ca.Di. (I)] Dif. Lu.Di.
+853	Divine Fighter · Divine Taurus
+854	Defeat Ta.Di. in [[Hero] 12Ca.Di .. (I)] Dif. Lu.Di.
+855	Divine Fighter · Divine Gemini
+856	Defeat Ge.Di. in [[Hero] 12Ca.Di. (I)] Dif. Lu.Di.
+857	Divine Soldier · Divine Aries
+858	Divine Soldier · Divine Taurus
+859	Divine Soldier · Divine Gemini
+860	Demigods · Divine Aries
+861	Demigods · Divine Taurus
+862	Demigods · Divine Gemini
+863	Killer of the Gods · Divine Aries
+864	Killer of the Gods · Divine Taurus
+865	Killer of the Gods · Divine Gemini
+866	Divine Wrestler · Divine Cancer
+867	Defeat Cá.Di. in [[Hero] 12Ca.Di. (II)] Dif. Lu.Di.
+868	Divine Fighter · Leo Divino
+869	Defeat Le.Di. in [[Hero] 12Ca.Di. (II)] Dif. Lu.Di.
+870	Divine Fighter · Divine Virgo
+871	Defeat Vi.Di. in [[Hero] 12Ca.Di. (II)] Dif. Lu.Di.
+872	Divine Soldier · Divine Cancer
+873	Defeat Cá.Di. in [[Hero] 12Ca.Di. (II)] Dif. So.Di.
+874	Divine Soldier · Leo Divino
+875	Defeat Le.Di. in [[Hero] 12Ca.Di. (II)] Dif. So.Di.
+876	Divine Soldier · Divine Virgo
+877	Defeat Vi.Di. in [[Hero] 12Ca.Di. (II)] Dif. So.Di.
+878	Demigods · Divine Cancer
+879	Defeat Cá.Di. in [[Hero] 12Ca.Di. (II)] Dif. Semi.
+880	Demigods · Leo Divine
+881	Defeat Le.Di. in [[Hero] 12Ca.Di. (II)] Dif. Semi.
+882	Demigods · Divine Virgo
+883	Defeat Vi.Di. in [[Hero] 12Ca.Di. (II)] Dif. Semi.
+884	Killer of the Gods · Divine Cancer
+885	Defeat Cá.Di. in [[Hero] 12Ca.Di. (II)] Dif. As.Di.
+886	Killer of the Gods · Leo Divine
+887	Defeat Le.Di. in [[Hero] 12Ca.Di. (II)] Dif. As.Di.
+888	Killer of the Gods · Divine Virgo
+889	Defeat Vi.Di. in [[Hero] 12Ca.Di. (II)] Dif. As.Di.
+890	Divine Fighter · Divine Libra
+891	Defeat Li.Di. in [[Hero] 12Ca.Di. (III)] Dif. Lu.Di.
+892	Divine Fighter · Divine Scorpio
+893	Defeat Es.Di. in [[Hero] 12Ca.Di. (III)] Dif. Lu.Di.
+894	Divine Fighter · Divine Sagittarius
+895	Defeat Sa.Di. in [[Hero] 12Ca.Di. (III)] Dif. Lu.Di.
+896	Divine Soldier · Divine Libra
+897	Defeat Li.Di. in [[Hero] 12Ca.Di. (III)] Dif. So.Di.
+898	Divine Soldier · Divine Scorpion
+899	Defeat Es.Di. in [[Hero] 12Ca.Di. (III)] Dif. So.Di.
+900	Divine Soldier · Divine Sagittarius
+901	Defeat Sa.Di. in [[Hero] 12Ca.Di. (III)] Dif. So.Di.
+902	Demigods · Divine Libra
+903	Defeat Li.Di. in [[Hero] 12Ca.Di. (III)] Dif. Semi.
+904	Demigods · Divine Scorpio
+905	Defeat Es.Di. in [[Hero] 12Ca.Di. (III)] Dif. Semi.
+906	Demigods · Divine Sagittarius
+907	Defeat Sa.Di. in [[Hero] 12Ca.Di. (III)] Dif. Semi.
+908	God Assassin · Divine Libra
+909	Defeat Li.Di. in [[Hero] 12Ca.Di. (III)] Dif. As.Di.
+910	God Assassin · Divine Scorpio
+911	Defeat Es.Di. in [[Hero] 12Ca.Di. (III)] Dif. As.Di.
+912	Killer of the Gods · Divine Sagittarius
+913	Defeat Sa.Di. in [[Hero] 12Ca.Di. (III)] Dif. As.Di.
+914	Somebody liked me
+915	Add 5 friends
+916	Many people like me
+917	Add 20 friends
+918	Everyone liked it
+919	Get 50 friends
+920	Best Friend
+921	Get 1000 Friendship with a friend
+922	Worker
+923	Complete "Elegy of the Reborn" 1x with the Army
+924	Talented Worker
+925	Complete "Elegy of the Reborn" 10x with the Army
+926	Base Stone of the Raid
+927	Complete "Elegy of the Reborn" 50x with the Army
+928	Work Without Stopping
+929	Complete "Elegy of the Reborn" for 5 days
+930	Famous Battle
+931	Win 1x on the Battlefield of Attica
+932	The Way of the Conquest
+933	Win 25x on the Battlefield of Attica
+934	King Without Crown
+935	Win 50x on the Battlefield of Attica
+936	Glory of Chaos
+937	Win 1x on the Chaotic Battlefield
+938	General Vencedor
+939	Win 25x on the Chaotic Battlefield
+940	Invincible
+941	Win 50x on the Chaotic Battlefield
+942	Chaotic Battlefield Test
+943	Beat 1x Battlefield Battle Test
+944	Immediate Victory
+945	Win 1x on the Lava Battlefield
+946	A Little Success
+947	Win 25x on the Lava Battlefield
+948	Master of Battles
+949	Win 50x on the Lava Battlefield
+950	Guard of the Sky
+951	Win 1x on the Battlefield of Heaven
+952	Journey on the Horizon
+953	Win 25x on the Battlefield of Heaven
+954	Sovereign of Heaven
+955	Win 50x on the Battlefield of Heaven
+956	A Midsummer Night's Dream
+957	Complete the 1x Summer Thematic Quest
+958	Goddess Summer Prayer!
+959	Complete the event Quest
+960	Summer Luck
+961	Open 5x the Summer Luck Box
+962	Summer Speaker
+963	Pray under the final phase of the Fertility Tree
+964	Moon Festival Lunar Cake Explosion!
+965	Complete the event Quest
+966	Halloween Day Mad Pumpkin!
+967	Complete the event Quest
+968	City Manager
+969	Defeat 1x the Monster Thief
+970	City Specialist Administrator
+971	Defeat 25x the Monster Thief
+972	City Master Administrator
+973	Defeat 100x the Monster Thief
+974	Work Team Guidelines
+975	The guidelines of the task Amigos
+976	Bronze
+977	Silver
+978	Golden
+979	Myth
+980	Individual
+981	Astro EXP
+982	Cosmo
+983	Armor
+984	Reputation
+985	Quest
+986	Main Quest
+987	Secondary Quest
+988	Tangle
+989	Knights of God
+990	Destiny Challenge
+991	Knight's Limit
+992	Dungeon
+993	Event
+994	Challenge
+995	Star Epic
+996	Adventure
+997	Community
+998	Relationship
+999	Army
+1000	Ruins of Attica
+1001	Chaotic CdB
+1002	CdB of Lava
+1003	CdB of Heaven
+1004	World
+1005	Festival
+1006	Rare Monster
+1007	Army Growth
+1008	Army Level
+1009	Army Number
+1010	Construction of the army corps
+1011	Mission Army Corps
+1012	Legion Building
+1013	Legion PVE
+1014	Legion Copy
+1015	Level 1
+1016	Level 1 Legion Level
+1017	Level 2
+1018	Legion Level for Level 2
+1019	Level 3
+1020	Level Legion reaches Level 3
+1021	Ten public
+1022	Toll Legion reached 10 people
+1023	Fifty people from
+1024	Toll Legion reached 50 people
+1025	Public hundred
+1026	Toll Legion reached 100 people
+1027	Daily: 5 times
+1028	Complete 5 times Daily Legion
+1029	Daily: 10 times
+1030	10 times a day to complete the Legion
+1031	Chang Zhou: 5 times
+1032	Chang completed Legion Week 5
+1033	Chang Zhou: 10 times
+1034	Many times 10 weeks to complete the Legion
+1035	The main building: Level 1
+1036	Legion building to reach the main level 1
+1037	The main building: Level 2
+1038	Legion building to reach the main level 2
+1039	The main building: Level 3
+1040	Legion reach level 3 main building
+1041	Legion: Atlantis
+1042	Four or more members of the Legion team to complete a copy of Atlantis
+1043	Legion: Judgment of gold
+1044	Four or more members of the Legion team to complete a gold trial copy
+1045	Legion: defense cables
+1046	Four or more team members to complete the defense cables 5th Corps
+1047	Legion: Memories of the Holy War
+1048	Four or more team members to complete the memories of the Holy War 5th Corps
+1049	Day (s)
+1050	Week
+1051	Month
+1052	First death
+1053	The first marriages
+1054	First apprentice
+1055	First Scream
+1056	Xinghun first injection
+1057	Xinghun first precipitation
+1058	First star - Fusion of the soul
+1059	For riding skills for the first time
+1060	First activate the role of the community
+1061	The first team to use the voice
+1062	First add friends
+1063	First team
+1064	First update manually
+1065	First he entered the speech of the Legion
+1066	Shaped transfer equipment, for the first time
+1067	First portable disembarkation
+1068	The first system to receive double experience
+1069	First you must learn natural abilities
+1070	Slow First hook Victoria
+1071	A first auction items
+1072	For the first time, an auction of successful articles
+1073	First gold transactions
+1074	First changes of Sign
+1075	First shop
+1076	Buy something from someone first store another
+1077	Put first things sold successfully
+1078	The first things for the acquisition
+1079	The first set, success in blocking time
+1080	For the first time successful locks were established
+1081	First Choice of Sign
+1082	Learning Skills
+1083	Little bud of the universe for the first time
+1084	The first use of astrology
+1085	First Rune mosaic
+1086	First fit equipment
+1087	First synthesized box
+1088	First division box
+1089	First buy a Emerald ticket
+1090	Mounted on a first title
+1091	First open warehouse
+1092	Achieved an achievement
+1093	Characters reached the level
+1094	Level reached Cosmo
+1095	To complete a task
+1096	To kill an ID monster
+1097	Achieved prestige value
+1098	Achieved an incremental reputation
+1099	copy Victory of the challenge
+1100	Complete a battlefield
+1101	Emerald reached
+1102	Reach money
+1103	The fight came
+1104	The title number obtained
+1105	There is a specific title
+1106	Get the number of illustrations
+1107	The number obtained from cloth
+1108	Obtain the number of certain types of cloth
+1109	The number of friends
+1110	Sympathy reach any friend
+1111	dead stranger thief
+1112	VIP
+1113	Equipment or Victoria inactive copy
+1114	Get a quality Xinghun
+1115	Xinghun number of maximum level
+1116	Get the number of mounts
+1117	It will also crush your friends, it's something yours
+1118	A map for the identification number of a place to kill the player reached B
+1119	Reaching a level of production skills
+1120	In the victory PVP slow pace over the number of teammates reached (Challenge)
+1121	In the number of slow pace consecutive PVP achieved victory (Knockout)
+1122	Level reached (Knockout) in the PVP, slowly
+1123	Production skills to reach any level 1
+1124	Star cloth classification to any cast
+1125	Cosmo reached the power of the stars
+1126	Reach form of perfection
+1127	The number of items of purchase ID
+1128	Completion of a series of missions
+1129	Number of times to execute certain tasks
+1130	A period of time for each period of time to complete certain tasks B
+1131	Consecutive times to complete certain tasks
+1132	Kill the monsters by the identification number
+1133	Learning skills for a certain number of levels
+1134	The number of apprentices learning
+1135	The number of copies of a victory
+1136	A series of victories on the battlefield
+1137	Kill a collection mosnorm ID frequency
+1138	Identification number to obtain a set of illustrations
+1139	Won the achievement
+1140	Achievement score to achieve the value of X
+1141	Legion reaches the level
+1142	Reached an army corps number
+1143	Reaching reputation
+1144	Complete the task
+1145	Kill the creature
+1146	Per copy
+1147	Negligible
+1148	Apprentice
+1149	Since there is little
+1150	Small scale crusher
+1151	What comes
+1152	Skill
+1153	Sliver
+1154	Total annihilation
+1155	Fame
+1156	0
+1157	
+1158	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Noble Ghost Dictionary.
+1159	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Assembly! The zodiac crisis
+1160	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Atlantis! Storm
+1161	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Ten Winds Cave
+1162	Check ${dynamic_dir(55, "\Daily Activities"\)} and win [Battlefield] Attica ruins
+1163	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] To Kill Evil
+1164	Use ${dynamic_dir(5, "\Star Cast System"\)} and upgrade any Holy Armor to LV2
+1165	Check ${dynamic_dir(26, "\Hero Arena"\)} and participate in area battle
+1166	Check ${dynamic_dir(44, "\Emerald Marketplace"\)} and buy something
+1167	In ${dynamic_dir(1, "\Cosmo System"\)} perform a horoscope, install a star soul and the star power value reaches 500
+1168	Use ${dynamic_dir(3, "\Magic Box System"\)} to split a piece of equipment
+1169	Use ${dynamic_dir(4, "\Magic Box System"\)} to upgrade a piece of equipment
+1170	In ${dynamic_dir(56, "\Title system"\)} use any title
+1171	Check ${npc(14838)} to receive double EXP or ${dynamic_dir(6, "\Double EXP System"\)} to unlock it
+1172	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Goddess of Saints
+1173	Check ${dynamic_dir(55, "\Daily Activities"\)} and complete [Activity] Trail of Fate
+1174	Use ${dynamic_dir(5, "\Star Cast System"\)} and upgrade any Holy Armor to LV5 
+1175	In ${dynamic_dir(1, "\Cosmo System"\)} star power value reaches 1000

@@ -1,0 +1,503 @@
+0	^a800ffInsymbol Black x30 \rWhen collecting a certain number, you can exchange for 1 Armor of the Five Black Knights
+1	^a800ff Demon Demon x999
+2	^a800ffPhoenix · Wing suit x1: swap mount
+3	^e5872fma: Oranges or Roxas
+4	Other random tools
+5	Skill Change [Squire]
+6	Alma Feroz
+7	Black Star Jade
+8	Expansion of inventory
+9	Warehouse expansion
+10	Book of the Golden Oracle
+11	Light Recovery Elixir
+12	Burning Soul
+13	Silver Level Advanced Gift Pack
+14	Star Tote Bag II
+15	Light of the Condensed Star
+16	Elixir Recovery Intermediate
+17	Destination Data
+18	World Megaphone
+19	EXP Double Power Center
+20	Advanced Recovery Elixir
+21	^a800ffEstrela Altair of Tanabata x1 (Practice max 4500)
+22	^a800ffEstrela Vega de Tanabata x1 (Practice max 4500)
+23	^a800ffFlores x999
+24	^a800ff Thor's Chimera x1: Flying Horse Swap
+25	^a800ffOther random large prizes
+26	Change of equipment [Squire] x60
+27	Burning Soul x8
+28	Alma Feroz x8
+29	Skill Change [Squire] x3
+30	Change of equipment [Squire] x18
+31	Burning Soul x3
+32	Alma Feroz x3
+33	Black Star Crystal x125
+34	Stool Fragment x50
+35	Bronze Blood x10
+36	Skill Change [Squire] x1
+37	Change of equipment [Squire] x6
+38	Burning Soul x1
+39	Soul Feroz x1
+40	Black Star Crystal x25
+41	Inventory Expansion x1
+42	Expansion of warehouse x1
+43	Stool Fragment x10
+44	Black Star Jade x10
+45	Change of equipment [Squire] x1
+46	Book of the Golden Oracle x1
+47	Burning Soul x2
+48	Soul Feroz x2
+49	Silver Level Advanced Gift Package x1
+50	Star Tote Bag II x1
+51	Light of the Condensed Star x5
+52	Advanced Recovery Elixir x1
+53	Fate Given x1
+54	World Megaphone x1
+55	EXP Double Power Center x1
+56	Black Star Jade x5
+57	Astro EXP Light x1
+58	Book of the Silver Oracle x1
+59	Stellar Sand x1
+60	Fragment Bronze x5
+61	Bronze Blood x5
+62	Silver Shard x5
+63	^a800ff Demon Demon x1
+64	^a800ff Golden Blood x1
+65	^0184ffFragment Silver x1
+66	Fragment Bronze
+67	Astro Light EXP
+68	Book of the Silver Oracle
+69	Stellar Sand
+70	^a800ff Pump pump x1 (Practice max 4500)
+71	^a800ff Cosmic Chakra x999
+72	^a800ff Flying Monarchy: Tiamat · Ice and Fire Interest x1
+73	^a800ff Demon Demon (perfect) x1
+74	Change of equipment [Squire]
+75	Black Star Crystal
+76	Fragment of Stole
+77	Bronze Blood
+78	Silver Shard
+79	^a800ffScuder: Shadow Soldier x1
+80	^e5872fRelicus: Perseus Medusa Shield x1
+81	^a800ff Spiritual Source I x999
+82	^a800ff Tyrannosaurus World · Deadly Venom 1x \rOu Tyrannosaurus Bone · Endless Night x1, permanent
+83	^a800ffOther random big prizes include: Silver Blood x100, Demon Blood (perfect) x1, Burning Soul x100, Soul Ferocious x100, etc.
+84	^a800ff Demon Demon (perfect)
+85	Origin of the Divine Blood
+86	^a800ffEscudeiro: Snowball Bone X1 (Red or Purple)
+87	^e5872fReliqueness: Virgin Rosary x1
+88	^a800ffLights of Gold x999
+89	^a800ff Flying Montage: Christmas Reindeer x1 or Divine Explosion Stone x1 (You can switch to the permanent mount version)
+90	^a800ffOther random big prizes includes: x100 Silver Blood, Demonic Blood (Perfect) x1, Merry Christmas Costume Gift Pack x1, Energy Fusion x100, Burning Soul x100, Soul Ferocious x100, etc.
+91	^a800ffPet of the Battle of the God of Love x1 (Max practice: 4500)
+92	^e5872fRelique: Pisces Rose x1
+93	^a800ffSoon of Hades x999
+94	^a800ffBlessings of the Goddess ☆ Aquarius x999
+95	^a800ffOther random large prizes include: x100 Silver Blood, Demon Blood (perfect) x1, Chinese New Year costume gift package x1, Energy Fuser x100, Relic Plate (Universal Relic Exchange) x1, Divine Stone of the Storm (universal flying mount exchange) x1, Burning Soul x100, Soul Ferocious X100, etc.
+96	Chinese New Year male costume gift package
+97	Chinese New Year Women's Costume Gift Package
+98	Energy Fuser
+99	Plate of Relic
+100	Sixth lottery period
+101	Divine Storm Stone
+102	^a800ffHyoga SD x1
+103	^a800ff Divine Stormstone x1
+104	^a800ffSilk Relic x100
+105	^a800ff PowerFilter x100
+106	^a800ffReflection x100
+107	^a800ff Demon Demon x100
+108	^a800ffSilver Silver x100
+109	^a800ff Burning Soul x100
+110	^a800ffFantastic x100
+111	Skill Change [Squire] x6
+112	Silver Diamond x10
+113	Soul of the Relic x5
+114	Soul of the Relic x3
+115	Silver Diamond x10
+116	Book of Athena x1
+117	Soul of the Relic x3
+118	Star Shine Gift Package x1
+119	Silver Diamond x4
+120	Black Star Jade x20
+121	Power Fuse x5
+122	Silver Diamond x1
+123	Fate Given x1
+124	Energy Fuse x1
+125	Astro EXP Light x3
+126	Origin of the Divine Blood x1
+127	^a800ffSirenes x1 (Practice max 4500)
+128	^e5872fRelicus: Capricorn Excalibur x1
+129	^a800ff Blessing of the Goddess ☆ Pisces x999
+130	^a800ffOther random big prizes: Includes flying mount: Blue Demon Wolf x1, Silver Blood x100, Demon Blood (perfect) x1 \rtroca of the Chinese New Year costume gift package: Princess Knight Certificate x1, Energy Fuser x100, Relic Plate (Universal Relic Exchange) x1 \ Divine Tempest Plate (universal flying mount exchange) x1, Burning Soul x100, Soul Ferocious X100, etc.
+131	^a800ffScuder: Mini Jabu x1 (Practice max 4500)
+132	^e5872Format of Aquarius x1
+133	^a800ffBlessings of the Goddess ☆ Aries x999
+134	^a800ffOther random big prizes: Includes flying mount: Deep Sea Dark Blue x1, Silver Blood x100, Demonic Blood (perfect) x1 \rSales package for new female and male costumes x1, Energy Fuser x100, Relic Plate Universal Relic Exchange) x1, Divine Storm Stone (Universal Flying Horse Exchange) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+135	Blood of Silver
+136	Princess Knight Certificate
+137	Blessing of the Goddess ☆ Pisces
+138	Cosmic Key
+139	^a800ffScuder: Mini Ban x1 (Practice max 4500)
+140	^e5872f Sagittarius x1
+141	^e5872f Burning Soul x999
+142	^a800ff Blessing of the Goddess ☆ Bull x999
+143	^a800ffOther random big prizes: Includes flying mount: Furious Lion King x1, Silver Blood x100, Demonic Blood (perfect) x1 \rSales package for new female and male costumes x1, Energy Fuser x100, Relic Plate Universal Relic) x1, Divine Storm Stone (universal flying mount) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+144	^a800ffMini Geki x1 (Practice max 4500)
+145	^e5872f Gemini mask x1
+146	^e5872f Gemstone Shape x9999
+147	^a800ffBlessings of the Goddess ☆ Twins x999
+148	^a800ffOther random large prizes: Includes flying mount: Dragon x1, Silver Blood x100, Demonic Blood (perfect) x1 \rPackage gift of new female and male costumes x1, Energy Fuser x100, Relic Insignia ) x1, Storm Divine Stone (universal flying mount) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+149	Goddess Blessing ☆ Twins
+150	^a800ffMini Nachi x1 (Practice max 4500)
+151	^e5872 Cancer Score x1
+152	^a800ffBlessing of the Goddess ☆ Cancer x999
+153	^a800ffOther random big prizes: Includes flying mount: Flame Car x1, Silver Blood x100, Demon Blood (perfect) x1 \ Soul Leather Costume Gift Package x1, Energy Fusion x100, Relic Badge Universal Relic) x1, Divine Storm Stone (universal flying mount) x1 \ Burning Soul x100, Soul Ferocious x100, etc.
+154	Soul Leather Costume Gift Package
+155	Relic Insignia
+156	Spiritual Crystal
+157	^a800ffJune SD x1 (Practice max 4500)
+158	^e5872fPresa de Leo x1
+159	^a800ff Blessing of the Goddess ☆ Lion x999
+160	^a800ffOther random large prizes: Includes flying mount: Pandora Mascot x1, Silver Blood x100, Demon Blood (perfect) x1 \ Summer Costume Gift Pack x1, Energy Fuse x100, Relic Insignia (Universal Relic Exchange ) x1, Storm Divine Stone (universal flying mount) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+161	Lion Month Costume Package
+162	Spiritual Source I
+163	^a800ffMini Marin x1 (Practice max 4500)
+164	^e5872f Athena's Shield [Legend] x1
+165	^a800ff Blessing of the Goddess ☆ Virgin x999
+166	^a800ffOther random big prizes: Includes flying mount: Starlit Sky Sovereign x1, Silver Blood x100, Demon Blood (perfect) x1 Night Army costume gift package x1, Energy Fusion x100, Relic insignia of Universal Relic) x1, Divine Stone of the Storm (exchange of universal flying mount) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+167	Army Costume Gift Package
+168	^a800ffMini Ichi x1 (Practice max 4500)
+169	^e5872fNunchaku of Libra x1
+170	^a800ffBenedet of the Goddess ☆ Libra x999
+171	^a800ffOther random big prizes: Includes flying mount: Metallic Garuda x1, Silver Blood x100, Demon Blood (perfect) x1 \ Ninja Heart Costume Gift Pack x1, Energy Fuser x100, Relic Insignia Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+172	Ninja Heart Costume Gift Package
+173	^a800ffMini Jamian x1 (Practice max 4500)
+174	^e5872fGolden's Crown of Scorpio x1
+175	^a800ffBlessings of the Goddess ☆ Scorpio (II) x999
+176	^a800ffOther random big prizes: Includes flying mount: Apollo Glory x1, Silver Blood x100, Demonic Blood (perfect) x1 \ I Love Being in the Snow Season x1, Energy Fuser x100, Relic Insignia Universal Relic Exchange) x1, Divine Storm Stone (Universal Flying Horse Exchange) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+177	Costume Gift Package I Love Being in the Snow Season
+178	^a800ffMini Orfeu x1 (Practice max 4500)
+179	^e5872Fly Gold Pound x1
+180	^a800ff Blessing of the Goddess ☆ Sagittarius (II) x999
+181	^a800ffOther random large prizes: Includes flying mount: Starry Shadow x1, Silver Blood x100, Demon Blood (perfect) x1 \ Inexperience Campus costume gift package x1, Energy Fusion x100, Relic Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+182	Inexperienced Campus Costume Gift Pack Summer Fashion Gift Pack x1
+183	^a800ffMini Tremy x1 (Practice max 4500)
+184	^e5872f Divine Marbles of Aries x1
+185	^a800ff Blessing of the Goddess ☆ Capricorn (II) x999
+186	^a800ffOther random large prizes: Includes flying mount: Santa's Gift x1, Silver Blood x100, Demon's Blood (perfect) x1 \ Christmas Costume Gift Pack x1, Energy Fusion x100, Relic Badge of Universal Relic) x1, Divine Stone of the Storm (exchange of universal flying mount) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+187	Christmas Costume Gift Package X1 Merry Christmas Costume Gift Package
+188	^a800ffMini Algol x1 (Practice max 4500)
+189	^e5872fGold Bull Taurus x1
+190	^a800ff Blessing of the Goddess ☆ Aquarius (II) x999
+191	^a800ffOther random big prizes: Includes flying mount: Sprite of Glory x1, Silver Blood x100, Demon Blood (perfect) x1 Hip Hop Costume Gift Pack x1, Energy Fuser x100, Relic Insignia Universal) x1, Storm Divine Stone (Universal Flying Horse Exchange) x1 \ Burning Soul x100, Soul Ferocious X100, etc.
+192	Hip Hop Costume Gift Package
+193	^a800ffFesta in the garden of wind, rain and deer x1
+194	^a800ff Costume Package of the Year of Prosperity and Happiness x1
+195	^a800ffOther Random Big Prizes: Includes Flying Montage of the Chinese New Year: Spring Runaway x1, Flying Montage: Sprite of Glory x1, Hip Hop Costume Gift Package x1 \ Gem Fragment x9999, Goddess Blessing ☆ New Year x999 , Blood of Silver x100, Demonic Blood (perfect) x1Fixix · Wing Costume x1, Lion of Silk x1, Winged Lion of Gold x1, etc, Old Monasteries Bombilla x1, Snowball Bone x1, Soldier Shallow x1, Son of the God of Love Eros x1, etc., Ancient Squires \r Merry Christmas costume gift package x1, Summer costume gift package x1, Princess Knight certificate x1, etc., Antique costume gift packages \rFusor Energy x100, Relic Insignia (Universal Relic Exchange) x1, Storm Divine Stone (Universal Flying Montage Exchange) x1 \ Burning Soul x100, Soul Ferocious x100, etc.
+196	Star son of Tanabata x1
+197	Star mother of Tanabata x1
+198	Bunny Bombinha x1
+199	Cone Bombinha x1
+200	Light Soldiers x1
+201	Snowball Hat (red) x1
+202	Snowball T-Shirt (Purple) x1
+203	Son of the God of Love Eros x1
+204	Sirens x1
+205	Fragment of Gem x1
+206	Goddess Blessing ☆ New Year x1
+207	Stinger of Glory x1
+208	Party in the wind garden, rain and deer x1
+209	Fugitive in the spring x1
+210	Phoenix · Wing Costume x1
+211	Golden Winged Lion x1
+212	Lightning Lion x1
+213	Interest in Fire and Ice x1
+214	Rudolph · Snow Sled x1
+215	Silk Lion x1
+216	Blue Demon Wolf x1
+217	Deep Sea Deep Blue x1
+218	Furious King Lion x1
+219	Demonic Blood (Perfect) x1
+220	Hip Hop Costume Gift Package x1
+221	Princess Knight's Certificate x1
+222	Merry Christmas Costume Gift Package x1
+223	Sweet Candy Costume Gift Package x1
+224	Summer fashion gift package x1
+225	Divine Storm Stone x1
+226	Cosmic Key x1
+227	Relic Insignia x1
+228	Black Star Crystal x1
+229	Fragment of Stole x1
+230	Light of the Condensed Star x1
+231	Black Star Jade x1
+232	Spiritual Source I x1
+233	^a800ffMini x1 (Practice max 4500)
+234	^ffff00Bag of Athena [Legend] x1
+235	^a800ffBlessings of the Goddess ☆ Aries (II) x999
+236	^a800ffOther random big prizes: Includes Flying Montage: Star Leopard x1, Silver Blood x100, Demon Blood (perfect) x1 \ Spanish costume gift package x1, Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Divine Stone of the Storm (Universal Flying Mount Exchange) x1 \ Burning Soul x100, Soul Ferocious x100, etc.
+237	Spanish costume package
+238	^a800ffMini Pegasus Black x1 (Practice max 4500)
+239	^e5872fLymnades Helmet x1
+240	^a800ff Blessing of the Goddess ☆ Taurus (II) x999
+241	^a800ffOther random big prizes: Includes Flying Montage: Forest Squirrel x1, Silver Blood x100, Demon Blood (perfect) x1 Mido Rhythm costume gift package x1, Energy Fusion x100, Relic Insignia Universal Relic) x1, Divine Stone of the Storm (Universal Flying Mount Exchange) x1 \ Burning Soul x100, Soul Ferocious x100, etc.
+242	Miado Rhythm Costume Gift Pack
+243	^a800ffLights of Gold x100
+244	^a800ffCertificate of Knight of the Princess x1
+245	^a800ffOther random big prizes: Includes Cosmic Key x100, Silver Blood x100, Demon Blood (perfect) x1 \ Energy Filler x100, Relic Insignia (Universal Relic Exchange) x1, Burning Soul x100, Soul Ferocious x100, etc.
+246	Gold Fragment
+247	Star Element Level 3
+248	Star Element Level 2
+249	^a800ffMini Isaac x1 (Practice max 4500)
+250	^e5872f Magic Bell Siren x1
+251	^a800ffBenediction of the Goddess ☆ Twins (II) x999
+252	^a800ffOther random big prizes: Includes Flying Montage: Taurus of Power x1, Flying Monarchy: Golden Taurus x1, Flying Monarchy: Taurus of Destruction x1 \ x Silver Bloodshot x100, Demon Blood x1, X1, Burning Soul x100, Soul Ferocious x100 \rInsignia of Classic Costume x1, Insignia of Warrior x1, Fuser of Energy x1, Fuser of Energy x100 \rInsignia of Relic (universal Relic exchange) x1, Divine Stone of Storm Classic Climber x1, Classic Squire Insignia x1, etc.
+253	Buffalo Lottery Lottery Ticket 2
+254	Buffalo Lottery Lottery Ticket 3
+255	Hot Blood Colleges Costume Gift Package
+256	^a800ffMini Mice x1 (Practice max 4500)
+257	^e5872 Blood Feathers of Skilla x1
+258	^a800ffBlessings of the Goddess ☆ Cancer (II) x999
+259	^a800ffOther random big prizes: Includes Flying Montage: Lucky Frog x1, Leisure Baseball Kit x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia x1 Divine Tempest (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc.
+260	Costume Gift Package 23
+261	Classic Costume Insignia
+262	Insignia of Classic Riding
+263	Classic Squire's Insignia
+264	^a800ffMini Black Phoenix x1 (Practice max 4500)
+265	^e5872f Wiseman of Crisaor x1
+266	^a800ff Blessing of the Goddess ☆ Lion (II) x999
+267	^a800ffOther random big prizes: Includes Flying Montage: Desert Smoke x1, Sunshine of the Beach Kit x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia (universal relic exchange) x1 \ Divine Tempest of the Storm (Universal Flight Mount Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Costume Badge x1, Classical Badge Insignia x1, Classical Badge x1 badge, etc.
+268	Kit of the Sun of the Beach
+269	​​^a800ffMini Dante x1 (Practice max 4500)
+270	^e5872 Intensive Kraken x1
+271	^a800ff Blessing of the Goddess ☆ Virgin (II) x999
+272	^a800ffOther random big prizes: Includes Flying Montage: Jurassic Turtle x1, Honor Guard Gold and Silver Tassels Kit x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia of Universal Relic) x1 \ Divine Tempest of the Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Costume Badge x1, Classical Badge Insignia x1, Classical Badge of Honor x1, etc.
+273	^a800ffMini Black Dragon x1 (Practice max 4500)
+274	^e5872f Sea Dragon Relief x1
+275	^a800ffBenedet of the Goddess ☆ Libra (II) x999
+276	^a800ffOther random big prizes: Includes Flying Montain: King of Thebes x1, Kit Fit for Leisure x1, Demonic Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Emblem x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flight Mount Exchange) x1, Burning Soul x100, Fierce Soul x100 \ Classical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+277	Fit Kit for Leisure
+278	^a800ffMini Sorento x1 (Practice max 4500)
+279	^e5872Fresh of Poseidon [Legend] x1
+280	^a800ffBenedet of the Goddess ☆ Scorpio (II) x999
+281	^a800ffOther random big prizes: Includes Flying Riding: Resurgence! National Treasure x1, Feather Island Favor Costume Package x1, Demon Blood (Perfect) x1 \ Silver Slavery x100, Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \ Divine Storm Order (Universal Flight Mount Exchange) x1, Burning Soul x100, Soul Ferocious x100 \rClassic Costume Badge x1, Classic Ride Insignia x1, Classic Squad Insignia x1, etc.
+282	Blessing of Venus
+283	^a800ffShunrei SD x1 (Practice max 4500)
+284	^e5872femo of Acheron x1
+285	^a800ff Blessing of the Goddess ☆ Sagittarius (III) x999
+286	^a800ffOther random big prizes: Includes Flying Montage: Cute Guinea Pig x1, Black Wind costume gift pack x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+287	Black Wind Costume Gift Package
+288	November lottery wing
+289	^a800ffMini Kanon x1 (Practice max 4500)
+290	^e5872fMadràgora de Alraune x1
+291	^a800ff Blessing of the Goddess ☆ Capricorn (III) x999
+292	^a800ffOther random big prizes: Includes Flying Montage: Huskys Sleigh x1, Snow Walk Costume Gift Package x1, Demon Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia Universal Relic) x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+293	Black Kiss
+294	^a800ffMini Black Cygnus x1 (Practice max 4500)
+295	^e5872fSphinx Leaf x1
+296	^a800ffBenedet of the Goddess ☆ Aquarius (III) x999
+297	^a800ffOther random large prizes: Includes Flying Montage: Demonstrated Winged Montage x1, Eco Dress Gift Pack x1, Demon Blood (Perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia (Universal Relic Exchange ) x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flying Mount Exchange) x1, Burning Soul x100, Fierce Soul x100 \ Classical Dress Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc.
+298	Eco Costume Gift Package
+299	Blue enchantress
+300	^a800ffMini Thetis x1 (Practice max 4500)
+301	^e5872f Papillon Butterfly x1
+302	^a800ffBlessings of the Goddess ☆ New Year (II) x999
+303	^a800ffOther random big prizes: Includes Flying Montage: Wukong Magic Cloud x1, Season Starter costume gift package x1, Demonic Blood (perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia of Universal Relic) x1, Blessing of Venus x1 \ Divine Tempest of the Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Fierce Soul x100 \ Classical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc
+304	Snow Walk Costume Gift Package
+305	Great Blizzard
+306	^a800ffMini Black Andromeda x1 (Practice max 4500)
+307	^e5872f Balron code x1
+308	^a800ff Blessing of the Goddess ☆ Aries (III) x999
+309	^a800ffOther random big prizes: Includes Flying Montage: Metallic Sheep x1, Aurora costume gift package x1, Demon Blood (perfect) x1 \rAss: Cock! Wings of the Glacial Devil x1, Toxic! Wings of the Devil of Separation x1, Speed ​​of Light! Wings of the Underworld Demon x1 \r Silver Blood x100, Energy Fuser x100, Relic Insignia x1, Blessing of Venus x1 \ Divine Tempest Pillar x1, Burning Soul x100, Fierce Soul x100 \ Classical Costume Badge x1, Classical Badge Insignia x1, Classical Badge Emblem x1, etc.
+310	Feeling Loving Suit Gift Package
+311	Coot! Wings of the Glacial Devil
+312	Toxic! Wings of the Demon of Separation
+313	Speed ​​of Light! Wings of the Underworld Demon
+314	^a800ffMini Misty x1 (Practice max 4500)
+315	^e5872fTentacles of Worm x1
+316	^a800ff Blessing of the Goddess ☆ Taurus (III) x999
+317	^a800ffOther random big prizes: Includes Flying Montage: Metal Sheep x1, Wings: Cock! Wings of the Glacial Devil, Toxic! Wings of the Devil of Separation, Speed ​​of Light! Wings of the Underworld Demon, Gift Pack of Suit 32 x1, Demon Blood (perfect) x1 \rStar Silver x100, Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \ Divine Storm (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious X100 \ Classical Dress Insignia x1, Classical Dress Insignia x1, Classical Squire Insignia x1, etc.
+318	Nile River Aurora Costume Gift Pack
+319	Angel Wings
+320	^a800ffMini Capella x1 (Practice max 4500)
+321	^e5872fSpade of Hades [Legend] x1
+322	^a800ffBenedet of the Goddess ☆ Twins (III) x999
+323	^a800ffOther Random Big Prizes: Includes Flying Montage: Silver Seahorse, Purple Seahorse, Scarlet Seahorse, Wings: Psychedelic Wings, Caribbean Sea Costume Gift Pack x1, Demon Blood (Perfect) x1 \ Silver Sling x100 , Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \ Divine Tempest Shield x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Insignia of Classic Climbing x1, Insignia of Classical Squire x1, etc.
+324	Seahorse Silver
+325	Scarlet Sea Horse
+326	Purple Seahorse
+327	Psychedelic Wings
+328	^a800ffMini Jango x1 (Practice max 4500)
+329	^e5872Fragon Dragon of Wyvern x1
+330	^a800ffBlessings of the Goddess ☆ Cancer (III) x999
+331	^a800ffOther random big prizes: Includes Flying Montage: Clown Penguin, Wings: Pink Butterfly Wing, Blue Butterfly Wing, Green Butterfly Wing, Paradise Costume Gift Package x1, Demon Blood (Perfect) x1 Silver Blood x100, Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \ Divine Stormstone (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Dress Insignia x1, Classic Climber Insignia x1, Classic Squire Insignia x1, etc.
+332	Paradise Costume Gift Package
+333	Pink Butterfly Wing
+334	Blue Butterfly Wing
+335	Green Butterfly Wing
+336	^a800ffMini Zelos x1 (Practice max 4500)
+337	^e5872f Minotaur xM1
+338	^a800ff Blessing of the Goddess ☆ Lion (III) x999
+339	^a800ffOther random large prizes: Includes Flying Montage: Tales Crab, Wings: Jade Dream, Beach Costume Gift Package x1, Demon Blood (Perfect) x1 \ Silver Sling x100, Energy Fighter x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \ Divine Tempest Shield (Universal Flying Montage Exchange) x1, Burning Soul x100, Soul Ferocious x100 \ Classical Costume Badge x1, Classical Badge Insignia x1, x1, etc.
+340	Bali Beach Costume Gift Package
+341	Sicilian Beach Costume Gift Package
+342	Playa Mexicana costume gift package
+343	Dream of Jade
+344	^e5872f Relic Icon x1
+345	^a800ffBlessings of the Goddess ☆ Initial Feeling x999
+346	^a800ffOther random big prizes: Demonic Blood x100, Silver Blood x100, Energy Fusion x100, Gold Blood x100, Venus Blessing x1 \ Divine Stormstone (Universal Flying Mount Exchange) x1, Burning Soul x100, Soul Ferocious x100, Sacred Gold Light x100 \rInsignal of Classic Costume x1, Insignia of Classic Climber x1, Insignia of Classical Squire x1, etc.
+347	Demon Blood
+348	Blood of Athena
+349	^a800ffMini Pharaoh x1 (Practice max 4500)
+350	^e5872fReliququia: Griffon Puppet x1
+351	^a800ff Blessing of the Goddess ☆ Virgin (III) x999
+352	^ff0000Great Special Prize (minimum likelihood): Demon Blood (perfect) x8 \r ^a800ffOther random big prizes: Flying Riding: Fantasy Chariot, Sacred Wing, Moon and Star Costume Gift Pack x1, x1 \r Silver Blood x100, Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Blessing of Venus x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \rInsicle of Classic Costume x1, Classic Climber Insignia x1, Classic Squire Insignia x1, etc.
+353	Fantasy Carriage
+354	Moon and star costume gift package
+355	Soul of the Relic
+356	Sealed Spiritual Stone
+357	Sacred! Flaming Wing
+358	Sacred! Luxury Wing
+359	Sacred! Fantasy Wing
+360	Fragment of Gem
+361	Alraune Challenge Coupon
+362	Condensed Meteorite
+363	Fruit of Magical Power
+364	Announcement Megaphone
+365	Sacred Golden Light
+366	^a800ffMini Papillon x1 (Practice max 4500)
+367	^e5872f Basilisk Helm x1
+368	^a800ff Blessing of the Goddess ☆ Scorpio (IV) x999
+369	^ff0000Great Special Prize (minimum likelihood): Demon Blood (perfect) x8 \r ^a800ffOther random big prizes: flying mount: Scarlet Rhinoceros, Wings: Dark Dragon Wings, Halloween Party Costume Gift Package x1, Demon Blood (perfect) x1 \r Silver Blood x100, Energy Fuser x100, Relic Insignia (Universal Relic Exchange) x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 Classic Costume x1, Classic Costume Emblem x1, Classic Emblem of Squire x1, etc.
+370	Scarlet Rhinoceros
+371	Halloween Party Costume Gift Package
+372	Dark Dragon Wings
+373	^a800ffBên. of the Goddess ☆ Queen (Practice Limit: 4500)
+374	^e5872fHarpia: Mask of the Eagle x1
+375	^a800ff Blessing of the Goddess ☆ Sagittarius (IV) x999
+376	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Montage: Golden Jaguar, Golden Wings of the Future, Doge Package x1, Demon Blood (Perfect) x1 Silver Blood x100, Energy Fuser x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Shield x50, Soul of Relic x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc
+377	Jaguar Golden
+378	Doge Package
+379	Light of the Future
+380	^a800ffMini Charon x1 (Practice max 4500)
+381	^e5872f Frog's Treacherous Deck x1
+382	^a800ff Blessing of the Goddess ☆ Libra (III) x999
+383	^ff0000Great Special Prize (minimum likelihood): Demon Blood (perfect) x8 \r ^a800ffOther random big prizes: flying mount: Blue Winged Dragon, Wing: Pink Wing, Hot Blood University Costume Gift Package x1, Blood X1, X5, X5, X5, X5, X5, X5, X5, X5, X5, X, X, Classical Costume x1, Classical Emblem of Squire x1, etc.
+384	Blue Winged Dragon
+385	Hot Blood University Costume Gift Pack
+386	Asa Rosé
+387	Blessing of Niobe x1 (Practice Limit: 4500)
+388	^e5872fChifre: Rock Fist x1
+389	^a800ff Blessing of the Goddess ☆ Capricorn (IV)
+390	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffOther Random Awards: Three types of Flying Monasteries: Christmas Sleigh II, Christmas Sleigh III, Christmas Sleigh IV, Three Types of Wings: Innocent Heart, Heart Crystal, Emerald Heart, Costume Fairytales III x1 \ Demon Demonstration (Perfect) x1, Silver Blood x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Soul Burning x100, Alma Feroz x100 \rClassic Fashion Insignia x1, Classic Climber Insignia x1, Classical Squire Insignia x1, etc.
+391	Christmas Sleigh II
+392	Sleigh Natalino III
+393	Sleigh Natalino IV
+394	Snowman Package
+395	Polar Pack
+396	Rodolfo Package
+397	Innocent Heart
+398	Crystal Heart
+399	Emerald Heart
+400	^a800ffBên. of the Goddess ☆ Pandora (Lim. of Practice: 4500)
+401	^e5872fDeep: Infernal Shoulder Pad x1
+402	^a800ffBlessings of the Goddess ☆ Aquarius (IV) x999
+403	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Montain Silver Bode, Chimera Wing, Piece Pack X1, Demonic Blood (Perfect) x1 Silver Blood x100, Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc. ...
+404	Silver Bode
+405	Piece Pack
+406	Wing of the Chimera
+407	^a800ff. of the Goddess ☆ New Year (III) (Lim. of Practice: 4500)
+408	^e5872fPandora: Trident of Darkness x1
+409	^a800ff. of the Goddess ☆ New Year (III) x999
+410	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffOther Random Rewards: Flying Riding Golden Ostrich, Phoenix of Dance, Shanghai Package x1, Demon Blood (Perfect) x1 \rStar Silver x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc. ...
+411	Golden Ostrich
+412	Shanghai Package
+413	Phoenix ​​of Dance - 9 days
+414	^a800ffBên. of the Goddess ☆ Taurus (Practice Limit: 4500)
+415	^e5872fBalron: Scourge of Lune x1
+416	^a800ff Blessing of the Goddess ☆ Taurus (IV) x999
+417	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flaming Lula Flying Montage, Black Feather, Elegance Package x1, Demonic Blood (Perfect) x1 \rStand Silver x100, Energy Fuser x100, Relic Insignia x1, Blessing of Venus x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Insignia x1, Classical Squire Insignia x1, etc. ..
+418	Flaming Lula
+419	Elegance Package
+420	Black Feather
+421	^a800ffBên. of the Goddess ☆ Gordon (Practice Limit: 4500)
+422	^e5872fPoseidon: Elmo of Creation and Destruction [Legend] x1
+423	^a800ffBenedet of the Goddess ☆ Twins (IV) x999
+424	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Montage Golden Saber Tooth, Fairy King Wings, Random costume packs, Demon Blood (Perfect) x1 \rSangue de Prata x100, Energy Fusion x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Soul of Relic x50, Burning Soul x100, Soul Ferocious x100 \rClassic Fashion Insignia x1, Cleric Insignia x1, Insignia of Squire Classic x1, etc ...
+425	Golden Saber Tooth
+426	Dark Gray Package
+427	Navy Blue Package
+428	Pink White Package
+429	Wings of the Fairy King
+430	^a800ffMini Sylphid x1 (Practice max 4500)
+431	^e5872fGaruda: Wings of Aiacos x1
+432	^a800ff Blessing of the Goddess ☆ Cancer (IV) x999
+433	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffDe Random Rewards: Flying Montain Golden Arraia, Million Glass, Sunny Day Package x1, Demon Blood (Perfect) x1 Silver Blood x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
+434	Golden Arraia
+435	Sunny Day Package
+436	Million Glass
+437	^a800ffMini Lune x1 (Practice max 4500)
+438	^e5872fCiclope: Giganto Artifact x1
+439	^a800ff Blessing of the Goddess ☆ Lion (IV) x999
+440	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffde Random Rewards: Flying Monty Pippinho, Blue Ghost, Endless Summer Package x1, Demonic Blood (Perfect) x1 \rStar Silver x100, Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc. ...
+441	Pippinho
+442	Summer Without End Package
+443	Blue Ghost
+444	^a800ffMini Iwan x1 (Practice max 4500)
+445	^e5872fPapillon: Myu's Helmet x1
+446	^a800ff Blessing of the Goddess ☆ Virgin (IV) x999
+447	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffde Random Rewards: Golden Rim Flying Montage, Orange Miracle, Fairytale Package x1, Demonic Blood (Perfect) x1 \rStar Silver x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
+448	Gold Faucet
+449	Fairy Tale Package
+450	Miracle Orange
+451	^a800ffMini Aioros x1 (Practice max 4500)
+452	^e5872fDeus do Sono: Wings of Hypnos x1
+453	^a800ffBenedet of the Goddess ☆ Libra (IV) x999
+454	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Mount Cairns Birdwatcher, Blue Sky Wings, Scarlet Pack x1, Demonic Blood (Perfect) x1 \ Energy Fuser x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Shield x50, Soul of Relic x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc...
+455	Ave of Cairns
+456	Scarlet Package
+457	Blue Sky Wings
+458	^a800ffMini Worm x1 (Practice max 4500)
+459	^e5872fDohko: Libra Shield x1
+460	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffDe Random Rewards: Flying Montage Youkai Hakutaku, Blue Sea Heart, Baby Blue Package x1, Demon Blood (Perfect) x1 Silver Blood x100, Energy Fuser x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Shield x50, Soul of Relic x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Insignia of Classical x1, Classical Emblem of Classical x1 , etc...
+461	Youkai Hakutaku
+462	Blue Baby Package
+463	Heart of the Blue Sea
+464	^a800ffMini Shura x1 (Practice max 4500)
+465	^e5872fTouro: Elmo Golden x1
+466	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Mammoth Golden Ramp, Night Invasion, Aristocratic Package x1, Demonic Blood (Perfect) x1 \rStand Silver x100, Energy Fuser x100, Relic Insignia x1, Blessing of Venus x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Insignia x1, Classical Squire Insignia x1, etc. ..
+467	Golden Mammoth
+468	Aristocratic Package
+469	Night Invasion
+470	^a800ffMini Camus x1 (Practice max 4500)
+471	^e5872fSagitator: Golden Arrow x1
+472	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffOther Random Rewards: Rudolph Flying Riding, Purple Wing, Snowman Package x1, Demonic Blood (Perfect) x1 Silver Ranged x100, Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Dressage Insignia x1, Classical Squire Insignia x1, etc. ...
+473	Rudolph
+474	Snowman Package
+475	Purple Wing
+476	^a800ffMini Aphrodite x1 (Practice max 4500)
+477	^e5872fGirls: Gemini Object x1
+478	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffde Random Rewards: Sea Dragon Flying Ride, Evil Pack, Jamiel Costume Bundle x1, Demon Blood (Perfect) x1 \rStar Silver x100, Fusor of Energy x100, Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dress Insignia x1, Classic Squire Insignia x1, etc...
+479	Sea Dragon
+480	Costume Package
+481	Malicious Wings
+482	^a800ffMini Mu x1 (Practice max 4500)
+483	^e5872fShaka: Virgo Artifact x1
+484	^a800ffBlessings of the Goddess ☆ New Year (IV) x999
+485	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ff Other Random Rewards: Flying Montage Welsh Corgi, Night Ceremony, Romantic Package x1, Demonic Blood (Perfect) x1 \rStar Silver x100, Energy Fuser x100, Relic Insignia x1, Blessing of Venus x1 \ Sealed Spiritual Spell x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \ Classical Fashion Insignia x1, Classical Insignia x1, Classical Squire Insignia x1, etc. ..
+486	Welsh Corgi
+487	Night Ceremony
+488	^a800ff. of the Goddess ☆ Krishna (Lim. of Practice: 4500)
+489	^e5872fTroll: Iwan Whip x1
+490	^a800ff Blessing of the Goddess ☆ Aries (IV) x999
+491	^ff0000 Special Prize (Very Low Chances): Demonic Blood (Perfect) x8 \r ^a800ffde Random Rewards: Flying Monarchy Golden Owl, Fruitful, Rockstar Package x1, Demonic Blood (Perfect) x1 \rStar Silver x100, Energy Fighter x100 , Relic Insignia x1, Venus Blessing x1 \ Sealed Spiritual Shield x50, Relic Soul x50, Burning Soul x100, Soul Ferocious x100 \r Classic Fashion Insignia x1, Classic Dressage Insignia x1, Classic Squire Insignia x1, etc. .
+492	Gold Owl
+493	Rockstar Package
+494	Fruit
+495	^a800ff Halloween Scarf x1
+496	^a800ffBook of Athena x5
+497	^a800ffOther great prizes: Includes Relic Insignia x1, Demon Blood (perfect) x1, Silver Blood x100, Cosmic Key x100 \ Energy Filler x100, Burning Soul x100, Soul Ferocious x100
+498	^a800ffOther great prizes: Includes Silver Blood x8, Cosmic Key x8 \ Energy Filler x8, Burning Soul x8, Fierce Soul x8
+499	^a800ff Other great prizes: Demon Blood (perfect) x1, Silver Blood x100, Cosmic Key x100 \ Energy Fighter x100, Burning Soul x100, Fierce Soul x100
+500	^a800ff More great prizes: Includes Silver Blood x5, Cosmic Key x5 Energy Filler x5, Burning Soul x5, Fierce Soul x5
+501	^e5872fBeads of Virgo x1
+502	^e5872Fish Fish x1

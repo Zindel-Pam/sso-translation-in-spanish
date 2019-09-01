@@ -1,0 +1,1753 @@
+0	^009933Knight of Hope
+1	Understand the power of the Cosmo and become a Knight of Athena, guardian of love and justice.
+2	^ffff00Attack +20 \rHP +200 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+3	Conclude the Main Quest "Saga of the Sanctuary", Cap I: "Legends of a New Era!" To obtain the title
+4	^009933Heir of the Stars
+5	Knights who dedicate their lives and deaths to the Shrine and are heirs of the Constellations that protect them!
+6	^ffff00Defense +50 \rHP +600 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+7	Conclude the Main Quest "Saga of the Sanctuary", Cap II: "Knights of Love and Justice!" To obtain the title
+8	^009933Warrior Under the Milky Way
+9	Fight under the Milky Way, young man!
+10	^ffff00Defense +60 \rHP +750 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+11	Conclude the Main Quest "Saga of the Sanctuary", Cap III: "Warrior under the Milky Way" to obtain the title
+12	^009933Joven Destined
+13	You are the predestined!
+14	^ffff00Defense +70 \rHP +900 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+15	Conclude the Main Quest "Saga of the Sanctuary", Cap IV: "The Knights of the Goddess!" To obtain the title
+16	^009933Banefactor of Rozan
+17	The one who helped the Hidden Dragon Village overcome the crisis.
+18	^ffff00Defense +80 \rHP +1000 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+19	Conclude the Main Quest "Saga of the Sanctuary", Cap V: "Man Who Knows the Truth!" To obtain the title
+20	^009933Blessed by the Dragon
+21	The one who saved Rozan and obtained the blessing of the Dragon.
+22	^ffff00Defense +90 \rHP +1200 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+23	Conclude the Main Quest "Saga of the Sanctuary", Cap VI: "Fe Millenaria Intacta!" To obtain the title
+24	^009933Testigo 13 Years Ago
+25	He who is favored by destiny knew the truth under the guidance of the Goddess of Destiny.
+26	^ffff00Defense +100 \rHP +1350 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+27	Conclude the Main Quest "Saga of the Sanctuary", Cap VII: "The Golden Knight of Sagittarius!" To obtain the title
+28	^009933Pecado and Punishment of God
+29	He saw the sin and punishment in the Prison of God.
+30	^ffff00Defense +120 \rHP +1500 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+31	Conclude the Main Quest "Saga of the Sanctuary", Cap VIII: "The Blood Dominance of the Seven Seas!" To obtain the title
+32	^009933 Battle Song
+33	He fought the Black Knights on the Island of Queen Death and destroyed their ambitions.
+34	^ffff00Defense +135 \rHP +1650 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+35	Conclude the Main Quest "Saga of the Sanctuary", Cap IX: "The Ambition to Dominate the World!" To obtain the title
+36	^009933 Return from Hell
+37	He who found his end on the Island of Queen Death and returned from Hell.
+38	^ffff00Defense +150 \rHP +1800 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+39	Conclude the Main Quest "Saga of the Sanctuary", Cap X: "The Flames of the Island of the Death Queen! to get the title
+40	^009933Trotamundos del Campo de Hielo
+41	The one who became the guardian of Eastern Siberia.
+42	^ffff00Defense +175 \rHP +1950 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+43	Conclude the Main Quest "Saga of Poseidon", Cap I: "The Power of Poseidon!" To obtain the title
+44	^009933Turkey Twilight
+45	At the end of time, predicted by the Nordic legends, fight for the Earth, justice and love.
+46	^ffff00Defense +200 \rHP +2100 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+47	Conclude the Main Quest "Saga of Poseidon", Cap II: "The Glory of the Far North!" To obtain the title
+48	^009933Bravura of the Depths
+49	He who bravely challenged all the Marines at Atlantis.
+50	^ffff00Defense +225 \rHP +2250 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+51	Conclude the Main Quest "Saga of Poseidon", Cap III: "The Wrath of Poseidon!" To obtain the title
+52	^009933 Marine Exterminator
+53	In order to save the Goddess, she defeated the Marines and proved her powerful strength and infallible faith.
+54	^ffff00Defense +250 \rHP +2400 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+55	Conclude the Main Quest "Saga of Poseidon", Cap IV: "The Blue of the Submarine Fortress!" To obtain the title
+56	^009933 Andromeda Blessing
+57	He testified to the sacrifice of Andromeda to protect his hometown and, consequently, obtained his blessing.
+58	^ffff00Defense +275 \rHP +2550 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+59	Conclude the Main Quest "Saga of Hades: Crusade to the Underworld", Cap I: "Golden Destroyer!" To obtain the title
+60	^009933Seller of Hell
+61	It ended with the conspiracy of the Underworld in the Tartar Volcano, considered the Portal of Hell and sealing it.
+62	^ffff00Defense +300 \rHP +2700 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+63	Conclude the Main Quest "Saga of Hades: Crusade to the Underworld", Cap II: "The Prologue of the Great Holy War!" To obtain the title
+64	^009933Hin of Blood and Tears
+65	Surprised and moved by the Resurrected Knight's determination.
+66	^ffff00Defense +325 \rHP +2850 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+67	Conclude the Main Quest "Saga of Hades: Crusade to the Underworld", Cap III: "The Treason of the Golden Knights!" to get the title
+68	^009933 The Person Closer to God
+69	Through the struggles, surpass the Seventh Sense, comprising the Eighth. Become the closest person to God.
+70	^ffff00Defense +350 \rHP +3000 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+71	Conclude the Main Quest "Saga of Hades: Crusade to the Underworld", Cap IV: "Portal that leads to the Underworld!" To obtain the title
+72	^009933 Legend of the Twelve Golden Houses
+73	He passed through the Twelve Houses guarded by the Golden Knights and rescued the Goddess.
+74	^ffff00Atake + 1% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+75	Conclude the Main Quest "Saga of the Sanctuary", Final Cap: "The Twelve Golden Houses" to obtain the title
+76	^009933 Adventurer of the East
+77	Be an adventurer full of hope and brilliance in the Grand Coliseum.
+78	^ffff00Attack +70 \rHP +900 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+79	Conclude 30 secondary quests at the Grand Coliseum to get the title
+80	^009933Dragón de Rozan
+81	He who has a just heart protects Rozan like the Dragon.
+82	^ffff00Attack +90 \rHP +1200 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+83	Conclude 30 secondary quests in Rozan to obtain the title
+84	^009933 That One Who Was Forgotten
+85	Awaken people who were lost for years.
+86	^ffff00Attack +120 \rHP +1500 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+87	Conclude 30 secondary quests on the Forgotten Path to get the title
+88	^009933Phoenix de las Llamas
+89	Incinerate the unclean world, you are the Phoenix of the Flames!
+90	^ffff00Attack +150 \rHP +1800 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+91	Conclude 30 secondary Quests on the Isle of Queen Death to obtain the title
+92	^009933 Ice Heart
+93	He dissolved frozen hearts of the Earth like spring.
+94	^ffff00Attack +180 \rHP +2100 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+95	Conclude 30 secondary quests in Eastern Siberia to obtain the title
+96	^009933Hijo del Mar
+97	He entered the territory of Poseidon and testified the secret of the sea.
+98	^ffff00Atake +210 \rHP +2400 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+99	Conclude 30 secondary quests in Atlantis to get the title
+100	^009933Head of the Constellation
+101	He experienced the life of Andromeda, brilliant and full of sacrifices.
+102	^ffff00Attack +240 \rHP +2700 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+103	Conclude 30 secondary Quests on the Andromeda Island to obtain the title
+104	^009933The Legend of the Night Hunter
+105	He became the legend of Hades Castle.
+106	^ffff00Attack +270 \rHP +3000 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+107	Conclude 30 secondary quests at Hades Castle to obtain the title
+108	^009933 Survivor of the Acheron
+109	How many brave souls sank into the Acheron? Only a true warrior can survive this river of blood.
+110	^ffff00Defense +375 \rHP +3150 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+111	Conclude the Main Quest "Saga of Hades: Hell", Cap I: "Sun Rays of Hell!" To get the title
+112	^009933No Lamentes Never
+113	At last you have reached the depths of the Underworld: you can not surrender, even in front of the Wailing Wall. For love and peace on Earth!
+114	^ffff00Defense +400 \rHP +3300 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+115	Conclude the Main Quest "Saga of Hades: Hell", Cap II: "Golden Knights!" To obtain the title
+116	^009933 World Full of Hope
+117	I do not retreat even in front of a powerful enemy, protecting the Earth with my own life. Finally, the Cosmo of love and justice ended Hades' ambitions and the world shone again.
+118	^ffff00Defense +425 \rHP +3450 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+119	Conclude the Main Quest "Saga of Hades: Hell", Cap Elysees, "End of the Paradise Chapter! Return to the hopeful world! "To obtain the title
+120	^009933Power of Understanding
+121	He understood some of the world's stories.
+122	^ffff00Penetration against resistance to all elements +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+123	Collect 40 Points of Illustration to obtain the title
+124	^009933Super Power of Understanding
+125	He understood many stories of the world.
+126	^ffff00Penetration against resistance to all elements +2 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+127	Collect 100 Points of Illustration to obtain the title
+128	^0099ccMega Power of Understanding
+129	He understood many world stories.
+130	^ffff00Penetration against resistance to all elements +3 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+131	Collect 400 Points of Illustration to obtain the title
+132	^0099ccSr. Smarty
+133	You know everything!
+134	^ffff00Penetration against resistance to all elements +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+135	Collect 1000 Points of Illustration to obtain the title
+136	^009933Name in the Stories
+137	Your conquests will be told as a story.
+138	^ffff00Evasion +30 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+139	Collect 120 Conquest Points to obtain the title
+140	^009933Name in the Legend
+141	Your conquests will be transmitted as a legend.
+142	^ffff00Evasion +60 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+143	Collect 350 Conquest Points to obtain the title
+144	^0099ccName in the Epic
+145	His conquests are enough to be recorded in the Epic.
+146	^ffff00Evasion +90 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+147	Collect 600 Conquest Points to obtain the title
+148	^0099ccName in Mythology
+149	Your conquests can become a myth and will be eternal like the stars.
+150	^ffff00Evasion + 120 ^\r ^NActivates the attributes by selecting the ^ffff00effect ^N
+151	Collect 900 Conquest Points to obtain the title
+152	^0099cc For Love and Justice!
+153	He stood firm to his mission of love and justice, challenging evil.
+154	^ffff00HP +300 \rVasion +15 \r ^NAfter obtaining the title, the ^ffff00 effect is permanent
+155	Conclude collection I of the title "For Love and Justice!" to get the title
+156	^0099ccProtector of Peace
+157	He participated in fierce battles only to protect the peace of the Earth.
+158	Conclude the collection II of the title "Protector of Peace" to obtain the title
+159	^0099cc Destination Shipper
+160	Although he has difficulties, he chose to stay with Athena and fight against evil.
+161	Conclude the collection III of the title "Heir of Destiny" to obtain the title
+162	^0099ccFe Infallible
+163	Knight who, even after a long battle, kept the faith infallible.
+164	Conclude the IV collection of the title "Infallible Faith" to obtain the title
+165	^0099cc Divine Test
+166	He was subjected to many trials, becoming one of the strongest Knights.
+167	Conclude the V collection of the title "Divine Test" to obtain the title
+168	^0099cc Unmatched Power
+169	His power advanced rapidly, becoming one of the most powerful Knights.
+170	Conclude the VI collection of the title "Unmatched Power" to obtain the title
+171	^0099ccCaballero Fantastic
+172	Fantastic Knight fighting for the Earth.
+173	Conclude the collection VII of the title "Saint Fantastico" to obtain the title
+174	^0099cc Saint de Athena
+175	Knight who fights firmly for the Goddess Athena.
+176	Conclude the collection VIII of the title "Saint de Athena" to obtain the title
+177	^0099cc Legendary Knight
+178	His name became a legend on Earth.
+179	Conclude the IX collection of the title "Legendary Knight" to obtain the title
+180	^0099cc Guardian of the Sanctuary
+181	In recognition of her remarkable contributions to the Shrine, the Goddess grants her this title.
+182	^ffff00All Resistances +1 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+183	Reach Reputation of the Dedication Level Sanctuary to obtain the title
+184	^0099ccGuardian of the Coliseum Grand
+185	In recognition of her remarkable contributions to the Coliseum Grand, the Goddess grants her this title.
+186	^ffff00All Resistances +2 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+187	Scope Reputation of Coliseum Grand Level Dedication to obtain the title
+188	^0099ccGuardian of Rozan
+189	In recognition of her remarkable contributions to Rozan, the Goddess grants her this title.
+190	^ffff00All Resistances +3 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+191	Reach Reputation of Rozan Level Dedication to obtain the title
+192	^0099cc Guardian of the Forgotten Path
+193	In recognition of her remarkable contributions to the Forgotten Path, the Goddess grants her this title.
+194	^ffff00All Resistances +4 \r ^NA Activate the attributes by selecting the ^ffff00effect ^N
+195	Reach Reputation of the Forgotten Path Level Dedication to obtain the title
+196	^0099cc Guardian of the Island of the Queen Death
+197	In recognition of her remarkable contributions to the Island of the Queen Death, the Goddess grants her this title.
+198	^ffff00All Resistances +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+199	Reach Reputation of the Island of the Queen Death Level Dedication to obtain the title.
+200	^0099ccGuardian of Eastern Siberia
+201	In recognition of her remarkable contributions to Eastern Siberia, the Goddess grants her this title.
+202	^ffff00All Resistances +6 \r ^NA Activate the attributes by selecting the ^ffff00effect ^N
+203	Reach Reputation of the Eastern Siberia Level Dedication to obtain the title
+204	^0099cc Guardian of Atlantis
+205	In recognition of her remarkable contributions to Atlantis, the Goddess grants her this title.
+206	^ffff00All Resistances +7 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+207	Reach Reach Atlantis Level Dedication to get the title
+208	^0099cc Guardian of the Andromeda Island
+209	In recognition of her remarkable contributions to the Andromeda Island, the Goddess grants her this title.
+210	^ffff00All Resistances +8 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+211	Reach Reputation of the Andromeda Island Dedication Level to obtain the title.
+212	^0099ccGuardian of Hades Castle
+213	In recognition of her remarkable contributions to the Castle of Hades, the Goddess grants her this title.
+214	^ffff00All Resistances +9 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+215	Reach Reputation of the Castle of Hades Level Dedication to obtain the title
+216	^0099ccConqueror of the Hell of the Underworld
+217	In recognition of her remarkable contributions to the Hell of the Underworld, the Goddess grants her this title.
+218	^ffff00All Resistances +10 \r ^NA Activate the attributes by selecting the ^ffff00 effect ^N
+219	Reach Reputation of the Hell of the Underworld Level Dedication to obtain the title
+220	^0099ccExterminator of the Eternal Eclipse
+221	In recognition of her remarkable contributions to the Champs-Elysees, the Goddess grants her this title.
+222	^ffff00All Resistances +11 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+223	Reach Reputation of the Champs Elysées Level Dedication to obtain the title
+224	^009933 Seiya Friend
+225	He became Seiya's friend over the long time they fought together.
+226	^ffff00Air Damage +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+227	Reach Friend Level Reputation with Seiya to get the title
+228	^0099ccCompany of Seiya
+229	He gained Seiya's trust over the long time they fought together.
+230	^ffff00Air Damage +240 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+231	Reach Level Reputation Estimated with Seiya to obtain the title
+232	^009933 Friend of Hyoga
+233	He became Hyoga's friend throughout the time they fought together.
+234	^ffff00 Water Damage +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+235	Reach Level Friend status with Hyoga to get the title
+236	^0099ccCompany of Hyoga
+237	He gained Hyoga's trust over the long time they fought together.
+238	^ffff00 Water Damage +240 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+239	Reach Level Reputation Estimated with Hyoga to obtain the title
+240	^009933 Friend of Shiryu
+241	He became a friend of Shiryu over the long time they fought together.
+242	^ffff00Earth Attack +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+243	Reach Friend Level Reputation with Shiryu to get the title
+244	^0099ccCompany of Shiryu
+245	She gained Shiryu's trust over the long time they fought together.
+246	^ffff00Earth Attack +240 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+247	Reach Level Reputation Estimated with Shiryu to obtain the title
+248	^009933 Friend of Shun
+249	He became Shun's friend over the long time they fought together.
+250	^ffff00 Thunder Damage +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+251	Reach Friend Level Reputation with Shun to get the title
+252	^0099ccCompany of Shun
+253	He gained Shun's trust over the long time they fought together.
+254	^ffff00 Thunder Damage +240 \r ^NActivates attributes by selecting the ^ffff00 effect ^N
+255	Reach Level Reputation Estimated with Shun to obtain the title
+256	^009933 Friend of Ikki
+257	He became Ikki's friend over the long time they fought together.
+258	^ffff00Fire Damage +120 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+259	Reach Friend Level Reputation with Ikki to get the title
+260	^0099cc Ikki companion
+261	He gained Ikki's trust over the long time they fought together.
+262	^ffff00Fire Damage +240 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+263	Reach Level Reputation Estimated with Ikki to obtain the title
+264	^009933 Marin's Friend
+265	He became Marin's friend over the long time they fought together.
+266	^ffff00Defense +200 \rResistance +1 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+267	Reach Friend Level Reputation with Marin to obtain the title
+268	^0099ccCompany of Marin
+269	​​He gained Marin's trust over the long time they fought together.
+270	^ffff00Defense +400 \rResistance +2 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+271	Reach Level Reputation Estimated with Marin to obtain the title
+272	^009933 Friend of Shina
+273	He became friends with Shina over the long time they fought together.
+274	^ffff00Attack +150 \rResistance to Fire +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+275	Shina's Reputation reached Friend Level
+276	^0099ccCompany of Shina
+277	She gained Shina's trust over the long time they fought together.
+278	^ffff00Attack +300 \rResistance to Fire +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+279	Reach Level Reputation Estimated with Shina to obtain the title
+280	^009933 Friend of Mu
+281	He became a friend of Mu throughout the time they fought together.
+282	^ffff00Resistance against all abnormal statuses +1 \rHealing effect + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+283	Reach Friend Level Reputation with Mu to get the title
+284	^0099ccCompany of Mu
+285	Won Mu's trust over the long time they fought together.
+286	^ffff00Resistance against all abnormal status +2 \rHealing effect + 5% \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+287	Reach Level Reputation Estimated with Mu to obtain the title
+288	^009933 Friend of Aldebaran
+289	He became a friend of Aldebaran throughout the time they fought together.
+290	^ffff00Resistance against all abnormal statuses +1 \rDefense + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+291	Scope Reputation Level Estima with Aldebaran to obtain the title
+292	^0099ccCompany of Aldebaran
+293	He gained Aldebaran's trust throughout the time they fought together.
+294	^ffff00Resistance against all abnormal status +2 \rDefense + 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+295	Reach Level Reputation Estimated with Aldebaran to obtain the title
+296	^009933 Friend of Saga
+297	He became a friend of Saga over the long time they fought together.
+298	^ffff00Ignora the resistance against all abnormal statuses +1 \rAttack + 1% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+299	Reach Level Friend with Saga to get the title
+300	^0099ccCompany of Saga
+301	Saga's confidence won over the long time they fought together.
+302	^ffff00Ignora the resistance against all abnormal status +2 \rAttack + 2% \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+303	Reach Reputation Level Estimated with Saga to obtain the title
+304	^009933 Mask of Death Friend
+305	He became a friend of Mask of Death over the long time they fought together.
+306	^ffff00Ignora the resistance against all abnormal status +1 \rResistience to damage +5 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+307	Reach Friend Level Reputation with Death Mask to get the title
+308	^0099ccCompany of Mask of Death
+309	Won the Mask of Death trust over the long time they fought together.
+310	^ffff00Ignora the resistance against all abnormal status +2 \rResistience to harm +10 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+311	Scope Reputation Level Estima with Mask of Death to obtain the title
+312	^009933 Friend of Aiolia
+313	He became Aiolia's friend over the long time they fought together.
+314	^ffff00Resistance against all abnormal statuses +1 \rCritical Attack 1% \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+315	Reach Level Friend Reputation with Aiolia to obtain the title
+316	^0099ccCompany of Aiolia
+317	Aiolia's confidence gained over the long time they fought together.
+318	^ffff00Resistance against all abnormal statuses +2 \rCritical Attack 2% \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+319	Reach Level Reputation Estimated with Aiolia to obtain the title
+320	^009933 Shaka's Friend
+321	He became Shaka's friend over the long time they fought together.
+322	^ffff00Resistance against all abnormal status +2 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+323	Reach Friend Level Reputation with Shaka to get the title
+324	^0099ccCompany of Shaka
+325	She gained Shaka's trust over the long time they fought together.
+326	^ffff00Resistance against all abnormal status +4 \r ^NAActivate the attributes by selecting the ^ffff00effect ^N
+327	Reach Level Reputation Estimated with Shaka to obtain the title
+328	^009933 Friend of Milo
+329	He became Milo's friend over the long time they fought together.
+330	^ffff00Ignora the resistance against all abnormal statuses +1 \r Resistance to curse +5 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+331	Reach Friend Level Reputation with Milo to get the title
+332	^0099ccCompany of Milo
+333	He gained Milo's trust over the long time they fought together.
+334	^ffff00Ignora the resistance against all the abnormal status +2 \rResistance to curse +10 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+335	Reach Level Reputation Estimated with Dohko to obtain the title
+336	^009933 Friend of Dohko
+337	He became Dohko's friend over the long time they fought together.
+338	^ffff00Resistance against all abnormal statuses +1 \rAssist to critical 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+339	Dohko's Reputation reached Friend Level
+340	^0099ccCompany of Dohko
+341	Gained Dohko's trust over the long time they fought together.
+342	^ffff00Resistance against all abnormal status +2 \rResisting to critical 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+343	Reach Level Reputation Estimated with Dohko to obtain the title
+344	^009933 Friend of Aiolos
+345	He became Aioros' friend over the long time they fought together.
+346	^ffff00Resistance against all abnormal statuses +1 \rHP + 2% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+347	Reach Level Friend Reputation with Aiolos to obtain the title
+348	^0099ccCompany of Aioros
+349	He gained the trust of Aioros over the long time they fought together.
+350	^ffff00Resistance against all abnormal status +2 \rHP + 4% \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+351	Reach Reputation Level Estimates with Aiolos to obtain the title
+352	^009933 Friend of Shura
+353	He became a friend of Shura throughout the time they fought together.
+354	^ffff00Ignora the resistance against all abnormal status +1 \rResistance against all abnormal status +1 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+355	Shura's Reputation reached Friend Level
+356	^0099ccCompany of Shura
+357	Won Shura's trust over the long time they fought together.
+358	^ffff00Ignora the resistance against all abnormal status +2 \rResistance against all abnormal status +2 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+359	Reach Level Reputation Estimated with Shura to obtain the title
+360	^009933 Camus Friend
+361	He became Camus' friend over the long time they fought together.
+362	^ffff00Ignora the resistance against all abnormal status +2 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+363	Reach Friend Level Reputation with Camus to get the title
+364	^0099ccCompany of Camus
+365	He gained Camus' trust over the long time they fought together.
+366	^ffff00Ignora the resistance against all abnormal status +4 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+367	Reach Level Reputation Estimated with Camus to obtain the title
+368	^009933Aphrodite's Friend
+369	He became Aphrodite's friend throughout the time they fought together.
+370	^ffff00Ignora the resistance against all abnormal statuses +1 \rResistance to bleeding +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+371	Reach Friend Level Reputation with Aphrodite to obtain the title
+372	^0099ccCompany of Aphrodite
+373	She gained Aphrodite's trust over the long time they fought together.
+374	^ffff00Ignora the resistance against all the abnormal statuses +2 \rResistance to bleeding +10 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+375	Reach Level Reputation Estimated with Aphrodite to obtain the title
+376	^009933 I'm Flying Trapeze
+377	You will fly higher and farther!
+378	^ffff00Air Damage +20 \rVasion +10 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+379	Conclude one of the Quests "Highest teacher-work", "Highest Divine Fact" or "Highest Fact", in the Shrine to obtain the title
+380	^009933 Master of the Twelve Houses
+381	You are the Master of the games of the Twelve Houses!
+382	^ffff00Attack +40 \rDefense +40 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+383	Conclude the Quest "Twelve Houses" in the Sanctuary to obtain the title
+384	^009933Cambista
+385	With that technique, you can live well.
+386	^ffff00Attack +80 \rDefense +80 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+387	Conclude the Quest "Galactic Tournament" at the Grand Coliseum to get the title
+388	^009933 Higher! Faster! Stronger!
+389	You have trained with Nix, practitioner of the Shinto Village, and have passed the test.
+390	^ffff00Pressure +20 \rEvasion +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+391	Conclude the "Practicing" Quests series at the Grand Coliseum to get the title
+392	^009933 Master Yin Yang
+393	You have made good communication with the spirits.
+394	^ffff00 Thunder Damage +50 \rEvasion +20 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+395	Conclude the Quest "Joanna's Ghost Doll" at the Grand Coliseum to get the title
+396	^009933 Fast as the Wind
+397	By God, you run faster than Kiki!
+398	^ffff00Pressure +25 \rEvasion +25 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+399	Conclude the series of Quests "Fast as the Wind" in Rozan to obtain the title
+400	^009933 Who am I?
+401	His vision and judgment go beyond those of a normal person.
+402	^ffff00Attack of Earth +60 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+403	Conclude the series of Quests "Guess who I am" in Rozan to obtain the title
+404	^009933Bambú Loco
+405	Crazy Bamboo blooms by whom?
+406	^ffff00All Resistances +1 \rPress +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+407	Conclude the series of Quests "Flower of the Bamboo", in Rozan to obtain the title
+408	^009933 Dragon Spheres
+409	You must be the fan of the Seven Spheres of the Dragon.
+410	^ffff00Defense +100 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+411	Conclude the series of Quests "The Mystery of the Spheres of the Dragon", in Rozan to obtain the title
+412	^009933 Siren Hunter
+413	You have protected the Forgotten Villa, defeating Sirena.
+414	^ffff00 Thunder Damage +40 \rPress +30 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+415	Conclude the Quest "The great sea monster", on the Forgotten Path to obtain the title
+416	^009933Space of the Dream
+417	Find your true self in the Endless Dream, overcoming your limits.
+418	^ffff00Fire Damage +50 \rEvasion +35 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+419	Conclude the Quest "Dream Space" on the Island of the Queen of Death to obtain the title
+420	^6699ffA A Distance Away
+421	It does not matter if it is "recipient", "chain" or "jail", all are proofs of existence.
+422	^ffff00 Water Damage +50 \rPress +35 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+423	Conclude the Quest "Spirit of the Empty Armor", in the Illusion of Jamir of the Twelve Houses to obtain the title
+424	Sirena
+425	None
+426	^a800ffCampeón
+427	Recognition by the Personal Level Ranking
+428	Reached 1st place in last week's personal level ranking
+429	^a800ffSecond Place
+430	Reach 2nd-3rd place in last week's personal level ranking
+431	^a800ff Third Place
+432	Reach 4 th -10 th place of last week's personal level ranking
+433	^a800ffRico of the World
+434	Recognition for the Personal Gold Ranking
+435	Reach 1st place in last week's Personal Gold Ranking
+436	^a800ffRic del País
+437	Reached 2nd-3rd place in last week's Personal Gold Ranking
+438	^a800ffRico of the Region
+439	Reached 4th -10th place in last week's Personal Gold Ranking
+440	^a800ffAlto Degree of Perfection
+441	Recognition for the Ranking of Personal Achievement Points
+442	Reach 1º of the Ranking of Personal Achievement Points of last week
+443	^a800ffAlto Degree of Excellence
+444	Reach 2nd-3rd place in the Ranking of Personal Achievement Points of last week
+445	^a800ffAlto Degree of Success
+446	Reached 4th -10th place in the Ranking of Personal Achievement Points last week
+447	^a800ffDays of War
+448	Recognition for the Result Ranking of the Personal Challenge of the Instance Zone
+449	Reached 1st Place in the Ranking of Personal Challenge Result from the Instance Zone last week
+450	^a800ffRey of War
+451	Reach 2nd-3rd place in the Ranking of Personal Challenge Result of the Instance Zone last week
+452	^a800ff Lord of the War
+453	Reached 4th -10th place in the Personal Challenge Result Ranking for the Instance Zone last week
+454	^a800ff Emperor attitude
+455	Recognition for the Individual Power Ranking
+456	^ff0000Get the opportunity to lead a squadron when entering the area of ​​the multi-server BOSS, daily
+457	Reached 1st place in the Individual Power Ranking last week
+458	^a800ffTyrano's attitude
+459	Reached 2nd-3rd place in the Individual Power Ranking last week
+460	^a800ffprofile attitude
+461	Reached 4th-20th place in the Individual Power Ranking last week
+462	^a800ffCampo Divino
+463	Recognition by the Individual Cosmo Ranking
+464	Reached 1st place in the Individual Cosmo Ranking last week
+465	^a800ffCorazón do Cosmo
+466	Reached 2nd-3rd place in the Individual Cosmo Ranking last week
+467	^a800ffArayashiki
+468	Reached 4th -10th place in the Individual Cosmo Ranking last week
+469	^a800ffArmor of God
+470	Recognition for the Individual Armor Power Ranking
+471	Reach 1st place in the Individual Armor Power Ranking last week
+472	^a800ffDeath Armor
+473	Reach 2nd-3rd place in the Individual Armor Power Ranking last week
+474	^a800ff Hero's Armor
+475	Reach 4th-10th place in the Individual Armor Power Ranking last week
+476	^a800ffPlaca Symbolic of God
+477	Recognition for the Power Ranking of the Individual Treasury
+478	Reached 1st place in the Individual Treasury Power Ranking last week
+479	^a800ffPlaca Symbolic of the Devil
+480	Reach 2nd-3rd place in the Individual Treasury Power Ranking last week
+481	^a800ffPlaza Symbolic of the Hero
+482	Reach 4th-10th place in the Individual Treasury Power Ranking last week
+483	^a800ffGod's Covenant
+484	Recognition for the Power Ranking of Individual Equipment
+485	Reached 1st place in the Individual Equipment Power Ranking last week
+486	^a800ffDevil's Covenant
+487	Reached 2nd-3rd place in the Individual Equipment Power Ranking last week
+488	^a800ffPeace of the Hero
+489	Reached 4th-10th place in the Individual Equipment Power Ranking last week
+490	^a800ffPapa
+491	Recognition for the Ranking of Individual Activity Level
+492	^a800ffPresbítero
+493	Reached 2nd-3rd place in the Individual Activity Ranking of last week
+494	^a800ff Priest
+495	Reached 11th-100th place in the Individual Activity Ranking of last week
+496	^a800ffFollower
+497	Reached 101st-200th place in the Individual Activity Ranking of last week
+498	^a800ff Divine Medal of the Epic Army
+499	Your Army won first place in the Ranking of Activity last week! \rWith that title, the Army Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+500	First place in the Ranking of Army's Degree of Activity last week
+501	^a800ffMedal of the Legendário Army
+502	Your Army won second place in the Ranking of Activity last week! \r With that title, the Army Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+503	Second place in the Ranking of Army's Degree of Activity last week
+504	^a800ffMedal of the Supreme Army
+505	His Army got the third place in the Ranking of Activity last week! \r With that title, the Army Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+506	Third place in the Ranking of Army's Degree of Activity last week
+507	^a800ffMedal of the Grand Army
+508	Your Army got a good place in the Ranking of Activity last week! \r With that title, the Army Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+509	4th to 10th place in the Ranking of Army's Degree of Activity last week
+510	^a800ffMedal of the Glorious Army
+511	11th to 20th place of the Ranking of Army's Degree of Activity last week
+512	^a800ffMedal of the Resplendent Army
+513	21st to 30th place in the Ranking of Army's Degree of Activity last week
+514	^a800ffMember of the Shining Army
+515	31st to 40th place in the Ranking of Army's Degree of Activity last week
+516	^a800ffMember of the Encouraging Army
+517	41st to 50th place in the Ranking of Army's Degree of Activity last week
+518	^a800ff Silver Pioneer
+519	He who defeated the Resentful Spirit of Poseidon and initiated the Silver Age of the Holy War.
+520	In the World Event - participated in the Era of the Counter-attack of Poseidon, defeated the Resentful Spirit of Poseidon and initiated the Silver Age of the Holy War
+521	^a800ff Golden Pioneer
+522	He who defeated the Illusion of the God of Sleep and initiated the Golden Age of the Holy War.
+523	In the World Event - participated in the Collapse Age of the Demon Star Tower, defeated the Dream God illusion and initiated the Golden Age of the Holy War.
+524	^a800ffCaballero Awakened from the Beta Test
+525	Fight for the Goddess! Fight for the peace of the Earth!
+526	Obtained through the Silver Test.
+527	^a800ffBrill of the Eternal Night
+528	The first to defeat the Empress of the Underworld, Persephone, who initiated the Age of the Great Eternal Night!
+529	In the World Event - Terror! Eternal Solar Eclipse, participate in the final blow to the Empress of the Underworld, Persephone, and allow the server to advance in the Age of Eternal Night to obtain the title
+530	^a800ffPioneiro in the Murder of Gods
+531	The first to defeat the Determination of the Emperor of the Underworld and who initiated the Opening of the Great Murder of Gods!
+532	At the World Event - Attack Surprise! Gates of the Underworld, participated in the final blow in the Determination of the Emperor of the Underworld, and allowed the server to advance in the Opening of the Great Murder of the Gods
+533	^0099cc Lucky Star of the 17Y
+534	Congratulations! You are the Lucky Star of the 17Y!
+535	Withdraw in the Lucky Box obtained when participating in the 17Y Community Event.
+536	^0099cc Saint de la YY
+537	Supreme honor of the YY!
+538	Raffled in the Gift Package of the YY Event.
+539	^0099cc Knight of the Duowan
+540	Supreme honor of the Duowan!
+541	Check out the Gift Package of the Twelve Golden Houses of the Duowan.
+542	^0099cc Saint 17173
+543	Supreme honor of 17173!
+544	Remove in the Gift Package of the 5 bronze protagonists of the 17173.
+545	^0099cc Sina Knight
+546	Supreme honor of the Sina!
+547	Raffled in the Supreme Gift Pack of Sina Initiator.
+548	^0099cc Tencent Knight
+549	Tencent's supreme honor!
+550	Drawn in the Tencent Initiator Supreme Gift Package.
+551	^0099cc NetEase Knight
+552	Supreme honor of the NetEase!
+553	Drawn in the NetEase Initiator Supreme Gift Package.
+554	^0099cc PConline Knight
+555	PConline supreme honor!
+556	Raffled in the Supreme Gift Package of PConline Initiator.
+557	^0099cc Horseman Yzz
+558	Supreme honor of the Yzz!
+559	Raffled in the Supreme Gift Package of Initiator of the Yzz.
+560	^0099cc Knight 178
+561	Supreme honor of the 178!
+562	Raffled in the Supreme Gift Package of Initiator of 178.
+563	^0099cc Brilliant Star
+564	Clan supreme honor!
+565	Draw in the Clan Luxury Gift Package to get the title
+566	^0099ccThe arrival of the Goddess
+567	The supreme honor of the Goddess!
+568	Remove in the Goddess occurred gift packet to obtain the title
+569	Supreme honor of the Goddess Guard!
+570	Remove in the Gift Pack of the Knights of the Goddess to get the title
+571	^0099ccThe Arrival of Athena
+572	Remove in the Gold Gift Package of the Goddess to get the title
+573	^0099cc Saint Dorado de Athena
+574	Remove in the Golden Armor Gift Pack to get the title
+575	^0099cc Athena Exclamation
+576	^ffff00HP +1200 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+577	Remove in the Golden Armor V Gift Pack to get the title
+578	^0099cc Junior Bronze Seminar
+579	Thank you for your support of the Knights of the Zodiac online!
+580	Remove in the basic level Bronze Gift Pack to get the title
+581	^0099cc Senior Bronze Seminar
+582	Remove in the Advanced Level Bronze Gift Pack to get the title
+583	^0099cc Junior Silver Seminar
+584	Remove in the Basic level Silver Gift Pack to get the title
+585	^0099cc Silver popularity station advanced level
+586	Remove in the Advanced level Silver Gift Package to get the title
+587	^0099cc Junior Gold Seminar
+588	Remove in the Basic level Gold Gift Pack to get the title
+589	^0099cc Senior Gold Minister
+590	Remove in the Advanced level Gold Gift Package to get the title
+591	^ffd700Full Portfolio
+592	Very happy with the full wallet!
+593	^ffff00Defensa +200 \r ^NAfter obtaining the title, the attribute will have effect ^ffff00permanente ^N
+594	Exclusive honor title for VIP level 5
+595	^ffd700Bailando con Oro
+596	Swimming freely in the golden ocean!
+597	^ffff00Defense +300 \r ^NAfter obtaining the title, the attribute will have effect ^ffff00permanente ^N
+598	Exclusive honor title for VIP level 6
+599	^ffd700Courage Gold Rush
+600	Great effort in the direction of Gold!
+601	^ffff00Defensa +400 \r ^If you obtain the title, the attribute will have effect ^ffff00permanente ^N
+602	Exclusive honor title for VIP level 7
+603	^ffd700Dulce Fortuna
+604	With money in my pocket, I'm happy!
+605	^ffff00Defense +500 CritShield Index + 1% \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+606	Exclusive honor title for VIP level 8
+607	^ffd700Fanatic Wealth
+608	Madness for money!
+609	^ffff00Defense +600 CritShield Index + 1% \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+610	Exclusive honor title for VIP level 9
+611	^ffd700 Unceasing wealth
+612	For a happy life it is necessary to strive!
+613	^ffff00Defense +700 CritShield Index + 1% \r ^You will get the title, the attribute will have effect ^ffff00permanent ^N
+614	Exclusive honor title for VIP level 10
+615	^ffd700Bright Magnate
+616	Shining, covered with little diamonds!
+617	^ffff00Defense +800 Resistance to Critical + 1% \rResistance to all Abnormal status +5 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+618	Exclusive honor title for VIP Level 11
+619	^ffd700Monopoly Global
+620	Who would be the rival of the richest person in the world?
+621	^ffff00Defense +900 CritShield Index + 1% \rResistance to all Abnormal statuses +5 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+622	Exclusive honor title for VIP level 12
+623	^0099ccRadiante
+624	Supreme honor of the Perfect World!
+625	Raffled in the Perfect World Diamond Gift Package.
+626	^ffd700Diosa Athena
+627	Goddess Athena authenticated by the Server!
+628	^ffff00Atake +150 \r ^ffff00Defense +300 \r ^NActivates the attributes by choosing the ^ffff00effect ^N
+629	Goddess Athena Glorious!
+630	^ffd700Garden Aries Dorado
+631	Golden Aries Guard of the Goddess Athena authenticated by the Server!
+632	^ffff00Attack +50 \r ^ffff00Defense +100 \r ^NActivate the attributes by choosing the ^ffff00effect ^N
+633	Golden Aries Guard of the Twelve Houses of the Glory of the Goddess!
+634	^ffd700 Golden Taurus Guardian
+635	Golden Taurus Guard of the Goddess Athena authenticated by the Server!
+636	Golden Taurus Guard of the Twelve Houses of the Glory of the Goddess!
+637	^ffd700Gemini Golden Guards
+638	Golden Gemini Guard of the Goddess Athena authenticated by the Server!
+639	Golden Gemini Guard of the Twelve Houses of the Glory of the Goddess!
+640	^ffd700Guardian Cancer Golden
+641	Golden Cancer Guard of the Goddess Athena authenticated by the Server!
+642	Golden Cancer Guard of the Twelve Houses of the Glory of the Goddess!
+643	^ffd700Guardian Leo Gold
+644	Gold Leo Guard of the Goddess Athena authenticated by the Server!
+645	Leo Golden Guard of the Twelve Houses of the Glory of the Goddess!
+646	^ffd700 Virgo Dorado Guardian
+647	Golden Virgo Guard of the Goddess Athena authenticated by the Server!
+648	Golden Virgo Guard of the Twelve Houses of the Glory of the Goddess!
+649	^ffd700Guardian Libra Dorado
+650	Golden Libra Guard of the Goddess Athena authenticated by the Server!
+651	Golden Libra Guard of the Twelve Houses of the Glory of the Goddess!
+652	^ffd700Guardian Scorpio Golden
+653	Golden Scorpio Guard of the Goddess Athena authenticated by the Server!
+654	Golden Scorpio Guard of the Twelve Houses of the Glory of the Goddess!
+655	^ffd700Guardian Golden Sagittarius
+656	Golden Sagittarius Guard of the Goddess Athena authenticated by the Server!
+657	Golden Sagittarian Guard of the Twelve Houses of the Glory of the Goddess!
+658	^ffd700Garden Capricorn Gold
+659	Golden Capricorn Guard of the Goddess Athena authenticated by the Server!
+660	Gold Capricorn Guard of the Twelve Houses of the Glory of the Goddess!
+661	^ffd700Guardian Golden Aquarius
+662	Golden Aquarian Guard of the Goddess Athena authenticated by the Server!
+663	Gold Aquarian Guard of the Twelve Houses of the Glory of the Goddess!
+664	^ffd700Garden Pisces Golden
+665	Golden Pisces Guard of the Goddess Athena authenticated by the Server!
+666	Golden Pisces Guard of the Twelve Houses of the Glory of the Goddess!
+667	^0099cc Athena's Glory
+668	He obtained the supreme glory!
+669	^ffff00Attack +50 \rDefense +50 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+670	Prize for the participation of the "Anticipated Character Creation" Event.
+671	^0099cc Myth of the Armor
+672	^ffff00Attack +80 \rDefense +80 \rCritical attack + 3% \r ^If you get the title, the attribute will have effect ^ffff00permanente ^N
+673	Prize for the participation of the "Collect Armors, raise your Power" Event.
+674	^0099cc Attack Knight
+675	^ffff00Critical index + 2％ \rReduction of total property resistance +1 \r ^If you obtain the title, the attribute will have effect ^ffff00permanent ^N
+676	Prize for the participation of the "Rewards for the Conquests" Event.
+677	^0099cc Gold Legend
+678	^ffff00HP +1000 \rPressure +100 \rEvasion +100 \r ^NTras to obtain the title, the attribute will have effect ^ffff00permanente ^N
+679	Prize for the participation of the "Recharge Bono" Event.
+680	^5acbccStar of the Sanctuary
+681	Participate in the official forum event! Exclusive rare titles!
+682	^5acbccGlory of the Goddess
+683	^5acbccExterminator of Darkness
+684	^5acbcc Spokesperson for God
+685	^5acbccCoraje to be Authentic
+686	^0099ccDivine Wrestler · Demonic Family
+687	In [Heroic] Ten Caves, defeat all Bosses of Difficulty Divine Wrestler to get the title
+688	^ffff00Attack +250 \r ^NActivates the attributes by selecting the ^ffff00 effect ^N
+689	Certification of strength and courage
+690	^a800ffSemidiós · Demonic Family
+691	In [Heroic] Ten Caves, defeat all Bosses of difficulty Semidiós to obtain the title
+692	^ffff00Atake +350 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+693	^0099ccDivine Wrestler · Arrow of Justice
+694	In [Heroic] Heart of Sagittarius, defeat all Bosses of difficulty Divine Wrestler to obtain the title
+695	^a800ffSemidiós · Arrow of Justice
+696	In [Heroic] Heart of Sagittarius, defeat all the Bosses of difficulty Semidiós to obtain the title
+697	^ffd700Flower and Wine For the Hermit
+698	Test for yourself! Presence of the King!
+699	^ffff00HP + 1% \rAttack + 1% \rDefense + 1% \r ^If you get the title, the attribute will take effect ^ffff00permanente ^N
+700	Encounter of the players, exclusive for elite.
+701	^ffd700I'm going to eliminate everyone
+702	^ffd700Ghost Ghost of Hades
+703	^ffd700Legendário Fulano
+704	^ffd700 It's him! The Killer of Gods!
+705	^ffd700╰ ☆ ╮Reflection of the Flower in the Mirror
+706	Title 7 custom player
+707	Title 8 custom player
+708	^ff4ca4 Return of the Warriors
+709	Welcome back, Saint!
+710	^ff4ca4Juntos, of Hands Caught
+711	An old alliance that deeply affects us. As brothers, together forever!
+712	^0099ccDivine Soldier · Arrow of Justice
+713	In [Heroic] Heart of Sagittarius, defeat all Bosses of difficulty Divine Soldier to obtain the title
+714	^ffff00Atake +300 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+715	^0099ccDolino Soldier · Demonic Family
+716	In [Heroic] Ten Caves, defeat all Bosses of Difficulty Divine Soldier to get the title
+717	^5acbccMeeting of the Emissaries in the Sanctuary
+718	Participate in the meeting of players of The Knights of the Zodiac Online in Pequin and receive the exclusive titles!
+719	^5acbccSpressed in the Treasure Chest
+720	Participate in the meeting of players of The Knights of the Zodiac Online in Pequin. You are the Star of Luck!
+721	^ff4ca4Soldier of the Sanctuary
+722	Rare title obtained with the Knight around the Shrine!
+723	^ff4ca4 Melancholic Knight
+724	Exclusive title obtained with the Knight around the Shrine!
+725	^ff4ca4Caballeros They Must Also Love
+726	Unique title obtained with the Knight around the Shrine!
+727	^ff4ca4Buyer Mall
+728	Honorable title obtained in the Item Mall of the Knights!
+729	^ffff00Defense +200 \rHP +2000 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+730	^ff4ca4Caballero del Ataque
+731	^ffff00Defense +300 \rHP +3000 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+732	^ff6c00Conquest! Galactic Dominion
+733	Champion of the Classification Table of the Gods of the Galactic Tournament
+734	^ff6c00Friality! The Terrifying God of Death
+735	2º-3º of the Classification Table of the Gods of the Galactic Tournament
+736	^ff6c00Decided! Euphoria of the God of War
+737	4th-30th place in the Classification Table of the Gods of the Galactic Tournament
+738	^ff6c00Cosmos Brillante
+739	31st-100th place in the Classification Table of the Gods of the Galactic Tournament
+740	^ff6c00Platino! Galactic Specialist
+741	1st-40th place in the Galactic Tournament Platinum Classification Table
+742	^ff6c00Oro! Armor skill
+743	1st-30th place in the Gold Classification Table of the Galactic Tournament
+744	^ff6c00¡Plata! Assiduous Challenge
+745	1st-20th place in the Galactic Tournament Silver Classification Table
+746	^ff6c00Bronce! Immortal Knight
+747	1st-10th place in the Bronze Classification Table of the Galactic Tournament
+748	^ff8000 Coliseum Test 3
+749	Completed Colosseum Test 3
+750	^ff8000 Coliseum Test 4
+751	Completed Colosseum Test 4
+752	^ff8000 Coliseum Test 5
+753	Completed Colosseum Test 5
+754	^ff8000 Coliseum Test 6
+755	Completed Coliseum Test 6
+756	^ff8000 Coliseum Test 7
+757	Completed Coliseum Test 7
+758	^009933Minero
+759	You are a professional gold ore transporter!
+760	^ffff00Fire Damage +80 \rPressure +55 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+761	Conclude the Quest "Miner" on the Island of the Death Queen to obtain the title
+762	^009933 Son of Wind, Rain and Lightning
+763	Then you are the one who brings the pure white snow for Eastern Siberia!
+764	^ffff00 Water Damage +80 \rVaven +55 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+765	Conclude the Quest "Son of Wind, Rain and Lightning" in the Eastern Sibéria to obtain the title
+766	^009933 It was from Hyoga
+767	The pursuit of the squirrel by a nut is also a type of training!
+768	^ffff00Pressure +40 \rEvasion +40 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+769	Conclude the Quest "Era de Hyoga" in the Eastern Sibéria to obtain the title
+770	^009933 From the Hands of the Own Master
+771	Obtained the knowledge of Armor repair with Aries own Mu!
+772	^ffff00Air Damage +100 \rPress +60 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+773	Conclude the Quest "Avenue of the Stars" at Atlantis to get the title
+774	^009933War Banner War
+775	You have spread Flags of Athena Struggle at Atlantis, ending with the determination of the Marines.
+776	^ffff00Earth Attack +100 \rEvasion +60 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+777	Conclude the Quest "Flag of the Stars" in Atlantis to get the title
+778	^009933Specialist of the Constellation
+779	The Twelve Houses of the Zodiac are like the patio of your house!
+780	^ffff00 Thunder Damage +120 \rPress +75 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+781	Conclude the Quest "Legend of the Twelve Houses" on the Andromeda Island to obtain the title
+782	^009933A World Without Thieves
+783	He eliminated all thieves from Castle Hades, leaving them terrified!
+784	^ffff00Fire Damage +120 \rEvasão +75 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
+785	Conclude the Quest "A World Without Thieves" at Hades Castle to get the title
+786	^009933The Extremely Honorable Bronze
+787	You got the Bronze Honor in the Extreme Challenge Quest!
+788	Conclude all 8 "Extreme Quests" of Star 1 to get the title
+789	^009933The Extremely Honorable Silver
+790	You won the Silver Honor in the Extreme Challenge Quest!
+791	Conclude all 8 "Extreme Quests" of Star 2
+792	^009933The Extremely Honorable Gold
+793	You won the Golden Honor in the Extreme Challenge Quest!
+794	Conclude all 8 "Extreme Quests" of Star 3 to get the title
+795	^ff7800Amado
+796	1st Place in the Fresh Flowers List.
+797	^ff52bcAdmirado
+798	2nd Place on the Fresh Flower List.
+799	^9763eeAdorado
+800	3rd Place in the Fresh Flowers List.
+801	^14b427 Wanted
+802	4th-10th Place of the Fresh Flowers List.
+803	^5acbcc 【Fruit Prohibited】 · Multi-Server Competitor
+804	As elite of the Army 【Fruit Prohibido】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+805	Qualification to participate in the PK Multi-Server Competition of Armies
+806	^5acbccCol de los Solitarios · Multi-Server Competitor
+807	As the elite of the Clan of Solitaires Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+808	^5acbccCreation · Multi-Server Competitor
+809	As elite of the breeding Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+810	^5acbcc 一 Temple of the Gods 一 · Multi-Server Competitor
+811	As the elite of the Temple of the Gods Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+812	^5acbccCity of the Gods KOG · Multi-Server Competitor
+813	As the elite of the City of Gods KOG Army, he was qualified to participate in the PK Multiserver Armies Competition!
+814	^5acbccOnly Paradise · Multiserver Competitor
+815	As the elite of the Army Only Paradise, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+816	^5acbccWar Shadow Warfare · Multiserver Competitor
+817	As the elite of the Shadow War Alliance Army, he obtained the qualification to participate in the PK Multiserver Armies Competition!
+818	^5acbccCefeo, Dioses · Multi-Server Competitor
+819	As elite of the Army Cefeus, Gods, obtained the qualification to participate in the Multiserver PK Competition of Armies!
+820	^5acbccThe Army of the Gods · Multi-Server Competitor
+821	As the elite of the Army of the Gods, he obtained the qualification to participate in the PK Multi-Server Armies Competition!
+822	^5acbcc 【Emperador】 · Multi-Server Competitor
+823	As elite of the Army 【Emperor】, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+824	^5acbccMassage of the Duel · Multi-Server Competitor
+825	As the elite of the Duel Massacre Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+826	^5acbccSigo Mi Camino · Multi-Server Competitor
+827	As the elite of the Army I Follow My Path, obtained the qualification to participate in the PK Multiserver Competition of Armies!
+828	^5acbccSonríe, Despite Everything · Multi-Server Competitor
+829	As elite of the Army Smile, In spite of Everything, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+830	^5acbccCampaña Militar · Multi-Server Competitor
+831	As the elite of the Military Campaign Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+832	^5acbccPantheon · Multi-Server Competitor
+833	As the elite of the Pantheon Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+834	^5acbccSpace of the Second Dimension · Multi-Server Competitor
+835	As elite of the Army Space of the Second Dimension, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
+836	^5acbcc Furiosas · Multiserver Competitor
+837	As elite of the Army Furious Waves, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
+838	^5acbccTeam that dares to Kill A ★ S · Multiserver Competitor
+839	As elite of the Army Team that dares to Kill A ★ S, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
+840	^5acbccPico, Cumbre de la Montanha · Multi-Server Competitor
+841	As elite of the Pico Army, Cumbre de la Montanha, obtained the qualification to participate in the Multiserver PK Competition of Armies!
+842	^5acbccBelleza Real · Multi-Server Competitor
+843	As elite of the Royal Beauty Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+844	^5acbcc Entire Earth Law · Multiserver Competitor
+845	As the elite of the Army King of the whole Earth, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+846	^5acbccThe Top of the Forbidden City · Multi-Server Competitor
+847	As the elite of the Army The Top of the Forbidden City, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+848	^5acbccIra of the Gods · Multi-Server Competitor
+849	As elite of the Army of the Gods Wrath, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+850	^5acbcc ★ 灬 Gloria 灬 ★ · Multiserver Competitor
+851	As elite of the Army ★ 灬 Gloria 灬 ★, she obtained the qualification to participate in the Multiserver PK Competition of Armies!
+852	^5acbccPamirs · Multi-Server Competitor
+853	As the elite of the Pamirs Army, he obtained the qualification to participate in the PK Multiserver Armies Competition!
+854	^5acbcc〓First Force〓 · Multiserver Competitor
+855	As elite of the Army 〓First Force〓, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+856	^5acbcc [Temple of the Assassin of the Gods] Multi-Server Competitor
+857	As the elite of the Army [Temple of the Assassin of the Gods], he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+858	^5acbcc⑧Cero⑨Cero · Multiserver Competitor
+859	As elite of the Army ⑧Cero⑨Cero, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+860	^5acbccQue World · Multiserver Competitor
+861	As elite of the Army That World, it obtained the qualification to participate in the Multiserver PK Competition of Armies!
+862	^5acbccDivers of the DM War · Multi-Server Competitor
+863	As elite of the God of War Army DM, he obtained the qualification to participate in the PK Multiserver Armies Competition!
+864	^5acbccClub International · Multi-Server Competitor
+865	As the elite of the International Club Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+866	^5acbcc Army Sacred Hall · Multi-Server Competitor
+867	As elite of the Sacred Hall Army, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+868	^5acbccLolu of Eternal Life · Multiserver Competitor
+869	As the elite of the Lolu Army of Eternal Life, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+870	^5acbccDomínio 灬 Oculto · Multi-Server Competitor
+871	As elite of the Army Domínio 灬 Oculto, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+872	^5acbccMundo de la Matanza · Multi-Server Competitor
+873	As the elite of the World of Slaughter Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+874	^5acbcc 〖News Channel〗 · Multi-Server Competitor
+875	As elite of the Army 〖News Channel obtuvo, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+876	^5acbcc 「Família Real」 · Multi-Server Competitor
+877	As elite of the Army 「Royal Family, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+878	^5acbccAmor Lost · Multi-Server Competitor
+879	As elite of the Lost Love Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+880	^5acbccConstructions Smart · Multiserver Competitor
+881	As elite of the Construcciones Elegantes Army, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+882	^5acbcc 灬 Smoke Signal 灬 · Multiserver Competitor
+883	As the elite of the Army 灬 Smoke Sign 灬, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+884	^5acbcc 灬 From Dream to Reality 灬 · Multi-Server Competitor
+885	As elite of the Army 灬 Of the Dream for the Reality 灬, obtained the qualification to participate in the PK Multiserver Competition of Armies!
+886	^5acbccBack 丶 Free · Multiserver Competitor
+887	As an elite of the Free Battle Army, he obtained the qualification to participate in the PK Multiserver of Armies Competition!
+888	^5acbccCity of the Free Gods · Multi-Server Competitor
+889	As the elite of the City of the Free Gods Army, he obtained the qualification to participate in the PK Multiserver of Armies Competition!
+890	^5acbccPilots · Multi-Server Competitor
+891	As elite of the Pilots Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+892	^5acbcc 【Hide the Truth】 · Multi-Server Competitor
+893	As the elite of the Army 【Hide the Truth】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+894	^5acbccYin, Leading Fashion · Multiserver Competitor
+895	As the elite of the Yin Army, Leading Fashion, was qualified to participate in the PK Multiserver Competition of Armies!
+896	^5acbccCompetition Multi-Server PK of Armies · Army Leader
+897	As the Leader of the Army Seeds of the PK Multiserver Competition of Armies, he obtained this title!
+898	As proof, you can receive entrance certification and distribute to Army members!
+899	^ff4ca4The God of Love Arrived
+900	During the Tanabata festival, get the first place in the Ranking of Fresh Flowers to have a magnificent and permanent title!
+901	^ff4ca4Yo and My Pets
+902	During the Tanabata festival, the top 10 players on the Fresh Flowers Raking list sent blessings to you ~!
+903	^5acbcc13 · Participate in the Friendly Battle Mult.
+904	Thank you for supporting The Knights of the Zodiac Online! Participate in the Multi-Server PK Competition to obtain titles!
+905	^5acbcc13Top 24 Friendly Battle
+906	^5acbcc13Top 12 Friendly Battle
+907	^5acbcc13Top 6 of Friendly Battle of the servs.
+908	^5acbcc13 · Honorable Bronze Fighting Group
+909	^5acbcc13 · Leader of the Bronze Fighting Group
+910	^5acbcc13 · Honorable Silver Wrestling Group
+911	^5acbcc13 · Leader of the Silver Wrestling Group
+912	^5acbcc13 · Golden Fight Group
+913	^5acbcc13 · Leader of the Golden Wrestling Group
+914	^ff6c00 Knight of the Holy War of Proof
+915	^ffff00Attack +100 \rDefense +100 \r ^NEl effect is activated when the title is ^ffff01selected ^N
+916	^0099ccTitle of Couple-H
+917	^ffff00Attack +100 \rHP +1000 \r ^NEl effect is activated when the title is ^ffff02selected ^N
+918	^0099ccTitle of Couple-M
+919	^ffff00Defense +100 \rHP +1000 \r ^NEl effect is activated when the title is ^ffff03selected ^N
+920	^009933 Silver Test Cabinet
+921	^ffff00Attack +300 \rDefense +100 \r ^NEl effect is activated when the title is ^ffff04selected ^N
+922	^ff6c00I am a Knight, Strength!
+923	^ffff00Atake +500 \r ^NEl effect is activated when the title is ^ffff05selected ^N
+924	^ff4ca4The God of Love in the Command
+925	^a800ffSD · Guard of the Goddess
+926	In "Protect Athena", he became Seiya, Shiryu, Hyoga, Shun and Ikki, one at a time!
+927	The true guardian of the Goddess!
+928	^0099ccDivine Wrestle · Demonic Angel
+929	In [Heroic] Elegy of the Goddess I, defeat all Bosses of Divine Wrestler difficulty
+930	^0099ccDivine Soldier · Demonic Angel
+931	In [Heroic] Elegy of the Goddess I, defeat all Bosses of difficulty Divine Soldier
+932	^a800ffSemidiós · Demonic Angel
+933	In [Heroic] Elegy of the Goddess I, defeat all Bosses of difficulty Semidiós
+934	^0099cc Divine Warrior · Divine Angel
+935	In [Heroic] Elegy of the Goddess II, defeat all Bosses of Divine Wrestler difficulty
+936	^0099cc Divine Soldier · Divine Angel
+937	In [Heroic] Elegy of the Goddess II, defeat all Bosses of difficulty Divine Soldier
+938	^a800ffSemidiós · Divine Angel
+939	In [Heroic] Elegy of the Goddess II, defeat all the Bosses of difficulty Semidiós
+940	^ff4ca4Monoria de Un Saint
+941	Welcome back, Knight of the Goddess! With this Title, you can receive special Quest with Emissary of the Festival, from the 16th until September 30th
+942	^5acbcc17173 · VIP
+943	Special Title obtained by opening the Exclusive Gift Package of the 17173!
+944	^5acbccCoballero Dorado de la Duowan
+945	Special Title obtained by opening the Duowan Exclusive Gift Package!
+946	^5acbccExpert of the Tencent Game
+947	Special Title obtained by opening Tencent's Exclusive Gift Package!
+948	^5acbccHoltz piggy bank of the Yzz
+949	Special Title obtained by opening the Exclusive Gift Package of the Yzz!
+950	^5acbcc Via the PConline
+951	Special Title obtained by opening the PConline Exclusive Gift Package!
+952	^5acbcc 360Viajar Together for a long time
+953	Special Title obtained by opening the Exclusive Gift Package of the 360!
+954	^5acbccCaballero of the Sanctuary of the Tgbus
+955	Special Title obtained by opening the Tgbus Exclusive Gift Package!
+956	^5acbccJD hero
+957	Special Title obtained by opening the JD Exclusive Gift Package!
+958	^5acbccI love Taobao!
+959	Special Title obtained by opening the TaoBao Exclusive Gift Package!
+960	^be2ae3 Learner Apprentice
+961	Title of learning obtained when the Apprentice becomes a Master!
+962	Under the careful guidance of the Master, he was finally able to become independent. Become a Master to obtain the title!
+963	^12ff00Please call me Teacher
+964	Please, call me Teacher!
+965	Graduate a successful apprentice to obtain the title
+966	^0065feThe Master Has To Behave As Such
+967	The Master needs to behave as such.
+968	Graduate three successful apprentices to obtain the title
+969	^be2ae3Aprendiz y Maestro Models
+970	Teacher and apprentice must be models for others, is not it?
+971	Graduate five successful apprentices to obtain the title
+972	^ff6c00A Good Teacher Never Saves Efforts
+973	A Teacher must take risks for his apprentices!
+974	Graduate 10 successful apprentices to obtain the title
+975	^ff7800 Husband of the $ {spouse}
+976	Exclusive marriage title
+977	^ff7800${spouse}'s wife
+978	^ff7800Don Divine
+979	Exclusive DIY special effects title
+980	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \rPressure +50 \rEvasion +50 \rCritBonus +50 Attack on all properties +20 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+981	^a800ff Underworld rule: Naraku
+982	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \rPressure +50 \rStage +50 \r ^NActivate the attributes by selecting the ^ffff00effect ^N
+983	^0099ccWarrior That Terrifies the Gods
+984	11-100 of the Ranking of cumulative recharge points
+985	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \rPressure +50 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+986	^009933 Wizard
+987	101-500 of the Ranking of cumulative recharge points
+988	^ffff00Attack +150 \rHP +2000 \rResistance to all elements +5 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+989	^5acbcc Increase the critical attack to wish me happiness
+990	Cumulative recharge to meet user conditions
+991	^a800ff Silver Associate Knight
+992	^a7800ff Gold Associate Knight
+993	^ffd700 Platinum Associate Knight
+994	^a800ffGalán of the Andromeda Island
+995	^a800ffElegante
+996	^a800ff Spiritual Controller
+997	^a800ffCruel and Inmate
+998	^a800ffBuddhist Celebration
+999	^a800ffHello, Chief. Chao, Chief.
+1000	^a800ffEncarnación
+1001	^a800ff Blade Protection
+1002	^5acbcc Perfect Agent
+1003	Commemoration title of the COSPLAY Galactic Tournament event of "The Knights of the Zodiac"
+1004	^5acbccPerfect Angel
+1005	^ff7800Election of the Goddess Athena
+1006	You are the one chosen by Athena!
+1007	^ffff00Attack +100 \rHP +1500 critical index +3 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+1008	^5acbcc Confident of the Goddess
+1009	You are trustworthy of the Goddess!
+1010	^a800ffGod's killer · Angel of Death
+1011	In [Heroic] Elegia of the Goddess I, defeat all Bosses of difficulty Assassin of Gods to obtain the title
+1012	^ffff00Atake +400 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
+1013	^a800ffAster of Gods · Divine Angel
+1014	In [Heroic] Elegia of the Goddess II, defeat all Bosses of difficulty Assassin of Gods to obtain the title
+1015	^5acbccCaptain in the 1st Multiserv Competition.1
+1016	As a competitor among the top 30 of the Power ranking list of that server, he obtained a qualification to guide a group to participate in the Multiserver Competition!
+1017	As proof, in addition to the title, you can guide the group as a Captain to sign up with $ {npc (36528)} to participate in the Preparation Phase of the First Multi-Server Competition
+1018	^5acbccCaptain in the 1st Multiserv Competition.2
+1019	^5acbccCaptain in the 1st Multiserv Competition.3
+1020	^5acbccCaptain in the 1st Multiserv Competition.4
+1021	^5acbccCaptain in the 1st Multiserv Competition.5
+1022	^5acbccCaptain in the 1st Multiserv Competition.6
+1023	^5acbccCaptain in the 1st Multiserv Competition.7
+1024	^5acbccCaptain in the 1st Multiserv Competition.8
+1025	^5acbccCaptain in the 1st Multiserv Competition.9
+1026	^5acbccCaptain in the 1st Multiserv Competition.10
+1027	^5acbccCaptain in the 1st Multiserv Competition.11
+1028	^5acbccCaptain in the 1st Multiserv Competition.12
+1029	^5acbccCaptain in the 1st Multiserv Competition.13
+1030	^5acbccCaptain in the 1st Multiserv Competition.14
+1031	^5acbccCaptain in the 1st Multiserv Competition.15
+1032	^5acbccCaptain in the 1st Multiserv Competition.16
+1033	^5acbccCaptain in the 1st Multiserv Competition.17
+1034	^5acbccCaptain in the 1st Multiserv Competition.18
+1035	^5acbccCaptain in the 1st Multiserv Competition.19
+1036	^5acbccCaptain in the 1st Multiserv Competition.20
+1037	^5acbccCaptain in the 1st Multiserv Competition.21
+1038	^5acbccCaptain in the 1st Multiserv Competition.22
+1039	^5acbccCaptain in the 1st Multiserv Competition.23
+1040	^5acbccCaptain in the 1st Multiserv Competition.24
+1041	^5acbccCaptain in the 1st Multiserv Competition.25
+1042	^5acbccCaptain in the 1st Multiserv Competition.26
+1043	^5acbccCaptain in the 1st Multiserv Competition.27
+1044	^5acbccCaptain in the 1st Multiserv Competition.28
+1045	^5acbccCaptain in the 1st Multiserv Competition.29
+1046	^5acbccCaptain in the 1st Multiserv Competition.30
+1047	^5acbccI agree Ti
+1048	Welcome back, Warrior!
+1049	^5acbccCosplayer
+1050	^5acbccMysterious Thousand Faces
+1051	^5acbcc Hidden Person
+1052	^a800ffServidor de Prueba nº1 · Troy Cavalry Group
+1053	^As one of the first 10 groups in the Power Ranking of those who registered for the First Multiserver Competition, you will get the qualification to participate in the international competition.
+1054	^A800ff gold service No. 2
+1055	^a800ff gold service No. 3 · Vickhill team
+1056	^a800ff Gold Service No. 4 · Caloundia
+1057	^a800ff gold service No. 5 · Saga team
+1058	^a800ff gold service No. 6 · Antarctic small three team
+1059	^a800ff gold service No. 7 · year _zZ team
+1060	^a800ff gold service No. 8 · drunk lazy team
+1061	^a800ff Gold Service No. 9 · Ulysses
+1062	^a800ff gold service No. 10 · busy sneak team
+1063	^a800ff Cepheus 1 and Frederick I
+1064	^a800ff Xian Throne 2 · Andyメ Sky Blue Team
+1065	^a800ff Cepheus 3, Amnesia
+1066	^a800ff Celestial No. 4 · Luxury YD Red Wine Team
+1067	^a800ff Cepheus 5, Winter Lions
+1068	^a800ff Xianshou 6th, sadness, team
+1069	^a800ff Cepheus 7 · Adachio
+1070	^a800ff Cepheus 8th, Soul, Luoxi Team
+1071	^a800ff Xianshou 9th, the world's cool team
+1072	^a800ff Cepheus No. 10 · Forbidden City
+1073	^a800ff Orion 1 · Xuantian Team
+1074	^a800ff Orion 2 · Game Love Team
+1075	^a800ff Orion 3 · Mana
+1076	^a800ff Orion 4 · Devil De Shadow Team
+1077	^a800ff Orion 5 · Z@rk Team
+1078	^a800ff Orion No. 6 · Artifact Baby Team
+1079	^a800ff Orion 7 · Exclusive Sponsor
+1080	^a800ff Orion No. 8 · I bought an eight team last year.
+1081	^a800ff Orion 9 Wang Di
+1082	^a800ff Orion 10 · Sagittarius Cat Team
+1083	^a800ff Perseus 1 · Stars in Pisces
+1084	^a800ff Perseus 2 · Twilight Team
+1085	^a800ff Perseus 3 · Not handsome and how the team
+1086	^a800ff Perseus No. 4 · Fritters and Soymilk Team
+1087	^a800ff Perseus No. 5 · Snow White
+1088	^a800ff Perseus 6 · Samurai Madman
+1089	^a800ff Perseus 7 · Xie Erqi Team
+1090	^a800ff Perseus 8 · Melancholy Innocent
+1091	^a800ff Perseus 9 · 璐小路队
+1092	^a800ff Perseus 10 · Wolf Wars
+1093	^a800ff Hercules No. 1 · Qing Qing Team
+1094	^a800ff Hercules 2 · Senior old rogue team
+1095	^a800ff Hercules No. 3 · Childhood Shadow Team
+1096	^a800ff The Hercules 4 · Holy Spirit ~ Snow Team
+1097	^a800ff Hercules No. 5 · Cold Funeral Love Team
+1098	^a800ff Hercules No. 6 · Iwasuke
+1099	^a800ff Hercules No. 7 · Shayingsha Team
+1100	^a800ff Hercules No. 8 · Love Saints
+1101	^a800ff Hercules 9 · Moonlight Politics
+1102	^a800ff Pillar of Life No. 1 · The World of the Kings
+1103	^a800ff Pillar of Life 2, Blurred Night Team
+1104	^a800ff Pillar of Life 3
+1105	^a800ff Pillar of Life No. 4
+1106	^a800ff Pillar of Life No. 5 · Forgotten Dragon Sky Team
+1107	^a800ff Pillar of Life 6
+1108	^a800ff Pillar of Life No. 7 · Angry Cabbage Team
+1109	^a800ff Pillar of Life No. 8 · After school, see the Saints
+1110	^a800ff Pillar of Life No. 9 · Look at you, you are a male drop team
+1111	^a800ff Pillar of Life No. 10 · Show off the happy pig team
+1112	^a800ff Lyra 1 · Saint Seiya 059
+1113	^a800ff Lyra 2, Snow snow
+1114	^a800ff Lyra 3, Bloody and Cold Flames
+1115	^a800ff Lyra 4 No.
+1116	^a800ff Lyra 5, MAX丶鑫少队
+1117	^a800ff Lyra 6 · Gold OO Holy Swords
+1118	^a800ff Lyra 7 Roger El
+1119	^a800ff Lyra 8th Air Force
+1120	^a800ff Lyra 9, Pig brother Jiangnan
+1121	^a800ff Lyra 10, Mythical Devils
+1122	^a800ff Aquila No. 1
+1123	^a800ff Aquila 2 Jack Falls
+1124	^a800ff Aquila No. 3 · ※ Saint Seiya ☆ light teeth ※ team
+1125	^a800ff Aquila No. 4 · Winter Fog Team
+1126	^a800ff Aquila 5 · Song Xiaoxian
+1127	^a800ff Aquila 6 · Night Outlon
+1128	^a800ff Aquila No. 7 · Good child is a bold team
+1129	^a800ff Aquila No. 8
+1130	^a800ff Aquila No. 9 · Yueshang Team
+1131	^a800ff Unicorn 1 · Lei Jingyun
+1132	^a800ffUnicorn 2nd 丿 灬 灬 灬 Shadow Team
+1133	^a800ff Unicorn 3, Heart Blue Dragon Team
+1134	^a800ff Unicorn 4th, the 36°C perfect team
+1135	^a800ff Unicorn 5 · Shooter Ying Yingying
+1136	^a800ffUnicorn 6th, hate night team
+1137	^a800ff Unicorn 7 · Blue Emperor
+1138	^a800ffUnicorn 8th Purple sweet potato
+1139	^a800ffUnicorn 9th, the gods are the squad
+1140	^a800ff Unicorn 10 · Aynos
+1141	^a800ff Auriga No. 1 · Prince Kong came to the team
+1142	^a800ff Auriga No. 2 · DKSL Team
+1143	^a800ff Auriga No. 3 · World Chance
+1144	^a800ff Auriga 4, Junhaoge
+1145	^a800ff Auriga 5, Coldheart Dragon
+1146	^a800ff Auriga No. 6 · Ashtray 30 Team
+1147	^a800ff Auriga No. 7 · Mo Seven Nights oM Team
+1148	^a800ff Auriga No. 8 · 灬 丨 丨 灬 灬
+1149	^a800ff Auriga No. 9 · Boqiu Team
+1150	^a800ff Auriga No. 10 · Night 〖Too Long〗 Team
+1151	^a800ff Cubs No. 1 · Handsome Flying Team
+1152	^a800ff Cubs 2, the world's proud snow team
+1153	^a800ff Cubs No. 3 · ● Jimmy Star丶
+1154	^a800ff Cubs No. 4 · ● Scorpion Star丶
+1155	^a800ff Cubs No. 5 · Want to blow the team
+1156	^a800ff Cubs No. 6 · Tianma Wu Zhang Ke Xing Team
+1157	^a800ff Cubs No. 7 · Yan Qing Team
+1158	^a800ff Cubs No. 8 · Moss
+1159	^a800ff Fairy Island 1 Tuarus Yang
+1160	^a800ff Fairy Island 2 · 98 ° C Lafite
+1161	^a800ff Fairy Island 3
+1162	^a800ff Fairy Island 4 · Deer Hunting Team
+1163	^a800ff Fairy Island 5 · Blast HH
+1164	^a800ff Fairy Island 6 · Co Pure Black Team
+1165	^a800ff Fairy Island No. 7
+1166	^a800ff Fairy Island 8 · Illusion of Sadness
+1167	^a800ff Fairy Island 9 · ◆ Ali Luya
+1168	^a800ff Fairy Island 10 · Sleeping Sleeper
+1169	^a800ff Ice Continental 1 · Dino Team
+1170	^a800ff Ice Continental 2 · ┦ ┢ ┢
+1171	^a800ff Iceland 3, Barca
+1172	^a800ff Ice Continental 4 · Diana Xiaoqing
+1173	^a800ff Iceland No. 5 · Fury of the Fury
+1174	^a800ff Ice Continental 6 · Lausy Team
+1175	^a800ff Ice Continental 7 · A sleeping pill team
+1176	^a800ff Ice Continental 8 · Pic 丶 = Rossi = Team
+1177	^a800ff Ice Continental 9 · Han Yuliang
+1178	^a800ff Ice Continental 10 · Smiling Little Fish Team
+1179	^a800ff Wu Laofeng No. 1 · Wensushan Team
+1180	^a800ff Wu Laofeng 2, Dark Night Sharjah
+1181	^a800ff Wu Laofeng No. 3 · Yabofika's burial team
+1182	^a800ff Wu Laofeng No. 4 · αLeonis team
+1183	^a800ff Wu Laofeng No. 5 · Lord Leo Team
+1184	^a800ff Wu Laofeng No. 6 · Happy Music Band
+1185	^a800ff Wu Laofeng No. 7 · Xiaoying Soul Team
+1186	^a800ff Wu Laofeng No. 8 · Xiang Shuai Ge
+1187	^a800ff Wu Laofeng No. 9 · Big Yunyun Team
+1188	^a800ff Wu Laofeng 10th, Night Stars
+1189	^a800ffBilongtan No.1·Global Concern Team
+1190	^a800ffBilongtan 2·Miso
+1191	^a800ffBilongtan 3·Resolute Team
+1192	^a800ffBilongtan 4·y sleep god q team
+1193	^a800ffBilongtan No.5·Jinai Pinky Team
+1194	^a800ffBilongtan No.6·Prodigal No regrets
+1195	^a800ffBilongtan No.7·Optical team
+1196	^a800ffBilongtan No.8 · Honey Color Team
+1197	^a800ffBilongtan No.9·Brothers cheering team
+1198	^a800ffBilongtan 10 Sadus
+1199	^a800ff Galaxy Arena No. 1 · Living VIVA Team
+1200	^a800ff Galaxy Arena 2, True 1 Goddess
+1201	^a800ff Galaxy Arena No. 3 · Time Storm Team
+1202	^a800ff Galaxy Arena 4
+1203	^a800ff Galaxy Arena 5 Ufcc Team
+1204	^a800ff Galaxy Arena No. 6 · Wind Language Ringtone Team
+1205	^a800ff Galaxy Arena No. 7 · Kill Innocent team
+1206	^a800ff Galaxy Arena 8 · Soul enters the team
+1207	^a800ff Galaxy Arena No. 9 · Wudu Orphans
+1208	^a800ff Galaxy Arena 10, Humari
+1209	^a800ff Centaurus 1 · The Emperor
+1210	^a800ff Centaur 2 Puriel
+1211	^a800ff Centaur No. 3 · Dumb WO Team
+1212	^a800ff Centaur No. 4 · Beautiful and moving team
+1213	^a800ff Centaur No. 5 · Flower Fly │ tears without shadow team
+1214	^a800ff Centaurus 6 · MIX °C Dragon Team
+1215	^a800ff Centaur 7th, Xiao Ge °C has a demon team
+1216	^a800ff Centaur 8
+1217	^a800ff Centaur 9
+1218	^a800ff Centaur No. 10 · Great God of Heaven
+1219	^a800ff, Sirius 1
+1220	^a800ff Sirius 2·24K Fallen Team
+1221	^a800ff Sirius 3 · Son Hurricanes
+1222	^a800ff Sirius 4 · Capricorn Xerath
+1223	^a800ff Sirius 5 · Bamboo Tears
+1224	^a800ff Sirius 6·Destroyed Road West Fafa
+1225	^a800ff Sirius 7·[Shakespeare]
+1226	^a800ff Sirius 8 · Zijing b team
+1227	^a800ff Sirius 9
+1228	^a800ff Sirius 10 · Heart Team
+1229	^a800ff Chameleon No. 1 · Hermes Night Team
+1230	^a800ff Chameleon 2, unless it is my team
+1231	^a800ff Chameleon No. 3 · Sneaky has been such a second team
+1232	^a800ff Chameleon 4 · Dieu Wind Team
+1233	^a800ff Chameleon No. 5 · Perddon
+1234	^a800ff Chameleon 6 · Kiss Moth
+1235	^a800ff Chameleon No. 7 · Aimei Team
+1236	^a800ff Chameleon No. 8 · Hermes Love Team
+1237	^a800ff Chameleon No. 9 · Huang Sanjin Team
+1238	^a800ff Chameleon No. 10 · Quiet Nimo Team
+1239	^a800ffHell Dog 1st, Tianchao Brothers
+1240	^a800ff Jester's Canine No. 2
+1241	^a800ffSpecial Canines 3 · Lion King Steel Team
+1242	^a800ffSpecial Canine No. 4 · Beautiful Little Girls Team
+1243	^a800ffSpecial Canines 5 · Cookboa
+1244	^a800ffSpecial Canines 6 · Haystacks
+1245	^a800ff hell dog squad 7 · beast ★ Tianma team
+1246	^a800ff Jester Canine 8 · Simon Sauce Team
+1247	^a800ff Jester's Canine No. 9 · Invincible Small Receiving Team
+1248	^a800ff Jester Canine 10 · Hell VII Baron
+1249	^a800ff Taurus 1 · Vinnie came to the team
+1250	^a800ff Taurus 2, Crab Minami
+1251	^a800ff Taurus 3 · Hercules
+1252	^a800ff Taurus 4 · Enemy England
+1253	^a800ff Taurus 5 · [fox] team
+1254	^a800ff Taurus 6 · annihilation V humanity team
+1255	^a800ff Taurus 7 ·Nous丶 Dongcheng Team
+1256	^a800ff Taurus No. 8 · The most of the wind I came to the team
+1257	^a800ff Taurus 9 · Only D team
+1258	^a800ff Taurus No. 10 丶 丶 Moth
+1259	^a800ff Aries No. 1 · Desolation Thieves
+1260	^a800ff Aries 2·★Yan Xuan ★ team
+1261	^a800ff Aries No. 3 · Night Madness L Team
+1262	^a800ff Aries No. 4
+1263	^a800ff Aries 5 · Saskatchewan
+1264	^a800ff Aries No. 6 · Aquarius
+1265	^a800ff Aries 7 · Han Yuzhe
+1266	^a800ff Aries No. 8 · Tian Yu Nothing
+1267	^a800ff Aries 9 · East China Sea Dragon Girl Team
+1268	^a800ff Aries 10 · Blaster
+1269	^a800ff Virgo No. 1 · Ss 丶 cold no ice team
+1270	^a800ff Virgo 2 · Six Ways Round Nima
+1271	^a800ff Virgo No. 3 · Ss Rebel Team
+1272	^a800ff Virgo No. 4 · Meteor ぁ ぁ ぁ
+1273	^a800ff Virgo No. 5 · Pan I I
+1274	^a800ff Virgo No. 6 · Scarlet Ice Skating Team
+1275	^a800ff Virgo No. 7 · My丶 Black Cloud Team
+1276	^a800ff Virgo No. 8 · Confused North Latitude
+1277	^ff7800${companion}'s close friend
+1278	Secret title
+1279	^ff4ca4—See love
+1280	A happy marriage requires two people to work together.
+1281	^ff4ca4 paper wedding if first love
+1282	^ff4ca4 Marriage and tenderness
+1283	^ff4ca4 Only you are with this life
+1284	^a800ff I love you only in my life.
+1285	^a800ff life has you shine
+1286	^ff4ca4 to work with you for the rest of your life
+1287	^5acbcc Christmas with the goddess
+1288	Supreme "Dodan" gift pack special gift
+1289	Supreme "Double Dan" package
+1290	^ffdf00U Nai Liuyi God
+1291	Gold Team Medal Special Gift
+1292	^ffdf00* Dark Night God Alliance*
+1293	Silver Team Medal Special Gift
+1294	^ffdf00Underworld Scorpio Six Giants
+1295	Bronze Team Medal Special Gift
+1296	^ffdf00 I am going to X God.
+1297	^ffdf00Blast Wolf
+1298	^ff6c002013 cross-service champion
+1299	2013 Cross-Service Championship
+1300	^ff6c002013 cross-service competition
+1301	2013 runner-up competition
+1302	^ff6c002013 cross-service hegemony season army
+1303	2013 cross-service hegemony season army
+1304	^a800ff2013 cross-service competition top 10
+1305	2013 Cross-service competition top 10
+1306	^a800ff2013 cross-service competition 18
+1307	2013 cross-service competition 18
+1308	^a800ff2013 cross-service competition for the top 30
+1309	2013 Cross-service competition top 30
+1310	^a800ff2013 cross-service competition for the top 60
+1311	2013 Cross-service competition for the top 60
+1312	^a800ff2013 Galaxy Team Cross-Service Competition
+1313	2013 Galaxy Team Cross-Service Competition
+1314	^5acbcc17y playing together is not alone
+1315	to 17y, play together, not alone
+1316	^5acbccObtained in the  17Y blood package
+1317	^0099cc Midsummer Night's Dream
+1318	Saint Seiya, active in midsummer nights, your body has been remembered in everyone's heart.
+1319	^ffff00 crit +1%\r^N After obtaining the title, the attribute ^ffff00 is permanently valid
+1320	After collecting 8 cool leaves, find the festival ambassador Ai Gesha in exchange for it.
+1321	^0099cc son of love
+1322	The blessing of love indicates that you will have a peach blossom this month.
+1323	Obtained at the Tanabata Festival
+1324	^ffdf00 Saint Seiya Year of the Horse Ambassador
+1325	Saint Seiya Year of the Horse Ambassador
+1326	^5acbcc money is rolling, right now
+1327	Spring Festival Lottery Award
+1328	^5acbcc wants to be successful, there are objects right away
+1329	^5acbcc Congratulations on getting rich
+1330	^5acbcc horse galloping
+1331	old player return reward title
+1332	^5acbcc rushes to your arms
+1333	Return to the special title given to you by the old players
+1334	^5acbcc ten years perfect · youth bloom
+1335	Perfect 10th Anniversary Out of Print. Legend has it that the lucky value of this title will increase greatly.
+1336	^a800ff is like a godly killing
+1337	2013 cross-service competition to kill the most
+1338	^a800ff undead war god
+1339	2013 Cross-service competitions with the fewest deaths
+1340	^ffdf00 has something to do and nothing to retreat
+1341	Unique title, unique
+1342	^61f2ff Shining GT Star
+1343	GT online reward unique title
+1344	GT online reward exclusive title, obtained in the Saint Seiya Green Crystal spree
+1345	^5acbcc Tencent love fight Saint Seiya
+1346	Tencent Media Gift Pack
+1347	^5acbccsina Sparkling Saints
+1348	obtained in Sina Media Gift Pack
+1349	^5acbcc17173 Tenable Saints
+1350	^5acbcc17173 Obtained in  media package
+1351	^5acbcc more playful Saint Seiya
+1352	^5acbcc Get more than  media packs
+1353	^5acbcc play more reluctant Saint Seiya
+1354	^a800ff multiplay privilege shiner
+1355	^5acbcc Netease Saints
+1356	^5acbcc Obtained in Netease Media Gift Pack
+1357	^fff600 end of sigh
+1358	Defeat the Pluto activist and rush into the pioneer of the Pure Land!
+1359	The event in the world - the end! In the wall of sigh, participate in the killing of Pluto, the actress of Pandora, to make the server enter the era of Pluto.
+1360	^0099cc God Warrior Icebreaker
+1361	Killing [Hero] All the god warriors in the Blue Ice Fortress BOSS
+1362	^0099cc sacred icebreaker
+1363	Killing the heroes of the [Heroes] Blue Ice Fortress
+1364	^a800ff demigod and icebreaker
+1365	Kill [Hero] all the half-difficult BOSS in the Blue Ice Fort
+1366	^a800ff Prisoner of God
+1367	Kill all the BOSS in the [Heroes] Blue Ice Fortress
+1368	^0099cc	God Warrior · Dispels the Darkness
+1369	Killing [Hero] BOSS of all the god warriors in Hades City
+1370	^0099cc shrine to dispel the darkness
+1371	Killing [Hero] BOSS in all the difficulty of Hades City
+1372	^a800ff demigod to dispel darkness
+1373	Kill [Hero] all the half-difficult BOSS in Hades City
+1374	^a800ff Killing God·Dispel the darkness
+1375	Kill [Hero] all the gods in the city of Hades
+1376	^a800ff Dragon God Tianzun
+1377	First place in the top-up activity list
+1378	^a800ff Sakyamuni
+1379	second place in the top-up activity list
+1380	^a800ff Heavenly rewards
+1381	Third place in the top-up activity list
+1382	^a800ff Jiu Xing Lianzhu·Pluto is coming
+1383	Anniversary Information Title Exclusive Title
+1384	^5acbcc embarked on the journey of the warrior
+1385	Guild exclusive title
+1386	^a800ff warriors who have gone through the battlefield
+1387	^a800ff Athena's Justice
+1388	Star Wars Athena faction title
+1389	^a800ff Poseidon's pride
+1390	Star Wars Poseidon faction title
+1391	^a800ff Hades's malice
+1392	Star Wars Hades faction title
+1393	a800ff Shenlong Fighter
+1394	collects four dragons
+1395	^a800ff eagle-like eyes
+1396	collecting 8 bird wings
+1397	^a800ff strongest team
+1398	God of War Relics Award Award
+1399	^a800ff peak team
+1400	^a800ff Galaxy Team
+1401	^a800ff blood team
+1402	^a800ff bronze Saint Seiya, Da Zhuang
+1403	Recharge rank first class title
+1404	^a800ff is the god of eternal sleep
+1405	top-ranking title
+1406	^a800ff control the god of life and death
+1407	^a800ff trial of the soul's deacon
+1408	Recharge rank third class title
+1409	^a800ff Libra's power
+1410	The gift of the goddess Athena
+1411	^ffff00 ground attribute resistance +3\r^N permanent effective
+1412	Activity Award
+1413	^a800ff Gold Libra Force
+1414	^ffff00 ground attribute resistance +6\r^N permanent effective
+1415	Precious event rewards
+1416	^a800ff water bottle force
+1417	^ffff00 water attribute resistance +3\r^N permanent effective
+1418	^a800ff gold water bottle force
+1419	^ffff00 water attribute resistance +6\r^N permanent effective
+1420	^a800ffThe power of the lion
+1421	^ffff00 fire attribute resistance +3\r^N permanent effective
+1422	^a800ff Golden Lion Power
+1423	^ffff00 fire attribute resistance +6\r^N permanent effective
+1424	^a800ff The power of the shooter
+1425	^ffff00 wind attribute resistance +3\r^N permanent effective
+1426	^a800ff gold shooter power
+1427	^ffff00 wind attribute resistance +6\r^N permanent effective
+1428	^a800ffvirginal power
+1429	^ffff00 Ray attribute resistance +3\r^N permanent effect
+1430	^a800ff gold virgin power
+1431	^ffff00 Ray attribute resistance +6\r^N permanent effect
+1432	^a800ff silver versatile power
+1433	^ffff00 full attribute resistance +3\r^N permanent effective
+1434	^a800ff violent force
+1435	^ffff00 Critical Strike Rate +1%\r^N Permanently Effective
+1436	^a800ff gold violent force
+1437	^ffff00 crit rate +2%\r^N permanent effect
+1438	^a800ff goddess violent power
+1439	^ffff00 crit rate +3%\r^N permanent effect
+1440	^a800ff San Mateo College squad leader
+1441	The reward of the hardworking teacher
+1442	^a800ff San Diego College Class Teacher
+1443	^a800ff Dean of Sanctuary College
+1444	^a800ff played in the 2014 Legion
+1445	Cross-service competition title
+1446	^a800ff8 strong! 2014 Legion Hegemony
+1447	^a800ff third place! 2014 Legion Hegemony
+1448	^a800ff runner! 2014 Legion Hegemony
+1449	^a800ff champion! 2014 Legion Hegemony
+1450	^a800ff King of the Pisces
+1451	Private custom exclusive special effects title
+1452	^a800ff life puppet thread
+1453	^a800ff Witness of the Battle of the Gods
+1454	Meet the exclusive title
+1455	^ff7800 Pope
+1456	The Pope of the Sanctuary, the sacred and solemn presence, the spokesperson of the goddess Athena.
+1457	became the exclusive title of the Pope after the election
+1458	^a800ff fate summons God of War resurrection
+1459	Golden Autumn Recharge Event Exclusive Title
+1460	^a800ff Saints from the gods
+1461	New service cross-service team leader reward
+1462	^a800ff Saint Seiya from Justice
+1463	^a800ff Saint Seiya from the fairy tale
+1464	^5acbcc pig-like teammate
+1465	Rebirth orgy piece of information special exclusive
+1466	^a800ff All-Star Warriors
+1467	All-Star Event Awards
+1468	^a800ff dominates the king of the All-Star
+1469	All-Star Event Senior Title
+1470	Hero Replica Racing Event Premium Title
+1471	Hero Replica Racing Event Intermediate Title
+1472	^a800ff shrine to dispel the darkness
+1473	Hero Replica Racing Awards
+1474	^a800ff Holy Angel! Goddess
+1475	Official Mission of the Sanctuary, the best contribution to the exclusive reward!
+1476	^a800ff burning flame! The wrath of the gods
+1477	top ranking activity premium title
+1478	^a800ffKilling! Fight against the sky
+1479	Recharge list event exclusive title
+1480	^5acbcc we have never been alone
+1481	Singles event exclusive title
+1482	^a800ff the man closest to God
+1483	top-ranking list event title
+1484	^5acbcc does not give sugar to quail eggs
+1485	Exclusive title for Halloween events
+1486	^a800ff Galaxy Participants
+1487	Galaxy Competition Award
+1488	Galaxy Competition
+1489	^a800ff third place! Galaxy Competition
+1490	^a800ff runner! Galaxy Competition
+1491	^a800ff champion! Galaxy Competition
+1492	^5acbcc guardian! Goddess of Pure Land
+1493	reflux! Sanctuary Achievement Award
+1494	^5acbcc beyond! Eternal glory
+1495	^5acbcc against the sky! Bonfire of firewood
+1496	^0099cc	God Warrior·The End of Holy War
+1497	Killing [Epic] BOSS of all the god warriors in the end of Pluto
+1498	Unbelievable! Actually, I have successfully completed the challenge of all the god warriors!
+1499	^a800ff servant, the end of holy war
+1500	Killing [Epic] BOSS at the end of Pluto
+1501	Unbelievable! Actually, I have successfully completed the challenge of all the challenges!
+1502	^ff6c00 The demigod of the demigod
+1503	Killing [Epic] BOSS at the end of Pluto
+1504	Incredible! Actually, I have completely completed the challenge of all the demigods!
+1505	^ff6c00 sigh of God Hades
+1506	Killing [Epic] BOSS at the end of Pluto
+1507	Unstoppable! Actually, I have really completed all the challenges of the gods!
+1508	^ff6c00 Galaxy Fighter's Sanctioner
+1509	Galaxy Gymnastics Awards
+1510	Give a sweat and sweat feedback in the Galaxy
+1511	^ff0000 I am the only one! God's overlord
+1512	Defeat all opponents and dominate the gods. Kill the exclusive title of the cross-service BOSS
+1513	^ffdf00 starts from the title, valid for 3 days, expires automatically disappears
+1514	Kill the time-limited title that can be obtained by crossing the world BOSS.
+1515	^a800ff Galaxy Gangtai Killing Devil
+1516	^a801ffThe	Milky Way is not dead
+1517	^a802ff Galaxy River's best cannon fodder
+1518	^ff6c00 Sorrowful to a Ghost
+1519	Halloween recharge event custom title
+1520	^ff6c00 Eternal Shining Lucky Star
+1521	exclusive name for the yarn woven guard
+1522	^ff6c00 killing the superpower
+1523	Recharge Ranking Event Award
+1524	^ff6c00 The legend of Nirvana
+1525	^ff6c00 dominates the gods of the Three Realms & brother
+1526	^ff6c00 Ask God to worship me
+1527	Cross-service custom title award
+1528	^ff6c00 If the ice is handsome and old
+1529	^ff6c00 Last week Sanctuary Benefits Voucher
+1530	^ff6c00 Galaxy Taiwan special guest
+1531	^5acbcc5173	Eternal Saint Seiya
+1532	5173 Obtained in the New Year Privilege Card
+1533	^a800ff Baishi reincarnation only you companion
+1534	^ff0000 thousand times back to the two hearts
+1535	^ff00002015
+1536	May the world have a lover to become a genus.
+1537	2014 Double 11 Flower List Popular Stars.
+1538	^ff0000 Romantic Love God
+1539	^ff52bc proud of the frost of the frost
+1540	^9763ee blooms that moment of beauty
+1541	^ff0000 million flowers in the sparkle
+1542	^14b427 is like the warmth of summer flowers
+1543	^ff52bcFetters! Longest love confession
+1544	white Valentine's Day special title
+1545	^ff52bc guardian! Warmest promise
+1546	^a800ff Nirvana returns to the glory ceremony
+1547	Nirvana Glory Celebration Special Title
+1548	^5acbcc	fighters from 5173
+1549	5173 bath fire to fight novice privilege card package title
+1550	^ff0000 Nirvana Rong returned to the blood to fight
+1551	Nirvana celebration special title
+1552	^ff6c00 Nirvana! Not dying gold soul
+1553	special name for top-up activity list
+1554	^ff6c00 balance! Intrepid gold soul
+1555	Galaxy Championship honorary title
+1556	^a800ff balance battlefield murderer
+1557	^a800ff walking in the air and not fighting God of War
+1558	^a800ff	I shed blood for the Legion
+1559	^ff6c00 third place! Golden Soul Warrior
+1560	^ff6c00 runner! Gold Soul
+1561	^ff6c00 champion! King of the Golden Soul
+1562	^ff52bc a quiet beautiful man
+1563	Crusade! World BOSS rare limited number
+1564	^9763ee, you are not tired of being tired for thousands of times.
+1565	^5acbcc	brother takes you to take 13 to fly with you
+1566	^7acbcc when the sun shines into the pure land of bliss
+1567	2nd Anniversary Carnival Memorial
+1568	^5acbcc	God's own self
+1569	^ff0000 crushing the darkness of the eternal life
+1570	top-up list special title
+1571	^5acbcc anniversary! Imprint of the years
+1572	Communication Ambassador Special Award
+1573	^6acbcc anniversary! You and me
+1574	^7acbcc anniversary! Memory of youth
+1575	^ff6c00 Eternal thoughts under the Sharo double tree
+1576	Super VIP history accumulated recharge title
+1577	^ffff00 all abnormal neglect +2\r^N permanent effective
+1578	^ff6c00 If you are well, it will be sunny.
+1579	^ffff00 crit reduction +3%\r all abnormal neglect +3\r^N After obtaining the title, the attribute ^ffff00 is permanently valid
+1580	^ff6c00 What about a battle with God?
+1581	^ff6c00 beyond the dimension of Alaya
+1582	^5acbcc	beautiful
+1583	top-up list special custom title
+1584	^ff6c00 Golden Team League 32
+1585	Golden League honorary title
+1586	^ff6c00 third place in the continental championship
+1587	^ff6c00 Continental Championship Runner-up
+1588	^ff6c00 Mainland Championship
+1589	^5acbcc	priest
+1590	The priest of the sea emperor, the sacred and solemn existence, the spokesperson of the emperor Poseidon.
+1591	^ff6c00 priest
+1592	The priest of Pluto, the sacred and solemn existence, the spokesperson of Hades.
+1593	^ff6c00PGP Shining Star
+1594	Accumulated use of arc client to log in for 30 days exclusive title
+1595	^ff6c00 running, Saint Seiya
+1596	2015 Saint Seiya Cool Run Memorial
+1597	^ffff00 mount movement speed increased by 20%\r^N set to ^ffff00 ability title ^N, the attribute takes effect
+1598	^ff6c00 my glory, you don't understand
+1599	^ff0000 liver and gallbladder
+1600	2015 double eleven brothers title
+1601	^ff6c00
+1602	2015 World Championship Champion Honor
+1603	^ff6c00 thousand gold is difficult to buy, I am willing
+1604	2015 2nd commemorative title
+1605	^ff4ca4 loves the sea
+1606	2015 double eleven flowers first glory title
+1607	^ff4ca4 Don't forget
+1608	2015 Double Eleven Flowers 2-3rd Glory Title
+1609	^ffd700 The Way of Saints! For the sake of no fight
+1610	The way of heaven is good and harmless; the way of saints is not to fight
+1611	Do not fight, so the world can not compete with the king
+1612	^5acbcc2015 Galaxy Overlord
+1613	2015 Galaxy Overlord Competition Participation Title
+1614	^5acbcc 2015 Galaxy Overlord
+1615	2015 Galaxy Overlord Championship
+1616	^ff6c00 Goddess's Money Tree
+1617	Goddess's cash cow exclusive title
+1618	^5acbcc Galaxy Overlord Champion Head
+1619	2015 Galaxy Overlord Championship champion title honorary
+1620	^5acbcc Galaxy Overlord Champion
+1621	2015 Galaxy Overlord Championship winners honorary title
+1622	^0099cc God Warrior · Gold Legend
+1623	Kill [Hero] God Golden Zodiac I in all the god warrior difficulty BOSS
+1624	^a800ff servant · gold legend
+1625	Kill [Hero] God Golden Zodiac I in all the gods difficulty BOSS
+1626	^ff6c00 demigod gold legend
+1627	Kill [Hero] God Golden Zodiac I in all half-difficult BOSS
+1628	^ff6c00弑God·Golden Legend
+1629	Kill [Hero] God Golden Zodiac I in the BOSS
+1630	^ff0000 black hole vulnerability
+1631	Infinite Black Hole Vulnerability Finder
+1632	^ff0000Shun me, Chang, I am dead
+1633	Special title of the top-up list in March 2016
+1634	^ff0000 red fog event
+1635	Commemoration of the Red Mist Event
+1636	^ff0000 Heaven and Earth, I am the only one
+1637	May 2016 recharge list special title
+1638	^5acbcc2016 Galaxy Overlord
+1639	The 2nd Galaxy Overlord in 2016 participated in the title
+1640	^5acbcc2016 Galaxy Overlord
+1641	The title of the 2nd Galaxy Overlord in 2016
+1642	^ff6c00 Sanctuary of the Galaxy Overlord
+1643	The title of the leader of the 2nd Galaxy Overlord in 2016
+1644	^0099cc God Warrior · Gold Legend II
+1645	Kill [Hero] God Golden Zodiac II in all God Warrior difficulty BOSS
+1646	^a800ff God Service · Gold Legend II
+1647	Killing [Hero] God's Golden Zodiac II BOSS
+1648	^ff6c00 Demi god·Gold Legend II
+1649	Killing the [Hero] God Golden Zodiac II in all the half-difficult BOSS
+1650	^ff6c00Demi god·Golden Legend II
+1651	Kill [Hero] God Golden Zodiac II in all the difficulty of the BOSS
+1652	^ff4ca4 Saint Seiya! 30 years of love
+1653	Saint Seiya 30th Anniversary Edition
+1654	^5acbcc2016 Cosmic Hegemony
+1655	2016 [The Battle of the Gods] Cross-service Competition Participation Title
+1656	^ff6c00 annihilation champion
+1657	2016 [The Battle of the Gods]
+1658	^ff0000Lu II Zero One Thank you
+1659	2016 [Player Meetup] Commemorative Title
+1660	^ff0000The throne of the world
+1661	August 2016 special list of top-up list
+1662	^a800ff unparalleled in the world
+1663	My title is my master
+1664	2016 Players Meet Private Customized Exclusive Title
+1665	^a800ff stranger like jade
+1666	^a800ff I am a legendary demon
+1667	^a800ff I am a legend
+1668	^a800ff idle cloud crane
+1669	^a800ff slaughter all beings
+1670	^a800ff Burning Eternal Fighter
+1671	^a800ffII Zero One One qi qi not leave
+1672	November 2016 meeting title
+1673	^ffff00 main attribute attack +500\r^N set to ^ffff00 ability title ^N, the attribute takes effect
+1674	^ff6c00 I won't take you to beat me.
+1675	January 2017 recharge redemption title
+1676	^a800ff dominates! The will of the gods
+1677	January 2017 premium list special title
+1678	^a800ff daylight warm summer is also cool ^
+1679	^a800ff Moonlight slightly cool winter is also warm ^
+1680	^a800ff sister! Brother wants to fly you
+1681	^ff0000Heavenly Devil Stars
+1682	March 2017 special list of top-up list
+1683	^a800ffTwo zero gold glory
+1684	April 2017 meeting number
+1685	^a800ff eternal master of life and death
+1686	May 2017 top-up list title
+1687	^a800ff wearing a single sheet as king
+1688	April 2017 meeting personal custom exclusive title
+1689	^a800ff holding a leather whip to make a queen
+1690	^a800ff Absolute zero degree! Handsome
+1691	^a800ff light speed of meteor! Nangong
+1692	^a800ff read and exist for guardianship
+1693	^a800ff Eternal Godland, my name is sincere
+1694	^a800ff
+1695	^a800ff finally! Dusk of the gods
+1696	^a800ff	full drink, Emperor Huangzhong
+1697	In April 2017, the player will meet the exclusive name of the wine group.
+1698	^ff0000 Learn to be a man, learn to eat bread
+1699	The first exclusive custom title in the 2017 2017 recharge list
+1700	^ff0000 society big brothers don't talk much
+1701	August 2017 top-up list title
+1702	^9763ee female mysterious relationship
+1703	September 2017 meeting meeting title
+1704	^ff0000 Master of things
+1705	^ffff00 all abnormally ignored +10\r all abnormal resistance +10\r^N after obtaining the title, the attribute ^ffff00 is permanently valid
+1706	^ff0000 staring ~ Luo ~ guardian
+1707	The first exclusive custom title in the 2017 2017 top-up list
+1708	^ff0000 one flower and one world
+1709	September 2017 meeting private custom exclusive title
+1710	^ff0000 Unclear truth, eat melons
+1711	^0099cc Soldier of the Destiny Goddess
+1712	Media Gift Pack Exclusive Title
+1713	^0099cc The Messenger of the Goddess of Light
+1714	^0099cc warrior in Nordic mythology
+1715	^0099cc Legendary Warriors in the Sanctuary
+1716	^0099cc Poseidon's Sanctuary Messenger
+1717	^0099cc Hades Warriors
+1718	^0099cc goddess cares for the darling
+1719	^ffffff aging
+1720	^ffffff Legend
+1721	^ffffff main line
+1722	^ffffff branch line
+1723	^ffffff Adventure
+1724	^ffffffExploration
+1725	^ffffff reputation
+1726	^ffffff society
+1727	^ffffff epic
+1728	^ffffff Legion
+1729	^ffffffPVP
+1730	^ffffff activities
+1731	^ffffff Festival
+1732	^ffffff Forum
+1733	^ffffff king
+1734	I·Saints of Love and Justice
+1735	Bonus: ^ffff00 HP +300 / Evasion +15
+1736	Collected the following titles and received rewards at the Sanctuary Giga
+1737	II·The Saint Seiya of Peace
+1738	III. Saints who passed on fate
+1739	IV·St. Saints
+1740	V·The Holy Tribute of the Test of God
+1741	VI·The Holy Spirit of King Power
+1742	VII·Fantasy Legend of Saint Seiya
+1743	VIII·Athene's Saints
+1744	IX·The legendary Saint Seiya
+1745	
+1746	Obtained in the premium extra package
+1747	Obtained in the Supreme Novice Gift Pack
+1748	Obtained in the 17173 Growth Package
+1749	Obtained in the media crash package
+1750	Obtained in the shining package
+1751	Get more in the luxury shine package
+1752	Obtained in the Netease Extreme Gift Pack

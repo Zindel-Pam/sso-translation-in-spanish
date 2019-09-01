@@ -1,0 +1,1121 @@
+0	Load - %s
+1	Array - %s
+2	Article in use
+3	Summon Pet
+4	Recover Pet
+5	Fit Pet
+6	Remove Pet Adjust
+7	** You **
+8	^d8d7a1Entering the game, please wait ...
+9	^d8d7a1Connecting... %d sec / %d sec
+10	Attributed to
+11	Damage effect, increase of damage to %0.1f %%
+12	Defense effect, damage reduction to %0.1f %%
+13	Confirm that you want to open %s of time?
+14	Suspension for %s minutes
+15	EXP in double
+16	EXP 3.5x
+17	%s activated
+18	%s off
+19	EXP bonus activated
+20	EXP bonus deactivated
+21	Time remaining:
+22	^ff0000Time exceeded
+23	No time for %s available
+24	Today the first %d times to buy are worth twice the EXP, requires %d Ingot (discount of %d of ingot %.1f)
+25	Consume again the minimum, %s of the time of the double of EXP to be able to buy
+26	Open %s
+27	Close %s
+28	Your available %s time has increased by %d minutes
+29	You have entered the high EXP map, we suggest that you select the option below to activate the EXP multiplier
+30	Leave the high EXP area, we suggest you turn off the EXP multiplier
+31	Press %s to cancel. This text will not be saved.
+32	Latency: ^00ff00 %dms ^N
+33	Latency: ^FFFF00 %dms ^N
+34	Latency: ^ff0000 %dms ^N
+35	Confirm
+36	Cancel
+37	Reject
+38	Yes
+39	No
+40	Reply
+41	Ignore
+42	Concorde
+43	Enter the name of the tag
+44	^ffe185Do you wish to return to the selection of characters?
+45	Insert the value
+46	Enter your new password twice, please.
+47	Password of 3 to 8 characters.
+48	Receiving the double requires twice the reputation consumption of the system, do you wish to receive?
+49	Do not ask again
+50	System: Being under 18 years old, you will receive warnings in the game with respect to the right time to be online.
+51	Online time: %s \rHealthy game time, \rFollow ahead and have a good game!
+52	Online time: %s \rYou're playing for a long time, \rStop and drink water :)!
+53	Healthy Suggestion: You accumulated 1 hour of continuous play.
+54	Healthy Suggestion: You accumulated 2 hours of continuous play.
+55	Healthy Suggestion: Time of continuous play very high, we will make a small pause.
+56	Healthy Suggestion: Time of continuous play very high, we will make a small pause.
+57	Cooling system of healthy advice, return later.
+58	The time can not be less than 0 minutes.
+59	Temporary blocking can not exceed the 2-hour limit.
+60	The defined time is equal to the time applied atually.
+61	The temporary block was defined in %s, that modification will take effect after the next login.
+62	Make extended the duration of temporary blocking, in this way, you can only continue with the operations in the list after %s every time you are online. Are you sure you want to continue with the change?
+63	Reduced the duration of temporary blocking, in this way, you can only continue with the operations in the list after %s each time you are online. This change will take effect after 3 days, are you sure you want to continue with the change?
+64	Cancellation of temporary blocking will take effect after 3 days, Confirm cancellation?
+65	The temporary block was defined as %s, the temporary block will take effect after %s.
+66	Cancellation of the temporary block was successful, cancellation will take effect after %s.
+67	The temporary lock is still active. Please try again when the time expires.
+68	Expired
+69	Temporary lock still active.
+70	Unlock password made
+71	Password cleaning performed
+72	Definition of password made
+73	Altered password
+74	Forced password lock removal was performed, the password will be canceled after %s.
+75	Forced password removal canceled
+76	Forced password removal successful
+77	Do you want to perform forced password lock removal?
+78	Do you want to cancel the forced removal of the lock password?
+79	Insert password lock
+80	Insert the lock password
+81	Current password
+82	New password
+83	Reinsert
+84	Config. lock key
+85	Enter article lock code
+86	Blocking code of the old article
+87	Code for blocking the new item
+88	Configure item lock code
+89	Please enter the item lock code
+90	Do you want to restore the lock of protected items? \r To unlock once again after you have locked, you need to wait 7 days.
+91	Confirm forced removal of article blocking?
+92	Item lock is not yet activated
+93	When the character reaches level %d, the Squire function will be enabled
+94	When the character reaches level %d, the Cosmo function will be enabled
+95	Squire
+96	Cosmo
+97	Combats: %d
+98	Base
+99	Critical attack
+100	Damage reduction
+101	Element
+102	Resistance
+103	Damage Bonuses
+104	Effects
+105	Effect Ignore
+106	Others
+107	Character information
+108	Attributes:
+109	HP:
+110	Attack:
+111	Defense:
+112	Accuracy:
+113	Evasion:
+114	CritChance:
+115	CritNull:
+116	CritBonus:
+117	CritShield:
+118	Earth Damage:
+119	Water Damage:
+120	Fire Damage:
+121	Air Damage:
+122	Thunder Damage:
+123	Light Damage:
+124	Earth RES ign:
+125	Water RES ign:
+126	Fire RES ign:
+127	Air RES ign:
+128	Thunder RES ign:
+129	Light RES ign:
+130	Earth RES:
+131	Water RES:
+132	Fire RES:
+133	Wind RES:
+134	Thunder RES:
+135	Light RES:
+136	Lucky Hit:
+137	Block:
+138	Penetration:
+139	Damage Bonus:
+140	Damage Reduct.:
+141	PVP damage bonus:
+142	PVP damage red.:
+143	Physi. damage red:
+144	Spirt. damage red:
+145	Shielding
+146	Control RES:
+147	Silence RES:
+148	Bleed RES:
+149	Daze RES:
+150	Weaken RES:
+151	Control RES ign:
+152	Silence RES ign:
+153	Bleed RES ign:
+154	Daze RES ign:
+155	Weaken RES ign:
+156	Meditation LVL
+157	EXP
+158	Astro EXP
+159	EXP Reserve
+160	Astro EXP Reserve
+161	Whenever the player receives damage, the equivalent will be reduced from his HP amount, when HP's amount reaches 0, he will lose the ability to fight.
+162	More attack means more damage
+163	The greater the defense, the less damage from the common attacks received
+164	The higher the accuracy, the less chance the enemy will have to dodge. Only 5% damage is applied when the enemy dodges.
+165	The greater the evasion, the greater the chances of dodging attacks.
+166	Probability of a critical attack occurring, the initial critical attack is 1.5 times the damage
+167	Increases Earth damage. Can be reduced by resistance to this element.
+168	Increases Water damage. Can be reduced by resistance to this element.Increases Earth damage. Can be reduced by resistance to this element.
+169	Increases Fire damage. Can be reduced by resistance to this element.
+170	Increases Air damage. Can be reduced by resistance to this element.
+171	Increases Thunder damage. Can be reduced by resistance to this element.
+172	Increases Light damage. Can be reduced by resistance to this element.
+173	Earth Resistance reduction. Ignores part of target resistance.
+174	Water Resistance reduction. Ignores part of target resistance.
+175	Fire Resistance reduction. Ignores part of target resistance.
+176	Air Resistance reduction. Ignores part of target resistance.
+177	Thunder Resistance reduction. Ignores part of target resistance.
+178	Light Resistance reduction. Ignores part of target resistance.
+179	Reduce the damage caused by the Earth Element
+180	Reduce the damage caused by the Fire Element
+181	Reduce the damage caused by the Water Element
+182	Reduce the damage caused by the Air Element
+183	Reduce the damage caused by the Thunder Element
+184	Reduce the damage caused by the Light Element
+185	The probability of Lucky Strike. Lucky Strike can cause maximum damage.
+186	Reduce chance to receive critical hits.
+187	Increases Critical Hit damage
+188	Reduce Critical Hit damage when attacked
+189	Block reduces portion of incoming damage
+190	Penetration decreases efficiency of target Block
+191	Damage bonus
+192	Increasing the resistance to damage will decrease the damage caused
+193	Increasing the PVP damage rate will increase the real PVP damage
+194	Increasing the resistance to PVP damage will decrease the PVP damage caused.
+195	Reduce physical element skill damage received
+196	Reduce spiritual element skill damage received
+197	Increase the ability of the Unbreakable Determination
+198	Resistance to body control effects (repel or pull)
+199	Resistance to silence effects (motion control and confusion)
+200	Resistance to bleeding type effects (bleed, burn)
+201	Resistance to daze type effects (fall, freeze and petrification)
+202	Resistance to weaken type effects (curses)
+203	Ignore portion of target Control RES
+204	Ignore portion of target Silence RES
+205	Ignore portion of target Bleed RES
+206	Ignore portion of target Daze RES
+207	Ignore portion of target Weaken RES
+208	Do not exhibit Wings
+209	Wings [Costume]
+210	Wings [Power]
+211	Wings [Armor]
+212	HP \t %d / %d
+213	Physics \t %d / %d
+214	Grudge \t %d / %d
+215	Rabies \t %d / %d
+216	Energy 1 \t %d / %d
+217	Energy 2 \t %d / %d
+218	EXP \t %.2f
+219	Accuracy \t %d
+220	Evasion \t %d
+221	Success rate of luck \t %.2f
+222	Direct Attack amount \t %.2f
+223	Minimum Power \t %d
+224	Power Maximum \t %d
+225	Defense \t %d
+226	Damage Frequency \t %.2f
+227	Damage Resistance \t %.2f
+228	Resistance to physical damage \t %.2f
+229	Resistance to spiritual damage \t %.2f
+230	CritChance \t %.2f
+231	Critical attack additional damage \t %d
+232	Resist amount to critical \t %.2f
+233	CritShield \t %d
+234	Fixed rate of cure effect received? T %d
+235	Land ownership attack \t %d
+236	Water element attack \t %d
+237	Fire element attack \t %d
+238	Wind element attack \t %d
+239	Thunder element attack \t %d
+240	Resistance to land ownership \t %.2f
+241	Resistance to element of Water \t %.2f
+242	Resistance to the element of Fire \t %.2f
+243	Wind element Resistance \t %.2f
+244	Thunder element Resistance \t %.2f
+245	Reduction of resistance to element of Earth \t %.2f
+246	Water element resistance reduction \t %.2f
+247	Reduced Resistance to Fire element \t %.2f
+248	Penet. against resist. Wind \t %.2f
+249	Thunder element resistance reduction \t %.2f
+250	Earth element damage frequency \t %.2f
+251	Frequency of element damage of Water \t %.2f
+252	Fire element damage frequency \t %.2f
+253	Wind element damage frequency \t %.2f
+254	Thunder element Damage Frequency \t %.2f
+255	Walking Speed ​​\t %.2f
+256	Running Speed ​​\t %.2f
+257	Swim Speed ​​\t %.2f
+258	Riding Speed ​​\t %.2f
+259	Flight Speed ​​\t %.2f
+260	Jump Height \t %.2f
+261	Recovery rate of the HP amount \t %d
+262	Recovery rate of the Energy amount \t %d
+263	Recovery speed of the Spite amount \t %d
+264	Rate of recovery of the Rabies amount \t %d
+265	Recovery rate 1 of the Energy amount \t %d
+266	Recovery rate 2 of the Energy amount \t %d
+267	Rate of recovery of the HP amount in wrestling status \t %d
+268	Speed ​​of recovery of Stamina amount in fight status \t %d
+269	​​Recovery speed of the Spite amount in wrestling status \t %d
+270	Recovery speed of the Rabies amount in fighting status \t %d
+271	Recovery rate 1 of the Energy amount in wrestling status \t %d
+272	Recovery rate 2 of the Energy amount in wrestling status \t %d
+273	Control Resistance \t %.2f
+274	Resistance to Prejudice \t %.2f
+275	Resistance to Bleeding \t %.2f
+276	Resistance at the last breath \t %.2f
+277	Resistance to Burn \t %.2f
+278	Fall Resistance \t %.2f
+279	Freeze Resistance \t %.2f
+280	Resistance to Petrification \t %.2f
+281	Resistance to Speed ​​Reduction \t %.2f
+282	Weakness Resistance \t %.2f
+283	Ignore resistance to control \t %.2f
+284	Ignore resistance to prejudice \t %.2f
+285	Ignore resistance to bleeding \t %.2f
+286	Ignore resistance to the last breath \t %.2f
+287	Ignore burn resistance \t %.2f
+288	Ignore drop resistance \t %.2f
+289	Ignore Freeze Resistance \t %.2f
+290	Ignore resistance to petrification \t %.2f
+291	Ignore resistance to speed reduction \t %.2f
+292	Ignore resistance to weakening \t %.2f
+293	Increase in percentage of EXP obtained \t %d
+294	Precision \t %.2f
+295	Protection \t %.2f
+296	Protection Armor \t %.2f
+297	Armor of Destruction \t %.2f
+298	Cure Capacity \t %d
+299	PVP Damage Rate \t %.2f
+300	Resistance to damage PVP \t %.2f
+301	You have not got any title yet
+302	Temporarily without title
+303	You got a new title of " %s"
+304	★
+305	☆
+306	Mail
+307	Warehouse
+308	Army Warehouse
+309	Auction House
+310	Article Dismantling
+311	Refine Gear
+312	Transfer
+313	Create Army
+314	Application to join the army
+315	Application for army base
+316	Join the army base
+317	Join other military bases
+318	Leave army base
+319	Atlas Teleportation
+320	Runes
+321	Double EXP on / off
+322	Declaration of War of the Army
+323	Army fight for freedom (name of the character who has declared war)
+324	Army fight for freedom (name of the army that has declared war)
+325	Change Sign
+326	Message from the Disseminator
+327	Golden Message from the Disseminator
+328	Equipment to strengthen fusion
+329	Treasure hunt
+330	Leave instance zone
+331	Receive for the indication contribution of the army
+332	Gift Card
+333	[Challenge] Star Epic
+334	Bathroom of Glory
+335	Pet Procreation
+336	Receive a procreated baby
+337	See you later.
+338	Create army alliance
+339	Army Alliance List
+340	Element Transfer
+341	Change amount of Astro EXP
+342	Enter the competition arena
+343	Discover adversary of the current field
+344	Consult facts of war
+345	W.O. Award
+346	Spectator Admission
+347	Help
+348	Battlefield events
+349	^004a2fQuest accessible:
+350	^004a2fComplete Quest:
+351	Athena authentication
+352	Create 12 Houses
+353	Sorry, you are not yet a VIP user, recharge 1 dollar to enjoy the warehouse service that you brought with you.
+354	LeVel %d
+355	(Inactive)
+356	(Active)
+357	You can continue to receive Lucky Coins for free, try for more information
+358	The Lucky Coins given away by the system have already finished
+359	Currently, you do not have Luck Coins that you can receive
+360	%dpts for the next LVVIP
+361	%g Ingot
+362	%d Ingot
+363	You have earned %d points number of VIP points
+364	You have lost %d points number of VIP points
+365	Number of VIP points (luck amount) has been reset for %d
+366	VIP level raised to %d level!
+367	The expiration period of the mainstream V has been prolonged for the year / month / day / hour because it is VIP level
+368	Mainstream qualifications have expired
+369	Renewal completed successfully, the expiration period of mainstream V is year / month / day / hour
+370	Obtained %d Lucky Coins
+371	You spent %d Lucky Coins
+372	Voice messages can only be sent and received when the VIP reaches level 6 or higher.
+373	Number of recharge points for the current month: %d
+374	%dpts for the next LV Monthly VIP
+375	Not received
+376	Received
+377	Monthly VIP next month: LV %d
+378	Obtain the Monthly VIP, to receive benefits every month.
+379	Remaining: %d
+380	VIP Level: %d
+381	Benefit of the 1st week
+382	Benefit of the 2nd week
+383	Benefit of the 3rd week
+384	Benefit of the 4th week
+385	Monthly benefit
+386	Daily Change
+387	Weekly Change
+388	The article that will be modified by recording %s is missing, it can not be modified.
+389	( %d characters remaining)
+390	You can not leave any more words anymore.
+391	You entered a block of information
+392	Free
+393	Record priority level was not selected.
+394	Recording level is greater than this classification, it is not possible to select.
+395	Modifying content saved successfully
+396	Time remaining: %d
+397	%d ^fffd44 + %d (event reward) ^N
+398	Advances in the Instance Zone
+399	PK Points: %d
+400	%d points
+401	Points PK is 0, no need to clean
+402	Gold insufficient, it is not necessary to clean.
+403	Do you want to clean the PK points?
+404	Do you want to change the sign?
+405	Cash insufficient, the sign can not be changed.
+406	Character with level equal to or lower than 59 can not change sign.
+407	Currently, the sign can not be changed.
+408	All
+409	Bronze
+410	Silver
+411	Gold
+412	Null
+413	Equip.
+414	Insufficient celestial spirits level, it is not possible to equip
+415	Anima: %s
+416	Redefining Anima's expertise
+417	Every week you can redefine the skill points of Anima once for free.
+418	Redefining the number of skill points requires a consumption of %s %s %d units
+419	Number of items insufficient, it is not possible to redefine the number of skill points
+420	Redefinition of skill points made successfully
+421	Error redefining skill points
+422	EXP: %d
+423	Error in the position of the jewels requested
+424	You reached the maximum level
+425	Parameter Error
+426	Error in the required item
+427	Parameter error for quantity of items required
+428	Quantity of items required insufficient
+429	Error in the required auxiliary item
+430	Quantity of required auxiliary items insufficient
+431	Strengthening the Celestial Spirits successfully done
+432	Free today: %d
+433	Searches possible today %d / %d
+434	Insufficient articles, it is not possible to search.
+435	Inventory filled
+436	Search successful.
+437	You do not have combination attributes.
+438	Anima
+439	Time remaining: %dsec
+440	Invalid request
+441	Negotiate
+442	Application to join the group
+443	Interactive application
+444	Invitation to mount multiplayer
+445	Bereavement request
+446	System Information
+447	Message of Friends
+448	Army Battle Request
+449	Army Request
+450	Request to join the team
+451	Request to form a group
+452	Force entry into the instance?
+453	Application to enter the Instance
+454	Friendship Application
+455	Request to Explore
+456	Invite to enter the battlefield
+457	Share Quest
+458	Application to join the group
+459	Application for Group
+460	Order for Reunion
+461	Enter the row
+462	Enter the Qualifiers
+463	Guardianship Invitation
+464	Athena authentication invitation
+465	Will be voted to be expelled from the troop
+466	Army Alliance Request
+467	Army Award
+468	Will be voted to be expelled from the battlefield
+469	Show all
+470	[Qst] General
+471	[Qst] Repetition
+472	Teleportation
+473	Essential point
+474	Services
+475	Tutorial
+476	Do you confirm the cancellation of all destinations on the persecution list?
+477	Confirm the cancellation of this destination from the persecution list?
+478	Can not add other chase destinations, please cancel some and try again
+479	Format of the incorrectly entered coordinate, please enter again.
+480	Destination saved successfully.
+481	,
+482	 
+483	^f2ebcf ^O053Location: %s
+484	%s \r Teleport Cost: %s
+485	^00ff00Teletransport up here and continue the routing
+486	Insufficient teleportation cost
+487	^c0c0c0 %s \rThis teleportation point has not been activated yet
+488	Map of the World
+489	[ %s ( %d, %d)]
+490	Please enter the map number
+491	Please indicate the X coordinate
+492	Please indicate the Z coordinate
+493	Item Mall
+494	Inventory
+495	Character
+496	Skill
+497	Quest
+498	Other
+499	Social
+500	System
+501	Player Ranking:
+502	^80FF00new
+503	^80FF00 ↑
+504	^FFFF00 ↓
+505	Individual
+506	Group
+507	World
+508	Army
+509	Frien
+510	Glory in battle: %d
+511	%power
+512	Power:
+513	Power
+514	Total power
+515	Power: %d
+516	Armor:
+517	Bronze Armor
+518	Silver Armor
+519	Golden Armor
+520	Divine Armor
+521	Sign
+522	Armor
+523	Equipment
+524	Accessory
+525	Collection
+526	Constellations
+527	Level:
+528	Expertise:
+529	Expertise:
+530	Esoteric:
+531	Advanced:
+532	Kingdom:
+533	Solar:
+534	Lunar:
+535	Omega:
+536	Bronze:
+537	Silver:
+538	Golden:
+539	Divine:
+540	Surplices:
+541	Scales:
+542	Level:
+543	Perfect:
+544	Rune:
+545	Element:
+546	Perfec. Divine:
+547	Practice:
+548	Clan:
+549	Equipment:
+550	Album:
+551	Title:
+552	Achievements:
+553	Astromancy:
+554	Relic:
+555	Spirit of Arm .:
+556	Anima:
+557	Zodiac:
+558	Divinity:
+559	Mosaics:
+560	Increasing the level of the character can raise the Power of Struggle
+561	Learning and honing fighting skills can improve the Consciousness amount
+562	It is not open yet
+563	Practicing army skills can raise the Power of Struggle
+564	Increasing the limit of the Cosmo can raise the Power of Struggle
+565	Due to the life points of the Solar Star and the Solar Star Soul, improving the quality and level of the Solar Star Soul can raise the Power of Struggle
+566	Due to the life points of the Lunar Star and the Lunar Star Soul, improving the quality and level of the Lunar Star Soul can raise the Power of Struggle
+567	Due to the points of life of the SP Star and the Star Soul of the Main Sequence, improving the quality and level of the SP Star Soul can raise the Power of Struggle
+568	Refining Bronze Armor, dressed and in pose can raise the Power of Struggle
+569	Refining Armor, dressed and in pose can raise the Power of Struggle
+570	Refine Silver Armor, dressed and in pose can raise the Power of Struggle
+571	Refining Golden Armor, dressed and in pose can raise the Power of Struggle
+572	Refining Divine Armor, dressed and in pose can raise the Power of Struggle
+573	Refining Sapuris, dressed and in pose can raise the Power of Struggle
+574	Refine Scale, dressed and in pose can raise the Power of Struggle
+575	Improving the level of a dressed outfit can raise the Power of Struggle
+576	Using the clothing equipment to continue the improvement can raise the Power of Struggle
+577	Using the clothed equipment to proceed in Rune's spiking can raise the Power of Struggle
+578	By using the full Spiritual Engraving Kit, you can increase the Power of Struggle
+579	Divine Test Equipment Can Increase the Power of Struggle
+580	Increasing the level of dressed treasures (Spiritual Stone, Ring, Emblems, Beads, Girdle) can raise the Power of Struggle
+581	Improving clothing equipment can raise the Power of Struggle
+582	Clave rune in treasure dress can raise the Power of Struggle
+583	Improving the qualification of the main Fighting Squire and the degree of intimacy can increase the Power of Struggle
+584	Improving the qualification of the auxiliary wrestling squire on the squire's team can raise the power of wrestling
+585	Equipping the Squire with fighting equipment can raise the Power of Struggle
+586	Completing the collection related to illustrations can raise the Power of Struggle
+587	Collecting title with attribute bonus can raise the Power of Struggle.
+588	Reaching Achievements of element Bonus Can Raise the Power of Struggle
+589	Advancing to Stargazing and uniting the Constellation can raise the Fighting Power
+590	Collecting divine artifacts and improving the level of limit of these artifacts through perfusion can raise the Power of Struggle
+591	Improving the level of the Spiritual Armor and the Spiritual Jewel can raise the Power of Struggle
+592	Awakening and further strengthening the Heavenly Spirits can raise the Power of Struggle
+593	Improving the level of the Golden Will and strengthening the Celestial Spirits can raise the Power of Struggle
+594	Activating divinity can increase the Power of Struggle
+595	O Espelho Quebrado can increase its POWER
+596	Currently there is no size amount of Astro EXP
+597	The maximum that can be changed at one time is %I64d of the Astro EXP amount
+598	Confirm the change of the Astro EXP amount?
+599	EXP obtained:
+600	Astro EXP obtained:
+601	remaining EXP:
+602	Astro EXP remaining:
+603	EXP:
+604	Astro EXP:
+605	EXP Reserve:
+606	Astro EXP Reserve:
+607	EXP:
+608	Astro EXP:
+609	Receive EXP:
+610	Receive Astro EXP:
+611	EXP:
+612	Astro EXP:
+613	Current Concentrated Practice Level: %d \rImproved Properties: \r %s
+614	Next level of Concentrated Practice: %d \r Improved properties: \r %s
+615	& %s &: %s
+616	& %s & told you: %s
+617	& %s &: %s
+618	You said & %s &: %s
+619	I a & %s &: %s
+620	You have sent your voicemail very quickly, to send it twice, you need an interval of 2 seconds.
+621	Please, do not speak very fast when you repeat your voice message, to resend twice a 3 second interval is necessary.
+622	Error sending the voice message, you need the support of the "World Channel Megaphone" to allow all people to hear your voice.
+623	Error when sending the voice message, you need the support of the "Megaphone of the Transmission Channel" to allow all the people to hear your voice.
+624	Error in the transmission, you need the support of the Divine Order of Hermes "to allow all the people to hear your voice.
+625	The message of the channel will consume Megaphone of the Multi-Server Channel
+626	The message of the channel will consume "Megaphone of the World Channel"
+627	Channel message will consume %d Cash
+628	Channel message consumes "World Channel Megaphone" or Cash tips
+629	You can only send one article symbol to the dialog bar at a time
+630	The time interval to return to access customer service since the last time can not be less than 3 minutes, please wait a moment and try again.
+631	Your question was sent, please wait for it to be processed.
+632	It is not possible to send, empty secret word.
+633	General
+634	Group
+635	MP
+636	Coleg
+637	That coordinate is not in this current scenario.
+638	Event
+639	Group
+640	Battle
+641	Transmission
+642	Ms
+643	Currently, you do not organize teams
+644	Currently, you are not part of any troop
+645	Currently, you are not part of any circle
+646	Currently, you have no friends
+647	Currently, you do not participate in battlefields or qualifying events
+648	Currently, you did not join any organization to protect the 12 Houses
+649	Currently, you did not join any army alliance.
+650	There was a change in inventory items, causing an error in the link. Please, try again.
+651	[General]
+652	[World]
+653	[Group]
+654	[Army]
+655	[MP]
+656	[Damage]
+657	[Battle]
+658	[Commerce]
+659	[System]
+660	[Other]
+661	[Family]
+662	[Colleagues]
+663	[Advertisement]
+664	[Multi-server]
+665	[Friends]
+666	[Faction]
+667	[Guardian]
+668	[Registration]
+669	[Event]
+670	[Alliance]
+671	(Automatic Response)
+672	Do you want to open a conversation window outside the game window?
+673	You have sent too many voice messages, please wait %d seconds
+674	%s
+675	Facci.
+676	Guard
+677	Alian.
+678	Invalid command: Command with too many characters
+679	Too many events chosen
+680	Shipping list:
+681	Acceptance list
+682	Please click on the event button to the left of the chat insertion bar and choose the event
+683	Quick insertion: # %d #
+684	Teammate %s collected %s units %s
+685	Your ROLL is too fast, to make ROLL twice an interval of 1 second is necessary
+686	The current channel can not make ROLL
+687	Configuration
+688	Will it be restored to the status of the last time it was saved? Do you want to undo?
+689	This will erase the Combo data, do you want to clean?
+690	The type does not match, it can not be used in the Combo.
+691	Do you want to save the changes made when leaving?
+692	Saved successfully.
+693	Currently Macro's ability is being released, it is not possible to save!
+694	The current icon can be dragged to the skill slot at the top, then the skill of that slot will be released in cycles
+695	From this cycle
+696	The skill icon can be dragged to the current skill slot to edit the Macro skill
+697	Window Mode
+698	Full Screen
+699	ON
+700	OFF
+701	Custom
+702	In the non-standard size custom window, you can not switch to full screen mode.
+703	In window mode, you can not choose a higher resolution than the current screen.
+704	Enter a name for the channel:
+705	Small
+706	Medium
+707	Large
+708	Lower
+709	Low
+710	High
+711	Superior
+712	10
+713	20
+714	40
+715	80
+716	OFF
+717	Simple
+718	Medium
+719	Maximum
+720	OFF
+721	I
+722	All
+723	Day Programming
+724	In the row
+725	Activity: %d
+726	Click here to find details of your teammates,
+727	You are on the team, you can continue to recruit other teammates
+728	You can click on the button on the left to find teammates
+729	Search the troop, open the team's training platform to look for details
+730	Now you can not use the team's training platform
+731	The level of difficulty of that challenge is lower, the help of other people is not necessary
+732	(Individual)
+733	Join the group
+734	Unavailable row
+735	In the row
+736	Can not form a row
+737	You are not the captain
+738	You're not the boss
+739	( %d people)
+740	( %d- %d people)
+741	%s- %s
+742	(In progress)
+743	Enter
+744	Confirming local
+745	Battle in progress ...
+746	When you are on the battlefield, it is temporarily impossible to use the row function
+747	Activity: %s
+748	Level 15 and higher obtained today %s activity level points can be opened.
+749	h
+750	min
+751	s
+752	Will start in %s
+753	will close in %s
+754	Dead
+755	Power: %s
+756	^e12500 %d days incomplete, the settlement of EXP increased to %d % %^N
+757	^e12500more than 2 days incomplete, EXP settlement increased to %d % %^N
+758	^e12500 EXP Compensation: %d incomplete days, EXP settlement increased to %d % %^N
+759	^e12500 EXP compensation: more than 2 days incomplete, EXP settlement increased to %d % %^N
+760	Today you participated in the %s events and you can get the %d % %award
+761	This prize can only be received tomorrow.
+762	Continue to strive and increase your level!
+763	Recommended activities:
+764	Complete the objectives and receive ^00ff00EXP and Gem ^ffffff.
+765	You can enter the auto-hunting events:
+766	${npc(33799, "Click here to search")}
+767	${jump (63, "Click here")}
+768	You can get a lot of EXP and Cash
+769	You can get a lot of Astro EXP and Cash
+770	%d %s · %s
+771	All the problems found today can have their resolutions reached in the EXP of the past. We must put aside the timid attitude, then, a positive change can occur.
+772	Today you can be busy with some banal issues and it can also be a difficult time to start, but believe that with effort you will achieve good results, you will strive.
+773	Today it is difficult to rest enough, anyway, health comes first. Do not let the accumulated pressure of day-to-day influence your health!
+774	If you are able to act according to the original plans, it may bring unexpected benefits. There are more and more parts of temporary changes, the need to solve new problems will also increase.
+775	If even you do not convince yourself of your own things, then do not expect to use them to convince anyone. If you can adjust your communication with yourself, you may get even better resolutions for day-to-day interpersonal problems.
+776	Today you may think a lot about the issues of your work, maybe even make extra time. Being busy is very tiring, but not because you are busy from head to toe that you should neglect your family.
+777	Making a phone call is a good way to attract luck, try to call an old friend of yours, whom you have not contacted for a long time because you have been too busy, during your conversation, you can receive new inspirations.
+778	Neglect is something you have to be alert to, only if you make a good enough preparation, leaving enough time, is that you can avoid the unnecessary loss of things.
+779	It's time to sort the room, take a look at those items that are on the platform and that were never used. A lot of good memories may have been forgotten by you.
+780	If you are free, have a coffee with a friend, talk about the things that are currently popular. Besides the feeling of being able to get in touch with someone, this may be of some help to you.
+781	No matter what the type, all advice has two sides. Put aside the excess of emotions, carefully analyze your own mistakes; These are exactly the cause that puts you in your current situation.
+782	A passive attitude today can help you escape a series of obstacles, sometimes going down to your tone of voice is a good thing. Definitely, it is not a doctrine of not striving for anything, but of seizing an opportunity and completing it.
+783	Now, if you have the opportunity to send a message, it is likely that you will gain the confidence of that person. You must express your point of view even more strongly, and speak frankly about your feelings.
+784	If you have conditions, go to the kitchen and prepare that meal. A good meal can make people shine with a new vitality and get positive emotions.
+785	Today you need a quiet rest, you can play or eat with enthusiasm with your friends. In other words, recovering physical and mental well-being is today's topic.
+786	It's time to plan the next trip, do not wait for other people to travel to see options. Save money for the trip and try to choose day-to-day routes.
+787	Get information about the latest movie, about the latest game released, allow your own attitude to become young. Do not think that your day to day is boring and without grace.
+788	This is a day to relax, everything that worried you before, may be coming to an end or a new change will occur in that quiet life. In short, the whole person will also be more relaxed.
+789	Today, you tend to absorb excessively certain things, forget work and daily rest. In particular, be careful not to stay up all night, and do not let the advice your family gives you go in and out in one ear.
+790	Do current things with your feet on the ground, think about the long distance that there is still from your original goal. From time to time, look at the starry sky and remember a little of the beauty that is worth remembering.
+791	Today, efficiency at work is difficult to develop, there are many things that swim against the current. Perhaps only by duplicating the efforts is it possible to maintain the circumstances so as not to retreat, Strength!
+792	If you want to strive and try to achieve progress for everyone, do not be afraid to roll up your sleeves and start doing the work, even without experience. You can only enter a financial abundance with determination!
+793	Take care of your wallet, the money won with blood and sweat is not for you to waste it and then, to be left with nothing. Despite having a small income, it is not enough for emergencies.
+794	Make a savings plan, do not worry about not having money when you need it. So saving on a day-to-day basis, you do not need to act with disturbance or despair.
+795	It may be that something you want so much goes unnoticed by you; Think carefully. Are you neglecting important connections? Keep in mind, sooner than ever!
+796	Do not say words that should not be said for a moment of enthusiasm, the impulse is terrible, that's true. Also, taking care of another person's emotions is not necessarily a bad thing.
+797	Recently you may find a formidable opponent in business; fighting several times arm by arm, victory or defeat will be difficult to distract. In fact, coming face to face is also a way to improve once again, to study the learning process once again, go for it!
+798	Recently with the money in low efficiency, if for some reason you start to invest, the prospects still will not calm anything, then, temporarily it is not appropriate to commit yourself to too many big things, or things in which you bet big things.
+799	Check the bills of the house, such as electricity, water, internet and telephone to see if the fees have already been exhausted and have to be paid, avoiding problems caused if the service is suddenly interrupted.
+800	Life is full of days that go against the wind, so to face the storm that is to come a little tenacity is necessary. It is necessary to believe that hope is ahead and not worry too much.
+801	In business, there are advances and setbacks, there are victories and defeats, there are all kinds of things. Do not waste much with losses and gains, on the contrary, it will be difficult for your emotions to face denials and frustrations.
+802	At this time, an unexpected winner grows potentially. There are numerous opportunities to correct the mistakes of the past. To prevent against the flu, avoid being hit by colds.
+803	There is hope that the injustices caused may find resolution within that period of time and it may be that you gain again a correct judgment of the external world and itself. Do not give up on your current efforts.
+804	Businesses are causing a storm, so, to spend the night clear working can become routine. You need to run urgently behind the progress of things, if you continue to insist before the goal, you will have the opportunity to pass.
+805	It is about to arrive a period that the purchases will be made without hesitation; Sometimes, you have to take care of your wallet a little bit, otherwise, your economy will be emptied, which is not good.
+806	You can be with a crisis of incorporating neglect. For example, leaving and not carrying the bag of keys, forgetting to bring the umbrella, after having clearly seen the forecast of the weather that would rain. All this shows that you need to relax a bit!
+807	Remove the weight of the bale these days and increase your abilities. In this period, you can also receive many negative news for your lucky star, but that can be overcome. Force!
+808	Recently, you have been in the midst of things that need a lot of effort to be done as quickly as possible, you can not just respond to a quick and substantial change of the circumstances of the main objective, as it may also dominate the beachhead or the castle, becoming the lord of everything.
+809	Remember a little of your own initial desire to start something from scratch, of the idea of ​​having an independent family. As an old saying goes, "Rome was not built in a day", look: What is blocking you?
+810	Is there not a neglected family birthday, commemorative dating? If you can not invite them to a meal, pick up the phone now and call them. Do not distance yourself from each other!
+811	Being ambitious is good, but keep in mind that being too ambitious is not a good thing. Persevere, strive, strive in double; In the end you will notice that the things for which cravings will flow like river water!
+812	Perhaps, in the future, a sequence of good luck will come. Everyone has witnessed the persistence and insistence shown before by a certain issue; the explosive potential is the expectation of all But be careful not to overtake!
+813	Time reveals the true nature of things: when a thing has just begun, you should not jump to conclusions. Dealing calmly with each situation will make people see you with an extraordinary spirituality.
+814	Sometimes it is important to leave unharmed, but the most important lesson of your life is to work for the general benefit. If you want to establish good cooperative relationships, start from here
+815	Do not work hard just for the economy, you also have to give priority to the riches of living. An intelligent financial management, with strict control of the budget, will be your next goal of conduct! Soon you will learn that financial highlights will appear, right?
+816	Do not let yourself be affected by the negative emotions of other people, nor do you always ask yourself "why certain benefits do not belong to me". How to make yourself strong inside is a mandatory lesson.
+817	When you are up late, first remember that health is the greatest of riches. Do people not have the habit of saying "while there is life, there is hope"? Do not wait to get sick to regret saying "if I knew it before ..."!
+818	In the future, you might notice that not all things are obvious. It is good to be a person who asks about everything when it comes to learning, but in life it is good to be silly to avoid sadness without need.
+819	You still have to think when was the last time you read a book? You do not do badly in wanting to have a book in your hands to read, this is also the only way to get luck, knowledge will always bring you a good energy
+820	When looking at the uniform and the bicycle of the golden times of youth, do you not feel a weight in the conscience for that time that has gone away? In fact, it is not necessary. Look, all the Knights always warm-blooded and ready to explode, faith will make you eternally young!
+821	Definitely, it's not all the gods that have Knights to protect them, nor are all the Knights immortal. Your life is full of constant changes, you need to believe that everything will be fine!
+822	Pandora's box sealed all evils, but you must understand that in life hope and despair exist at the same time. Today there are no problems in adjusting your own situation!
+823	When the goal you have set does not manage to rise to its essence, remember Seiya and her Cosmo. You will discover that the difficulties of today are nothing besides that, since you have the will of a warrior and the stronger you are, your strength will also grow.
+824	In the Holy War, the Bronze Knights always aroused their own potential. It was already said "know the enemy and know yourself", you must try to understand yourself better so that the next time you explode, you can be forewarned.
+825	The Golden Knights of the Sanctuary are the highest level Knights. Beyond that many things in your life are infinite, see if you have a deep knowledge of the work you have in hand or not.
+826	As long as the body is flesh and blood, you will have to face the attack of diseases, the same is true for you, do not get sick again because you went to sleep and did not cover yourself well, etc .; But that is the least of the errors.
+827	During the 100 billion years of transformation of the universe, in order to make the decoration of the star map even more beautiful, the stars also combine with each other and change their position. The same is true for you, do not neglect the power of teamwork.
+828	If we say that all people are born and die according to the predestination of the stars, perhaps that leads you to think that there is no possibility of choice. However, the authentic choice starts from your heart, listen to it!
+829	Saori Kido as a goddess, when she was little she was bossy and forgiving, but since she was 9 years old, that bad temper was gradually extinct, you can also try to extinguish these fatal errors.
+830	The goddess raised a flag for the Sanctuary that is Justice, the word does not make sense, but for you who have already gone through all the evils of the world, how much of that righteous feeling still remains to you? Think about that today!
+831	Forgiveness and trust are your issues today, with an open mind it is better to hear the opinion of others and forgive hatred against old enemies. This is also the basis for the establishment of a new order of the Sanctuary.
+832	Persisting in one's mistakes is the main point of the defeat of many people; use your own strength to fight for the things you want is not bad, but you must not forget that everything has its rules.
+833	Seiya did not become the heart of the Bronze Knights by chance, his enthusiastic and warm manner made the Bronze Knights join forces. You can look at the central characters of your team; they all have the spirit of self-sacrifice.
+834	Today you can remember all the unhappiness and criticism you have received, but you must remember that although you have left scars throughout your life, these moments exist to encourage a better growth. Take back!
+835	Seiya said, hope is something we can not give up at any time. This is your phrase today; advance through any environment of difficulty or even evil, and then produce hope!
+836	Although the scars are a trophy of masculinity, your family would be willing to give their lives in exchange for your well-being. Do not hesitate anymore, value the people that are by your side, that is the secret to attract the luck of today.
+837	In order to visit his mother in eternal rest at the bottom of the evil, Hyoga trained tirelessly. What is the meaning of your fight? Give up a meaningless fight; that will destine you to illusion.
+838	Shiryu is one of those who believes that at any moment a miracle can happen and to wait for this miracle is a tireless person. That your today's self does not give up, maybe a miracle is about to happen in the next second!
+839	Although on the path of suffering, thistles and thorns behind the Gate of Hell, Shun is still able to have mercy. At any time, keep your principles; that's an important code that you must remember.
+840	Today you have to learn the strength of Ikki's determination of the Phoenix, do not become doubtful because of exceptional concerns. Do not miss the opportunity to later regret!
+841	The you of today needs to recover the power of friendship, maybe you think that there is nothing and nobody of confidence in the world, but if you desist from friendships and tears, there will be no hope of victory.
+842	Today's you will believe that every day are repetitions of the past, however, the Shiryu Knight has let me tell you that to fight bravely, it is necessary to pay a price and that is definitely not for the present and for the future.
+843	The you of today is too serious, it is necessary to know that the truth of this world is inconstant, there is no full evil or full justice, do not be excessively correct.
+844	Today's you have to remember that dreaming is not impossible. What you have begun to understand that the dream is impossible to achieve, has already reached the end of life. Please, let your Cosmo burn!
+845	Having compassion appropriately is not, in any way, a bad thing; dedicating yourself to compassion is your travel guide to attract the good luck of today's you. Many people, through Dohko, understand that life is unique, and that is why it can generate a precious and inestimable light.
+846	To value time is what you have to do today, maybe you think that nothing has meaning. However, you need to understand that the civilization of today that humanity has established, is replete with countless sacrifices and investments.
+847	Today you will be surrounded by anxiety, always worried if the alarm is going to touch or not, or anxious about what is going to happen. In fact, you only need a glass of warm milk and sleep before midnight.
+848	The you of today emits an incomparable light; that light comes from within for your own safety. Do not be afraid of what terrifies you, believing firmly in your self-confidence will make you stronger.
+849	The wheel of fortune turns constantly; that is a saying of wisdom. Even if you are full of yourself, it is necessary to take into consideration the feelings of others. Remember that the stars do not revolve around you.
+850	Have you felt discouraged lately? That is exactly a signal from your body that is sending you, saying that you need to take more care of your health. Check if you make 3 meals at appropriate times, if you are sleeping enough.
+851	Today you have gastrointestinal complications; that is the cause of stress clusters. To change that you must from that moment begin to take better care of your health!
+852	Today you must learn to defeat the negative energy, and not always think that another person has something and I do not, or think that I am this way and not that. All that will make your interior begin to weaken.
+853	Gratitude is your word of order today. Do not forget the goodness of the people around you for you; a smile from time to time can make others feel good. Why do not you do it?
+854	Today's you may feel uncomfortable about certain responsibilities that are more challenging. If you choose a flexible job, do not forget the promises you make!
+855	An involuntary choice can leave you infinitely animated today, even if that means a change in the plans you need to follow. Remember to avoid upsets when something good is coming!
+856	You're so lucky, a shower of petals falls on your luck in love. If I had half of you, it would be time to argue with a friend about moving out of the house, taking a trip or some change, if you're single, you'll soon meet your other half!
+857	Today an unexpected event will appear at your social or cultural events. If it is an invitation from a friend, it is worth considering and accepting, that may bring you good news.
+858	To improve the love life is very simple, that means that you are going to have to look for what you love most. Honesty generally leads people to become more intimate, but be careful not to make promises easily.
+859	If you recently do not have purchases to do, watch TV or one of those more relaxed activities, there is no problem in planning for that. From time to time, increasing the comfort level of life a little is important.
+860	Today you have to remember the value of your own rest. Even if you make a lot of effort, it is necessary to ensure a quiet time. Certainly, planning a trip would be fantastic!
+861	When you are striving to increase your income, do not forget the support that comes from your family. No matter how much support your family gives you, it is invaluable. Tell them about your progress right now!
+862	If you want to change the date of an appointment, then let it be today. Today's stars add unpredictable things to their relationship. On the other hand, pay attention to traffic safety!
+863	Today's stars will influence your area of ​​expertise, which indicates that your work skills will leave others impressed. Also, make sure you do not have any of your missing belongings.
+864	It is more appropriate for today's you to finish the work only; that will make you more productive. If possible, try turning off chat applications or other things that may distract you.
+865	Does today's you not insist on problems that have no outlet? Trying to change the point of view about the problem will make the issue you have in hand advance more. Do not tie yourself to the same problem.
+866	It is appropriate that you talk to the elders. You may find in older generations a way to solve the problems that have plagued you for a long time. Know that the experience of the elderly is much greater than the paths you have traveled, listen to their advice!
+867	You will have a unique opportunity to develop the path of your life, innovation will bring you a new freedom. Even if you do not feel as strong as you would like to feel, it does not compare to investigating, first, your sleep problems.
+868	Going behind unnecessary things will leave you more worn out physically and mentally. Try to change budget targets a bit; If you are very strict with yourself, you will feel tired and defeated.
+869	Your question today is to separate the important points that are not very clear; do not waste your energies on unfounded things. Be careful not to invest too much, spending your effort for nothing.
+870	Recently, its charm has a tendency to increase, it is better to exercise and fix your hair, then put on those clothes that you like so much, maybe someone secretly cares about your change!
+871	<Change>
+872	<Astrology>
+873	<Awakening of Heavenly Spirits> Search for the Star Element
+874	<Hero Coliseum> Daily awards
+875	Star %d
+876	Gem %d
+877	Star insufficient, it is not possible to receive
+878	Gem insufficient, it is not possible to receive
+879	Total %d times
+880	The compensation content will be cleaned in %d month %d day %d hour
+881	Current VIP level: %d
+882	Current bounty limit: %d times
+883	%s \r ^33ffccYou can revive in ^ffffff %dsec
+884	^33ffccYour Cosmo will rise! One day...
+885	^33ffccDestiny is all...
+886	^33ffccLife is like flowers in the summer...
+887	^33ffccAcheron river awaits...
+888	^33ffccThe Knight has fallen...
+889	x %d
+890	^FF0000x %d
+891	You will receive %d of EXP
+892	Type does not match, it is not possible to nail it
+893	Spiritual Jewel data error
+894	The level of the Jewel is too high, it is not possible to nail
+895	The same type of Jewel has already been spiked
+896	It is not possible to nail in this spiritual armor
+897	Full inventory, you can not proceed with the division.
+898	Inventory full, the Gem can not be removed.
+899	Existing fragments: %d
+900	The operation is too frequent
+901	When %s reaches level %d it will be freed
+902	%s will be released after activation
+903	Jewel successfully divided.
+904	Error when dividing the Jewel
+905	The jewel can only be exchanged with jewels of the same armor
+906	Error when moving the Jewel
+907	The number of Jewels allowed has already reached its maximum limit
+908	Jewel level is too high
+909	Type of Jewel does not correspond to the requirements of
+910	invalid Jewel ID
+911	This jewel is forbidden for improvements
+912	The jewel has reached the highest level
+913	Error in the number of auxiliary items required
+914	Jewel Level has exceeded the maximum value allowed by the armor
+915	Error in the ID of the armor
+916	The armor has reached the maximum level
+917	Insufficient player level
+918	Star Insufficient
+919	Insufficient EXP
+920	Insufficient Experience
+921	Parameter error of the requested item
+922	Perfecting of reinforcement made successfully.
+923	%s raised to the %d level
+924	%s obtained %d points of EXP
+925	You reached the maximum level
+926	The component is not active, it can only be improved after activation.
+927	Will consume %dun. tools
+928	Total level of all Gems: LV %d
+929	Próx. Aura requires LV %d
+930	A gem must be inserted into the breastplate.
+931	Spirit of Armor
+932	Apostles or LV Power atigiu
+933	Before do LV Power atingiu
+934	^00FF00Please insert
+935	It is not allowed to use that key, please replace it with another one.
+936	This key is already in use. Select "Confirm" to replace the original definition, select "Cancel" to re-enter the new key.
+937	Restore the standard configuration will cause all key configurations to be lost, Confirm changes?
+938	Inserts the serial number
+939	The serial number does not have 20 characters, please check.
+940	Only after ( %s) is that the created character can use that card.
+941	${npc(39771, "Find the way to Hyoga")}
+942	${npc(39802, "Find the way to Shiryu")}
+943	Fold and lower ^Ffffff
+944	Orange and lower ^Ffffff
+945	Purple and lower ^Ffffff
+946	Blue and lower ^Ffffff
+947	Green and lower ^Ffffff
+948	Do you want to dismantle all %s? \rWhen you dismount, you will get %d of Alma EXP
+949	When dismantling, you will obtain %d of Alma Estelar's EXP, ¿Confirm dismount?
+950	^ff0000 There is no %s in the inventory
+951	^ff0000 There is no Star Soul in the inventory to be improved.
+952	Virtue of the Soul
+953	Invent. of the Cosmo
+954	^ff0000The level of the Star Soul is now complete
+955	^ff0000The level of the Star Soul has already reached the maximum limit. Characters that reach level %d can improve the Star Soul at the maximum level
+956	The Star Soul level has already reached the maximum limit. Characters that reach the %d level can improve the Star Soul to the maximum level.
+957	Alma EXP needed is insufficient.
+958	There is no Soul
+959	%s rose to the %d level
+960	When you removed %s LV %d you obtained %d of Alma EXP
+961	Obtained Alma's EXP %d when dismounting
+962	Improvement requirements
+963	^ff0000
+964	Weapon. of %s LV %d \r
+965	Zodiac of %s LV %d \r
+966	Gold Level
+967	Divine Level
+968	By activating the golden explosion, you can get 1 point of divine energy. Out of the fight status, every 1 second will be recovered 1 point of divine energy. The maximum energy limit is 2, after strengthening, it can reach 3
+969	Remove items purchased in the Item Mall Web
+970	Remove items purchased in the Item Mall Arc
+971	Lost
+972	Energy: %d
+973	LV %d
+974	Energy: %d
+975	LV Current: %d
+976	Next LV .: %d
+977	^ffffffAfter releasing and reaching a certain level of Divinity, a new position will be unlocked to replace the ^ff0000Position of Standing, during the non-fighting status \r ^ffffffThe position is divided into 4, when the Divine deity is activated · Gemini, Divine · Sagittarius, Poseidon and Hades, will obtain the Position corresponding to each Divinity \r ^0184ffSelect the position of divinity and the standing position of the player, while in non-fighting status will be changed by the position of divinity.
+978	Move forward
+979	Back
+980	Scroll Left
+981	Move Right
+982	Jump / Upload
+983	Download
+984	Automatic advance
+985	Follow
+986	Zoom +
+987	Zoom -
+988	Reply MP
+989	Auto-cast
+990	Choose yourself
+991	Focus member team 1
+992	Focus member team 2
+993	Focus member team 3
+994	Focus member team 4
+995	Focus member team 5
+996	Focus recent target
+997	Assistance target
+998	Character
+999	Item Mall
+1000	BAG
+1001	QUE
+1002	SKI
+1003	MAP
+1004	COS
+1005	ARM
+1006	FRI
+1007	ARM
+1008	RAN
+1009	ATT
+1010	CRA
+1011	SQU
+1012	SYS
+1013	CAL
+1014	PTY
+1015	COL
+1016	PET
+1017	ILL
+1018	ACH
+1019	REP
+1020	HOL
+1021	CAM
+1022	GOD
+1023	VIP
+1024	PRO
+1025	GUA
+1026	AST
+1027	SPI
+1028	Interface
+1029	Music
+1030	Sound
+1031	Up Volume
+1032	Download Volume
+1033	Vent / Screen Mode
+1034	Boss key
+1035	Burn Cosmo
+1036	Defender
+1037	Collect
+1038	Shortcut Bar 1
+1039	Shortcut Bar 2
+1040	Shortcut Bar 3
+1041	Shortcut Bar 4
+1042	Shortcut Bar 5
+1043	Shortcut Bar 6
+1044	Shortcut Bar 7
+1045	Shortcut Bar 8
+1046	Shortcut Bar 9
+1047	Shortcut Bar 0
+1048	Shortcut Bar 1_1
+1049	Shortcut Bar 1_2
+1050	Shortcut Bar 1_3
+1051	Shortcut Bar 1_4
+1052	Shortcut Bar 1_5
+1053	Shortcut Bar 1_6
+1054	Shortcut Bar 1_7
+1055	Shortcut Bar 1_8
+1056	Shortcut Bar 1_9
+1057	Shortcut Bar 1_0
+1058	Shortcut Bar 2_1
+1059	Shortcut Bar 2_2
+1060	Shortcut Bar 2_3
+1061	Shortcut Bar 2_4
+1062	Shortcut Bar 2_5
+1063	Shortcut Bar 2_6
+1064	Shortcut Bar 2_7
+1065	Shortcut Bar 2_8
+1066	Shortcut Bar 2_9
+1067	Shortcut Bar 2_0
+1068	Shortcut Bar 10
+1069	Shortcut Bar 11
+1070	Shortcut Bar 1_10
+1071	Shortcut Bar 1_11
+1072	Shortcut Bar 2_10
+1073	Shortcut Bar 2_11
+1074	Shortcut Bar 3_1
+1075	Shortcut Bar 3_2
+1076	Shortcut Bar 3_3
+1077	Shortcut Bar 3_4
+1078	Shortcut Bar 3_5
+1079	Shortcut Bar 3_6
+1080	Shortcut Bar 3_7
+1081	Shortcut Bar 3_8
+1082	Shortcut Bar 3_9
+1083	Shortcut Bar 3_0
+1084	Shortcut Bar 3_10
+1085	Shortcut Bar 3_11
+1086	Hab. Armor
+1087	Hab. Armor 2
+1088	Armor Room 3
+1089	Room Squire 1
+1090	Room Squire 2
+1091	Consecration
+1092	Interaction
+1093	Name of other Pets
+1094	Name of monsters
+1095	Other players
+1096	Effects of Light
+1097	Other Pets
+1098	Monsters
+1099	Using the chat
+1100	Select target
+1101	Screenshot
+1102	Force attack key
+1103	Test
+1104	Choose yourself
+1105	Video Mode
+1106	
+1107	Learning and improving combat skills can increase awareness. Values need to reach a certain level of awareness when upgrading at 19, 29, 39, 49, and 59 levels.
+1108	Gain experience：
+1109	Get experience：
+1110	${npc(33799,\"Go to\")}
+1111	${jump(63,\"Click for details\")}
+1112	Get up to %s experience and %s cash today
+1113	Up to %s point experience and %s cash today
+1114	<Mall>Weekly package
+1115	${npc(39771,\"Go to\")}
+1116	${npc(39802,\"Go to\")}
+1117	Main shortcut bar 12
+1118	Main extension shortcut bar 1_12
+1119	Main extension shortcut bar 2_12
+1120	Main extension shortcut bar 3_12

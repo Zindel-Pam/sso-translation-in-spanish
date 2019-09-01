@@ -1,0 +1,331 @@
+0	^00FF00You^N hit ^00FF00%s^N and causes^FFA545%d^N damage
+1	^00FF00You^N use ^00FF00%s^N on ^00FF00%s^N and causes^FFA545%d^N damage
+2	^00FF00Your^N pet ^00FF00%s^N hit ^00FF00%s^N and caused ^FFA545%d^N damage
+3	^00FF00Your^N pet ^00FF00%s^N of ^00FF00%s^N hit ^00FF00%s^N and caused ^FFA545%d^N damage
+4	^00FF00Your^N attack ^00FF00%s^N hit ^00FF00%s^N caused ^FFA545%d^N damage
+5	^00FF00Your^N attack ^00FF00%s^N of ^00FF00%s^N hit ^00FF00%s^N and caused ^FFA545%d^N damage
+6	^00FF00Your^N effect ^00FF00%s^N of ^00FF00%s^N caused ^FFA545%d^N damage
+7	^00FF00%s^N hit ^00FF00you^N and caused ^FF0000%d^N damage
+8	^00FF00%s^N of ^00FF00%s^N hit  ^00FF00you^N and caused ^FF0000%d^N damage
+9	^00FF00%s^N pet ^00FF00%s^N hit you for ^FF0000%d^N damage
+10	^00FF00%s^N pet ^00FF00%s^N skill ^00FF00%s^N caused ^FF0000%d^N damage
+11	^00FF00%s^N summon ^00FF00%s ^N caused ^FF0000%d^N damage
+12	^00FF00%s^N summon ^00FF00%s^N of ^00FF00%s^N caused ^FF0000%d^N damage
+13	^00FF00%s^N of ^00FF00%s^N effect ^00FF00de^N hit you for ^FF0000%d^N damage
+14	^00FF00You^N received ^FF0000%d^N damage
+15	^00FF00You^N of ^00FF00%s^N recovered ^00FFFF%d^N health points
+16	^00FF00Your ^N effect ^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+17	^00FF00Your ^N Summon of ^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+18	^00FF00Your ^N Summon ^00FF00%s^N of effect  ^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+19	^00FF00^N Summon of^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+20	^00FF00^N Summon of^00FF00%s^N of the effect ^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+21	^00FF00%s^N restored ^00FFFF%d^N health points
+22	^00FF00%s^N by ^00FFFF%s^N restored ^00FF00%d^N health points
+23	^00FF00%s^N yours ^00FF00hit ^N healed ^00FFFF%d^N health points
+24	^00FF00%s^N of ^00FF00%s^N effect ^00FF00hit ^N healed ^00FFFF%d^N health points
+25	^00FF00%s^N Summon ^00FF00%s^N your ^00FF00hit ^N healed ^00FFFF%d^N health points
+26	^00FF00%s^N Summon ^00FF00%s^N of ^00FF00%s^N effect  ^00FF00hit ^N healed ^00FFFF%d^N health points
+27	^00FF00%s^N summon ^00FF00%s^N You^00FF00hit ^N hit  healed ^00FFFF%d^N health points
+28	^00FF00%s^N summon ^00FF00%s^N of ^00FF00%s^N effect ^00FF00hit ^N healed ^00FFFF%d^N health points
+29	^00FF00You^N restored ^00FFFF%d^N health points
+30	^00FF00%s^N effect ^00FF00hit ^N healed^00FFFF%d^N health points
+31	^00FF00You^N restored^00FFFF%d^N health points
+32	^00FF0You ^N used ^00FF00%s^N to restore ^00FFFF%d^N health points
+33	^00FF00You^N Summon ^00FF00%s^N of ^00FF00yours^N restored ^00FFFF%d^N health points
+34	^00FF00^N Summon ^00FF00%s^N of ^00FF00%s^N effect  ^00FF00hit ^N healed ^00FFFF%d^N health points
+35	^00FF00^N Summon of ^00FF00%s^N You^00FF00^N hit  healed ^00FFFF%d^N health points
+36	^00FF00^N Summon of ^00FF00%s^N for ^00FF00%s^N effect ^00FF00hit ^N healed  ^00FFFF%d^N health points
+37	^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+38	^00FF00%s^N for ^00FF00%s^N effect  hit ^00FF00%s^N restored ^00FFFF%d^N health points
+39	^00FF00%s^N Summon ^00FF00%s^N hit  ^00FF00%s^N restored^00FFFF%d^N health points
+40	^00FF00%s^N Summon ^00FF00%s^N for effect  ^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+41	^00FF00%s^N summon ^00FF00%s^N hit  ^00FF00%s^N restored ^00FFFF%d^N health points
+42	^00FF00%s^N summon ^00FF00%s^N for effect  ^00FF00%s^N hit ^00FF00%s^N restored ^00FFFF%d^N health points
+43	^00FF00%s^N restored ^00FFFF%d^N health points
+44	^00FF00%s^N effect of ^00FF00%s^N restored ^00FFFF%d^N health points
+45	You do not have permission to hit a duel at this time, after level 10 you can enter a duel
+46	The skill level of the opponent is not enough to hit the duel
+47	Other operations in progress, it is not possible to mourn at this time
+48	Players can not hurt in the sand.
+49	Change hit scheme PK %d / %d
+50	Scheme PK saved successfully
+51	Spacer
+52	Left mouse button
+53	Right mouse button
+54	Simple connection
+55	Speed ​​batsman
+56	Double mass alternately
+57	Move the mouse
+58	Press and hold
+59	The fight is over, you are about to leave the battlefield: %d
+60	%s Battle open, do you want to enter?
+61	%s did the first Kill
+62	%s players %d Chopped!
+63	Victory of the Red Team
+64	Blue Team Victory
+65	Victory of the Green Team
+66	Draw
+67	Red team
+68	Blue team
+69	Green team
+70	%s, %s wins and one draw
+71	Time remaining on the battlefield: %s
+72	End of the battle, you will exit after ^ff0000 %s ^N seconds from the battlefield
+73	You run away, because you can not use the service again if they line up in ^ff0000 %s ^N inside
+74	Countdown hit escape from punishment
+75	Already in the row; the battlefields are, please wait:
+76	Congratulations, you entered the row hit the battle
+77	The battlefield was closed %s, can not enter
+78	Excuse me, you need hit get ^ff0000 %s ^N grade hit row %s
+79	Under your account you have other functions that are in interservices, the current function can not be interservice operations
+80	The current value is not 0 PK, PK no region with penalties belongs to the battlefield, it is killing the other players that are not going to drop coins and a loss of equipment durability
+81	Plaza Red area: %d
+82	Plaza Blue area: %d
+83	^ff0000 %d Red Side Players
+84	^2525ff %d Players Blue Side
+85	^00ff00 %d Players Green Side
+86	^ff0000Points red side %d ^ffffffVS ^0000ff %d Points blue side
+87	^ff0000 red side dots %d ^ffffffVS ^2525ff Blue dots %d ^ffffffVS ^00ff00 points Green match %d
+88	A small flag
+89	Accumulation of Techniques
+90	Capture the flag points
+91	^ff0000 red side resources %d ^ffffffVS ^0000ff %d Blue resources
+92	Are you sure you want to leave the battlefield?
+93	Are you sure you want to start the vote hit eject %s from the battlefield?
+94	%s will be expelled from the group by vote. \rIf you do not choose an option, the vote will be "yes" when the time runs out
+95	You were expelled from the battle by vote
+96	Galactic Coliseum successful registration
+97	Cancel the registration of the Galactic Coliseum
+98	No model found
+99	Restrictions of the level
+100	The Galactic Arena is not configured on the server.
+101	Galactic Coliseum can not be opened
+102	Cooling of the Galactic Coliseum
+103	Galactic Coliseum time limit
+104	Battlefield not found in the Galactic Coliseum
+105	Inaccessible Galactic Coliseum
+106	Close the Galactic Coliseum
+107	Galactic Coliseum reached the limit
+108	Creation of the Galactic Coliseum failed
+109	Local Galactic Coliseum was not completely closed, please wait
+110	Record prior to the Galactic Coliseum or other characters fighting
+111	The Galactic Coliseum does not meet the conditions on the outside
+112	Limit the number of the Galactic Coliseum
+113	the password of the Galactic Coliseum does not correspond
+114	The first round of the Universe Campetition will be 10 minutes after the opening, please prepare the participating members
+115	The first round of the Campetition of the Universe will be 5 minutes after the opening, please, as soon as possible, enter the participating members
+116	The server in this round of the Universe Competition gets a brilliant victory, I sent the divine medal of the warriors as fast as possible hit open the full service reward
+117	The server in this round of the lost battle hit the Universe Competition, please make constant efforts
+118	This week in the schedule of the Universe Competition it was decided to invite competitors to hit the NPC in the information service
+119	The first round of the Battle of the Universe Competition has already started, please pray for the participating warriors
+120	Second round of the Universe Competition will be 10 minutes after the opening, please prepare the participating members
+121	The second round of the Universe Competition will be 5 minutes after the opening, please, as soon as possible, enter the participating members
+122	The second round of the Battle Universe Competition has already started, please pray for the participating warriors
+123	This week the entire race of the Universe Competition has been around
+124	The opponents of the Universe Competition: First round: %s Second Round: %s
+125	Exit this service or not yet open the Universe Competition
+126	(Without Opposition)
+127	Combined ( %s)
+128	Enter
+129	Missing tickets
+130	Run away
+131	Fell
+132	He was expelled
+133	You do not have to bet on this article
+134	Time should not grant aid
+135	You should not receive any help you should reward
+136	Time should not help
+137	The aid must have been
+138	Not a valid article should help
+139	Without these items should help the amount
+140	Do not select a valid server
+141	This week %s, the server is %s, Congratulations on the success of the help, the reward must have been issued
+142	This week %s, the server is %s, unfortunately, it should not help
+143	Win hit all the servers, the server must help the least backward. Maritime border, Sanctuary with the Underworld 3 sand at the time of beginning the server's second victory
+144	Win hit all the servers, the server must be lower in the second aid delayed. Maritime border Sanctuary with the Underworld 3 arena at the time of beginning the second victory of the server
+145	Win hit all the servers, the server with the lowest total number of points should help the sum of the maritime border sanctuary underworld 3 arena of the battle calculus integral
+146	Lost hit all the servers, the total score should help the majority of the servers, the sum of the maritime boundary sanctuary underworld 3 sand battle integral calculus
+147	Fighting skills will be %d seconds after the start, Prehit do!
+148	Congratulations, you have defeated your adversary
+149	You have reached %d game series of victories, you have a great slaughter kill!
+150	Congratulations, you are a lucky prize, direct victory!
+151	Opponents down, Congratulations, you win directly!
+152	I'm sorry you lost skills on the battlefield! More than once!
+153	I'm sorry you lost %d opponents in a straight line! More than once!
+154	Abandoned the game, can not get any reward, can participate in the same week 1 time, the upper limit of the reduction
+155	The other party abandoned the game, gets immediate victory!
+156	Draw! What a pity!
+157	The results of the error
+158	Liansha %d
+159	Galactic Coliseum will open in half an hour, lasts two hours, please get a good time, take advantage of the red dots!
+160	Please, look! This week, the Galactic Coliseum is coming to an end! The settlement list for the week will be updated at 0:00, wait for the result and the reward!
+161	The weekly schedule of the Galactic Coliseum: Wednesday at 10:55 pm or 11:55 pm, Saturday and Sunday 1:55 pm, 2:55 pm,5:55pm,6:55pm,10:55pm,11:55pm open space
+162	The application fails, the place was exhausted
+163	Colosseum forced to cancel the creation of the Coliseum error
+164	Failure to register the Galactic Coliseum
+165	Galactic Coliseum: %s reached %d Victories followed on the battlefield! Nobody can stop it!
+166	Galactic Coliseum: %s reached %d consecutive victories on the battlefield! It is the most deadly! We have come spectators! He has been like a god! Who comes to stop it!
+167	Galactic Coliseum: %s reached %d consecutive victories on the battlefield! He has been like a god! Who comes to stop it!
+168	Galactic Coliseum: %s reached %d consecutive victories on the battlefield! We have the super god! Who comes to stop it!
+169	Reached %d wins in a row on the battlefield! Nobody can stop it!
+170	Reached %d security wins on the battlefield! It's more deadly!
+171	Reached %d security wins on the battlefield! He has been like a god!
+172	Reached %d wins in a row on the battlefield! We have the super god!
+173	Galactic Coliseum: %s finished the great slaughter %s with a special sacrifice!
+174	Galactic Coliseum: %s ended the mad slaughter %s with a crazy sacrifice!
+175	Galactic Coliseum: %s ended the divine slaughter %s of the super god %d Liansha! Go and adore!
+176	Successful request, the adversary and the place are being prehit two hit you!
+177	The server is not ready
+178	Online players do not
+179	Coliseum not connected, please note that in time of
+180	You signed up too!
+181	Fighting for skills in the field!
+182	In the Arena
+183	Seeing him afflicted in this week, I do not have the registration number and then try again next time ~
+184	Excuse me, it did not reach the level of registration requirements
+185	Galactic Coliseum Prize for the classification
+186	( %d Name - %d Name)
+187	%d Name
+188	%d Name later
+189	Because you are on the graph of the Coliseum of the constellation of the Milky Way %s (classification %d) of the excellent performance, this part %s is awarded in reward.
+190	You can not use personal fighting skills on the battlefield, and a copy of the Legion.
+191	^ff0000 ↑ %d
+192	^00ff00 ↓ %d
+193	New
+194	When you are fighting, the countdown begins
+195	Pre-initiation time:
+196	Countdown
+197	Time of departure:
+198	This item can not be used in the Arena
+199	Directed hit $ {npc (28614, "the glory of the flag")} Exchange houses
+200	You will get %s Flowers %d hit you!
+201	%d VS %d
+202	In that condition hit the room to write a password, please enter a password
+203	Personal sand already registered, please cancel
+204	Name of the room contains illegal characters
+205	%s reached %d ray, he did not really look at his opponents
+206	%s reached %d ray, no one inside or outside the sanctuary
+207	%s line and %d winning, as the Avatar in general.
+208	%s and %d consecutive wins, and there is no one from the pipe hit it up.
+209	Congratulations for your successful response, gain reward experience
+210	Congratulations for your successful response, rewarded: your vitality is full
+211	Congratulations on your successful response, get proof of the bonuses
+212	Congratulations on your successful response to obtaining energy incentives from Pandora's Box
+213	You entered the PK area
+214	You entered the safe area
+215	You left the safe area
+216	You left the PK area
+217	You left the PK no zone of penalties hit the security zone
+218	Under a state of war, you can not alter the line
+219	Under a state of war, you can not return to the selection
+220	Arena Hero Contest
+221	Arena Hero Challenge
+222	None
+223	You're not in the rank. Keep trying!
+224	Number of challenges exhausted
+225	You beat! Continue to challenge other opponents!
+226	You lost! Improve your power hit strengthen you.
+227	Available: %d. Use the right mouse button to challenge.
+228	You can not challenge on that list, go to the %s list.
+229	Victory in the challenge
+230	Failure in the challenge
+231	Client request error
+232	Challenges hit the wrong list
+233	Series of challenges throughout the day
+234	Only taller than your own challenge
+235	6:30 pm, 8:00 pm, 11:00 pm, do not challenge the 55th day between midnight
+236	Unable to find player information
+237	Level 40 is not enough, you can not challenge
+238	Failed to define skills!
+239	You failed in the %d round!
+240	Congratulations on your victory in the %d round!
+241	Duel Arena in progress! First phase!
+242	Duel Arena in progress! Eighths of finals!
+243	Duel Arena in progress! Fourth finals!
+244	Duel Arena in progress! Semifinals!
+245	Duel Arena in progress! Final!
+246	Duel Arena closed!
+247	Paper
+248	Scissors
+249	Stone
+250	^FF0000Ability: Paper
+251	^00FF00Ability: Scissors
+252	^00FF00Ability: Stone
+253	You can not participate after the knockout phase. \rAttentive hit the next time!
+254	(You are not eligible to participate in the Duel Arena, continue training)
+255	Excuse me; You can not enter the top 16, please continue to work hard. Welcome to the reception of the follow-up event.
+256	Excuse me; can not enter the top 8, please continue to work hard. Welcome to the reception of the follow-up event.
+257	Excuse me; He has not been able to enter the semifinals, please continue to work hard. Welcome to the reception of the follow-up event.
+258	Excuse me; has not been able to enter the finals, please continue to work hard. Welcome to the reception of the follow-up event.
+259	^00FF00Report of today's duels.
+260	^00FF00Report of yesterday's duels.
+261	V: %d / D: %d. Won %d Cash and %d Duel Points.
+262	%d Cash bonus and %d Duel points
+263	You won %d Cash and %d Duel Points in the Duel Arena. \rPlease withdraw your reward before tomorrow.
+264	You reached the %d rank in the Duel Arena. You received %d Cash and %d Duel Points.
+265	You can not receive reward.
+266	You have already received your reward.
+267	You are currently negotiating in a positive state, not being able to receive the prize. Please receive the prize after the transaction
+268	Challenge Cup distance, hero, we go there for half an hour. The graphics were blocked
+269	​​Half an hour later; grouped according to the current classifications of the battle, the winner will receive Pound of Cash
+270	You can open the [vs] key in the upper right corner hit see it
+271	The hero contest started!
+272	The winners will go to obtain Pound of Cash
+273	You can open the top right button hit enter the display function
+274	^FF0000 Preheat hit the combat, the ability can not be modified
+275	Hero in the Arena of the battlefield (top right button hit having more points) God Championship of the first group: %s, the second group of the championship: %s, third group of the championship: %s
+276	First champion of gold: %s, the second group of the championship: %s, third champion: %s
+277	The first championship of the Silver classification group: %s, the second group of the championship: %s, third champion: %s
+278	The first championship of the Bronze classification group: %s, the second group of the championship: %s, third champion: %s
+279	(In)
+280	(Bye)
+281	Remaining: %02d: %02d
+282	Incentivized %s
+283	%s committed to work in a group with you, a powerful sacred warrior
+284	You laughed %s
+285	%s I laughed at you, defeat you was very easy.
+286	Wait
+287	Opponents!
+288	Duel Report 1
+289	Reward Information!
+290	Bronze Group!
+291	Silver Group!
+292	Golden Grupo!
+293	My group!
+294	Congratulations, you went up to the rank %s.
+295	As a form of reward
+296	you will receive the following award.
+297	Best rank %d, rose %d positions
+298	Get a reward for your achievement!
+299	Award Bonus successfully received!
+300	Award for achieving a new rank successfully received!
+301	(Empty)
+302	???
+303	Duel Arena:
+304	%s challenged you, but it was not rival hit you!
+305	%s defeated you. Your rank: %d
+306	%s defeated you. You're out of the rank!
+307	%d / %d %d: %d
+308	Duel Arena: You have new challenge records!
+309	Congratulations, now you can participate in challenges of rank %s. Collect your rewards
+310	^FFFFFFRDuel Outcome: \r
+311	^FFFF00 %s ^FF0000 is not Online, the attack is weakened. \r
+312	^FFFFFF caused ^FF0000 %d ^FFFFFF damage points \r
+313	----------------- ^FFFF00 %s ^A800FF beat! \r
+314	^FFFF00 %s ^FFFFFF used paper against ^00FF00 %s ^FFFFFF
+315	^FFFF00 %s ^FFFFFF used scissors against ^00FF00 %s ^FFFFFF
+316	^FFFF00 %s ^FFFFFF used stone against ^00FF00 %s ^FFFFFF
+317	^FFFF00 %s ^FFFFFF used punch and kicks against ^00FF00 %s ^FFFFFF
+318	^FFFF00 %s ^FFFFFF used knee against ^00FF00 %s ^FFFFFF
+319	^FFFF00 %s ^FFFFFF used headbutton ^00FF00 %s ^FFFFFF
+320	After 5 minutes, the legion at high speed
+321	10 seconds from the base of the army corps at high speed
+322	Base of the army corps in high speed
+323	Beginning of the classification legion
+324	^0000ff%d Blue player
+325	Occupation points
+326	0
+327	Path to ${npc(28614,\"Flag of Glory\")} exchange
+328	122
+329	16
+330	354
