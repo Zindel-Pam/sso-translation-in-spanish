@@ -4,7 +4,7 @@
 # Step by step guide
 - Edit files in `target` folder only! 
 - run `localhost/SSOpath/generate.php?lang=en`
-- `lang_BASE.data` will be generated (may require multiply F5 to full generate because of memory issues depending on maschine)
+- `lang_BASE.data` will be generated (may require multiply F5 to full generate because of memory issues depending on machine)
 - move `lang_BASE.data` do `/data` folder in Saint Seiya Reborn client
 - run game via `bin/seiya.exe` (DON't run game via `lancher.exe` or lang file will be deleted!)
 - test your changes in game
