@@ -75,7 +75,7 @@
 74	Green Ink
 75	Galactic Tournament Ticket
 76	Sweet
-77	Spring
+77	Slingshot
 78	Pearl Brilliant
 79	Unicorn Armor
 80	Fox Mask
@@ -201,9 +201,9 @@
 200	Snail
 201	Mineral powder
 202	Saltpeter
-203	Withered Bamboo
+203	Wilted Bamboo
 204	Armor of the Black Wolf
-205	Flower of the Phoenix
+205	Phoenix Flower
 206	Mother's Necklace
 207	Dry Branch
 208	Access Token
@@ -1586,7 +1586,7 @@
 1585	Watered Floor
 1586	Black Flower
 1587	Extract Spirit of Darkness
-1588	Caracol
+1588	Conch
 1589	Shell Whistle
 1590	Explosive
 1591	Place explosive
@@ -2146,105 +2146,105 @@
 2145	Photo of Tianyi
 2146	Use
 2147	Surplice of Hades
-2148	Track [Strength]
+2148	Clue [Strength]
 2149	Use
 2150	Lane [★ Cause]
-2151	Track [Papillon]
-2152	Track [★ Silence]
-2153	Track [★ Hate]
-2154	Track [Deep]
-2155	Track [Cyclops]
-2156	Track [Gorgona]
-2157	Track [Dullahan]
-2158	Track [Harpy]
-2159	Track [Licaón]
-2160	Track [Basilisk]
-2161	Track [Minotaur]
-2162	Track [Wyvern]
-2163	Track [Balrog]
-2164	Track [Tap]
+2151	Clue [Papillon]
+2152	Clue [★ Silence]
+2153	Clue [★ Hate]
+2154	Clue [Deep]
+2155	Clue [Cyclops]
+2156	Clue [Gorgona]
+2157	Clue [Dullahan]
+2158	Clue [Harpy]
+2159	Clue [Licaón]
+2160	Clue [Basilisk]
+2161	Clue [Minotaur]
+2162	Clue [Wyvern]
+2163	Clue [Balrog]
+2164	Clue [Tap]
 2165	Use
-2166	Track [Aqueronte]
-2167	Track [Garuda]
-2168	Track [Alraune]
-2169	Track [Matter]
+2166	Clue [Aqueronte]
+2167	Clue [Garuda]
+2168	Clue [Alraune]
+2169	Clue [Matter]
 2170	Use
-2171	Track [Swordfish]
+2171	Clue [Swordfish]
 2172	Use
-2173	Track [Corona Aus.]
+2173	Clue [Corona Aus.]
 2174	Use
-2175	Track [Sphinx]
-2176	Track [Atrio]
+2175	Clue [Sphinx]
+2176	Clue [Atrio]
 2177	Use
 2178	Armor of Athena
-2179	Track [Erídano]
+2179	Clue [Erídano]
 2180	Use
 2181	Armor of Poseidon
-2182	Track [Cefeus]
+2182	Clue [Cefeus]
 2183	Use
-2184	Track [Fornax]
+2184	Clue [Fornax]
 2185	Use
-2186	Track [Hare]
+2186	Clue [Hare]
 2187	Use
-2188	Track [Crosshair]
+2188	Clue [Crosshair]
 2189	Use
-2190	Track [Auriga]
+2190	Clue [Auriga]
 2191	Use
-2192	Track [Tsunami]
+2192	Clue [Tsunami]
 2193	Use
-2194	Track [Mosca]
+2194	Clue [Mosca]
 2195	Use
-2196	Track [Eagle]
+2196	Clue [Eagle]
 2197	Use
-2198	Track [Triangle]
+2198	Clue [Triangle]
 2199	Use
-2200	Track [Crow]
+2200	Clue [Crow]
 2201	Use
-2202	Track [Centaur]
+2202	Clue [Centaur]
 2203	Use
-2204	Track [Berenices]
+2204	Clue [Berenices]
 2205	Use
-2206	Track [Dove]
+2206	Clue [Dove]
 2207	Use
-2208	Track [Heracles]
+2208	Clue [Heracles]
 2209	Use
-2210	Track [Desert]
+2210	Clue [Desert]
 2211	Use
-2212	Track [Dolphin]
+2212	Clue [Dolphin]
 2213	Use
-2214	Track [Sagita]
+2214	Clue [Sagita]
 2215	Use
-2216	Track [Turkey R.]
+2216	Clue [Turkey R.]
 2217	Use
-2218	Track [Aurora]
+2218	Clue [Aurora]
 2219	Use
-2220	Track [Hunting Dogs]
+2220	Clue [Hunting Dogs]
 2221	Use
-2222	Track [Whale]
+2222	Clue [Whale]
 2223	Use
-2224	Track [Compass]
+2224	Clue [Compass]
 2225	Use
-2226	Track [Perseo]
+2226	Clue [Perseo]
 2227	Use
-2228	Track [Cassiopeia]
+2228	Clue [Cassiopeia]
 2229	Use
-2230	Track [Cerberus]
+2230	Clue [Cerberus]
 2231	Use
-2232	Track [Crane]
+2232	Clue [Crane]
 2233	Use
-2234	Track [Mensa]
+2234	Clue [Mensa]
 2235	Use
-2236	Track [Cup]
+2236	Clue [Cup]
 2237	Use
-2238	Track [Altar]
+2238	Clue [Altar]
 2239	Use
-2240	Track [Ofiuco]
+2240	Clue [Ofiuco]
 2241	Use
-2242	Track [Lizard]
+2242	Clue [Lizard]
 2243	Use
-2244	Track [Lightning]
+2244	Clue [Lightning]
 2245	Use
-2246	Track [Empress]
+2246	Clue [Empress]
 2247	Use
 2248	Gemini ★ Divine
 2249	Pisces ★ Divine
@@ -2257,37 +2257,37 @@
 2256	Leo ★ Divine
 2257	Aries ★ Divine
 2258	Taurus ★ Divine
-2259	Track [Oriolus]
+2259	Clue [Oriolus]
 2260	Use
-2261	Track [Serpent]
+2261	Clue [Serpent]
 2262	Use
-2263	Track [Sextans]
+2263	Clue [Sextans]
 2264	Use
-2265	Track [Southern Cross]
+2265	Clue [Southern Cross]
 2266	Use
-2267	Track [Shield]
+2267	Clue [Shield]
 2268	Use
-2269	Track [Volans]
+2269	Clue [Volans]
 2270	Use
-2271	Track [Corona Boreal]
+2271	Clue [Corona Boreal]
 2272	Use
-2273	Track [Chameleon]
+2273	Clue [Chameleon]
 2274	Use
-2275	Track [Piscis Aus.]
+2275	Clue [Piscis Aus.]
 2276	Use
-2277	Track [Sea Dragon ♂]
+2277	Clue [Sea Dragon ♂]
 2278	Use
-2279	Track [Popa]
+2279	Clue [Popa]
 2280	Use
-2281	Track [Ghosts]
+2281	Clue [Ghosts]
 2282	Use
-2283	Track [Scylla]
-2284	Track [Lymnades]
-2285	Track [Crisaor]
-2286	Track [Hippocampus]
-2287	Track [Sirena]
-2288	Track [Kraken]
-2289	Track [Reno]
+2283	Clue [Scylla]
+2284	Clue [Lymnades]
+2285	Clue [Crisaor]
+2286	Clue [Hippocampus]
+2287	Clue [Sirena]
+2288	Clue [Kraken]
+2289	Clue [Reno]
 2290	Use
 2291	Aries Armor Box
 2292	Use
@@ -2313,23 +2313,23 @@
 2312	Use
 2313	Pisces Armor Box
 2314	Use
-2315	Track [Black Andromeda]
+2315	Clue [Black Andromeda]
 2316	Use
-2317	Track [Black Phoenix]
+2317	Clue [Black Phoenix]
 2318	Use
-2319	Track [Black Lira]
+2319	Clue [Black Lira]
 2320	Use
-2321	Track [Black Pegasus]
+2321	Clue [Black Pegasus]
 2322	Use
-2323	Track [Black Dragon]
+2323	Clue [Black Dragon]
 2324	Use
-2325	Track [Black Sea Dragon]
+2325	Clue [Black Sea Dragon]
 2326	Use
-2327	Track [Tornado N.]
+2327	Clue [Tornado N.]
 2328	Use
-2329	Track [Black Cygnus]
+2329	Clue [Black Cygnus]
 2330	Use
-2331	Track [Black Wyrm]
+2331	Clue [Black Wyrm]
 2332	Use
 2333	Phoenix
 2334	Use
@@ -7774,7 +7774,7 @@
 7773	Burning Soul
 7774	Fierce Soul
 7775	Goddess Favor ☆ Singles Day Gift
-7776	^e5872fDigital Artefact Symbol x1
+7776	^e5872fDigital Artifact Symbol x1
 7777	^a800ffLight Sagrada Gold x100
 7778	^a800ffBook of the Oracle of Athena x5
 7779	^a800ff too many big random prizes
@@ -9424,7 +9424,7 @@
 9423	Inventory Expansion
 9424	Warehouse Expansion
 9425	Ben.Diosa ☆ Sagittarius (II)
-9426	^a800ff Mini Orfeo x1 (4500 rating limit)
+9426	^a800ff Mini Orpheus x1 (4500 rating limit)
 9427	^e5872fPlate Gold Lice x1
 9428	^e5872f Gema Fragment x9999
 9429	^a800ff Favor of the Goddess ☆ Sagittarius Version (II) x999
@@ -9886,7 +9886,7 @@
 9885	Fierce Soul
 9886	Ben.Diosa ☆ Newcomer
 9887	^a800ffDark demon (perfect) x1
-9888	^e5872fDigital Artefact Symbol x1
+9888	^e5872fDigital Artifact Symbol x1
 9889	^e5872f Gemstone Shape x9999
 9890	^a800ffFavor of the Goddess ☆ Initial Feeling Version x999
 9891	^a800ff too many big random prizes
@@ -10346,7 +10346,7 @@
 10345	Black Star Crystal
 10346	Inventory Expansion
 10347	Ben.Diosa ☆ Sagittarius (II)
-10348	^a800ff Mini Orfeo x1 (4500 rating limit)
+10348	^a800ff Mini Orpheus x1 (4500 rating limit)
 10349	^e5872fGray Gold Liaison x1
 10350	^e5872f Gema Fragment x9999
 10351	^a800ff Favor of the Goddess ☆ Sagittarius Version (II) x999
@@ -10436,7 +10436,7 @@
 10435	Mini Charon
 10436	Mini Queen
 10437	Shiryu Q Version
-10438	Mini Orfeo
+10438	Mini Orpheus
 10439	Mini Aioros
 10440	Valentine SD
 10441	Mini Jango
@@ -11846,7 +11846,7 @@
 11845	Magic Seed
 11846	Banana
 11847	Crab Meat
-11848	Resortera
+11848	Slingshot
 11849	Sweet
 11850	Entrance ticket to the Colosseum Grand
 11851	Exchange Ped. Esp. Sag. Sel.
@@ -14394,7 +14394,7 @@
 14393	Worm Bandages
 14394	Basilisk Helm
 14395	Balrog Code
-14396	Rose of Pisces
+14396	Rose of Aphrodite
 14397	Shield of Athena [Legend]
 14398	Wyvern Dragon Spine D.
 14399	Harpia: Mask of the Eagle
@@ -14586,7 +14586,7 @@
 14585	Shun
 14586	Ikki
 14587	Wyrm
-14588	Orfeo
+14588	Orpheus
 14589	Seiya
 14590	Shiryu
 14591	Kanon

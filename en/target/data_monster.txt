@@ -329,7 +329,7 @@
 328	Monster of Mode Test Dropping Money 3
 329	Monster of Mode Test Dropping Money 4
 330	Monster of Mode Test Dropping Money 5
-331	Young Ikki Fucking Shun
+331	Ikki Childhood
 332	Poisoned strong villager
 333	Andromeda Mounted Armor
 334	Master Boxer Practicing
@@ -585,7 +585,7 @@
 584	Cassios
 585	Arrogant Apprentice
 586	Brawler Apprentice
-587	Training Stones
+587	Training Stone
 588	Soldier [Shrine]
 589	Shina
 590	Shina
@@ -661,7 +661,7 @@
 660	Apprentice
 661	Apprentice
 662	Another 14 Flower of the Sacrifice of 0.5 times the Body of the Monster
-663	Rocks
+663	Rock
 664	Knight's Soul
 665	Cassios
 666	Wounded Apprentice
@@ -722,7 +722,7 @@
 721	Knight's Soul
 722	Arrogant Apprentice
 723	Angry Shrine Guard
-724	Training Stones
+724	Training Stone
 725	30 Common Monster Body of the Entrance Sign
 726	Marin
 727	32 Light Effect of the Tele-Transport Monster
@@ -739,13 +739,13 @@
 738	Crazy Knight Apprentice
 739	Snake [Underworld]
 740	King Serpent [Underworld]
-741	Satin Soldier [Underworld]
+741	Satin Underworld Soldier
 742	Captain of the Underworld
 743	Pegasus soul
 744	Alex
 745	Fire Watch Guard
 746	Crazy Sanctuary Soldier
-747	Soldier [Underworld]
+747	Underworld Soldier
 748	Elite Troop [Underworld]
 749	Hundreds of Underworld Soldiers
 750	God of Death
@@ -902,7 +902,7 @@
 901	Elite Troop [Underworld]
 902	Girl without memory
 903	Barrier of the Underworld
-904	Armor of the King of the Underworld
+904	Hades Armor
 905	Shun
 906	Andromeda
 907	Shina
@@ -948,7 +948,7 @@
 947	Unicorn
 948	Eudora
 949	Apprentice
-950	Eurydice
+950	Euridice
 951	Orpheus
 952	Lira
 953	Girl in black
@@ -1042,7 +1042,7 @@
 1041	Sergeant of the Black Army
 1042	Black Phoenix
 1043	Soldier [Shrine]
-1044	Soldier [Underworld]
+1044	Underworld Soldier
 1045	Hades
 1046	King of the Underworld
 1047	Morpheus
@@ -1087,7 +1087,7 @@
 1086	Pendant disappears the Special Effect of Tactics
 1087	God of the Dream disappears Special Effect of Tactics
 1088	Seika
-1089	Rocks
+1089	Rock
 1090	Wool
 1091	Cowboy
 1092	Wool
@@ -1178,8 +1178,8 @@
 1177	Jellyfish
 1178	Gorgona
 1179	Beast of Transparent Distorted Space
-1180	Pictures without color
-1181	Picture with color
+1180	Blank Canvas
+1181	Filled Canvas
 1182	Invaders of the Underworld
 1183	Katherin
 1184	Practitioners
@@ -1620,12 +1620,12 @@
 1619	Andersen
 1620	Fallen universe
 1621	Black Servants
-1622	Black Supervisor
-1623	Superintendent of slaves
-1624	Killer of Darkness
+1622	Dark Supervisor
+1623	Slavemaster
+1624	Dark Assassin
 1625	Black Wolf
 1626	Black Tracker
-1627	Raven comedor de Buesos
+1627	Black Bone Ccrow
 1628	Ghost
 1629	Black Bloodthirsty Warrior
 1630	Apprentice Island of the Queen Death Prisoner
@@ -1635,7 +1635,7 @@
 1634	Black Sentinel
 1635	Malignant Slave
 1636	Bloody Bat
-1637	Superintendent of slaves
+1637	Slavemaster
 1638	108 Stones Body Monster
 1639	Blood Black Warrior
 1640	Black Guardian
@@ -1728,12 +1728,12 @@
 1727	Apprentice
 1728	Black Guardian
 1729	Explosive
-1730	Killer of Darkness
-1731	Killer of Darkness
+1730	Dark Assassin
+1731	Dark Assassin
 1732	Killer of the Darkness
 1733	Assassin of Darkness
-1734	Killer of Darkness
-1735	Killer of Darkness
+1734	Dark Assassin
+1735	Dark Assassin
 1736	Apprentice
 1737	Apprentice
 1738	Board
@@ -2126,7 +2126,7 @@
 2125	Aquarium
 2126	Shura
 2127	Capricorn
-2128	Rocks
+2128	Rock
 2129	Underworld spy
 2130	Bonus
 2131	Cook
@@ -2143,7 +2143,7 @@
 2142	Julian
 2143	Julián
 2144	Valentine
-2145	Harpía
+2145	Harpy
 2146	Hyoga
 2147	Cygnus
 2148	Sylphid
@@ -2186,7 +2186,7 @@
 2185	Gordon
 2186	Minotaur
 2187	Valentine
-2188	Harpía
+2188	Harpy
 2189	Queen
 2190	Alraune
 2191	Sylphid
@@ -2245,7 +2245,7 @@
 2244	Lazy
 2245	Victoria Friend
 2246	Door
-2247	Soldier [Underworld]
+2247	Underworld Soldier
 2248	Bloodthirsty Bat
 2249	Young soul
 2250	Soul ofl Lobo
@@ -2400,7 +2400,7 @@
 2399	Demon Devourer of the Underworld
 2400	Mizuki
 2401	Nina
-2402	Soldier [Underworld]
+2402	Underworld Soldier
 2403	Liel
 2404	Fábio
 2405	Leader
@@ -2517,7 +2517,7 @@
 2516	Seiya
 2517	Pegasus
 2518	Minos
-2519	Tap
+2519	Griffon
 2520	Shiryu
 2521	Dragon
 2522	Hyoga
@@ -2675,7 +2675,7 @@
 2674	Andromeda Guard
 2675	Seiya
 2676	Seiya
-2677	Training Stones
+2677	Training Stone
 2678	Apprentice
 2679	Apprentice
 2680	Apprentice
@@ -2713,7 +2713,7 @@
 2712	Cemetery Guard
 2713	Ina
 2714	Alma Maligna
-2715	Rocks
+2715	Rock
 2716	Mysterious Shadow
 2717	Seiya
 2718	Marin
@@ -2735,7 +2735,7 @@
 2734	Vanguard of the Underworld
 2735	Elite Troop [Underworld]
 2736	Crazy Apprentice
-2737	Raso Soldier [Underworld]
+2737	Raso Underworld Soldier
 2738	Corrupt Apprentice
 2739	Disguised
 2740	Barrier of the Underworld
@@ -3400,9 +3400,9 @@
 3399	Radamanthys
 3400	Wyvern
 3401	Minos
-3402	Tap
+3402	Griffon
 3403	Minos
-3404	Tap
+3404	Griffon
 3405	Army of the zone of instance 5 final monster
 3406	Call of Garuda
 3407	Aiacos
@@ -3523,9 +3523,9 @@
 3522	View Army Benefit Ability
 3523	Ruins
 3524	Pillar 2 Collapse 1
-3525	Soldier [Underworld]
+3525	Underworld Soldier
 3526	Lieutenant [Underworld]
-3527	Soldier [Underworld]
+3527	Underworld Soldier
 3528	Appearance of the battle of the Gods
 3529	Pisces
 3530	Status of Deaths
@@ -6508,20 +6508,20 @@
 6507	invisible monster_third horde monsters become a group
 6508	Invisible monster_Second horde the monsters become a group
 6509	Soldier [Shrine]
-6510	Soldier [Underworld]
-6511	Soldier [Underworld]
-6512	Soldier [Underworld]
-6513	Soldier [Underworld]
-6514	Soldier [Underworld]
-6515	Soldier [Underworld]
-6516	Soldier [Underworld]
-6517	Soldier [Underworld]
-6518	Soldier [Underworld]
+6510	Underworld Soldier
+6511	Underworld Soldier
+6512	Underworld Soldier
+6513	Underworld Soldier
+6514	Underworld Soldier
+6515	Underworld Soldier
+6516	Underworld Soldier
+6517	Underworld Soldier
+6518	Underworld Soldier
 6519	Criminous [Underworld]
 6520	Criminous [Underworld]
 6521	Criminous [Underworld]
 6522	Criminous [Underworld]
-6523	Soldier [Underworld]
+6523	Underworld Soldier
 6524	Criminoso [Underworld]
 6525	Black Fuegro
 6526	Serpent [Underworld]
@@ -6532,9 +6532,9 @@
 6531	Cerberus
 6532	Cerberus
 6533	Orpheus
-6534	Eurydice
-6535	Eurydice
-6536	Eurydice
+6534	Euridice
+6535	Euridice
+6536	Euridice
 6537	Eudora
 6538	Signaling plate
 6539	Bush
@@ -6713,7 +6713,7 @@
 6712	Birthplace
 6713	Place of Resuscitation
 6714	Large amount of smoke 1
-6715	Satin Soldier [Underworld]
+6715	Satin Underworld Soldier
 6716	Thanatos
 6717	God of Death
 6718	Varied fish from the Underworld
@@ -7070,7 +7070,7 @@
 7069	Soldier [Shrine]
 7070	Captain of the sentinels
 7071	Odes
-7072	Rocks
+7072	Rock
 7073	Forgotten Knight
 7074	Spirit
 7075	Silver Stalker
@@ -7856,7 +7856,7 @@
 7855	Artifact - Activate the Attack on the Scorpio Stinger
 7856	Divine Artifact - Invocation of the Queen of Alraune
 7857	Divine Artifact - Activate attack of the Queen of Alraune
-7858	Divine Artefact - Queen of Alraune activated by the attack
+7858	Divine Artifact - Queen of Alraune activated by the attack
 7859	Summon: Relic-Virgem
 7860	Summon: Relic-Virgem
 7861	Summon: Relic-Virgem
@@ -7865,16 +7865,16 @@
 7864	Relic - Ombreiras de Deep Ativado por Ataque
 7865	Divine Artifact - Invocation of Papillon Butterflies
 7866	Divine Artifact - Activate attack of Papillon Butterflies
-7867	Divine Artefact - Papillon butterflies triggered by the attack
+7867	Divine Artifact - Papillon butterflies triggered by the attack
 7868	Summon: Reliquia-Papillon
 7869	Summon: Reliquia-Papillon
 7870	Summon: Reliquia-Papillon
 7871	Shaka's Rosary
 7872	Shaka's Rosary
 7873	Beads de Shaka
-7874	Divine Artefact - Invocation of the String Puppet
+7874	Divine Artifact - Invocation of the String Puppet
 7875	Divine Artifact - Activate Attack of the String Puppet
-7876	Divine Artefact - String puppet activated by the attack
+7876	Divine Artifact - String puppet activated by the attack
 7877	Amphora of Camus
 7878	Amphora of Camus
 7879	Amphora of Camus
@@ -7902,8 +7902,8 @@
 7901	Relic-Ativação de Tridente de Pandora
 7902	Relic-Ativação Pandora's Trident Attack
 7903	Pandora Relic-Trident Attacked by Attack
-7904	Divine Artefact - Invocation of the Traitorous Shell
-7905	Divine Artefact - Activate Attack of the Traitorous Shell
+7904	Divine Artifact - Invocation of the Traitorous Shell
+7905	Divine Artifact - Activate Attack of the Traitorous Shell
 7906	Divine Artifact - Traitorous Carapace activated by attack
 7907	Pink Aphrodite
 7908	Pink Aphrodite
@@ -7924,12 +7924,12 @@
 7923	Artifact - Action Attack of the Cancer Clamps
 7924	Artifact - Action Invoking the Cancer Forceps
 7925	Artifact - Activate Cancer Clamp Attack
-7926	Divine Artefacti - Invocation of tentacles
-7927	Divine Artefact - Activate the tentacles by the attack
+7926	Divine Artifacti - Invocation of tentacles
+7927	Divine Artifact - Activate the tentacles by the attack
 7928	Divine artifacts - Tentacles Activated by the attack
 7929	Divine Artifact - Invocation of the Statute of the Judgment of Lune
 7930	Divine Artifact - Activate Attack of the Statute of the Judgment of Lune
-7931	Divine Artefact - Statute of the Judgment of Lune activated by the attack
+7931	Divine Artifact - Statute of the Judgment of Lune activated by the attack
 7932	Artifact - Action Invoking the Bull's Helmet
 7933	Artifact - Action Attack to the Bull's Helmet
 7934	Artifact - Action Attack to the Casco de Toro
@@ -8100,9 +8100,9 @@
 8099	Lune
 8100	Balrog
 8101	Valentine
-8102	Harpía
-8103	Elite Soldier [Underworld]
-8104	Soldier [Underworld]
+8102	Harpy
+8103	Elite Underworld Soldier
+8104	Underworld Soldier
 8105	Phase 2 _Invoke Transparent Light Ball Monster
 8106	Niobe
 8107	Deep
@@ -8115,8 +8115,8 @@
 8114	Earth Star Prisoner
 8115	Laimi
 8116	Worm
-8117	Soldier [Underworld]
-8118	Soldier [Underworld]
+8117	Underworld Soldier
+8118	Underworld Soldier
 8119	Phase 3_Concluding Mission
 8120	Black Fuegro
 8121	Hyoga
@@ -8127,8 +8127,8 @@
 8126	Fairies
 8127	Seiya
 8128	Pegasus
-8129	Soldier [Underworld]
-8130	Soldier [Underworld]
+8129	Underworld Soldier
+8130	Underworld Soldier
 8131	Dreaming of the Butterfly of the Underworld
 8132	God of the Dream
 8133	God of the Dream
@@ -8201,8 +8201,8 @@
 8200	Summon Tombstone
 8201	Underground Palace Tactics Monster
 8202	Breaking the starry sky
-8203	Soldier [Underworld]
-8204	Soldier [Underworld]
+8203	Underworld Soldier
+8204	Underworld Soldier
 8205	Planet
 8206	Planet
 8207	Planet
@@ -8229,9 +8229,9 @@
 8228	Radamanthys
 8229	Wyvern
 8230	Minos
-8231	Tap
+8231	Griffon
 8232	Minos
-8233	Tap
+8233	Griffon
 8234	Aiacos
 8235	Garuda
 8236	Aiacos
@@ -8600,7 +8600,7 @@
 8599	Intruder
 8600	Cyclops
 8601	Intruder
-8602	Harpía
+8602	Harpy
 8603	Intruder
 8604	Basilisk
 8605	Intruder
@@ -8643,7 +8643,7 @@
 8642	Birthplace
 8643	Soul of the Celestial Star of the Horn
 8644	Place of Resuscitation
-8645	Soldier [Underworld]
+8645	Underworld Soldier
 8646	Underworld Supplies
 8647	Rock
 8648	Golem
@@ -8702,7 +8702,7 @@
 8701	Emissary of nightmares
 8702	Ghost
 8703	Lieutenant [Underworld]
-8704	Soldier [Underworld]
+8704	Underworld Soldier
 8705	God of the Dream
 8706	Zelos
 8707	Frog
@@ -8759,7 +8759,7 @@
 8758	Resuscitation Place
 8759	Discipline of God
 8760	Recruit
-8761	Satin Soldier [Underworld]
+8761	Satin Underworld Soldier
 8762	Spirit of the Dream God
 8763	Shaka
 8764	Virgo
@@ -8993,17 +8993,17 @@
 8992	Soldier of the Marine World in attack
 8993	Fugitive Soldier of the Marine World
 8994	Soldier of the marine world
-8995	Soldier [Underworld]
-8996	Soldier [Underworld]
+8995	Underworld Soldier
+8996	Underworld Soldier
 8997	Soldier of the marine world
-8998	Soldier [Underworld]
-8999	Soldier [Underworld]
-9000	Soldier [Underworld]
-9001	Soldier [Underworld]
+8998	Underworld Soldier
+8999	Underworld Soldier
+9000	Underworld Soldier
+9001	Underworld Soldier
 9002	Hades (child)
 9003	Underworld Soldier in attack
 9004	Fugitive Soldier from the Underworld
-9005	Soldier [Underworld]
+9005	Underworld Soldier
 9006	Soldier of the marine world
 9007	Soldier of the marine world
 9008	Soldier of the marine world
@@ -9190,7 +9190,7 @@
 9189	Shaka
 9190	Virgo
 9191	Valentine
-9192	Harpía
+9192	Harpy
 9193	Dohko
 9194	Libra
 9195	Charon
@@ -9224,10 +9224,10 @@
 9223	End of the Event
 9224	Underworld Canyon
 9225	Super Magic Flower of the Underworld
-9226	Soldier [Underworld]
-9227	Soldier [Underworld]
-9228	Soldier [Underworld]
-9229	Soldier [Underworld]
+9226	Underworld Soldier
+9227	Underworld Soldier
+9228	Underworld Soldier
+9229	Underworld Soldier
 9230	Magic flower of the Underworld
 9231	Golden Crossbow
 9232	Super Tower of Sanctuary Defense
@@ -9296,8 +9296,8 @@
 9295	Variant of the Animal Kingdom
 9296	Virgo monthly diary _Monstruos de Control Reposición
 9297	Virgo Monthly diary_ Enter the Instance Zone NPC Body Monster
-9298	Soldier [Underworld]
-9299	Soldier [Underworld]
+9298	Underworld Soldier
+9299	Underworld Soldier
 9300	Aries
 9301	Shion
 9302	Aries
@@ -9308,15 +9308,15 @@
 9307	King of the Underworld
 9308	Wyvern
 9309	Three judges of the Underworld
-9310	Tap
+9310	Griffon
 9311	Three judges of the Underworld
 9312	Garuda
 9313	Three judges of the Underworld
 9314	Tactics of the General Situation
-9315	Satin Soldier [Underworld]
-9316	Raso Soldier [Underworld]
-9317	Raso Soldier [Underworld]
-9318	Satin Soldier [Underworld]
+9315	Satin Underworld Soldier
+9316	Raso Underworld Soldier
+9317	Raso Underworld Soldier
+9318	Satin Underworld Soldier
 9319	Captain of the Underworld
 9320	Birth Monster
 9321	Resurrection Monster
@@ -9345,7 +9345,7 @@
 9344	Arctic Field
 9345	Rock
 9346	Celestial Star of the Angle
-9347	Soldier [Underworld]
+9347	Underworld Soldier
 9348	Elite of the Underworld
 9349	Red egg
 9350	Invocation of the Red Team monster
@@ -9356,7 +9356,7 @@
 9355	Apple of Gold
 9356	Zelos
 9357	Earth Star of Strangeness
-9358	Soldier [Underworld]
+9358	Underworld Soldier
 9359	Elite of the Underworld
 9360	Blue Egg
 9361	Blue Team Invocation Monster
@@ -9441,14 +9441,14 @@
 9440	Vanguard of the Underworld
 9441	Coordination Arrow
 9442	Coordination Arrow
-9443	Harpía
+9443	Harpy
 9444	Shura
 9445	Capricorn
-9446	Soldier [Underworld]
-9447	Soldier [Underworld]
-9448	Soldier [Underworld]
-9449	Soldier [Underworld]
-9450	Soldier [Underworld]
+9446	Underworld Soldier
+9447	Underworld Soldier
+9448	Underworld Soldier
+9449	Underworld Soldier
+9450	Underworld Soldier
 9451	Birth Monster
 9452	Summon Transparent Monster 1
 9453	Summon Transparent Monster 2
@@ -9833,11 +9833,11 @@
 9832	Labyrinth Wall Body Monster
 9833	Personal Entertainment Random Monster
 9834	General Situation Personal Invisible Monster
-9835	Mini Hyoga
-9836	Mini Seiya
+9835	Mini Poseidon
+9836	Mini Hades
 9837	Mini Saori
 9838	Mini Ban
-9839	Mini Shiryu
+9839	Mini Pope
 9840	Close Funny Bet NPC
 9841	See Funny NPC Betting
 9842	Activate Funny Bet NPC
@@ -10321,7 +10321,7 @@
 10320	Fire of Dorado
 10321	Commander
 10322	Leo's Golden Knight
-10323	Satin Soldier [Underworld]
+10323	Satin Underworld Soldier
 10324	Birthplace
 10325	Transparent Monster Animation
 10326	Place of Resuscitation
@@ -10869,7 +10869,7 @@
 10868	Celestial Star of Defeat
 10869	Frost spectrum
 10870	Minos
-10871	Tap
+10871	Griffon
 10872	5_ Hidden monitoring monster
 10873	Elite Guard of the Underworld
 10874	Elite Guard of the Underworld
@@ -11096,9 +11096,9 @@
 11095	Excalibur sword
 11096	Previous generation of the Capricorn Knight
 11097	Golden Knight
-11098	Soldier [Underworld]
-11099	Soldier [Underworld]
-11100	Soldier [Underworld]
+11098	Underworld Soldier
+11099	Underworld Soldier
+11100	Underworld Soldier
 11101	Arena-Place of birth
 11102	Arena-Monster at the end of the Instance Zone
 11103	Ice Coffin
@@ -11515,7 +11515,7 @@
 11514	Rock
 11515	Celestial Star of the Angle
 11516	Minos
-11517	Tap
+11517	Griffon
 11518	Servant of the Ice Warrior
 11519	Captain of the Ice Warrior
 11520	Captain of the Ice Warrior
@@ -11846,7 +11846,7 @@
 11845	Celestial Star of Darkness
 11846	Vanguard Spectrum of Ice
 11847	Brawler of the Underworld
-11848	Raso Soldier [Underworld]
+11848	Raso Underworld Soldier
 11849	Frost spectrum
 11850	Enter NPC
 11851	Limited Time to Eliminate Enemies - Invisible Control Monster

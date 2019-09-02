@@ -178,8 +178,8 @@
 177	Award
 178	1. Meet the conditions 1
 179	Rewards of the Galactic Arena
-180	Ant.
-181	Sig.
+180	PRV
+181	NXT
 182	Close
 183	Understood
 184	7. After participating 10x in the week, each new competition will yield 10pts of reward.
@@ -266,8 +266,8 @@
 265	Prize of the following week's ranking
 266	Multi-server
 267	God
-268	Sig.
-269	​​Ant.
+268	NXT
+269	​​PRV
 270	last week
 271	This week
 272	League Mode \r1ª Season
@@ -298,8 +298,8 @@
 297	Room no .:
 298	Back to the top
 299	Power
-300	Ant.
-301	Sig.
+300	PRV
+301	NXT
 302	Insert the key or room number \rChoose your position
 303	XXX
 304	Players (D / A)
@@ -639,8 +639,8 @@
 638	All
 639	Army complete
 640	Active army
-641	Ant.
-642	Sig.
+641	PRV
+642	NXT
 643	Army recruitment announcement
 644	Reserve 2
 645	Rate
@@ -787,8 +787,8 @@
 786	Obtained @nummoney Star in the team formation event as a reward for the player @name
 787	Relic
 788	Combine the relics to increase the attributes.
-789	Sig.
-790	Ant.
+789	NXT
+790	PRV
 791	Active relics
 792	Aura:
 793	Select Relic:
@@ -1018,27 +1018,27 @@
 1017	Total
 1018	1 a.
 1019	Featured:
-1020	Portable Pharmacy: By obtaining the benefit of any level of the Monthly VIP, access to this service will be released.
-1021	Pharmacy
-1022	Portable warehouse: From VIP level 1, access to this service will be released.
-1023	Warehouse
+1020	Portable Exchange: By obtaining the benefit of any level of the Monthly VIP, access to this service will be available.
+1021	Exch.
+1022	Portable warehouse: From VIP level 1, access to this service will be available.
+1023	Wareh.
 1024	Temporary
 1025	Quests
 1026	Items
-1027	Separate grouped items
+1027	Split item stack
 1028	Separate
-1029	Organize all items
-1030	Organize
+1029	Sort all items
+1030	Sort
 1031	General
 1032	Cash
 1033	Gold
-1034	Store
-1035	Store
-1036	Magic Box
+1034	Vend
+1035	VenD
+1036	Box
 1037	Blocks and unlocks items. \rAfter unlocking an item, it takes seven days to manage it.
-1038	Bloq
-1039	If the selected item is compatible, it will start to be continuous and automatically. \rTo interrupt the continuous use, close the inventory.
-1040	Cont
+1038	BLO
+1039	Click to select an item. If the type matches you can automatically use the \r mouse click operation or close the bag to terminate continuous use.
+1040	AUT
 1041	Expands the inventory
 1042	Expand
 1043	Featured:
@@ -1299,8 +1299,8 @@
 1298	Gold
 1299	Cash
 1300	Tears of Athena
-1301	Organize all items
-1302	Organize
+1301	Sort all items
+1302	Sort
 1303	Separate certain tools according to the quantity
 1304	Dispersion
 1305	Store
@@ -1310,7 +1310,7 @@
 1309	Common items
 1310	Quest item
 1311	Closed Ingot Beta
-1312	Organize all items
+1312	Sort all items
 1313	Dismantle
 1314	You have items that were moved to temporary inventory.
 1315	New
@@ -1356,11 +1356,11 @@
 1355	Warehouse
 1356	Visuals
 1357	Items
-1358	Organize
+1358	Sort
 1359	Deposit
 1360	Remove
-1361	Blocks and unlocks items. \rAfter unlocking an item, 7 days are needed to handle it.
-1362	Bloq
+1361	Blocks and unlocks items. \rAfter locking an item, 7 days will needed to unlock it.
+1362	BLC
 1363	End of the battle, you will leave the battlefield in 30 seconds, the invoice of the instance zone will appear after 15 seconds.
 1364	Lava battlefield
 1365	Leave the battlefield
@@ -1500,8 +1500,8 @@
 1499	Books
 1500	Name of books
 1501	Show book content
-1502	Sig.
-1503	Ant.
+1502	NXT
+1503	PRV
 1504	List of damages
 1505	Damage
 1506	Rank
@@ -1833,8 +1833,8 @@
 1832	Level 99
 1833	Upgrade
 1834	Upgrade
-1835	Organize
-1836	Organize
+1835	Sort
+1836	Sort
 1837	Disassemble
 1838	Disassemble
 1839	Back
@@ -1952,7 +1952,7 @@
 1951	Alma Store
 1952	Alma Store
 1953	Ah this star, this star is awesome. It not only allows you to make a wish come true, but it also enlightens you. Have you seen war flares in movies? In that thing, in the darkness of the night while you wander along the road, it did not cause to just cook it, I really run away from home to travel. What are you waiting for? Play quickly!
-1954	For a Knight, vision is very important. Practice your vision counting birds!
+1954	For a Knight, vision is very importPRV Practice your vision counting birds!
 1955	Training completed, rewards:
 1956	Prizes:
 1957	Confirm
@@ -1979,7 +1979,7 @@
 1978	(Subtract deaths, add up shocked)
 1979	Answer:
 1980	Maximum
-1981	Cant.
+1981	CPRV
 1982	Amount
 1983	Gold
 1984	Star
@@ -2093,7 +2093,7 @@
 2092	9 types of molds to activate perfection
 2093	Current: 400
 2094	Next level: 800
-2095	Sig.
+2095	NXT
 2096	Attack: 99 (Perfection: 100)
 2097	Gold:
 2098	Demonic Blood (lasso)
@@ -2320,8 +2320,8 @@
 2319	Roses Receipt Registration
 2320	Date
 2321	Roses Reception Register
-2322	Sig.
-2323	Ant.
+2322	NXT
+2323	PRV
 2324	(Off)
 2325	(Off)
 2326	Evolu.
@@ -2448,8 +2448,8 @@
 2447	List
 2448	Confirm
 2449	Conversation History
-2450	Ant.
-2451	Sig.
+2450	PRV
+2451	NXT
 2452	Clear History
 2453	Name:
 2454	Enemies
@@ -2553,18 +2553,18 @@
 2552	Conversation History
 2553	Status of Friends
 2554	In chat with one two three four five six seven eight
-2555	Ant.
-2556	Sig.
+2555	PRV
+2556	NXT
 2557	Clear
 2558	White
 2559	Green
 2560	Blue
 2561	Mor.
 2562	Nara.
-2563	Sig.
-2564	Sig.
-2565	Ant.
-2566	Ant.
+2563	NXT
+2564	NXT
+2565	PRV
+2566	PRV
 2567	EXP:
 2568	Emerald:
 2569	Gold:
@@ -2736,7 +2736,7 @@
 2735	Save and Pay
 2736	Redefine
 2737	Next
-2738	Ant.
+2738	PRV
 2739	Spring summer autumn winter always wear second skin
 2740	Spring summer autumn winter always wear second skin
 2741	Spring summer autumn winter always use second skin
@@ -3147,14 +3147,14 @@
 3146	Confirm
 3147	Click to use you can drag the shortcut bar
 3148	Use the Southern Celestial Sunset to receive the title of Estevan. Test of three lines
-3149	Do not promote temporarily
-3150	Upgrade now
+3149	Not yet
+3150	Upgrade
 3151	Upcoming open events
 3152	Upcoming events closed
 3153	Changes in daily activities
 3154	Greater demand
-3155	New persecution
-3156	Key tips for the level
+3155	New challenge
+3156	Milestones
 3157	Event description
 3158	Event description
 3159	Event description
@@ -3301,7 +3301,7 @@
 3300	Date
 3301	Records
 3302	Next
-3303	Ant.
+3303	PRV
 3304	VS
 3305	Two small bees ah, fly among the flowers, volam, PIAPIA, vuelam, Muamua ~
 3306	Rank:
@@ -3345,8 +3345,8 @@
 3344	Name
 3345	Rank
 3346	Name
-3347	Ant.
-3348	Sig.
+3347	PRV
+3348	NXT
 3349	Bonus
 3350	Prize
 3351	Name of the player with 8 characters.
@@ -3403,8 +3403,8 @@
 3402	Delete excess character: 6 days 23 hours
 3403	Delete excess character: 6 days 23 hours
 3404	Delete excess character: 6 days 23 hours
-3405	Sig.
-3406	Ant.
+3405	NXT
+3406	PRV
 3407	Cancel the sale
 3408	Delete excess character: 6 days 23 hours
 3409	LV100
@@ -3463,7 +3463,7 @@
 3462	Alraune
 3463	Aqueron
 3464	Harpy
-3465	Garuda
+3465	Griffon
 3466	Wyvern
 3467	Pisces
 3468	Aquarium
@@ -3695,8 +3695,8 @@
 3694	Would ride
 3695	Transfer and change of ownership of Fashion
 3696	Fashion
-3697	Sig.
-3698	Ant.
+3697	NXT
+3698	PRV
 3699	Link
 3700	Convert mandatory non-mandatory equipment
 3701	Cancel
@@ -3789,7 +3789,7 @@
 3788	New
 3789	New
 3790	Next
-3791	Ant.
+3791	PRV
 3792	Delete all cards with annexes already extracted.
 3793	Elim. all
 3794	Remove
@@ -3813,9 +3813,9 @@
 3812	Remove
 3813	Reply
 3814	Back
-3815	Ant.
-3816	Ant.
-3817	Sig.
+3815	PRV
+3816	PRV
+3817	NXT
 3818	Next
 3819	Remove
 3820	Received
@@ -3934,7 +3934,7 @@
 3933	Player name has eight characters
 3934	Player name has eight characters
 3935	Next
-3936	Ant.
+3936	PRV
 3937	<Shining stars> The strongest cockroach BLABLA
 3938	The player's name is also eight
 3939	Clan name is also eight
@@ -4487,7 +4487,7 @@
 4486	Today you have conquered 8 hours of Glory Bath If you continue like this today, you will not be able to receive any accumulated EXP and EXP
 4487	Automatically entering the Banho de Gloria after being online does not influence any of your operations Opening or closing the current interface will not influence the entrance of the Bath of Glory
 4488	Longevity Monastery
-4489	Ant.
+4489	PRV
 4490	Next
 4491	Name of the skill
 4492	The material is 8 characters
@@ -4583,8 +4583,8 @@
 4582	Title
 4583	See all Quests available
 4584	Tracking
-4585	Leave the selected Quest
-4586	Leave
+4585	Trash selected Quest
+4586	Trash
 4587	Share quest chosen
 4588	Share
 4589	Number of Quests: 2/25
@@ -5173,7 +5173,7 @@
 5172	LV 1
 5173	LV 1
 5174	LV 1
-5175	Ant.
+5175	PRV
 5176	Next
 5177	Test page: show the values ​​of each character's basic property
 5178	Cancel automatic operation
@@ -5936,7 +5936,7 @@
 5935	Next Aura requires LVXXX
 5936	Split Gem
 5937	Select gem to be divided:
-5938	Split
+5938	SPL
 5939	Existing fragments: 10000
 5940	Upgrade Gem
 5941	Use Esp.
@@ -6247,7 +6247,7 @@
 6246	Blessing increases the player's attack power by 7%
 6247	Alma
 6248	Warehouse
-6249	Organize
+6249	Sort
 6250	Back
 6251	Align to the left
 6252	Astromancy
@@ -6273,7 +6273,7 @@
 6272	Currently, the brightness of the Star Soul Stone can no longer use this Stone Upgrade to Upgrade the level
 6273	Verify purchase history
 6274	History
-6275	Pharmacy
+6275	Shop
 6276	4 words
 6277	4 words
 6278	4 words
@@ -6302,14 +6302,14 @@
 6301	Item of demand with eight characters.
 6302	Item of demand with eight characters.
 6303	Item of demand with eight characters.
-6304	Ant.
-6305	Ant.
-6306	Sig.
-6307	Sig.
+6304	PRV
+6305	PRV
+6306	NXT
+6307	NXT
 6308	Click to sell all useless items in the inventory.
 6309	Quick sale
-6310	Repair everything
-6311	Repair art.
+6310	Repair all
+6311	Repair
 6312	Back
 6313	Registration
 6314	Radish X100
@@ -6343,10 +6343,10 @@
 6342	Item name has eight characters
 6343	Item name has eight characters
 6344	Item name has eight characters
-6345	Ant.
-6346	Ant.
+6345	PRV
+6346	PRV
 6347	Next
-6348	Sig.
+6348	NXT
 6349	Items
 6350	Level
 6351	Power
@@ -6395,10 +6395,10 @@
 6394	Clear
 6395	Bid
 6396	Auctioneers
-6397	Ant.
-6398	Ant.
+6397	PRV
+6398	PRV
 6399	Next
-6400	Sig.
+6400	NXT
 6401	You made an offer
 6402	You made an offer
 6403	You made an offer
@@ -6441,10 +6441,10 @@
 6440	Name of the item has eight characters.
 6441	Bid
 6442	Auction
-6443	Ant.
-6444	Ant.
+6443	PRV
+6444	PRV
 6445	Next
-6446	Sig.
+6446	NXT
 6447	Use Star
 6448	^ffdf00All Sundays, at 12:00, the Mystery Shop randomly releases rare items, giving you the opportunity to obtain them. \rThe items released are on display for 10 Hours and then the auction is started. The auction lasts 30 minutes.
 6449	There are no items for sale.
@@ -6465,8 +6465,8 @@
 6464	Name of the item has eight characters.
 6465	Name of the item has eight characters.
 6466	Name of the item has eight characters.
-6467	Ant.
-6468	Ant.
+6467	PRV
+6468	PRV
 6469	Next
 6470	Next
 6471	Items
@@ -6492,10 +6492,10 @@
 6491	Name of the item has eight characters.
 6492	Name of the item has eight characters.
 6493	Name of the item has eight characters.
-6494	Ant.
-6495	Ant.
-6496	Sig.
-6497	Sig.
+6494	PRV
+6495	PRV
+6496	NXT
+6497	NXT
 6498	Artículos
 6499	Level
 6500	Nombre
@@ -6529,10 +6529,10 @@
 6528	Name of the player with 8 characters.
 6529	Name of the player with 8 characters.
 6530	Name of the player with 8 characters.
-6531	Sig.
-6532	Sig.
-6533	Ant.
-6534	Ant.
+6531	NXT
+6532	NXT
+6533	PRV
+6534	PRV
 6535	Items eight characters eight characters
 6536	Items eight characters eight characters
 6537	Items eight characters eight characters
@@ -6622,7 +6622,7 @@
 6621	Significantly reduce the consumption of materials
 6622	Name of the Constellation
 6623	Next
-6624	Ant.
+6624	PRV
 6625	Search for
 6626	Buy
 6627	Buy
@@ -6696,8 +6696,8 @@
 6695	Take these incredible gifts!
 6696	Backpack Extension
 6697	You did not find the wanted item!
-6698	Sig.
-6699	Ant.
+6698	NXT
+6699	PRV
 6700	Offers
 6701	HOT
 6702	New
@@ -6726,8 +6726,8 @@
 6725	Mysterious Runic Stone Potion
 6726	Mysterious Runic Stone Potion
 6727	Mysterious Runic Stone Potion
-6728	Sig.
-6729	Ant.
+6728	NXT
+6729	PRV
 6730	Buy
 6731	Buy
 6732	Buy
@@ -6813,10 +6813,10 @@
 6812	Name of the item has eight characters.
 6813	Name of the item has eight characters.
 6814	Remate
-6815	Ant.
-6816	Ant.
-6817	Sig.
-6818	Sig.
+6815	PRV
+6816	PRV
+6817	NXT
+6818	NXT
 6819	Bid
 6820	Bid
 6821	Bid
@@ -6840,10 +6840,10 @@
 6839	Name of the item has eight characters.
 6840	Name of the item has eight characters.
 6841	Name of the item has eight characters.
-6842	Ant.
-6843	Ant.
-6844	Sig.
-6845	Sig.
+6842	PRV
+6843	PRV
+6844	NXT
+6845	NXT
 6846	Items
 6847	Sale amount
 6848	Trading information
@@ -6866,10 +6866,10 @@
 6865	Name of the item has eight characters.
 6866	Name of the item has eight characters.
 6867	Name of the item has eight characters.
-6868	Ant.
-6869	Ant.
-6870	Sig.
-6871	Sig.
+6868	PRV
+6869	PRV
+6870	NXT
+6871	NXT
 6872	Items
 6873	Sale amount
 6874	Auction
@@ -6922,7 +6922,7 @@
 6921	Invite the group
 6922	Private message
 6923	Break Guardianship
-6924	Ant.
+6924	PRV
 6925	Next
 6926	Sign
 6927	Name
@@ -6949,7 +6949,7 @@
 6948	Benefit of the BUFF Era Name
 6949	Benefit of the BUFF Era Name
 6950	Benefit of the BUFF Era Name
-6951	Ant.
+6951	PRV
 6952	Next
 6953	Name of the event Name of the event Name
 6954	Content of the event Content of the Event Simple explanation of the content, how the conquest achieves
@@ -7019,8 +7019,8 @@
 7018	Copy the merchandise link
 7019	Copy the merchandise number
 7020	Link to xunbao178.com
-7021	Ant.
-7022	Ant.
+7021	PRV
+7022	PRV
 7023	Next
 7024	Next
 7025	You have bid
@@ -7048,10 +7048,10 @@
 7047	23 h y 59 min
 7048	23 h y 59 min
 7049	23 h y 59 min
-7050	Ant.
-7051	Ant.
-7052	Sig.
-7053	Sig.
+7050	PRV
+7051	PRV
+7052	NXT
+7053	NXT
 7054	Items
 7055	Negotiation information
 7056	Level
@@ -7075,10 +7075,10 @@
 7074	Name of the item has eight characters.
 7075	Name of the item has eight characters.
 7076	Name of the item has eight characters.
-7077	Ant.
-7078	Ant.
-7079	Sig.
-7080	Sig.
+7077	PRV
+7078	PRV
+7079	NXT
+7080	NXT
 7081	Items
 7082	Level
 7083	Name
@@ -7179,8 +7179,8 @@
 7178	Portable service
 7179	Portable service
 7180	You can use the following portable services:
-7181	Ant.
-7182	Sig.
+7181	PRV
+7182	NXT
 7183	Card recharge
 7184	Recharge
 7185	Receive
@@ -7725,19 +7725,19 @@
 7724	Progress:
 7725	Awards:
 7726	Brave chicken slaughtering
-7727	Ant.
+7727	PRV
 7728	Next
 7729	Set the corresponding title as Displayed Title, which will appear above the character's head
 7730	Establish the corresponding title as Power Title, so that the additional properties come into activity
 7731	Brave of the brave dragon slaughter of the brave dragon slaughter of the dragon slaughter
 7732	Brave of the brave dragon slaughter of the brave dragon slaughter of the dragon slaughter
 7733	My rank:
-7734	Ant.
+7734	PRV
 7735	Next
 7736	Rank
 7737	↑ / ↓
 7738	Name
-7739	Ant.
+7739	PRV
 7740	Ranking
 7741	Radio_b0
 7742	Radio_b1
@@ -7756,7 +7756,7 @@
 7755	Radio_a3
 7756	Radio_a2
 7757	Radio_a1
-7758	Sig.
+7758	NXT
 7759	The strongest cockroach BLABLABLA
 7760	Black Hole
 7761	The strongest cockroach BLABLABLA

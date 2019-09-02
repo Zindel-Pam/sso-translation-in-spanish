@@ -1289,7 +1289,7 @@
 1288	Temple of the Goddess of the Moon
 1289	Place of offering to Artemis, Goddess of the Moon, she is responsible for the enchantments of the night! The higher the level of the Temple of the Moon Goddess, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
 1290	Temple of the Fire God
-1291	Place of offerings to Hephaestus, God of Fire. He is also known as the God of craftsmen! The higher the level of the Temple of the Fire God, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
+1291	Place of offerings to Hephaestus, God of Fire. He is also known as the God of Craftsman! The higher the level of the Temple of the Fire God, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
 1292	Temple of the God of War
 1293	Place of offering to Ares, God of War. He is the God of war and battle! The higher the level of the Temple of the God of War, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
 1294	Army Power

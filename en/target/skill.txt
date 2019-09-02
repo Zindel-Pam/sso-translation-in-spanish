@@ -3101,7 +3101,7 @@
 3100	^O021^ffff00 Imperial Food\r^O009^ffffff pill you take the Imperial Food tablets, can temporarily suppress forest power Eater
 3101	^O021^ffff00 Imperial Food Pill
 3102	^O021^ffff00 Orpheus Lire Blending ^O009\r^ffffffChance to trigger special effects during combat
-3103	^O021^ffff00Bendición de Lira de Orfeo
+3103	^O021^ffff00Bendición de Lira de Orpheus
 3104	^O021^ffff00 Medieval Shield Blessing\r^O009 ^ffffffChance of triggering special effects during combat
 3105	^O021^ffff00Blending of the Medusa Shield
 3106	^O021^ffff00 body will be taken under the shock of the earthquake temporarily unable to move.

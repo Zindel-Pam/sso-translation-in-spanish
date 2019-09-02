@@ -138,9 +138,9 @@
 137	¡$nobubble$noname$UImid ${league ( %s)} The Army ${name(%s)} successfully ${league ( %s)} led the Treasury Fund of the Army Base and obtained a lot of Gold!
 138	$nobubble$noname$UImid ${league ( %s)} The Army ${name(%s)} appeared in Base ( %d, %d), and is doing something secretly!
 139	Mini Saori
-140	Mini Seiya
-141	Mini Hyoga
-142	Mini Shiryu
+140	Mini Hades
+141	Mini Poseidon
+142	Mini Pope
 143	Mini Ban
 144	The competition is about to start! Quickly choose your competitor!
 145	%s remained in %d º place!
@@ -152,9 +152,9 @@
 151	The competition is about to start! Quickly choose your competitor!
 152	Something is wrong, I'll see how the competitors are
 153	Mini Saori in %d º place!
-154	Mini Seiya in %d º place!
-155	Mini Hyoga in %th place!
-156	Mini Shiryu in %d º place!
+154	Mini Hades in %d º place!
+155	Mini Poseidon in %d º place!
+156	Mini Pope in %d º place!
 157	Mini Ban in %d º place!
 158	%s place!
 159	Dimensional Explosion!
@@ -709,11 +709,11 @@
 708	Food
 709	Timber
 710	Minerals
-711	Ya Yana
-712	Ha Hasi
-713	Bobodong
-714	Emperor
-715	Hammer
+711	Mini Saori
+712	Mini Hades
+713	Mini Poseidon
+714	Mini Pope
+715	Mini Ban
 716	$noname$UImid competition will take place at
 717	$UImid$nonameA urora Spear Illumination Countdown:
 718	$noname$UImid Open the number of seals:

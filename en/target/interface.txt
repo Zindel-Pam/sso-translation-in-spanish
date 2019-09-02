@@ -404,7 +404,7 @@
 403	Do you want to clean the PK points?
 404	Do you want to change the sign?
 405	Cash insufficient, the sign can not be changed.
-406	Character with level equal to or lower than 59 can not change sign.
+406	Character with level equal to or lower than 59 can not change Constellation.
 407	Currently, the sign can not be changed.
 408	All
 409	Bronze

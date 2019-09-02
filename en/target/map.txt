@@ -107,7 +107,7 @@
 106	Forest of Magic Songs
 107	Waterfall Origin
 108	Oblivion River
-109	Training Area
+109	Training Fields
 110	Sea of Stars
 111	Ancient Ruins
 112	Ten Winds Cave
@@ -415,10 +415,10 @@
 414	[Mansion] Ambassador of Event Materials
 415	[Mansion] Marriage - Divorce - Best Friend
 416	[Mansion] Mentor
-417	[Commerce] Bronze Craftsmen
-418	[Commerce] Silver Craftsmen
-419	[Commerce] Black Craftsmen
-420	[Commerce] Gold Craftsmen
+417	[Commerce] Bronze Craftsman
+418	[Commerce] Silver Craftsman
+419	[Commerce] Black Craftsman
+420	[Commerce] Gold Craftsman
 421	[Commercial] Scales
 422	[Commerce] Sample
 423	[Commerce] General Chief of the Silver Guard
@@ -466,10 +466,10 @@
 465	Assembly! Zodiac crisis Recipient
 466	Zara
 467	Free Double Payment
-468	Bronze Craftsmen
-469	Silver Craftsmen
+468	Bronze Craftsman
+469	Silver Craftsman
 470	Black Craftsman
-471	Gold Craftsmen
+471	Gold Craftsman
 472	Romance Points Exchange
 473	Close friend
 474	Divorce record

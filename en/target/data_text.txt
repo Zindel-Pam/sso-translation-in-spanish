@@ -341,7 +341,7 @@
 340	It's another beautiful day in the golden field - but why in this dream are the white flowers red with blood?
 341	This man is responsible for the passenger door and does not let anyone pass!
 342	Thanks for the help, Knights of Athena!
-343	The nucleus of Oricalco, a Divine Artefact that imprisons the Power of the Emperor of the Seas ......
+343	The nucleus of Oricalco, a Divine Artifact that imprisons the Power of the Emperor of the Seas ......
 344	You defeated the most powerful of the Marines, Krishna of Crhysaor. But the time is short and Athena is still in danger. Afterwards, there are still more challenging struggles waiting for you.
 345	I, who am I, life and death still matter, come with me, I can promise you a freedom beyond life and death!
 346	Due to that mission that the Chief of the Army received, 1 million Gold will be consumed. You can obtain a special tool to declare war of the Miracle of the Army, with effect of 7 days. The war declaration tool can be used against the Army Miracle of any base (including this base). After using it, the Miracle will go into mode of declaration of war and may be attacked. The duration is of the war is 1 hour; After this time is over, the miracle will be restored to the status where it can not be attacked. The mission will be defined every Tuesday, at 00h00. Please, prepare well to continue with the declaration of war!
@@ -900,7 +900,7 @@
 899	Oh God, this town is already on the verge of collapse, do not let bad luck fall in this place.
 900	Go immediately to look for the treasure thieves, they hide inside the pile of stones!
 901	(The greatness of silence is like an incessant patrol outside the temple.)
-902	I did not think I was going to find Orfeo de Lira in this place.
+902	I did not think I was going to find Orpheus de Lira in this place.
 903	Young, when you appear to be the same age as me, you will also become a scholar.
 904	Damn! Miss Saori was captured by that bastard again!
 905	Air Attack +20 Diversion +10
@@ -1143,7 +1143,7 @@
 1142	My love can not be lost for Seiya's fool!
 1143	I have heard that the entire Silver City was initially owned by the Grand Foundation.
 1144	When I grow up I want to be like the Mu!
-1145	I hope Orfeo is safe and sound.
+1145	I hope Orpheus is safe and sound.
 1146	The universe, the Milky Way, the bright constellations, everything in this world will end up becoming dust, only faith will exist forever and will not be extinguished.
 1147	This villa needs to be changed!
 1148	Sometimes I have to admire his obstinacy.
@@ -1288,7 +1288,7 @@
 1287	Welcome to the Torii Village. Everyone who has the ideal of becoming a Knight comes to train here.
 1288	I heard that the period needs donations, lately ......
 1289	Stay away from me, or you will repent.
-1290	Eurydice, let me help you get rid of this curse.
+1290	Euridice, let me help you get rid of this curse.
 1291	This black fragrance seems to have an indescribable connection with itself ...
 1292	I will find the legendary and great treasure!
 1293	%s It is already equal to a God!
@@ -1363,7 +1363,7 @@
 1362	As I miss it ......
 1363	I heard that the jewel of this place is the immaculate tear of Andromeda.
 1364	My name is Ryuk and I already had the dream of becoming a Knight.
-1365	Eurydice, will you forgive me?
+1365	Euridice, will you forgive me?
 1366	This my position has come from Ancient China, if you want to learn I can teach you.
 1367	Oh, do you think they're cute or not?
 1368	Force Cooperation! See the power of our Trinity!
@@ -1512,7 +1512,7 @@
 1511	Training is necessary every day, if he is not incapable of becoming a Knight!
 1512	Previously, here a lot of satin was produced, since it has been sent by the charm of death, there is no more ...
 1513	I killed them, if it were not for them I would not have become a Black Knight.
-1514	Orfeo, to the end that love means to you ...
+1514	Orpheus, to the end that love means to you ...
 1515	I must become the strongest Cadet and then go to the Sanctuary to obtain an Armor.
 1516	Quic Quic!
 1517	I like to fight, but I like to win even more.
@@ -1543,7 +1543,7 @@
 1542	Attack of the Earth +1442
 1543	Deviation +323
 1544	No movement of the Silver City escapes my eyes, do not try in vain to cause any damage.
-1545	Come and fuck me, fuck me until I return it to you, your ugly!
+1545	Come chase me, catch me and return it to you, ugly!
 1546	The appreciated landscape is an island covered with pine.
 1547	If you want to obtain Bronze Armor, you must pass rigorous tests.
 1548	Gods of Asgard will never be defeated!
@@ -1924,7 +1924,7 @@
 1923	After touching the forbidden to save the lives of others, he ends up suffering even greater consequences.
 1924	Athena and Shaka have already gone to the Underworld, we have to hurry to reach them! There is no time to doubt, the new Holy War has already begun.
 1925	Members of the competition that meet the requirements, can here with me, receive the Entry Ticket. (line 13)
-1926	Oh, the suffering of Eurydice causes deep sadness in people.
+1926	Oh, the suffering of Euridice causes deep sadness in people.
 1927	Do not let me see you again, monstrous man.
 1928	^000080The ceramic pot is completely empty, you can not see the bottom. ^N
 1929	The mermaid is the most beautiful creature in this world ~
@@ -2042,7 +2042,7 @@
 2041	Look towards the Great Cascade of Rozan. I'm seeing several contaminated villagers there ...
 2042	Eide is dead ...
 2043	Is there anyone capable of breaking the limits of life and death?
-2044	When you spend a lot of time with children, you begin to feel younger.
+2044	You begin to feel younger when you spend a lot of time with children.
 2045	I need to prevent the Crow from seeing Mr. Mu
 2046	When will Master Dohko be willing to accept me as a disciple?
 2047	This is the breath of the fast wind of the Cosmo.
@@ -2131,7 +2131,7 @@
 2130	It is necessary to put into practice Ikki's will!
 2131	Mysterious Solitaire, spine malignam Did you deviate it?
 2132	Oh, do not trust people. For faith and war, it's all a lie. If it were not for my father who wanted an Ice Warrior son, now I would be a happy fisherman on the coast.
-2133	Oh? He found all those! You do not know me, you just do not know me ... How? ... Do not look that way! ... Of course, it is difficult for you to understand that I am a great thief! Hehe, you have the ability to fuck me! I'm going to run, run, run! Who is not good, can not enter the hyperdimension of that magic box! Hehe, prepare for his death .... Run -
+2133	Oh? He found all those! You do not know me, you just do not know me ... How? ... Do not look that way! ... Of course, it is difficult for you to understand that I am a great thief! Hehe, you have the ability to curse me! I'm going to run, run, run! Who is not good, can not enter the hyperdimension of that magic box! Hehe, prepare for his death .... Run -
 2134	Finally back here once again
 2135	If you were not able to treat the enemy cruelly, you will be buried in the blue continent!
 2136	The power of the Earth is eternal, as is our protection!

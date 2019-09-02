@@ -228,7 +228,7 @@ ini_set('max_execution_time', 300000);
 			echo $sec['bundle_name'].' done...<br />';
 		}
 		$binary.=saveInt16(48621);
-		if($file = fopen('./lang_BASE.data', 'wb')){
+		if($file = fopen('./lang_DATA.data', 'wb')){
 			fwrite($file, $binary);
 			fclose($file);
 		}

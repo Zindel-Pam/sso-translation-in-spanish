@@ -536,7 +536,7 @@
 535	In this!
 536	You are very weak, the enemy must be completely destroyed.
 537	Jun
-538	Well, she was surrounded by a snake! Listening to these fucking snakes resolved.
+538	Well, she was surrounded by a snake! Listening to these damn snakes resolved.
 539	Master so long has not come back, is ...... what happened ......
 540	Hey, what's this?
 541	Ye Tan
@@ -1086,7 +1086,7 @@
 1085	Duola sister, only now that you said is true?
 1086	Euridice
 1087	Orpheus ...!
-1088	Eurydice, why are you here? It is very dangerous, you must return immediately to the Sanctuary!
+1088	Euridice, why are you here? It is very dangerous, you must return immediately to the Sanctuary!
 1089	Orpheus
 1090	No! I want to be with you, Orpheus!
 1091	adults Ao Lufei, you can not let me wait here, and you have to take risks alone ......
@@ -1099,7 +1099,7 @@
 1098	Euridice! What did you come here for? Come back as soon as possible!
 1099	This is debris seal of Athena it? ...... Strange, close to a hot and only a Cosmo, who is here?
 1100	So long ...... I finally wake up again, to feel the excitement of war and small friendly universe again.
-1101	Rodório
+1101	Rodrio
 1102	Done a good job, and now you will touch the ancient columns, feel Pegasus cloth soul!
 1103	The elder, who exudes a strong sense of justice from the Cosmo!
 1104	Pieces of cloth, bright stars, like the light of the exposed, as well as a drop of a mysterious blood stain, this noble and solemn temperament is simply XinZhe, is this what the remains of cloth?
@@ -1185,7 +1185,7 @@
 1184	What! There are underworld agents! You Li Ti wire with you do not come, so I packed them!
 1185	Orpheus, be careful you too ...
 1186	At your side, Orpheus, I fear nothing. You have to stay with me always, I want to be able to hear your music for all eternity.
-1187	Eurydice, I will be at your side always playing for you, in life and in death.
+1187	Euridice, I will be at your side always playing for you, in life and in death.
 1188	Then play some music for me.
 1189	Orpheus, this place is cute!
 1190	Orpheus, can you play some music for me?
@@ -1193,7 +1193,7 @@
 1192	Do not be afraid, I will be rid of them.
 1193	Why are there so many snakes in the Underworld around here? I have to find the fragment of the seal fast.
 1194	Orpheus, watch out!
-1195	¡Eurydice !!!
+1195	¡Euridice !!!
 1196	Surely, here we are also the forces of the underworld!
 1197	Ah? Knight? Catch it!
 1198	Soldier of the Underworld
@@ -1278,7 +1278,7 @@
 1277	According to Ao Lufei adult intelligence, second seal Athena debris, you must be in that position.
 1278	adults Aiolia let me go village RODRIGO, he must have found something.
 1279	Haha ...... you have late ...... village RODRIGO ......
-1280	The Village of Rodório ...? What happened?
+1280	The Village of Rodrio ...? What happened?
 1281	Aioros ...... shooter is here where the growth ......
 1282	So many years, then ruined ...... well, I find some stones to repair it.
 1283	Bad! Bad!
@@ -2462,7 +2462,7 @@
 2461	...... How dare you! Sin for death ten thousand times can not forgive!
 2462	Ha ha ha ha ...... by me Pharao to measure your sins now!
 2463	...... Heart, heart flying out!
-2464	Goal! Or-Orfeo !!!
+2464	Goal! Or-Orpheus !!!
 2465	For me to correct them.
 2466	I finally caught you traitor! Just annoyed with that!
 2467	Ao Lufei! ! You Mingdou Shi done!
@@ -3293,8 +3293,8 @@
 3292	Why are there so many soldiers from the Underworld around here? Maybe the forces of the Underworld have already expanded through the Sanctuary ?!
 3293	Taurus Aldebaran and Shaka of Virgo are here too!
 3294	¿ %s, have you finished your hearing?
-3295	Eurydice? It would be best to ask ...
-3296	Eurydice, what are you talking about?
+3295	Euridice? It would be best to ask ...
+3296	Euridice, what are you talking about?
 3297	I heard about missing people, is that true? How can something like this happen in the Sanctuary?
 3298	%s, fast, now!
 3299	The Hammer of Prometheus! Damn it! Quick, stop it!
@@ -4169,7 +4169,7 @@
 4168	Athena? She is permanently sleeping in the sacred porcelain. After a while, her blood will be drained and Athena will be dead!
 4169	Supras! Don't talk nonsense with him, let me solve them quickly!
 4170	Don't accidentally spend too much time, and the Temple of Hades is stained with blood.
-4171	%s has something to look for you
+4171	%s is looking for you.
 4172	Volume 4 Departure! Destiny boy!
 4173	copy of the plot
 4174	Challenge Mission

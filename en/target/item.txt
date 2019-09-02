@@ -1261,8 +1261,8 @@
 1260	Use qualification to improve %.1f %%
 1261	%s %s %s level %d will rise to %d level
 1262	Increased success rate %d%%\r
-1263	Use effect A total of %d points of life can be restored\r Up to %d points of life at a time\r can also restore %d points of life\r
-1264	Use effect A total of %d point energy can be restored\r Up to %d point energy at each time\r can also restore %d point energy\r
+1263	Use effect A total of %d points of life can be restored\r Up to %d points of life at a time\r Remaining HP points: %d\r
+1264	Use effect A total of %d point energy can be restored\r Up to %d point energy at each time\r Remaining Stamina points: %d\r
 1265	Use effect A total of %d point life and %d point energy can be restored. Each time up to %d point life and %d point energy\r can restore %d point life and %d point energy\r
 1266	Use effect Restore %d point life\r within 6 seconds after continuous recovery %d point life\r
 1267	Use effect Restore %d point life\r
@@ -1804,12 +1804,12 @@
 1803	^ffffffYou can directly consult the ^72fe00Athena's Oracle ^ffffffen the Astromancy interface\rIt can only be used after unlocking the Cosmo system in the LV.40
 1804	^ffffff Open with the right button to get:\rPet Dog
 1805	^ffffffYou can buy with ^72fe00Ulmann ^ffffffen the Silver City\rRight click with the right button to use
-1806	^ffffffSpeakers may be interested in this type of object\rSmall production material\rThis item is sold by craftsmen
-1807	^ffffffSpeakers may be interested in this type of object\rIntermediate-level production material\rThis item is sold by craftsmen
-1808	^ffffffSpeakers may be interested in this type of object\rSmall production material\rThis item is sold by craftsmen
-1809	^​​ffffffSuitable people may be interested in this type of object\rIntermediate-level production material\rThis item is sold by craftsmen
-1810	^ffffffSpeakers may be interested in this type of object\rSmall production material\rThis item is sold by craftsmen
-1811	^ffffffSuitable people may be interested in this type of object\rIntermediate-level production material\rThis item is sold by craftsmen
+1806	^ffffffSpeakers may be interested in this type of object\rSmall production material\rThis item is sold by Craftsman
+1807	^ffffffSpeakers may be interested in this type of object\rIntermediate-level production material\rThis item is sold by Craftsman
+1808	^ffffffSpeakers may be interested in this type of object\rSmall production material\rThis item is sold by Craftsman
+1809	^​​ffffffSuitable people may be interested in this type of object\rIntermediate-level production material\rThis item is sold by Craftsman
+1810	^ffffffSpeakers may be interested in this type of object\rSmall production material\rThis item is sold by Craftsman
+1811	^ffffffSuitable people may be interested in this type of object\rIntermediate-level production material\rThis item is sold by Craftsman
 1812	^ffffff Skillful people may be interested in this type of object\rLow-level production material
 1813	^ffffff Skillful people may be interested in this type of object\rIntermediate level production material
 1814	^ffffff Skillful people may be interested in this type of object\rSmall-level production material
@@ -4313,12 +4313,12 @@
 4312	^0184ffRight click to use\r^fff600When using, you will get ^72fe00um Blessing reputation point of Goddess\r^fff600You will also receive an extra random prize\r^fff600And opening for the 10th time, you will get a ^72fe00Appearance of the Goddess\rAo to open, you will get: * Demonic Sage x10 * Cosmic Chave x10 * Spiritual Source I x10 * Goddess Blessing ☆ Aquarius x2\r^0184ffThe Goddess gift can only be obtained once
 4313	^fff600Obtained\r^a800ffwhen to open for the tenth time the ^fff600Favor of the Goddess ☆ Version Aquarius ^72fe00Light of Athena x5 Crystal of Silver x10 Demonic Blood x10 Key of Space-Team x10 Source of Spiritual Power x10 Favor of the Goddess ☆ Aquarius Version x2 ^0184ffThis item can only be obtained once 
 4314	^fff600After opening, you will get a fashion set of the Chinese New Year (male) 
-4315	^fff600You can ^72fe00withdraw with ^fff600Helen ^72fe00Divine Artefact ^fff6002 Emblem of God changed by a divine artifact 
+4315	^fff600You can ^72fe00withdraw with ^fff600Helen ^72fe00Divine Artifact ^fff6002 Emblem of God changed by a divine artifact 
 4316	^fff600After using, you will get a fashionable set of the Chinese New Year (female)
-4317	^fff600You can insert Rose of Aphrodite in all the Relic activation abas ^ff0000Only in the activation bar can activate effect of the properties of the divine artifact 
+4317	^fff600All artifact activation bars can be placed in the Rose of Aphrodite\r^ff0000 only if they are placed in the active bar.
 4318	^ff7d2f After use, you will obtain the divine artifact Pisces: Rose of Aphrodite 
 4319	^ffffffRefine Item Used in:\r^72fe00Sapúris Refinition\r^0184ffConsumed directly during the refining process\r^fff600You can use ^72fe00Pandora ^fff600use the ^72fe00Starlar Splendor - Tier Element , Water, Fire and Wind ^fff600to change it
-4320	^ffffff Refining Aid\rPower the benefit of blessing, the critical probability and the divine gift in refining\rUsado in:\r^72fe00Surprices common\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change with ^72fe00Pandora ^ffffffen the Silver City 
+4320	^ffffffRefining Aid\rPower the benefit of blessing, the critical probability and the divine gift in refining\rUsado in:\r^72fe00Surprices common\r^ffffffNecessary to indicate the use in the Refining interface\rYou can change with ^72fe00Pandora ^ffffffen the Silver City 
 4321	^fff600After using, you will get:\r^a800ffSpecial Bride's Day Fashion (male) 99 roses ^0184ffThey can only be used once, all items are bound ^ff0000the gift package will come out the Store on day 18/3 after maintenance
 4322	^fff600After using, you will get:\r^a800ffSpecial Bride's Day Fashion (feminine) 99 roses ^0184ffThey can only be used once, all items are bound ^ff0000the gift package will leave the store on day 18 / 3 after maintenance 
 4323	^ffffffWhen you use, you will get:\r^a800ffMarriage Marriages ^ffffffx1\r^ff7d2fMarriage Announcement ^ffffffx1\r^ff7d2fMarriage Ceremony ^ffffffx1\r^a800ffLuxurious Marriage Manual ^ffffffx1\r^a800ffDulce Love ^ffffffx1\r^a800ffBridal Flowers Bride ^ffffffx1\r^a800ffInvitation ^ffffffx29\r^a800ffMarker ^ffffffx9\r^0184ffLick with the right button to use
@@ -4446,7 +4446,7 @@
 4445	^72fe00Use: get lots of EXP ^72fe00When using above level 100, you will gain experience ^fff600Use after the level 30 limit After use, it will disappear ^0184ffRight click to use 
 4446	^0184ffClick right button to use\r^fff600When you use it, you will get ^72fe00th Goddess Blessing reputation point\r^fff600You will also receive an extra random prize for opening for the 10th time, you will get a Gift of Aries\r^72fe00Athena Light x5 Silver Blood x10 Demonic Blood x10 Cosmic Chakra x10 Spiritual Ritual I x10 Goddess Blessing Aries x2\r^0184ffThe Aries gift can only be obtained once 
 4447	^fff600Use: Get content Silver Light Silver 100W You can only open one unit of this gift package per day.
-4448	^fff600You can insert Camus Amphora on all the activation devices of the Artefacts ^ff0000Only on the activation bar can you activate the effect of the properties of the divine artifact 
+4448	^fff600You can insert Camus Amphora on all the activation devices of the Artifacts ^ff0000Only on the activation bar can you activate the effect of the properties of the divine artifact 
 4449	^ffffff Available use:\r^a800ffSmart Candy Kit ^ffffff x1 
 4450	^ffffff Available use:\r^a800ffKit Sweet Love ^ffffff x1 
 4451	^fff600After dressing, there will be gain ^0184ff+ 1000 defense HP +2000 ^fff600After the mount, there will be additional gain ^0184ff+ 1000 defense ^
@@ -4459,7 +4459,7 @@
 4458	^fff600Recharge period of the great dream gift pack of 1999 reals ^fff600After opening, you will get:\r^ff7d2f Divine artifact badge ^ffffffx1 ^a800ffStone of the Storm Goddesses ^ffffffx1 ^0184ffRight mouse button to use
 4459	^fff600Recharge period of the big dream gift package of 3999 reals ^fff600After opening, you will get:\r^ff7d2f Divine artifact badge ^ffffffx1 ^a800ffMalignant spirit tattoo fashion kit ^ffffffx1 ^ffffff ^a800ffEva temptation fashion kit ^ffffffx1 ^0184ffRight click to use 
 4460	^fff600After opening, you will get:\r^a800ffMargarete fashion kit · Bloody ^ffffffx1 ^0184ffRight click to use
-4461	^fff600Recharge period of the great dream gift package of 399 reals ^fff600After opening, you will get:\r^a800ffSpiritual Power Source ^ffffff x 100 ^a800ffSoul of the Divine Artefact ^ffffff x 50 ^a800ffKey Space-time ^ffffff x 100 ^a800ffEnergy Fusion Stone ^ffffff x 50 ^a800ffDance Kit stunning way x ^ffffffx1 ^0184ffRight click to use 
+4461	^fff600Recharge period of the great dream gift package of 399 reals ^fff600After opening, you will get:\r^a800ffSpiritual Power Source ^ffffff x 100 ^a800ffSoul of the Divine Artifact ^ffffff x 50 ^a800ffKey Space-time ^ffffff x 100 ^a800ffEnergy Fusion Stone ^ffffff x 50 ^a800ffDance Kit stunning way x ^ffffffx1 ^0184ffRight click to use 
 4462	^fff600Event The Great Gift Recharge Team of tickets Exchange of 799 real dreams ^fff600You can change with NPC Don Quixote:\r^a800ffStar Altair Black of the Day of the Grooms Star Squadron Vega ^ffffff x1 ^ffffff or ^a800ffRabbit female male pump Protective Consecration ^ffffff 1x1 ^0184ffRight mouse button to use
 4463	^fff600Recharge period of the change event of the great gift of dreams of 19,999 reals ^fff600Can change with NPC Don Quixote:\r^a800ffGrand Master version Q ^ffffff x1 ^ffffff or ^a800ffSaori Version Q ^ffffff x1 ^0184ffRight mouse button to use 
 4464	^fff600Large event reload team Exchanges of this 1999 real dreams ^fff600You can change with NPC Don Quixote:\r^a800ffGreat gift pack of 1999 dreams -1 ^ffffff x1 ^ffffff o ^a800ffGreat gift pack of 1999 Dreams - 2 ^ffffff x1 ^0184ffRight mouse button to use
@@ -4887,7 +4887,7 @@
 4886	^ffffffContains information necessary to obtain Gorgon's Surplice\r^0184ffNecessary LV.97\r^0184ffYou need to have the Basilisk Surplice\r^ffffff Recommended Note:\r^72fe00Phoenix 
 4887	^ffffff Contains information needed to get the Deep Surplice\r^0184ffNecessary LV.97\r^0184ffNecessary to have the Balrog Surplice\r^ffffff Recommended Note:\r^72fe00Coup 
 4888	^ffffffContains information needed to obtain Dullahan's Surplice\r^0184ffNecessary LV.97\r^0184ffIt needs to have the Surplice of Alraune\r^ffffff Recommended Note:\r^72fe00Andromeda 
-4889	^ffffffContains necessary information to obtain the Surplice of ★ Hate\r^0184ffNecesary LV.97\r^0184ffIt has to have the Harpía Surplice\r^ffffff Recommended Note:\r^72fe00Pegasus
+4889	^ffffffContains necessary information to obtain the Surplice of ★ Hate\r^0184ffNecesary LV.97\r^0184ffIt has to have the Harpy Surplice\r^ffffff Recommended Note:\r^72fe00Pegasus
 4890	^ffffffContains information needed to obtain the Surplice ★ Prison\r^0184ffNecessary LV.97\r^0184ffThe Sphinx Surplice must be\r^ffffff Recommended Note:\r^72fe00Sea Dragon
 4891	^ffffff Contains information needed to obtain the Papillion Surplice\r^0184ffNecessary LV.97\r^0184ffMust have the Minotaur Surplice\r^ffffff Recommended Note:\r^72fe00Wyrm 
 4892	^ffffff Contains information needed to obtain the Southern Crown Bronze Armor\r^0184ffNecessary LV.38 
@@ -5305,7 +5305,7 @@
 5304	^72fe00After using, you get Demonic Blood ^fff6015 ^72fe00unit ^ff0000After opening, you will get items that will be bound 
 5305	^72fe00After using, you will get Gold blood ^fff6005 ^72fe00unit ^ff0000After opening, you will get items that will be bound 
 5306	^72fe00After using, you will get Energy Fusion Stone ^fff60015 ^72fe00unit ^ff0000After opening, you will get items that will be bound
-5307	^72fe00After using, you will get Soul of the Divine Artefact ^fff6005 ^72fe00unit ^ff0000After opening, you will get items that will be bound 
+5307	^72fe00After using, you will get Soul of the Divine Artifact ^fff6005 ^72fe00unit ^ff0000After opening, you will get items that will be bound 
 5308	^fff600You can insert Golden Spear of Dohko in all the Relic Activation abas ^ff0000Only in the activation bar may activate the effect of the properties of the divine artifact 
 5309	^fff600Gratitude! Knight of the Sanctuary Thief event prize tool.\rOpen and get generous prize of tool, there is the probability of getting super prize.\r^ff0000This tool can be opened at maximum 20 times, with the sale of surplus items you can get 10W Silver.
 5310	^0184ffRight click to use\r^fff600When using, you will get ^72fe00th Goddess Blessing reputation point\rYou will also receive an extra random prize\r^fff600For opening for the 10th time, you will get a Gift of Sagittarius (II )\rAo to open, you will get:\r^72fe00Light of Athena x5 \r Silver Saga x10 \r Demon Saga x10 \r Cosmichave x10\rSpiritual Fountain I x10\rBlade of the Goddess ☆ Sagittarius (II) x2\r^0184ffThe gift of Sagittarius (II) can only be obtained once 
@@ -5329,7 +5329,7 @@
 5328	^fff600After using, you will get ^72fe00a most valuable treasure fragment of Capricorn ^fff600And there is the probability of getting ^72fe00Capricorn's inheritance object ^0184ffCapricorn's most valuable treasure snippet can be exchanged for piece of Golden Armor of Capricorn or by fragment of Golden Armor Object of Capricorn's heritage can be changed by Golden Armor
 5329	^fff600After opening, you will get:\r^a800ffSquire's equipment exchange ticket ^ffffffx10 ^a800ffDouble energy center ^ffffff × 5 ^a800ffSilver Crystal ^ffffffx5 ^a800ffFargmento de Jeya Espiritual ^ffffff × 5 ^a800ffFragment of Divine Artifact ^ffffffx5 ^a800ffExperience Light ^ffffffx5 ^a800ffAdvanced Recovery Medicine ^ffffff × 1 ^0184ffRight click to use 
 5330	^fff600Open and get ^72fe00Grito fashion kit ^fff600
-5331	^fff600After using, you will randomly get generous prize.\r^7fffff There is a greater chance of obtaining: Prize of luck artefact, saddle, fashion, squire.
+5331	^fff600After using, you will randomly get generous prize.\r^7fffff There is a greater chance of obtaining: Prize of luck Artifact, saddle, fashion, squire.
 5332	^fff600After opening, you will get:\r^a800ffGolden Blood ^ffffffx50 ^a800ffEnd of Year Wish Pack ^ffffff × 1 ^0184ffRight click to use ^ff0000Use only six times 
 5333	^fff600After open, you will get:\r^a800ffSilver Crystal ^ffffff × 50 ^a800ffEnd of Year Wish Pack ^ffffff × 1 ^0184ffRight click to use ^ff0000Use only six times 
 5334	^fff600After opening, you will get :\r^a800ffSpirit of Jewel ^ffffff × 20 ^a800ffEnd of Year wish pack ^ffffff × 1 ^0184ffRight click to use ^ff0000Use only six times
@@ -5519,7 +5519,7 @@
 5518	^fff600After use, you will get Action in Double - Embrace, only the person who is being hugged can use this action ^7fffff After using, you can release this action by clicking on the movement bar to the right in the chat ^ff6fb3 New Year's atmosphere, Felis Day of the Bride and Groom, hugging, we are alone
 5519	^fff600After use you will get Double-Resistance Action, only the person being held can use this action ^7fffff After using, you can release this action by clicking on the movement bar further to the right in the chat ^ff6fb3 New Year's atmosphere, Felis Grooms Day, embracing, we are only 
 5520	^fff600After use, you will get Action in Double - Kiss, both parties can use this action ^7fffff After using, you can release this action by clicking in the movement bar to the right in the chat ^ff6fb3 New Year's atmosphere, Felis Day of the Bride and Groom, hugging, we are alone 
-5521	^ff7d2 After using, you will get divine artefactp ^72fe00Taurus: Golden Helmet of Aldebaran
+5521	^ff7d2 After using, you will get divine Artifactp ^72fe00Taurus: Golden Helmet of Aldebaran
 5522	^fff600After opening, you will get:\r^a800ffBlack Pearl fashion kit 7 days ^ffffff × 1 ^0184ffRight click to use 
 5523	^fff600After using, you will get the following items ^0184 They can only be used once, all the items obtained will be bound ^72fe00Demonic Blood x94 Silver Crystal x94 Space-Equipment Key x94 Orange Star Soul x50 Squire's Equipment Exchange Note x94 Sacred Gold Light x94 Energy Fusion Stone x94 Most Valuable Treasure of Pisces x1 Fragment of Spiritual Jewel x330 Source of Spiritual Power x34 ^ff0000Mega discount in the Mall of items
 5524	^fff600After using, you will obtain the following items ^0184 They can only be used once, all the items obtained will be bound ^72fe00Demonic Blood x47 Silver Crystal x47 Space-Equipment Key x47 Orange Star Soul x25 Exchange Ticket Squire equipment x47 Sacred Light Gold x47 Energy Fusion Stone x47 Pisces Most Precious Treasure x1 Spiritual Jewel Fragment x165 Spiritual Power Source x17 ^ff0000Mega Sale in the items Mall
@@ -6055,7 +6055,7 @@
 6054	^fff600After opening, you will get:\r^a800ffStarsand ^ffffff x5 ^a800ffequipamientos Squire voucher ^ffffffx5 ^a800ffSilver Blood ^ffffff x 5 ^a800ffExperience Light ^ffffffx5 ^a800ffNetEase God's Song Privilege Card level 50 ^ffffffx1 ^0184ffRight click to use 
 6055	^fff600After to open, you will get:\r^a800ffSilver Crystal ^ffffffx5 ^a800ffEssence of the Star Soul ^ffffffx5 ^a800ffStarlight of the Underworld ^ffffffx5 ^a800ffStarlight of the Emperor of the Seas ^ffffffx5 ^a800ffNetEase Privilege card of the song of God level 60 ^0184ffRight mouse button to use
 6056	^fff600After opening, you will get:\r^a800ffSilver Crystal ^ffffffx10 ^a800ffExperience Light ^ffffffx10 ^a800ffStar Heart ^ffffffx5 ^a800ffFragment of Brooch ^ffffffx20 ^a800ffDragon Scale ^ffffffx10 ^a800ffNetEase Card privilege of the song of God level 70 ^ffffffx1 ^0184ffRight click to use 
-6057	^fff600After opening, you will get:\r^a800ffGold Light ^ffffffx5 ^a800ffBlood of the Emperor of the Seas ^ffffffx10 ^a800ffFragment of Divine Artefact ^ffffffx5 ^a800ffEnergy Fusion Stone ^ffffff × 10 ^a800ffNetEase God's Song privilege card level 80 ^ffffffx1 ^0184ffRight click to use
+6057	^fff600After opening, you will get:\r^a800ffGold Light ^ffffffx5 ^a800ffBlood of the Emperor of the Seas ^ffffffx10 ^a800ffFragment of Divine Artifact ^ffffffx5 ^a800ffEnergy Fusion Stone ^ffffff × 10 ^a800ffNetEase God's Song privilege card level 80 ^ffffffx1 ^0184ffRight click to use
 6058	^fff600After opening, you will get:\r^a800ffMagic Box to test the Divine Armor ^ffffffx1 ^a800ffMagic Box of Random Transformation ^ffffff × 1 ^a800ffBlue Demonic Wolf 5 days ^ffffffx1 ^ff0000Multiplayer A Knight title positioned\r^a800ffMultiplayer Card for beginners of the song of God level 20 ^ffffffx1 ^0184ffRight mouse button to use
 6059	^fff600After opening, you will get:\r^a800ffStellar jade ^ffffffx10 ^a800ffStardust ^ffffffx10 ^a800ffFragment of Bronze Armor ^ffffff × 10 ^a800ffSpiritual Bath Light ^ffffffx10 ^a800ffSilver Blood ^ffffff x 5 ^a800ffAuthorization of Bronze Armor ^ffffffx1 ^a800ffMultiplayer Card for beginners of the song of God level 30 ^ffffffx1 ^0184ffRight mouse button to use
 6060	^fff600After opening, you will get:\r^a800ffFragment of Silver Armor ^ffffffx10 ^a800ffBook of the Silver Oracle ^fffffx5 ^a800ffequipment squire voucher ^ffffffx5 ^a800ffHoly Light Gold ^ffffff x5 ^a800ffDemon Blood ^ffffff × 20 ^a800ffMultiplayer Starter card for the song of God level 50 ^ffffffx1 ^0184ffRight mouse button to use
@@ -6255,7 +6255,7 @@
 6254	^ffffff Congratulations to you that, in the ^0184ffStyle's Powerful Attack ^ffffffredded to ^0184ffEscila ^ffffff!\r^ffffffAfter opening with the right button, you will get:\r^72fe00300.000 ^72fe00EXP\r^0184ffStar Element of Bronze ^ffffff × 3\r^a800ffSteel Silver Star ^ffffff × 3\r^a800ffResults of EXP of the Squire ^ffffff × 10\r
 6255	^ffffff¡Felicities to you that, in ^0184ffChicote, Knight of Lizard ^ffffffderrotó al ^0184ffLeader of the Soldiers of the Underworld ^ffffff! ^ffffffAfter opening with the right button, you will obtain:\r^72fe00400.000 ^72fe00EXP ^0184ffFragment of the Golden Armor ^ffffff × 1 ^a800ffSun Golden Light ^ffffff × 2
 6256	^ffffff Congratulations to you that, in the ^0184ffDecisive Battle, King of the Underworld Butterfly ^ffffffderded the ^0184ffRey of the Underworld Butterfly ^ffffff! ^FfffffAfter opening with the right button, you will get:\r^72fe00400.000 ^72fe00EXP ^0184ffFragment of the Golden Armor ^ffffff × 1 ^a800ffSource of Spiritual Power ^ffffff × 5 
-6257	^ffffff Congratulations to you that, in the ^0184ffDeadly Combat, Departure from Hell ^ffffffderrotó ^0184ffa the Three Judges of the Underworld ^ffffff!\r^ffffffAfter opening with the right button, you will obtain:\r^72fe00400.000 ^72fe00EXP\r^0184ffFragment of the Golden Frame ^ffffff × 1\r^a800ffSource of Spiritual Power ^ffffff × 5\r^a800ffAlma del Artefacto Divine ^ffffff × 5\r
+6257	^ffffff Congratulations to you that, in the ^0184ffDeadly Combat, Departure from Hell ^ffffffderrotó ^0184ffa the Three Judges of the Underworld ^ffffff!\r^ffffffAfter opening with the right button, you will obtain:\r^72fe00400.000 ^72fe00EXP\r^0184ffFragment of the Golden Frame ^ffffff × 1\r^a800ffSource of Spiritual Power ^ffffff × 5\r^a800ffAlma del Artifacto Divine ^ffffff × 5\r
 6258	^ffffffFelicity to you that, in ^0184ffThe Knight's Tears ^ffffffdrown to ^0184ffSaga ^ffffff!\r^ffffffAfter opening with the right button, you will get:\r^72fe00400.000 ^72fe00EXP\r^0184ffJade of the Spirit ^ffffff × 5\r^a800ffStone of the Spirits of the Seal ^ffffff × 1\r
 6259	^ffffff Congratulations to you that, in ^0184ffValentine, Celestial Star of Lament ^ffffffderded to ^0184ffValentin ^ffffff!\r^ffffffAfter opening with the right button, you will get:\r^72fe00400.000 ^72fe00EXP\r^a800ffSpirit of the Armor ^ffffff × 5\r^0184ffFragment of the Spiritual Jewel ^ffffff × 10\r
 6260	^ffffff Congratulations to you that, in the ^0184ffConfrontation, Three Judges of the Underworld ^ffffffderrota a ^0184ffRadamanthys ^ffffff!\r^ffffffDespues to open with the right button, you will get:\r^72fe00400.000 ^72fe00EXP\r^a800ffSpirit of the Jewel ^ffffff × 3\r^0184ffFragment of the Spiritual Jewel ^ffffff × 30\r^a800ffJade of the Heroic Spirit ^ffffff × 3\r
@@ -6415,7 +6415,7 @@
 6414	^fff600Moda exclusive to the member of the Army of the Galactic Sovereign Competition 2016 
 6415	^fff600Open, you will get:\r^ff0000Pet Fuwa End of the Year 
 6416	^fff600Open, you will get:\r^ff0000Pet Eros, God of Love 
-6417	^ff0000Cambiar special certificate of Divine Artefacto legendary\r^fff600Puedes change by Divine Shield of Athena, Scepter Gold or Divine trident of Poseidon 
+6417	^ff0000Cambiar special certificate of Divine Artifacto legendary\r^fff600Puedes change by Divine Shield of Athena, Scepter Gold or Divine trident of Poseidon 
 6418	^fff600Al open, you will get:\r^a800ffLlave Space Weather x20 ^a800ffFragmento the Divine Artifact x20 ^a800ffPágina Book of Divine Sacrifice x20 ^a800ffDemonic Blood x10 ^72fe00Fragment of the Bronze Armor x30 ^ffffffFragment of the Silver Armor x30 ^ff7d2fFragment of the Golden Armor x5
 6419	^ffffffOn the battlefield ^fff600"Get ready, Young!" ^FfffffYou must deliver the item to the ^fff600creature of the Sea Dragon ^ffffff to obtain the force of the Sea Dragon 
 6420	^ffffffOn the battlefield ^fff600"Encog, Young "^ffffffYou must deliver the item to the ^fff600cry of the Black Cygnus ^ffffff to obtain the strength of the Black Cygnus 
@@ -6429,8 +6429,8 @@
 6428	^ffffffEffect when using:\r^72fe00Increases the attack of Light Propriety on 5 %\r^fff600Force 45 seconds\r^fff600Recharge time 5 minutes\r^0184ffRight click with the right button to use it 
 6429	^ffffffEffect when using:\r^72fe00Property Resistance Light +5\r^fff600During 45 seconds\r^fff600Recharge time 5 minutes\r^0184ffRight click to use it
 6430	^fff600After using it, you will get:\r^a800ff10 units of Venus Light 
-6431	^fff600You can insert the Pharaoh's Harp in all the activation tabs of Divine Artefacts\r^ff0000Only in the activation bar you can activate the effect of the properties divine artifact\r^fff600Puedes with ^72fe00Helen ^fff600cambiar ^72fe00Jade Divina 
-6432	^fff600Puedes insert the butterfly Papillón all tabs activation Reliquias\r^ff0000Sólo the activation rod can not activate the effect of the properties of divine artefact\r^fff600You can ^72fe00Helen ^fff600change ^72fe00Jade Divina
+6431	^fff600You can insert the Pharaoh's Harp in all the activation tabs of Divine Artifacts\r^ff0000Only in the activation bar you can activate the effect of the properties divine artifact\r^fff600Puedes with ^72fe00Helen ^fff600cambiar ^72fe00Jade Divina 
+6432	^fff600Puedes insert the butterfly Papillón all tabs activation Reliquias\r^ff0000Sólo the activation rod can not activate the effect of the properties of divine Artifact\r^fff600You can ^72fe00Helen ^fff600change ^72fe00Jade Divina
 6433	^fff600After dressing, you will increase\r^0184ffDefense +1000\rHP +2000\r^fff600After mounting it, you will have an extra gain of\r^0184ffDefense +1000\r^ff7d2fThe Year of the Sheep is gone, but it brought us power of struggle, the Year of the Monkey is a new year that brings even stronger warriors.\rThe Wukong magic cloud takes you to the Celestial World, watch the flourishing field of stars.\rA different New Year, will provide you with unique emotions! 
 6434	^fff600After opening for the 10th time the ^a800ffFavor of the Goddess ☆ Aquarius Version (III) ^fff600you will get\r^72fe00Athena's Light x5\rSilver Crystal x10\rDemonic Blood x10\rSpace Key Time x10\rSource of Spiritual Power x10\rFavor of the Goddess ☆ Aquarius Version (III) x2\r^0184ffEse item can only be obtained once
 6435	^fff600After opening, you will get ^72fe00Kit Mountain of the Flames of the Confused Eco Legend ^fff600o ^72fe00Kit Confused Eco Clover\r^fff600Distribute according to the sex of the player 
@@ -6715,7 +6715,7 @@
 6714	^ff00002016 Special transformation card of annual players meeting ^fff600After use it will become the Goddess Saori ^ff0000After you can continue with the transformation for 10 minutes, every 30 minutes it can be used once ^0184ffRight click with the right button to use it 
 6715	^fff600After opening, you will get:\r^7fffffPet Arcangel ^ffffff × 1\r^ff0000Ese Pet has the strong natural ability to pick up 
 6716	^fff600After opening, you will get:\r^7fffffPet Nice Man ^ffffff × 1\r^ff0000Ese Pet has the strong natural ability to pick up 
-6717	^fff600After opening, you will get:\r^ff0000Sword of the King of the Underworld, Hades [Divine Artefact] ^ffffff × 1 
+6717	^fff600After opening, you will get:\r^ff0000Sword of the King of the Underworld, Hades [Divine Artifact] ^ffffff × 1 
 6718	^ff0000Total title of the reload list at the end of August 2016
 6719	^ff0000Exclusive mode of the reload list at the end of August 2016 
 6720	^fff600After opening, you will get:\r^ff7d2f Sacred Piece 1 [Taurus] ^ffffffx1\r^0184ffRight click to use 
@@ -6755,7 +6755,7 @@
 6754	^fff600After opening, you will get:\r^7fffffTitle\r^ff0000Eternal Fire Warrior 
 6755	^fff600After opening, you will get:\r^72fe00Male Hip-Hop Clothing Kit ^fff600o ^72fe00Hip Hop Clothes Kit\r^fff600Distribute accordingly sex player 
 6756	^fff600Puedes insert Helm Sylphid in all bars activation Reliquias\r^ff0000Sólo bar activation can activate the effect of the properties of the divine artifact\r^fff600Puedes with ^72fe00Helen ^fff600cambiar ^72fe00Jade Divina 
-6757	^fff600Puedes insert the claw Harpía in all bars activation Reliquias\r^ff0000Sólo bar activation can activate the effect of the properties of the divine artifact\r^fff600Puedes with ^72fe00Helen ^fff600cambiar ^72fe00Jade Divina
+6757	^fff600Puedes insert the claw Harpy in all bars activation Reliquias\r^ff0000Sólo bar activation can activate the effect of the properties of the divine artifact\r^fff600Puedes with ^72fe00Helen ^fff600cambiar ^72fe00Jade Divina
 6758	^ffffffÍtem needed to raise the level of Divinity\rThe Divinity gets 1 XP point per use\rLevel 100 players can get this item in Daily Events dungeons 
 6759	^ffffffImproves the effect by raising the level of Divinity\rIncreases the EXP received in 10 points\rCan be acquired in exchange for the ^72fe00Divine Mark I ^ffffff 
 6760	^fff600When you open it for the 10th time ^a800ffFavor of the Goddess ☆ Scorpio Version (II) ^fff600you will get\r^72fe00Light of Athena x5\rCrystal Silver x10\rDemonic Blood x10\rSpace Key Time x10\rSource of Spiritual Power x10\rFavor of the Goddess ☆ Scorpio Version (II) x2\r^0184ffThis item can only be obtained once

@@ -1276,3 +1276,4 @@
 1275	经验：80000000  星券：600
 1276	^538ED5基本操作\r^00ff00前进：^FFFFFFW键\r^00ff00反方向前进：^FFFFFFS键\r^00ff00左向前进：^FFFFFFA键\r^00ff00右向前进：^FFFFFFD键\r^00ff00跳跃：^FFFFFF空格键\r^538ED5特殊操作\r^00ff00二段跳：^FFFFFF双击空格键\r^00ff00翻滚：^FFFFFF任意方向的前进键+Shif\tr^00ff00快速移动：^FFFFFF双击任意方向的前进键进入快速移动状态，该状态下会消耗角色的体力值\r^538ED5水中操作\r^00ff00上升：^FFFFFF空格键\r^00ff00下沉：^FFFFFFZ键\r水中其它方向的前进操作与地面一致
 1277	^538ED5自定义热键\r^FFFFFF系统菜单下选择【系统设置】，找到【热键】标签即可自定义热键。\r^538ED5常用热键\r^00ff00输入聊天信息：^FFFFFFEnter\r^00ff00回复密语信息：^FFFFFFR\r^00ff00快速选怪：^FFFFFFTab\r^00ff00开/关界面显示：^FFFFFFAlt+H\r^00ff00快速截图：^FFFFFFPrintScr\r^00ff00隐藏/显示其他宠物模型：^FFFFFFAlt+\nr^00ff00隐藏/显示其他怪物模型：^FFFFFFAlt+M\r^00ff00隐藏/显示其他玩家模型：^FFFFFFAlt+P
+1278	您可以通过战力体检系统来查看如何提升战斗力

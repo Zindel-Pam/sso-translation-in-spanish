@@ -102,7 +102,7 @@
 101	The warehouse was expanded to %d slots
 102	%s has defeated you.
 103	%s: %s
-104	%s received %s of the Blessing of Athena
+104	%s received %s from the Blessing of Athena
 105	Time Left: %dmin
 106	This character is banned!
 107	Please select the game line.

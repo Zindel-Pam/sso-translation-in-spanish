@@ -434,7 +434,7 @@
 433	Lyre
 434	President - Silver Star Chamber
 435	Crazy Chamber Guard
-436	Rodório
+436	Rodrio
 437	Pegasus [1st Generation]
 438	Alex
 439	Apprentice
@@ -584,7 +584,7 @@
 583	Orpheus
 584	Lira
 585	Euridice
-586	Rodório
+586	Rodrio
 587	Pegasus [1st Generation]
 588	Alex
 589	Apprentice
@@ -667,7 +667,7 @@
 666	Underworld Soldier
 667	Armor of the King of the Underworld
 668	Claude
-669	Guardian of the Villa of Rodório
+669	Guardian of the Villa of Rodrio
 670	Claude
 671	Soldier of the Sanctuary
 672	Brave Soldier
@@ -729,10 +729,10 @@
 728	Taurus
 729	Shaka
 730	Virgo
-731	Guardian of the Villa of Rodório
-732	Guardian of the Villa of Rodório
-733	Guardian of the Villa of Rodório
-734	Guardian of the Villa of Rodório
+731	Guardian of the Villa of Rodrio
+732	Guardian of the Villa of Rodrio
+733	Guardian of the Villa of Rodrio
+734	Guardian of the Villa of Rodrio
 735	Created
 736	Created
 737	Militia Wound
@@ -743,7 +743,7 @@
 742	God of the Dream
 743	Soldier of the Sanctuary
 744	Cosmo White
-745	Eurydice
+745	Euridice
 746	Pandora
 747	Figurante 27 Transformación Gigante dDios de la muerte
 748	Figurante 27 Transformación Gigante dDios del sueño
@@ -805,7 +805,7 @@
 804	Ban
 805	Hyoga
 806	Shun
-807	Stolen Spectator
+807	Spectator
 808	Hyoga
 809	Saori Kido
 810	Seiya
@@ -2577,7 +2577,7 @@
 2576	Andromeda
 2577	Kanon
 2578	Twins
-2579	Eurydice
+2579	Euridice
 2580	Orpheus
 2581	Lira
 2582	Seiya
@@ -2622,7 +2622,7 @@
 2621	Pegasus
 2622	Shun
 2623	Andromeda
-2624	Rodório
+2624	Rodrio
 2625	Pegasus
 2626	Shiryu
 2627	Dragon
@@ -2721,7 +2721,7 @@
 2720	​​Minotaur
 2721	Lupine
 2722	Souls of Hermes
-2723	Rodório
+2723	Rodrio
 2724	Seiya
 2725	Pegasus
 2726	Mu
@@ -3138,18 +3138,18 @@
 3137	Nine Yellow
 3138	Jade
 3139	Guard [Field Practice]
-3140	Eurydice
-3141	Eurydice
+3140	Euridice
+3141	Euridice
 3142	Aiolia
 3143	Leo
 3144	Grand Master
 3145	Grand Master
 3146	Euridice
 3147	Purple Girl
-3148	Orfeo
+3148	Orpheus
 3149	Lira
 3150	Girl of Purple
-3151	Orfeo
+3151	Orpheus
 3152	Lira
 3153	Pegasus [1st Generation]
 3154	Orpheus
@@ -3200,7 +3200,7 @@
 3199	Virgo
 3200	Aldebaran
 3201	Taurus
-3202	Eurydice
+3202	Euridice
 3203	Pandora
 3204	Jamian
 3205	Raven
@@ -3407,8 +3407,8 @@
 3406	Flight of the Dragon
 3407	Teacher
 3408	Prophet
-3409	Medical [Silver City]
-3410	Medical [Silver City]
+3409	Medic [Silver City]
+3410	Medic [Silver City]
 3411	Prophet
 3412	Prophet
 3413	Villa de Campana
@@ -3506,9 +3506,9 @@
 3505	Ivan's soul
 3506	Soul fallen
 3507	Demon flower
-3508	Orfeo
+3508	Orpheus
 3509	Lira
-3510	Orfeo
+3510	Orpheus
 3511	Lira
 3512	Moses
 3513	Whale
@@ -3549,7 +3549,7 @@
 3548	Lira
 3549	Kanon
 3550	Cufflinks
-3551	Orfeo
+3551	Orpheus
 3552	Lira
 3553	Orpheus
 3554	Lyre
@@ -4303,7 +4303,7 @@
 4302	Virgo
 4303	Wyvern
 4304	Lira
-4305	Garuda
+4305	Griffon
 4306	Eagle
 4307	Sagittarius
 4308	Lira
@@ -4337,7 +4337,7 @@
 4336	South Atlantic Pillar
 4337	Indian Ocean pillar
 4338	Pillar of life
-4339	Ceo
+4339	Coyes
 4340	<Star Epic>
 4341	Tyranosaurus Rex
 4342	Acquiring knowledge
@@ -4362,7 +4362,7 @@
 4361	Statue of Athena
 4362	Kiki
 4363	Star Test
-4364	Ceo
+4364	Coyes
 4365	<Star Epic>
 4366	Eliel
 4367	Hyoga
@@ -4420,7 +4420,7 @@
 4419	Soldier of the Sanctuary
 4420	Orpheus
 4421	Lira
-4422	Eurydice
+4422	Euridice
 4423	Eudora
 4424	Another point of view _ Point of birth
 4425	Gold Illusion
@@ -5132,9 +5132,9 @@
 5131	Shrek
 5132	Merchant
 5133	Steffen
-5134	Craftsmen
+5134	Craftsman
 5135	Archimedes
-5136	Craftsmen
+5136	Craftsman
 5137	Sieger
 5138	Artisans
 5139	Xue Lingyun
@@ -5144,7 +5144,7 @@
 5143	Fujiwara in Genshin
 5144	Artisans
 5145	Katsushika Hokusai
-5146	Craftsmen
+5146	Craftsman
 5147	Zoe
 5148	Army Administrator
 5149	Fire
@@ -5159,9 +5159,9 @@
 5158	Thalia
 5159	Emissary of the prize award of the multi-server tournament
 5160	Allen
-5161	Change Sign
+5161	Constellation Change
 5162	Clyde
-5163	Change Sign
+5163	Constellation Change
 5164	d
 5165	Ruth
 5166	Pharmacist
@@ -5750,9 +5750,9 @@
 5749	11 Event of the Santuario_Arthur 005
 5750	Sacrifice of the oracle
 5751	Joseph
-5752	Bronze Craftsmen
+5752	Bronze Craftsman
 5753	Altai
-5754	Silver Craftsmen
+5754	Silver Craftsman
 5755	Jason
 5756	Artisan apprentices
 5757	Loki
@@ -5762,7 +5762,7 @@
 5761	Michelangelo
 5762	Silver Apprentices
 5763	Jonathan
-5764	Gold Craftsmen
+5764	Gold Craftsman
 5765	Jason
 5766	Artisan apprentices
 5767	Loki
@@ -5772,7 +5772,7 @@
 5771	Michelangelo
 5772	Silver Apprentices
 5773	Emissary of the Golden Knights
-5774	Change gold armor
+5774	Gold Armors
 5775	Soldier Rodrigues
 5776	Sanctuary
 5777	Soldier Rodrigues
@@ -7037,7 +7037,7 @@
 7036	Butterflies Infr.
 7037	Bristol
 7038	Silver Whale Knight
-7039	Orfeo
+7039	Orpheus
 7040	Lyra Silver Knight
 7041	Rowing
 7042	Silver Knight of Centaur
@@ -9265,11 +9265,11 @@
 9264	13 Orpheus camp 1
 9265	11 the last breath of the aspirants Floresta 1
 9266	15 Girl in black Floresta 3
-9267	16 Orfeo Floresta 2
-9268	17 Eurydice Floresta 2
+9267	16 Orpheus Floresta 2
+9268	17 Euridice Floresta 2
 9269	18 Old Roderic Battleground
 9270	19 Alex old Battlefield 1
-9271	20 Orfeo Camp of flowers 3
+9271	20 Orpheus Camp of flowers 3
 9272	21 the last breath of the aspirants Pozo de los Muertos 2
 9273	22 The mysterious golden knight
 9274	23 Eudora commercial change zone 4
@@ -9326,7 +9326,7 @@
 9325	74 valley spectra
 9326	54 Walk in Sawori
 9327	76 Warehouse Manager
-9328	77 Claude Villa de Rodório
+9328	77 Claude Villa de Rodrio
 9329	77 Petty Officer
 9330	78 Blacksmith
 9331	79 Bread vendor
@@ -10783,7 +10783,7 @@
 10782	Legendary mission_Libear Mu
 10783	Teleportation of the heart of the Cosmo 1
 10784	Teleportation of the Heart of the Cosmo 2
-10785	Change Sign NPC
+10785	Change Constellation NPC
 10786	Sanctuary amulet service
 10787	Missions Mount Change
 10788	Pet01 Head of the creators
@@ -11295,16 +11295,16 @@
 11294	Chapter 1 Sanctuary 09_ Floresta Perdida _ Eudrora
 11295	Chapter 1 Sanctuary 10_Floresta Perdida_Eurídice
 11296	Chapter 1 Sanctuary 11_Training Camp _ Shina
-11297	Chapter 1 Sanctuary 12 _ Golden Field _ Eurydice
+11297	Chapter 1 Sanctuary 12 _ Golden Field _ Euridice
 11298	Chapter 1 Sanctuary 13 _ Golden Field _ Eudora
-11299	Chapter 1 Sanctuary 14_ Camp Dorado_ Orfeo
+11299	Chapter 1 Sanctuary 14_ Camp Dorado_ Orpheus
 11300	Chapter 1 Sanctuary 15 _Floresta lost_ President of the Silver Association
 11301	Chapter 1 Sanctuary 16_Floresta Perdida _Alquimista loco
 11302	Chapter 1 Sanctuary 17 Old Camp de Batalla_ first generation of Pegasus
 11303	Chapter 1 Sanctuary 18 _Old Camp of Battle _ Alex
 11304	Chapter 1 Sanctuary 18_Ancient Camp of Battle_Alex 2
 11305	Chapter 1 Sanctuary 19 _ Old Battlefield _ Eudora
-11306	Chapter 1 Sanctuary 20 _ Pozo de los Muertos_ Orfeo
+11306	Chapter 1 Sanctuary 20 _ Pozo de los Muertos_ Orpheus
 11307	Chapter 1 Sanctuary 21_ Old Battle Camp _ Twins' Illusion
 11308	Chapter 1 Sanctuary 22 _ Training Camp _ Knight's Appendices
 11309	Chapter 1 Sanctuary 23 _ Floresta Perdida_ Alex
@@ -11617,11 +11617,11 @@
 11616	13 Orpheus camp 1
 11617	11 the last breath of the aspirants Floresta 1
 11618	15 Girl in Black Floresta 3
-11619	16 Orfeo Floresta 2
-11620	17 Eurydice Floresta 2
+11619	16 Orpheus Floresta 2
+11620	17 Euridice Floresta 2
 11621	18 Old Roderic Battleground
 11622	19 Old Alex Battleground 1
-11623	20 Orfeo Camp de flores 3
+11623	20 Orpheus Camp de flores 3
 11624	21 the last breath of the aspirants Pozo de los Muertos 2
 11625	22 The mysterious golden knight
 11626	23 Eudora commercial change zone 4
@@ -11678,7 +11678,7 @@
 11677	74 valley spectra
 11678	54 Walk in Sawori
 11679	76 Warehouse Administrator
-11680	77 Claude villa de Rodório
+11680	77 Claude villa de Rodrio
 11681	77 Petty Officer
 11682	78 Blacksmith
 11683	79 Bread vendor
@@ -13655,7 +13655,7 @@
 13654	Open
 13655	Gold dagger
 13656	Get
-13657	Training stones
+13657	Training Stone
 13658	Storage Power
 13659	Stones of the beach
 13660	Rebuscar
@@ -13805,7 +13805,7 @@
 13804	Shells
 13805	Picking up
 13806	Bonfire
-13807	Asar
+13807	Roasting
 13808	Cell
 13809	Open
 13810	Navigation signal
@@ -13826,10 +13826,10 @@
 13825	Destroy
 13826	Black Armor
 13827	Picking up
-13828	Phoenix flower
+13828	Phoenix Flower
 13829	Picking up
 13830	Torch
-13831	Atear
+13831	Set
 13832	Dry plants
 13833	Picking up
 13834	Script of the song
@@ -13837,7 +13837,7 @@
 13836	Shaft tracks
 13837	Investigate
 13838	Rescue
-13839	Corpse superintendent of slaves
+13839	Corpse Slavemaster
 13840	Picking up
 13841	Corpse apprentice
 13842	Picking up
@@ -13891,7 +13891,7 @@
 13890	Collect
 13891	Vase
 13892	Break
-13893	Training stones
+13893	Training Stones
 13894	Aura of gold
 13895	Stones of the beach
 13896	Flower of the Sacrifice
@@ -15468,3 +15468,10 @@
 15467	Open
 15468	Essence of Cosmo
 15469	Collect
+15470	Red Bush
+15471	Collecting
+15472	Yellow Bush
+15473	Collecting
+15474	Blue Bush
+15475	Collecting
+15476	Essence

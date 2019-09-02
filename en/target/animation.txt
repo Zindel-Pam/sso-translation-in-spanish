@@ -104,7 +104,7 @@
 103	Atlantis - Players VS Hipocampo
 104	Castle of Hades - Players VS Radamanthys
 105	Underworld - Cross the Acheron
-106	Underworld - Eurydice
+106	Underworld - Euridice
 107	Underworld - Bathed in the power of the Titan
 108	Inframundo - Shaka enters the field
 109	Underworld - Star Summit six days
@@ -284,9 +284,9 @@
 283	Young Brave!
 284	Please, Follow what your heart believes!
 285	Field of the Golden Flowers
-286	Orpheus and Eurydice
+286	Orpheus and Euridice
 287	Suffocating Melody!
-288	Eurydice's death has left Orpheus in an endless sadness
+288	Euridice's death has left Orpheus in an endless sadness
 289	Be people, birds or insects,
 290	can only be lived once.
 291	Even the brightest stars are no exception.

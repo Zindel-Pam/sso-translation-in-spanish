@@ -4585,8 +4585,8 @@
 4584	Intruder! Do not think that you will escape
 4585	Freeze Air Fist!
 4586	I lost for a Knight? What the hell!
-4587	$UImid$noname $nobubble Shido: Who dares to rape the great continent of ice? I will not let you take another step!
-4588	$UImid$noname $nobubble Shido: Who dares to rape the great continent of ice? I will not let you take another step!
+4587	$UImid$noname $nobubble Shido: Who dares to commit to the continent of ice? I want you to make it difficult!
+4588	$UImid$noname $nobubble Shido: Who dares to commit to the continent of ice? I want you to make it difficult!
 4589	$UImid$noname $nobubble Fenrir: a lot of useless; These few Knights will not win! I'm going to bury them in the snow mountain!
 4590	End of the Instance Zone
 4591	$spec questportrait_254

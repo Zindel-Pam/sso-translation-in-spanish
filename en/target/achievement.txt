@@ -77,8 +77,8 @@
 76	Go to ${npc(14799)} to create or participate in an Army
 77	Participate in the Duel Arena
 78	Go to the interface of the ${dynamic_dir(26, "Duel Arena")} and conquer 10 wins.
-79	Change Sign 1x
-80	Go to ${npc(18405)} and change Sign 1x
+79	Change Constellation 1x
+80	Go to ${npc(18405)} and change Constellation 1x
 81	Make a purchase with Emeralds in the Item Mall
 82	Go to ${dynamic_dir(44, "Item Mall")} and make a purchase with Emerald
 83	Strengthen the Cosmo 1x
@@ -754,7 +754,7 @@
 753	Divine Lutador · Alraune
 754	Defeat Alrau. in [[Hero] Cas. Hades] Dif. Lu.Di.
 755	Divine Worshiper · Harpy
-756	Defeat Harpía in [[Hero] Ca. Hades] Dif. Lu.Di.
+756	Defeat Harpy in [[Hero] Ca. Hades] Dif. Lu.Di.
 757	Divine Warrior · Frog
 758	Defeat Frog in [[Hero] Cas. Hades] Dif. Lu.Di.
 759	Divine Worshiper · Wyvern
@@ -762,14 +762,14 @@
 761	Divine Soldier · Alraune
 762	Defeat Alrau. in [[Hero] Cas. Hades] Dif. So.Di.
 763	Divine Soldier · Harpy
-764	Defeat Harpía in [[Hero] Ca. Hades] Dif. So.Di.
+764	Defeat Harpy in [[Hero] Ca. Hades] Dif. So.Di.
 765	Divine Soldier · Frog
 766	Defeat Frog in [[Hero] Cas. Hades] Dif. So.Di.
 767	Divine Soldier · Wyvern
 768	Defeat Wyv. in [[Hero] Cas. Hades] Dif. Lu.So.
 769	Demigods · Alraune
 770	Defeat Alrau. in [[Hero] Cas. Hades] Dif. Semi.
-771	Demigods · Harpía
+771	Demigods · Harpy
 772	Defeat Harpy in [[Hero] Ca. Hades] Dif. Semi.
 773	Demigods · Frog
 774	Defeat Frog in [[Hero] Cas. Hades] Dif. Semi.
@@ -778,7 +778,7 @@
 777	Killer of the Gods · Alraune
 778	Defeat Alrau. in [[Hero] Cas. Hades] Dif. As.Di.
 779	Killer of the Gods · Harpy
-780	Defeat Harpía in [[Hero] Cas. Hades] Dif. As.Di.
+780	Defeat Harpy in [[Hero] Cas. Hades] Dif. As.Di.
 781	Assassin of the Gods · Frog
 782	Defeat Frog in [[Hero] Cas. Hades] Dif. As.Di.
 783	Killer of the Gods · Wyvern
