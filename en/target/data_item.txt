@@ -3643,11 +3643,11 @@
 3642	Use
 3643	Beginner Gift Pack (level 95)
 3644	Use
-3645	Power Center EXP Double
+3645	Double EXP Jewel
 3646	Use
 3647	Small Star Heart Sack
 3648	Large Star Heart Sack
-3649	星 Pa Gift Pack
+3649	Xinghua Gift Pack
 3650	Use
 3651	Star Jade Gift Pack
 3652	Use
@@ -7762,7 +7762,7 @@
 7761	Hyper Potion III
 7762	Destination Data
 7763	World Megaphone
-7764	Power Center EXP Double
+7764	Double EXP Jewel
 7765	Hyper Potion IV
 7766	^a800ff Rabbit bomb x1 (maximum qualification limit 4000)
 7767	^a800ff Cosmic Key x999

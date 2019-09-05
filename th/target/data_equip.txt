@@ -1,0 +1,3424 @@
+0	เครื่องราง10wโจมตี
+1	GMsuperLifeHeadband
+2	GMsuperLifeRing
+3	GMsuperLife Talisman
+4	GMsuperLifeShirt
+5	GMsuperLifePants
+6	GMsuperLifeNecklace
+7	หลบหลีก8128
+8	ตีโดน4000
+9	ทดลอง
+10	หมวกเกราะเพกาซัส
+11	เกราะอกเพกาซัส
+12	หมวกเกราะเพกาซัส
+13	เกราะอกเพกาซัส
+14	เกราะขาเพกาซัส
+15	เกราะมือเพกาซัส
+16	ทดลอง1
+17	ทดสอบดาบคู่ชุดอุปกรณ์
+18	ทดสอบขวานชุดอุปกรณ์
+19	Achilles Pants
+20	Philoctetes boots
+21	Hermes Wind Boots
+22	Philoctetes boots
+23	Hermes Wind Boots
+24	ชุดต่อสู้มังกรสองหัว
+25	ชุดลองดาบของชูร่า
+26	Kanon of Prison Pants
+27	Saul Thunder Pants
+28	Monitoring Dohko Pants
+29	Achilles Pants
+30	Philoctetes boots
+31	Hermes Wind Boots
+32	Cyclone Greaves
+33	Ares Greaves
+34	Cyclone Greaves
+35	Ares Greaves
+36	Cyclone Greaves
+37	Ares Greaves
+38	Cyclone Greaves
+39	Ares Greaves
+40	Captain Pants
+41	Captain Pants
+42	Captain Pants
+43	Captain Pants
+44	Captain Pants
+45	Captain Pants
+46	Ruler Pants
+47	Ruler Pants
+48	Ruler Pants
+49	Ruler Pants
+50	Ruler Pants
+51	Ruler Pants
+52	Hermes Pants
+53	Hermes Pants
+54	Hermes Pants
+55	Hermes Pants
+56	Hermes Pants
+57	Hermes Pants
+58	Hermes Pants
+59	Hermes Pants
+60	Hermes Pants
+61	Hermes Pants
+62	Hermes Pants
+63	Hermes Pants
+64	Snow Faction OstravaPants
+65	Snow Faction OstravaPants
+66	Snow Faction OstravaPants
+67	Snow Faction OstravaPants
+68	Snow Faction OstravaPants
+69	Snow Faction OstravaPants
+70	Dionysus Clothing
+71	Dionysus Clothing
+72	Dionysus Clothing
+73	Dionysus Clothing
+74	Dionysus Clothing
+75	Dionysus Clothing
+76	Apprentice Pants
+77	Apprentice Pants
+78	Apprentice Pants
+79	Apprentice Pants
+80	Apprentice Pants
+81	Apprentice Pants
+82	Recruits Pants
+83	Recruits Pants
+84	Recruits Pants
+85	Recruits Pants
+86	Recruits Pants
+87	Recruits Pants
+88	Warrior Pants
+89	Warrior Pants
+90	Warrior Pants
+91	Warrior Pants
+92	Warrior Pants
+93	Warrior Pants
+94	Guard Pants
+95	Guard Pants
+96	Guard Pants
+97	Guard Pants
+98	Guard Pants
+99	Guard Pants
+100	Gladiator Pants
+101	Gladiator Pants
+102	Gladiator Pants
+103	Gladiator Pants
+104	Gladiator Pants
+105	Gladiator Pants
+106	Centurion Pants
+107	Centurion Pants
+108	Centurion Pants
+109	Centurion Pants
+110	Centurion Pants
+111	Centurion Pants
+112	Holocaust Pants
+113	Holocaust Pants
+114	Holocaust Pants
+115	Holocaust Pants
+116	Holocaust Pants
+117	Holocaust Pants
+118	Challenger Pants
+119	Challenger Pants
+120	Challenger Pants
+121	Challenger Pants
+122	Challenger Pants
+123	Challenger Pants
+124	Hero Pants
+125	Hero Pants
+126	Hero Pants
+127	Hero Pants
+128	Hero Pants
+129	Hero Pants
+130	Lion leather of Hercules Belt
+131	Roar Crown
+132	Artemis headband
+133	Roar Crown
+134	Artemis headband
+135	Valkyrie Helmet
+136	Aphrodite Rose
+137	Mu Ribbon
+138	God pot seal Belt
+139	Rodrigo Belt
+140	Lion leather of Hercules Belt
+141	Roar Crown
+142	Artemis headband
+143	Flag of Taros
+144	Ares helmet
+145	Flag of Taros
+146	Ares helmet
+147	Flag of Taros
+148	Ares helmet
+149	Flag of Taros
+150	Ares helmet
+151	Captain Headband
+152	Captain Headband
+153	Captain Headband
+154	Captain Headband
+155	Captain Headband
+156	Captain Headband
+157	Ruler Headband
+158	Ruler Headband
+159	Ruler Headband
+160	Ruler Headband
+161	Ruler Headband
+162	Ruler Headband
+163	Atlas Headband
+164	Atlas Headband
+165	Atlas Headband
+166	Atlas Headband
+167	Atlas Headband
+168	Atlas Headband
+169	Hercules Headband
+170	Hercules Headband
+171	Hercules Headband
+172	Hercules Headband
+173	Hercules Headband
+174	Hercules Headband
+175	CapaneusHeadband
+176	CapaneusHeadband
+177	CapaneusHeadband
+178	CapaneusHeadband
+179	CapaneusHeadband
+180	CapaneusHeadband
+181	Demeter Headband
+182	Demeter Headband
+183	Demeter Headband
+184	Demeter Headband
+185	Demeter Headband
+186	Demeter Headband
+187	Apprentice Headband
+188	Apprentice Headband
+189	Apprentice Headband
+190	Apprentice Headband
+191	Apprentice Headband
+192	Apprentice Headband
+193	Recruit Headband
+194	Recruit Headband
+195	Recruit Headband
+196	Recruit Headband
+197	Recruit Headband
+198	Recruit Headband
+199	Warrior Headband
+200	Warrior Headband
+201	Warrior Headband
+202	Warrior Headband
+203	Warrior Headband
+204	Warrior Headband
+205	Guard Headband
+206	Guard Headband
+207	Guard Headband
+208	Guard Headband
+209	Guard Headband
+210	Guard Headband
+211	Gladiator Headband
+212	Gladiator Headband
+213	Gladiator Headband
+214	Gladiator Headband
+215	Gladiator Headband
+216	Gladiator Headband
+217	Centurion Headband
+218	Centurion Headband
+219	Centurion Headband
+220	Centurion Headband
+221	Centurion Headband
+222	Centurion Headband
+223	Holocaust Headband
+224	Holocaust Headband
+225	Holocaust Headband
+226	Holocaust Headband
+227	Holocaust Headband
+228	Holocaust Headband
+229	Challenger Headband
+230	Challenger Headband
+231	Challenger Headband
+232	Challenger Headband
+233	Challenger Headband
+234	Challenger Headband
+235	Heroes Headband
+236	Heroes Headband
+237	Heroes Headband
+238	Heroes Headband
+239	Heroes Headband
+240	Heroes Headband
+241	Destiny Emblem
+242	Titan Emblem
+243	Olympus Emblem
+244	Titan Emblem
+245	Olympus Emblem
+246	Medusa Emblem
+247	Hydra Emblem
+248	Victory Emblem
+249	Conquest Emblem
+250	Justice Emblem
+251	Destiny Emblem
+252	Titan Emblem
+253	Olympus Emblem
+254	Titan Emblem
+255	Ares Badge
+256	Titan Emblem
+257	Ares Badge
+258	Titan Emblem
+259	Ares Badge
+260	Titan Emblem
+261	Ares Badge
+262	Victory Emblem
+263	Victory Emblem
+264	Victory Emblem
+265	Victory Emblem
+266	Victory Emblem
+267	Victory Emblem
+268	Conquest Emblem
+269	Conquest Emblem
+270	Conquest Emblem
+271	Conquest Emblem
+272	Conquest Emblem
+273	Conquest Emblem
+274	Justice Emblem
+275	Justice Emblem
+276	Justice Emblem
+277	Justice Emblem
+278	Justice Emblem
+279	Justice Emblem
+280	Destiny Emblem
+281	Destiny Emblem
+282	Destiny Emblem
+283	Destiny Emblem
+284	Destiny Emblem
+285	Destiny Emblem
+286	Titan Emblem
+287	Titan Emblem
+288	Titan Emblem
+289	Titan Emblem
+290	Titan Emblem
+291	Titan Emblem
+292	Olympus Emblem
+293	Olympus Emblem
+294	Olympus Emblem
+295	Olympus Emblem
+296	Olympus Emblem
+297	Olympus Emblem
+298	Apprentice Emblem
+299	Apprentice Emblem
+300	Apprentice Emblem
+301	Apprentice Emblem
+302	Apprentice Emblem
+303	Apprentice Emblem
+304	Priests Emblem
+305	Priests Emblem
+306	Priests Emblem
+307	Priests Emblem
+308	Priests Emblem
+309	Priests Emblem
+310	Elder Emblem
+311	Elder Emblem
+312	Elder Emblem
+313	Elder Emblem
+314	Elder Emblem
+315	Elder Emblem
+316	Kyogo Emblem
+317	Kyogo Emblem
+318	Kyogo Emblem
+319	Kyogo Emblem
+320	Kyogo Emblem
+321	Kyogo Emblem
+322	Centaurus Emblem
+323	Centaurus Emblem
+324	Centaurus Emblem
+325	Centaurus Emblem
+326	Centaurus Emblem
+327	Centaurus Emblem
+328	Eagle Emblem
+329	Eagle Emblem
+330	Eagle Emblem
+331	Eagle Emblem
+332	Eagle Emblem
+333	Eagle Emblem
+334	Griffin Emblem
+335	Griffin Emblem
+336	Griffin Emblem
+337	Griffin Emblem
+338	Griffin Emblem
+339	Griffin Emblem
+340	Medusa Emblem
+341	Medusa Emblem
+342	Medusa Emblem
+343	Medusa Emblem
+344	Medusa Emblem
+345	Medusa Emblem
+346	Hydra Emblem
+347	Hydra Emblem
+348	Hydra Emblem
+349	Hydra Emblem
+350	Hydra Emblem
+351	Hydra Emblem
+352	เทพมรณะ•ดาวแห่งล้ำลึก
+353	Argus Star
+354	Ring of Fate
+355	Argus Star
+356	Ring of Fate
+357	Ring of Nibelung
+358	Ring of Aldebaran
+359	Ring of Aiolos
+360	Ring of Life
+361	Extreme Ring
+362	เทพมรณะ•ดาวแห่งล้ำลึก
+363	Argus Star
+364	Ring of Fate
+365	Eye Talos
+366	Ring Ares
+367	Eye Talos
+368	Ring Ares
+369	Eye Talos
+370	Ring Ares
+371	Eye Talos
+372	Ring Ares
+373	Kyogo Ring
+374	Kyogo Ring
+375	Kyogo Ring
+376	Kyogo Ring
+377	Kyogo Ring
+378	Kyogo Ring
+379	Jordan Stone
+380	Jordan Stone
+381	Jordan Stone
+382	Jordan Stone
+383	Jordan Stone
+384	Jordan Stone
+385	Ring of Nibelung
+386	Ring of Nibelung
+387	Ring of Nibelung
+388	Ring of Nibelung
+389	Ring of Nibelung
+390	Ring of Nibelung
+391	Cronus Ring
+392	Cronus Ring
+393	Cronus Ring
+394	Cronus Ring
+395	Cronus Ring
+396	Cronus Ring
+397	Zeus warRing
+398	Zeus warRing
+399	Zeus warRing
+400	Zeus warRing
+401	Zeus warRing
+402	Zeus warRing
+403	Ostrava Dawn Ring
+404	Ostrava Dawn Ring
+405	Ostrava Dawn Ring
+406	Ostrava Dawn Ring
+407	Ostrava Dawn Ring
+408	Ostrava Dawn Ring
+409	Apprentice Ring
+410	Apprentice Ring
+411	Apprentice Ring
+412	Apprentice Ring
+413	Apprentice Ring
+414	Apprentice Ring
+415	Monk Ring
+416	Monk Ring
+417	Monk Ring
+418	Monk Ring
+419	Monk Ring
+420	Monk Ring
+421	Iron Ring
+422	Iron Ring
+423	Iron Ring
+424	Iron Ring
+425	Iron Ring
+426	Iron Ring
+427	Red Tin Ring
+428	Red Tin Ring
+429	Red Tin Ring
+430	Red Tin Ring
+431	Red Tin Ring
+432	Red Tin Ring
+433	Bronze Ring
+434	Bronze Ring
+435	Bronze Ring
+436	Bronze Ring
+437	Bronze Ring
+438	Bronze Ring
+439	Steel Ring
+440	Steel Ring
+441	Steel Ring
+442	Steel Ring
+443	Steel Ring
+444	Steel Ring
+445	Silver Ring
+446	Silver Ring
+447	Silver Ring
+448	Silver Ring
+449	Silver Ring
+450	Silver Ring
+451	Gold Ring
+452	Gold Ring
+453	Gold Ring
+454	Gold Ring
+455	Gold Ring
+456	Gold Ring
+457	Fairy Ring
+458	Fairy Ring
+459	Fairy Ring
+460	Fairy Ring
+461	Fairy Ring
+462	Fairy Ring
+463	Themis justice
+464	Strength Heracles
+465	Cronus ruling
+466	Strength Heracles
+467	Cronus ruling
+468	Carl Fist
+469	Water Crystal Fist
+470	Aldebaran force
+471	Thanatos sanction
+472	Egyptian Intuit
+473	Themis justice
+474	Strength Heracles
+475	Cronus ruling
+476	Talos Fist
+477	Ares Fist
+478	Talos Fist
+479	Ares Fist
+480	Talos Fist
+481	Ares Fist
+482	Talos Fist
+483	Ares Fist
+484	Fist discipline
+485	Fist discipline
+486	Fist discipline
+487	Fist discipline
+488	Fist discipline
+489	Fist discipline
+490	Justice Shirt
+491	Justice Shirt
+492	Justice Shirt
+493	Justice Shirt
+494	Justice Shirt
+495	Justice Shirt
+496	Gold Saint Fist
+497	Gold Saint Fist
+498	Gold Saint Fist
+499	Gold Saint Fist
+500	Gold Saint Fist
+501	Gold Saint Fist
+502	War God Fist
+503	War God Fist
+504	War God Fist
+505	War God Fist
+506	War God Fist
+507	War God Fist
+508	Kronos Fist
+509	Kronos Fist
+510	Kronos Fist
+511	Kronos Fist
+512	Kronos Fist
+513	Kronos Fist
+514	Achilles Fist
+515	Achilles Fist
+516	Achilles Fist
+517	Achilles Fist
+518	Achilles Fist
+519	Achilles Fist
+520	Apprentice Fist
+521	Apprentice Fist
+522	Apprentice Fist
+523	Apprentice Fist
+524	Apprentice Fist
+525	Apprentice Fist
+526	Recruits Fist
+527	Recruits Fist
+528	Recruits Fist
+529	Recruits Fist
+530	Recruits Fist
+531	Recruits Fist
+532	Warrior Fist
+533	Warrior Fist
+534	Warrior Fist
+535	Warrior Fist
+536	Warrior Fist
+537	Warrior Fist
+538	Gladiator Fist
+539	Gladiator Fist
+540	Gladiator Fist
+541	Gladiator Fist
+542	Gladiator Fist
+543	Gladiator Fist
+544	Marshal Fist
+545	Marshal Fist
+546	Marshal Fist
+547	Marshal Fist
+548	Marshal Fist
+549	Marshal Fist
+550	Light Fist
+551	Light Fist
+552	Light Fist
+553	Light Fist
+554	Light Fist
+555	Light Fist
+556	Fist massacre
+557	Fist massacre
+558	Fist massacre
+559	Fist massacre
+560	Fist massacre
+561	Fist massacre
+562	Hero Fist
+563	Hero Fist
+564	Hero Fist
+565	Hero Fist
+566	Hero Fist
+567	Hero Fist
+568	Fist ruler
+569	Fist ruler
+570	Fist ruler
+571	Fist ruler
+572	Fist ruler
+573	Fist ruler
+574	Coronal Bracelet
+575	วงแหวนแห่งจักรราศี
+576	ห่วงลอเรลแห่งดาฟเน่
+577	วงแหวนแห่งจักรราศี
+578	ห่วงลอเรลแห่งดาฟเน่
+579	Sacrifice Bracelet
+580	Holy Bracelet
+581	Sacrifice Bracelet
+582	Judgment Bracelet
+583	Ocean Bracelet
+584	Coronal Bracelet
+585	วงแหวนแห่งจักรราศี
+586	ห่วงลอเรลแห่งดาฟเน่
+587	วงแหวนแห่งจักรราศี
+588	Destroy Ares
+589	วงแหวนแห่งจักรราศี
+590	Destroy Ares
+591	วงแหวนแห่งจักรราศี
+592	Destroy Ares
+593	วงแหวนแห่งจักรราศี
+594	Destroy Ares
+595	Sacrifice Bracelet
+596	Sacrifice Bracelet
+597	Sacrifice Bracelet
+598	Sacrifice Bracelet
+599	Sacrifice Bracelet
+600	Sacrifice Bracelet
+601	Judgment Bracelet
+602	Judgment Bracelet
+603	Judgment Bracelet
+604	Judgment Bracelet
+605	Judgment Bracelet
+606	Judgment Bracelet
+607	Ocean Bracelet
+608	Ocean Bracelet
+609	Ocean Bracelet
+610	Ocean Bracelet
+611	Ocean Bracelet
+612	Ocean Bracelet
+613	Coronal Bracelet
+614	Coronal Bracelet
+615	Coronal Bracelet
+616	Coronal Bracelet
+617	Coronal Bracelet
+618	Coronal Bracelet
+619	วงแหวนแห่งจักรราศี
+620	วงแหวนแห่งจักรราศี
+621	วงแหวนแห่งจักรราศี
+622	วงแหวนแห่งจักรราศี
+623	วงแหวนแห่งจักรราศี
+624	วงแหวนแห่งจักรราศี
+625	ห่วงลอเรลแห่งดาฟเน่
+626	ห่วงลอเรลแห่งดาฟเน่
+627	ห่วงลอเรลแห่งดาฟเน่
+628	ห่วงลอเรลแห่งดาฟเน่
+629	ห่วงลอเรลแห่งดาฟเน่
+630	ห่วงลอเรลแห่งดาฟเน่
+631	Apprentice Bracelet
+632	Apprentice Bracelet
+633	Apprentice Bracelet
+634	Apprentice Bracelet
+635	Apprentice Bracelet
+636	Apprentice Bracelet
+637	Ivy Bracelet
+638	Ivy Bracelet
+639	Ivy Bracelet
+640	Ivy Bracelet
+641	Ivy Bracelet
+642	Ivy Bracelet
+643	Goldenflower Bracelet
+644	Goldenflower Bracelet
+645	Goldenflower Bracelet
+646	Goldenflower Bracelet
+647	Goldenflower Bracelet
+648	Goldenflower Bracelet
+649	Lilies Bracelet
+650	Lilies Bracelet
+651	Lilies Bracelet
+652	Lilies Bracelet
+653	Lilies Bracelet
+654	Lilies Bracelet
+655	Snakebone Bracelet
+656	Snakebone Bracelet
+657	Snakebone Bracelet
+658	Snakebone Bracelet
+659	Snakebone Bracelet
+660	Snakebone Bracelet
+661	Obsidian Bracelet
+662	Obsidian Bracelet
+663	Obsidian Bracelet
+664	Obsidian Bracelet
+665	Obsidian Bracelet
+666	Obsidian Bracelet
+667	Meteorite Bracelet
+668	Meteorite Bracelet
+669	Meteorite Bracelet
+670	Meteorite Bracelet
+671	Meteorite Bracelet
+672	Meteorite Bracelet
+673	Sacrifice Bracelet
+674	Sacrifice Bracelet
+675	Sacrifice Bracelet
+676	Sacrifice Bracelet
+677	Sacrifice Bracelet
+678	Sacrifice Bracelet
+679	Holy Bracelet
+680	Holy Bracelet
+681	Holy Bracelet
+682	Holy Bracelet
+683	Holy Bracelet
+684	Holy Bracelet
+685	ฮิปนอส•ดาวแห่งการหลับใหล
+686	Lopez Horn
+687	Demeter blessing of Life
+688	Lopez Horn
+689	Demeter blessing of Life
+690	การหลอกลวงของโลกิ
+691	ผลึกน้ำแข็งของคามิว
+692	ตราประทับความดีชั่วของซากะ
+693	Magic Star Seal
+694	God's Dream Mithril
+695	ฮิปนอส•ดาวแห่งการหลับใหล
+696	Lopez Horn
+697	Demeter blessing of Life
+698	Taros battle
+699	Ares Power talisman
+700	Taros battle
+701	Ares Power talisman
+702	Taros battle
+703	Ares Power talisman
+704	Taros battle
+705	Ares Power talisman
+706	Light Amulet
+707	Light Amulet
+708	Light Amulet
+709	Light Amulet
+710	Light Amulet
+711	Light Amulet
+712	God Wish Amulet
+713	God Wish Amulet
+714	God Wish Amulet
+715	God Wish Amulet
+716	God Wish Amulet
+717	God Wish Amulet
+718	Muse Amulet
+719	Muse Amulet
+720	Muse Amulet
+721	Muse Amulet
+722	Muse Amulet
+723	Muse Amulet
+724	Gaia Amulet
+725	Gaia Amulet
+726	Gaia Amulet
+727	Gaia Amulet
+728	Gaia Amulet
+729	Gaia Amulet
+730	AmphiarausTalisman
+731	AmphiarausTalisman
+732	AmphiarausTalisman
+733	AmphiarausTalisman
+734	AmphiarausTalisman
+735	AmphiarausTalisman
+736	Argos talisman
+737	Argos talisman
+738	Argos talisman
+739	Argos talisman
+740	Argos talisman
+741	Argos talisman
+742	Apprentice Amulet
+743	Apprentice Amulet
+744	Apprentice Amulet
+745	Apprentice Amulet
+746	Apprentice Amulet
+747	Apprentice Amulet
+748	Alchemist Amulet
+749	Alchemist Amulet
+750	Alchemist Amulet
+751	Alchemist Amulet
+752	Alchemist Amulet
+753	Alchemist Amulet
+754	Psychic Amulet
+755	Psychic Amulet
+756	Psychic Amulet
+757	Psychic Amulet
+758	Psychic Amulet
+759	Psychic Amulet
+760	Prophet Amulet
+761	Prophet Amulet
+762	Prophet Amulet
+763	Prophet Amulet
+764	Prophet Amulet
+765	Prophet Amulet
+766	Element Amulet
+767	Element Amulet
+768	Element Amulet
+769	Element Amulet
+770	Element Amulet
+771	Element Amulet
+772	Wisp Amulet
+773	Wisp Amulet
+774	Wisp Amulet
+775	Wisp Amulet
+776	Wisp Amulet
+777	Wisp Amulet
+778	Amulet of Star
+779	Amulet of Star
+780	Amulet of Star
+781	Amulet of Star
+782	Amulet of Star
+783	Amulet of Star
+784	Amulet of Dream
+785	Amulet of Dream
+786	Amulet of Dream
+787	Amulet of Dream
+788	Amulet of Dream
+789	Amulet of Dream
+790	Amulet of Time
+791	Amulet of Time
+792	Amulet of Time
+793	Amulet of Time
+794	Amulet of Time
+795	Amulet of Time
+796	Odysseus Stone
+797	Cassandra Stone
+798	Minerva Stone
+799	Cassandra Stone
+800	Minerva Stone
+801	Eternal Stone
+802	Deserted Stone
+803	Dream Stone
+804	Wisdom Stone
+805	None Stone
+806	Odysseus Stone
+807	Cassandra Stone
+808	Minerva Stone
+809	Cassandra Stone
+810	Bloody Ares
+811	Cassandra Stone
+812	Bloody Ares
+813	Cassandra Stone
+814	Bloody Ares
+815	Cassandra Stone
+816	Bloody Ares
+817	Dream Stone
+818	Dream Stone
+819	Dream Stone
+820	Dream Stone
+821	Dream Stone
+822	Dream Stone
+823	Wisdom Stone
+824	Wisdom Stone
+825	Wisdom Stone
+826	Wisdom Stone
+827	Wisdom Stone
+828	Wisdom Stone
+829	None Stone
+830	None Stone
+831	None Stone
+832	None Stone
+833	None Stone
+834	None Stone
+835	Odysseus Stone
+836	Odysseus Stone
+837	Odysseus Stone
+838	Odysseus Stone
+839	Odysseus Stone
+840	Odysseus Stone
+841	Cassandra Stone
+842	Cassandra Stone
+843	Cassandra Stone
+844	Cassandra Stone
+845	Cassandra Stone
+846	Cassandra Stone
+847	Minerva Stone
+848	Minerva Stone
+849	Minerva Stone
+850	Minerva Stone
+851	Minerva Stone
+852	Minerva Stone
+853	Apprentice Stone
+854	Apprentice Stone
+855	Apprentice Stone
+856	Apprentice Stone
+857	Apprentice Stone
+858	Apprentice Stone
+859	Hermit Stone
+860	Hermit Stone
+861	Hermit Stone
+862	Hermit Stone
+863	Hermit Stone
+864	Hermit Stone
+865	Wise Stone
+866	Wise Stone
+867	Wise Stone
+868	Wise Stone
+869	Wise Stone
+870	Wise Stone
+871	Sage Stone
+872	Sage Stone
+873	Sage Stone
+874	Sage Stone
+875	Sage Stone
+876	Sage Stone
+877	Prophet Stone
+878	Prophet Stone
+879	Prophet Stone
+880	Prophet Stone
+881	Prophet Stone
+882	Prophet Stone
+883	Guidance Stone
+884	Guidance Stone
+885	Guidance Stone
+886	Guidance Stone
+887	Guidance Stone
+888	Guidance Stone
+889	Future Stone
+890	Future Stone
+891	Future Stone
+892	Future Stone
+893	Future Stone
+894	Future Stone
+895	Eternal Stone
+896	Eternal Stone
+897	Eternal Stone
+898	Eternal Stone
+899	Eternal Stone
+900	Eternal Stone
+901	Deserted Stone
+902	Deserted Stone
+903	Deserted Stone
+904	Deserted Stone
+905	Deserted Stone
+906	Deserted Stone
+907	Perseus Robe
+908	ImmortalArmor
+909	Hephaestus existence
+910	ImmortalArmor
+911	Hephaestus existence
+912	Thief Kidd Clothes
+913	Deathmask of Clothes
+914	Aiolia Clothing
+915	Odin Clothing
+916	God Shion Clothing
+917	Perseus Robe
+918	ImmortalArmor
+919	Hephaestus existence
+920	Guardian of Talos
+921	God of war Ares
+922	Guardian of Talos
+923	God of war Ares
+924	Guardian of Talos
+925	God of war Ares
+926	Guardian of Talos
+927	God of war Ares
+928	Captain Shirt
+929	Captain Shirt
+930	Captain Shirt
+931	Captain Shirt
+932	Captain Shirt
+933	Captain Shirt
+934	Rulers Shirt
+935	Rulers Shirt
+936	Rulers Shirt
+937	Rulers Shirt
+938	Rulers Shirt
+939	Rulers Shirt
+940	Theseus Shirt
+941	Theseus Shirt
+942	Theseus Shirt
+943	Theseus Shirt
+944	Theseus Shirt
+945	Theseus Shirt
+946	Mars Shirt
+947	Mars Shirt
+948	Mars Shirt
+949	Mars Shirt
+950	Mars Shirt
+951	Mars Shirt
+952	HippomedonShirt
+953	HippomedonShirt
+954	HippomedonShirt
+955	HippomedonShirt
+956	HippomedonShirt
+957	HippomedonShirt
+958	Hestia Shirt
+959	Hestia Shirt
+960	Hestia Shirt
+961	Hestia Shirt
+962	Hestia Shirt
+963	Hestia Shirt
+964	Apprentice Shirt
+965	Apprentice Shirt
+966	Apprentice Shirt
+967	Apprentice Shirt
+968	Apprentice Shirt
+969	Apprentice Shirt
+970	Recruit Shirt
+971	Recruit Shirt
+972	Recruit Shirt
+973	Recruit Shirt
+974	Recruit Shirt
+975	Recruit Shirt
+976	Warrior Shirt
+977	Warrior Shirt
+978	Warrior Shirt
+979	Warrior Shirt
+980	Warrior Shirt
+981	Warrior Shirt
+982	Guard Shirt
+983	Guard Shirt
+984	Guard Shirt
+985	Guard Shirt
+986	Guard Shirt
+987	Guard Shirt
+988	Gladiator Shirt
+989	Gladiator Shirt
+990	Gladiator Shirt
+991	Gladiator Shirt
+992	Gladiator Shirt
+993	Gladiator Shirt
+994	Centurion Shirt
+995	Centurion Shirt
+996	Centurion Shirt
+997	Centurion Shirt
+998	Centurion Shirt
+999	Centurion Shirt
+1000	Slaughter Shirt
+1001	Slaughter Shirt
+1002	Slaughter Shirt
+1003	Slaughter Shirt
+1004	Slaughter Shirt
+1005	Slaughter Shirt
+1006	Challenger Shirt
+1007	Challenger Shirt
+1008	Challenger Shirt
+1009	Challenger Shirt
+1010	Challenger Shirt
+1011	Challenger Shirt
+1012	Hero Shirt
+1013	Hero Shirt
+1014	Hero Shirt
+1015	Hero Shirt
+1016	Hero Shirt
+1017	Hero Shirt
+1018	Apprentice Shirt
+1019	Apprentice Shirt
+1020	Pluto Silver Chain
+1021	Argus Pendant
+1022	Aphrodite of Star Light
+1023	Argus Pendant
+1024	Aphrodite of Star Light
+1025	Tiger Eye Chain
+1026	Scorpion Miro Necklace
+1027	Saga of Salvation
+1028	Gold Spike Blade
+1029	Pluto Silver Chain
+1030	Pluto Silver Chain
+1031	Argus Pendant
+1032	Aphrodite of Star Light
+1033	Heart of Talos
+1034	Ares Pendant
+1035	Heart of Talos
+1036	Ares Pendant
+1037	Heart of Talos
+1038	Ares Pendant
+1039	Heart of Talos
+1040	Ares Pendant
+1041	Emerald Necklace
+1042	Emerald Necklace
+1043	Emerald Necklace
+1044	Emerald Necklace
+1045	Emerald Necklace
+1046	Emerald Necklace
+1047	Diamond Necklace
+1048	Diamond Necklace
+1049	Diamond Necklace
+1050	Diamond Necklace
+1051	Diamond Necklace
+1052	Diamond Necklace
+1053	Wood Rosary
+1054	Wood Rosary
+1055	Wood Rosary
+1056	Wood Rosary
+1057	Wood Rosary
+1058	Wood Rosary
+1059	Moon Goddess
+1060	Moon Goddess
+1061	Moon Goddess
+1062	Moon Goddess
+1063	Moon Goddess
+1064	Moon Goddess
+1065	HarmoniaNecklace
+1066	HarmoniaNecklace
+1067	HarmoniaNecklace
+1068	HarmoniaNecklace
+1069	HarmoniaNecklace
+1070	HarmoniaNecklace
+1071	Hephaestus Necklace
+1072	Hephaestus Necklace
+1073	Hephaestus Necklace
+1074	Hephaestus Necklace
+1075	Hephaestus Necklace
+1076	Hephaestus Necklace
+1077	Apprentice Necklace
+1078	Apprentice Necklace
+1079	Apprentice Necklace
+1080	Apprentice Necklace
+1081	Apprentice Necklace
+1082	Apprentice Necklace
+1083	Bones Necklace
+1084	Bones Necklace
+1085	Bones Necklace
+1086	Bones Necklace
+1087	Bones Necklace
+1088	Bones Necklace
+1089	Glass Necklace
+1090	Glass Necklace
+1091	Glass Necklace
+1092	Glass Necklace
+1093	Glass Necklace
+1094	Glass Necklace
+1095	Coral Necklace
+1096	Coral Necklace
+1097	Coral Necklace
+1098	Coral Necklace
+1099	Coral Necklace
+1100	Coral Necklace
+1101	Pearl Necklace
+1102	Pearl Necklace
+1103	Pearl Necklace
+1104	Pearl Necklace
+1105	Pearl Necklace
+1106	Pearl Necklace
+1107	Crystal Necklace
+1108	Crystal Necklace
+1109	Crystal Necklace
+1110	Crystal Necklace
+1111	Crystal Necklace
+1112	Crystal Necklace
+1113	Jade Necklace
+1114	Jade Necklace
+1115	Jade Necklace
+1116	Jade Necklace
+1117	Jade Necklace
+1118	Jade Necklace
+1119	Agate Necklace
+1120	Agate Necklace
+1121	Agate Necklace
+1122	Agate Necklace
+1123	Agate Necklace
+1124	Agate Necklace
+1125	Green Necklace
+1126	Green Necklace
+1127	Green Necklace
+1128	Green Necklace
+1129	Green Necklace
+1130	Green Necklace
+1131	TemptationPinion
+1132	Warrior DignityArmor
+1133	Black PearlCoat
+1134	FlamingoDresses
+1135	Sentimental Coat
+1136	Kill Bill
+1137	Ode Autumn Coat
+1138	White Lover Bikini
+1139	Temptation of Eve
+1140	Romantic pink
+1141	Flower Genius blouses
+1142	Panda Suit
+1143	Queen of Adults
+1144	Roman Bikini
+1145	Snow of Love wedding
+1146	Fantasy fairy tale
+1147	Wild Suit[F]
+1148	Magic Orchestra
+1149	American Suit[F]
+1150	Peach Queen Costume
+1151	Blue Queen Costume
+1152	Red Queen Costume
+1153	Pink Queen Costume
+1154	Christmas[F]
+1155	Anniversary Dress
+1156	Nightfall Dress
+1157	New Year Dress
+1158	Rose Princess
+1159	Peach Princess
+1160	Phantom Princess
+1161	Bloody Margaret
+1162	Sweet Love
+1163	Girl Captive
+1164	Maid Clothes
+1165	Soul Hunter Suit
+1166	Red Punk F
+1167	Pink Rock F
+1168	Summer yukata
+1169	Starshine Knight Coat
+1170	Flash light Coat
+1171	Empty Night Uniform
+1172	Red Legion F
+1173	Emerald Legion Gloves
+1174	Monster-Blow snow
+1175	Bill scarlet coat
+1176	Bloody hunter jacket
+1177	Phantom Gold Hunter
+1178	Hunting nightPinion
+1179	Blood HuntingPinion
+1180	Sanctuary glory II Coat
+1181	Soft rap jacket
+1182	Christmas snow Dress
+1183	Auspicious lotusDresses
+1184	Crows Zero shirt F
+1185	Rotation time Coat
+1186	Tranquil wing Coat
+1187	Total fly shirt F
+1188	Dance baseball shirt F
+1189	Leather jacket
+1190	Purple forest
+1191	Silver Light blouses
+1192	Sandy beach blouses
+1193	Blessing Island
+1194	HundRed Tea
+1195	Yellow Tea
+1196	Reverb clover
+1197	Shadow Dance dress
+1198	Last Warrior Armor
+1199	Black Pearl CaptainCoat
+1200	Gorgeous MatadorCoat
+1201	Goblin tattoo Pinion
+1202	Goblin tattoo Pinion
+1203	Red KnightPinion
+1204	Burning Soul Pinion
+1205	Dragon Tattoo
+1206	Dragon TattooPinion
+1207	Dragon TattooPinion
+1208	Lovesnow Pinion
+1209	Lovesnow Pinion
+1210	ลายสักทูตถดถอย
+1211	Autumn coat[M]
+1212	Panda Suit
+1213	Sakura Shirt M
+1214	Snow of Love Suit
+1215	Fantasy fairy tale suit
+1216	Summer Flower Shirt
+1217	Wild Angels
+1218	Wild Angels
+1219	Goblin tattoo 
+1220	Love Tattoo
+1221	Summer Flower Shirt
+1222	Wild Jacket
+1223	Magic denim jacket
+1224	American Shirt
+1225	Pink Apron
+1226	Blue Apron
+1227	Purple Apron
+1228	Green Apron
+1229	Christmas[M]
+1230	Anniversary Clothes
+1231	Night Falls Dress
+1232	Vigorou Clothes
+1233	Dark Knight Dress
+1234	Vampire Knight Dress
+1235	Shadow Knight Dress
+1236	Vampire·Arcado
+1237	Candy Matt
+1238	Kuroshitsuji Dress
+1239	Red Armband Suit
+1240	Burning Soul Suit
+1241	Red Punk Suit
+1242	Pink Rock M
+1243	Midsummer Coat
+1244	Red Knight Coat
+1245	Turmoil Coat
+1246	Night Fury Uniform
+1247	Red Legion M
+1248	Blue Legion M
+1249	Fog hidden-Muramasa
+1250	Scarlet Raptor Coat
+1251	Night Hunter Coat
+1252	Darknight Hunter Shirt
+1253	Hunting nightPinion
+1254	Blood HuntingPinion
+1255	Sanctuary glory Coat
+1256	Hardcore rap Shirt
+1257	Dinner Jesus Coat
+1258	Auspicious cloudDresses
+1259	Crows Zero Coat M
+1260	Meow Coffee beat Coat
+1261	Turbulent wing Coat
+1262	For the sea Coat M
+1263	Cyclones baseball Coat M
+1264	Leather jacket M
+1265	Purple Rose Shirt
+1266	Gold Sun Shirt
+1267	Wheat Shirt
+1268	Feather Island Shirt
+1269	Denim Shirt
+1270	Forest Bear
+1271	Flame Mountain shirt
+1272	Shadow Dance Suit
+1273	Saint School Coat
+1274	Dragon tights
+1275	Girl Heart Red
+1276	Girl Heart Blue
+1277	Girl Heart Pink
+1278	Leopard T-shirt
+1279	Pinkcat Suit
+1280	Leopard Suit
+1281	Bluecat Suit
+1282	Sport Jacket
+1283	Green Jacket
+1284	Boldly Jacket
+1285	Fashion Shirt[F]003D
+1286	Fashion Shirt[F]003E
+1287	Fashion Shirt[F]003F
+1288	Ode Autumn Coat
+1289	Venus T-Shirt[F]
+1290	Snow of Love wedding
+1291	Fantasy fairy tale
+1292	เสื้อFashion Shirt[F]016A
+1293	Shadow Dance dress
+1294	Goblin tattoo Pinion
+1295	Dragon Tattoo Pinion
+1296	Lovesnow Pinion
+1297	ลายสักทูตถดถอย
+1298	FIGHTER
+1299	Justice Shirt
+1300	GAMEOVER
+1301	Inverse Cross
+1302	Sport Jacket
+1303	Green Jacket
+1304	Boldly Jacket
+1305	Fashion Shirt[M]003D
+1306	Fashion Shirt[M]003E
+1307	Fashion Shirt[M]003F
+1308	Autumn coat[M]
+1309	Venus T-Shirt
+1310	Blue sea shirt
+1311	Red sea shirt
+1312	Sea breeze shirt
+1313	Sakura Shirt M
+1314	Snow of Love Suit
+1315	Fantasy fairy tale suit
+1316	Summer Flower Shirt
+1317	Wild Angels
+1318	Wild Angels
+1319	Goblin tattoo 
+1320	Love Tattoo
+1321	Summer Flower Shirt
+1322	Wild Jacket
+1323	Magic denim jacket
+1324	American Shirt
+1325	Fashion Shirt[M]016A
+1326	Shadow Dance Suit
+1327	Black Pants
+1328	White Pants
+1329	Lure
+1330	Lonely
+1331	Pinkcat Stockings
+1332	Leopard Stockings
+1333	Bluecat Stockings
+1334	Sporty Short Skirt[F]
+1335	Red Sport Skirt[F]
+1336	Boldly Skirt[F]
+1337	กางเกงแฟชั่นหญิง003D
+1338	กางเกงแฟชั่นหญิง003E
+1339	Autumn Skirt
+1340	Autumn Pants[F]
+1341	Venus Coat
+1342	ยกเลิก-กางเกงFashion Shirt[F]009B
+1343	ยกเลิก-กางเกงFashion Shirt[F]009C
+1344	กางเกงFashion Shirt[F]016A
+1345	เลคกิ้งเงานักระบำ
+1346	Love Red Pants
+1347	Black Jeans
+1348	Gray Pants
+1349	Blue Jeans
+1350	Blue Stripes
+1351	Sporty Shorts
+1352	Red Shorts
+1353	Boldly Shorts
+1354	กางเกงแฟชั่นชาย003D
+1355	กางเกงแฟชั่นชาย003E
+1356	กางเกงแฟชั่นชาย003F
+1357	Autumn Pants[M]
+1358	Venus Pants
+1359	Blue sea Shorts
+1360	Red sea Shorts
+1361	Sea breeze Shorts
+1362	Sakura Shorts M
+1363	Snow of Love Pants
+1364	Fantasy fairy tale Pants
+1365	Love Duke Pants
+1366	Five Rock Pants
+1367	Star Pants
+1368	กางเกงยีนส์คลั่งรัก
+1369	Wild Jeans
+1370	Magic Jeans
+1371	American Pants
+1372	กางเกงชายแฟชั่นทั่วไป016A
+1373	Shadow Dance pants
+1374	Pumpkin head[F]
+1375	Holy Flawless
+1376	Pure Lolita
+1377	Mystique
+1378	Wild Flower
+1379	Cute Dumpling
+1380	Youth
+1381	Natural
+1382	Scholarly
+1383	Classic
+1384	Elegant Grace
+1385	Warrior Dignity Helmet
+1386	Black Pearl Hat
+1387	Flamingo Headdress
+1388	Wizards Hat[F]
+1389	Kyogo helmet [F]
+1390	Panda Cap[F]
+1391	Paper Cap[F]
+1392	Double tail
+1393	แฟชั่นศีรษะหญิง001B
+1394	แฟชั่นศีรษะหญิง001C
+1395	แฟชั่นศีรษะหญิง001D
+1396	Snow of Love hair
+1397	Fairy fantasy hair
+1398	Peach Queen Tiara
+1399	Blue Queen Tiara
+1400	Red Queen Tiara
+1401	Pink Queen Tiara
+1402	Flower Hairpin
+1403	Shark Headgear F
+1404	Rabbit Ears
+1405	แฟชั่นศีรษะหญิง017B
+1406	Pink Rabbit Ears
+1407	แฟชั่นศีรษะหญิง017D
+1408	Common hair[F]021
+1409	Beret of light
+1410	Sanctuary glory II Helmet
+1411	Dancer Phantom Hair F
+1412	Christmas Headgear[F]
+1413	Pinkcat Hat
+1414	Leopard Hat
+1415	Bluecat Hat
+1416	Skeleton Turban[F]
+1417	Panda Hat F
+1418	Christmas snow Hat
+1419	Auspicious lotusHat
+1420	Instant baseball
+1421	Purple Forest Hat
+1422	Silver Light Milliner
+1423	Sanctuary glory II Gloves
+1424	Devil Corner[F]
+1425	Pumpkin head[M]
+1426	Last Warrior Helmet
+1427	Black Pearl CaptainHat
+1428	Wizards Hat[M]
+1429	Kyogo helmet [M]
+1430	Panda Cap[M]
+1431	Hothead
+1432	เพกาซัส
+1433	ดราก้อน
+1434	ซิกนัส
+1435	อันโดรเมด้า
+1436	ฟีนิกซ์
+1437	แอเรียส
+1438	เวอร์โก้
+1439	พิสซิส
+1440	แคนเซอร์
+1441	Paper Cap[M]
+1442	Cherry Hair
+1443	Broken Glasses
+1444	Fashion Headgear[F]001B
+1445	Fashion Headgear[F]001C
+1446	Fashion Headgear[F]001D
+1447	Lovesnow Headgear
+1448	Fantasy Headgear
+1449	Chicken Headdress
+1450	Shark Headgear
+1451	Common hair [M]021
+1452	Turmoil beret
+1453	Sanctuary glory Helmet
+1454	Phantom Hairpin
+1455	Christmas Headgear[M]
+1456	Tomcat Hat
+1457	Leopard Hat
+1458	Bluecat Hat
+1459	Skeleton Turban
+1460	Panda Hat
+1461	Dinner Jesus Hat
+1462	Auspicious cloudHat 
+1463	Tornado baseball
+1464	Gold Sun Hat
+1465	Devil Corner[M]
+1466	Dancer Phantom Hair F
+1467	Black PearlGloves
+1468	Starter[F]
+1469	Fashion Gloves[F]001B
+1470	Fashion Gloves[F]001C
+1471	Fashion Gloves[F]001D
+1472	Pinkcat Gloves
+1473	Leopard Gloves
+1474	Bluecat Gloves
+1475	Autumn Bracelet[F]
+1476	Venus Gloves[F]
+1477	Skeleton Gloves[F]
+1478	Panda Gloves F
+1479	Queen Whip Gloves
+1480	Christmas Gloves[F]
+1481	New Year Gloves
+1482	Rose Princess Gloves
+1483	Peach Princess Gloves
+1484	Phantom Princess Gloves
+1485	Margaret Gloves
+1486	Sweet Love Glove
+1487	Soul Hunter Gloves
+1488	Red Punk Gloves
+1489	Pink Rock Gloves
+1490	Starshine Knight gloves
+1491	Flash light gloves
+1492	Empty Night gloves
+1493	Red Legion Gloves
+1494	Emerald Legion Gloves
+1495	Sanctuary glory II Gloves
+1496	Leather female Gloves
+1497	Purple forest Gloves
+1498	Silver Light Gloves
+1499	Reverb Gloves
+1500	Black Pearl CaptainGloves
+1501	Starter[M]
+1502	Fashion Gloves[M]001B
+1503	Fashion Gloves[M]001C
+1504	Fashion Gloves[M]001D
+1505	Tomcat Gloves
+1506	Leopard Gloves
+1507	Bluecat Gloves
+1508	Autumn Bracelet
+1509	Venus Gloves
+1510	Skeleton Gloves
+1511	Panda Gloves
+1512	Wild Cowboygloves
+1513	Magic Cowboygloves
+1514	American Gloves
+1515	Christmas Gloves[M]
+1516	Vigorous Spirit Gloves
+1517	Dark Knight Gloves
+1518	Vampire Knight Gloves
+1519	Shadow Knight Gloves
+1520	Accardo Gloves
+1521	Candy Matt Gloves
+1522	Midsummer gloves
+1523	Red Knight gloves
+1524	Turmoil gloves
+1525	Night Fury gloves
+1526	Red Legion Gloves
+1527	Blue Legion Gloves
+1528	Hunting nightGloves
+1529	Darknight Hunter Gloves
+1530	Sanctuary glory Gloves
+1531	Dinner Jesus Gloves
+1532	Turbulent Gloves
+1533	Leather M Gloves
+1534	Flame Mountain Gloves
+1535	Innocent Girl
+1536	Lolita
+1537	Queen
+1538	Glamour Night
+1539	Powerful
+1540	Lily Girl
+1541	Jia Mier[F]
+1542	Snow Girl
+1543	Steel Roses
+1544	Final Mystery
+1545	Hothead
+1546	Sentimental
+1547	Handsome
+1548	Sunshine
+1549	Cute
+1550	Mature
+1551	Jia Mier[M]
+1552	Zen
+1553	Tears Mole
+1554	Evil of Justice
+1555	TemptationPinion
+1556	Warrior DignityArmor
+1557	Black PearlCoat
+1558	FlamingoDresses
+1559	Sentimental Coat
+1560	Kill Bill
+1561	Fashion Shirt[F]005A
+1562	White Lover Bikini
+1563	Temptation of Eve
+1564	Romantic pink
+1565	Golden Sunflower
+1566	Marine Bikini
+1567	Chinese style bikini
+1568	Polka Dot Bikini
+1569	Rainbow Bikini
+1570	Blue Sea Bikini
+1571	Black Bikini
+1572	Pink Bikini
+1573	Pink Sunflower
+1574	Orange Sunflower
+1575	Flower Genius blouses
+1576	Skeleton Suit[F]
+1577	Panda Suit
+1578	Queen of Adults
+1579	Fashion Shirt[F]007B
+1580	Fashion Shirt[F]007C
+1581	Roman Bikini
+1582	Wild Suit[F]
+1583	Magic Orchestra
+1584	American Suit[F]
+1585	Peach Queen Costume
+1586	Blue Queen Costume
+1587	Red Queen Costume
+1588	Pink Queen Costume
+1589	Christmas[F]
+1590	New Year Dress
+1591	Anniversary Dress
+1592	Nightfall Dress
+1593	Rose Princess
+1594	Peach Princess
+1595	Phantom Princess
+1596	Bloody Margaret
+1597	Sweet Love
+1598	Maid Clothes
+1599	Fashion Shirt[F]017B
+1600	Girl Captive
+1601	Fashion Shirt[F]017D
+1602	Soul Hunter Suit
+1603	Red Punk F
+1604	Pink Rock F
+1605	Summer yukata
+1606	Starshine Knight Coat
+1607	Flash light Coat
+1608	Empty Night Uniform
+1609	Red Legion F
+1610	Emerald Legion Gloves
+1611	Monster-Blow snow
+1612	Bill scarlet coat
+1613	Bloody hunter jacket
+1614	Phantom Gold Hunter
+1615	Hunting nightPinion
+1616	Blood HuntingPinion
+1617	Sanctuary glory II Coat
+1618	Soft rap jacket
+1619	Christmas snow Dress
+1620	Auspicious lotusDresses
+1621	Crows Zero shirt F
+1622	Rotation time Coat
+1623	Tranquil wing Coat
+1624	Total fly shirt F
+1625	Dance baseball shirt F
+1626	Leather jacket
+1627	Purple forest
+1628	Silver Light blouses
+1629	Sandy beach blouses
+1630	Blessing Island
+1631	HundRed Tea
+1632	Yellow Tea
+1633	Reverb clover
+1634	Last Warrior Armor
+1635	Black Pearl CaptainCoat
+1636	Gorgeous MatadorCoat
+1637	Goblin tattoo Pinion
+1638	Red KnightPinion
+1639	Burning Soul Pinion
+1640	Dragon Tattoo
+1641	Dragon TattooPinion
+1642	Lovesnow Pinion
+1643	Tomcat Suit
+1644	Leopard Suit
+1645	Bluecat Suit
+1646	Carnival Nightmare
+1647	Panda Suit
+1648	Pink Apron
+1649	Blue Apron
+1650	Purple Apron
+1651	Green Apron
+1652	Christmas[M]
+1653	Vigorou Clothes
+1654	Anniversary Clothes
+1655	Night Falls Dress
+1656	Dark Knight Dress
+1657	Vampire Knight Dress
+1658	Shadow Knight Dress
+1659	Vampire·Arcado
+1660	Candy Matt
+1661	Kuroshitsuji Dress
+1662	Fashion Shirt[M]017B
+1663	Fashion Shirt[M]017C
+1664	Red Armband Suit
+1665	Burning Soul Suit
+1666	Red Punk Suit
+1667	Pink Rock M
+1668	Midsummer Coat
+1669	Red Knight Coat
+1670	Turmoil Coat
+1671	Night Fury Uniform
+1672	Red Legion M
+1673	Blue Legion M
+1674	Fog hidden-Muramasa
+1675	Scarlet Raptor Coat
+1676	Night Hunter Coat
+1677	Darknight Hunter Shirt
+1678	Hunting nightPinion
+1679	Blood HuntingPinion
+1680	Sanctuary glory Coat
+1681	Hardcore rap Shirt
+1682	Dinner Jesus Coat
+1683	Auspicious cloudDresses
+1684	Crows Zero Coat M
+1685	Meow Coffee beat Coat
+1686	Turbulent wing Coat
+1687	For the sea Coat M
+1688	Cyclones baseball Coat M
+1689	Leather jacket M
+1690	Purple Rose Shirt
+1691	Gold Sun Shirt
+1692	Wheat Shirt
+1693	Feather Island Shirt
+1694	Denim Shirt
+1695	Forest Bear
+1696	Flame Mountain shirt
+1697	Saint School Coat
+1698	Dragon tights
+1699	Black Glasses
+1700	White Glasses
+1701	Baby Glasses
+1702	Purple Glasses
+1703	Red Glasses
+1704	Blue Glasses
+1705	Tuxedo Mask[F]
+1706	WhiteSea Glasses
+1707	Dark Glasses
+1708	Fiery Frame
+1709	Crimson Glasses
+1710	Phantom Glasses
+1711	Purple Glasses
+1712	Bandages
+1713	Bandages
+1714	Tuxedo Mask [M]
+1715	Warrior DignitySandals
+1716	Black PearlBoots
+1717	FlamingoHigh Shoes
+1718	Sentimental shoes
+1719	Kill Bill Shoes
+1720	Mature charm (Yellow)
+1721	Mature charm (Blue)
+1722	Mature charm (White)
+1723	Mature charm (Black)
+1724	Pinkcat Shoes
+1725	Leopard Shoes
+1726	Bluecat Shoes
+1727	Jumping Shoes
+1728	Simple Shoes
+1729	Sporty Shoes
+1730	Fashion Shoes[F]003D
+1731	Fashion Shoes[F]003E
+1732	Fashion Shoes[F]003F
+1733	Autumn shoes
+1734	Venus Shoes[F]
+1735	Fashion Shoes[F]005A
+1736	Whitelover Shoes
+1737	Eve Stockings
+1738	浪漫桃色 Shoes F
+1739	Goldenflower Shoes
+1740	Beach Sandals
+1741	Chinese style sandals
+1742	Polka Sandals
+1743	Rainbow Sandals
+1744	Bluesea Sandals
+1745	Blackcharm Sandals
+1746	Cutepink Sandals
+1747	Pinkflower shoes
+1748	Orangeflower shoes
+1749	Genius Shoes
+1750	Skeleton Shoes[F]
+1751	Panda Shoes F
+1752	Queen Boots
+1753	Fashion Shoes[F]007B
+1754	Fashion Shoes[F]007C
+1755	Love Boots
+1756	Lovesnow Shoes[F]
+1757	Fairytale Shoes[F]
+1758	Wild Cowboyboots[F]
+1759	Orchestra Boots
+1760	American Boots[F]
+1761	Peach Queen Boots
+1762	Blue Queen Boots
+1763	Red Queen Boots
+1764	Pink Queen Boots
+1765	Christmas Shoes
+1766	New Year Boots
+1767	Anniversary Boots
+1768	Princess Rose Boots
+1769	Princess Peach Boots
+1770	Princess Demon Boots
+1771	Margaret Boots
+1772	Sweet Love Shoes
+1773	Maid Shoes
+1774	General fashion Shoes F017B
+1775	Captive Shoes
+1776	General fashion Shoes F017D
+1777	Soul Hunter Shoes
+1778	Red Punk shoes
+1779	Pink Rock Shoes F
+1780	Summer Shoes
+1781	Starshine Knight Boots
+1782	Flash light  Shoes
+1783	Empty Night Boots
+1784	Red Legion shoes
+1785	Emerald Legion Shoes
+1786	Labayadere Shoes
+1787	Scarlet Bill shoes
+1788	Blood HuntingShoes
+1789	Phantom Hunter Shoes
+1790	Sanctuary glory II Shoes
+1791	Soft rapShoes
+1792	Christmas snow Shoes
+1793	Auspicious lotusShoes
+1794	Crows Zero Shoes F
+1795	Rotation time shoes
+1796	Tranquil shoes
+1797	Total fly Shoes F
+1798	Dance baseball Shoes F
+1799	Leather F Shoes
+1800	Purple forest Shoes
+1801	Silver Light Shoes
+1802	Sandy beach Shoes
+1803	Blessing shoes
+1804	HundRed Tea shoes
+1805	Yellow sugar shoes
+1806	Reverb Shamrock shoes
+1807	Shadowdance Shoes
+1808	Night Fall Shoes
+1809	Last Warrior Sandals
+1810	Black Pearl CaptainBoots
+1811	Gorgeous MatadorShoes
+1812	Burst Clogs
+1813	Blood Clogs
+1814	Red Sneakers
+1815	Blue Sneakers
+1816	Purple Sneakers
+1817	Green Sneakers
+1818	Tomcat Shoes
+1819	Leopard Shoes
+1820	Bluecat Shoes
+1821	Jumping Shoes
+1822	Simple Shoes
+1823	Sporty Shoes
+1824	Fashion Shoes[M]003D
+1825	Fashion Shoes[M]003E
+1826	Fashion Shoes[M]003F
+1827	Autumn Song[M]
+1828	Venus Shoes
+1829	Bluesea Sandals
+1830	Summer Sandals
+1831	Breeze Sandals
+1832	Skeleton Shoes
+1833	Panda Shoes[M]
+1834	Sakura Tide Shoes[M]
+1835	Lovesnow Shoes[M]
+1836	Fairytale Shoes[M]
+1837	Love Duke shoes
+1838	Wood Clog
+1839	Wild Cowboyboots
+1840	Magic Cowboyboots
+1841	American Boots
+1842	Gray Stockings
+1843	Pink Stockings
+1844	Red Stockings
+1845	Green Stockings
+1846	Christmas Shoes[M]
+1847	Vigorous  Boots
+1848	Darkness Boots
+1849	Dark Knight Shoes[M]
+1850	Vampire Knight Shoes[M]
+1851	Shadow Knight Shoes[M]
+1852	Accardo Boots
+1853	Candy Matt Shoes
+1854	Kuroshitsuji Shoes
+1855	Fashion Shoes[M]017B
+1856	Fashion Shoes[M]017C
+1857	Redband Shoes
+1858	Burning Soul Shoes
+1859	Red Punk Shoes
+1860	Pink Rock Shoes M
+1861	Midsummer Boots
+1862	Red Knight Boots
+1863	Turmoil  Shoes
+1864	Night Fury Boots
+1865	Red Legion Boots
+1866	Blue Legion Shoes
+1867	Fog hidden boots
+1868	Scarlet Raptor shoes
+1869	Hunting nightShoes
+1870	Darknight Hunter shoes
+1871	Sanctuary glory Shoes
+1872	Hardcore rapShoes
+1873	Dinner Jesus Shoes
+1874	Auspicious cloudShoes
+1875	Crows Zero shoes M
+1876	Meow Coffee beat shoes
+1877	Turbulent shoes
+1878	For the sea shoes M
+1879	Cyclones baseball shoes M
+1880	Leather M shoes
+1881	Purple Rose shoes
+1882	Gold Sun shoes
+1883	Surf wheat
+1884	Feather Gift
+1885	HundRed Cowboy shoes
+1886	Forest Tea M
+1887	Flame Mountain M
+1888	Phantom Shoes[M]
+1889	Anniversary Boots
+1890	Saint School shoes
+1891	Dragon Kungfu Shoes
+1892	Bluecat Suit
+1893	Pinkcat Suit
+1894	Leopard Suit
+1895	Bluecat Stockings
+1896	Pinkcat Stockings
+1897	Leopard Stockings
+1898	Bluecat Hat
+1899	Pinkcat Hat
+1900	Leopard Hat
+1901	Bluecat Gloves
+1902	Pinkcat Gloves
+1903	Leopard Gloves
+1904	Bluecat Shoes
+1905	Pinkcat Shoes
+1906	Leopard Shoes
+1907	ทดลองหัว
+1908	ทดลองหัว2
+1909	Heirloom Pants
+1910	Okuninushi Pants
+1911	Fate Pants
+1912	Arctic Pants
+1913	Theseus Pants
+1914	Captain Pants
+1915	Ruler Pants
+1916	Hermes Pants
+1917	Apprentice Pants
+1918	Recruits Pants
+1919	Warrior Pants
+1920	Guard Pants
+1921	Gladiator Pants
+1922	Centurion Pants
+1923	Holocaust Pants
+1924	Challenger Pants
+1925	Hero Pants
+1926	Recruits Pants
+1927	Recruits Pants
+1928	Warrior Pants
+1929	Gladiator Pants
+1930	Gladiator Pants
+1931	Centurion Pants
+1932	Holocaust Pants
+1933	Achilles Pants
+1934	Philoctetes boots
+1935	Philoctetes boots
+1936	Marshal clothing
+1937	ชุดต่อสู้มังกรสองหัว
+1938	ชุดลองดาบของชูร่า
+1939	Kanon of Prison Pants
+1940	Saul Thunder Pants
+1941	Monitoring Dohko Pants
+1942	Achilles Pants
+1943	Philoctetes boots
+1944	Challenger clothing
+1945	Hero clothing
+1946	Cyclone Greaves
+1947	Cyclone Greaves
+1948	Cyclone Greaves
+1949	Cyclone Greaves
+1950	Captain Pants
+1951	Captain Pants
+1952	Captain Pants
+1953	Captain Pants
+1954	Captain Pants
+1955	Captain Pants
+1956	Ruler Pants
+1957	Ruler Pants
+1958	Ruler Pants
+1959	Ruler Pants
+1960	Ruler Pants
+1961	Ruler Pants
+1962	Hermes Pants
+1963	Hermes Pants
+1964	Hermes Pants
+1965	Hermes Pants
+1966	Hermes Pants
+1967	Hermes Pants
+1968	Hermes Pants
+1969	Hermes Pants
+1970	Hermes Pants
+1971	Hermes Pants
+1972	Hermes Pants
+1973	Hermes Pants
+1974	Snow Faction OstravaPants
+1975	Snow Faction OstravaPants
+1976	Snow Faction OstravaPants
+1977	Snow Faction OstravaPants
+1978	Snow Faction OstravaPants
+1979	Snow Faction OstravaPants
+1980	Pants_Common_Rank15_Orange
+1981	Pants_Common_Rank15_White
+1982	Pants_Common_Rank15_Purple
+1983	Pants_Common_Rank15_Green
+1984	Pants_Common_Rank15_Blue
+1985	Pants_Common_Rank15_Gold
+1986	Pants_Common_Rank16_Orange
+1987	Pants_Common_Rank16_White
+1988	Pants_Common_Rank16_Purple
+1989	Pants_Common_Rank16_Green
+1990	Pants_Common_Rank16_Blue
+1991	Pants_Common_Rank16_Gold
+1992	Pants_Common_Rank17_Orange
+1993	Pants_Common_Rank17_White
+1994	Pants_Common_Rank17_Purple
+1995	Pants_Common_Rank17_Green
+1996	Pants_Common_Rank17_Blue
+1997	Pants_Common_Rank17_Gold
+1998	Pants_Common_Rank18_Orange
+1999	Pants_Common_Rank18_White
+2000	Pants_Common_Rank18_Purple
+2001	Pants_Common_Rank18_Green
+2002	Pants_Common_Rank18_Blue
+2003	Pants_Common_Rank18_Gold
+2004	Pants_Common_Rank19_Orange
+2005	Pants_Common_Rank19_White
+2006	Pants_Common_Rank19_Purple
+2007	Pants_Common_Rank19_Green
+2008	Pants_Common_Rank19_Blue
+2009	Pants_Common_Rank19_Gold
+2010	Apprentice Pants
+2011	Apprentice Pants
+2012	Apprentice Pants
+2013	Apprentice Pants
+2014	Apprentice Pants
+2015	Apprentice Pants
+2016	Pants_Common_Rank20_Orange
+2017	Pants_Common_Rank20_White
+2018	Pants_Common_Rank20_Purple
+2019	Pants_Common_Rank20_Green
+2020	Pants_Common_Rank20_Blue
+2021	Pants_Common_Rank20_Gold
+2022	Recruits Pants
+2023	Recruits Pants
+2024	Recruits Pants
+2025	Recruits Pants
+2026	Recruits Pants
+2027	Recruits Pants
+2028	Warrior Pants
+2029	Warrior Pants
+2030	Warrior Pants
+2031	Warrior Pants
+2032	Warrior Pants
+2033	Warrior Pants
+2034	Guard Pants
+2035	Guard Pants
+2036	Guard Pants
+2037	Guard Pants
+2038	Guard Pants
+2039	Guard Pants
+2040	Gladiator Pants
+2041	Gladiator Pants
+2042	Gladiator Pants
+2043	Gladiator Pants
+2044	Gladiator Pants
+2045	Gladiator Pants
+2046	Centurion Pants
+2047	Centurion Pants
+2048	Centurion Pants
+2049	Centurion Pants
+2050	Centurion Pants
+2051	Centurion Pants
+2052	Holocaust Pants
+2053	Holocaust Pants
+2054	Holocaust Pants
+2055	Holocaust Pants
+2056	Holocaust Pants
+2057	Holocaust Pants
+2058	Challenger Pants
+2059	Challenger Pants
+2060	Challenger Pants
+2061	Challenger Pants
+2062	Challenger Pants
+2063	Challenger Pants
+2064	Hero Pants
+2065	Hero Pants
+2066	Hero Pants
+2067	Hero Pants
+2068	Hero Pants
+2069	Hero Pants
+2070	ทดลองอุปกรณ์5
+2071	Heirloom Headband
+2072	Ribbon Champion
+2073	Golden Buddha Hoop
+2074	Spartak Headband
+2075	Mermaid Headband
+2076	Winter God Headband
+2077	Captain Headband
+2078	Ruler Headband
+2079	Atlas Headband
+2080	Apprentice Headband
+2081	Recruit Headband
+2082	Warrior Headband
+2083	Guard Headband
+2084	Gladiator Headband
+2085	Centurion Headband
+2086	Holocaust Headband
+2087	Challenger Headband
+2088	Heroes Headband
+2089	Early Heroes Headband
+2090	Recruit Headband
+2091	Guard Headband
+2092	Gladiator Headband
+2093	Pharmacy Master
+2094	Lion leather of Hercules Belt
+2095	Roar Crown
+2096	Roar Crown
+2097	Marshal Headband
+2098	Valkyrie Helmet
+2099	Aphrodite Rose
+2100	Mu Ribbon
+2101	God pot seal Belt
+2102	Rodrigo Belt
+2103	Lion leather of Hercules Belt
+2104	Roar Crown
+2105	Challenger Headband
+2106	HeroHeadband
+2107	Flag of Taros
+2108	Flag of Taros
+2109	Flag of Taros
+2110	Flag of Taros
+2111	GM50Wป้องกัน
+2112	gm50wป้องกัน1
+2113	Apprentice Headband
+2114	Captain Headband
+2115	Captain Headband
+2116	Captain Headband
+2117	Captain Headband
+2118	Captain Headband
+2119	Captain Headband
+2120	Ruler Headband
+2121	Ruler Headband
+2122	Ruler Headband
+2123	Ruler Headband
+2124	Ruler Headband
+2125	Ruler Headband
+2126	Atlas Headband
+2127	Atlas Headband
+2128	Atlas Headband
+2129	Atlas Headband
+2130	Atlas Headband
+2131	Atlas Headband
+2132	Hercules Headband
+2133	Hercules Headband
+2134	Hercules Headband
+2135	Hercules Headband
+2136	Hercules Headband
+2137	Hercules Headband
+2138	CapaneusHeadband
+2139	CapaneusHeadband
+2140	CapaneusHeadband
+2141	CapaneusHeadband
+2142	CapaneusHeadband
+2143	CapaneusHeadband
+2144	Headband_Common_Rank15_Orange
+2145	Headband_Common_Rank15_White
+2146	Headband_Common_Rank15_Purple
+2147	Headband_Common_Rank15_Green
+2148	Headband_Common_Rank15_Blue
+2149	Headband_Common_Rank15_Gold
+2150	Headband_Common_Rank16_Orange
+2151	Headband_Common_Rank16_White
+2152	Headband_Common_Rank16_Purple
+2153	Headband_Common_Rank16_Green
+2154	Headband_Common_Rank16_Blue
+2155	Headband_Common_Rank16_Gold
+2156	Headband_Common_Rank17_Orange
+2157	Headband_Common_Rank17_White
+2158	Headband_Common_Rank17_Purple
+2159	Headband_Common_Rank17_Green
+2160	Headband_Common_Rank17_Blue
+2161	Headband_Common_Rank17_Gold
+2162	Headband_Common_Rank18_Orange
+2163	Headband_Common_Rank18_White
+2164	Headband_Common_Rank18_Purple
+2165	Headband_Common_Rank18_Green
+2166	Headband_Common_Rank18_Blue
+2167	Headband_Common_Rank18_Gold
+2168	Headband_Common_Rank19_Orange
+2169	Headband_Common_Rank19_White
+2170	Headband_Common_Rank19_Purple
+2171	Headband_Common_Rank19_Green
+2172	Headband_Common_Rank19_Blue
+2173	Headband_Common_Rank19_Gold
+2174	Apprentice Headband
+2175	Apprentice Headband
+2176	Apprentice Headband
+2177	Apprentice Headband
+2178	Apprentice Headband
+2179	Apprentice Headband
+2180	Headband_Common_Rank20_Orange
+2181	Headband_Common_Rank20_White
+2182	Headband_Common_Rank20_Purple
+2183	Headband_Common_Rank20_Green
+2184	Headband_Common_Rank20_Blue
+2185	Headband_Common_Rank20_Gold
+2186	Recruit Headband
+2187	Recruit Headband
+2188	Recruit Headband
+2189	Recruit Headband
+2190	Recruit Headband
+2191	Recruit Headband
+2192	Warrior Headband
+2193	Warrior Headband
+2194	Warrior Headband
+2195	Warrior Headband
+2196	Warrior Headband
+2197	Warrior Headband
+2198	Guard Headband
+2199	Guard Headband
+2200	Guard Headband
+2201	Guard Headband
+2202	Guard Headband
+2203	Guard Headband
+2204	Gladiator Headband
+2205	Gladiator Headband
+2206	Gladiator Headband
+2207	Gladiator Headband
+2208	Gladiator Headband
+2209	Gladiator Headband
+2210	Centurion Headband
+2211	Centurion Headband
+2212	Centurion Headband
+2213	Centurion Headband
+2214	Centurion Headband
+2215	Centurion Headband
+2216	Holocaust Headband
+2217	Holocaust Headband
+2218	Holocaust Headband
+2219	Holocaust Headband
+2220	Holocaust Headband
+2221	Holocaust Headband
+2222	Challenger Headband
+2223	Challenger Headband
+2224	Challenger Headband
+2225	Challenger Headband
+2226	Challenger Headband
+2227	Challenger Headband
+2228	Heroes Headband
+2229	Heroes Headband
+2230	Heroes Headband
+2231	Heroes Headband
+2232	Heroes Headband
+2233	Heroes Headband
+2234	ทดลองอุปกรณ์2
+2235	Victory Emblem
+2236	Conquest Emblem
+2237	Justice Emblem
+2238	Destiny Emblem
+2239	Titan Emblem
+2240	Olympus Emblem
+2241	Athena Emblem
+2242	Earth Emblem_ใช้_ขั้น17_ม่วง
+2243	Earth Emblem_ใช้_ขั้น18_ม่วง
+2244	Earth Emblem_ใช้_ขั้น19_ม่วง
+2245	Apprentice Emblem
+2246	Earth Emblem_ใช้_ขั้น20_ม่วง
+2247	Priests Emblem
+2248	Elder Emblem
+2249	Kyogo Emblem
+2250	Centaurus Emblem
+2251	Eagle Emblem
+2252	Griffin Emblem
+2253	Medusa Emblem
+2254	Hydra Emblem
+2255	Victory Emblem
+2256	Conquest Emblem
+2257	Justice Emblem
+2258	Destiny Emblem
+2259	Titan Emblem
+2260	Olympus Emblem
+2261	Athena Emblem
+2262	Aqua Emblem_ใช้_ขั้น17_ม่วง
+2263	Aqua Emblem_ใช้_ขั้น18_ม่วง
+2264	Aqua Emblem_ใช้_ขั้น19_ม่วง
+2265	Apprentice Emblem
+2266	Aqua Emblem_ใช้_ขั้น20_ม่วง
+2267	Priests Emblem
+2268	Elder Emblem
+2269	Kyogo Emblem
+2270	Centaurus Emblem
+2271	Eagle Emblem
+2272	Griffin Emblem
+2273	Medusa Emblem
+2274	Hydra Emblem
+2275	Victory Emblem
+2276	Conquest Emblem
+2277	Justice Emblem
+2278	Destiny Emblem
+2279	Titan Emblem
+2280	Olympus Emblem
+2281	Athena Emblem
+2282	Fire Emblem_ใช้_ขั้น17_ม่วง
+2283	Fire Emblem_ใช้_ขั้น18_ม่วง
+2284	Fire Emblem_ใช้_ขั้น19_ม่วง
+2285	Apprentice Emblem
+2286	Fire Emblem_ใช้_ขั้น20_ม่วง
+2287	Priests Emblem
+2288	Elder Emblem
+2289	Kyogo Emblem
+2290	Centaurus Emblem
+2291	Eagle Emblem
+2292	Griffin Emblem
+2293	Medusa Emblem
+2294	Hydra Emblem
+2295	Victory Emblem
+2296	Conquest Emblem
+2297	Justice Emblem
+2298	Destiny Emblem
+2299	Titan Emblem
+2300	Olympus Emblem
+2301	Athena Emblem
+2302	Thunder Emblem_ใช้_ขั้น17_ม่วง
+2303	Thunder Emblem_ใช้_ขั้น18_ม่วง
+2304	Thunder Emblem_ใช้_ขั้น19_ม่วง
+2305	Apprentice Emblem
+2306	Thunder Emblem_ใช้_ขั้น20_ม่วง
+2307	Priests Emblem
+2308	Elder Emblem
+2309	Kyogo Emblem
+2310	Centaurus Emblem
+2311	Eagle Emblem
+2312	Griffin Emblem
+2313	Medusa Emblem
+2314	Hydra Emblem
+2315	Victory Emblem
+2316	Conquest Emblem
+2317	Justice Emblem
+2318	Destiny Emblem
+2319	Titan Emblem
+2320	Olympus Emblem
+2321	Athena Emblem
+2322	Wind Emblem_ใช้_ขั้น17_ม่วง
+2323	Wind Emblem_ใช้_ขั้น18_ม่วง
+2324	Wind Emblem_ใช้_ขั้น19_ม่วง
+2325	Apprentice Emblem
+2326	Wind Emblem_ใช้_ขั้น20_ม่วง
+2327	Priests Emblem
+2328	Elder Emblem
+2329	Kyogo Emblem
+2330	Centaurus Emblem
+2331	Eagle Emblem
+2332	Griffin Emblem
+2333	Medusa Emblem
+2334	Hydra Emblem
+2335	Heirloom Ring
+2336	Apprentice Ring
+2337	Monk Ring
+2338	Iron Ring
+2339	Red Tin Ring
+2340	Bronze Ring
+2341	Steel Ring
+2342	Silver Ring
+2343	Gold Ring
+2344	Sagittarius Ring
+2345	Heart of Ocean Ring
+2346	Holy Roman Ring
+2347	Kyogo Ring
+2348	Jordan Stone
+2349	Ring of Nibelung
+2350	Apprentice Ring
+2351	Monk Ring
+2352	Iron Ring
+2353	Red Tin Ring
+2354	Bronze Ring
+2355	Steel Ring
+2356	Silver Ring
+2357	Gold Ring
+2358	Fairy Ring
+2359	Monk Ring
+2360	Red Tin Ring
+2361	Bronze Ring
+2362	Steel Ring
+2363	Ring of Alchemist Lord
+2364	เทพมรณะ•ดาวแห่งล้ำลึก
+2365	Argus Star
+2366	Argus Star
+2367	Kyogo Ring
+2368	Ring of Nibelung
+2369	Ring of Aldebaran
+2370	Ring of Aiolos
+2371	Ring of Life
+2372	Extreme Ring
+2373	เทพมรณะ•ดาวแห่งล้ำลึก
+2374	Argus Star
+2375	GoldRing
+2376	Forest Fairy Ring
+2377	Eye Talos
+2378	Eye Talos
+2379	Eye Talos
+2380	Eye Talos
+2381	Apprentice Ring
+2382	Kyogo Ring
+2383	Kyogo Ring
+2384	Kyogo Ring
+2385	Kyogo Ring
+2386	Kyogo Ring
+2387	Kyogo Ring
+2388	Jordan Stone
+2389	Jordan Stone
+2390	Jordan Stone
+2391	Jordan Stone
+2392	Jordan Stone
+2393	Jordan Stone
+2394	Ring of Nibelung
+2395	Ring of Nibelung
+2396	Ring of Nibelung
+2397	Ring of Nibelung
+2398	Ring of Nibelung
+2399	Ring of Nibelung
+2400	Cronus Ring
+2401	Cronus Ring
+2402	Cronus Ring
+2403	Cronus Ring
+2404	Cronus Ring
+2405	Cronus Ring
+2406	Zeus warRing
+2407	Zeus warRing
+2408	Zeus warRing
+2409	Zeus warRing
+2410	Zeus warRing
+2411	Zeus warRing
+2412	Ring_Common_Rank15_Orange
+2413	Ring_Common_Rank15_White
+2414	Ring_Common_Rank15_Purple
+2415	Ring_Common_Rank15_Green
+2416	Ring_Common_Rank15_Blue
+2417	Ring_Common_Rank15_Gold
+2418	Ring_Common_Rank16_Orange
+2419	Ring_Common_Rank16_White
+2420	Ring_Common_Rank16_Purple
+2421	Ring_Common_Rank16_Green
+2422	Ring_Common_Rank16_Blue
+2423	Ring_Common_Rank16_Gold
+2424	Ring_Common_Rank17_Orange
+2425	Ring_Common_Rank17_White
+2426	Ring_Common_Rank17_Purple
+2427	Ring_Common_Rank17_Green
+2428	Ring_Common_Rank17_Blue
+2429	Ring_Common_Rank17_Gold
+2430	Ring_Common_Rank18_Orange
+2431	Ring_Common_Rank18_White
+2432	Ring_Common_Rank18_Purple
+2433	Ring_Common_Rank18_Green
+2434	Ring_Common_Rank18_Blue
+2435	Ring_Common_Rank18_Gold
+2436	Ring_Common_Rank19_Orange
+2437	Ring_Common_Rank19_White
+2438	Ring_Common_Rank19_Purple
+2439	Ring_Common_Rank19_Green
+2440	Ring_Common_Rank19_Blue
+2441	Ring_Common_Rank19_Gold
+2442	Apprentice Ring
+2443	Apprentice Ring
+2444	Apprentice Ring
+2445	Apprentice Ring
+2446	Apprentice Ring
+2447	Apprentice Ring
+2448	Ring_Common_Rank20_Orange
+2449	Ring_Common_Rank20_White
+2450	Ring_Common_Rank20_Purple
+2451	Ring_Common_Rank20_Green
+2452	Ring_Common_Rank20_Blue
+2453	Ring_Common_Rank20_Gold
+2454	Monk Ring
+2455	Monk Ring
+2456	Monk Ring
+2457	Monk Ring
+2458	Monk Ring
+2459	Monk Ring
+2460	Iron Ring
+2461	Iron Ring
+2462	Iron Ring
+2463	Iron Ring
+2464	Iron Ring
+2465	Iron Ring
+2466	Red Tin Ring
+2467	Red Tin Ring
+2468	Red Tin Ring
+2469	Red Tin Ring
+2470	Red Tin Ring
+2471	Red Tin Ring
+2472	Bronze Ring
+2473	Bronze Ring
+2474	Bronze Ring
+2475	Bronze Ring
+2476	Bronze Ring
+2477	Bronze Ring
+2478	Steel Ring
+2479	Steel Ring
+2480	Steel Ring
+2481	Steel Ring
+2482	Steel Ring
+2483	Steel Ring
+2484	Silver Ring
+2485	Silver Ring
+2486	Silver Ring
+2487	Silver Ring
+2488	Silver Ring
+2489	Silver Ring
+2490	Gold Ring
+2491	Gold Ring
+2492	Gold Ring
+2493	Gold Ring
+2494	Gold Ring
+2495	Gold Ring
+2496	Fairy Ring
+2497	Fairy Ring
+2498	Fairy Ring
+2499	Fairy Ring
+2500	Fairy Ring
+2501	Fairy Ring
+2502	ทดลองอุปกรณ์4
+2503	Sacrifice Bracelet
+2504	Judgment Bracelet
+2505	Ocean Bracelet
+2506	Coronal Bracelet
+2507	วงแหวนแห่งจักรราศี
+2508	ห่วงลอเรลแห่งดาฟเน่
+2509	วงแหวนแห่งผู้ขโมยไฟ
+2510	กำไล_ใช้_ขั้น17_ม่วง
+2511	กำไล_ใช้_ขั้น18_ม่วง
+2512	กำไล_ใช้_ขั้น19_ม่วง
+2513	Apprentice Bracelet
+2514	กำไล_ใช้_ขั้น20_ม่วง
+2515	Ivy Bracelet
+2516	Goldenflower Bracelet
+2517	Lilies Bracelet
+2518	Snakebone Bracelet
+2519	Obsidian Bracelet
+2520	Meteorite Bracelet
+2521	Sacrifice Bracelet
+2522	Holy Bracelet
+2523	Heirloom Amulet
+2524	Apprentice Amulet
+2525	Alchemist Amulet
+2526	Psychic Amulet
+2527	Prophet Amulet
+2528	Element Amulet
+2529	Wisp Amulet
+2530	Amulet of Star
+2531	Amulet of Dream
+2532	การ์ดอธิษฐานของนาตาช่า
+2533	Medusa Amulet
+2534	Light Amulet
+2535	God Wish Amulet
+2536	Muse Amulet
+2537	Apprentice Amulet
+2538	Alchemist Amulet
+2539	Psychic Amulet
+2540	Prophet Amulet
+2541	Element Amulet
+2542	Wisp Amulet
+2543	Amulet of Star
+2544	Amulet of Dream
+2545	Amulet of Time
+2546	Trainee Amulet
+2547	Alchemist Amulet
+2548	Psychic Amulet
+2549	Prophet Amulet
+2550	Element Amulet
+2551	Wisp Amulet
+2552	อุปกรณ์มาตรฐานLv50
+2553	อุปกรณ์มาตรฐานLv55
+2554	อุปกรณ์มาตรฐานLv60
+2555	อุปกรณ์มาตรฐานLv65
+2556	อุปกรณ์มาตรฐานLv70
+2557	อุปกรณ์มาตรฐานLv75
+2558	อุปกรณ์มาตรฐานLv80
+2559	อุปกรณ์มาตรฐานLv85
+2560	อุปกรณ์มาตรฐานLv90
+2561	อุปกรณ์มาตรฐานLv95
+2562	อุปกรณ์มาตรฐานLv5
+2563	อุปกรณ์มาตรฐานLv100
+2564	อุปกรณ์มาตรฐานLv10
+2565	อุปกรณ์มาตรฐานLv15
+2566	อุปกรณ์มาตรฐานLv20
+2567	อุปกรณ์มาตรฐานLv25
+2568	อุปกรณ์มาตรฐานLv30
+2569	อุปกรณ์มาตรฐานLv35
+2570	อุปกรณ์มาตรฐานLv40
+2571	อุปกรณ์มาตรฐานLv45
+2572	อุปกรณ์มาตรฐานLv50
+2573	อุปกรณ์มาตรฐานLv55
+2574	อุปกรณ์มาตรฐานLv60
+2575	อุปกรณ์มาตรฐานLv65
+2576	อุปกรณ์มาตรฐานLv70
+2577	อุปกรณ์มาตรฐานLv75
+2578	อุปกรณ์มาตรฐานLv80
+2579	อุปกรณ์มาตรฐานLv85
+2580	อุปกรณ์มาตรฐานLv90
+2581	อุปกรณ์มาตรฐานLv95
+2582	อุปกรณ์มาตรฐานLv5
+2583	อุปกรณ์มาตรฐานLv100
+2584	อุปกรณ์มาตรฐานLv10
+2585	อุปกรณ์มาตรฐานLv15
+2586	อุปกรณ์มาตรฐานLv20
+2587	อุปกรณ์มาตรฐานLv25
+2588	อุปกรณ์มาตรฐานLv30
+2589	อุปกรณ์มาตรฐานLv35
+2590	อุปกรณ์มาตรฐานLv40
+2591	อุปกรณ์มาตรฐานLv45
+2592	อุปกรณ์มาตรฐานLv50
+2593	อุปกรณ์มาตรฐานLv55
+2594	อุปกรณ์มาตรฐานLv60
+2595	อุปกรณ์มาตรฐานLv65
+2596	อุปกรณ์มาตรฐานLv70
+2597	อุปกรณ์มาตรฐานLv75
+2598	อุปกรณ์มาตรฐานLv80
+2599	อุปกรณ์มาตรฐานLv85
+2600	อุปกรณ์มาตรฐานLv90
+2601	อุปกรณ์มาตรฐานLv95
+2602	อุปกรณ์มาตรฐานLv5
+2603	อุปกรณ์มาตรฐานLv100
+2604	อุปกรณ์มาตรฐานLv10
+2605	อุปกรณ์มาตรฐานLv15
+2606	อุปกรณ์มาตรฐานLv20
+2607	อุปกรณ์มาตรฐานLv25
+2608	อุปกรณ์มาตรฐานLv30
+2609	อุปกรณ์มาตรฐานLv35
+2610	อุปกรณ์มาตรฐานLv40
+2611	อุปกรณ์มาตรฐานLv45
+2612	อุปกรณ์มาตรฐานLv50
+2613	อุปกรณ์มาตรฐานLv55
+2614	อุปกรณ์มาตรฐานLv60
+2615	อุปกรณ์มาตรฐานLv65
+2616	อุปกรณ์มาตรฐานLv70
+2617	อุปกรณ์มาตรฐานLv75
+2618	อุปกรณ์มาตรฐานLv80
+2619	อุปกรณ์มาตรฐานLv85
+2620	อุปกรณ์มาตรฐานLv90
+2621	อุปกรณ์มาตรฐานLv95
+2622	อุปกรณ์มาตรฐานLv5
+2623	อุปกรณ์มาตรฐานLv100
+2624	อุปกรณ์มาตรฐานLv10
+2625	อุปกรณ์มาตรฐานLv15
+2626	อุปกรณ์มาตรฐานLv20
+2627	อุปกรณ์มาตรฐานLv25
+2628	อุปกรณ์มาตรฐานLv30
+2629	อุปกรณ์มาตรฐานLv35
+2630	อุปกรณ์มาตรฐานLv40
+2631	อุปกรณ์มาตรฐานLv45
+2632	อุปกรณ์มาตรฐานLv50
+2633	อุปกรณ์มาตรฐานLv55
+2634	อุปกรณ์มาตรฐานLv60
+2635	อุปกรณ์มาตรฐานLv65
+2636	อุปกรณ์มาตรฐานLv70
+2637	อุปกรณ์มาตรฐานLv75
+2638	อุปกรณ์มาตรฐานLv80
+2639	อุปกรณ์มาตรฐานLv85
+2640	อุปกรณ์มาตรฐานLv90
+2641	อุปกรณ์มาตรฐานLv95
+2642	อุปกรณ์มาตรฐานLv5
+2643	อุปกรณ์มาตรฐานLv100
+2644	อุปกรณ์มาตรฐานLv10
+2645	อุปกรณ์มาตรฐานLv15
+2646	อุปกรณ์มาตรฐานLv20
+2647	อุปกรณ์มาตรฐานLv25
+2648	อุปกรณ์มาตรฐานLv30
+2649	อุปกรณ์มาตรฐานLv35
+2650	อุปกรณ์มาตรฐานLv40
+2651	อุปกรณ์มาตรฐานLv45
+2652	ฮิปนอส•ดาวแห่งการหลับใหล
+2653	Lopez Horn
+2654	Lopez Horn
+2655	Light's talisman
+2656	การหลอกลวงของโลกิ
+2657	ผลึกน้ำแข็งของคามิว
+2658	ตราประทับความดีชั่วของซากะ
+2659	Magic Star Seal
+2660	God's Dream Mithril
+2661	ฮิปนอส•ดาวแห่งการหลับใหล
+2662	Lopez Horn
+2663	Dream talisman
+2664	Time talisman
+2665	Taros battle
+2666	Taros battle
+2667	Taros battle
+2668	Taros battle
+2669	GM50Wโจมตี
+2670	gm50wโจมตี1
+2671	Apprentice Amulet
+2672	Light Amulet
+2673	Light Amulet
+2674	Light Amulet
+2675	Light Amulet
+2676	Light Amulet
+2677	Light Amulet
+2678	God Wish Amulet
+2679	God Wish Amulet
+2680	God Wish Amulet
+2681	God Wish Amulet
+2682	God Wish Amulet
+2683	God Wish Amulet
+2684	Muse Amulet
+2685	Muse Amulet
+2686	Muse Amulet
+2687	Muse Amulet
+2688	Muse Amulet
+2689	Muse Amulet
+2690	Gaia Amulet
+2691	Gaia Amulet
+2692	Gaia Amulet
+2693	Gaia Amulet
+2694	Gaia Amulet
+2695	Gaia Amulet
+2696	AmphiarausTalisman
+2697	AmphiarausTalisman
+2698	AmphiarausTalisman
+2699	AmphiarausTalisman
+2700	AmphiarausTalisman
+2701	AmphiarausTalisman
+2702	Talisman_Common_Rank15_Orange
+2703	Talisman_Common_Rank15_White
+2704	Talisman_Common_Rank15_Purple
+2705	Talisman_Common_Rank15_Green
+2706	Talisman_Common_Rank15_Blue
+2707	Talisman_Common_Rank15_Gold
+2708	Talisman_Common_Rank16_Orange
+2709	Talisman_Common_Rank16_White
+2710	Talisman_Common_Rank16_Purple
+2711	Talisman_Common_Rank16_Green
+2712	Talisman_Common_Rank16_Blue
+2713	Talisman_Common_Rank16_Gold
+2714	Talisman_Common_Rank17_Orange
+2715	Talisman_Common_Rank17_White
+2716	Talisman_Common_Rank17_Purple
+2717	Talisman_Common_Rank17_Green
+2718	Talisman_Common_Rank17_Blue
+2719	Talisman_Common_Rank17_Gold
+2720	Talisman_Common_Rank18_Orange
+2721	Talisman_Common_Rank18_White
+2722	Talisman_Common_Rank18_Purple
+2723	Talisman_Common_Rank18_Green
+2724	Talisman_Common_Rank18_Blue
+2725	Talisman_Common_Rank18_Gold
+2726	Talisman_Common_Rank19_Orange
+2727	Talisman_Common_Rank19_White
+2728	Talisman_Common_Rank19_Purple
+2729	Talisman_Common_Rank19_Green
+2730	Talisman_Common_Rank19_Blue
+2731	Talisman_Common_Rank19_Gold
+2732	Apprentice Amulet
+2733	Apprentice Amulet
+2734	Apprentice Amulet
+2735	Apprentice Amulet
+2736	Apprentice Amulet
+2737	Apprentice Amulet
+2738	Talisman_Common_Rank20_Orange
+2739	Talisman_Common_Rank20_White
+2740	Talisman_Common_Rank20_Purple
+2741	Talisman_Common_Rank20_Green
+2742	Talisman_Common_Rank20_Blue
+2743	Talisman_Common_Rank20_Gold
+2744	Alchemist Amulet
+2745	Alchemist Amulet
+2746	Alchemist Amulet
+2747	Alchemist Amulet
+2748	Alchemist Amulet
+2749	Alchemist Amulet
+2750	Psychic Amulet
+2751	Psychic Amulet
+2752	Psychic Amulet
+2753	Psychic Amulet
+2754	Psychic Amulet
+2755	Psychic Amulet
+2756	Prophet Amulet
+2757	Prophet Amulet
+2758	Prophet Amulet
+2759	Prophet Amulet
+2760	Prophet Amulet
+2761	Prophet Amulet
+2762	Element Amulet
+2763	Element Amulet
+2764	Element Amulet
+2765	Element Amulet
+2766	Element Amulet
+2767	Element Amulet
+2768	Wisp Amulet
+2769	Wisp Amulet
+2770	Wisp Amulet
+2771	Wisp Amulet
+2772	Wisp Amulet
+2773	Wisp Amulet
+2774	Amulet of Star
+2775	Amulet of Star
+2776	Amulet of Star
+2777	Amulet of Star
+2778	Amulet of Star
+2779	Amulet of Star
+2780	Amulet of Dream
+2781	Amulet of Dream
+2782	Amulet of Dream
+2783	Amulet of Dream
+2784	Amulet of Dream
+2785	Amulet of Dream
+2786	Amulet of Time
+2787	Amulet of Time
+2788	Amulet of Time
+2789	Amulet of Time
+2790	Amulet of Time
+2791	Amulet of Time
+2792	ทดลองอุปกรณ์3
+2793	คำสั่งระงับชั่วชีวิต-ขั้น10
+2794	คำสั่งระงับชั่วชีวิต-ขั้น11
+2795	คำสั่งระงับชั่วชีวิต-ขั้น12
+2796	คำสั่งระงับชั่วชีวิต-ขั้น13
+2797	คำสั่งระงับชั่วชีวิต-ขั้น14
+2798	คำสั่งระงับชั่วชีวิต-ขั้น15
+2799	คำสั่งระงับชั่วชีวิต-ขั้น16
+2800	คำสั่งระงับชั่วชีวิต-ขั้น1
+2801	คำสั่งระงับชั่วชีวิต-ขั้น2
+2802	คำสั่งระงับชั่วชีวิต-ขั้น3
+2803	คำสั่งระงับชั่วชีวิต-ขั้น4
+2804	คำสั่งระงับชั่วชีวิต-ขั้น5
+2805	คำสั่งระงับชั่วชีวิต-ขั้น6
+2806	คำสั่งระงับชั่วชีวิต-ขั้น7
+2807	คำสั่งระงับชั่วชีวิต-ขั้น8
+2808	คำสั่งระงับชั่วชีวิต-ขั้น9
+2809	ชั่วชีวิตไม่เสียใจ-ขั้น10
+2810	ชั่วชีวิตไม่เสียใจ-ขั้น11
+2811	ชั่วชีวิตไม่เสียใจ-ขั้น12
+2812	ชั่วชีวิตไม่เสียใจ-ขั้น13
+2813	ชั่วชีวิตไม่เสียใจ-ขั้น14
+2814	ชั่วชีวิตไม่เสียใจ-ขั้น15
+2815	ชั่วชีวิตไม่เสียใจ-ขั้น16
+2816	ชั่วชีวิตไม่เสียใจ-ขั้น1
+2817	ชั่วชีวิตไม่เสียใจ-ขั้น2
+2818	ชั่วชีวิตไม่เสียใจ-ขั้น3
+2819	ชั่วชีวิตไม่เสียใจ-ขั้น4
+2820	ชั่วชีวิตไม่เสียใจ-ขั้น5
+2821	ชั่วชีวิตไม่เสียใจ-ขั้น6
+2822	ชั่วชีวิตไม่เสียใจ-ขั้น7
+2823	ชั่วชีวิตไม่เสียใจ-ขั้น8
+2824	ชั่วชีวิตไม่เสียใจ-ขั้น9
+2825	บูชาเพียงเรา-ขั้น10
+2826	บูชาเพียงเรา-ขั้น11
+2827	บูชาเพียงเรา-ขั้น12
+2828	บูชาเพียงเรา-ขั้น13
+2829	บูชาเพียงเรา-ขั้น14
+2830	บูชาเพียงเรา-ขั้น15
+2831	บูชาเพียงเรา-ขั้น16
+2832	บูชาเพียงเรา-ขั้น1
+2833	บูชาเพียงเรา-ขั้น2
+2834	บูชาเพียงเรา-ขั้น3
+2835	บูชาเพียงเรา-ขั้น4
+2836	บูชาเพียงเรา-ขั้น5
+2837	บูชาเพียงเรา-ขั้น6
+2838	บูชาเพียงเรา-ขั้น7
+2839	บูชาเพียงเรา-ขั้น8
+2840	บูชาเพียงเรา-ขั้น9
+2841	Holy Cloak
+2842	Zodiac Cloak
+2843	Guardian Cloak
+2844	Fearless Cloak
+2845	Archon Cloak
+2846	เสื้อคลุม_ใช้ทั่วไป_ขั้น15_ส้ม
+2847	เสื้อคลุม_ใช้ทั่วไป_ขั้น16_ส้ม
+2848	Creed Shoulder
+2849	Justice Shoulder
+2850	Honor Shoulder
+2851	Guardian Cloak
+2852	Fortitude Cloak
+2853	Fearless Cloak
+2854	Archon Cloak
+2855	Zodiac Cloak
+2856	Kyogo Cloak
+2857	Tester Cloak
+2858	Dream Stone
+2859	Wisdom Stone
+2860	None Stone
+2861	Odysseus Stone
+2862	Cassandra Stone
+2863	Minerva Stone
+2864	Apollo Stone
+2865	Earth Stone_ใช้_ขั้น17_ม่วง
+2866	Earth Stone_ใช้_ขั้น18_ม่วง
+2867	Earth Stone_ใช้_ขั้น19_ม่วง
+2868	Apprentice Stone
+2869	Earth Stone_ใช้_ขั้น20_ม่วง
+2870	Hermit Stone
+2871	Wise Stone
+2872	Sage Stone
+2873	Prophet Stone
+2874	Guidance Stone
+2875	Future Stone
+2876	Eternal Stone
+2877	Deserted Stone
+2878	Dream Stone
+2879	Wisdom Stone
+2880	None Stone
+2881	Odysseus Stone
+2882	Cassandra Stone
+2883	Minerva Stone
+2884	Apollo Stone
+2885	Water Stone_ใช้_ขั้น17_ม่วง
+2886	Water Stone_ใช้_ขั้น18_ม่วง
+2887	Water Stone_ใช้_ขั้น19_ม่วง
+2888	Apprentice Stone
+2889	Water Stone_ใช้_ขั้น20_ม่วง
+2890	Hermit Stone
+2891	Wise Stone
+2892	Sage Stone
+2893	Prophet Stone
+2894	Guidance Stone
+2895	Future Stone
+2896	Eternal Stone
+2897	Deserted Stone
+2898	Dream Stone
+2899	Wisdom Stone
+2900	None Stone
+2901	Odysseus Stone
+2902	Cassandra Stone
+2903	Minerva Stone
+2904	Apollo Stone
+2905	Fire Stone_ใช้_ขั้น17_ม่วง
+2906	Fire Stone_ใช้_ขั้น18_ม่วง
+2907	Fire Stone_ใช้_ขั้น19_ม่วง
+2908	Apprentice Stone
+2909	Fire Stone_ใช้_ขั้น20_ม่วง
+2910	Hermit Stone
+2911	Wise Stone
+2912	Sage Stone
+2913	Prophet Stone
+2914	Guidance Stone
+2915	Future Stone
+2916	Eternal Stone
+2917	Deserted Stone
+2918	Dream Stone
+2919	Wisdom Stone
+2920	None Stone
+2921	Odysseus Stone
+2922	Cassandra Stone
+2923	Minerva Stone
+2924	Apollo Stone
+2925	Thunder Stone_ใช้_ขั้น17_ม่วง
+2926	Thunder Stone_ใช้_ขั้น18_ม่วง
+2927	Thunder Stone_ใช้_ขั้น19_ม่วง
+2928	Apprentice Stone
+2929	Thunder Stone_ใช้_ขั้น20_ม่วง
+2930	Hermit Stone
+2931	Wise Stone
+2932	Sage Stone
+2933	Prophet Stone
+2934	Guidance Stone
+2935	Future Stone
+2936	Eternal Stone
+2937	Deserted Stone
+2938	Dream Stone
+2939	Wisdom Stone
+2940	None Stone
+2941	Odysseus Stone
+2942	Cassandra Stone
+2943	Minerva Stone
+2944	Apollo Stone
+2945	Wind Stone_ใช้_ขั้น17_ม่วง
+2946	Wind Stone_ใช้_ขั้น18_ม่วง
+2947	Wind Stone_ใช้_ขั้น19_ม่วง
+2948	Apprentice Stone
+2949	Wind Stone_ใช้_ขั้น20_ม่วง
+2950	Hermit Stone
+2951	Wise Stone
+2952	Sage Stone
+2953	Prophet Stone
+2954	Guidance Stone
+2955	Future Stone
+2956	Eternal Stone
+2957	Deserted Stone
+2958	Saturn Chain
+2959	Black Hole Chain
+2960	Dragon Chain
+2961	Quicksand Chain
+2962	Stone Chain
+2963	Rock Chain
+2964	Mountain Chain
+2965	Land of Star Chain
+2966	Meteorite Chain
+2967	Continental Chain
+2968	Eternal Chain
+2969	Meteorite Chain
+2970	Mercury Chain
+2971	White Hole Chain
+2972	Cygnus Chain
+2973	Lucy Chain
+2974	Stalactites Chain
+2975	Crystallization Chain
+2976	Snow Chain
+2977	Wave Chain 
+2978	Iceberg Chain
+2979	Rough Chain
+2980	Holy Star Chain
+2981	Ocean Chain
+2982	Mars Chain
+2983	Supernova Chain
+2984	Phoenix Star Chain
+2985	Inflammation Chain
+2986	Warmth Chain
+2987	Burning Chain
+2988	Melting Chain
+2989	Vatican Chain
+2990	Magma Chain
+2991	Hell Mars Chain
+2992	Starlight Chain
+2993	Flare Chain
+2994	Precept Rosary
+2995	Precept Rosary
+2996	Precept Rosary
+2997	Lime Rosary
+2998	Lime Rosary
+2999	Lime Rosary
+3000	Wisdom Rosary
+3001	Wisdom Rosary
+3002	Venus Chain
+3003	Nebula Star Chain
+3004	Andromeda Star Chain
+3005	Ion Star Chain
+3006	Electric Chain 
+3007	Pulsar Chain
+3008	Thundercloud Chain
+3009	Shock Chain
+3010	Electric Shock Chain
+3011	Thunder Burst Chain
+3012	Brilliant Chain
+3013	Wrath Chain
+3014	Jupiter Chain
+3015	Galaxy Chain
+3016	Pegasus Chain
+3017	Feather Chain
+3018	Wings Star Chain
+3019	Arashi Chain
+3020	Wind Star Chain
+3021	Hurricane Chain
+3022	Sonic Chain
+3023	Meteor Chain
+3024	Freedom Chain
+3025	Comets Chain
+3026	Shaga Rosary
+3027	Beads Light_Order11_Orange
+3028	Beads Light_Order12_Orange
+3029	Precept Rosary
+3030	Lime Rosary
+3031	Wisdom Rosary
+3032	Priest Rosary
+3033	Yasha Rosary
+3034	Garuda Rosary
+3035	Sumeru Rosary
+3036	Mantra Rosary
+3037	Yamashina Rosary
+3038	Ribbon Horse
+3039	Ribbon Bear
+3040	Ribbon Elephant
+3041	Ribbon Earthtitan
+3042	Ribbon Demeter
+3043	Ribbon Fish
+3044	Ribbon Shark
+3045	Ribbon Kraken
+3046	Ribbon Watertitan
+3047	Ribbon Poseidon
+3048	Ribbon Fox
+3049	Ribbon Sunbird
+3050	Ribbon Phoenix
+3051	Ribbon Firetitan
+3052	Ribbon Hephaestus
+3053	Ribbon Serpentine
+3054	Ribbon Thunderbeast
+3055	Ribbon Hundred
+3056	Ribbon Thundertitan
+3057	Ribbon Hera
+3058	Ribbon Eagle
+3059	Ribbon Wind
+3060	Ribbon Garuda
+3061	Ribbon Windtitan
+3062	Ribbon Aphrodite
+3063	Wolf Ribbon
+3064	Light bright Ribbon
+3065	Badr Ribbon
+3066	Sun Light Ribbon
+3067	Eos Ribbon
+3068	Beltขั้น1
+3069	Uranus Belt
+3070	Warrior Belt
+3071	Honor Belt
+3072	Hero Belt
+3073	Victory Belt
+3074	Commander Belt
+3075	Justice Belt
+3076	King Belt
+3077	Sacred Belt
+3078	Theseus Belt
+3079	เสื้อมรดก
+3080	Apprentice Shirt
+3081	Recruit Shirt
+3082	Warrior Shirt
+3083	Guard Shirt
+3084	Gladiator Shirt
+3085	Centurion Shirt
+3086	Slaughter Shirt
+3087	Challenger Shirt
+3088	Archon Shirt
+3089	Tiger Shirt
+3090	Insurgents Shirt
+3091	Sea Prince Shirt
+3092	Flame Armor
+3093	Frederick Shirt
+3094	Captain Shirt
+3095	Rulers Shirt
+3096	Theseus Shirt
+3097	Apprentice Shirt
+3098	Recruit Shirt
+3099	Warrior Shirt
+3100	Guard Shirt
+3101	Gladiator Shirt
+3102	Centurion Shirt
+3103	Slaughter Shirt
+3104	Challenger Shirt
+3105	Hero Shirt
+3106	First Hero Shirt
+3107	Recruit Shirt
+3108	Warrior Shirt
+3109	Gladiator Shirt
+3110	Centurion Shirt
+3111	Perseus Robe
+3112	ImmortalArmor
+3113	ImmortalArmor
+3114	Marshal Shirt
+3115	Thief Kidd Clothes
+3116	Deathmask of Clothes
+3117	Aiolia Clothing
+3118	Odin Clothing
+3119	God Shion Clothing
+3120	Perseus Robe
+3121	ImmortalArmor
+3122	Challenger Shirt
+3123	HeroShirt
+3124	Guardian of Talos
+3125	Guardian of Talos
+3126	Guardian of Talos
+3127	Guardian of Talos
+3128	Achieve
+3129	GM50Wเลือด
+3130	gm50wเลือด1
+3131	ทดลองอุปกรณ์1
+3132	Apprentice Shirt
+3133	Apprentice Shirt
+3134	Apprentice Shirt
+3135	Apprentice Shirt
+3136	Apprentice Shirt
+3137	Apprentice Shirt
+3138	Apprentice Shirt
+3139	Apprentice Shirt
+3140	Apprentice Shirt
+3141	Apprentice Shirt
+3142	Captain Shirt
+3143	Captain Shirt
+3144	Captain Shirt
+3145	Captain Shirt
+3146	Captain Shirt
+3147	Captain Shirt
+3148	Rulers Shirt
+3149	Rulers Shirt
+3150	Rulers Shirt
+3151	Rulers Shirt
+3152	Rulers Shirt
+3153	Rulers Shirt
+3154	Theseus Shirt
+3155	Theseus Shirt
+3156	Theseus Shirt
+3157	Theseus Shirt
+3158	Theseus Shirt
+3159	Theseus Shirt
+3160	Mars Shirt
+3161	Mars Shirt
+3162	Mars Shirt
+3163	Mars Shirt
+3164	Mars Shirt
+3165	Mars Shirt
+3166	HippomedonShirt
+3167	HippomedonShirt
+3168	HippomedonShirt
+3169	HippomedonShirt
+3170	HippomedonShirt
+3171	HippomedonShirt
+3172	Shirt_Common_Rank15_Orange
+3173	Shirt_Common_Rank15_White
+3174	Shirt_Common_Rank15_Purple
+3175	Shirt_Common_Rank15_Green
+3176	Shirt_Common_Rank15_Blue
+3177	Shirt_Common_Rank15_Gold
+3178	Shirt_Common_Rank16_Orange
+3179	Shirt_Common_Rank16_White
+3180	Shirt_Common_Rank16_Purple
+3181	Shirt_Common_Rank16_Green
+3182	Shirt_Common_Rank16_Blue
+3183	Shirt_Common_Rank16_Gold
+3184	Shirt_Common_Rank17_Orange
+3185	Shirt_Common_Rank17_White
+3186	Shirt_Common_Rank17_Purple
+3187	Shirt_Common_Rank17_Green
+3188	Shirt_Common_Rank17_Blue
+3189	Shirt_Common_Rank17_Gold
+3190	Shirt_Common_Rank18_Orange
+3191	Shirt_Common_Rank18_White
+3192	Shirt_Common_Rank18_Purple
+3193	Shirt_Common_Rank18_Green
+3194	Shirt_Common_Rank18_Blue
+3195	Shirt_Common_Rank18_Gold
+3196	Shirt_Common_Rank19_Orange
+3197	Shirt_Common_Rank19_White
+3198	Shirt_Common_Rank19_Purple
+3199	Shirt_Common_Rank19_Green
+3200	Shirt_Common_Rank19_Blue
+3201	Shirt_Common_Rank19_Gold
+3202	Apprentice Shirt
+3203	Apprentice Shirt
+3204	Apprentice Shirt
+3205	Apprentice Shirt
+3206	Apprentice Shirt
+3207	Apprentice Shirt
+3208	Shirt_Common_Rank20_Orange
+3209	Shirt_Common_Rank20_White
+3210	Shirt_Common_Rank20_Purple
+3211	Shirt_Common_Rank20_Green
+3212	Shirt_Common_Rank20_Blue
+3213	Shirt_Common_Rank20_Gold
+3214	Recruit Shirt
+3215	Recruit Shirt
+3216	Recruit Shirt
+3217	Recruit Shirt
+3218	Recruit Shirt
+3219	Recruit Shirt
+3220	Warrior Shirt
+3221	Warrior Shirt
+3222	Warrior Shirt
+3223	Warrior Shirt
+3224	Warrior Shirt
+3225	Warrior Shirt
+3226	Guard Shirt
+3227	Guard Shirt
+3228	Guard Shirt
+3229	Guard Shirt
+3230	Guard Shirt
+3231	Guard Shirt
+3232	Gladiator Shirt
+3233	Gladiator Shirt
+3234	Gladiator Shirt
+3235	Gladiator Shirt
+3236	Gladiator Shirt
+3237	Gladiator Shirt
+3238	Centurion Shirt
+3239	Centurion Shirt
+3240	Centurion Shirt
+3241	Centurion Shirt
+3242	Centurion Shirt
+3243	Centurion Shirt
+3244	Slaughter Shirt
+3245	Slaughter Shirt
+3246	Slaughter Shirt
+3247	Slaughter Shirt
+3248	Slaughter Shirt
+3249	Slaughter Shirt
+3250	Challenger Shirt
+3251	Challenger Shirt
+3252	Challenger Shirt
+3253	Challenger Shirt
+3254	Challenger Shirt
+3255	Challenger Shirt
+3256	Hero Shirt
+3257	Hero Shirt
+3258	Hero Shirt
+3259	Hero Shirt
+3260	Hero Shirt
+3261	Hero Shirt
+3262	Heirloom Necklace
+3263	Eight Hook Jade
+3264	Forget Pearl
+3265	Snow Queen Necklace
+3266	Andromache Tears
+3267	Emerald Necklace
+3268	Diamond Necklace
+3269	Wood Rosary
+3270	Apprentice Necklace
+3271	Bones Necklace
+3272	Glass Necklace
+3273	Coral Necklace
+3274	Pearl Necklace
+3275	Crystal Necklace
+3276	Jade Necklace
+3277	Agate Necklace
+3278	Green Necklace
+3279	First Hero Necklace
+3280	Bones Necklace
+3281	Glass Necklace
+3282	Coral Necklace
+3283	Crystal Necklace
+3284	Jade Necklace
+3285	Pluto Silver Chain
+3286	Argus Pendant
+3287	Argus Pendant
+3288	Green Gem Necklace
+3289	Tiger Eye Chain
+3290	Scorpion Miro Necklace
+3291	Saga of Salvation
+3292	Gold Spike Blade
+3293	Pluto Silver Chain
+3294	Pluto Silver Chain
+3295	Argus Pendant
+3296	Agate Necklace
+3297	Lapis Necklace
+3298	Heart of Talos
+3299	Heart of Talos
+3300	Heart of Talos
+3301	Heart of Talos
+3302	ทดลองอุปกรณ์6
+3303	Apprentice Necklace
+3304	Emerald Necklace
+3305	Emerald Necklace
+3306	Emerald Necklace
+3307	Emerald Necklace
+3308	Emerald Necklace
+3309	Emerald Necklace
+3310	Diamond Necklace
+3311	Diamond Necklace
+3312	Diamond Necklace
+3313	Diamond Necklace
+3314	Diamond Necklace
+3315	Diamond Necklace
+3316	Wood Rosary
+3317	Wood Rosary
+3318	Wood Rosary
+3319	Wood Rosary
+3320	Wood Rosary
+3321	Wood Rosary
+3322	Moon Goddess
+3323	Moon Goddess
+3324	Moon Goddess
+3325	Moon Goddess
+3326	Moon Goddess
+3327	Moon Goddess
+3328	HarmoniaNecklace
+3329	HarmoniaNecklace
+3330	HarmoniaNecklace
+3331	HarmoniaNecklace
+3332	HarmoniaNecklace
+3333	HarmoniaNecklace
+3334	Necklace_Common_Rank15_Orange
+3335	Necklace_Common_Rank15_White
+3336	Necklace_Common_Rank15_Purple
+3337	Necklace_Common_Rank15_Green
+3338	Necklace_Common_Rank15_Blue
+3339	Necklace_Common_Rank15_Gold
+3340	Necklace_Common_Rank16_Orange
+3341	Necklace_Common_Rank16_White
+3342	Necklace_Common_Rank16_Purple
+3343	Necklace_Common_Rank16_Green
+3344	Necklace_Common_Rank16_Blue
+3345	Necklace_Common_Rank16_Gold
+3346	Necklace_Common_Rank17_Orange
+3347	Necklace_Common_Rank17_White
+3348	Necklace_Common_Rank17_Purple
+3349	Necklace_Common_Rank17_Green
+3350	Necklace_Common_Rank17_Blue
+3351	Necklace_Common_Rank17_Gold
+3352	Necklace_Common_Rank18_Orange
+3353	Necklace_Common_Rank18_White
+3354	Necklace_Common_Rank18_Purple
+3355	Necklace_Common_Rank18_Green
+3356	Necklace_Common_Rank18_Blue
+3357	Necklace_Common_Rank18_Gold
+3358	Necklace_Common_Rank19_Orange
+3359	Necklace_Common_Rank19_White
+3360	Necklace_Common_Rank19_Purple
+3361	Necklace_Common_Rank19_Green
+3362	Necklace_Common_Rank19_Blue
+3363	Necklace_Common_Rank19_Gold
+3364	Apprentice Necklace
+3365	Apprentice Necklace
+3366	Apprentice Necklace
+3367	Apprentice Necklace
+3368	Apprentice Necklace
+3369	Apprentice Necklace
+3370	Necklace_Common_Rank20_Orange
+3371	Necklace_Common_Rank20_White
+3372	Necklace_Common_Rank20_Purple
+3373	Necklace_Common_Rank20_Green
+3374	Necklace_Common_Rank20_Blue
+3375	Necklace_Common_Rank20_Gold
+3376	Bones Necklace
+3377	Bones Necklace
+3378	Bones Necklace
+3379	Bones Necklace
+3380	Bones Necklace
+3381	Bones Necklace
+3382	Glass Necklace
+3383	Glass Necklace
+3384	Glass Necklace
+3385	Glass Necklace
+3386	Glass Necklace
+3387	Glass Necklace
+3388	Coral Necklace
+3389	Coral Necklace
+3390	Coral Necklace
+3391	Coral Necklace
+3392	Coral Necklace
+3393	Coral Necklace
+3394	Pearl Necklace
+3395	Pearl Necklace
+3396	Pearl Necklace
+3397	Pearl Necklace
+3398	Pearl Necklace
+3399	Pearl Necklace
+3400	Crystal Necklace
+3401	Crystal Necklace
+3402	Crystal Necklace
+3403	Crystal Necklace
+3404	Crystal Necklace
+3405	Crystal Necklace
+3406	Jade Necklace
+3407	Jade Necklace
+3408	Jade Necklace
+3409	Jade Necklace
+3410	Jade Necklace
+3411	Jade Necklace
+3412	Agate Necklace
+3413	Agate Necklace
+3414	Agate Necklace
+3415	Agate Necklace
+3416	Agate Necklace
+3417	Agate Necklace
+3418	Green Necklace
+3419	Green Necklace
+3420	Green Necklace
+3421	Green Necklace
+3422	Green Necklace
+3423	Green Necklace

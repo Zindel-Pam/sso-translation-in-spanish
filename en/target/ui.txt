@@ -3364,7 +3364,7 @@
 3363	Draw x1
 3364	The Duel Arena is open every day at 7:00 p.m. You will receive Cash according to \rtu Rank, as well as receive bonus points \ dof duel.
 3365	Change series of opponents
-3366	You can update manually.
+3366	Level UP manually.
 3367	asfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdfasfjasfklalfjal; fkjasfjkas; lfjasl; fjasdl; fkjasdl; fjasdl; kfjasdl; fjksdkl; fjasdl; fjkasdl; kfjasdklfjasl; dkfjasdl; kfjasdkl; fjasdklfjklsdf
 3368	Password blocking
 3369	Temporary blocking
@@ -3817,7 +3817,7 @@
 3816	PRV
 3817	NXT
 3818	Next
-3819	Remove
+3819	Obtain
 3820	Received
 3821	Attachments:
 3822	Write

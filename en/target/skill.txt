@@ -801,9 +801,9 @@
 800	How much luck out of luck? Really do not fall from the sky ...
 801	^O021^ffff00 Curse of the Box
 802	° -20 ° -20 ° C.
-803	"It is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rWe teleport or change.\r\r^O009^ffffff \ channel, the effect will disappear.
-804	^O021^ffff00Dream Armor Dream
-805	"It is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change.\r\r^O009^ffffff \ channel, the effect will disappear
+803	^O021^ffff00Gold Armor Dream\r^O009^ffffffSagittarius Holy Armor\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
+804	^O021^ffff00Gold Armor Dream
+805	^O021^ffff00Gold Armor Dream\r^O009^ffffffCancer Holy Armor\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
 806	^O021^ffff00 Evil and Powerful Force ^Influenced by the Golden. Increase Movement Speed, Increase Resistance to Damage, 100 %Critical Attack
 807	^O021^ffff00 Malignant and Powerful Force
 808	^O021^ffff00 Full meal ★★★★\r^O009^ffffff Attack damage increased by 15%, damage reduced by 15%, health increased by 15%
@@ -1504,7 +1504,7 @@
 1503	^O021^ffff00Penetration LV1
 1504	^O021^ffff00Penetration LV2\r\r^O009^ffffff Increases damage by 2%
 1505	^O021^ffff00Penetration LV2
-1506	^O021^ffff00 Golden Armor Dream Capricorn Armor!\rIt is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear.
+1506	^O021^ffff00Gold Armor Dream\r^O009^ffffffCapricorn Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
 1507	^O021^ffff00Penetration LV3\r\r^O009^ffffff Increases damage by 3%
 1508	^O021^ffff00Penetration LV3
 1509	^O021^ffff00Penetration LV4\r\r^O009^ffffff Increases damage by 4%
@@ -2345,12 +2345,12 @@
 2344	^O021^ffff00 strong light continuously increase attack power.
 2345	^O021^ffff00 strong light
 2346	^O021^ffff00 light of the universe
-2347	^O021^ffff00 Dream of the Golden Armor\r\r^O009^ffffff Aries Armor!\rIt is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear.
-2348	^O021^ffff00 Dream of the Golden Armor\r\r^O009^ffffff Taurus Armor!\rIt is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear.
-2349	^O021^ffff00Golden Armor Dream It is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear.
-2350	^O021^ffff00 Golden Armor Dreaming\r\r^O009^ffffff Cancer Armor!\rIt is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear
-2351	^O021^ffff00 Golden Armor Dreaming\r\r^O009^ffffff Virgo Armor!\rIt is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear.
-2352	^O021^ffff00 Dream of the Golden Armor Scorpio Armor It is possible to feel the powerful energy of the Golden Armor, even if it is only by the light of the box ...\rTo teleport or change channel, the effect will disappear.
+2347	^O021^ffff00Gold Armor Dream\r^O009^ffffff Aries Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
+2348	^O021^ffff00Gold Armor Dream\r^O009^ffffff Taurus Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
+2349	^O021^ffff00Gold Armor Dream\r^O009^ffffff Gemini Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
+2350	^O021^ffff00Gold Armor Dream\r^O009^ffffff Cancer Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
+2351	^O021^ffff00Gold Armor Dream\r^O009^ffffff Virgo Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
+2352	^O021^ffff00Gold Armor Dream\r^O009^ffffff Scorpio Holy Armor!\rCongratulations! You have found Chest with Golden Armor! Now you can sense its power for a while...\rThe effect will disappear upon leaving the area.
 2353	^O021^ffff00 merry candy\r^O009^ffffff increased speed of movement
 2354	^O021^ffff00 merry sweet
 2355	^O021^ffff00Leo Guardian\r^O009^ffffff Pillars guarding on Leo Aiolia make increase on the defensive!

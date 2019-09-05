@@ -1,0 +1,4 @@
+0	
+1	
+2	
+3	script.COUNTBIRIS_EXIT_CONFIRM
