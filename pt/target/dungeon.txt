@@ -1,0 +1,824 @@
+0	É necessário um grupo com 3 membros ou mais para ativar
+1	O Nv de ${name} não preenche os requisitos
+2	O nº de participação do Desafio de Ouro de ${name} se esgotou ou Ponto de Ares insuficiente
+3	O grupo não recebeu a Quest Desafio de Ouro! Leão Valente
+4	O seu nº de participação do Desafio de Ouro se esgotou ou Ponto de Ares insuficiente
+5	O grupo não recebeu a Quest Desafio de Ouro! Peixes Vaidoso
+6	O grupo não recebeu a Quest Desafio de Ouro! Libra Justo
+7	O nº de participação da Proteja Saori de ${name} se esgotou
+8	${name} já participou da Proteja Saori, não pode participar novamente dentro desse período
+9	O nº de participação da Proteja Saori se esgotou
+10	Já participou da Proteja Saori, não pode participar novamente dentro desse período
+11	O nº de participação da Proteja Athena de ${name} se esgotou
+12	${name} já participou da Proteja Athena, não pode participar novamente dentro desse período
+13	O nº de participação da Proteja Athena se esgotou
+14	Já participou da Proteja Athena, não pode participar novamente dentro desse período
+15	O nº de participação do Contra-Ataque de ${name} se esgotou ou Ponto de Ares insuficiente
+16	O grupo não recebeu a Quest Contra-Ataque I! Abismo do Fogo e Gelo
+17	O seu nº de participação do Contra-Ataque se esgotou ou Ponto de Ares insuficiente
+18	O grupo não recebeu a Quest Contra-Ataque II! Lobo Gigante da Montanha de Neve
+19	O grupo não recebeu a Quest Contra-Ataque III! Deus Demoníaco do País de Gelo
+20	${name} já participou da Tempestade em Atlântida
+21	Já participou da Tempestade em Atlântida
+22	${name} já participou de Apocalipse Demoníaco
+23	Já participou de Apocalipse Demoníaco
+24	${name} já participou de Crise das Doze Casas
+25	Já participou de Crise das Doze Casas
+26	${name} já participou do Réquiem do Santuário
+27	Já participou do Réquiem do Santuário
+28	É necessário um grupo com 2 membros ou mais para ativar
+29	${name} precisa do item: ^0065feTrilha da Estrela^N. Ao passar da ^fffd44[Dungeon]Doze Casas III^N poderá obter ^0065feTrilha da Estrela^N
+30	Item necessário: ^0065feTrilha da Estrela^N. Ao passar da ^fffd44[Dungeon]Doze Casas III^N poderá obter ^0065feTrilha da Estrela^N
+31	O Nv de ${name} é inferior a 70
+32	${name} precisa do item: ^0065feAsas de Gelo^N. Ao passar da ^fffd44[Dungeon]Doze Casas IV^N poderá obter ^0065feAsas de Gelo^N
+33	O Nv é inferior a 70
+34	Item necessário: ^0065feAsas de Gelo^N. Ao passar da ^fffd44[Dungeon]Doze Casas IV^N poderá obter ^0065feAsas de Gelo^N
+35	O Nv de ${name} é inferior a 80
+36	O Nv é inferior a 80
+37	${name} precisa do item: ^0065fePedra de Ressonância dos Mares^N, ao passar da ^fffd44[Dungeon] Sete Pilares Marinhos (Início)^N poderá obter ^0065fePedra de Ressonância dos Mares^N
+38	Precisa do item: ^0065fePedra de Ressonância dos Mares^N, ao passar da ^fffd44[Dungeon] Sete Pilares Marinhos (Início)^N poderá obter ^0065fePedra de Ressonância dos Mares^N
+39	O Nv de ${name} é inferior a 90
+40	O nº de participações da Dungeon [Heroico] de ${name} se esgotou ou os Pontos Heroicos não atingiram 45
+41	O Nv é inferior a 90
+42	O nº de participações da Dungeon [Heroico] se esgotou ou os Pontos Heroicos não atingiram 45
+43	O Nv de ${name} é inferior a 60
+44	O Nv é inferior a 60
+45	O nº de participação do Contra-Ataque se esgotou ou Ponto de Ares insuficiente
+46	O nº de participações da Dungeon [Heroico] de ${name} se esgotou ou os Pontos Heroicos não atingiram 10
+47	O nº de participações da Dungeon [Heroico] se esgotou ou os Pontos Heroicos não atingiram 10
+48	O nº restante de participações do Contra-Ataque de ${name} é insuficiente ou Ponto de Ares insuficiente
+49	O nº restante de participações do Contra-Ataque é insuficiente ou Ponto de Ares insuficiente
+50	O nº de participações do [Heroico] Castelo do Graad Azul de ${name} se esgotou
+51	${name} já participou do [Heroico] Castelo do Graad Azul, não pode participar novamente dentro desse período
+52	O Nv é inferior a 95
+53	O nº de participações do [Heroico] Castelo do Graad Azul se esgotou
+54	Já participou do [Heroico] Castelo do Graad Azul, não pode participar novamente dentro desse período
+55	O nível do jogador ${name} não atinge o nível 100 requisitado
+56	Ponto Heroico do jogador ${name} são insuficientes
+57	O jogadores ${name} já participou de [Heroico]Doze Casas Divinas I, durante esse período não pode participar novamente
+58	Nível inferior a 100
+59	Pontos de herói necessários para entrar em [Heroico]Doze Casas Divinas I são insuficientes
+60	Já participou de [Heroico]Doze Casas Divinas I, durante esse período não pode participar novamente
+61	O jogadores ${name} já participou de [Heroico]Doze Casas Divinas II, durante esse período não pode participar novamente
+62	Pontos de herói para entrar em [Heroico]Doze Casas Divinas II são insuficientes
+63	Já participou de [Heroico]Doze Casas Divinas II, durante esse período não pode participar novamente
+64	É necessário um grupo com 4 membros ou mais para ativar
+65	${name} já participou de <Libra! Memórias de Dohko>
+66	O Nv não preenche os requisitos
+67	Já participou de <Libra! Memórias de Dohko>
+68	${name} já participou de <Ruptura! Desafio de Escorpião>
+69	Já participou de <Ruptura! Desafio de Escorpião>
+70	${name} já participou de <Aproximação! Crise de Sagitário>
+71	Já participou de <Aproximação! Crise de Sagitário>
+72	${name} já participou de Sonata Infernal
+73	Já participou de Lamento! Sonata Infernal
+74	${name} já participou de Borboletas do Submundo
+75	Já participou de Borboletas do Submundo
+76	${name} já participou de <Capricórnio! Kendo de Shura>
+77	Já participou de <Capricórnio! Kendo de Shura>
+78	É necessário um grupo com 6 membros ou mais para ativar
+79	${name} já participou da Sonho da Deusa
+80	O grupo não recebeu a Quest: Delegação de Saori Kido
+81	Já participou da Sonho da Deusa
+82	${name} já participou de <Aquário! Golpe Excepcional>
+83	Já participou de <Aquário! Golpe Excepcional>
+84	Objetivo da Batalha:
+85	Aguarde o início da luta
+86	Soldado[Santuário] %d/30
+87	Soldado[Santuário] %d/30\rAlgol de Perseu %d/1\rMisty de Lagarto %d/1
+88	Derrote os inimigos que vieram atacar Saori\r1ª horda %d/18\r2ª horda %d/22\r3ª horda %d/21\r4ª horda %d/18
+89	Jamian de Corvo %d/1
+90	Tremy de Sagita %d/1
+91	Contagem regressiva para a luta: %ds
+92	Soldado[Submundo] %d/15\rZeros %d/1\rSoldado Marina %d/15\rSorento %d/1
+93	Estrela Terrestre da Prisão %d/1
+94	Estrela Terrestre do Mal %d/1
+95	Desligue os mecanismos para eliminar a Ilusão no Céu
+96	Estrela Celeste da Derrota %d/1
+97	Cavaleiro de Prata de Cefeu %d/1
+98	Cavaleiro de Ouro de Peixes %d/1
+99	Testador de Leão %d/4\rInvocador de Leão %d/2\rAtacante de Leão %d/34
+100	Barreira [Pedra]  %d/1
+101	Ilusão de Aioria %d/1
+102	Projeção de Griffon %d/1
+103	Projeção de Wyvern %d/1
+104	Ilusão de Dohko %d/1
+105	Proteja o Santuário, derrotando os inimigos!\rNão deixe que a quantidade de inimigos dentro do Santuário ultrapasse 10.\rTem %d inimigos no Santuário\rDefendendo a %d/5 horda de inimigos\rInimigos derrotados %d/%d
+106	Derrote Estrela Celeste do Chifre %d/1
+107	Ir até a estátua de Athena, derrotando os inimigos ao longo do caminho
+108	Protejam a estátua de Athena!\rDefendendo a %d/8 horda de inimigos\rInimigos derrotados %d/%d
+109	Derrotar o Antecessor de Gêmeos %d/1
+110	Protejam a estátua de Athena!\rA próxima horda de inimigos chega após %ds.
+111	Encontrar o marinheiro no navio de cruzeiro
+112	Guerreiros de Marina %d/9\rCavalo Marinho %d/1
+113	Caranguejo das Marés %d/20
+114	Kraken %d/1
+115	Mercedes de Baleia Negra %d/1
+116	Medusa %d/20\rMago das Marés %d/2
+117	Dentro de 180s, derrote o máximo possível de inimigos:\r^e12500Tempo restante: %ds^N\rInimigos derrotados: %d
+118	Soldado Marina %d/15
+119	Skilla %d/1
+120	Ir para o Altar de Dragão Marinho
+121	Dragão Marinho %d/1
+122	Seguir em frente
+123	Derrote os monstros
+124	Siga Thetis para explorar o segredo submarino
+125	Liberar a alma de Kraken
+126	Liberar a alma de Sirene\rNúmero final de inimigos derrotados: %d
+127	Liberar a alma de Crisaor
+128	Elite de Marina %d/6\rCavalo Marinho %d/1
+129	Feiticeiro das Marés %d/2\rCavalo Marinho %d/1
+130	Caranguejo das Marés %d/40
+131	Assassinos de Marina %d/6\rAlice de Volans Negro %d/1
+132	Guerreiros Negros Valentes %d/9\rAlice de Volans Negro %d/1
+133	Cavaleiro de Elite Ressuscitado %d/10\rAlice de Volans Negro %d/1
+134	Medusa %d/15\rLíder dos Guerreiros Negros %d/1
+135	Mago das Marés %d/2\rLíder dos Guerreiros Negros %d/1
+136	Dentro de 180s, derrote o máximo possível de inimigos:\r^e12500Tempo restante: %ds^N\rInimigos derrotados: %d
+137	Soldado Marina %d/30
+138	Morcego Sanguinário %d/15\rLíder dos Guerreiros Negros %d/3
+139	Elite dos Guerreiros Negros %d/7\rLíder dos Guerreiros Negros %d/1
+140	Valente Guerreiro ressuscitado %d/6\rSirenes %d/6
+141	Identifique a verdadeira Escama de Dragão Marinho\rA pessoa coberta pela luz azul pode ativar a Escama de Dragão Marinho
+142	Siga em frente e toma cuidado com a pedra rolante no caminho\rAo chegar no terrerno elevado, derrote todos os Invocadores da Pedra Gigante
+143	Siga em frente e toma cuidado com os mecanismos de coluna espinhosa e os monstros no caminho
+144	Siga em frente e toma cuidado com os ataques congelantes da Serpente do Mar no caminho
+145	Thetis apareceu de novo, converse com ela\r(Sugira que a procure quando os companheiros estajam completos)
+146	Explorar o cemitério
+147	Abrir o caleidoscópio de Pandora %d/1
+148	Converse com Pandora dentro da Casa de Pedra
+149	Antecessor de Unicórnio %d/1
+150	Pátio\rLíder da Guarda do Cemitério %d/4\rAntecessor de Camaleão %d/1\rEvento: quebrar o Círculo Mágico do cemitério %d/1\rCírculo I %d/1\rCírculo II %d/1\rCírculo II %d/1\rCírculo IV %d/1\rCírculo V %d/1
+151	Tocar na Caixa da Armadura\rDerrote os inimigos\rEspectro de Mudra %d/6\rExecutor do Cemitério %d/6\rFantasma do Submundo %d/6\rSoldados Ressuscitados [Santuário] %d/36
+152	Cripta\rEspreitador da cripta %d/5\rGuarda da cripta %d/30
+153	Corpo de energia do Cosmo de Hades %d/1
+154	Converse com Pandora dentro da Casa de Pedra\rExplore o evento: Cérbero %d/1
+155	Antecessor de Unicórnio %d/1\rExplore o evento: Cérbero %d/1
+156	Tocar na Caixa da Armadura\rDerrote os inimigos\rEspectro de Mudra %d/6\rExecutor do Cemitério %d/6\rFantasma do Submundo %d/6\rSoldados Ressuscitados[Santuário] %d/36\rExplore o evento: Cérbero %d/1
+157	Tocar na Caixa da Armadura\rDerrote os inimigos\rEspectro de Mudra %d/6\rExecutor do Cemitério %d/6\rFantasma do Submundo %d/6\rSoldados Ressuscitados [Santuário] %d/36\rExplore o evento: Cérbero %d/1
+158	Cripta\rEspreitador da cripta %d/5\rGuarda da cripta %d/30\rExplore o evento: Cérbero %d/1
+159	Corpo de energia do Cosmo de Hades %d/1\rExplore o evento: Cérbero %d/1
+160	Presente da Morte de Pandora: %d/4 horda, a próxima horda de monstros será atualizada em %d/60 segundos
+161	Livrar-se da morte: derrote as Almas Penadas do Submundo %d/20
+162	Presente da Morte de Pandora: contagem regressiva para o último capítulo %d/60 segundos
+163	Entrar em Tártaro
+164	Derrotar Espírito de Guarda Gladiador de Titã %d/1
+165	Derrotar a Vigia da Ponte de Almas %d/1\rEncontro o caminho para entrar em Tártaro
+166	Derrotar Kanos, o elite de Titã %d/1
+167	Derrotar a Guarda de tempos velhos %d/2\rAbra a porta de acesso para Tártaro
+168	Seguir em frente\rDestruir a selagem da Imperatriz do Submundo
+169	Derrotar Queen %d/1
+170	Derrotar Sombra do Deus da Morte %d/1
+171	Derrotar Imperatriz do Submundo %d/1\rObter frutos da Mokurenji
+172	Sair da profundeza do Inferno
+173	Dentro de 120s, derrote o máximo possível de guardas de Hades:\r^e12500Tempo restante: %ds^N\rInimigos derrotados: %d
+174	Aproveite do Porteiro Controlador de pólvora e abra a porta do corredor o mais rápido possível
+175	Derrotar a Estrela Celeste da Riqueza %d/1\rTomar cuidado com Wyvern que está ao redor dele
+176	Derrote Caronte %d/1\rA presença do Espírito morto de Barqueiro faz o Caronte ficar mais forte
+177	Derrote a Sombra do deus do Sono %d/1\rCuidado com Borboleta Rei e Borboleta do Submundo
+178	Destrua a ampulheta e saia da sua Ilusão de Hypnos
+179	Dentro de 60s, derrote o máximo possível de guardas de Hades:\r^e12500Tempo restante: %ds^N\rInimigos derrotados: %d
+180	Busto do Gigante %d/1
+181	Resistir ao ataque do Abismo\r^e12500Tempo restante: %ds^N
+182	Gigante de Lava %d/1
+183	Conjunto de Gigantes %d/1
+184	Alberich de Megrez %d/1
+185	Hagen de Merak %d/1
+186	Centurião de Guerreiros do Gelo %d/3\rElite do Guerreiro do Gelo %d/10\rBatedor Guerreiro do Gelo %d/6
+187	Derrote Shido de Mizar %d/1
+188	Centurião de Guerreiros do Gelo %d/4\rElite do Guerreiro do Gelo %d/9\rUrso Polar %d/6
+189	Derrote Fenrir de Alioth %d/1
+190	Siga em frente sob a orientação da Deusa
+191	Thor de Phecda %d/1
+192	Vá até a cabeça do Píton, derrotando os Arqueiros
+193	Ofusque o Píton e encontre o caminho que leve até a sua boca
+194	Saltar dos olhos do Píton\rLoki %d/1
+195	Resgate o Ancião, derrotando Kerr e Thor
+196	Siegfried de Dubhe %d/1
+197	Hagen de Merak %d/1
+198	Hagen de Merak %d/1\rEstrela Celeste do Clamor %d/1
+199	Thor de Phecda %d/1\rMinos de Griffon %d/1
+200	Derrote:\rRock de Golem %d/1\rSteven da Estrela Celeste do Assassinato %d/1\rGordon de Minotauro %d/1
+201	Alberich de Megrez %d/1\rSylphid de Basilisco %d/1\rCuidado com as Borboletas Demoníacas e os Morcegos
+202	Fenrir de Alioth %d/1
+203	Bian de Cavalo Marinho %d/1
+204	Shido de Mizar %d/1\rBado de Alcor %d/1
+205	Centauro Degradado %d/1\rBaleia Degradado %d/1\rMosca Degradado %d/1
+206	Radamanthys %d/1
+207	Mime de Benetnasch %d/1\rCefeu Degradado %d/1
+208	Loki %d/1
+209	Líder do Guerreiro do Gelo %d/4\rServo do Guerreiro do Gelo %d/8\rGuerreiro Nórdico do Clã Divino %d/8
+210	Arqueiros Nórdicos %d/4\rUrso Polar %d/8\rLobo da Floresta %d/8
+211	Evento oculto:\rGrande Lobo Ártico %d/1
+212	Abissal %d/1
+213	Sapo Venenoso %d/7\rGuarda de Elite do Submundo %d/7\rMorcego Sanguinário %d/9\rGuarda do Deus da Morte %d/9
+214	Morcego Sanguinário %d/9\rGuarda do Deus da Morte %d/9
+215	Iwan de Troll %d/1
+216	Entre no Círculo Mágico Misterioso
+217	Nº de pessoas: %d\rContagem regressiva para quebrar o Círculo Mágico: %d
+218	Minos de Griffon %d/1
+219	Espectro de Geadas %d/1
+220	Besta devoradora de alma %d/6\rGuarda de Elite do Submundo %d/6
+221	Converse com Caronte de Aqueronte\r(Somente o Líder poderá fazer isso)
+222	Caronte de Aqueronte %d/1
+223	Caronte detesta os Ladrões de Tesouro, eles\rsempre se escondem nos escombros, cobiçando o tesouro de\rCaronte.\rDestrua os escombros, encontre os ladrões e derrote-os\r(Apenas o Líder pode conversar com Caronte)\rLadrões derrotados %d
+224	Borboleta do Submundo %d/12\rGuarda de Elite do Submundo %d/12
+225	Entrar na área brilhante
+226	Dentro de 180s, derrote o máximo possível de inimigos:\r^e12500Tempo restante: %ds^N\rInimigos derrotados: %d
+227	Faraó de Esfinge %d/1
+228	Corvos %d/11\rGuarda de Elite do Submundo %d/11
+229	Cobra do Submundo %d/6\rFeiticeiro Degradado %d/6
+230	Salve as fadas, matando Esfinge o mais rápido possível\rCaso contrário, a cada 20 segundos, haverá uma fada sacrificada\r^e12500Fadas restantes: %d ^N\rEsfinge %d/1
+231	Resgatou %d fadas\rVá buscar o presente deixado pelas fadas.
+232	Águia Comedora de Carne Podre %d/18\rSirenes do Submundo %d/18
+233	Aiacos de Garuda %d/1
+234	BOSS oculto: Imperatriz do Submundo %d/1
+235	Daidalos de Cefeu %d/1
+236	Algol de Perseu %d/1
+237	Daidalos de Cefeu %d/1\rAlgol de Perseu %d/1
+238	Tremy de Sagita %d/1\rJamian de Corvo %d/1
+239	Misty de Lagarto %d/1
+240	Sextante %d/1
+241	Jamian de Corvo %d/1\rSextante %d/1
+242	Derrote os Guardas de Marina no caminho
+243	Isaac de Kraken %d/1
+244	Sorento de Sirene %d/1
+245	Isaac de Kraken %d/1\rSorento de Sirene %d/1
+246	Bian de Cavalo Marinho %d/1
+247	Kasa de Lymnades %d/1
+248	Bian de Cavalo Marinho %d/1\rKasa de Lymnades %d/1
+249	Io de Scylla %d/1
+250	Krishna de Crisaor %d/1
+251	Io de Scylla %d/1\rKrishna de Crisaor %d/1
+252	Kanon de Dragão Marinho %d/1
+253	Poseidon %d/1
+254	Kanon de Dragão Marinho %d/1\rPoseidon %d/1
+255	Protejam a Deusa, derrotam:\rPoseidon %d/1\rMarinas %d/32\rCuidado com o canhão
+256	Protejam a Deusa, derrotam:\rHades %d/1\rEspectros %d/15
+257	O que aconteceu? Parece que o Grande Mestre traiu a Deusa
+258	Perseguir o Grande Mestre que traiu a Deusa\rSoldado de Cavaleiro %d/10
+259	Continuar a perseguir o Grande Mestre (Grande Mestre chegou à plataforma)\rSoldado de Cavaleiro %d/8
+260	Continuar a perseguir o Grande Mestre (Grande Mestre deixou a plataforma)\rSoldado de Cavaleiro %d/10
+261	(O Grande Mestre chegou ao centro do Salão)\rDerrotar o Grande Mestre %d/1
+262	Objetivo da Dungeon:
+263	O covil dos Monstros Ladrões é aqui?
+264	Dentro de 2min, capture o máximo possível de Ladrões!  ^e12500Tempo restante: %ds^N
+265	Capturar o Grande Ladrão, Kid
+266	Deixe a Hiperdimensão da Caixa Mágica, onde se encontra a Alma de Bebê
+267	Estrela Celeste Demoníaca %d/1
+268	Estrela Celeste da Sombra %d/1
+269	Estrela Celeste da Sombra %d/1\rDentro de 2min, salve o máximo possível de Aprendizes:\r^e12500Tempo restante: %ds^N\rAprendizes restantes: %d
+270	Estrela Terrestre da Violência %d/1
+271	Derrotar Estrela Celeste das Trevas %d/1
+272	Dentro de 2min, mate o máximo possível de inimigos:\r^e12500Tempo restante: %ds^N\rInimigos mortos: %d
+273	Estrela Celeste da Diferença %d/1
+274	Procurar o verdadeiro Martelo do Submundo\rA pessoa coberta por Luz Azul poderá ativar o Martelo do Submundo verdadeiro e falso!
+275	Espere Athena terminar sua meditação, e fale com ela para começar a oração\rRecomenda-se que jogadores mais fracos usem a Armadura de Ouro de Virgem\r%ds.
+276	Objetivo: carregue a energia de Athena, de modo que o HP dela atinja 100%\r\rSomente aquele abençoado pela Armadura de Virgem poderá carregar a energia de Athena\r\rAo tocar na Disciplina de Deus poderá carregar a energia de Athena e repelir os inimigos. Ativado novamente após 2 min\rDerrote os Intrusos do Submundo
+277	Você defendeu a Deusa! Que os Céus te abençoem!
+278	Infelizmente, a energia de Athena não foi carregada a tempo. Agora terá que derrotar o Espírito do Deus do Sonho\rEspírito do Deus do Sonho %d/1
+279	Espere Shunrei encontrar a localização de Shiryu e então fale com ela\r%ds
+280	Objetivo: tocar no Martelo de Titã para se transformar em um guerreiro e destruir o suprimento do Submundo\r\rRecolha as Caixas de Madeira até o Círculo para construir uma Ponte Flutuante\rSomente as pessoas que não se transformaram podem levantar as caixas\rConclusão da Ponte %d/35\r\rAtravés da ponte, vá até o Poço dos Mortos e derrote o Rock de Golem\rA luta iniciou há %ds\rCuidado com chão de espinhos
+281	Objetivo para passar de fase: junto com Shiryu, derrote Rock, a Estrela Celeste do Chifre!
+282	Infelizmente, não há tempo para alcançar a ponte. Derrote Rock, Estrela Celeste do Chifre, agora!
+283	Você ajudou Shunrei a salvar Shiryu! Que todos os apaixonados se casem!
+284	Derrotar Ikki, Cavaleiro de Fênix %d/1
+285	Derrotar Pégasus Negro %d/1\r(O Líder conversa com Pégasus Negro para escolher a dificuldade do desafio)
+286	Derrotar Pégasus Negro %d/1\r(O Líder conversa com Pégasus Negro para escolher a dificuldade do desafio)\r^FFCC00Pégasus Negro entrou em status de fúria, contagem regressiva atualizada:^N\r^FF0000%ds^N
+287	Derrotar Cisne Negro %d/1\r(O Líder conversa com Cisne Negro para escolher a dificuldade do desafio)
+288	Derrotar Cisne Negro %d/1\r(O Líder conversa com Cisne Negro para escolher a dificuldade do desafio)\r^FFCC00Cisne Negro entrou em status de fúria, contagem regressiva atualizada:^N\r^FF0000%ds^N
+289	Derrotar Dragão Negro %d/1\r(O Líder conversa com Dragão Negro para escolher a dificuldade do desafio)
+290	Derrotar Dragão Negro %d/1\r(O Líder conversa com Dragão Negro para escolher a dificuldade do desafio)\r^FFCC00Dragão Negro entrou em status de fúria, contagem regressiva atualizada:^N\r^FF0000%ds^N
+291	Derrotar Ikki, Cavaleiro de Fênix %d/1\r(O Líder conversa com Ikki para escolher a dificuldade do desafio)
+292	Derrotar Ikki, Cavaleiro de Fênix %d/1\r(O Líder conversa com Ikki para escolher a dificuldade do desafio)\r^FFCC00Ikki entrou em status de fúria, contagem regressiva atualizada:^N\r^FF0000%ds^N
+293	Avanço na dungeon
+294	Proteja Aioros de Sagitário. Derrote o inimigo!
+295	Derrotar Babel de Centauro %d/1
+296	Derrotar Maya de Sagita %d/1
+297	Fuja, não deixe Shura te alcançar
+298	Derrotar Mouses de Baleia %d/1
+299	Derrotar Shura, Cavaleiro de Ouro de Capricórnio %d/1
+300	Derrotar os Guardas de Tocaia no Vale %d/5
+301	Eliminar os inimigos que estão no caminho adiante, para Aioros
+302	Há uma emboscada na caverna, atravesse-a depressa
+303	^FF0000Falha ao ajudar Aioros a fugir.^N\r^FF0000Pode conversar com Aioros na plataforma de Sagita e reiniciar a escolta^N
+304	Derrotar Babel de Centauro %d/1\r(O Líder conversa com Babel para escolher a dificuldade do desafio)
+305	Derrotar Maya de Sagita %d/1\r(O Líder conversa com Maya para escolher a dificuldade do desafio)
+306	Ajude Aioros a fugir\rNão deixe que Shura o alcance
+307	Derrotar Mouses de Baleia %d/1\r(O Líder conversa com Mouses para escolher a dificuldade do desafio)
+308	Derrotar Shura, Cavaleiro de Ouro de Capricórnio %d/1\r(O Líder conversa com Shura para escolher a dificuldade do desafio)
+309	Derrotar Babel de Centauro %d/1\r(O Líder conversa com Babel para escolher a dificuldade do desafio)\r^FFCC00Babel entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+310	Derrotar Maya de Sagita %d/1\r(O Líder conversa com Maya para escolher a dificuldade do desafio)\r^FFCC00Maya entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+311	Derrotar Mouses de Baleia %d/1\r(O Líder conversa com Mouses para escolher a dificuldade do desafio)\r^FFCC00Mouses entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+312	Derrotar Shura, Cavaleiro de Ouro de Capricórnio %d/1\r(O Líder conversa com Shura para escolher a dificuldade do desafio)\r^FFCC00Shura entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+313	Vá para a Casa de Áries
+314	Converse com Mu em frente à Casa de Áries
+315	Coletar Areia Estelar de Prata na Ilusão de Jamiel %d/100
+316	Voltar para Casa de Áries e converse com Mu
+317	Derrotar Mu na Casa de Áries %d/1
+318	Vá imediatamente para a Casa de Touro
+319	Derrotar Aldebaran %d/1\rAjude Seiya a carregar o Cosmo %d/10
+320	Tempo para iniciar Supernova Titânica:\rContagem regressiva: %ds\rDerrotar Aldebaran %d/1
+321	Vá imediatamente para a Casa de Gêmeos
+322	Derrotar Guardião da Casa de Gêmeos %d/1
+323	Derrotar Guardiões da Hiperdimensão %d/4
+324	Dica de Fase:
+325	Entrar no Santuário de Gelo
+326	Entrar no Portal ^FFCC00Amarelo^N\r Derrotar Mime de Benetnasch %d/1\rCor da Aurora: ^FFCC00Amarela^N
+327	Remover selo de Poseidon %d/1\rElimine a Barreira de Coral do caminho\rCor da Aurora: ^FFCC00Amarela^N
+328	Entrar no Portal ^00CC00Verde^N\rDerrotar Siegfried, Estrela Alfa %d/1\rCor da Aurora: ^00CC00Verde^N
+329	Entrar no Portal ^00CCCCVerde-água^N\rRemover selo de Poseidon %d/5\rCor da Aurora: ^00CC00Verde^N^00CCCCVerde-água^N
+330	Entrar no Portal ^0066FFAzul^N\rDerrotar Ilusão de Sorento %d/3\rCor da Aurora: ^00CC00Verde^N^0066FFAzul^N
+331	Derrotar Fafner %d/1\rCor da Aurora: ^00CC00Verde^N^0066FFAzul^N
+332	Entrar no Portal ^9900FFRoxo^N\rDerrotar Valquíria %d/1\rCor da Aurora: ^FFCC00Amarela^N^9900FFRoxa^N
+333	Ir para Oceano Ártico\rDerrotar Isaac de Kraken %d/1
+334	Ir para Pilar do Pacífico Norte\rDerrotar Bian de Cavalo Marinho %d/1
+335	Ir para Pilar do Pacífico Sul\rDerrotar Io de Skilla %d/1
+336	Ir para Pilar do Oceano Índico\rDerrotar Krishna de Crisaor %d/1
+337	Ir para Pilar do Oceano Antártico\rDerrotar Kasa de Lymnades %d/1
+338	Ir para Pilar do Atlântico Sul\rDerrotar Sorento de Sirene %d/1
+339	Ir para Pilar do Atlântico Norte\rDerrotar Kanon de Dragão Marinho %d/1
+340	Ir para Templo de Poseidon\rDerrotar Poseidon %d/1
+341	Ir para Pilar Principal\rDerrotar Poseidon %d/1
+342	Vá para a Casa de Câncer
+343	Derrotar Máscara da Morte, Cavaleiro de Ouro de Câncer %d/1
+344	Vá para a Casa de Leão
+345	Derrotar Aioria, Cavaleiro de Ouro de Leão %d/1\rAioria está fora de si, seu ^FFCC00Relâmpago de Plasma^N pode destruir o ^FFCC00Pilar de Pedra^N. A destruição do Pilar pode aumentar a resistência a dano de Aioria
+346	Vá para a Casa de Virgem
+347	Derrotar Guardiões próximos %d/2
+348	Abrir Porta de Lótus de Pedra
+349	Derrotar Shaka, Cavaleiro de Ouro de Virgem %d/1
+350	Vá para a Casa de Libra
+351	Falar com Shun
+352	Salvar Hyoga %d/1\rDestruir o caixão de gelo, dentro de 3 minutos
+353	Vá para a Casa de Escorpião
+354	Derrotar Miro, Cavaleiro de Ouro de Escorpião %d/1
+355	Vá para a Casa de Sagitário
+356	Derrotar quatro Almas da Casa de Sagitário %d/4
+357	Vá para a Casa de Capricórnio
+358	Invadir Casa de Capricórnio
+359	Derrotar Shura, Cavaleiro de Ouro de Capricórnio %d/1
+360	Vá para a Casa de Aquário
+361	Passar pelo Bloqueio da Tempestade de Neve
+362	Derrotar Camus, Cavaleiro de Ouro de Aquário %d/1
+363	Vá para a Casa de Peixes
+364	Passar pela armadilha da Casa de Peixes
+365	Derrotar Afrodite, Cavaleiro de Ouro de Peixes %d/1\rTome cuidado com a ^FFCC00Rosa Sangrenta^N de Afrodite. Quando a rosa branca absorver o sangue e se tornar vermelha, o poder da morte o deixará ainda mais poderoso
+366	Derrotar Shion, o antecessor do Cavaleiro de Áries %d/1\r(O Líder deve conversar com Shion para escolher a dificuldade do desafio)
+367	Vá para a Casa de Touro
+368	Conversar com Aldebaran
+369	Derrotar Niobe, Estrela Terrestre das Trevas %d/1\r (O Líder conversa com Niobe para escolher a dificuldade do desafio)
+370	Vá para a Casa de Gêmeos
+371	Conversar com Cavaleiro de Gêmeos para entrar na Hiperdimensão
+372	Ao entrar na Hiperdimensão, converse com Shura
+373	Aceite o teste de Sagitário e vá para a próxima Hiperdimensão
+374	Vá para a próxima Hiperdimensão e converse com Camus
+375	Quebrar o selo do caixão de gelo de Hyoga
+376	Converse com Hyoga e vá para a próxima Dimensão
+377	Vá para a próxima Hiperdimensão e converse com Saga
+378	Entre no Labirinto da Memória e derrote Sombra de Gêmeos\r Coletar^66ccffFragmentos de Memória · Causa^N %d/1\r Coletar^66ccffFragmentos de Memória · Efeito^N %d/1
+379	Use dois Fragmentos de Memória para sintetizar ^cc66ffChave de Gêmeos^N\r Abrir a prisão de Kanon %d/1
+380	Converse com Kanon e volte para Casa de Gêmeos
+381	Derrotar Myu, Estrela Terrestre Sinistra %d/1\r (O Líder conversa com Myu para escolher a dificuldade do desafio)
+382	Derrotar Shion, o antecessor do Cavaleiro de Áries %d/1\r(O Líder deve conversar com Shion para escolher a dificuldade do desafio)\r^FFCC00Shion entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+383	Derrotar Niobe, Estrela Terrestre das Trevas %d/1\r(O Líder conversa com Niobe para escolher a dificuldade do desafio)\r^FFCC00Niobe entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+384	Derrotar Myu, Estrela Terrestre Sinistra %d/1\r(O Líder conversa com Myu para escolher a dificuldade do desafio)\r^FFCC00Myu entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+385	Desarmar armadilha %d/6\rEncontrar verdadeiro Laimi, Estrela Terrestre da Submissão
+386	Derrotar Laimi, Estrela Terrestre da Submissão %d/1\r(O Líder conversa com Laimi para escolher a dificuldade do desafio)
+387	Derrotar Laimi, Estrela Terrestre da Submissão %d/1\r(O Líder conversa com Laimi para escolher a dificuldade do desafio)\r^FFCC00Laimi entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+388	Derrotar Giganto, Estrela Terrestre da Violência %d/1\r(O Líder conversa com Giganto para escolher a dificuldade do desafio)
+389	Derrotar Giganto, Estrela Terrestre da Violência %d/1\r(O Líder conversa com Giganto para escolher a dificuldade do desafio)\r^FFCC00Giganto entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+390	Entre na Casa de Virgem e derrote os Diabos de Sombra do Inferno %d/8
+391	Entrar no Jardim das Árvores Gêmeas
+392	Derrotar Trindade, Cavaleiro de Ouro renascido %d/1\r(O Líder conversa com Saga para escolher a dificuldade do desafio)
+393	Derrotar Trindade, Cavaleiro de Ouro renascido %d/1\r(O Líder conversa com Saga para escolher a dificuldade do desafio)\r^FFCC00A Trindade entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+394	Use o teletransporte para ir ao Templo da Deusa e descubra a verdade sobre os fatos
+395	Derrotar Hagen de Merak, Estrela Beta %d/1\r(O Líder conversa com Hagen para escolher a dificuldade do desafio)
+396	Derrotar Fenrir de Alioth, Estrela Épsilon %d/1\r(O Líder conversa com Fenrir para escolher a dificuldade do desafio)
+397	Derrotar Alberich de Megrez, Estrela Delta %d/1\r(O Líder conversa com Alberich para escolher a dificuldade do desafio)
+398	Derrotar Shido de Mizar, Estrela Zeta %d/1\rDerrotar Bado de Alcor, Estrela Zeta %d/1\r(O Líder conversa com Shido para escolher a dificuldade do desafio)
+399	Vá para a parte oeste do Castelo do Graad Azul e procure por Fenrir, o lobo do norte
+400	Resista aos ataques dos Guerreiros do Gelo e dos lobos até que Fenrir chegue.
+401	Derrotar Hagen de Merak, Estrela Beta %d/1\r(O Líder conversa com Hagen para escolher a dificuldade do desafio)\r^FFCC00Hagen entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+402	Derrotar Fenrir de Alioth, Estrela Épsilon %d/1\r(O Líder conversa com Fenrir para escolher a dificuldade do desafio)\r^FFCC00Fenrir entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+403	Derrotar Alberich de Megrez, Estrela Delta %d/1\r(O Líder conversa com Alberich para escolher a dificuldade do desafio)\r^FFCC00Alberich entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+404	Derrotar Shido de Mizar, Estrela Zeta %d/1\rDerrotar Bado de Alcor, Estrela Zeta %d/1\r(O Líder conversa com Shido para escolher a dificuldade do desafio)\r^FFCC00Os irmãos Tigre Dente de Sabre entraram em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+405	Derrotar Queen de Alraune, Estrela Celeste Demoníaca %d/1\r(O Líder conversa com Queen para escolher a dificuldade do desafio)
+406	Derrotar Valentine de Harpia, Estrela Celeste do Clamor %d/1\r(O Líder conversa com Valentine para escolher a dificuldade do desafio)
+407	Derrotar Zeros de Frog, Estrela Terrestre Bizarra %d/1\r(O Líder conversa com Zeros para escolher a dificuldade do desafio)
+408	Derrotar Radamanthys, Estrela Celeste da Fúria %d/1\r(O Líder conversa com Radamanthys para escolher a dificuldade do desafio)\r^FFCC00Depois de iniciar Boss, a zona da luta será fechada
+409	Derrotar os Guardas de Elite dentro do Castelo de Hades %d/12
+410	Derrotar Queen de Alraune, Estrela Celeste Demoníaca %d/1\r(O Líder conversa com Queen para escolher a dificuldade do desafio)\r^FFCC00Queen entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+411	Derrotar Valentine de Harpia, Estrela Celeste do Clamor %d/1\r(O Líder conversa com Valentine para escolher a dificuldade do desafio)\r^FFCC00Valentine entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+412	Derrotar Zeros de Frog, Estrela Terrestre Bizarra %d/1\r(O Líder conversa com Zeros para escolher a dificuldade do desafio)\r^FFCC00Zeros entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+413	Derrotar Radamanthys, Estrela Celeste da Fúria %d/1\r(O Líder conversa com Radamanthys para escolher a dificuldade do desafio)\r^FFCC00Radamanthys entrou em status de fúria, contagem regressiva da luta atualizada:^N\r^FF0000%ds^N
+414	Obter Alma de Vento %d/10\rObter Alma de Terra %d/5\rObter Alma de Água %d/80\rObter Alma de Fogo %d/140
+415	Obter Alma de Vento %d/5\rObter Alma de Terra %d/10\rObter Alma de Água %d/140\rObter Alma de Fogo %d/80
+416	Obter Alma de Vento %d/60\rObter Alma de Terra %d/25\rObter Alma de Água %d/60\rObter Alma de Fogo %d/20
+417	Obter Alma de Vento %d/25\rObter Alma de Terra %d/60\rObter Alma de Água %d/20\rObter Alma de Fogo %d/60
+418	Obter Alma de Vento %d/20\rObter Alma de Terra %d/10\rObter Alma de Água %d/160\rObter Alma de Fogo %d/280
+419	Obter Alma de Vento %d/10\rObter Alma de Terra %d/20\rObter Alma de Água %d/280\rObter Alma de Fogo %d/160
+420	Obter Alma de Vento %d/120\rObter Alma de Terra %d/50\rObter Alma de Água %d/120\rObter Alma de Fogo %d/40
+421	Obter Alma de Vento %d/50\rObter Alma de Terra %d/120\rObter Alma de Água %d/40\rObter Alma de Fogo %d/120
+422	Obter Alma de Vento %d/30\rObter Alma de Terra %d/15\rObter Alma de Água %d/240\rObter Alma de Fogo %d/420
+423	Obter Alma de Vento %d/15\rObter Alma de Terra %d/30\rObter Alma de Água %d/420\rObter Alma de Fogo %d/240
+424	Obter Alma de Vento %d/180\rObter Alma de Terra %d/75\rObter Alma de Água %d/180\rObter Alma de Fogo %d/60
+425	Obter Alma de Vento %d/75\rObter Alma de Terra %d/180\rObter Alma de Água %d/60\rObter Alma de Fogo %d/180
+426	Fase de preparação da luta, selecione o Reino\rApós selecionar o Reino, fale com Shaka para iniciar a luta
+427	Lute com os Seres das Seis Existências correspondentes ^00ffff%d/100^N\r^ffff00Ao lutar com as Seis Existências iguais a si, poderá obter contagem^N\r^00ff00Dica: Se atacar as Seis Existências que não sejam correpondentes a si, seu Pet poderá não obter conhecimento^N\rAo lutar com as Seis Existências iguais a si, poderá obter conhecimento\r^ffff00Individualmente,^N ao obter ^ffff0010^N conhecimentos, libera a ^ffff00segunda^N habilidade das Seis Existência\r^ffff00Individualmente,^N ao obter ^ffff0020^N conhecimentos, libera a ^ffff00terceira^N habilidade das Seis Existência\rTempo até que uma grande quantidade de Seres das Seis Existências apareçam: ^ff0000%d^N segundos
+428	Lute com os Seres das Seis Existências correspondentes ^00ffff%d/100^N\r^ffff00Ao lutar com as Seis Existências iguais a si, poderá obter contagem^N\r^00ff00Dica: Se atacar as Seis Existências que não sejam correpondentes a si, seu Pet poderá não obter conhecimento^N\rAo lutar com as Seis Existências iguais a si, poderá obter conhecimento\r^ffff00Individualmente,^N ao obter ^ffff0010^N conhecimentos, libera a ^ffff00segunda^N habilidade das Seis Existência\r^ffff00Individualmente,^N ao obter ^ffff0020^N conhecimentos avançados da ^ffff00terceira^N habilidade das Seis Existência\r^ff0000Atenção! Grande quantidade de Seres das Seis Existências apareceram nas proximidades do Jardim das Árvores Gêmeas^N
+429	Derrotar Saga, Cavaleiro de Ouro com Sapuris %d/1
+430	Fase de preparação da luta, converse com Dohko para iniciá-la
+431	Ajudar Dohko a eliminar os Espectros que estão no caminho\rDerrotar Soldados Rasos do Submundo ^00ffff%d/15^N
+432	Seguir Dohko\rDerrotar Estrela Celeste da Fúria ^00ffff%d/1^N
+433	Ajudar Dohko a eliminar os Espectros que estão no caminho\rDerrotar Soldados Rasos do Submundo ^00ffff%d/20^N
+434	Seguir Dohko\rDerrotar Estrela Celeste da Nobreza ^00ffff%d/1^N
+435	Ajudar Dohko a eliminar os Espectros que estão no caminho\rDerrotar Soldados Rasos do Submundo ^00ffff%d/18^N
+436	Seguir Dohko\rDerrotar Estrela Celeste da Valentia ^00ffff%d/1^N
+437	Seguir Dohko\rDerrotar Hades ^00ffff%d/1^N
+438	Fase de preparação da luta, converse com Miro para iniciá-la
+439	Derrotar Escorpião Escarlate ^00ffff%d/100^N\r^ffff00O Campo Ártico ao redor pode eliminar o veneno de escorpião do corpo^N\rDica: Após o envenenamento, irá causar ^FF0000danos^N nos ^00ff00Pets^N ao redor, de forma contínua. Elimine o veneno o mais rápido possível
+440	Romper o Desafio de Escorpião\rDerrotar Miro ^00ffff%d/1^N
+441	Fase de preparação da luta, converse com Aioros para iniciá-la
+442	Coletar energia do Cosmo ^00ffff%d/200^N\rPreste atenção para desviar dos ataques do Deus da Morte. Coletar esferas de energia do Cosmo douradas\rDica: Use racionalmente a habilidade de ^00ff00aceleração, União Estelar^N
+443	Eliminar Crise de Sagitário\rDerrotar Deus da Morte ^00ffff%d/1^N
+444	Conversar com Papai Noel para iniciar a luta\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\rO nível das Fadas de Gelo é mais importante que a quantidade
+445	Tempo até que ^ffff001ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff0012^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+446	Progresso atual: ^ffff001^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+447	Tempo até que ^ffff002ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff0011^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+448	Progresso atual: ^ffff002^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+449	Tempo até que ^ffff003ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff0010^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+450	Progresso atual: ^ffff003^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+451	Tempo até que ^ffff004ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff009^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+452	Progresso atual: ^ffff004^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+453	Tempo até que ^ffff005ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff008^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+454	Progresso atual: ^ffff005^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+455	Tempo até que ^ffff006ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff007^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+456	Progresso atual: ^ffff006^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+457	Tempo até que ^ffff007ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff006^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+458	Progresso atual: ^ffff007^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+459	Tempo até que ^ffff008ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff005^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+460	Progresso atual: ^ffff008^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+461	Tempo até que ^ffff009ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff004^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+462	Progresso atual: ^ffff009^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+463	Tempo até que ^ffff0010ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff003^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+464	Progresso atual: ^ffff0010^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+465	Tempo até que ^ffff0011ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rRestam ^ffff002^N hordas de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+466	Progresso atual: ^ffff0011^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+467	Tempo até que ^ffff0012ª^N horda de inimigos apareça: ^ffff00%ds^N\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rResta ^ffff001^N horda de inimigos\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+468	Progresso atual: ^ffff0012^N/^ffff0012^N hordas de inimigos\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N\rAs Fadas de Gelo têm 3 níveis, no total. É necessário usar Habilidade de Flocos de Neve 1, 2, 2x, separadamente, para que subam de nível. Colete as esferas de luz dropadas por seus inimigos\r^ffff00O nível das Fadas de Gelo é mais importante que a quantidade
+469	Parabéns! Mais uma vez, venceu o mal!\rInimigos derrotados/Inimigos que fugiram\r^ffff00%d^N/^ff0000%d^N
+470	Fase de preparação da luta, converse com Shura para iniciá-la
+471	Derrotar Soldado[Submundo] ^00ffff%d/270^N\rExcalibur restante: ^00ffff%d/9^N\rDica: Após obter o ^00ff00[Domínio da Excalibur]^N, próximo a ^00ff00Excalibur^N ou ^00ff00Shura^N, poderá causar dano eficaz nas forças do Submundo
+472	Derrotar Estrela Celeste do Clamor ^00ffff%d / 1^N
+473	Fase de preparação da luta, converse com Camus para iniciá-la
+474	Coletar cristais de gelo ^00ffff%d / 120^N\rDica: Colete ^ffff00Cristais^N de gelo^ffff00[Truque]^N\rEvitar a ^ffff00Bomba de Gelo^N
+475	Derrotar Camus ^00ffff%d / 1^N
+476	A Prova da Herança de Camus foi completada!
+477	Fase de preparação da luta, converse com Guarda da Casa de Peixes para iniciá-la
+478	Eliminar Rosa corroída ^00ffff%d/120^N\rTempo restante: ^00ffff%ds^N\rAtenção:  A ^ffff00Rosa^N não para de crescer, destrua-a o mais rápido possível e evite que se transforme em uma flor maligna\rCaso seja transformado em Borboleta do Submundo, vá o mais rápido possível até as proximidades da Rosa Branca eliminar o veneno
+479	Derrotar Queen, Estrela Celeste Demoníaca ^00ffff0 / 1
+480	Crise da Casa de Peixes eliminada!
+481	Conversar com Kiki para iniciar a luta
+482	Derrotar todos os Kikis ^00ffff%d/28^N\rTempo restante: ^00ffff%ds^N\rAtenção: Cuidado com todas as ^ffff00armadilhas^N que Kiki deixa no local\rMu colocará a Muralha de Cristal para interferir na luta
+483	Derrotar Mu de Áries ^00ffff0/1
+484	Parabéns por passar no teste de Mu!
+485	Conversar com Gêmeos do mal para iniciar a luta
+486	Derrotar Soldados do mal ^00ffff%d/100^N\rTempo restante: ^00ffff%ds
+487	Derrotar Gêmeos do mal
+488	Vocês conseguiram preservar a bondade no coração de Gêmeos!
+489	Guerreiro ressuscitado %d/8\rApenas com o Lótus Sagrado do fim da estrada, é possível remover a terrível maldição do inimigo
+490	Morcego Sanguinário Gigante %d/1\rBorboleta Rainha do Submundo %d/1\rNinfa de Myu do Submundo %d/1
+491	União do Deus do Sonho %d/1
+492	Derrotou o Deus do Sonho!
+493	Ir ao Portal do Submundo\r^fff000Derrotar todos os Caçadores de Sombras e Caçadores de Almas no Caminho da Morte.\rCaçadores de Sombras %d/128\rCaçadores de Almas %d/32
+494	Destruir o Portal do Submundo\r^fff000Tome cuidado com a Fúria da Lava e o Guarda do Sangue do Desespero, nas imediações da entrada. A Fúria ataca os soldados perto da entrada e o Guarda recupera a HP do Portal.
+495	Derrotar Caronte, Estrela Celeste do Hiato\r^fff000Derrotar Caronte, o barqueiro do Aqueronte. Tome cuidado com seu remo
+496	Atravessar o Aqueronte\r^fff000Pelo teleportador aberto por Shaka, vá até a outra margem do rio e destrua a ^ff0000Estela do Escudo^fff000.
+497	Ir à Morada do Julgamento\r^fff000Derrotar todos os Zumbis Viciados e os Zumbis Naufragados na margem do rio\rZumbis %d/160
+498	Derrote Lune, Estrela Celeste da Eminência\rDurante a luta, Lune invocará o Monumento do Destino em frente à Morada do Julgamento. Caso não o destrua dentro de 15 min, ele acrescentará uma Estrela de Proteção a Lune; dentre as quais: a Estrela da Vida, que recupera o HP de Lune, a Estrela da Morte, que ataca seus inimigos e a Estrela da Confusão, que aumenta o status de reflexão de dano de Lune. É melhor organizar um pelotão em frente à Morada do Julgamento para destruir o Monumento do Destino sem demora.
+499	Jovens justos e valentes, parabéns por terem atacado a Morada do Julgamento! Muitos desafios ainda esperam por vocês!
+500	Chegar ao Vale da Ventania Negra\r^fff000Derrote todos os Investigadores das Trevas atrás da Morada do Julgamento.\rInvestigadores das Trevas %d/60
+501	Derrote Moe, a Estrela Celeste das Trevas\r^fff000Derrote Moe, guardião do Vale da Ventania Negra. Cuidado, pois ele pode invocar uma ventania negra infernal.
+502	Chegar ao Inferno de Pedras Rolantes\r^fff000Elimine todos os Guardas da Ventania Negra no Vale da Ventania Negra,\rGuardas da Ventania Negra %d/64
+503	Derrote Rock, a Estrela Celeste do Chifre\r^fff000Derrote Rock, o guardião do Inferno de Pedras Rolantes. Cuidado, pois ele pode invocar uma avalanche de pedras.
+504	Derrotar Faraó, Estrela Celeste da Besta e Papillon, Estrela Terrestre Sinistra\r^fff000Derrote esses poderosos Espectros. Após o início da luta, o portão do Faraó será fechado e não será possível passar por ele. Se os dois não estiverem em status de luta, entrarão em status invencível, por isso é sensato que o pelotão ataque simultaneamente para derrotá-los.
+505	Jovens justos e valentes, parabéns por terem atacado o Inferno de Pedras Rolantes! Muitos desafios ainda esperam por vocês!
+506	Derrote Queen^fff000Divida uma parte dos companheiros e usa o poder de ^ff0000Orfeu^fff000 para derrotar as Flores Mágicas, evitando que elas aumentem o poder de Queen^NNº restante de Flores Mágicas: ^ff0000%d
+507	Encontre o verdadeiro Iwan\r^fff000No Pântano das Trevas há 4 Iwan falsos. Somente ao encontrar o verdadeiro, a Estrela Celeste da Derrota aparecerá\r^fff00Ao entrar na Barreira Estelar, pode eliminar o efeito de distorção do Pântano das Trevas
+508	Derrote Iwan^fff000Ao lutar com Estrela Celeste da Derrota, divida uma parte dos companheiros para derrotar as Almas de Iwan, evitando que elas aumentem o poder dele^NNº restante de Almas de Ivan: ^ff0000%d
+509	Una as forças para passar pelas barreiras no caminho ao Cemitério de Fogo!\r^fff000É necessário derrotar os Guardas dos 2 caminhos que levam ao Cemitério de Fogo para poder avançar
+510	Derrote Kagaho^fff000Ao lutar com Kagaho, divida uma parte dos companheiros para derrotar as Almas Degradadas, evitando que elas aumentem o poder de Kagaho^NNº restante de Almas Degradadas: ^ff0000%d
+511	Jovens justos e valentes, parabéns por terem atacado o Cemitério de Fogo! Muitos desafios ainda esperam por vocês!
+512	Vá até o final do Lago de Sangue, desligando o mecanismo das Pedras Rolantes\r^fff000Usar o poder de Shun pode curar rapidamente os companheiros atingidos pelas Pedras
+513	Derrote Gordon, Estrela Celeste do Cárcere\r^fff000Ao lutar com Gordon, separe uma parte dos companheiros de grupo para coletar Areia Quente, a fim de enfraquecê-lo^N\rQuanto mais areia coletada, mais fraco ele ficará. A cada 15s, a Estrela Celeste do Cárcere sacudirá as Areias Quentes do seu corpo para recuperará as forças\r^fff000Número de Areia Quente: ^ff0000%d\r^fff000Força da Estrela Celeste do Cárcere: ^ff0000%d
+514	Derrote Sylphid, Estrela Celeste da Perspicácia\r^fff000Ao lutar com Sylphid, separe uma parte dos companheiros de grupo para quebrar os ovos de serpente nas proximidades e evitar que as Serpentes do Submundo aumentem a força da Estrela Celeste da Perspicácia
+515	Atravesse depressa o Abismo dos Deuses e feche o mecanismo de lava
+516	Derrote Valentine, Estrela Celeste do Clamor\r^fff000Derrote o Soldado do Submundo que protege os centros da tempestade para impedir que Valentine crie uma nevasca em todo o Cócito^N\rCentros não impedidos^ffff00%d ^N / ^ff00003^N\rQuando a nevasca se aproximar, esconder-se nas frestas pode evitar que seja congelado
+517	Jovens justos e valentes, parabéns por terem atacado o Cócito! Muitos desafios ainda esperam por vocês!
+518	Chegar ao Muro das Lamentações\r^fff000Passe separadamente pela Caina, Antenora, Ptlomeia e Giudecca para chegar ao Muro das Lamentações.
+519	Os Três Juízes do Submundo\r^fff000Derrote Radamanthys, Estrela Celeste da Fúria; Aiacos, Estrela Celeste da Valentia e Minos, Estrela Celeste da Nobreza.
+520	Jovens justos e valentes, parabéns por terem atacado o Muro das Lamentações! Muitos desafios ainda esperam por vocês!
+521	Conversar com Ikki para iniciar a luta
+522	Derrotar o Deus da Morte e o Deus do Sono separadamente
+523	Jovens justos e valentes, parabéns por terem derrotado o Deus da Morte e o Deus do Sono! Muitos desafios ainda esperam por vocês!
+524	Preparação da Luta\r^00ff00Após iniciar a luta, é necessário derrotar Hades, o Imperador do Submundo, dentro de 30min
+525	O Imperador do Submundo quer iniciar a cerimônia para invocar as Estrelas da Morte, destrua todas as pedras de invocação dentro de 30s. Hades não poderá ser atacado nesta fase.\r^00ff00Após iniciar a luta, é necessário derrotar Hades dentro de 30min
+526	Somente atacando o corpo verdadeiro de Hades causa-lhe danos. Atenção na coordenação da Raide, os clones de Hades precisam ser derrotados dentro de 15seg, senão, sofrerá danos da maldição dos clones restantes.\rApós iniciar a luta, é preciso derrotar Hades, o Imperador do Submundo dentro de 30min
+527	O Eclipse Eterno de Hades é extremamente destrutivo, atenção ao esquivar-se!\rApós iniciar a luta, é necessário derrotar Hades dentro de 30min
+528	Jovens justos e valente, parabéns por derrotarem o Imperador do Submundo! Vocês obterão a mais alta glória!
+529	Conversar com o  Emissário do Festival de Outono e o Bolo da Lua para iniciar a luta
+530	Derrotar todos os Espectros\r^ffff00%d ^N / ^ff0000120
+531	Derrote todos os Espectros\r^ffff00%d ^N / ^ff0000120^N\rAo matar Zeros, Estrela Terrestre Bizarra, terá grande probabilidade de obter prêmio extra
+532	Parabéns por derrotar todos os Espectros!
+533	Conversar com Seiya para iniciar a luta
+534	Brilho das Estrelas coletados: ^00ffff%d / 80 ^N\r^00ff00Esfera de Aceleração^Npode aumentar temporariamente a velocidade do movimento\r^00ff00Detenção Divina^Npode bloquear temporariamente os movimentos de Hades\rUse a habilidade^00ff00Salvação^Npara ajudar os companheiros de grupo derrubados por Hades\rHades ficará cada vez mais veloz, colete Brilhos das Estrelas suficientes logo!
+535	Você salvou a Deusa mais uma vez!
+536	Conversar com Mestre Dohko para iniciar a luta
+537	Derrotar todos os Soldado[Submundo]\r^ffff00%d^N/^ff0000120
+538	Derrotar Shion de Áries
+539	Parabéns por passar no teste de Dohko!
+540	Vá até o final da trilha da montanha para derrotar Ícelo!\rÍcelo %d/1
+541	Derrotar o Guarda da Estrada ao longo do caminho adiante
+542	Há um grande número de monstros reunidos na Árvore Anciã, elimine-os!
+543	Quando a contagem regressiva acabar ou quando derrotar 200 monstros, Oneiros aparecerá em frente à Árvore Anciã!\rTempo restante: %ds\rMonstros em frente à Árvore %d/200
+544	Oneiros está em frente à Árvore Anciã!\rOneiros %d/1
+545	Derrotar o Monstro ao longo do caminho adiante
+546	Derrote o Gigante do Submundo do caminho!\rGigante do Submuno %d/1
+547	Oneiros está do outro lado da ponte; siga neste caminho
+548	Oneiros está ali adiante, derrote-o!\rOneiros %d/1
+549	Parabéns por derrotar Oneiros, converse com Shunrei
+550	Derrote a Ilusão de Morfeu %d/1
+551	Siga ao longo deste caminho e derrote a Hydra do Submundo %d/1
+552	Siga ao longo deste caminho e derrote os monstros\rAbissais%d/6
+553	Siga ao longo deste caminho e derrote o Dragão Imortal
+554	Derrotar Fâstaso %d/1
+555	Siga o sinal adiante e teletransporte-se ao Templo de Thanatos junto à Criada Criadora de Águias para derrotar o Deus da Morte, Thanatos!\rThanatos %d/1
+556	Derrote o Deus da Morte, Thanatos!\rThanatos %d/1\rSe todo o Templo afundar-se na^FFCC00Morte Sombria^N, peça às 6 ^FFCC00Lâmpadas^N para acender o fogo, para dispersar a Morte Sombria
+557	Siga o sinal adiante para chegar ao Templo de Hypnos e derrotar o Deus do Sono!\rHypnos %d/1
+558	Derrote o Deus do Sono, Hypnos!\rHypnos %d/1\rAtente-se para eliminar os^FFCC00Súditos^N de Hpynos, ou eles serão uma grande ameaça no futuro
+559	Siga o sinal adiante e teletransporte-se ao Floresta das Canções Mágicas junto à Criada Criadora de Águias para derrotar o Deus do Sonho!\rDeus do Sonho %d/1
+560	Derrote o Deus do Sonho!\rDeus do Sonho %d/1\rApresse-se para ^FFCC00completar o HP^N dos jogadores em status "Sonho Profundo"\rQuando um companheiro se transformar em "Sombra do Deus do Sonho", deverá aguadar 1min\rAssim que puder, direcione o ^FFCC00ataque em cone do Deus do Sonho para as Rosas do Pesadelo^N, a fim de eliminá-las
+561	Siga o sinal adiante e teletransporte-se ao Campo das Flores Adormecidas junto à Criada Criadora de Águias para derrotar a Imperatriz do Submundo!\rImperatriz do Submundo %d/1
+562	Derrote a Imperatriz do Submundo!\rImperatriz do Submundo %d/1\rO Cavaleiro transformado em serpente deve usar imediatamente a habilidade ^FFCC00Antídodo^N para curar o status “transformado” dos Cavaleiros
+563	Teletransporte-se ao Campo de Treinamento de Hades e derrote-o!\rLutar contra ele é o medo e a glória de todos!\rHades %d/1
+564	Derrote Hades! Lutar com ele é o medo e a glória de todos!\rHades %d/1\rQuando Hades lançar ^FFCC00Espadas Voadoras^N ^N, destruam-nas rapidamente\rQuando Hades usar a habilidade de Repelir em grande escala, você pode usar ^FFCC00Bloquear^N para se defender\rQuando o eclipse ocorrer, na Explosão do Eclipse de Hades, ^FFCC00esconda-se sob^N a Espada Gigante. Ao fim, destrua a Espada\rTempo restante até a Explosão do Eclipse ^FFCC00%ds.^N\rEnquanto Hades estiver lutando, outras pessoas não podem embarcar na Ilha Flutuante
+565	O Cavaleiro que derrotou Hades já está no topo do mundo
+566	Conversar com Athena para iniciar a luta
+567	Alimentos recuperados: ^00ffff%d/ 100^N\rOs ^ffff00Ladrões^N estão sob status invisível. Use^00ff00Investigar^N\rDerrote o^ffff00Ladrão de Torta de Abóbora^Ne obtenha^00ff001^N alimento\rLadrão de Peru^ffff0Derrote o^NLadrão de Peru^Ne obtenha^00ff0010^N alimento
+568	Você e seu companheiro recuperaram todos os alimentos, tenham um bom Dia de Ação de Graças!
+569	Conversar com Papai Noel para iniciar a luta
+570	Inimigos derrotados:^00ffff%d / 200 ^N\rPegue a ^ffff00Armadilha de Doces^Npara colocá-la na^00ff00plataforma de incubação!
+571	Vocês resistiram aos inimigos com sucesso, o Papai Noel decidiu dar-lhes presentes! Vá logo recebê-los!
+572	O Santuário mergulhou em um silêncio que nunca houve, rodeado pelo desespero e medo dos sobreviventes.\rAfinal o que aconteceu aqui?Converse com ^ffff00 Nachi de Lobo ^N
+573	 É necessário ^ffff00 passar pelo Vale da Ventania Negra ^N, para poder continuar!\rJuntar ^00ff00Universo de Luz ^N, ele pode ajudá-los a controlar o Vento Negro do Mal: ^ffff00%d / 12
+574	Será que o mundo vai enfrentar mais uma catástrofe?Quem está no comando de tudo isso?No caminho adiante se eleva uma densa névoa, o primeiro passo para descobrir a verdade, ^ffff00 derrotar a Estrela Celeste do Cárcere!^N\rO Círculo Mágico de Shaka está escondido no ^00ff00Santuário ^N, se dois membros do grupo ^00ff00entrarem juntos ^N é possível abri-lo!Use-o para conter o inimigo!
+575	A Estrela Celeste do Cárcere afirma que foi enganado pelo Deus da Força, Naveen .Mas quem é ele?Isso está longe de terminar!\rElimine os obstáculos à sua frente, ^ ffff00 Estrela Celeste Demoníaca!^N\rA Estrela Celeste Demoníaca é cheio de truques, mas se utilizar o ^00ff00Cosmo ^N deixado pelo Cavaleiro de Prata, poderá quebrar a Barreira Mágica dele!
+576	A morte da Estrela Celeste Demoníaca deixou vocês ainda mais surpresos, Deus da Ética, Mokurius?Será que não é apenas uma pessoa que está por trás disso?\rNão importa qual seja a verdade, o inimigo do Santuário não pode escapar!^ffff00 Derrotar Estrela Celeste da Agilidade^N\rO Cosmo remanescente do ^00ff00Cavaleiro de Prata ^N dará ajuda vantajosa durante a batalha!
+577	Afinal, como isso aconteceu?Por que Lira surgiria aqui?\rIsso é...Os 12 de Ouro?!Eles já não tinham sacrificado isso?
+578	A vitória é apenas temporária!O Deus do Elemento, Phaedrus, se aproveitou da Estrela Celeste da Agilidade e a verdade ainda está encoberta por uma névoa densa, a vitória é apenas temporária!O renascimento dos 12 de Ouro é um sinal perigoso!Não baixe a guarda, o catástrofe chegou!
+579	Converse com o ^FFCC00Grande Juiz^N para iniciar a batalha
+580	Derrote o antecessor do Cavaleiro de Câncer!\rAntecessor de Câncer %d/1\rO Antecessor Câncer invocará zumbis para recuperar o HP com o sacrifício. ^FFCC00Elimine os zumbis^N o mais rápido possível
+581	Derrote o Antecessor de Alraune!\rAntecessor de Alraune %d/1\rO Antecessor de Alraune invocará Flores Demoníacas. Ao absorver força dessas flores, Alraune recuperará uma grande quantidade de HP. ^FFCC00Elimine as Flores Demoníacas^N o mais rápido possível.
+582	Derrote o Antecessor de Aquário!\rAntecessor de Aquário %d/1\rO Antecessor de Aquário colocará seus inimigos em um caixão de gelo e somente ao ^FFCC00destruí-lo^N, será possível sair dessa prisão.
+583	Derrote Benu!\rBenu %d/1\rBenu invocará o fogo celeste, que o deixará resistente a todos os danos; por isso, ^FFCC00elimine o fogo^N o mais rápido possível
+584	Derrote o Antecessor de Capricórnio!\rAntecessor de Capricórnio %d/1\rO Antecessor de Capricórnio invocará a Excalibur para recuperar seu próprio HP. Caso ela apareça, ^FFCC00mantenha a Excalibur longe^N na primeira oportunidade
+585	Derrote o Antecessor de Wyvern!\rAntecessor de Wyvern %d/1\rO Antecessor de Wyvern Anterior ficará invencível sob status de Wyvern.^FFCC00Coletar Essências do Vento^N cuspidas pelo Wyvern pode desfazer tal status
+586	Os desafiantes venceram! Abra o ^FFCC00Baú do Tesouro da Arena^N para receber a premiação!\rBaú do Tesouro da Arena %d/1
+587	Use o teletransporte no ^FFCC00Grande Juiz^FFCC00 para deixar o Coliseu.
+588	Derrotar o antecessor de Áries corrompido!\rShion de Áries %d/1\rA Muralha de Cristal criada por Shion, tem um poder destrutivo muito grande. Você deve rapidamente ^FFCC00destruí-la^N e evitar o próximo golpe.
+589	Derrotar o Cavaleiro de Libra!\rCavaleiro de Libra %d/1\rQuando o círculo mágico triangular for iniciado, as 3 pessoas que carregam as cores vermelha, verde e dourada, devem ^FFCC00ficar em cima da cor correspondente^N. Assim, invencibilidade de Dohko acabará!
+590	Derrotar Poseidon!\rPoseidon %d/1\rCom a ira dos Sete Oceanos, Poseidon irá atacar com toda a força, somente ^FFCC00 desviando ^N do ataque dele é que trará a vitória final
+591	Derrotar a Estrela Celeste Demoníaca!\rGuerreiro das Sombras, Estrela Celeste Demoníaca %d/1\rEstrela Demoníaca pode aumentar sua força, após invocar Ilusão por 20 segundos, que irá desaparecer após 10 segundos.Como não pode atacá-la durante esse período, ele irá causar grande dano, por isso, ^FFCC00 ataque a Ilusão do Estrela Celeste Demoníaca ^N imediatamente
+592	Derrotar Basilisk!\rSylphid de Basilisk %d/1\rBasilisk invocará bestas para aliar-se. Após a aliança, causára um grande dano. Ataque imediatamente a ^FFCC00Besta de Lava^N e o ^FFCC00Gigante de Gelo^N.
+593	Clique no Baú do Tesouro da Medusa para abrir o caminho da Ilusão
+594	Baú do Tesouro da Medusa %d/1
+595	Vá ao Pilar Divino do Oceano Ártico!\rDerrote a Criança Maligna %d/4
+596	Vá ao Pilar Divino do Oceano Ártico!\rDerrote o Pirata do Mal%d/4
+597	Vá ao Pilar Divino do Oceano Ártico\rDerrote o General Marina Isaac de Kraken %d/1
+598	Vá ao Pilar Divino do Oceano Pacífico Norte!\rGeneral Marina Bian de Cavalo Marinho %d/1\rO Deus do Gelo invocado concederá a Bian uma defesa perfeita contra todos os danos ^FFCC00derrote o Deus do Gelo^N e a defesa perfeita desaparecerá
+599	Vá ao Pilar Divino do Oceano Pacífico Sul!\rGeneral Marina Io de Skilla %d/1\rA ilusão de Skilla fará com que o corpo de Io não possa ser derrotado, explore as esferas para ^FFCC00transformar-se^N no animal correspondente e eliminar a ilusão
+600	Vá ao Pilar Divino do Oceano Índico!\rGeneral Marina Crisaor de Krishna %d/1\rA força divina permite a Crisaor possuir um corpo imortal. Somente quando ele estiver dentro do ^FFCC00Astrolábio^N é que estará sem a força divina
+601	Vá ao Pilar Divino do Oceano Antártico!\rDerrote o General Marina Kasa de Lymnades %d/1\rKasa tem um bando de fãs fiéis! Cuidado! O beijo delas pode fazer com que Kasa ^FFCC00recupere HP^N!
+602	Vá ao Pilar Divino do Oceano Atlântico Sul!\rDerrote o General Marina Sorento de Sirene %d/1\rA flauta de Sorento pode te deixar temporariamente imóvel dentro de um sonho. Entre no ^FFCC00Olho do Despertar^N dentro da terra para evitar que durma
+603	Vá ao Pilar Divino do Oceano Atlântico Norte!\rExamine a pedra suspeita on chão %d/2
+604	Vá ao Pilar Divino do Oceano Atlântico Norte!\rDerrote o General Marina Kanon de Dragão Marinho %d/1\r^FFCC00Dudu^Nserá um companheiro capaz de te ajudar nessa luta
+605	Vá ao Templo de Poseidon!\rDerrote as sirenes %d/7\rEssas sirenes protegem a última barreira do Templo de Poseidon, você sabe o que fazer!
+606	Entre no Templo de Poseidon!\rDerrote a Medusa %d/1\rOlhar diretamente nos olhos da Medusa te transformará em pedra, quando ela olhar para você, rapidamente mova-se ^FFCC00de costas para ela^N!
+607	Vá ao Pilar Principal!\rDerrote o Imperador Dos Mares, Poseidon %d/1
+608	O Espectro ^ffff00Gerald, a Estrela Terrestre Prisioneira^N trouxe seus soldados para atacar o Santuário. Todos devem ser derrotados!!
+609	Vença o Espectro ^ffff00Isolde, a Estrela Terrestre do Mal^N! Defenda o Santuário!
+610	Resistiram aos inimigos com sucesso, vocês são mesmo Cavaleiros do Amor e da Justiça!
+611	Resistiram aos inimigos com sucesso, vocês são mesmo Cavaleiros da Deusa!
+612	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Negra: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+613	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Negra: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Pégasus Negro!\rA Ilusão do Pégasus Negro tem a velocidade e ataque comuns de Pégasus, ^FFCC00devie-se de seus ataques^N o mais rápido possível
+614	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Negra: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cisne Negro!\rA Ilusão do Cisne Negro chama-se a si mesmo de aquele que possui o Ar Frio mais poderoso; não se deixe ser ^FFCC00congelado^N por ele
+615	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Negra: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Andrômeda Negro!\rA corrente da Ilusão do Andrômeda Negro é igualmente poderosa. Quando você for pego por ela, a corrente ^FFCC00se transformará^N em pequenas serpentes para te atacar
+616	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Estrelas Negras^FFCC005^N Boss!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Dragão Negro!\rA Ilusão do Dragão Negro possui uma força poderosa, ^FFCC00desvie-se^N de seus ataques o mais rápido possível!
+617	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Negra: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Bronze, Ikki de Fênix!\rO Golpe Fantasma da Fênix da Ilusão da Fênix invocará ilusões do seu próprio corpo para lutar contra você, mantenha-se firme e ^FFCC00derrote as ilusões^N!
+618	Através da ^FFCC00Deusa Athena^N, deixe a Ilusão da Caixa Mágica de Pandora
+619	Através da ^FFCC00Pandora^N, deixe a Ilusão da Caixa Mágica de Pandora
+620	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Nebulosa de Prata: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+621	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Nebulosas de Prata^FFCC005^N Boss!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Prata de Centauro!\rCuidado! A Ilusão de Centauro libera fogo da lótus vermelha, ^FFCC00desvie-se dessas chamas^N o mais rápido possível para diminuir os danos
+622	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Nebulosa de Prata: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Prata de Baleia!\rQuando Baleia estiver morrendo, ele explodirá em fúria, deixando ^FFCC00toda sua força sair^N
+623	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Nebulosa de Prata: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Prata de Sagita!\rQuando estiver morrendo, Sagita liberará flechas ^FFCC00em todas as direções^N, desvie-se dessas flechas voadoras incessantes!
+624	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Nebulosa de Prata: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Prata de Perseu!\rA Ilusão de Perseu possui uma força poderosa, ^FFCC00desvie-se da petrificação^N o mais rápido possível!
+625	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Nebulosa de Prata: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote Cefeu!\rA Ilusão de Cefeu possui uma barreira invencível e seus sentinelas a protegerão! Ataque o ^FFCC00Líder desses sentinelas^N e a vitória será sua!
+626	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Galáxia de Ouro: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+627	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Galáxia de Ouro: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Ouro de Peixes!\rTenha cuidado com a Rosa Sangrenta de Peixes, quando seus companheiros de equipe forem acertados por rosas brancas, ^FFCC00destrua-as^N rapidamente. Não deixe que elas absorvam sangue e se tornem vermelhas
+628	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Galáxia de Ouro: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Ouro de Aquário!\rAquário colocará seus inimigos em um caixão de gelo e somente ao ^FFCC00destruí-lo^N, será possível sair dessa prisão.
+629	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Galáxia de Ouro: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Ouro de Câncer!\rMáscara da Morte invocará zumbis para aumentar o sangue, como sacrifício. ^FFCC00Elimine os zumbis^N o mais rápido possível
+630	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Galáxia de Ouro: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Ouro de Capricórnio!\rCapricórnio invocará a Excalibur para recuperar seu próprio HP. Caso ela apareça, FFCC00mantenha a Excalibur longe^N o mais rápido possível
+631	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Galáxia de Ouro: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Cavaleiro de Ouro de Libra!\rQuando o círculo mágico triangular for iniciado, as 3 pessoas que carregam as cores vermelha, verde e dourada, devem ^FFCC00ficar em cima da cor correspondente^N. Assim, invencibilidade de Dohko acabará!
+632	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Marinha: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+633	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Marinha: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote Isaac de Kraken\rA área de ataque do^FFCC00Círculo Gélido^N de Isaac é muito poderosa, evitá-la é uma boa opção
+634	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Marinha: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote Bian de Cavalo Marinho\rO Deus do Gelo invocado concederá a Bian uma defesa perfeita contra todos os danos ^FFCC00derrote o Deus do Gelo^N e a defesa perfeita desaparecerá
+635	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Marinha: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o General Marina Kasa de Lymnades!\rKasa tem um bando de fãs fiéis! Cuidado! O beijo delas pode fazer com que Kasa ^FFCC00recupere HP^N!
+636	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Marinha: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote Crisaor de Krishna!\rA força divina permite a Crisaor possuir um corpo imortal. Somente dentro do ^FFCC00Astrolábio^N ficará sem a força divina
+637	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss na Estrela Marinha: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o General Marina de Skilla!\rA ilusão de Skilla fará com que o corpo de Io não possa ser derrotado, explore as esferas para ^FFCC00transformar-se^N no animal correspondente e eliminar a ilusão
+638	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss no Buraco de Minhoca de Hades: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+639	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss no Buraco de Minhoca de Hades: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote a Ilusão de Shion de Áries!\rA Muralha de Cristal criada por Shion é altamente letal, destrua-a o mais rápido possível e desvie-se do próximo ataque
+640	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rBosses no Buraco de Minhoca de Hades: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote a Ilusão do Antecessor de Alraune!\rO Antecessor de Alraune invocará Flores Demoníacas. Ao absorver força dessas flores, Alraune recuperará uma grande quantidade de HP. ^FFCC00Elimine as Flores Demoníacas^N o mais rápido possível.
+641	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss no Buraco de Minhoca de Hades: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote a Ilusão de Benu!\rBenu invocará o fogo celeste, que o deixará resistente a todos os danos; por isso, ^FFCC00elimine o fogo^N o mais rápido possível
+642	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss no Buraco de Minhoca de Hades: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N\rDerrote o Antecessor de Wyvern!\rO Antecessor de Wyvern ficará invencível sob status de Wyvern.^FFCC00Coletar Essências do Vento^N cuspidas pelo Wyvern pode desfazer tal status
+643	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rTotal de Boss no Buraco de Minhoca de Hades: ^FFCC005^N!\rBosses derrotados: ^FFCC00%d^N!\rDerrote a Ilusão do Deus do Sonho!\rAs Rosas do Pesadelo leva você para um sonho; direcione o ^FFCC00ataque em cone do Deus do Sonho para as rosas^N, a fim de eliminá-las! Quem carregar o Escudo da Medusa deve ^FFCC00ficar longe dos companheiros^N, senão, recriará a maldição da Medusa!
+644	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rEsta é uma aposta entre Pandora e a Deusa, aceite a prova vindo da Caixa Mágica de Pandora
+645	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Pégasus Negro!\rA Ilusão do Pégasus Negro tem a velocidade e ataque comuns de Pégasus, ^FFCC00devie-se de seus ataques^N o mais rápido possível
+646	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cisne Negro!\rA Ilusão do Cisne Negro chama-se a si mesmo de aquele que possui o Ar Frio mais poderoso; não se deixe ser ^FFCC00congelado^N por ele
+647	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Andrômeda Negro!\rA corrente da Ilusão do Andrômeda Negro é igualmente poderosa. Quando você for pego por ela, a corrente ^FFCC00se transformará^N em pequenas serpentes para te atacar
+648	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Dragão Negro!\rA Ilusão do Dragão Negro possui uma força poderosa, ^FFCC00desvie-se^N de seus ataques o mais rápido possível!
+649	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Bronze de Fênix!\rO Golpe Fantasma da Fênix da Ilusão de Ikki de Fênix invocará ilusões do seu próprio corpo para lutar contra você, mantenha-se firme e ^FFCC00derrote as ilusões^N!
+650	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Prata de Centauro!\rCuidado! A Ilusão de Centauro libera fogo da lótus vermelha, ^FFCC00desvie-se dessas chamas^N o mais rápido possível para diminuir os danos
+651	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote o Cavaleiro de Prata de Baleia!\rQuando Baleia estiver morrendo, ele explodirá em fúria, deixando ^FFCC00toda sua força sair^N
+652	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Prata de Sagita!\rQuando estiver morrendo, Sagita liberará flechas ^FFCC00em todas as direções^N, desvie-se dessas flechas voadoras incessantes!
+653	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Prata de Perseu!\rA Ilusão de Perseu possui uma força poderosa, ^FFCC00desvie-se da petrificação^N o mais rápido possível!
+654	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão de Cefeu!\rA Ilusão de Cefeu possui uma barreira invencível e seus sentinelas a protegerão! Ataque o ^FFCC00Líder desses sentinelas^N e a vitória será sua!
+655	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Peixes!\rTenha cuidado com a Rosa Sangrenta de Peixes, quando seus companheiros de grupo forem acertados por rosas brancas, ^FFCC00destrua-as^N rapidamente. Não deixe que elas absorvam sangue e se tornem vermelhas
+656	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Aquário!\rAquário colocará seus inimigos em um caixão de gelo e somente ao ^FFCC00destruí-lo^N, será possível sair dessa prisão.
+657	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Câncer!\rMáscara da Morte invocará zumbis para aumentar o sangue, como sacrifício. ^FFCC00Elimine os zumbis^N o mais rápido possível
+658	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Capricórnio!\rCapricórnio invocará a Excalibur para recuperar seu próprio HP. Caso ela apareça, ^FFCC00mantenha a Excalibur longe^N o mais rápido possível
+659	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Libra!\rQuando o círculo mágico triangular for iniciado, as 3 pessoas que carregam as cores vermelha, verde e dourada, devem ^FFCC00ficar em cima da cor correspondente^N. Assim, invencibilidade de Dohko acabará!
+660	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Isaac de Kraken\rA área de ataque do^FFCC00Círculo Gélido^N de Isaac é muito poderosa, evitá-la é uma boa opção
+661	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDDerrote Bian de Cavalo Marinho\rO Deus do Gelo invocado concederá a Bian uma defesa perfeita contra todos os danos ^FFCC00derrote o Deus do Gelo^N e a defesa perfeita desaparecerá
+662	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a ilusão do General Marina Kasa de Lymnades!\rKasa tem um bando de fãs fiéis! Cuidado! O beijo delas pode fazer com que Kasa ^FFCC00recupere HP^N! Não as deixe se aproximar de Kasa!
+663	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote Crisaor de Krishna!\rA força divina permite a Crisaor possuir um corpo imortal. Somente dentro do ^FFCC00Astrolábio^N ficará sem a força divina
+664	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote o General Marina de Skilla!\rA ilusão de Skilla fará com que o corpo de Io não possa ser derrotado, explore as esferas para ^FFCC00transformar-se^N no animal correspondente e eliminar a ilusão
+665	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão de Shion de Áries!\rA Muralha de Cristal criada por Shion é altamente letal, destrua-a o mais rápido possível e desvie-se do próximo ataque
+666	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Antecessor de Alraune!\rO Antecessor de Alraune invocará Flores Demoníacas. Ao absorver força dessas flores, Alraune recuperará uma grande quantidade de HP. ^FFCC00Elimine as Flores Demoníacas^N o mais rápido possível.
+667	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão de Benu!\rBenu invocará o fogo celeste, que o deixará resistente a todos os danos; por isso, ^FFCC00elimine o fogo^N o mais rápido possível
+668	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Antecessor de Wyvern!\rO Antecessor de Wyvern ficará invencível sob status de Wyvern.^FFCC00Coletar Essências do Vento^N cuspidas pelo Wyvern pode desfazer tal status
+669	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Deus do Sonho!\rAs Rosas do Pesadelo leva você para um sonho; direcione o ^FFCC00ataque em cone do Deus do Sonho para as rosas^N, a fim de eliminá-las! Quem carregar o Escudo da Medusa deve ^FFCC00ficar longe dos companheiros^N, senão, recriará a maldição da Medusa!
+670	Através da ^FFCC00 Deusa Athena ^N sair da Ilusão da Caixa de Pandora!\rAtravés de ^FFCC00 Pandora ^N sair da Ilusão da Caixa de Pandora!
+671	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Peixes!\rTenha cuidado com a Rosa Sangrenta de Peixes, quando seus companheiros de equipe forem acertados por rosas brancas, ^FFCC00destrua-as^N rapidamente. Não deixe que elas absorvam sangue e se tornem vermelhas
+672	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Aquário!\rAquário colocará o jogador em um caixão de gelo e, somente ^FFCC00quebrar o caixão de gelo^N o mais rápido possível garantirá a saída do grupo
+673	Tempo para fechar Dungeon: ^FFCC00%ds.^N\rDerrotando^FFCC00 5 ^NBosses o tempo reinicia!\rBosses derrotados nesta rodada: ^FFCC00%d^N\rDerrote a Ilusão do Cavaleiro de Ouro de Libra!\rQuando o círculo triangular mágico for iniciado, as 3 pessoas que carregam a cor vermelha, verde e dourada, respectivamente, devem ^FFCC00ficar em cima da cor correspondente^N. A invencibilidade de Dohko acabará!
+674	Através da ^FFCC00 Deusa Athena ^N sair da Ilusão da Caixa de Pandora!\rAtravés de ^FFCC00 Pandora ^N sair da Ilusão da Caixa de Pandora!\rAtravés do ^FFCC00 Obelisco ^N receber prêmio!
+675	Através de ^FFCC00 Som do Teletransporte ^N, selecione para abrir o número da rodada correspondente.\rDerrotar ^FFCC00 20 ^N Bosses para abrir a 5ª rodada!\rDerrotar ^FFCC00 40 ^N Bosses para abrir a 9ª rodada!\rDerrotar ^FFCC00 60 ^N Bosses para abrir a 13ª rodada!\rDerrotar ^FFCC00 80 ^N bosses para abrir a 17ª rodada!
+676	Iniciar Desafio
+677	Derrote o maior número de inimigos antes do final da contagem regressiva! Ao dar o golpe final completo nos inimigos, irá obter Caixa de Ouro Grande extra!\rLótus Sagrado pode eliminar o Escudo da Proteção do inimigo, use com cautela.\rTempo restante: ^FFCC00%d segundos^N\rInimigo derrotado %d/600
+678	Desafio Concluído
+679	Conversar com o Ladrão
+680	Derrote o máximo de inimigos antes do tempo acabar!\rTempo restante: ^FFCC00%ds^N\rInimigos derrotados %d/40
+681	Desafio concluído, já pode sair
+682	Vá para Casa de Áries!\rDerrotar Deus · Cavaleiro de Ouro de Áries · Mu\rNão há ninguém que consiga sobreviver à Extinção Estelar de Mu, a não ser que ^ffcc00 se esconda dentro do Cristal de Proteção ^N\r^ffcc00O Campo de Força do Relâmpago e o Cristal Misterioso ^N invocados por Mu, através do Poder dos Céus, não podem ser subestimados. A explosão do Campo de Força do Relâmpago causa ^ffcc00 danos impressionantes ^N e o Cristal Misterioso pode ^ffcc00curar Áries^N. Quando eles aparecerem, ^ffcc00os destrua imediatamente^N
+683	Vá para a Casa de Touro!
+684	Resgatar Seiya\rO ^ffcc00Grande Chifre^N da Ilusão de Touro pode libertar Seiya das amarras\rSeiya pode ajudá-los a ^ffcc00quebrar a Ilusão^N
+685	Derrotar Deus · Cavaleiro de Ouro de Touro · Aldebaran\rAldebaran tem duas posturas: na ^ffcc00 postura de ataque ^N, seu ataque aumenta imensamente; na ^ffcc00postura de defesa^N, sua defesa se torna invulnerável. A cada vez que muda de postura, Aldebaran pode disparar sua técnica final e invocar a ^ffcc00Runa de Touro^N. A Runa dá a Touro um poder esmagador, elimine-as o mais rápido possível
+686	Vá para a Casa de Touro!
+687	Derrotar clone de Gêmeos\r^ffcc00 Simbiose de Gêmeos ^N, as duas personalidades juntas se tornam ainda mais poderosas, separe-os e ^ffcc00 ataque um de cada vez ^N\rSe você for acertado pela ^ffcc00 Privação dos 5 Sentidos ^N, vá até o ^ffcc00 Círculo Brilhante ^N invocado pela personalidade do bem e poderá ^ffcc00 se livrar da maldição ^N, mas não permaneça dentro do círculo por muito tempo
+688	Derrotar Deus · Cavaleiro de Ouro de Gêmeos · Saga\rO Buraco Negro pode invocar da Outra Dimensão os Espíritos dos Cavaleiros, que virão ajudar Saga na batalha. Após o ^ffcc00Buraco Negro^N aparecer, os ^ffcc00destrua imediatamente ^N
+689	Avanço na dungeon!
+690	Vá para a Casa de Câncer!\rMáscara da Morte pode invocar as poderosas Ondas do Inferno.Por favor, Cavaleiros, procurem o local mais prudente para se esconderem
+691	Vá para a Casa de Leão!\rEnquanto Leão está consciente, sua defesa é muito forte, mas quando ele fica inconsciente, talvez seja o melhor momento para atacar
+692	Vá para a Casa de Virgem!\rA salvação de Virgem pode defender parte do dano causado pela Palma de Buda, mas cada salvação só funciona para uma pessoa.\rQuando os companheiros forem atingidos pela Invocação dos Espíritos, Andrômeda precisa ajudar a eliminar o controle.\rE quando os Fantasmas Famintos aparecerem, elimine-os rapidamente
+693	Vá para a Casa de Libra!
+694	Vá para a Casas de Libra!\rDohko lançou o Círculo Mágico do Dragão Oculto pela Névoa, os Cavaleiros que foram atingidos ficarão imobilizados!\rPor favor, Cavaleiros, matem imediatamente o Dragão oculto pela névoa!\rAtenção: Somente matando o dragão grande para impedir o Círculo Mágico
+695	Vá para a Casa de Escorpião!
+696	Vá para a Casa de Escorpião!\rMiro preparou uma charada tóxica\rObserve as seis cavidades!\rCinco venenos, um antídoto!\rO destino de todo grupo depende de uma ideia sua!
+697	Vá para a Casa de Sagitário!
+698	Vá para a Casa de Sagitário!\rDeus·Brilho de Ouro de Aioria vai trazer danos infinitos!\rO Abrigo da Deusa irá salvar sua vida\rNão se esqueça: não saia dos limites do Abrigo!Caso contrário, os Deuses não conseguirão ajudá-lo!
+699	Parabéns! Avançou na dungeon!
+700	Avançar para a Casa de Peixes
+701	Avançar para a Casa de Peixes\rPara evitar a rosa branca de sangue que Afrodite invocou![BERAK]Quando seu aliado for imobilização pela rosa branca, vire a rosa branca, seu tempo é limitado! Quando o companheiro é fixado pela rosa branca, vire a rosa branca, seu tempo é limitado\rNota: A rosa negra por trás do Boss continuará a convocar a rosa vermelha.
+702	Avançar para a Casa de Aquário
+703	Vá para a Casa de Aquário!\rCamus pode causar 8 segundos de dano e congelamento!\rOlhe ao redor! O alvo pode ser imune a lentidão!
+704	Vá para a Casa de Capricórnio!
+705	Vá para a Casa de Capricórnio!\rShura causará danos desastrosos!\rLembre-se: não pise na área dourada
+706	Áries
+707	Touro
+708	Gêmeos
+709	Câncer
+710	Leão
+711	Virgem
+712	Libra
+713	Escorpião
+714	Sagitário
+715	Capricórnio
+716	Aquário
+717	Peixes
+718	^ffff00Guardião de %s %s
+719	^ffffffInvoque seu Guardião da Constelação. Clique na imagem do Guardião para receber a proteção\r30 min. de buff. Os companheiros do Grupo também podem tocá-lo.\rPode ser invocado apenas em Dungeon.
+720	^00ff00Ataque +%d
+721	Sorte: %d
+722	☆
+723	★
+724	Você não está no grupo e deixará a Dungeon após ^ff0000%s^N\rUm resumo da Dungeon aparecerá após ^ff0000%s^N
+725	Vitória! Deixará a Dungeon após ^ff0000%s^N\rResumo da Dungeon aparecerá após ^ff0000%s^N
+726	Falhou. Deixará a Dungeon após ^ff0000%s^N\rResumo da Dungeon aparecerá após ^ff0000%s^N
+727	A Dungeon será fechada. Você deixará a Dungeon após ^ff0000%s^N\rUm resumo da Dungeon aparecerá após ^ff0000%s^N
+728	Você não está em Raide e deixará a Dungeon após ^ff0000%s^N\rUm resumo da Dungeon aparecerá após ^ff0000%s^N
+729	Alguns membros não preenchem os requisitos. Incluindo nível, limite de membros, item para entrada, etc.
+730	%s criou uma Dungeon, deseja entrar?
+731	Há membros do seu Grupo que não estão nas redondezas; isso impede a ativação da Dungeon. Deseja enviar-lhes uma notificação?
+732	%s deseja ativar a Dungeon [%s], mas falhou porque você está muito longe. Deseja ir imediatamente para o local de encontro: [%s]?
+733	Prêmio
+734	Dungeon criada com sucesso
+735	O limite de Dungeons criadas no servido foi atingido
+736	Essa Dungeon permite somente a entrada individual
+737	Essa Dungeon permite somente a entrada em Grupo
+738	Falha na Dungeon
+739	%s não pode entrar na Dungeon no status atual
+740	O Nv de %s não preenche os requisitos da Dungeon
+741	O nº de entrada diária de %s nessa Dungeon já se esgotou
+742	O nº de entrada semanal de %s nessa Dungeon já se esgotou
+743	Falta item para %s entrar nessa Dungeon
+744	A Reputação de %s é insuficiente para entrar nessa Dungeon
+745	Falta BUFF para %s entrar nessa Dungeon
+746	Não pode entrar no meio do caminho de tal Dungeon
+747	Esta Dungeon exige que todos pertençam a um mesmo Exército
+748	%s não está na mesma linha
+749	Falha ao criar Dungeon
+750	É necessário criar grupo para ativar esta Dungeon
+751	Esta Dungeon deve ser ativada pelo Líder
+752	O nº de pessoas no grupo é insuficiente para ativar a Dungeon
+753	Para ativar a Dungeon, é preciso que todos fiquem juntos
+754	O nº de pessoas para montar o grupo nas redondezas é menor do que o exigido
+755	O grupo já possui uma Dungeon atualmente, aguarde um tempo
+756	Atualmente, você ainda está em uma Dungeon, aguarde 1min
+757	Dungeon inexistente
+758	A Dungeon ainda não está ativada
+759	Dungeon ainda não foi ativada, não foi encontrado o servidor ativado
+760	Operações de Dungeons devem ser realizadas no Grande Mundo
+761	Tempo excedente na criação da Dungeon
+762	Necessário cumprir pré-requisitos
+763	Entrada somente em Raide
+764	Ativado somente pelo Marechal
+765	Não permite ativação por Raide
+766	Informação da Raide inválida
+767	Grupo ou Reputação de Raide não corresponde
+768	Esta Dungeon já finalizou, não é permitido a entrada
+769	O Marechal do Exército precisa participar
+770	Reputação do Exército não corresponde
+771	Power individual ultrapassa a exigência da Dungeon
+772	Power individual não atinge a exigência da Dungeon
+773	Você não pode entrar na Dungeon no seu status atual
+774	O seu Nv não atinge a exigência da Dungeon
+775	O seu nº de entrada diária nessa Dungeon já se esgotou
+776	O seu nº de entrada semanal nessa Dungeon já se esgotou
+777	Falta item para você entrar nessa Dungeon
+778	A sua Reputação é insuficiente para entrar nessa Dungeon
+779	Falta BUFF para você entrar nessa Dungeon
+780	Você não está na mesma linha
+781	O Grupo possui uma Dungeon ativada atualmente
+782	O tempo de entrada na Dungeon se esgotou
+783	%s atualizou a Dungeon em que o Grupo se encontra
+784	Fase %d
+785	^00ff00Power Necessário: %d
+786	^ff0000Power Necessário: %d
+787	Nunca desafiou
+788	Fase %d (%s)
+789	Fase %d, desafiado com sucesso
+790	Após %ds., entrar na próxima fase automaticamente
+791	Sair da área de desafios após %ds.
+792	Para obter sucesso, é necessário acumular pontos: %d/%d
+793	Para obter sucesso, é necessário derrotar: %s
+794	Muitos jogadores estão participando do Desafio Individual, tente mais tarde
+795	Não foi encontrado o Desafio Individual
+796	Falha ao criar a Dungeon de Desafio Individual
+797	Você acabou de fazer um desafio, aguarde um tempo
+798	Seu poder é insuficiente, participar de um Desafio precipitadamente é muito perigoso. Pratique primeiro para depois entrar em um!
+799	玩家${name}的等级低于30级
+800	玩家${name}的等级低于25级
+801	等级低于25级
+802	玩家${name}的等级低于20级
+803	等级低于20级
+804	玩家${name}的等级低于15级
+805	等级低于15级
+806	玩家${name}的等级低于35级
+807	等级低于35级
+808	玩家${name}的等级低于45级
+809	等级低于45级
+810	玩家${name}的等级低于55级
+811	等级低于55级
+812	玩家${name}的等级低于68级
+813	等级低于68级
+814	玩家${name}参加[英雄]副本的次数已耗尽或英雄点不满30点
+815	参加[英雄]副本的次数已耗尽或英雄点不满30点
+816	玩家${name}的等级低于100级
+817	采集 冰结晶  ^00ffff%d / 120^N\r温馨提示：通过^ffff00采集冰结晶^N或^ffff00击碎队友身上的冰块^N获得^ffff00【绝招的真谛】^N\r^ffff00注意^N躲避冰霜炸弹
+818	与神秘的月饼对话开启战斗
+819	击败梦神！\r梦神 %d/1\r请尽量将身上有\"进入梦魇\"状态的玩家的^FFCC00生命值加满^N\r当有队友变成了“梦神阴影”，那他只有静等一分钟了\r请尽量将梦神的^FFCC00扇形攻击引向梦魇玫瑰^N，以便消灭玫瑰
+820	前往印度洋神柱！\r击败海皇子克修拉 %d/1\r神之力让克修拉拥有不死之身，唯有将其拉入^FFCC00般若星盘^N内，才能破除神力加持，同时请注意无处不在的天雷
+821	前往南冰洋神柱！\r击败海将军海怪卡萨 %d/1\r卡萨拥有一批死忠海妖粉，注意！海妖之吻能让卡萨^FFCC00恢复生命^N！
+822	前往南大西洋神柱！\r击败海魔女苏兰特 %d/1\r苏兰特的笛声让你不断停留在睡梦中，进入地面的^FFCC00觉醒之眼^N刺痛感能够避免你睡着
+823	前往北大西洋神柱！\r击败海龙加隆 %d/1\r^FFCC00豆豆^N是能够帮你战斗的小伙伴，她们就被压在来时路的石头下。砸碎所有的石头吧，越多越好！

@@ -1,0 +1,331 @@
+0	^00FF00Você^N atacou ^00FF00%s^N causando ^FFA545%d^N de dano
+1	^00FF00Você ^Nlançou ^00FF00%s^N em ^00FF00%s^N causando ^FFA545%d^N de dano
+2	^00FF00Seu ^NEscudeiro lançou ^00FF00%s^N em^00FF00%s^N causando ^FFA545%d^N de dano
+3	^00FF00Seu ^NEscudeiro ^00FF00%s^N de ^00FF00%s^N para ^00FF00%s^N causado ^FFA545%d^N danos
+4	^00FF00sua^N convocação ^00FF00%s^N para ^00FF00%s^N causado ^FFA545%d^N danos
+5	^00FF00sua^N convocação ^00FF00%s ^N de ^00FF00%s^N para ^00FF00%s^N causado ^FFA545%d^N danos
+6	^00FF00Você^N ativou o efeito de ^00FF00%s^N em ^00FF00%s^N causando ^FFA545%d^N de dano
+7	^00FF00%s^N te causou ^FF0000%d^N de dano
+8	^00FF00%s^N lançou ^00FF00%s^N em ^00FF00você^N causando ^FF0000%d^N de dano
+9	^00FF00%s^N Escudeiro ^00FF00%s^N causar-lhe a ^FF0000%d^N danos
+10	^00FF00%s^N Escudeiro  ^00FF00%s^N de ^00FF00%s^N causar-lhe a ^FF0000%d^N danos
+11	^00FF00%s^N intimação ^00FF00%s ^N causar-lhe a ^FF0000%d^N danos
+12	^00FF00%s^N intimação ^00FF00%s^N de ^00FF00%s^N causar-lhe a ^FF0000%d^N danos
+13	^00FF00%s^N utilizou o efeito de ^00FF00%s^N para ^00FF00te^N causar ^FF0000%d^N de dano
+14	^00FF00Você^N recebeu ^FF0000%d^N de dano
+15	^00FF00você^N dá ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+16	^00FF00Você ^N efeito ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+17	^00FF00 você^N Escudeiro ^00FF00%s^N para^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+18	^00FF00você^N Escudeiro ^00FF00%s^N de efeito ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+19	^00FF00sua^N convocação ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+20	^00FF00 sua^N convocação ^00FF00%s^N do efeito ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+21	^00FF00%s^N recuperou ^00FFFF%d^N HP
+22	^00FF00%s^N com ^00FFFF%s^N pontos de efeito restaurado ^00FF00%d^N da vida
+23	^00FF00%s^N  você^00FF00para^N restaurar ^00FFFF%d^N pontos de vida
+24	^00FF00%s^N ativou o efeito de ^00FF00%s^N restaurando o ^00FF00seu^N HP em ^00FFFF%d^N pontos
+25	^00FF00%s^N Escudeiro ^00FF00%s^N você ^00FF00para^N restaurar ^00FFFF%d^N pontos de vida
+26	^00FF00%s^N Escudeiro ^00FF00%s^N de ^00FF00%s^N efeito ^00FF00para^N restaurar o ^00FFFF%d^N pontos de vida
+27	^00FF00%s^N intimação ^00FF00%s^N você ^00FF00para^N para restaurar ^00FFFF%d^N pontos de vida
+28	^00FF00%s^N intimação ^00FF00%s^N de ^00FF00%s^N efeito ^00FF00para^N restaurar o ^00FFFF%d^N pontos de vida
+29	^00FF00Seu^N HP foi recuperado em ^00FFFF%d^N pontos
+30	O efeito de ^00FF00%s^N ^00FF00te^N restaurou ^00FFFF%d^N HP
+31	^00FF00Você^N recuperou ^00FFFF%d^N HP
+32	^00FF00Você^N usa o efeito de ^00FF00%s^N para restaurar ^00FFFF%d^N HP
+33	^00FF00Você^N Escudeiro ^00FF00%s^N de ^00FF00você^N restaure ^00FFFF%d^N pontos de vida
+34	^00FF00Sua^N Escudeiro ^00FF00%s^N com ^00FF00%s^N efeito ^00FF00para^N restaurar o^00FFFF%d^N pontos de vida
+35	^00FF00Sua^N convocação ^00FF00%s^N você^00FF00^N para restaurar ^00FFFF%d^N pontos de vida
+36	^00FF00Sua^N convocação ^00FF00%s^N com ^00FF00%s^N efeito^00FF00para^N restaurar o ^00FFFF%d^N pontos de vida
+37	^00FF00%s^N para^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+38	^00FF00%s^N do ^00FF00%s^N efeito para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+39	^00FF00%s^N Escudeiro ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+40	^00FF00%s^N Escudeiro ^00FF00%s^N do efeito ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+41	^00FF00%s^N intimação ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+42	^00FF00%s^N intimação ^00FF00%s^N do efeito ^00FF00%s^N para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+43	^00FF00%s^N foi restaurado ^00FFFF%d^N pontos de vida
+44	^00FF00%s^N efeito para ^00FF00%s^N recuperado ^00FFFF%d^N pontos de vida
+45	Você não tem permissão para duelar nesse momento, após 10 seg você poderá duelar.
+46	O nível de habilidade do oponente não é suficiente para o duelo.
+47	Outras operações em progresso, não é possível duelar agora.
+48	Os jogadores não podem duelar na arena.
+49	Mudar para esquema PK %d/%d
+50	Esquema PK salvo com sucesso
+51	Espaço
+52	Botão esquerdo do mouse
+53	Botão direito do mouse
+54	Tecla única
+55	Tecla única
+56	Tecla dupla
+57	Mexa o mouse
+58	Pressione e segure
+59	A luta acabou, está prestes a deixar o campo de batalha: %d
+60	%s Batalha aberto, quer entrar?
+61	%s fez o primeiro Kill
+62	%s jogadores %d picada!
+63	Vitoria da Equipe Vermelha
+64	Vitória da Equipe Azul
+65	Vitória da Equipe Verde
+66	Empate
+67	Equipe verm.
+68	Equipe azul
+69	Equipe verde
+70	%s,%s vitórias e um empate
+71	Restante: %s
+72	Fim de batalha, você sairá após ^ff0000%s^N segundos do campo de batalha
+73	Você foge, porque você não pode usar o serviço novamente se alinham em ^ff0000%s^N dentro
+74	Contagem regressiva para escapar da punição:
+75	Já na fila campo de batalha são, por favor espere
+76	Parabéns, você entrou na fila para a batalha.
+77	campo de batalha foi fechado%s, não pode entrar
+78	Desculpe, você precisa para chegar ^ff0000%s^N grau para a fila %s
+79	Sob a sua conta tem outras funções estão inter-serviços, o papel atual não pode ser operações inter-serviços
+80	O valor atual não é 0 PK, PK nenhuma região penalidades pertencente ao campo de batalha, é matar os outros jogadores não vai cair gold e perda de durabilidade do equipamento
+81	Praça Área Vermelho: %d
+82	Praça Área Azul: %d
+83	^ff0000%d jog. verm.
+84	^2525ff%d jog. azul
+85	^00ff00%d jogadores Lado Verde
+86	^ff0000Pts. verm. %d ^ffffffVS ^0000ff%d Pts. azul
+87	^ff0000Pontos lado vermelho %d ^ffffffVS^2525ff %d Pontos lado azul ^ffffffVS ^00ff00%d Pontos lado verde
+88	Uma pequena bandeira
+89	Pts. de hab.
+90	Capture os pontos de bandeira
+91	^ff0000Recursos laterais vermelhos %​​d ^ffffffVS^0000ff %d Recursos azuis
+92	Tem certeza de que quer deixar o campo de batalha é?
+93	Tem certeza de que deseja iniciar a votação para expulsar o %s do campo de batalha?
+94	%s será expulso do grupo pela votação.\rSe não escolher, o voto será sim quando o tempo se esgotar
+95	Você foi expulso da batalha pela votação
+96	Registro na Arena Galáctica bem-sucedido
+97	Registro na Arena Galáctica cancelado
+98	Nenhum modelo encontrado
+99	restrições de nível
+100	Arena Galáctica não está configurada no servidor
+101	Arena Galáctica não está aberta
+102	Arena Galáctica em carregamento
+103	Arena Galáctica atingiu o tempo limite
+104	Campo de batalha não encontrado na Arena Galáctica
+105	Arena Galáctica inacessível
+106	Arena Galáctica fechada
+107	Arena Galáctica atingiu o limite máximo
+108	Falha na criação da Arena Galáctica
+109	O local da Arena Galáctica ainda não foi encerrado, aguarde por favor
+110	Há outros personagens registrados ou lutando na Arena Galáctica
+111	Não cumpre as condições da Arena Galáctica
+112	Número de pessoas limitado na Arena Galáctica
+113	Senha da Arena Galáctica incorreta
+114	A primeira rodada da Competição do Universo irá começar após 10 minutos, por favor prepare os membros participantes
+115	A primeira rodada da Competição do Universo irá começar após 5 minutos, por favor, prepare os membros para entrar na arena 
+116	O servidor nesta rodada do universo Torneio obteve uma brilhante vitória, envie divina medalha de guerreiros mais rapidamente possível para abrir recompensa de serviço completo
+117	O servidor nesta rodada da batalha perdida para o Torneio universo, por favor, fazer esforços persistentes
+118	Esta semana cronograma Universo competição foi decidido convidar competidores para o NPC no serviço de informações
+119	A primeira rodada da Competição do Universo já começou, por favor, orem para os guerreiros participantes
+120	A segunda rodada da Competição do Universo começará após 10 minutos, por favor prepare os membros participantes
+121	A segunda rodada da Competição do Universo começará após 5 minutos, por favor, o mais rapidamente possível participantes admissão membro
+122	A segunda rodada da Competição do Universo já começou, por favor, orem para os guerreiros participantes
+123	Todas as batalhas da Competição do Universo dessa semana já estão encerradas
+124	Os adversários dessa edição da Competição do Universo são:\rPrimeiro Round: %s\rSegundo Round: %s
+125	Esta rodada está vazia ou a Competição do Universo ainda não começou
+126	(Sem Oposição)
+127	Conjunta (%s)
+128	Entrar
+129	Faltam bilhetes
+130	fugir
+131	caiu
+132	Foi expulso
+133	Você não tem que apostar neste artigo
+134	O tempo não deve conceder um auxílio
+135	Não receber nenhuma ajuda deve recompensar
+136	O tempo não deve ajudar
+137	A ajuda deve ter sido
+138	não é um artigo válido deve ajudar
+139	Sem esses itens devem ajudar montante
+140	Não selecione um servidor válido
+141	Esta semana %s, o servidor é %s, Parabéns pelo sucesso da ajuda deve recompensar tenha sido emitido
+142	Esta semana %s, o servidor é %s, infelizmente, não deve ajudar
+143	Ganha para todos os servidores, o servidor deve ajudar os menos demorado.  fronteira marítima santuário com Submundo 3 arena na hora de começar a segunda vitória da computação
+144	Ganhar para todos os servidores, o servidor deve ser inferior segunda ajuda demorado.  fronteira marítima santuário com Submundo 3 arena na hora de começar a segunda vitória da computação
+145	Ganhar para todos os servidores, o servidor com o menor número total de pontos deve ajudar.  a soma da fronteira marítima santuário submundo 3 arena de batalha cálculo integral
+146	Perdeu para todos os servidores, a pontuação total a maioria dos servidores deve ajudar.  a soma da fronteira marítima santuário submundo 3 arena de batalha cálculo integral
+147	habilidades de luta será %d segundos após o início, pronto!
+148	Parabéns, você derrotou seu adversário!
+149	Você alcança %d game série de vitórias, tem grande matança matança! !
+150	Parabéns, você é um prêmio sorte, vitória direta!
+151	Oponentes para baixo, parabéns ganhar diretamente!
+152	Sinto muito que você tenha perdido o campo de combate habilidades!Mais uma vez!
+153	Sinto muito que você perdeu %d adversários em linha reta!Mais uma vez!
+154	Você desistir do jogo, não obter qualquer recompensa, pode participar na semana 1 vezes o limite superior da dedução
+155	A outra parte desistir do jogo, você obtém vitória imediata!
+156	Desenhar!Que pena!
+157	Os resultados de erro
+158	Sequência %d
+159	Arena Galáctica abrirá em meia hora e terá a duração de duas horas, por favor, arranjar um bom tempo, aproveitar os pontos vermelhos!
+160	Por favor, note!Esta semana, o Galaxy Colosseum chegando ao fim!Lista de liquidação semana será atualizada às 12 horas, aguarde o resultado e recompensa!
+161	Arena Galáctica semanal quarta-feira 22-23: 55  sábado e domingo 13-14: 55,17-18: 55,22-23: 55 espaço aberto
+162	O aplicativo falha, o local foi esgotado
+163	Colosseum forçado a cancelar a criação Colosseum falhou
+164	Falha no registro da Arena Galáctica
+165	Arena Galáctica: %s alcançou %d vitórias sequenciais! Ninguém pode pará-lo!
+166	Arena Galáctica: %s alcançou %d vitórias sequenciais! Se tornou o mais mortal! Quem será capaz de encerrar seu domínio?
+167	Arena Galáctica: %s alcançou %d vitórias sequenciais! Está batalhando como um deus! Quem será capaz de encerrar seu domínio?
+168	Arena Galáctica: %s alcançou %d vitórias sequenciais! Temos um super-deus! Quem será capaz de encerrar seu domínio?
+169	Você alcançou %d vitórias sequenciais! Ninguém pode pará-lo!
+170	Você alcançou %d vitórias sequenciais! Você é o mais mortal!
+171	Você alcançou %d vitórias sequenciais! Você está batalhando como um deus!
+172	Você alcançou %d vitórias sequenciais! Temos um super-deus!
+173	Arena Galáctica: %s encerrou a grande matança de %s com um abate especial!
+174	Arena Galáctica: %s encerrou a matança descontrolada de %s com um abate especial!
+175	Arena Galáctica: %s encerrou a matança divina de %s, encerrando sua sequência de %d mortes!
+176	Candidatura for bem sucedida, o adversário e o local está sendo preparado para você!
+177	O servidor não está pronto
+178	jogadores on-line não fazer
+179	Colosseum não ligado, por favor, note que em tempo de
+180	Você se inscreveu também!
+181	Você lutando habilidades no campo!
+182	No Arena
+183	Pesaroso vê-lo esta semana, não tenho o número de registo e, em seguida, tentar na próxima vez ~
+184	Desculpe, você não atingir o nível de exigências de registro
+185	Recompensa do Ranking da Arena Galáctica
+186	(Nome %d-Nome %d)
+187	Nome %d
+188	%d Nome mais tarde
+189	Porque você está no gráfico de constelação da Via Láctea Colosseum %s (classificação %d) do excelente desempenho, é concedida em recompensa esta parte %s.
+190	Não é possível usar habilidades de luta pessoais no campo de batalha, e uma cópia da Legião
+191	^ff0000↑%d
+192	^00ff00↓%d
+193	Novo
+194	Quando você está lutando contagem regressiva começa
+195	Tempo de preparo:
+196	Contagem Regressiva
+197	Hora de partida:
+198	Este artigo não pode ser usado em Arenas
+199	Dirigir-se para ${npc(28614, "Bandeira da Glória")} casas de câmbio
+200	%s te presenteou com %d rosas!
+201	%d VS %d
+202	Nessa qualidade para a sala de preencher a sua senha, por favor preencha a senha
+203	Arena pessoal já registrado, por favor cancele
+204	nome da sala contém caracteres ilegais
+205	%s chegou a %d raia, ele realmente geralmente não olhou para baixo sobre os adversários.
+206	%s chegou a %d raia, ninguém dentro e fora do santuário.
+207	%s raia já %d vencedora, como Avatar em geral.
+208	%s já %d vitórias sequenciais, e não há ninguém para tubulação para cima.
+209	Parabéns pela sua resposta sucesso, ganhar experiência recompensa
+210	Parabéns pela sua resposta sucesso, recompensado: vitalidade estão cheios
+211	Parabéns pela sua resposta sucesso, obter bônus de Silver
+212	Parabéns pela sua resposta com sucesso para a obtenção de incentivos de energia Caixa de Pandora
+213	Você entrou na zona de PK
+214	Você entrou na zona segura.
+215	Você saiu da zona segura.
+216	Você saiu da zona de PK
+217	Você saiu da zona de PK
+218	Não é possível trocar de canal em status de batalha.
+219	Não é possível retonar a tela de seleção de personagem em status de batalha.
+220	Torneio da Arena de Duelo
+221	Torneio da Arena de Duelo
+222	Nenhum
+223	Você não está o rank. Continue se esforçando!
+224	Número de desafios esgotados
+225	Você venceu! Continue desafiando os oponentes!
+226	Você perdeu! Melhore seu power para ficar mais forte.
+227	Disponível: %d. Use o botão direito do mouse para desafiar!
+228	Não é possível desafiar nessa lista, vá para a lista %s.
+229	Vitória no desafio
+230	Falha no desafio
+231	Erro de solicitação do client
+232	Desafios para a lista errada
+233	Série de desafios ao longo do dia
+234	Só é possível desafiar oponentes com ranking superior ao seu.
+235	Desafios não podem ser realizados entre 18:30-20:00 e 23:55-23:59:59
+236	Não foi possível encontrar informações do jogador
+237	O nivel necessário para desafiar é 40.
+238	Falha na definição das habilidades!
+239	Você falhou na %dª rodada!
+240	Parabéns pela sua vitória na %dª rodada!
+241	Arena de Duelo em progresso! Primeira fase!
+242	Arena de Duelo em progresso! Oitavas de final!
+243	Arena de Duelo em progresso! Quartas de final!
+244	Arena de Duelo em progresso! Semi-finais!
+245	Arena de Duelo em progresso! Final!
+246	Arena de Duelo encerrada!
+247	Papel
+248	Tesoura
+249	Pedra
+250	^FF0000Habilidade: Papel
+251	^00FF00Habilidade: Tesoura
+252	^00FF00Habilidade: Pedra
+253	Não pode participar depois da fase de oitavas de final.\rFique atento para participar da próxima vez!
+254	(Você não está apto a participar da Arena de Duelo, continue treinando)
+255	Você não conseguiu avançar para as oitavas. Continue treinando!
+256	Você não conseguiu avançar para as quartas. Continue treinando!
+257	Você não conseguiu avançar para as semi-finais. Continue treinando!
+258	Você não conseguiu avançar para a final. Continue treinando!
+259	^00FF00Relatório dos duelos de hoje
+260	^00FF00Relatório dos duelos de ontem
+261	V: %d / D: %d. Ganhou %d Silver e %d Pontos de Duelo.
+262	Bônus de %d Silver e %d Pontos de Duelo
+263	Ganhou %d Silver e %d Pontos de Duelo na Arena de Duelos.\rPor favor, retire a sua recompensa antes de amanhã!
+264	Atingiu o rank %d na Arena de Duelo! Recebeu %d Silver e %d Pontos de Duelo
+265	Você não pode receber recompensa.
+266	Você já recebeu a sua recompensa.
+267	Atualmente você está em status de negociação. Finalize a negociação para receber sua recompensa.
+268	Ainda falta meia hora para a Arena de Duelos. A tabela de ranking está bloqueada.
+269	Após meia hora, os jogadores serão dividos em grupos de acordo com o rank atual dos duelos. Os vencedores ganharão grandes quantidades de Silver.
+270	Você pode clicar no botão [VS] no canto superior direito para visualizar
+271	Arena de Duelo iniciada!
+272	Os vencedores ganharão grandes quantidades de Silver
+273	Você pode clicar no botão localizado no canto superior direito para visualizar
+274	^FF0000Não pode alterar habilidade na fase de preparação.
+275	Resultado da Arena de Duelo (clique no botão [VS] no canto superior direito para detalhes)\rSérie Divino -  1º colocado: %s. 2º colocado: %s. 3º colocado: %s\r
+276	Série Ouro -  1º colocado: %s. 2º colocado: %s. 3º colocado: %s\r
+277	Série Prata -  1º colocado: %s. 2º colocado: %s. 3º colocado: %s\r
+278	Série Bronze -  1º colocado: %s. 2º colocado: %s. 3º colocado: %s
+279	(No)
+280	(Trocar)
+281	Restante: %02d:%02d
+282	Você incentivou %s
+283	%s comprometeu-se a trabalhar com você, para se tornar um poderoso cavaleiro
+284	Você riu de %s
+285	%s riu de você, te derrotar foi muito fácil.
+286	Aguardando
+287	oponentes!
+288	Relatório do Duelo!
+289	Informações de Recompensa!
+290	Grupo Bronze!
+291	Grupo Prata!
+292	Grupo Ouro!
+293	Meu grupo!
+294	Parabéns você subiu para o rank %s!
+295	Como forma de recompensa
+296	receba a seguinte premiação
+297	Melhor rank %d, subiu %d posições
+298	Receba uma recompensa pelo seu feito!
+299	Premiação Bônus recebida com sucesso!
+300	Premiação por alcançar um novo rank recebida com sucesso!
+301	(Vazio)
+302	???
+303	Arena de Duelo:
+304	%s te desafiou, mas não foi páreo para você!
+305	%s te derrotou. Seu rank: %d
+306	%s te derrotou. Você está fora do rank!
+307	%d/%d %d:%d
+308	Arena de Duelo: Você tem novos registros de desafio!
+309	Parabéns, agora você pode participar de desafios do rank %s. Recolha as suas recompensas.
+310	^FFFFFFResultado do Duelo:\r
+311	^FFFF00%s^FF0000 não está conectado, o ataque está enfraquecido.\r
+312	^FFFFFF causando ^FF0000%d^FFFFFF pontos de dano\r
+313	-----------------\r^FFFF00%s^A800FF venceu!
+314	^FFFF00%s^FFFFFF usou papel contra ^00FF00%s^FFFFFF
+315	^FFFF00%s^FFFFFF usou tesoura contra ^00FF00%s^FFFFFF
+316	^FFFF00%s^FFFFFF usou pedra contra ^00FF00%s^FFFFFF
+317	^FFFF00%s^FFFFFF usou socos e chutes contra ^00FF00%s^FFFFFF
+318	^FFFF00%s^FFFFFF usou joelhada contra ^00FF00%s^FFFFFF
+319	^FFFF00%s^FFFFFF usou cabeçada ^00FF00%s^FFFFFF
+320	Após 5 minutos, o Exército entrará em status de preparação para a guerra.
+321	Após 10 segundos, a base do Exército entrará em status de preparação para a guerra.
+322	A base do Exército entrou em status de preparação para a guerra
+323	Ínicio da classificação do Exército
+324	^0000ff%d蓝方玩家
+325	占领积分
+326	0
+327	寻径至${npc(28614,\"荣耀之旗\")}兑换处
+328	122
+329	16
+330	354

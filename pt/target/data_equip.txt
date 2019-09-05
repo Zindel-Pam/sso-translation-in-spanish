@@ -1,0 +1,4034 @@
+0	Objeto Divino 10w Ataque
+1	Bandana Super Vida do GM
+2	Anel Super Vida do GM
+3	Talismã Super Vida do GM
+4	Camiseta Super Vida do GM
+5	Calças Super Vida do GM
+6	Colar Super Vida do GM
+7	Evasão 8128
+8	Precisão 4000
+9	Teste
+10	Capacete de Pégasus
+11	Peitoral de Pégasus
+12	Capacete de Pégasus
+13	Peitoral de Pégasus
+14	Botas Pégasus
+15	Manopla de Pégasus
+16	Teste 1
+17	Teste de equipamento de espada dupla
+18	Teste de equipamento de machado
+19	Calças de Aquiles
+20	Bota de guerra do renascimento de Brontes
+21	Calças da Rajada de Hermes
+22	Bota de guerra do renascimento de Brontes
+23	Calças da Rajada de Hermes
+24	Trajes de luta do Dragão de Duas Cabeças
+25	Trajes de luta de espada do teste de Shura
+26	Roupa de baixo de Kanon
+27	Calça forjada de relâmpago de Thor
+28	Calça de supervisão de Dohko
+29	Calças de Aquiles
+30	Bota de guerra do renascimento de Brontes
+31	Calças da Rajada de Hermes
+32	Calças de Talos
+33	Caneleira de Ares
+34	Calças de Talos
+35	Caneleira de Ares
+36	Calças de Talos
+37	Caneleira de Ares
+38	Calças de Talos
+39	Caneleira de Ares
+40	Calças do Marechal
+41	Calças do Marechal
+42	Calças do Marechal
+43	Calças do Marechal
+44	Calças do Marechal
+45	Calças do Marechal
+46	Calças do Soberano
+47	Calças do Soberano
+48	Calças do Soberano
+49	Calças do Soberano
+50	Calças do Soberano
+51	Calças do Soberano
+52	Calças de Heitor
+53	Calças de Heitor
+54	Calças de Heitor
+55	Calças de Heitor
+56	Calças de Heitor
+57	Calças de Heitor
+58	Calças de Hermes
+59	Calças de Hermes
+60	Calças de Hermes
+61	Calças de Hermes
+62	Calças de Hermes
+63	Calças de Hermes
+64	Calças de Partenopeus
+65	Calças de Partenopeus
+66	Calças de Partenopeus
+67	Calças de Partenopeus
+68	Calças de Partenopeus
+69	Calças de Partenopeus
+70	Calças de Dionísio
+71	Calças de Dionísio
+72	Calças de Dionísio
+73	Calças de Dionísio
+74	Calças de Dionísio
+75	Calças de Dionísio
+76	Calças do Novato
+77	Calças do Novato
+78	Calças do Novato
+79	Calças do Novato
+80	Calças do Novato
+81	Calças do Novato
+82	Calças do Recruta
+83	Calças do Recruta
+84	Calças do Recruta
+85	Calças do Recruta
+86	Calças do Recruta
+87	Calças do Recruta
+88	Calças do Soldado
+89	Calças do Soldado
+90	Calças do Soldado
+91	Calças do Soldado
+92	Calças do Soldado
+93	Calças do Soldado
+94	Calças da Guarda
+95	Calças da Guarda
+96	Calças da Guarda
+97	Calças da Guarda
+98	Calças da Guarda
+99	Calças da Guarda
+100	Calças do Gladiador
+101	Calças do Gladiador
+102	Calças do Gladiador
+103	Calças do Gladiador
+104	Calças do Gladiador
+105	Calças do Gladiador
+106	Calças de Tribuno
+107	Calças de Tribuno
+108	Calças de Tribuno
+109	Calças de Tribuno
+110	Calças de Tribuno
+111	Calças de Tribuno
+112	Calças da Ruína
+113	Calças da Ruína
+114	Calças da Ruína
+115	Calças da Ruína
+116	Calças da Ruína
+117	Calças da Ruína
+118	Calças do Desafiante
+119	Calças do Desafiante
+120	Calças do Desafiante
+121	Calças do Desafiante
+122	Calças do Desafiante
+123	Calças do Desafiante
+124	Calças do Herói
+125	Calças do Herói
+126	Calças do Herói
+127	Calças do Herói
+128	Calças do Herói
+129	Calças do Herói
+130	Cinto felpudo de leão de Hércules
+131	Coroa do brado de Esterópes
+132	Faixa de cabelo da Deusa da Lua de Ártemis
+133	Coroa do brado de Esterópes
+134	Faixa de cabelo da Deusa da Lua de Ártemis
+135	Elmo das Valquírias
+136	Cinto de rosas de Afrodite
+137	Faixa de Mu
+138	Faixa para selar ânfora Divina
+139	Faixa do Deus do Assassínio de Rodório
+140	Cinto felpudo de leão de Hércules
+141	Coroa do brado de Esterópes
+142	Faixa de cabelo da Deusa da Lua de Ártemis
+143	Coroa de Talos
+144	Capacete de Ares
+145	Coroa de Talos
+146	Capacete de Ares
+147	Coroa de Talos
+148	Capacete de Ares
+149	Coroa de Talos
+150	Capacete de Ares
+151	Bandana do Marechal
+152	Bandana do Marechal
+153	Bandana do Marechal
+154	Bandana do Marechal
+155	Bandana do Marechal
+156	Bandana do Marechal
+157	Bandana do Soberano
+158	Bandana do Soberano
+159	Bandana do Soberano
+160	Bandana do Soberano
+161	Bandana do Soberano
+162	Bandana do Soberano
+163	Bandana de Atlas
+164	Bandana de Atlas
+165	Bandana de Atlas
+166	Bandana de Atlas
+167	Bandana de Atlas
+168	Bandana de Atlas
+169	Bandana de Hércules
+170	Bandana de Hércules
+171	Bandana de Hércules
+172	Bandana de Hércules
+173	Bandana de Hércules
+174	Bandana de Hércules
+175	Bandana de Capaneus
+176	Bandana de Capaneus
+177	Bandana de Capaneus
+178	Bandana de Capaneus
+179	Bandana de Capaneus
+180	Bandana de Capaneus
+181	Bandana de Deméter
+182	Bandana de Deméter
+183	Bandana de Deméter
+184	Bandana de Deméter
+185	Bandana de Deméter
+186	Bandana de Deméter
+187	Bandana do Novato
+188	Bandana do Novato
+189	Bandana do Novato
+190	Bandana do Novato
+191	Bandana do Novato
+192	Bandana do Novato
+193	Bandana do Recruta
+194	Bandana do Recruta
+195	Bandana do Recruta
+196	Bandana do Recruta
+197	Bandana do Recruta
+198	Bandana do Recruta
+199	Bandana do Soldado
+200	Bandana do Soldado
+201	Bandana do Soldado
+202	Bandana do Soldado
+203	Bandana do Soldado
+204	Bandana do Soldado
+205	Bandana da Guarda
+206	Bandana da Guarda
+207	Bandana da Guarda
+208	Bandana da Guarda
+209	Bandana da Guarda
+210	Bandana da Guarda
+211	Bandana do Gladiador
+212	Bandana do Gladiador
+213	Bandana do Gladiador
+214	Bandana do Gladiador
+215	Bandana do Gladiador
+216	Bandana do Gladiador
+217	Bandana de Tribuno
+218	Bandana de Tribuno
+219	Bandana de Tribuno
+220	Bandana de Tribuno
+221	Bandana de Tribuno
+222	Bandana de Tribuno
+223	Bandana da Ruína
+224	Bandana da Ruína
+225	Bandana da Ruína
+226	Bandana da Ruína
+227	Bandana da Ruína
+228	Bandana da Ruína
+229	Bandana do Desafiante
+230	Bandana do Desafiante
+231	Bandana do Desafiante
+232	Bandana do Desafiante
+233	Bandana do Desafiante
+234	Bandana do Desafiante
+235	Bandana do Herói
+236	Bandana do Herói
+237	Bandana do Herói
+238	Bandana do Herói
+239	Bandana do Herói
+240	Bandana do Herói
+241	Emblema do Destino
+242	Emblema do Titã
+243	Emblema do Olimpo
+244	Emblema do Titã
+245	Emblema do Olimpo
+246	Emblema de Medusa
+247	Emblema de Hydra
+248	Emblema da Vitória
+249	Emblema da Conquista
+250	Emblema da Justiça
+251	Emblema do Destino
+252	Emblema do Titã
+253	Emblema do Olimpo
+254	Emblema do Titã
+255	Emblema de Ares
+256	Emblema do Titã
+257	Emblema de Ares
+258	Emblema do Titã
+259	Emblema de Ares
+260	Emblema do Titã
+261	Emblema de Ares
+262	Emblema da Vitória
+263	Emblema da Vitória
+264	Emblema da Vitória
+265	Emblema da Vitória
+266	Emblema da Vitória
+267	Emblema da Vitória
+268	Emblema da Conquista
+269	Emblema da Conquista
+270	Emblema da Conquista
+271	Emblema da Conquista
+272	Emblema da Conquista
+273	Emblema da Conquista
+274	Emblema da Justiça
+275	Emblema da Justiça
+276	Emblema da Justiça
+277	Emblema da Justiça
+278	Emblema da Justiça
+279	Emblema da Justiça
+280	Emblema do Destino
+281	Emblema do Destino
+282	Emblema do Destino
+283	Emblema do Destino
+284	Emblema do Destino
+285	Emblema do Destino
+286	Emblema do Titã
+287	Emblema do Titã
+288	Emblema do Titã
+289	Emblema do Titã
+290	Emblema do Titã
+291	Emblema do Titã
+292	Emblema do Olimpo
+293	Emblema do Olimpo
+294	Emblema do Olimpo
+295	Emblema do Olimpo
+296	Emblema do Olimpo
+297	Emblema do Olimpo
+298	Emblema do Novato
+299	Emblema do Novato
+300	Emblema do Novato
+301	Emblema do Novato
+302	Emblema do Novato
+303	Emblema do Novato
+304	Emblema do Sacerdote
+305	Emblema do Sacerdote
+306	Emblema do Sacerdote
+307	Emblema do Sacerdote
+308	Emblema do Sacerdote
+309	Emblema do Sacerdote
+310	Emblema do Presbítero
+311	Emblema do Presbítero
+312	Emblema do Presbítero
+313	Emblema do Presbítero
+314	Emblema do Presbítero
+315	Emblema do Presbítero
+316	Emblema do Bispo
+317	Emblema do Bispo
+318	Emblema do Bispo
+319	Emblema do Bispo
+320	Emblema do Bispo
+321	Emblema do Bispo
+322	Emblema do Centauro
+323	Emblema do Centauro
+324	Emblema do Centauro
+325	Emblema do Centauro
+326	Emblema do Centauro
+327	Emblema do Centauro
+328	Emblema de Águia
+329	Emblema de Águia
+330	Emblema de Águia
+331	Emblema de Águia
+332	Emblema de Águia
+333	Emblema de Águia
+334	Emblema de Grif
+335	Emblema de Grif
+336	Emblema de Grif
+337	Emblema de Grif
+338	Emblema de Grif
+339	Emblema de Grif
+340	Emblema de Medusa
+341	Emblema de Medusa
+342	Emblema de Medusa
+343	Emblema de Medusa
+344	Emblema de Medusa
+345	Emblema de Medusa
+346	Emblema de Hydra
+347	Emblema de Hydra
+348	Emblema de Hydra
+349	Emblema de Hydra
+350	Emblema de Hydra
+351	Emblema de Hydra
+352	Deus da Morte · Estrela do Afogamento
+353	Estrela em Chamas de Argos
+354	Anel do Destino de Cloto
+355	Estrela em Chamas de Argos
+356	Anel do Destino de Cloto
+357	Anel de Nibelungo
+358	Anel Pacífico de Aldebaran
+359	Anel de Jade de Aioros
+360	Anel do Pilar da Vida
+361	Anel do Extremo Respeito
+362	Deus da Morte · Estrela do Afogamento
+363	Estrela em Chamas de Argos
+364	Anel do Destino de Cloto
+365	Anel de Talos
+366	Anel de Ares
+367	Anel de Talos
+368	Anel de Ares
+369	Anel de Talos
+370	Anel de Ares
+371	Anel de Talos
+372	Anel de Ares
+373	Anel do Mestre
+374	Anel do Mestre
+375	Anel do Mestre
+376	Anel do Mestre
+377	Anel do Mestre
+378	Anel do Mestre
+379	Joia da Jordânia
+380	Joia da Jordânia
+381	Joia da Jordânia
+382	Joia da Jordânia
+383	Joia da Jordânia
+384	Joia da Jordânia
+385	Anel de Nibelungo
+386	Anel de Nibelungo
+387	Anel de Nibelungo
+388	Anel de Nibelungo
+389	Anel de Nibelungo
+390	Anel de Nibelungo
+391	Anel de Cronos
+392	Anel de Cronos
+393	Anel de Cronos
+394	Anel de Cronos
+395	Anel de Cronos
+396	Anel de Cronos
+397	Anel de Guerra de Tideu
+398	Anel de Guerra de Tideu
+399	Anel de Guerra de Tideu
+400	Anel de Guerra de Tideu
+401	Anel de Guerra de Tideu
+402	Anel de Guerra de Tideu
+403	Anel de Eos
+404	Anel de Eos
+405	Anel de Eos
+406	Anel de Eos
+407	Anel de Eos
+408	Anel de Eos
+409	Anel do Novato
+410	Anel do Novato
+411	Anel do Novato
+412	Anel do Novato
+413	Anel do Novato
+414	Anel do Novato
+415	Anel do Monge
+416	Anel do Monge
+417	Anel do Monge
+418	Anel do Monge
+419	Anel do Monge
+420	Anel do Monge
+421	Anel de Ferro
+422	Anel de Ferro
+423	Anel de Ferro
+424	Anel de Ferro
+425	Anel de Ferro
+426	Anel de Ferro
+427	Anel Vermelho
+428	Anel Vermelho
+429	Anel Vermelho
+430	Anel Vermelho
+431	Anel Vermelho
+432	Anel Vermelho
+433	Anel de Bronze
+434	Anel de Bronze
+435	Anel de Bronze
+436	Anel de Bronze
+437	Anel de Bronze
+438	Anel de Bronze
+439	Anel de Aço
+440	Anel de Aço
+441	Anel de Aço
+442	Anel de Aço
+443	Anel de Aço
+444	Anel de Aço
+445	Anel de Prata
+446	Anel de Prata
+447	Anel de Prata
+448	Anel de Prata
+449	Anel de Prata
+450	Anel de Prata
+451	Anel de Ouro
+452	Anel de Ouro
+453	Anel de Ouro
+454	Anel de Ouro
+455	Anel de Ouro
+456	Anel de Ouro
+457	Anel do Espírito Maligno da Floresta
+458	Anel do Espírito Maligno da Floresta
+459	Anel do Espírito Maligno da Floresta
+460	Anel do Espírito Maligno da Floresta
+461	Anel do Espírito Maligno da Floresta
+462	Anel do Espírito Maligno da Floresta
+463	Manoplas de Ares [Lenda]
+464	Manoplas de Ares [Lenda]
+465	Manoplas de Ares [Lenda]
+466	Manoplas de Ares [Lenda]
+467	Manoplas de Ares [Lenda]
+468	Justiça de Têmis
+469	Punho da Força de Hércules
+470	Manoplas de Chronos
+471	Punho da Força de Hércules
+472	Manoplas de Chronos
+473	Punho Derrotado de Karl
+474	Punho de Cristal de Mu
+475	Força de touro agressivo de Aldebaran
+476	Manoplas de Éter
+477	Manoplas de Thanatos
+478	Justiça de Têmis
+479	Punho da Força de Hércules
+480	Manoplas de Chronos
+481	Manoplas de Talos
+482	Manoplas de Marte
+483	Manoplas de Talos
+484	Manoplas de Marte
+485	Manoplas de Talos
+486	Manoplas de Marte
+487	Manoplas de Talos
+488	Manoplas de Marte
+489	Manoplas da Disciplina
+490	Manoplas da Disciplina
+491	Manoplas da Disciplina
+492	Manoplas da Disciplina
+493	Manoplas da Disciplina
+494	Manoplas da Disciplina
+495	Punho da Justiça
+496	Punho da Justiça
+497	Punho da Justiça
+498	Punho da Justiça
+499	Punho da Justiça
+500	Punho da Justiça
+501	Manoplas Sagradas
+502	Manoplas Sagradas
+503	Manoplas Sagradas
+504	Manoplas Sagradas
+505	Manoplas Sagradas
+506	Manoplas Sagradas
+507	Manoplas de Cadmo
+508	Manoplas de Cadmo
+509	Manoplas de Cadmo
+510	Manoplas de Cadmo
+511	Manoplas de Cadmo
+512	Manoplas de Cadmo
+513	Manoplas de Cronos
+514	Manoplas de Cronos
+515	Manoplas de Cronos
+516	Manoplas de Cronos
+517	Manoplas de Cronos
+518	Manoplas de Cronos
+519	Manoplas de Aquiles
+520	Manoplas de Aquiles
+521	Manoplas de Aquiles
+522	Manoplas de Aquiles
+523	Manoplas de Aquiles
+524	Manoplas de Aquiles
+525	Manoplas do Novato
+526	Manoplas do Novato
+527	Manoplas do Novato
+528	Manoplas do Novato
+529	Manoplas do Novato
+530	Manoplas do Novato
+531	Manoplas do Recruta
+532	Manoplas do Recruta
+533	Manoplas do Recruta
+534	Manoplas do Recruta
+535	Manoplas do Recruta
+536	Manoplas do Recruta
+537	Manoplas do Soldado
+538	Manoplas do Soldado
+539	Manoplas do Soldado
+540	Manoplas do Soldado
+541	Manoplas do Soldado
+542	Manoplas do Soldado
+543	Manoplas do Gladiador
+544	Manoplas do Gladiador
+545	Manoplas do Gladiador
+546	Manoplas do Gladiador
+547	Manoplas do Gladiador
+548	Manoplas do Gladiador
+549	Manoplas do Marechal
+550	Manoplas do Marechal
+551	Manoplas do Marechal
+552	Manoplas do Marechal
+553	Manoplas do Marechal
+554	Manoplas do Marechal
+555	Punho de Iluminação
+556	Punho de Iluminação
+557	Punho de Iluminação
+558	Punho de Iluminação
+559	Punho de Iluminação
+560	Punho de Iluminação
+561	Manoplas da Ruína
+562	Manoplas da Ruína
+563	Manoplas da Ruína
+564	Manoplas da Ruína
+565	Manoplas da Ruína
+566	Manoplas da Ruína
+567	Manoplas do Herói
+568	Manoplas do Herói
+569	Manoplas do Herói
+570	Manoplas do Herói
+571	Manoplas do Herói
+572	Manoplas do Herói
+573	Manoplas do Soberano
+574	Manoplas do Soberano
+575	Manoplas do Soberano
+576	Manoplas do Soberano
+577	Manoplas do Soberano
+578	Manoplas do Soberano
+579	Bracelete da Coroa Solar
+580	Bracelete da Eclíptica
+581	Bracelete de Dafne
+582	Bracelete da Eclíptica
+583	Bracelete de Dafne
+584	Bracelete da Oferenda
+585	Bracelete Puro e Sagrado
+586	Bracelete do Sacrifício
+587	Bracelete do Julgamento
+588	Bracelete de Tétis
+589	Bracelete da Coroa Solar
+590	Bracelete da Eclíptica
+591	Bracelete de Dafne
+592	Bracelete da Eclíptica
+593	Bracelete de Ares
+594	Bracelete da Eclíptica
+595	Bracelete de Ares
+596	Bracelete da Eclíptica
+597	Bracelete de Ares
+598	Bracelete da Eclíptica
+599	Bracelete de Ares
+600	Bracelete do Sacrifício
+601	Bracelete do Sacrifício
+602	Bracelete do Sacrifício
+603	Bracelete do Sacrifício
+604	Bracelete do Sacrifício
+605	Bracelete do Sacrifício
+606	Bracelete do Julgamento
+607	Bracelete do Julgamento
+608	Bracelete do Julgamento
+609	Bracelete do Julgamento
+610	Bracelete do Julgamento
+611	Bracelete do Julgamento
+612	Bracelete de Tétis
+613	Bracelete de Tétis
+614	Bracelete de Tétis
+615	Bracelete de Tétis
+616	Bracelete de Tétis
+617	Bracelete de Tétis
+618	Bracelete da Coroa Solar
+619	Bracelete da Coroa Solar
+620	Bracelete da Coroa Solar
+621	Bracelete da Coroa Solar
+622	Bracelete da Coroa Solar
+623	Bracelete da Coroa Solar
+624	Bracelete da Eclíptica
+625	Bracelete da Eclíptica
+626	Bracelete da Eclíptica
+627	Bracelete da Eclíptica
+628	Bracelete da Eclíptica
+629	Bracelete da Eclíptica
+630	Bracelete de Dafne
+631	Bracelete de Dafne
+632	Bracelete de Dafne
+633	Bracelete de Dafne
+634	Bracelete de Dafne
+635	Bracelete de Dafne
+636	Bracelete do Novato
+637	Bracelete do Novato
+638	Bracelete do Novato
+639	Bracelete do Novato
+640	Bracelete do Novato
+641	Bracelete do Novato
+642	Bracelete de Hera Verde
+643	Bracelete de Hera Verde
+644	Bracelete de Hera Verde
+645	Bracelete de Hera Verde
+646	Bracelete de Hera Verde
+647	Bracelete de Hera Verde
+648	Bracelete de Asfódelos
+649	Bracelete de Asfódelos
+650	Bracelete de Asfódelos
+651	Bracelete de Asfódelos
+652	Bracelete de Asfódelos
+653	Bracelete de Asfódelos
+654	Bracelete de Lírio-da-aranha-vermelha
+655	Bracelete de Lírio-da-aranha-vermelha
+656	Bracelete de Lírio-da-aranha-vermelha
+657	Bracelete de Lírio-da-aranha-vermelha
+658	Bracelete de Lírio-da-aranha-vermelha
+659	Bracelete de Lírio-da-aranha-vermelha
+660	Bracelete de Osso de Serpente
+661	Bracelete de Osso de Serpente
+662	Bracelete de Osso de Serpente
+663	Bracelete de Osso de Serpente
+664	Bracelete de Osso de Serpente
+665	Bracelete de Osso de Serpente
+666	Bracelete de Obsidiana
+667	Bracelete de Obsidiana
+668	Bracelete de Obsidiana
+669	Bracelete de Obsidiana
+670	Bracelete de Obsidiana
+671	Bracelete de Obsidiana
+672	Bracelete de Meteorito
+673	Bracelete de Meteorito
+674	Bracelete de Meteorito
+675	Bracelete de Meteorito
+676	Bracelete de Meteorito
+677	Bracelete de Meteorito
+678	Bracelete da Oferenda
+679	Bracelete da Oferenda
+680	Bracelete da Oferenda
+681	Bracelete da Oferenda
+682	Bracelete da Oferenda
+683	Bracelete da Oferenda
+684	Bracelete Puro e Sagrado
+685	Bracelete Puro e Sagrado
+686	Bracelete Puro e Sagrado
+687	Bracelete Puro e Sagrado
+688	Bracelete Puro e Sagrado
+689	Bracelete Puro e Sagrado
+690	Deus do Sono · Estrela do sono pacífico
+691	Rugido do berrante de Esterópes
+692	Proteção divina à vida de Deméter
+693	Rugido do berrante de Esterópes
+694	Proteção divina à vida de Deméter
+695	Trapaça de Loki
+696	Cristal de gelo de Camus
+697	A marca do bem e do mal de Saga
+698	Talismã do selo da estrela demoníaca
+699	Talismã de Mithril do Deus do Sono
+700	Deus do Sono · Estrela do sono pacífico
+701	Rugido do berrante de Esterópes
+702	Proteção divina à vida de Deméter
+703	Talismã de Talos
+704	Talismã de Ares
+705	Talismã de Talos
+706	Talismã de Ares
+707	Talismã de Talos
+708	Talismã de Ares
+709	Talismã de Talos
+710	Talismã de Ares
+711	Talismã de Luz
+712	Talismã de Luz
+713	Talismã de Luz
+714	Talismã de Luz
+715	Talismã de Luz
+716	Talismã de Luz
+717	Talismã do desejo divino
+718	Talismã do desejo divino
+719	Talismã do desejo divino
+720	Talismã do desejo divino
+721	Talismã do desejo divino
+722	Talismã do desejo divino
+723	Talismã da Musa
+724	Talismã da Musa
+725	Talismã da Musa
+726	Talismã da Musa
+727	Talismã da Musa
+728	Talismã da Musa
+729	Talismã de Gaia
+730	Talismã de Gaia
+731	Talismã de Gaia
+732	Talismã de Gaia
+733	Talismã de Gaia
+734	Talismã de Gaia
+735	Talismã de Anfiarau
+736	Talismã de Anfiarau
+737	Talismã de Anfiarau
+738	Talismã de Anfiarau
+739	Talismã de Anfiarau
+740	Talismã de Anfiarau
+741	Talismã de Argos
+742	Talismã de Argos
+743	Talismã de Argos
+744	Talismã de Argos
+745	Talismã de Argos
+746	Talismã de Argos
+747	Talismã do Novato
+748	Talismã do Novato
+749	Talismã do Novato
+750	Talismã do Novato
+751	Talismã do Novato
+752	Talismã do Novato
+753	Talismã da Alquimia
+754	Talismã da Alquimia
+755	Talismã da Alquimia
+756	Talismã da Alquimia
+757	Talismã da Alquimia
+758	Talismã da Alquimia
+759	Talismã do Médium
+760	Talismã do Médium
+761	Talismã do Médium
+762	Talismã do Médium
+763	Talismã do Médium
+764	Talismã do Médium
+765	Talismã do Profeta
+766	Talismã do Profeta
+767	Talismã do Profeta
+768	Talismã do Profeta
+769	Talismã do Profeta
+770	Talismã do Profeta
+771	Talismã do Elemento
+772	Talismã do Elemento
+773	Talismã do Elemento
+774	Talismã do Elemento
+775	Talismã do Elemento
+776	Talismã do Elemento
+777	Talismã de Fada
+778	Talismã de Fada
+779	Talismã de Fada
+780	Talismã de Fada
+781	Talismã de Fada
+782	Talismã de Fada
+783	Talismã da Estrela
+784	Talismã da Estrela
+785	Talismã da Estrela
+786	Talismã da Estrela
+787	Talismã da Estrela
+788	Talismã da Estrela
+789	Talismã da Terra dos Sonhos
+790	Talismã da Terra dos Sonhos
+791	Talismã da Terra dos Sonhos
+792	Talismã da Terra dos Sonhos
+793	Talismã da Terra dos Sonhos
+794	Talismã da Terra dos Sonhos
+795	Talismã do Tempo
+796	Talismã do Tempo
+797	Talismã do Tempo
+798	Talismã do Tempo
+799	Talismã do Tempo
+800	Talismã do Tempo
+801	Joia de Odisseu
+802	Joia de Cassandra
+803	Joia de Athena
+804	Joia de Cassandra
+805	Joia de Athena
+806	Joia da Eternidade
+807	Joia Espiritual da Solidão
+808	Joia da Ilusão
+809	Joia Espiritual da Inteligência
+810	Joia do Vazio
+811	Joia de Odisseu
+812	Joia de Cassandra
+813	Joia de Athena
+814	Joia de Cassandra
+815	Joia Sanguinária de Ares
+816	Joia de Cassandra
+817	Joia Sanguinária de Ares
+818	Joia de Cassandra
+819	Joia Sanguinária de Ares
+820	Joia de Cassandra
+821	Joia Sanguinária de Ares
+822	Joia da Ilusão
+823	Joia da Ilusão
+824	Joia da Ilusão
+825	Joia da Ilusão
+826	Joia da Ilusão
+827	Joia da Ilusão
+828	Joia Espiritual da Inteligência
+829	Joia Espiritual da Inteligência
+830	Joia Espiritual da Inteligência
+831	Joia Espiritual da Inteligência
+832	Joia Espiritual da Inteligência
+833	Joia Espiritual da Inteligência
+834	Joia do Vazio
+835	Joia do Vazio
+836	Joia do Vazio
+837	Joia do Vazio
+838	Joia do Vazio
+839	Joia do Vazio
+840	Joia de Odisseu
+841	Joia de Odisseu
+842	Joia de Odisseu
+843	Joia de Odisseu
+844	Joia de Odisseu
+845	Joia de Odisseu
+846	Joia de Cassandra
+847	Joia de Cassandra
+848	Joia de Cassandra
+849	Joia de Cassandra
+850	Joia de Cassandra
+851	Joia de Cassandra
+852	Joia de Athena
+853	Joia de Athena
+854	Joia de Athena
+855	Joia de Athena
+856	Joia de Athena
+857	Joia de Athena
+858	Joia do Novato
+859	Joia do Novato
+860	Joia do Novato
+861	Joia do Novato
+862	Joia do Novato
+863	Joia do Novato
+864	Joia Espiritual do Heremita
+865	Joia Espiritual do Heremita
+866	Joia Espiritual do Heremita
+867	Joia Espiritual do Heremita
+868	Joia Espiritual do Heremita
+869	Joia Espiritual do Heremita
+870	Joia Espiritual do Sábio
+871	Joia Espiritual do Sábio
+872	Joia Espiritual do Sábio
+873	Joia Espiritual do Sábio
+874	Joia Espiritual do Sábio
+875	Joia Espiritual do Sábio
+876	Joia Espiritual do Homem Virtuoso
+877	Joia Espiritual do Homem Virtuoso
+878	Joia Espiritual do Homem Virtuoso
+879	Joia Espiritual do Homem Virtuoso
+880	Joia Espiritual do Homem Virtuoso
+881	Joia Espiritual do Homem Virtuoso
+882	Joia Espiritual do Profeta
+883	Joia Espiritual do Profeta
+884	Joia Espiritual do Profeta
+885	Joia Espiritual do Profeta
+886	Joia Espiritual do Profeta
+887	Joia Espiritual do Profeta
+888	Joia Guia
+889	Joia Guia
+890	Joia Guia
+891	Joia Guia
+892	Joia Guia
+893	Joia Guia
+894	Joia do Futuro
+895	Joia do Futuro
+896	Joia do Futuro
+897	Joia do Futuro
+898	Joia do Futuro
+899	Joia do Futuro
+900	Joia da Eternidade
+901	Joia da Eternidade
+902	Joia da Eternidade
+903	Joia da Eternidade
+904	Joia da Eternidade
+905	Joia da Eternidade
+906	Joia Espiritual da Solidão
+907	Joia Espiritual da Solidão
+908	Joia Espiritual da Solidão
+909	Joia Espiritual da Solidão
+910	Joia Espiritual da Solidão
+911	Joia Espiritual da Solidão
+912	Chamas Escarlates
+913	Chamas Escarlates
+914	Sombra Dourada
+915	Sombra Dourada
+916	Sombra Sangrenta
+917	Sombra Sangrenta
+918	Sentimento de Rosa
+919	Asa Enevoada
+920	Asa Enevoada
+921	Sentimento de Rosa
+922	Beijo Demoníaco
+923	Beijo Demoníaco
+924	Rosa Índigo
+925	Rosa Índigo
+926	Asas de Dragão Sombrio
+927	Asas de Dragão Sombrio
+928	Luz do Futuro
+929	Luz do Futuro
+930	Sarna
+931	Sarna
+932	Flutuador
+933	Flutuador
+934	Coração Grifo
+935	Coração Grifo
+936	Coração Inocente
+937	Coração Inocente
+938	Coração Cristal
+939	Coração Cristal
+940	Coração Esmeralda
+941	Coração Esmeralda
+942	Asa demoníaca do Rei
+943	Asa demoníaca do grau zero
+944	Asa demoníaca da separação
+945	Asa Demoníaca do Submundo
+946	Asa demoníaca do Rei
+947	Asa demoníaca do grau zero
+948	Asa demoníaca da separação
+949	Asa Demoníaca do Submundo
+950	Puro e Sagrado!Asa de Anjo
+951	Asa demoníaca do grau zero
+952	Asa demoníaca da separação
+953	Asa Demoníaca do Submundo
+954	Puro e Sagrado!Asa de Anjo
+955	Asa demoníaca do grau zero
+956	Asa demoníaca da separação
+957	Asa Demoníaca do Submundo
+958	Julgamento de Gabriel
+959	Pecado de Lúcifer
+960	Pecado de Lúcifer
+961	Julgamento de Gabriel
+962	Encantador!Asa Psicodélica
+963	Encantador!Asa Psicodélica
+964	Asa do Pó Dourado
+965	Asa do Pó Dourado
+966	Asa da Orquídea
+967	Asa da Orquídea
+968	Asa do Rejuvenescimento
+969	Asa do Rejuvenescimento
+970	Asa da Fantasia
+971	Asa da Fantasia
+972	Fantasia de Jadeíte
+973	Fantasia de Jadeíte
+974	Asa da Deusa
+975	Asa da Deusa
+976	Asa da Fantasia
+977	Asa da Fantasia
+978	Asa de Luxo
+979	Asa de Luxo
+980	Asa de Fogo
+981	Asa de Fogo
+982	Relâmpago Dourado
+983	Relâmpago Dourado
+984	Coração do Mar Azul
+985	Coração do Mar Azul
+986	Invasão Noturna
+987	Invasão Noturna
+988	Asa Roxa
+989	Asa Roxa
+990	Quadrado P/B
+991	Quadrado P/B
+992	Asa da Quimera
+993	Asa da Quimera
+994	Fenix de Dança - 9 dias
+995	Fenix de Dança - 9 dias
+996	Frutífera
+997	Frutífera
+998	Pena Negra
+999	Pena Negra
+1000	Asas Incandescentes
+1001	Asas Incandescentes
+1002	Asas Diabólicas
+1003	Asas Diabólicas
+1004	Asas do Rei Fada
+1005	Asas do Rei Fada
+1006	Vidro de Wanli
+1007	Vidro de Wanli
+1008	Fantasma Azul
+1009	Fantasma Azul
+1010	Milagre Laranja
+1011	Milagre Laranja
+1012	Quebra do Pecado
+1013	Quebra do Pecado
+1014	Vento Noturno
+1015	Vento Noturno
+1016	Asas do Céu Azul
+1017	Asas do Céu Azul
+1018	Kunpeng
+1019	Kunpeng
+1020	Asas da Fênix
+1021	Asas da Fênix
+1022	Asas Malignas
+1023	Asas Malignas
+1024	Cerimônia Noturna
+1025	Cerimônia Noturna
+1026	Frozen
+1027	Frozen
+1028	Asa Demoníaca
+1029	Asa Demoníaca
+1030	Asa de Anjo
+1031	Asa de Anjo
+1032	Asas Flutuantes Teste
+1033	Túnica do Poder de Perseu
+1034	Armadura Imortal de Brontes
+1035	Armadura da solidez eterna de Hefesto
+1036	Armadura Imortal de Brontes
+1037	Armadura da solidez eterna de Hefesto
+1038	Roupa de caminhada noturna do Kid Ladrão
+1039	Nova roupa do Máscara da Morte
+1040	Robe de Aioria
+1041	Roupa de Meditação de Odin
+1042	Roupa de Shion concedida pelos Deuses
+1043	Túnica do Poder de Perseu
+1044	Armadura Imortal de Brontes
+1045	Armadura da solidez eterna de Hefesto
+1046	Camisa de Talos
+1047	Peitoral de Ares
+1048	Camisa de Talos
+1049	Peitoral de Ares
+1050	Camisa de Talos
+1051	Peitoral de Ares
+1052	Camisa de Talos
+1053	Peitoral de Ares
+1054	Camisa do Marechal
+1055	Camisa do Marechal
+1056	Camisa do Marechal
+1057	Camisa do Marechal
+1058	Camisa do Marechal
+1059	Camisa do Marechal
+1060	Camisa do Soberano
+1061	Camisa do Soberano
+1062	Camisa do Soberano
+1063	Camisa do Soberano
+1064	Camisa do Soberano
+1065	Camisa do Soberano
+1066	Camisa de Teseu
+1067	Camisa de Teseu
+1068	Camisa de Teseu
+1069	Camisa de Teseu
+1070	Camisa de Teseu
+1071	Camisa de Teseu
+1072	Camisa de Marte
+1073	Camisa de Marte
+1074	Camisa de Marte
+1075	Camisa de Marte
+1076	Camisa de Marte
+1077	Camisa de Marte
+1078	Camisa de Hipomedonte
+1079	Camisa de Hipomedonte
+1080	Camisa de Hipomedonte
+1081	Camisa de Hipomedonte
+1082	Camisa de Hipomedonte
+1083	Camisa de Hipomedonte
+1084	Peitoral de Héstia
+1085	Peitoral de Héstia
+1086	Peitoral de Héstia
+1087	Peitoral de Héstia
+1088	Peitoral de Héstia
+1089	Peitoral de Héstia
+1090	Camisa do Novato
+1091	Camisa do Novato
+1092	Camisa do Novato
+1093	Camisa do Novato
+1094	Camisa do Novato
+1095	Camisa do Novato
+1096	Camisa do Recruta
+1097	Camisa do Recruta
+1098	Camisa do Recruta
+1099	Camisa do Recruta
+1100	Camisa do Recruta
+1101	Camisa do Recruta
+1102	Camisa do Soldado
+1103	Camisa do Soldado
+1104	Camisa do Soldado
+1105	Camisa do Soldado
+1106	Camisa do Soldado
+1107	Camisa do Soldado
+1108	Camisa da Guarda
+1109	Camisa da Guarda
+1110	Camisa da Guarda
+1111	Camisa da Guarda
+1112	Camisa da Guarda
+1113	Camisa da Guarda
+1114	Camisa do Gladiador
+1115	Camisa do Gladiador
+1116	Camisa do Gladiador
+1117	Camisa do Gladiador
+1118	Camisa do Gladiador
+1119	Camisa do Gladiador
+1120	Camisa de Tribuno
+1121	Camisa de Tribuno
+1122	Camisa de Tribuno
+1123	Camisa de Tribuno
+1124	Camisa de Tribuno
+1125	Camisa de Tribuno
+1126	Camisa da Ruína
+1127	Camisa da Ruína
+1128	Camisa da Ruína
+1129	Camisa da Ruína
+1130	Camisa da Ruína
+1131	Camisa da Ruína
+1132	Camisa do Desafiante
+1133	Camisa do Desafiante
+1134	Camisa do Desafiante
+1135	Camisa do Desafiante
+1136	Camisa do Desafiante
+1137	Camisa do Desafiante
+1138	Camisa do Herói
+1139	Camisa do Herói
+1140	Camisa do Herói
+1141	Camisa do Herói
+1142	Camisa do Herói
+1143	Camisa do Herói
+1144	Camisa do Novato
+1145	Camisa do Novato
+1146	Corrente de prata esculpida do substituto de Hades
+1147	Pingente de Luz Divina de Argos Panoptes
+1148	Corrente da luz estelar de Afrodite
+1149	Pingente de Luz Divina de Argos Panoptes
+1150	Corrente da luz estelar de Afrodite
+1151	Corrente de Olho de Tigre de Shido
+1152	Colar de Escorpião de Miro
+1153	Contas da Transcendência de Shaka
+1154	Faca de Trigo Dourada
+1155	Corrente da Liberdade de Pandora
+1156	Corrente de prata esculpida do substituto de Hades
+1157	Pingente de Luz Divina de Argos Panoptes
+1158	Corrente da luz estelar de Afrodite
+1159	Colar de Talos
+1160	Colar de Ares
+1161	Colar de Talos
+1162	Colar de Ares
+1163	Colar de Talos
+1164	Colar de Ares
+1165	Colar de Talos
+1166	Colar de Ares
+1167	Colar de Esmeralda
+1168	Colar de Esmeralda
+1169	Colar de Esmeralda
+1170	Colar de Esmeralda
+1171	Colar de Esmeralda
+1172	Colar de Esmeralda
+1173	Colar de Diamante
+1174	Colar de Diamante
+1175	Colar de Diamante
+1176	Colar de Diamante
+1177	Colar de Diamante
+1178	Colar de Diamante
+1179	Colar de Saboeiro
+1180	Colar de Saboeiro
+1181	Colar de Saboeiro
+1182	Colar de Saboeiro
+1183	Colar de Saboeiro
+1184	Colar de Saboeiro
+1185	Colar de Selene
+1186	Colar de Selene
+1187	Colar de Selene
+1188	Colar de Selene
+1189	Colar de Selene
+1190	Colar de Selene
+1191	Colar da Harmonia
+1192	Colar da Harmonia
+1193	Colar da Harmonia
+1194	Colar da Harmonia
+1195	Colar da Harmonia
+1196	Colar da Harmonia
+1197	Colar de Hefesto
+1198	Colar de Hefesto
+1199	Colar de Hefesto
+1200	Colar de Hefesto
+1201	Colar de Hefesto
+1202	Colar de Hefesto
+1203	Colar do Novato
+1204	Colar do Novato
+1205	Colar do Novato
+1206	Colar do Novato
+1207	Colar do Novato
+1208	Colar do Novato
+1209	Colar de Ossos
+1210	Colar de Ossos
+1211	Colar de Ossos
+1212	Colar de Ossos
+1213	Colar de Ossos
+1214	Colar de Ossos
+1215	Colar de Vidro
+1216	Colar de Vidro
+1217	Colar de Vidro
+1218	Colar de Vidro
+1219	Colar de Vidro
+1220	Colar de Vidro
+1221	Colar Coral
+1222	Colar Coral
+1223	Colar Coral
+1224	Colar Coral
+1225	Colar Coral
+1226	Colar Coral
+1227	Colar de Pérolas
+1228	Colar de Pérolas
+1229	Colar de Pérolas
+1230	Colar de Pérolas
+1231	Colar de Pérolas
+1232	Colar de Pérolas
+1233	Colar de Cristal
+1234	Colar de Cristal
+1235	Colar de Cristal
+1236	Colar de Cristal
+1237	Colar de Cristal
+1238	Colar de Cristal
+1239	Colar de Jade
+1240	Colar de Jade
+1241	Colar de Jade
+1242	Colar de Jade
+1243	Colar de Jade
+1244	Colar de Jade
+1245	Colar de Ágata
+1246	Colar de Ágata
+1247	Colar de Ágata
+1248	Colar de Ágata
+1249	Colar de Ágata
+1250	Colar de Ágata
+1251	Colar de Cristal Azul
+1252	Colar de Cristal Azul
+1253	Colar de Cristal Azul
+1254	Colar de Cristal Azul
+1255	Colar de Cristal Azul
+1256	Colar de Cristal Azul
+1257	Blusa Cisne Negro (F)
+1258	Traje Camomiose (F)
+1259	Traje da Guerreira
+1260	Traje Edelweiss (F)
+1261	Traje de Boneco de Neve (F)
+1262	Traje da Realeza (F)
+1263	Traje Oriental (F)
+1264	Traje de Jamiel (F)
+1265	Traje Amor Perfeito (F)
+1266	Traje da Noite Dançante (F)
+1267	Traje de Verão (F)
+1268	Traje Shallot (F)
+1269	Traje superior da asa da tentação de Eva
+1270	Ataduras [Corpo] (F)
+1271	Armadura de guerra da dignidade do Samurai
+1272	Casaco repleto de pérolas negras
+1273	Vestido longo de Flamenco
+1274	Blusa de Shangai (F)
+1275	Camisola Dragão (F)
+1276	Camisola Dragão Negro (F)
+1277	Camisola Dragão Azul (F)
+1278	Camisola Dragão Rosa (F)
+1279	Camisola Noite Diabólica (F)
+1280	Casaco da geração imatura
+1281	Roupa colante de Kill Bill
+1282	Blusa de Viagem (F)
+1283	Blusa do Rodolfo (F)
+1284	Blusa do Boneco de Neve (F)
+1285	Blusa da Sra. Polar (F)
+1286	Blusa do Papai Noel (F)
+1287	Jaqueta da ode ao vento do outono
+1288	Vestido branco do amado
+1289	Tentação de Eva
+1290	Traje feminino superior cor de pêssego romântico
+1291	Traje feminino superior da fada da flor do amor de verão
+1292	Vestimenta de panda mecânico
+1293	Me chame de Grande Rainha
+1294	Biquíni Romano
+1295	Vestido de casamento do amor à temporada de neve
+1296	Vestido de casamento da fantasia de conto de fadas
+1297	Traje Fashion
+1298	Roupa da Orquestra da Fantasia Mágica
+1299	Traje Americano
+1300	Roupa da Imperatriz do Pêssego Dourado
+1301	Roupa da Imperatriz do Coração Azul
+1302	Roupa da Imperatriz do Coração Vermelho
+1303	Roupa da Imperatriz Rosa
+1304	Vestimenta feminina de Feliz Natal
+1305	Vestido longo de noite para dança enérgica de aniversário
+1306	Vestido Gótico
+1307	Vestido longo de noite de Feliz Ano Novo Chinês
+1308	Vestido rosa longo de princesa
+1309	Vestido cor de pêssego longo de princesa
+1310	Vestido longo do charme sereno de princesa
+1311	Margarete · Sangrenta
+1312	Sweet Love
+1313	Cativo da Moça
+1314	Uniforme da súdita
+1315	Roupa de couro do caçador de almas
+1316	Traje feminino Punk Carmesim
+1317	Traje feminino Rock'n'Roll
+1318	Roupa de banho fresca de verão
+1319	Casaco da ordem da cavalaria da glória estelar
+1320	Casaco de Chama Relâmpago
+1321	Uniforme militar do exército do céu
+1322	Traje feminino do Exército Escarlate
+1323	Traje feminino do Exército Jadeite
+1324	Dançarina · Soprando a Neve
+1325	Traje superior Bill escarlate
+1326	Traje superior do Caçador de recompensas vermelho sangue
+1327	Traje superior do Caçador de recompensas charme pacífico
+1328	Traje superior de asas do Caçador de recompensas cortina da noite
+1329	Traje superior de asas do Caçador de recompensas vermelho sangue
+1330	Casaco da glória do Santuário
+1331	Traje superior de rap softcore
+1332	Vestido da Neve Natalina
+1333	Vestido longo de lótus vermelha afortunada
+1334	Traje superior feminino do Exército de pele vermelha
+1335	Traje feminino superior de colegial de sangue quente
+1336	Traje superior da Era do giro do miado
+1337	Traje superior de asas da Paz Eterna
+1338	Traje feminino superior de flores que voam comigo
+1339	Traje feminino superior de beisebol da dança instantânea
+1340	Traje superior feminino charmoso de couro
+1341	Traje feminino superior de chá vermelho da carroça da floresta roxa
+1342	Traje feminino superior da luz do luar prateado
+1343	Traje feminino superior da Praia da Mary
+1344	Traje feminino superior da bênção de Hashima
+1345	Traje superior feminino de detetive de raios de sol
+1346	Traje feminino superior do chá da tarde de Caber
+1347	Traje superior feminino do chá de bolhas com leite
+1348	Traje feminino superior do trevo do eco confuso
+1349	Traje superior feminino grosso de afeição profunda
+1350	Traje superior feminino amizade eterna
+1351	Traje superior feminino da graça da capital
+1352	Traje superior feminino da sorte geral
+1353	Traje superior feminino de hip-hop de rua
+1354	Traje superior feminino da boa sorte
+1355	Traje superior feminino da nobreza do castelo
+1356	Traje superior feminino ataque do gigante
+1357	Tutancâmon · Traje superior feminino do trono
+1358	Tutancâmon · Traje superior feminino amaldiçoado
+1359	Tutancâmon · Traje superior feminino máscara
+1360	Tutancâmon · Traje superior feminino cetro
+1361	Traje superior feminino a história de uma verdadeira quadrilha
+1362	Traje superior feminino Piratas do Caribe
+1363	Traje superior feminino patinho de borracha
+1364	Traje superior feminino praia havaiana
+1365	Traje superior feminino praia siciliana
+1366	Traje superior feminino praia de Bali
+1367	Traje superior feminino praia mexicana
+1368	Traje superior feminino Paraíso da infância
+1369	Traje superior feminino Lua e Estrelas
+1370	Traje superior feminino GTO
+1371	Traje superior feminino da capitã
+1372	Traje superior feminino Dia das Bruxas
+1373	Vestido Much Doge (F)
+1374	Saia do fantasma da dança flutuante
+1375	Vestido de Maiden Café (F)
+1376	Vestido Rockstar (F)
+1377	Blusa Heroína do Beisebol
+1378	Traje superior feminino elfa das neves
+1379	Blusa Piu (F)
+1380	Terno Cisne Negro (M)
+1381	Traje Camomiose (M)
+1382	Traje do Guerreiro
+1383	Traje Edelweiss (M)
+1384	Traje de Boneco de Neve (M)
+1385	Traje da Realeza (M)
+1386	Traje Europeu (M)
+1387	Traje de Jamiel (M)
+1388	Traje Amor Perfeito (M)
+1389	Traje da Noite Dançante (M)
+1390	Traje de Verão (M)
+1391	Traje Shallot (M)
+1392	Ataduras [Corpo] (M)
+1393	Armadura Último Samurai
+1394	Casaco do capitão do barco Pérola Negra
+1395	Casaco Deslumbrante de Toureiro
+1396	Traje superior de asas de tatuagem maligna
+1397	Traje superior de asas de tatuagem maligna
+1398	Traje superior da Ordem da Cavalaria dos Espíritos Celestiais
+1399	Camisa dos Shangai (M)
+1400	Traje superior de asa do Espírito da Explosão
+1401	Tatuagem de Explosão
+1402	Traje superior de asa da tatuagem de explosão
+1403	Traje superior de asa da tatuagem de explosão
+1404	Traje superior de asa do amor à temporada de neve
+1405	Traje superior de asa do amor à temporada de neve
+1406	Tatuagem de anjo caído
+1407	Sobretudo do Dragão (M)
+1408	Sobretudo do Dragão Negro (M)
+1409	Sobretudo do Dragão Azul (M)
+1410	Sobretudo do Dragão Rosa (M)
+1411	Camisa da Noite Diabólica (M)
+1412	Blusão de Viagem (M)
+1413	Camisa do Papai Noel (M)
+1414	Camisa do Boneco de Neve (M)
+1415	Camisa do Sr. Polar (M)
+1416	Camisa do Papai Noel (M)
+1417	Casaco da ode ao vento do outono
+1418	Vestimenta de Panda fora de controle
+1419	Homem vaidoso de cerejeira
+1420	Terno do amor à temporada de neve
+1421	Terno da fantasia de conto de fadas
+1422	Traje masculino superior do duque da flor do amor de verão
+1423	Anjo fora de controle
+1424	Tatuagem de anjo fora de controle
+1425	Tatuagem Maligna
+1426	Tatuagem do amor intenso
+1427	Traje masculino superior do duque da flor do amor de verão
+1428	Traje Superior Country
+1429	Traje superior do Caubói Mágico
+1430	Traje Superior Americano
+1431	Avental Rosa
+1432	Avental Azul
+1433	Avental Verde
+1434	Avental Roxo
+1435	Vestimenta feminina de Feliz Natal
+1436	Roupa bordada de festa de aniversário
+1437	Corset do cair da noite
+1438	Roupa bordada velha, mas bonita
+1439	Vestido longo de Cavaleiro da Noite
+1440	Vestido longo de Cavaleiro Vampiro
+1441	Vestido longo de Cavaleiro das Sombras
+1442	Vampiro · Alucard
+1443	Smart Candy
+1444	Vestido longo de empregada
+1445	Roupa formal da braçadeira vermelha
+1446	Traje de couro do Espírito da Explosão
+1447	Traje masculino Punk Carmesim
+1448	Traje masculino Rock'n'Roll
+1449	Casaco do valente do verão
+1450	Casaco da Rrdem da cavalaria dos Espíritos Celestiais
+1451	Casaco do ataque da tempestade violenta
+1452	Uniforme militar do exército demoníaco da noite
+1453	Traje masculino do Exército Escarlate
+1454	Traje masculino do Exército Azul Celeste
+1455	Névoa dos Segredos · Muramasa
+1456	Traje superior do dragão escarlate feroz
+1457	Traje superior do Caçador de recompensas cortina da noite
+1458	Traje superior do Caçador de recompensas escuridão da noite
+1459	Traje superior de asas do Caçador de recompensas cortina da noite
+1460	Traje superior de asas do Caçador de recompensas vermelho sangue
+1461	Jaqueta magnífica do Santuário
+1462	Traje superior do rap hardcore
+1463	Casaco do Jantar Natalino
+1464	Vestido longo de Nuvens Mágicas da Felicidade
+1465	Traje superior masculino do Exército de pele vermelha
+1466	Traje masculino superior de colegial de sangue quente
+1467	Traje superior da batida do café do miado
+1468	Traje superior de asa dos Anos Turbulentos
+1469	Traje superior masculino do mar sempre vasto e azul
+1470	Traje superior masculino de beisebol do tornado relâmpago
+1471	Traja superior masculino descolado de couro
+1472	Traje masculino superior do chá da noite do castelo antigo da rosa roxa
+1473	Traje superior masculino com decoração de sol dourado
+1474	Traja masculino superior de Trigo do Surf
+1475	Traje masculino superior do presente de Hashima
+1476	Traje superior masculino de detetive de raios de sol
+1477	Traje superior masculino de cowboy de Caber
+1478	Traje superior masculino do chá de bolhas com leite
+1479	Traje masculino superior da Montanha das Chamas da lenda do eco confuso
+1480	Traje superior masculino devoção mútua
+1481	Traje superior masculino do apaixonado
+1482	Traje superior masculino mar do vento negro
+1483	Traje superior masculino pastor glorioso
+1484	Traje superior masculino da riqueza e da fama
+1485	Traje superior masculino de hip-hop de rua
+1486	Traje superior masculino de todas as bênçãos
+1487	Traje superior masculino da nobreza do castelo
+1488	Traje superior masculino ataque do gigante
+1489	Anúbis · Traje superior masculino do Poder
+1490	Anúbis · Traje superior masculino do Código
+1491	Anúbis · Traje superior masculino Balança
+1492	Anúbis · Traje superior masculino do fogo celeste
+1493	Traje superior masculino a história de uma verdadeira quadrilha
+1494	Traje superior masculino Piratas do Caribe
+1495	Traje superior masculino patinho de borracha
+1496	Traje superior masculino praia havaiana
+1497	Traje superior masculino praia de Bali
+1498	Traje superior masculino praia mexicana
+1499	Traje superior masculino praia siciliana
+1500	Traje superior masculino Paraíso da infância
+1501	Traje superior masculino Lua e Estrelas
+1502	Traje superior masculino estudante afiado
+1503	Traje superior masculino do capitão
+1504	Traje superior masculino Barão do Dia das Bruxa
+1505	Camiseta Much Doge (M)
+1506	Traje superior Terno do fantasma da dança flutuante
+1507	Jaqueta do Mordomo (M)
+1508	Jaqueta Rockstar (M)
+1509	Camiseta Heroí do Beisebol (M)
+1510	Jaqueta da escola do Santuário
+1511	Roupa colante da Travessia do Rio do Dragão Feroz
+1512	Camiseta Piu (M)
+1513	Coração da Moça (vermelho)
+1514	Coração da Moça (azul)
+1515	Coração da Moça (rosa)
+1516	Charme de Onça
+1517	Traje de Ratinha
+1518	Traje de Onça
+1519	Traje Doraemiau (F)
+1520	Jaqueta Colorida
+1521	Jaqueta Simples
+1522	Jaqueta Extravagante
+1523	Traje feminino superior de moda comum 003D
+1524	Traje feminino superior de moda comum 003E
+1525	Traje feminino superior de moda comum 003F
+1526	Jaqueta da ode ao vento do outono
+1527	Traje Vênus
+1528	Vestido de casamento do amor à temporada de neve
+1529	Vestido de casamento da fantasia de conto de fadas
+1530	Traje feminino superior de moda comum 016A
+1531	Saia do fantasma da dança flutuante
+1532	Traje superior de asas de tatuagem maligna
+1533	Traje superior de asa da tatuagem de explosão
+1534	Traje superior de asa do amor à temporada de neve
+1535	Tatuagem de anjo caído
+1536	LUTADOR
+1537	Punho da Justiça
+1538	GAME OVER
+1539	Cruz Vermelha
+1540	Jaqueta Colorida
+1541	Jaqueta Simples
+1542	Jaqueta Extravagante
+1543	Traje masculino superior de moda comum 003D
+1544	Traje masculino superior de moda comum 003E
+1545	Traje masculino superior de moda comum 003F
+1546	Casaco da ode ao vento do outono
+1547	Traje Superior Vênus
+1548	Traje superior azul marinho da brisa do mar
+1549	Traje superior da Brisa Marinha Ardente
+1550	Camiseta Brisa do Mar
+1551	Homem vaidoso de cerejeira
+1552	Terno do amor à temporada de neve
+1553	Terno da fantasia de conto de fadas
+1554	Traje masculino superior do duque da flor do amor de verão
+1555	Tatuagem de anjo fora de controle
+1556	Anjo fora de controle
+1557	Tatuagem Maligna
+1558	Tatuagem do amor intenso
+1559	Traje masculino superior do duque da flor do amor de verão
+1560	Traje Superior Country
+1561	Traje superior do Caubói Mágico
+1562	Traje Superior Americano
+1563	Traje masculino superior de moda comum 016A
+1564	Traje superior Terno do fantasma da dança flutuante
+1565	Tom baixo (preto)
+1566	Tom baixo (branco)
+1567	Atração
+1568	Solidão
+1569	Meia de Ratinha
+1570	Meia de Onça
+1571	Meia Doraemiau
+1572	Minissaia Preta
+1573	Minissaia Bordô
+1574	Minissaia Estampada
+1575	Calça feminina de moda comum 003D
+1576	Calça feminina de moda comum 003E
+1577	Saia da ode ao vento do outono
+1578	Traje inferior de seção feminina de ode ao vento do outono
+1579	Shorts Vênus
+1580	Descartar - Calça feminina de moda comum 009B
+1581	Descartar - Calça feminina de moda comum 009C
+1582	Calça feminina de moda comum 016A
+1583	Descartar 0 Legging do fantasma da dança flutuante
+1584	Barra da calça Paz e Amor
+1585	Cowboy Preto
+1586	Calça Cinza
+1587	Calça Azul Marinho
+1588	Calça Azul
+1589	Bermuda Colorida
+1590	Bermuda Simples
+1591	Bermuda Extravagante
+1592	Calça masculina de moda comum 003D
+1593	Calça masculina de moda comum 003E
+1594	Calça masculina de moda comum 003F
+1595	Traje inferior de seção masculina de ode ao vento do outono
+1596	Bermuda Vênus
+1597	Shorts azul marinho da brisa do mar
+1598	Shorts da Brisa Marinha Ardente
+1599	Bermuda Brisa do Mar
+1600	Shorts de cerejeira do homem vaidoso
+1601	Calça social do amor à temporada de neve
+1602	Calça social da fantasia de conto de fadas
+1603	Calça masculina do duque da flor do amor de verão
+1604	Calça Pentakill
+1605	Calça das estrelas
+1606	Calça jeans do amor intenso
+1607	Calça Country
+1608	Calça do Caubói Mágico
+1609	Calça Americana
+1610	Calça masculina de moda comum 016A
+1611	Calça social do fantasma da dança flutuante
+1612	Pent. Lago dos Cisnes (F)
+1613	Touca de Boneco de Neve (F)
+1614	Penteado Edelweiss (F)
+1615	Penteado da Realeza (F)
+1616	Penteado Oriental (F)
+1617	Penteado Amor Perfeito (F)
+1618	Penteado de Jamiel (F)
+1619	Penteado da Noite Dançante (F)
+1620	Penteado Shallot (F)
+1621	Cabeça da abóbora (feminino)
+1622	Pureza Impecável
+1623	Maria-Chiquinha
+1624	Encanto Misterioso
+1625	Flor Selvagem
+1626	Bolinhos Fofinhos
+1627	Coque Jovial
+1628	Charme Natural
+1629	Sábia e Delicada
+1630	Bonita e Clássica
+1631	Elegância Graciosa
+1632	Penteado de Verão (F)
+1633	Elmo de guerra da dignidade do Samurai
+1634	Chapéu repleto de pérolas negras
+1635	Ornamento para cabeça de Flamenco
+1636	Chapéu de Bruxa
+1637	Penteado Camomiose (F)
+1638	Capacete da glória do Santuário
+1639	Chapéu de Panda (feminino)
+1640	Chapéu de saco de papel (feminino)
+1641	Pent. Dragão (F)
+1642	Pent. Dragão Negro (F)
+1643	Pent. Dragão Azul (F)
+1644	Pent. Dragão Rosa (F)
+1645	Pent. Noite Diabólica (F)
+1646	Cabeça do Rodolfo (F)
+1647	Cabeça do Boneco de Neve (F)
+1648	Cabeça do Sr. Polar (F)
+1649	Cabeça do Papai Noel (F)
+1650	Cauda Dupla
+1651	Cabelo feminino de moda comum 001B
+1652	Cabelo feminino de moda comum 001C
+1653	Cabelo feminino de moda comum 001D
+1654	Véu de casamento do amor à temporada de neve
+1655	Cabelo feminino da fantasia de conto de fadas
+1656	Ornamento para cabeça da Imperatriz do Pêssego Dourado
+1657	Ornamento para cabeça Imperatriz do Coração Azul
+1658	Ornamento para Imperatriz do Coração Vermelho
+1659	Ornamento para Cabeça da Imperatriz Rosa
+1660	Grampo de cabelo florido da felicidade
+1661	Cabeça de tubarão feliz
+1662	Orelha de Coelho da Súdita
+1663	Cabelo feminino de moda comum 017B
+1664	Orelha de coelho rosa
+1665	Cabelo feminino de moda comum 0017D
+1666	Cabelo feminino de moda comum 021
+1667	Boina de Chama Relâmpago
+1668	Capacete da glória do Santuário
+1669	Chapéu feminino elfa das neves
+1670	Chapéu feminino da sorte geral
+1671	Cabelo feminino Piratas do Caribe
+1672	Cabelo feminino patinho de borracha
+1673	Cabelo feminino praia havaiana
+1674	Cabelo feminino praia siciliana
+1675	Cabelo feminino praia de Bali
+1676	Cabelo feminino praia mexicana
+1677	Cabelo feminino Paraíso da infância
+1678	Cabelo feminino Lua e Estrelas
+1679	Cabelo feminino da capitã
+1680	Cabelo feminino Dia das Bruxas
+1681	Tiara Much Doge (F)
+1682	Chapéu da Dança Gótica (F)
+1683	Ornamento para cabeça de Feliz Natal (feminino)
+1684	Chapéu de Ratinha
+1685	Chapéu de Onça
+1686	Chapéu Doraemiau (F)
+1687	Capacete Pink Skull
+1688	Chapéu de panda mecânico
+1689	Chapéu da Neve Natalina
+1690	Chapéu de lótus vermelha afortunada
+1691	Chapéu feminino de beisebol da dança instantânea
+1692	Chapéu feminino de chá vermelho da carroça da floresta roxa
+1693	Chapéu feminino da luz do luar prateado
+1694	Chapéu Rockstar (F)
+1695	Boné da Heroína do Beisebol
+1696	Luva da glória do Santuário
+1697	Penteado da Guerreira
+1698	Uniforme da súdita diabólica (feminino)
+1699	Touquinha Piu (F)
+1700	Pent. Lago dos Cisnes (M)
+1701	Touca de Boneco de Neve (M)
+1702	Penteado Edelweiss (M)
+1703	Penteado Oriental (M)
+1704	Penteado de Jamiel (M)
+1705	Penteado Amor Perfeito (M)
+1706	Penteado da Noite Dançante (M)
+1707	Penteado Shallot (M)
+1708	Cabeça da abóbora (masculino)
+1709	Penteado da Realeza (M)
+1710	Penteado de Verão (M)
+1711	Elmo de guerra Último Samurai
+1712	Chapéu do capitão do barco Pérola Negra
+1713	Chapéu de Bruxo
+1714	Penteado Camomiose (M)
+1715	Capacete da glória do Santuário
+1716	Chapéu Shanghai
+1717	Chapéu de Panda (masculino)
+1718	Jovem Fervoroso
+1719	Pégasus
+1720	Dragão
+1721	Cisne
+1722	Andrômeda
+1723	Fênix
+1724	Áries
+1725	Virgem
+1726	Peixes
+1727	Câncer
+1728	Chapéu de saco de papel (masculino)
+1729	Pent. Dragão (M)
+1730	Pent. Dragão Negro (M)
+1731	Pent. Dragão Azul (M)
+1732	Pent. Dragão Rosa (M)
+1733	Pent. Noite Diabólica
+1734	Cabeça Papai Noel (M)
+1735	Cabeça Boneco de Neve (M)
+1736	Cabeça Sr. Polar (M)
+1737	Cabeça Rodolfo (M)
+1738	Flor de cerejeira fora de controle
+1739	Óculos de sol irregular
+1740	Cabelo masculino de moda comum 001B
+1741	Cabelo masculino de moda comum 001C
+1742	Cabelo masculino de moda comum 001D
+1743	Cabelo masculino do amor à temporada de neve
+1744	Cabelo masculino da fantasia de conto de fadas
+1745	Ornamento da cabeça do cacarejo galinha
+1746	Cabeça do tubarão doce
+1747	Cabelo masculino de moda comum 021
+1748	Boina do ataque violento
+1749	Capacete da glória do Santuário
+1750	Chapéu masculino pastor glorioso
+1751	Chapéu masculino da riqueza e da fama
+1752	Cabelo masculino Piratas do Caribe
+1753	Cabelo masculino patinho de borracha
+1754	Cabelo masculino Paraíso da infância
+1755	Cabelo masculino do capitão
+1756	Cabelo masculino Barão do Dia das Bruxa
+1757	Tiara Much Doge (M)
+1758	Cabelo masculino do fantasma da dança flutuante
+1759	Ornamento para cabeça de Feliz Natal (masculino)
+1760	Chapéu de Gatinho
+1761	Chapéu de Leopardo
+1762	Chapéu Doraemiau (M)
+1763	Capacete Black Skull
+1764	Chapéu de panda fora de controle
+1765	Chapéu do Jantar Natalino
+1766	Chapéu de Nuvens Mágicas da Felicidade
+1767	Chapéu masculino de beisebol do tornado relâmpago
+1768	Chapéu masculino com decoração de sol dourado
+1769	Chapéu Rockstar
+1770	Boné Herói do Beisebol (M)
+1771	Penteado do Guerreiro
+1772	Garçom Diabólico (masculino)
+1773	Touquinha Piu (M)
+1774	Chapéu Cacarejo (M)
+1775	Chapéu Gótico (F)
+1776	Luvas Lago dos Cisnes (F)
+1777	Luva de Boneco de Neve (F)
+1778	Luva da Realeza (F)
+1779	Luva Oriental (F)
+1780	Luva da Noite Dançante (F)
+1781	Luva repleta de pérolas negras
+1782	Luvas do Dragão (F)
+1783	Luvas do Dragão Negro (F)
+1784	Luvas do Dragão Azul (F)
+1785	Luvas do Dragão Rosa (F)
+1786	Luvas do Papai Noel (F)
+1787	Luvas do Boneco de Neve (F)
+1788	Luvas do Sr. Polar (F)
+1789	Luvas do Papai Noel (F)
+1790	Originando (feminino)
+1791	Luva feminina de moda comum 001B
+1792	Luva feminina de moda comum 001C
+1793	Luva feminina de moda comum 001D
+1794	Luva de Ratinha
+1795	Luva de Onça
+1796	Luva Doraemiau (F)
+1797	Bracelete de seção feminina de ode ao vento do outono
+1798	Luva Vênus (F)
+1799	Luva Pink Skull
+1800	Luva de panda mecânico
+1801	Luva de chicote de rainha
+1802	Luva de Feliz Natal (feminino)
+1803	Manga de Feliz Ano Novo Chinês
+1804	Luva rosa de princesa
+1805	Luva cor de pêssego de princesa
+1806	Luva do charme sereno de princesa
+1807	Luva da Margarete
+1808	Luva Sweet Love
+1809	Luva do caçador de espíritos
+1810	Luva Punk Carmesim
+1811	Luva Rock'n'Roll
+1812	Luva da ordem da cavalaria da glória estelar
+1813	Luva de Chama Relâmpago
+1814	Luva militar do exército do céu
+1815	Luva do Exército Escarlate
+1816	Luva militar do exército de Jadeite
+1817	Luva da glória do Santuário
+1818	Luva feminina charmosa de couro
+1819	Luva feminina de chá vermelho da carroça da floresta roxa
+1820	Luva feminina da luz do luar prateado
+1821	Luva feminina de detetive de raios de sol
+1822	Luva feminina do trevo do eco confuso
+1823	Luva feminina de Causeway Bay
+1824	Luva feminina elfa das neves
+1825	Luva feminina da sorte geral
+1826	Luva feminina de hip-hop de rua
+1827	Tutancâmon · Luva feminina do trono
+1828	Tutancâmon · Luva feminina amaldiçoada
+1829	Tutancâmon · Luva feminina máscara
+1830	Tutancâmon · Luva feminina cetro
+1831	Luva feminina assassina ninja
+1832	Luvas Maiden Café (F)
+1833	Luva feminina havaiana
+1834	Luva feminina praia siciliana
+1835	Luva feminina praia de Bali
+1836	Luva feminina praia mexicana
+1837	Luva feminina Paraíso da infância
+1838	Luva feminina Lua e Estrelas
+1839	Luva feminina da capitã
+1840	Luvas Such Doge (F)
+1841	Luvas Gado D+ (F)
+1842	Luvas Heroína do Beisebol (F)
+1843	Luva da Guerreira
+1844	Luvas Piu (F)
+1845	Luvas Lago dos Cisnes (M)
+1846	Luva de Boneco de Neve (M)
+1847	Luva da Realeza (M)
+1848	Luva Oriental (M)
+1849	Luva Marinha (M)
+1850	Luva do capitão do barco Pérola Negra
+1851	Luva Camomiose (M)
+1852	Luvas do Dragão (M)
+1853	Luvas do Dragão Negro (M)
+1854	Luvas do Dragão Azul (M)
+1855	Luvas do Dragão Rosa (M)
+1856	Luvas da Noite Diabólica (M)
+1857	Luvas do Papai Noel (M)
+1858	Luvas do Boneco de Neve (M)
+1859	Luvas do Sr. Polar (M)
+1860	Luvas do Rodolfo (M)
+1861	Originando (masculino)
+1862	Luva masculina de moda comum 001B
+1863	Luva masculina de moda comum 001C
+1864	Luva masculina de moda comum 001D
+1865	Luva de Gatinho
+1866	Luva de Leopardo
+1867	Luva Doraemiau (M)
+1868	Bracelete de seção masculina de ode ao vento do outono
+1869	Luva Vênus (M)
+1870	Luva Black Skull
+1871	Luva de panda fora de controle
+1872	Luva Country
+1873	Luva do Caubói Mágico
+1874	Luva Americana
+1875	Luva de Feliz Natal (masculino)
+1876	Luva velha, mas bonita
+1877	Luva de Cavaleiro da Noite
+1878	Luva de Cavaleiro Vampiro
+1879	Luva de Cavaleiro das Sombras
+1880	Luva de Alucard
+1881	Luva Smart Candy
+1882	Luva do valente do verão
+1883	Luva da ordem da cavalaria dos Espíritos Celestiais
+1884	Luva do ataque da tempestade violenta
+1885	Luva militar do exército demoníaco da noite
+1886	Luva do Exército Escarlate
+1887	Luva militar do exército azul celeste
+1888	Luva do Caçador de recompensas cortina da noite
+1889	Luva do Caçador de recompensas escuridão da noite
+1890	Luva da glória do Santuário
+1891	Luva do Jantar Natalino
+1892	Luva dos Anos Turbulentos
+1893	Luva masculina descolada de couro
+1894	LLuva masculina de detetive de raios de sol
+1895	Luva da Montanha das Chamas da lenda do eco confuso
+1896	Luva masculina de Causeway Bay
+1897	Luva masculina pastor glorioso
+1898	Luva masculina da riqueza e da fama
+1899	Luva masculina assassino ninja
+1900	Luvas do Mordomo (M)
+1901	Luvas Such Doge (M)
+1902	Luvas Gado D+ (M)
+1903	Luvas do Herói do Beisebol (M)
+1904	Luva do Guerreiro
+1905	Moça Fofa
+1906	Moça Inocente
+1907	Imperatriz
+1908	Moça Charmosa
+1909	Valente e Brilhante
+1910	Moça do Lírio
+1911	Jamiel (F)
+1912	Moça das Neves
+1913	Moça Delicada
+1914	Último Mistério
+1915	Jovem Fervoroso
+1916	Imaturo
+1917	Bonito e Elegante
+1918	Luz Dourada
+1919	Jovem Fofo
+1920	Maduro
+1921	Jamiel (M)
+1922	Espírito Zen
+1923	Pinta Embaixo do Olho
+1924	Terror e Justiça
+1925	Vestido Lago dos Cisnes (F)
+1926	Traje de Boneco de Neve (F)
+1927	Traje Edelweiss (F)
+1928	Traje da Realeza (F)
+1929	Traje Oriental (F)
+1930	Traje de Jamiel (F)
+1931	Traje Amor Perfeito (F)
+1932	Traje da Noite Dançante (F)
+1933	Traje Shallot (F)
+1934	Traje superior da asa da tentação de Eva
+1935	Ataduras [Corpo] (F)
+1936	Traje de Verão (F)
+1937	Armadura de guerra da dignidade do Samurai
+1938	Casaco repleto de pérolas negras
+1939	Vestido longo de Flamenco
+1940	Traje Camomiose (F)
+1941	Blusa de Shangai (F)
+1942	Camisola Dragão (F)
+1943	Camisola Dragão Negro (F)
+1944	Camisola Dragão Azul (F)
+1945	Camisola Dragão Rosa (F)
+1946	Camisola Noite Diabólica (F)
+1947	Casaco da geração imatura
+1948	Roupa colante de Kill Bill
+1949	Blusa de Viagem (F)
+1950	Blusa do Rodolfo (F)
+1951	Blusa do Boneco de Neve (F)
+1952	Blusa da Sra. Polar (F)
+1953	Blusa do Papai Noel (F)
+1954	Traje feminino superior de moda comum 005A
+1955	Vestido branco do amado
+1956	Tentação de Eva
+1957	Traje feminino superior cor de pêssego romântico
+1958	Biquíni Girassol
+1959	Biquíni Descolado
+1960	Biquíni de Estilo Chinês
+1961	Biquíni Atraente
+1962	Biquíni Arco-Íris
+1963	Biquíni Brisa do Mar
+1964	Biquíni Charmoso
+1965	Biquíni Fofo
+1966	Girassol Rosa
+1967	Girassol Laranja
+1968	Traje feminino superior da fada da flor do amor de verão
+1969	Traje Pink Skull
+1970	Vestimenta de panda mecânico
+1971	Me chame de Grande Rainha
+1972	Traje feminino superior de moda comum 007B
+1973	Traje feminino superior de moda comum 007C
+1974	Biquíni Romano
+1975	Traje Fashion
+1976	Roupa da Orquestra da Fantasia Mágica
+1977	Traje Americano
+1978	Roupa da Imperatriz do Pêssego Dourado
+1979	Roupa da Imperatriz do Coração Azul
+1980	Roupa da Imperatriz do Coração Vermelho
+1981	Roupa da Imperatriz Rosa
+1982	Vestimenta feminina de Feliz Natal
+1983	Vestido longo de noite de Feliz Ano Novo Chinês
+1984	Vestido longo de noite para dança enérgica de aniversário
+1985	Vestido Gótico
+1986	Vestido rosa longo de princesa
+1987	Vestido cor de pêssego longo de princesa
+1988	Vestido longo do charme sereno de princesa
+1989	Margarete · Sangrenta
+1990	Sweet Love
+1991	Uniforme da súdita
+1992	Traje feminino superior de moda comum 017B
+1993	Cativo da Moça
+1994	Traje feminino superior de moda comum 017D
+1995	Roupa de couro do caçador de espíritos
+1996	Traje feminino Punk Carmesim
+1997	Traje feminino Rock'n'Roll
+1998	Roupa de banho fresca de verão
+1999	Casaco da ordem da cavalaria da glória estelar
+2000	Casaco de Chama Relâmpago
+2001	Uniforme militar do exército do céu
+2002	Traje feminino do Exército Escarlate
+2003	Traje feminino do Exército Jadeite
+2004	Dançarina · Soprando a Neve
+2005	Traje superior Bill escarlate
+2006	Traje superior do Caçador de recompensas vermelho sangue
+2007	Traje superior do Caçador de recompensas charme pacífico
+2008	Traje superior de asas do Caçador de recompensas cortina da noite
+2009	Traje superior de asas do Caçador de recompensas vermelho sangue
+2010	Casaco da glória do Santuário
+2011	Traje superior de rap softcore
+2012	Vestido da Neve Natalina
+2013	Vestido longo de lótus vermelha afortunada
+2014	Traje feminino superior de colegial de sangue quente
+2015	Traje superior feminino do Exército de pele vermelha
+2016	Traje superior da Era do giro do miado
+2017	Traje superior de asas da Paz Eterna
+2018	Traje feminino superior de flores que voam comigo
+2019	Traje feminino superior de beisebol da dança instantânea
+2020	Traje superior feminino charmoso de couro
+2021	Traje feminino superior de chá vermelho da carroça da floresta roxa
+2022	Traje feminino superior da luz do luar prateado
+2023	Traje feminino superior da Praia da Mary
+2024	Traje feminino superior da bênção de Hashima
+2025	Traje superior feminino de detetive de raios de sol
+2026	Traje feminino superior do chá da tarde de Caber
+2027	Traje superior feminino do chá de bolhas com leite
+2028	Traje feminino superior do trevo do eco confuso
+2029	Traje superior feminino grosso de afeição profunda
+2030	Traje superior feminino amizade eterna
+2031	Traje superior feminino da graça da capital
+2032	Traje superior feminino de Causeway Bay
+2033	Traje superior feminino elfa das neves
+2034	Traje superior feminino da sorte geral
+2035	Traje superior feminino de hip-hop de rua
+2036	Traje superior feminino da boa sorte
+2037	Traje superior feminino da nobreza do castelo
+2038	Traje superior feminino ataque do gigante
+2039	Tutancâmon · Traje superior feminino do trono
+2040	Tutancâmon · Traje superior feminino amaldiçoado
+2041	Tutancâmon · Traje superior feminino máscara
+2042	Tutancâmon · Traje superior feminino cetro
+2043	Traje superior feminino a história de uma verdadeira quadrilha
+2044	Traje superior feminino assassina ninja
+2045	Traje superior feminino assassina ninja
+2046	Traje superior feminino Piratas do Caribe
+2047	Traje superior feminino patinho de borracha
+2048	Traje superior feminino praia havaiana
+2049	Traje superior feminino pra siciliana
+2050	Traje superior feminino praia de Bali
+2051	Traje superior feminino praia mexicana
+2052	Traje superior feminino Paraíso da infância
+2053	Traje superior feminino Lua e Estrelas
+2054	Traje superior feminino GTO
+2055	Traje superior feminino da capitã
+2056	Traje superior feminino Dia das Bruxas
+2057	Vestido Much Doge (F)
+2058	Vestido de Maiden Café (F)
+2059	Traje Gado D+ (F)
+2060	Vestido Rockstar (F)
+2061	Blusa Heroína do Beisebol
+2062	Traje da Guerreira
+2063	Blusa Piu (F)
+2064	Terno Cisne Negro (M)
+2065	Traje de Boneco de Neve (M)
+2066	Traje Edelweiss (M)
+2067	Traje da Realeza (M)
+2068	Traje Europeu (M)
+2069	Traje de Jamiel (M)
+2070	Traje Amor Perfeito (M)
+2071	Traje da Noite Dançante (M)
+2072	Traje Shallot (M)
+2073	Ataduras [Corpo] (M)
+2074	Traje de Verão (M)
+2075	Armadura Último Samurai
+2076	Casaco do capitão do barco Pérola Negra
+2077	Casaco Deslumbrante de Toureiro
+2078	Traje superior de asas de tatuagem maligna
+2079	Traje Camomiose (M)
+2080	Traje superior da Ordem da Cavalaria dos Espíritos Celestiais
+2081	Camisa dos Shangai (M)
+2082	Traje superior de asa do Espírito da Explosão
+2083	Tatuagem de Explosão
+2084	Traje superior de asa da tatuagem de explosão
+2085	Traje superior de asa do amor à temporada de neve
+2086	Sobretudo do Dragão (M)
+2087	Sobretudo do Dragão Negro (M)
+2088	Sobretudo do Dragão Azul (M)
+2089	Sobretudo do Dragão Rosa (M)
+2090	Camisa da Noite Diabólica (M)
+2091	Blusão de Viagem (M)
+2092	Camisa do Papai Noel (M)
+2093	Camisa do Boneco de Neve (M)
+2094	Camisa do Sr. Polar (M)
+2095	Camisa do Rodolfo (M)
+2096	Traje de Gatinho
+2097	Traje de Leopardo
+2098	Traje Doraemiau (M)
+2099	Traje Black Skull
+2100	Vestimenta de Panda fora de controle
+2101	Avental Rosa
+2102	Avental Azul
+2103	Avental Verde
+2104	Avental Roxo
+2105	Vestimenta feminina de Feliz Natal
+2106	Roupa bordada velha, mas bonita
+2107	Roupa bordada de festa de aniversário
+2108	Corset do cair da noite
+2109	Vestido longo de Cavaleiro da Noite
+2110	Vestido longo de Cavaleiro Vampiro
+2111	Vestido longo de Cavaleiro das Sombras
+2112	Vampiro · Alucard
+2113	Smart Candy
+2114	Vestido longo de empregada
+2115	Traje masculino superior de Moda Comum 017B
+2116	Traje masculino superior de Moda Comum 017C
+2117	Roupa formal da braçadeira vermelha
+2118	Traje de couro do Espírito da Explosão
+2119	Traje masculino Punk Carmesim
+2120	Traje masculino Rock'n'Roll
+2121	Casaco do valente do verão
+2122	Casaco da Rrdem da cavalaria dos Espíritos Celestiais
+2123	Casaco do ataque da tempestade violenta
+2124	Uniforme militar do exército demoníaco da noite
+2125	Traje masculino do Exército Escarlate
+2126	Traje masculino do Exército Azul Celeste
+2127	Névoa dos Segredos · Muramasa
+2128	Traje superior do dragão escarlate feroz
+2129	Traje superior do Caçador de recompensas cortina da noite
+2130	Traje superior do Caçador de recompensas escuridão da noite
+2131	Traje superior de asas do Caçador de recompensas cortina da noite
+2132	Traje superior de asas do Caçador de recompensas vermelho sangue
+2133	Jaqueta magnífica do Santuário
+2134	Traje superior do rap hardcore
+2135	Casaco do Jantar Natalino
+2136	Vestido longo de Nuvens Mágicas da Felicidade
+2137	Traje masculino superior de colegial de sangue quente
+2138	Traje superior masculino do Exército de pele vermelha
+2139	Traje superior da batida do café do miado
+2140	Traje superior de asa dos Anos Turbulentos
+2141	Traje superior masculino do mar sempre vasto e azul
+2142	Traje superior masculino de beisebol do tornado relâmpago
+2143	Traja superior masculino descolado de couro
+2144	Traje masculino superior do chá da noite do castelo antigo da rosa roxa
+2145	Traje superior masculino com decoração de sol dourado
+2146	Traja masculino superior de Trigo do Surf
+2147	Traje masculino superior do presente de Hashima
+2148	Traje superior masculino de detetive de raios de sol
+2149	Traje superior masculino de cowboy de Caber
+2150	Traje superior masculino do chá de bolhas com leite
+2151	Traje masculino superior da Montanha das Chamas da lenda do eco confuso
+2152	Traje superior masculino devoção mútua
+2153	Traje superior masculino do apaixonado
+2154	Traje superior masculino mar do vento negro
+2155	Traje superior masculino de Causeway Bay
+2156	Traje superior masculino pastor glorioso
+2157	Traje superior masculino da riqueza e da fama
+2158	Traje superior masculino de hip-hop de rua
+2159	Traje superior masculino de todas as bênçãos
+2160	Traje superior masculino da nobreza do castelo
+2161	Traje superior masculino ataque do gigante
+2162	Anúbis · Traje superior masculino do Poder
+2163	Anúbis · Traje superior masculino do Código
+2164	Anúbis · Traje superior masculino Balança
+2165	Anúbis · Traje superior masculino do fogo celeste
+2166	Traje superior masculino a história de uma verdadeira quadrilha
+2167	Traje superior masculino assassina ninja
+2168	Traje superior masculino assassina ninja
+2169	Traje superior masculino Piratas do Caribe
+2170	Traje superior masculino patinho de borracha
+2171	Traje superior masculino praia havaiana
+2172	Traje superior masculino praia de Bali
+2173	Traje superior masculino praia mexicana
+2174	Traje superior masculino praia siciliana
+2175	Traje superior masculino Paraíso da infância
+2176	Traje superior masculino Lua e Estrelas
+2177	Traje superior masculino estudante afiado
+2178	Traje superior masculino do capitão
+2179	Traje superior masculino Barão do Dia das Bruxa
+2180	Camiseta Much Doge (M)
+2181	Jaqueta do Mordomo (M)
+2182	Traje Gado D+ (M)
+2183	Jaqueta Rockstar (M)
+2184	Camiseta Heroí do Beisebol (M)
+2185	Jaqueta da escola do Santuário
+2186	Roupa colante da Travessia do Rio do Dragão Feroz
+2187	Traje do Guerreiro
+2188	Camiseta Piu (M)
+2189	Óculos Charmoso
+2190	Óculos Elegante
+2191	Óculos Atraente
+2192	Óculos escuros do fantasma roxo
+2193	Óculos escuros do fantasma vermelho
+2194	Óculos Encantador
+2195	Traje superior masculino GTO
+2196	Máscara Noturna (F)
+2197	Óculos de sol da brisa do mar branco
+2198	Óculos de Sol Básico
+2199	Óculos Vermelho
+2200	Óculos de Sol Coral
+2201	Óculos de Sol Roxo
+2202	Óculos escuros do fantasma roxo
+2203	Atadura
+2204	Atadura
+2205	Óculos masculino estudante afiado
+2206	Máscara Noturna (M)
+2207	Sapatos Lago dos Cisne (F)
+2208	Sapato de Boneco de Neve (F)
+2209	Sapato Edelweiss (F)
+2210	Sapato da Realeza (F)
+2211	Sapato Oriental (F)
+2212	Sapato de Jamiel (F)
+2213	Sapato Amor Perfeito (F)
+2214	Sapato da Noite Dançante (F)
+2215	Sapato Shallot (F)
+2216	Ataduras [Pernas] (F)
+2217	Sapato de Verão (F)
+2218	Sandálias da dignidade do Samurai
+2219	Bota repleta de pérolas negras
+2220	Sapato de salto alto de Flamenco
+2221	Sapato Camomiose (F)
+2222	Botas Shangai (F)
+2223	Sapatos do Dragão (F)
+2224	Sapatos do Dragão Negro (F)
+2225	Sapatos do Dragão Azul (F)
+2226	Sapatos do Dragão Rosa (F)
+2227	Sapato da Noite Diabólica (F)
+2228	Sapato de couro da geração imatura
+2229	Sapato Kill Bill
+2230	Sapatos do Dragão (F)
+2231	Sapatos do Dragão Negro (F)
+2232	Sapatos do Dragão Azul (F)
+2233	Sapatos do Dragão Rosa (F)
+2234	Encanto Maduro (amarelo)
+2235	Encanto Maduro (azul)
+2236	Encanto Maduro (branco)
+2237	Encanto Maduro (preto)
+2238	Botas de Ratinha
+2239	Botas de Onça
+2240	Botas Doraemiau (F)
+2241	Tênis Colorido
+2242	Tênis Simples
+2243	Tênis Extravagante
+2244	Sapato feminino de moda comum 003D
+2245	Sapato feminino de moda comum 003E
+2246	Sapato feminino de moda comum 003D
+2247	Sapato seção feminina de ode ao vento do outono
+2248	Botas Vênus (F)
+2249	Sapato feminino de moda comum 005A
+2250	Sapato feminino branco do amado
+2251	Meia de Seda de Eva
+2252	Sapato feminino cor de pêssego romântico
+2253	Sandálias Girassol
+2254	Sandálias Descoladas
+2255	Sandálias de Estilo Chinês
+2256	Sandálias Atraentes
+2257	Sandálias Arco-Íris
+2258	Sandálias Brisa do Mar
+2259	Sandálias Charmosas
+2260	Sandálias Fofas
+2261	Sapato de Girassol Rosa
+2262	Sapatos Girassol Laranja
+2263	Sapato feminino da fada da flor do amor de verão
+2264	Botas Pink Skull
+2265	Sapato de Panda Mecânico
+2266	Sapato de couro da Grande Rainha
+2267	Sapato feminino de moda comum 007A
+2268	Sapato feminino de moda comum 007C
+2269	Galochas do Amor
+2270	Sapato Feminino do Amor à Temporada de Neve
+2271	Sapato Feminino da Fantasia de Conto de Fadas
+2272	Botas Fashion
+2273	Bota de Cano Curto da Orquestra Mágica
+2274	Botas Americanas (F)
+2275	Bota da Imperatriz do Pêssego Dourado
+2276	Bota Imperatriz do Coração Azul
+2277	Bota da Imperatriz do Coração Vermelho
+2278	Bota Imperatriz do Coração Rosa
+2279	Sapato Feminino de Feliz Natal
+2280	Galocha de Feliz Ano Novo Chinês
+2281	Galocha para dança enérgica de aniversário
+2282	Bota rosa de princesa
+2283	Bota  cor de pêssego de princesa
+2284	Bota do charme sereno de princesa
+2285	Bota da Margarete
+2286	Bota Sweet Love
+2287	Sapato de salto alto da Súdita
+2288	Sapato feminino de moda comum 017A
+2289	Sapato de Cativo da Moça
+2290	Sapato feminino superior de moda comum 017D
+2291	Sapato de couro do caçador de espíritos
+2292	Sapato Feminino Punk Carmesim
+2293	Sapato Feminino Rock'n'Roll Rosa
+2294	Sandálias de Verão
+2295	Sapato da ordem da cavalaria da glória estelar
+2296	Sapato de Chama Relâmpago
+2297	Bota militar do exército do céu
+2298	Sapato Feminino do Exército Escarlate
+2299	Sapato Feminino militar do exército de Jadeite
+2300	Sapato da Dançarina
+2301	Sapato Bill escarlate
+2302	Sapato do Caçador de Recompensas vermelho sangue
+2303	sapatos de fantasmas caçador de recompensas do sexo feminino
+2304	Sapato de Glória Santuário
+2305	Sapato de Rap Softcore
+2306	Sapato da Neve Natalina
+2307	Sapato de Lótus Vermelha Afortunada
+2308	Sapato Feminino de Colegial de Sangue Quente
+2309	Sapato feminino do Exército de pele vermelha
+2310	Sapato da Era do Giro do Miado
+2311	Sapato do Rio Comprido Calmo
+2312	Eu voar um total de calçado feminino
+2313	Sapato Feminino de Beisebol da Dança Instantânea
+2314	Sapato feminino charmoso de couro
+2315	Sapato Feminino de Chá Vermelho da Carroça da Floresta Roxa
+2316	Sapato Feminino da Luz do Luar Prateado
+2317	Sapatos de Viagem (F)
+2318	Sapato Feminino da Praia da Mary
+2319	Sapato Feminino da Bênção de Hashima
+2320	Sapato feminino de detetive de raios de sol
+2321	Sapato Feminino do Chá da Tarde de Caber
+2322	Sapato Feminino do Chá de Bolhas com Leite
+2323	Sapato Feminino do Trevo do Eco Confuso
+2324	Sapato feminino grosso de afeição profunda
+2325	Sapato feminino da graça da capital
+2326	Sapato feminino de Causeway Bay
+2327	Sapato feminino elfa das neves
+2328	Sapato feminino da sorte geral
+2329	Sapato feminino de hip-hop de rua
+2330	Sapato feminino da boa sorte
+2331	Sapato feminino da nobreza do castelo
+2332	Sapato feminino ataque do gigante
+2333	Tutancâmon · Sapato feminino do trono
+2334	Tutancâmon · Sapato feminino amaldiçoado
+2335	Tutancâmon · Sapato feminino máscara
+2336	Tutancâmon · Sapato feminino cetro
+2337	Sapato feminino a história de uma verdadeira quadrilha
+2338	Sapato feminino assassina ninja
+2339	Sapatos de Maiden Café (F)
+2340	Sapato feminino Piratas do Caribe
+2341	Sapato feminino patinho de borracha
+2342	Sapato feminino praia havaiana
+2343	Sapato feminino praia siciliana
+2344	Sapato feminino praia de Bali
+2345	Sapato feminino praia mexicana
+2346	Sapato feminino Paraíso da infância
+2347	Sapato feminino Lua e Estrelas
+2348	Sapato masculino GTO
+2349	Sapato feminino da capitã
+2350	Sapato feminino Dia das Bruxas
+2351	Sapatos Much Doge (F)
+2352	Botas Gado D+
+2353	Sapatos Rockstar (F)
+2354	Sapatos Heroína do Beisebol (F)
+2355	Sapato Feminino do Fantasma da Dança Flutuante
+2356	Salto Alto do Cair da Noite
+2357	Sapato da Guerreira
+2358	Sapatos Piu (F)
+2359	Botas do Lago do Cisnes (M)
+2360	Sapato de Boneco de Neve (M)
+2361	Sapato Edelweiss (M)
+2362	Sapato da Realeza (M)
+2363	Sapato Oriental (M)
+2364	Sapato de Jamiel (M)
+2365	Sapato Amor Perfeito (M)
+2366	Sapato da Noite Dançante (M)
+2367	Sapato Shallot (M)
+2368	Ataduras [Pernas] (M)
+2369	Sapato de Verão (M)
+2370	Sapato de Último Samurai
+2371	Sapato do Capitão do Barco Pérola Negra
+2372	Sapato Deslumbrante de Toureiro
+2373	Sapato Camomiose (M)
+2374	Botas Shanghai
+2375	Tamanco Explosivo
+2376	Tamanco Resistente
+2377	Botas do Dragão (M)
+2378	Botas do Dragão Negro (M)
+2379	Botas do Dragão Azul (M)
+2380	Botas do Dragão Rosa (M)
+2381	Botas da Noite Diabólica (M)
+2382	Botas do Papai Noel (M)
+2383	Botas do Boneco de Neve (M)
+2384	Botas do Sr. Polar (M)
+2385	Botas do Rodolfo (M)
+2386	Entusiamo (Vermelho)
+2387	Tênis Azul
+2388	Tênis Roxo
+2389	Tênis Verde
+2390	Botas de Gatinho
+2391	Botas de Leopardo
+2392	Botas Doraemiau (M)
+2393	Tênis Colorido
+2394	Tênis Simples
+2395	Tênis Extravagante
+2396	Sapato Masculino de Moda Comum 003D
+2397	Sapato Masculino de Moda Comum 003E
+2398	Sapato Masculino de Moda Comum 003F
+2399	Sapato Masculino de Ode ao Vento do Outono
+2400	Botas Vênus (M)
+2401	Sandálias Azul Marinho da Brisa do Mar
+2402	Sandálias da Brisa Marinha Ardente
+2403	Chinelos Brisa do Mar
+2404	Botas Black Skull
+2405	Sapato de Panda Fora de Controle
+2406	Sapato Masculino do Vaidoso de Cerejeira
+2407	Sapato Masculino do Amor à Temporada de Neve
+2408	Sapato Masculino da Fantasia de Conto de Fadas
+2409	Sapato Masculino do Duque da Flor do Amor de Verão
+2410	Tamanco de Madeira Fora de Controle
+2411	Botas Country
+2412	Bota de Cano Curto do Caubói Mágico
+2413	Botas Americanas (M)
+2414	Meia Longa Cinza
+2415	Meia Longa Rosa
+2416	Meia Longa Vermelha
+2417	Meia Longa Verde
+2418	Sapato Masculino de Feliz Natal
+2419	Bota velha, mas bonita
+2420	Bota do Cair da Noite
+2421	Sapato de Cavaleiro da Noite
+2422	Sapato de Cavaleiro Vampiro
+2423	Sapato de Cavaleiro das Sombras
+2424	Bota de Alucard
+2425	Sapato Smart Candy
+2426	Sapato de Couro de Empregada
+2427	Sapato Masculino de Moda Comum 017B
+2428	Sapato Masculino de Moda Comum 017C
+2429	Sapato Masculino da Braçadeira Vermelha
+2430	Sapato de Couro do Espírito da Explosão
+2431	Sapato Masculino Punk Carmesim
+2432	Sapato Masculino Rock'n'Roll Rosa
+2433	Sapato do Valente do Verão
+2434	Sapato da Ordem da Cavalaria dos Espíritos Celestiais
+2435	Sapato do Ataque da Tempestade Violenta
+2436	Sapato Masculino do Exército Demoníaco da Noite
+2437	Sapato Masculino do Exército Escarlate
+2438	Sapato Masculino do Exército Azul Celeste
+2439	Bota de Cano Curto da Névoa dos Segredos
+2440	Sapato do Dragão Feroz Escarlate
+2441	Sapato do Caçador de Recompensas da Cortina da Noite
+2442	Sapato do Caçador de Recompensas da Escuridão da Noite
+2443	Sapato da Glória do Santuário
+2444	Sapato do Rap Hardcore
+2445	Sapato do Jantar Natalino
+2446	Sapato de Nuvens Mágicas da Felicidade
+2447	Sapato Masculino de Colegial de Sangue Quente
+2448	Sapato masculino do Exército de pele vermelha
+2449	Sapato da Batida do Café do Miado
+2450	Sapato dos Anos Turbulentos
+2451	Sapato Masculino do Mar Sempre Vasto e Azul
+2452	Sapato Masculino de Beisebol do Tornado Relâmpago
+2453	Sapato masculino descolado de couro
+2454	Sapato Masculino do Chá da Noite do Castelo Antigo da Rosa Roxa
+2455	Sapato Masculino com Decoração de Sol Dourado
+2456	Botas de Viagem (M)
+2457	Sapato Masculino de Trigo do Surf
+2458	Sapato Masculino do Presente de Hashima
+2459	Sapato masculino de detetive de raios de sol
+2460	Sapato Masculino de Cowboy de Caber
+2461	Sapato Masculino do Chá de Bolhas com Leite
+2462	Sapato Masculino da Montanha das Chamas da Lenda do Eco Confuso
+2463	Sapato masculino devoção mútua
+2464	Sapato masculino mar do vento negro
+2465	Sapato masculino de Causeway Bay
+2466	Sapato masculino pastor glorioso
+2467	Sapato masculino da riqueza e da fama
+2468	Sapato masculino de hip-hop de rua
+2469	Sapato masculino de todas as bênçãos
+2470	Sapato masculino da nobreza do castelo
+2471	Sapato masculino ataque do gigante
+2472	Anúbis · Sapato masculino do Poder
+2473	Anúbis · Sapato masculino do Código
+2474	Anúbis · Sapato masculino Balança
+2475	Anúbis · Sapato masculino do fogo celeste
+2476	Sapato masculino a história de uma verdadeira quadrilha
+2477	Sapato masculino assassino ninja
+2478	Botas de Mordomo (M)
+2479	Sapato masculino Piratas do Caribe
+2480	Sapato masculino patinho de borracha
+2481	Sapato masculino praia havaiana
+2482	Sapato masculino praia de Bali
+2483	Sapato masculino praia mexicana
+2484	Sapato masculino praia siciliana
+2485	Sapa masculino Paraíso da infância
+2486	Sapato masculino Lua e Estrelas
+2487	Sapato masculino estudante afiado
+2488	Sapato masculino do capitão
+2489	Sapato masculino Barão do Dia das Bruxa
+2490	Botas Much Doge (M)
+2491	Botas Gado D+ (M)
+2492	Botas Rockstar (M)
+2493	Botas do Herói do Beisebol (M)
+2494	Sapato Masculino do Fantasma da Dança Flutuante
+2495	Bota de Festa de Aniversário
+2496	Sapato de Couro da Escola do Santuário
+2497	Sapato da Travessia do Rio do Dragão Feroz
+2498	Sapato do Guerreiro
+2499	Botas Piu (M)
+2500	Traje Doraemiau (F)
+2501	Traje de Ratinha
+2502	Traje de Onça
+2503	Meia Doraemiau
+2504	Meia de Ratinha
+2505	Meia de Onça
+2506	Chapéu Doraemiau (F)
+2507	Chapéu de Ratinha
+2508	Chapéu de Onça
+2509	Luva Doraemiau (F)
+2510	Luva de Ratinha
+2511	Luva de Onça
+2512	Botas Doraemiau (F)
+2513	Botas de Ratinha
+2514	Botas de Onça
+2515	Atributo do Traje Teste1
+2516	Teste de propriedade de moda 2
+2517	Teste de Cabeça
+2518	Teste de Cabeça 2
+2519	Traje Inferior de Herança
+2520	Calças de Susanowo
+2521	Calças de Moiras
+2522	Calças de Polaris
+2523	Calças de Teseu
+2524	Calças do Marechal
+2525	Calças do Soberano
+2526	Calças de Heitor
+2527	Calças do Novato
+2528	Calças do Recruta
+2529	Calças do Soldado
+2530	Calças da Guarda
+2531	Calças do Gladiador
+2532	Calças de Tribuno
+2533	Calças da Ruína
+2534	Calças do Desafiante
+2535	Calças do Herói
+2536	Calças do Recruta
+2537	Calças do Recruta
+2538	Calças do Soldado
+2539	Calças do Gladiador
+2540	Calças do Gladiador
+2541	Calças de Tribuno
+2542	Calças da Ruína
+2543	Calças de Aquiles
+2544	Bota de guerra do renascimento de Brontes
+2545	Bota de guerra do renascimento de Brontes
+2546	Calças do Marechal
+2547	Trajes de luta do Dragão de Duas Cabeças
+2548	Trajes de luta de espada do teste de Shura
+2549	Roupa de baixo de Kanon
+2550	Calça forjada de relâmpago de Thor
+2551	Calça de supervisão de Dohko
+2552	Calças de Aquiles
+2553	Bota de guerra do renascimento de Brontes
+2554	Calças do Desafiante
+2555	Calças do Herói
+2556	Calças de Talos
+2557	Calças de Talos
+2558	Calças de Talos
+2559	Calças de Talos
+2560	Calças do Marechal
+2561	Calças do Marechal
+2562	Calças do Marechal
+2563	Calças do Marechal
+2564	Calças do Marechal
+2565	Calças do Marechal
+2566	Calças do Soberano
+2567	Calças do Soberano
+2568	Calças do Soberano
+2569	Calças do Soberano
+2570	Calças do Soberano
+2571	Calças do Soberano
+2572	Calças de Heitor
+2573	Calças de Heitor
+2574	Calças de Heitor
+2575	Calças de Heitor
+2576	Calças de Heitor
+2577	Calças de Heitor
+2578	Calças de Hermes
+2579	Calças de Hermes
+2580	Calças de Hermes
+2581	Calças de Hermes
+2582	Calças de Hermes
+2583	Calças de Hermes
+2584	Calças de Partenopeus
+2585	Calças de Partenopeus
+2586	Calças de Partenopeus
+2587	Calças de Partenopeus
+2588	Calças de Partenopeus
+2589	Calças de Partenopeus
+2590	Próximo roupas Geral _15 _ Ordem de Orange
+2591	Traje Inferior_Comum_Categoria 15_Branco
+2592	Traje Inferior_Comum_Categoria 15_Roxo
+2593	Traje Inferior_Comum_Categoria 15_Verde
+2594	Traje Inferior_Comum_Categoria 15_Azul
+2595	Traje Inferior_Comum_Categoria 15_Dourado
+2596	Traje Inferior_Comum_Categoria 16_Laranja
+2597	Traje Inferior_Comum_Categoria 16_Branco
+2598	Traje Inferior_Comum_Categoria 16_Roxo
+2599	Traje Inferior_Comum_Categoria 16_Verde
+2600	Traje Inferior_Comum_Categoria 16_Azul
+2601	Traje Inferior_Comum_Categoria 16_Dourado
+2602	Traje Inferior_Comum_Categoria 17_Laranja
+2603	Traje Inferior_Comum_Categoria 17_Branco
+2604	Traje Inferior_Comum_Categoria 17_Roxo
+2605	Traje Inferior_Comum_Categoria 17_Verde
+2606	Traje Inferior_Comum_Categoria 17_Azul
+2607	Traje Inferior_Comum_Categoria 17_Dourado
+2608	Traje Inferior_Comum_Categoria 18_Laranja
+2609	Traje Inferior_Comum_Categoria 18_Branco
+2610	Traje Inferior_Comum_Categoria 18_Roxo
+2611	Traje Inferior_Comum_Categoria 18_Verde
+2612	Traje Inferior_Comum_Categoria 18_Azul
+2613	Traje Inferior_Comum_Categoria 18_Dourado
+2614	Traje Inferior_Comum_Categoria 19_Laranja
+2615	Traje Inferior_Comum_Categoria 19_Branco
+2616	Traje Inferior_Comum_Categoria 19_Roxo
+2617	Traje Inferior_Comum_Categoria 19_Verde
+2618	Traje Inferior_Comum_Categoria 19_Azul
+2619	Traje Inferior_Comum_Categoria 19_Dourado
+2620	Calças do Novato
+2621	Calças do Novato
+2622	Calças do Novato
+2623	Calças do Novato
+2624	Calças do Novato
+2625	Calças do Novato
+2626	Traje Inferior_Comum_Categoria 20_Laranja
+2627	Traje Inferior_Comum_Categoria 20_Branco
+2628	Traje Inferior_Comum_Categoria 20_Roxo
+2629	Traje Inferior_Comum_Categoria 20_Verde
+2630	Traje Inferior_Comum_Categoria 20_Azul
+2631	Traje Inferior_Comum_Categoria 20_Dourado
+2632	Calças do Recruta
+2633	Calças do Recruta
+2634	Calças do Recruta
+2635	Calças do Recruta
+2636	Calças do Recruta
+2637	Calças do Recruta
+2638	Calças do Soldado
+2639	Calças do Soldado
+2640	Calças do Soldado
+2641	Calças do Soldado
+2642	Calças do Soldado
+2643	Calças do Soldado
+2644	Calças da Guarda
+2645	Calças da Guarda
+2646	Calças da Guarda
+2647	Calças da Guarda
+2648	Calças da Guarda
+2649	Calças da Guarda
+2650	Calças do Gladiador
+2651	Calças do Gladiador
+2652	Calças do Gladiador
+2653	Calças do Gladiador
+2654	Calças do Gladiador
+2655	Calças do Gladiador
+2656	Calças de Tribuno
+2657	Calças de Tribuno
+2658	Calças de Tribuno
+2659	Calças de Tribuno
+2660	Calças de Tribuno
+2661	Calças de Tribuno
+2662	Calças da Ruína
+2663	Calças da Ruína
+2664	Calças da Ruína
+2665	Calças da Ruína
+2666	Calças da Ruína
+2667	Calças da Ruína
+2668	Calças do Desafiante
+2669	Calças do Desafiante
+2670	Calças do Desafiante
+2671	Calças do Desafiante
+2672	Calças do Desafiante
+2673	Calças do Desafiante
+2674	Calças do Herói
+2675	Calças do Herói
+2676	Calças do Herói
+2677	Calças do Herói
+2678	Calças do Herói
+2679	Calças do Herói
+2680	Teste de equipamento 5
+2681	Bandana de Herança
+2682	Bandana de Campeão
+2683	Bandana de Buda
+2684	Faixa de Cabelo de Esparta
+2685	Bandana de Sereia
+2686	Bandana de Uller
+2687	Bandana do Marechal
+2688	Bandana do Soberano
+2689	Bandana de Atlas
+2690	Bandana do Novato
+2691	Bandana do Recruta
+2692	Bandana do Soldado
+2693	Bandana da Guarda
+2694	Bandana do Gladiador
+2695	Bandana de Tribuno
+2696	Bandana da Ruína
+2697	Bandana do Desafiante
+2698	Bandana do Herói
+2699	Bandana da nova tropa de heróis
+2700	Bandana do Recruta
+2701	Bandana da Guarda
+2702	Bandana do Gladiador
+2703	Cinto de Elixir do Mestre
+2704	Cinto felpudo de leão de Hércules
+2705	Coroa do brado de Esterópes
+2706	Coroa do brado de Esterópes
+2707	Bandana do Marechal
+2708	Elmo das Valquírias
+2709	Cinto de rosas de Afrodite
+2710	Faixa de Mu
+2711	Faixa para selar ânfora Divina
+2712	Faixa do Deus do Assassínio de Rodório
+2713	Cinto felpudo de leão de Hércules
+2714	Coroa do brado de Esterópes
+2715	Bandana do Desafiante
+2716	Bandana do Herói
+2717	Coroa de Talos
+2718	Coroa de Talos
+2719	Coroa de Talos
+2720	Coroa de Talos
+2721	GM50W Defesa
+2722	gm50w Defesa 1
+2723	Bandana do Novato
+2724	Bandana do Marechal
+2725	Bandana do Marechal
+2726	Bandana do Marechal
+2727	Bandana do Marechal
+2728	Bandana do Marechal
+2729	Bandana do Marechal
+2730	Bandana do Soberano
+2731	Bandana do Soberano
+2732	Bandana do Soberano
+2733	Bandana do Soberano
+2734	Bandana do Soberano
+2735	Bandana do Soberano
+2736	Bandana de Atlas
+2737	Bandana de Atlas
+2738	Bandana de Atlas
+2739	Bandana de Atlas
+2740	Bandana de Atlas
+2741	Bandana de Atlas
+2742	Bandana de Hércules
+2743	Bandana de Hércules
+2744	Bandana de Hércules
+2745	Bandana de Hércules
+2746	Bandana de Hércules
+2747	Bandana de Hércules
+2748	Bandana de Capaneus
+2749	Bandana de Capaneus
+2750	Bandana de Capaneus
+2751	Bandana de Capaneus
+2752	Bandana de Capaneus
+2753	Bandana de Capaneus
+2754	Bandana_Comum_Categoria 15_Laranja
+2755	Bandana_Comum_Categoria 15_Branca
+2756	Bandana_Comum_Categoria 15_Roxa
+2757	Bandana_Comum_Categoria 15_Verde
+2758	Bandana_Comum_Categoria 15_Azul
+2759	Bandana_Comum_Categoria 15_Dourada
+2760	Bandana_Comum_Categoria 16_Laranja
+2761	Bandana_Comum_Categoria 16_Branca
+2762	Bandana_Comum_Categoria 16_Roxa
+2763	Bandana_Comum_Categoria 16_Verde
+2764	Bandana_Comum_Categoria 16_Azul
+2765	Bandana_Comum_Categoria 16_Dourada
+2766	Bandana_Comum_Categoria 17_Laranja
+2767	Bandana_Comum_Categoria 17_Branca
+2768	Bandana_Comum_Categoria 17_Roxa
+2769	Bandana_Comum_Categoria 17_Verde
+2770	Bandana_Comum_Categoria 17_Azul
+2771	Bandana_Comum_Categoria 17_Dourada
+2772	Bandana_Comum_Categoria 18_Laranja
+2773	Bandana_Comum_Categoria 18_Branca
+2774	Bandana_Comum_Categoria 18_Roxa
+2775	Bandana_Comum_Categoria 18_Verde
+2776	Bandana_Comum_Categoria 18_Azul
+2777	Bandana_Comum_Categoria 18_Dourada
+2778	Bandana_Comum_Categoria 19_Laranja
+2779	Bandana_Comum_Categoria 19_Branca
+2780	Bandana_Comum_Categoria 19_Roxa
+2781	Bandana_Comum_Categoria 19_Verde
+2782	Bandana_Comum_Categoria 19_Azul
+2783	Bandana_Comum_Categoria 19_Dourada
+2784	Bandana do Novato
+2785	Bandana do Novato
+2786	Bandana do Novato
+2787	Bandana do Novato
+2788	Bandana do Novato
+2789	Bandana do Novato
+2790	Bandana_Comum_Categoria 20_Laranja
+2791	Bandana_Comum_Categoria 20_Branca
+2792	Bandana_Comum_Categoria 20_Roxa
+2793	Bandana_Comum_Categoria 20_Verde
+2794	Bandana_Comum_Categoria 20_Azul
+2795	Bandana_Comum_Categoria 20_Dourada
+2796	Bandana do Recruta
+2797	Bandana do Recruta
+2798	Bandana do Recruta
+2799	Bandana do Recruta
+2800	Bandana do Recruta
+2801	Bandana do Recruta
+2802	Bandana do Soldado
+2803	Bandana do Soldado
+2804	Bandana do Soldado
+2805	Bandana do Soldado
+2806	Bandana do Soldado
+2807	Bandana do Soldado
+2808	Bandana da Guarda
+2809	Bandana da Guarda
+2810	Bandana da Guarda
+2811	Bandana da Guarda
+2812	Bandana da Guarda
+2813	Bandana da Guarda
+2814	Bandana do Gladiador
+2815	Bandana do Gladiador
+2816	Bandana do Gladiador
+2817	Bandana do Gladiador
+2818	Bandana do Gladiador
+2819	Bandana do Gladiador
+2820	Bandana de Tribuno
+2821	Bandana de Tribuno
+2822	Bandana de Tribuno
+2823	Bandana de Tribuno
+2824	Bandana de Tribuno
+2825	Bandana de Tribuno
+2826	Bandana da Ruína
+2827	Bandana da Ruína
+2828	Bandana da Ruína
+2829	Bandana da Ruína
+2830	Bandana da Ruína
+2831	Bandana da Ruína
+2832	Bandana do Desafiante
+2833	Bandana do Desafiante
+2834	Bandana do Desafiante
+2835	Bandana do Desafiante
+2836	Bandana do Desafiante
+2837	Bandana do Desafiante
+2838	Bandana do Herói
+2839	Bandana do Herói
+2840	Bandana do Herói
+2841	Bandana do Herói
+2842	Bandana do Herói
+2843	Bandana do Herói
+2844	Teste de equipamento 2
+2845	Emblema da Vitória
+2846	Emblema da Conquista
+2847	Emblema da Justiça
+2848	Emblema do Destino
+2849	Emblema do Titã
+2850	Emblema do Olimpo
+2851	Emblema de Athena
+2852	Emblema da Terra_Comum_Categoria 17_Roxo
+2853	Emblema da Terra_Comum_Categoria 18_Roxo
+2854	Emblema da Terra_Comum_Categoria 19_Roxo
+2855	Emblema do Novato
+2856	Emblema da Terra_Comum_Categoria 20_Roxo
+2857	Emblema do Sacerdote
+2858	Emblema do Presbítero
+2859	Emblema do Bispo
+2860	Emblema do Centauro
+2861	Emblema de Águia
+2862	Emblema de Grif
+2863	Emblema de Medusa
+2864	Emblema de Hydra
+2865	Emblema da Vitória
+2866	Emblema da Conquista
+2867	Emblema da Justiça
+2868	Emblema do Destino
+2869	Emblema do Titã
+2870	Emblema do Olimpo
+2871	Emblema de Athena
+2872	Emblema da Água_Comum_Categoria 17_Roxo
+2873	Emblema da Água_Comum_Categoria 18_Roxo
+2874	Emblema da Água_Comum_Categoria 19_Roxo
+2875	Emblema do Novato
+2876	Emblema da Água_Comum_Categoria 20_Roxo
+2877	Emblema do Sacerdote
+2878	Emblema do Presbítero
+2879	Emblema do Bispo
+2880	Emblema do Centauro
+2881	Emblema de Águia
+2882	Emblema de Grif
+2883	Emblema de Medusa
+2884	Emblema de Hydra
+2885	Emblema da Vitória
+2886	Emblema da Conquista
+2887	Emblema da Justiça
+2888	Emblema do Destino
+2889	Emblema do Titã
+2890	Emblema do Olimpo
+2891	Emblema de Athena
+2892	Emblema do Fogo_Comum_Categoria 17_Roxo
+2893	Emblema do Fogo_Comum_Categoria 18_Roxo
+2894	Emblema do Fogo_Comum_Categoria 19_Roxo
+2895	Emblema do Novato
+2896	Emblema do Fogo_Comum_Categoria 20_Roxo
+2897	Emblema do Sacerdote
+2898	Emblema do Presbítero
+2899	Emblema do Bispo
+2900	Emblema do Centauro
+2901	Emblema de Águia
+2902	Emblema de Grif
+2903	Emblema de Medusa
+2904	Emblema de Hydra
+2905	Emblema da Vitória
+2906	Emblema da Conquista
+2907	Emblema da Justiça
+2908	Emblema do Destino
+2909	Emblema do Titã
+2910	Emblema do Olimpo
+2911	Emblema de Athena
+2912	Emblema do Trovão_Comum_Categoria 17_Roxo
+2913	Emblema do Trovão_Comum_Categoria 18_Roxo
+2914	Emblema do Trovão_Comum_Categoria 19_Roxo
+2915	Emblema do Novato
+2916	Emblema do Trovão_Comum_Categoria 20_Roxo
+2917	Emblema do Sacerdote
+2918	Emblema do Presbítero
+2919	Emblema do Bispo
+2920	Emblema do Centauro
+2921	Emblema de Águia
+2922	Emblema de Grif
+2923	Emblema de Medusa
+2924	Emblema de Hydra
+2925	Emblema da Vitória
+2926	Emblema da Conquista
+2927	Emblema da Justiça
+2928	Emblema do Destino
+2929	Emblema do Titã
+2930	Emblema do Olimpo
+2931	Emblema de Athena
+2932	Emblema do Ar_Comum_Categoria 17_Roxo
+2933	Emblema do Ar_Comum_Categoria 18_Roxo
+2934	Emblema do Ar_Comum_Categoria 19_Roxo
+2935	Emblema do Novato
+2936	Emblema do Ar_Comum_Categoria 20_Roxo
+2937	Emblema do Sacerdote
+2938	Emblema do Presbítero
+2939	Emblema do Bispo
+2940	Emblema do Centauro
+2941	Emblema de Águia
+2942	Emblema de Grif
+2943	Emblema de Medusa
+2944	Emblema de Hydra
+2945	Anel de Herança
+2946	Anel do Novato
+2947	Anel do Monge
+2948	Anel de Ferro
+2949	Anel Vermelho
+2950	Anel de Bronze
+2951	Anel de Aço
+2952	Anel de Prata
+2953	Anel de Ouro
+2954	Anel de Sagitário
+2955	Anel do Oceano
+2956	Anel Romano
+2957	Anel do Mestre
+2958	Joia da Jordânia
+2959	Anel de Nibelungo
+2960	Anel do Novato
+2961	Anel do Monge
+2962	Anel de Ferro
+2963	Anel Vermelho
+2964	Anel de Bronze
+2965	Anel de Aço
+2966	Anel de Prata
+2967	Anel de Ouro
+2968	Anel do Espírito Maligno da Floresta
+2969	Anel do Monge
+2970	Anel Vermelho
+2971	Anel de Bronze
+2972	Anel de Aço
+2973	Alquimista Senhor dos Anéis
+2974	Deus da Morte · Estrela do Afogamento
+2975	Estrela em Chamas de Argos
+2976	Estrela em Chamas de Argos
+2977	Anel do Mestre
+2978	Anel de Nibelungo
+2979	Anel Pacífico de Aldebaran
+2980	Anel de Jade de Aioros
+2981	Anel do Pilar da Vida
+2982	Anel do Extremo Respeito
+2983	Deus da Morte · Estrela do Afogamento
+2984	Estrela em Chamas de Argos
+2985	Anel de Ouro
+2986	Anel do Espírito Maligno da Floresta
+2987	Anel de Talos
+2988	Anel de Talos
+2989	Anel de Talos
+2990	Anel de Talos
+2991	Anel do Novato
+2992	Anel do Mestre
+2993	Anel do Mestre
+2994	Anel do Mestre
+2995	Anel do Mestre
+2996	Anel do Mestre
+2997	Anel do Mestre
+2998	Joia da Jordânia
+2999	Joia da Jordânia
+3000	Joia da Jordânia
+3001	Joia da Jordânia
+3002	Joia da Jordânia
+3003	Joia da Jordânia
+3004	Anel de Nibelungo
+3005	Anel de Nibelungo
+3006	Anel de Nibelungo
+3007	Anel de Nibelungo
+3008	Anel de Nibelungo
+3009	Anel de Nibelungo
+3010	Anel de Cronos
+3011	Anel de Cronos
+3012	Anel de Cronos
+3013	Anel de Cronos
+3014	Anel de Cronos
+3015	Anel de Cronos
+3016	Anel de Guerra de Tideu
+3017	Anel de Guerra de Tideu
+3018	Anel de Guerra de Tideu
+3019	Anel de Guerra de Tideu
+3020	Anel de Guerra de Tideu
+3021	Anel de Guerra de Tideu
+3022	Anel_Comum_Categoria 15_Laranja
+3023	Anel_Comum_Categoria 15_Branco
+3024	Anel_Comum_Categoria 15_Roxo
+3025	Anel_Comum_Categoria 15_Verde
+3026	Anel_Comum_Categoria 15_Azul
+3027	Anel_Comum_Categoria 15_Dourado
+3028	Anel_Comum_Categoria 16_Laranja
+3029	Anel_Comum_Categoria 16_Branco
+3030	Anel_Comum_Categoria 16_Roxo
+3031	Anel_Comum_Categoria 16_Verde
+3032	Anel_Comum_Categoria 16_Azul
+3033	Anel_Comum_Categoria 16_Dourado
+3034	Anel_Comum_Categoria 17_Laranja
+3035	Anel_Comum_Categoria 17_Branco
+3036	Anel_Comum_Categoria 17_Roxo
+3037	Anel_Comum_Categoria 17_Verde
+3038	Anel_Comum_Categoria 17_Azul
+3039	Anel_Comum_Categoria 17_Dourado
+3040	Anel_Comum_Categoria 18_Laranja
+3041	Anel_Comum_Categoria 18_Branco
+3042	Anel_Comum_Categoria 18_Roxo
+3043	Anel_Comum_Categoria 18_Verde
+3044	Anel_Comum_Categoria 18_Azul
+3045	Anel_Comum_Categoria 18_Dourado
+3046	Anel_Comum_Categoria 19_Laranja
+3047	Anel_Comum_Categoria 19_Branco
+3048	Anel_Comum_Categoria 19_Roxo
+3049	Anel_Comum_Categoria 19_Verde
+3050	Anel_Comum_Categoria 19_Azul
+3051	Anel_Comum_Categoria 19_Dourado
+3052	Anel do Novato
+3053	Anel do Novato
+3054	Anel do Novato
+3055	Anel do Novato
+3056	Anel do Novato
+3057	Anel do Novato
+3058	Anel_Comum_Categoria 20_Laranja
+3059	Anel_Comum_Categoria 20_Branco
+3060	Anel_Comum_Categoria 20_Roxo
+3061	Anel_Comum_Categoria 20_Verde
+3062	Anel_Comum_Categoria 20_Azul
+3063	Anel_Comum_Categoria 20_Dourado
+3064	Anel do Monge
+3065	Anel do Monge
+3066	Anel do Monge
+3067	Anel do Monge
+3068	Anel do Monge
+3069	Anel do Monge
+3070	Anel de Ferro
+3071	Anel de Ferro
+3072	Anel de Ferro
+3073	Anel de Ferro
+3074	Anel de Ferro
+3075	Anel de Ferro
+3076	Anel Vermelho
+3077	Anel Vermelho
+3078	Anel Vermelho
+3079	Anel Vermelho
+3080	Anel Vermelho
+3081	Anel Vermelho
+3082	Anel de Bronze
+3083	Anel de Bronze
+3084	Anel de Bronze
+3085	Anel de Bronze
+3086	Anel de Bronze
+3087	Anel de Bronze
+3088	Anel de Aço
+3089	Anel de Aço
+3090	Anel de Aço
+3091	Anel de Aço
+3092	Anel de Aço
+3093	Anel de Aço
+3094	Anel de Prata
+3095	Anel de Prata
+3096	Anel de Prata
+3097	Anel de Prata
+3098	Anel de Prata
+3099	Anel de Prata
+3100	Anel de Ouro
+3101	Anel de Ouro
+3102	Anel de Ouro
+3103	Anel de Ouro
+3104	Anel de Ouro
+3105	Anel de Ouro
+3106	Anel do Espírito Maligno da Floresta
+3107	Anel do Espírito Maligno da Floresta
+3108	Anel do Espírito Maligno da Floresta
+3109	Anel do Espírito Maligno da Floresta
+3110	Anel do Espírito Maligno da Floresta
+3111	Anel do Espírito Maligno da Floresta
+3112	Teste de equipamento 4
+3113	Bracelete do Sacrifício
+3114	Bracelete do Julgamento
+3115	Bracelete de Tétis
+3116	Bracelete da Coroa Solar
+3117	Bracelete da Eclíptica
+3118	Bracelete de Dafne
+3119	Anel do Ladrão de Fogo
+3120	Bracelete_Comum_Categoria 17_Roxo
+3121	Bracelete_Comum_Categoria 18_Roxo
+3122	Bracelete_Comum_Categoria 19_Roxo
+3123	Bracelete do Novato
+3124	Bracelete_Comum_Categoria 20_Roxo
+3125	Bracelete de Hera Verde
+3126	Bracelete de Asfódelos
+3127	Bracelete de Lírio-da-aranha-vermelha
+3128	Bracelete de Osso de Serpente
+3129	Bracelete de Obsidiana
+3130	Bracelete de Meteorito
+3131	Bracelete da Oferenda
+3132	Bracelete Puro e Sagrado
+3133	Talismã de Herança
+3134	Talismã do Novato
+3135	Talismã da Alquimia
+3136	Talismã do Médium
+3137	Talismã do Profeta
+3138	Talismã do Elemento
+3139	Talismã de Fada
+3140	Talismã da Estrela
+3141	Talismã da Terra dos Sonhos
+3142	Natasha cartões de compromisso
+3143	Talismã de Medusa
+3144	Talismã de Luz
+3145	Talismã do desejo divino
+3146	Talismã da Musa
+3147	Talismã do Novato
+3148	Talismã da Alquimia
+3149	Talismã do Médium
+3150	Talismã do Profeta
+3151	Talismã do Elemento
+3152	Talismã de Fada
+3153	Talismã da Estrela
+3154	Talismã da Terra dos Sonhos
+3155	Talismã do Tempo
+3156	Talismã do Aprendiz
+3157	Talismã da Alquimia
+3158	Talismã do Médium
+3159	Talismã do Profeta
+3160	Talismã do Elemento
+3161	Talismã de Fada
+3162	Equipamento padrão de pessoa de nível 50
+3163	Equipamento padrão de pessoa de nível 55
+3164	Equipamento padrão de pessoa de nível 60
+3165	Equipamento padrão de pessoa de nível 65
+3166	Equipamento padrão de pessoa de nível 70
+3167	Equipamento padrão de pessoa de nível 75
+3168	Equipamento padrão de pessoa de nível 80
+3169	Equipamento padrão de pessoa de nível 85
+3170	Equipamento padrão de pessoa de nível 90
+3171	Equipamento padrão de pessoa de nível 95
+3172	Equipamento padrão de pessoa de nível 5
+3173	Equipamento padrão de pessoa de nível 100
+3174	Equipamento padrão de pessoa de nível 10
+3175	Equipamento padrão de pessoa de nível 15
+3176	Equipamento padrão de pessoa de nível 20
+3177	Equipamento padrão de pessoa de nível 25
+3178	Equipamento padrão de pessoa de nível 30
+3179	Equipamento padrão de pessoa de nível 35
+3180	Equipamento padrão de pessoa de nível 40
+3181	Equipamento padrão de pessoa de nível 45
+3182	Equipamento padrão de pessoa de nível 50
+3183	Equipamento padrão de pessoa de nível 55
+3184	Equipamento padrão de pessoa de nível 60
+3185	Equipamento padrão de pessoa de nível 65
+3186	Equipamento padrão de pessoa de nível 70
+3187	Equipamento padrão de pessoa de nível 75
+3188	Equipamento padrão de pessoa de nível 80
+3189	Equipamento padrão de pessoa de nível 85
+3190	Equipamento padrão de pessoa de nível 90
+3191	Equipamento padrão de pessoa de nível 95
+3192	Equipamento padrão de pessoa de nível 5
+3193	Equipamento padrão de pessoa de nível 100
+3194	Equipamento padrão de pessoa de nível 10
+3195	Equipamento padrão de pessoa de nível 15
+3196	Equipamento padrão de pessoa de nível 20
+3197	Equipamento padrão de pessoa de nível 25
+3198	Equipamento padrão de pessoa de nível 30
+3199	Equipamento padrão de pessoa de nível 35
+3200	Equipamento padrão de pessoa de nível 40
+3201	Equipamento padrão de pessoa de nível 45
+3202	Equipamento padrão de pessoa de nível 50
+3203	Equipamento padrão de pessoa de nível 55
+3204	Equipamento padrão de pessoa de nível 60
+3205	Equipamento padrão de pessoa de nível 65
+3206	Equipamento padrão de pessoa de nível 70
+3207	Equipamento padrão de pessoa de nível 75
+3208	Equipamento padrão de pessoa de nível 80
+3209	Equipamento padrão de pessoa de nível 85
+3210	Equipamento padrão de pessoa de nível 90
+3211	Equipamento padrão de pessoa de nível 95
+3212	Equipamento padrão de pessoa de nível 5
+3213	Equipamento padrão de pessoa de nível 100
+3214	Equipamento padrão de pessoa de nível 10
+3215	Equipamento padrão de pessoa de nível 15
+3216	Equipamento padrão de pessoa de nível 20
+3217	Equipamento padrão de pessoa de nível 25
+3218	Equipamento padrão de pessoa de nível 30
+3219	Equipamento padrão de pessoa de nível 35
+3220	Equipamento padrão de pessoa de nível 40
+3221	Equipamento padrão de pessoa de nível 45
+3222	Equipamento padrão de pessoa de nível 50
+3223	Equipamento padrão de pessoa de nível 55
+3224	Equipamento padrão de pessoa de nível 60
+3225	Equipamento padrão de pessoa de nível 65
+3226	Equipamento padrão de pessoa de nível 70
+3227	Equipamento padrão de pessoa de nível 75
+3228	Equipamento padrão de pessoa de nível 80
+3229	Equipamento padrão de pessoa de nível 85
+3230	Equipamento padrão de pessoa de nível 90
+3231	Equipamento padrão de pessoa de nível 95
+3232	Equipamento padrão de pessoa de nível 5
+3233	Equipamento padrão de pessoa de nível 100
+3234	Equipamento padrão de pessoa de nível 10
+3235	Equipamento padrão de pessoa de nível 15
+3236	Equipamento padrão de pessoa de nível 20
+3237	Equipamento padrão de pessoa de nível 25
+3238	Equipamento padrão de pessoa de nível 30
+3239	Equipamento padrão de pessoa de nível 35
+3240	Equipamento padrão de pessoa de nível 40
+3241	Equipamento padrão de pessoa de nível 45
+3242	Equipamento padrão de pessoa de nível 50
+3243	Equipamento padrão de pessoa de nível 55
+3244	Equipamento padrão de pessoa de nível 60
+3245	Equipamento padrão de pessoa de nível 65
+3246	Equipamento padrão de pessoa de nível 70
+3247	Equipamento padrão de pessoa de nível 75
+3248	Equipamento padrão de pessoa de nível 80
+3249	Equipamento padrão de pessoa de nível 85
+3250	Equipamento padrão de pessoa de nível 90
+3251	Equipamento padrão de pessoa de nível 95
+3252	Equipamento padrão de pessoa de nível 5
+3253	Equipamento padrão de pessoa de nível 100
+3254	Equipamento padrão de pessoa de nível 10
+3255	Equipamento padrão de pessoa de nível 15
+3256	Equipamento padrão de pessoa de nível 20
+3257	Equipamento padrão de pessoa de nível 25
+3258	Equipamento padrão de pessoa de nível 30
+3259	Equipamento padrão de pessoa de nível 35
+3260	Equipamento padrão de pessoa de nível 40
+3261	Equipamento padrão de pessoa de nível 45
+3262	Deus do Sono · Estrela do sono pacífico
+3263	Rugido do berrante de Esterópes
+3264	Rugido do berrante de Esterópes
+3265	Talismã de Luz
+3266	Trapaça de Loki
+3267	Cristal de gelo de Camus
+3268	A marca do bem e do mal de Saga
+3269	Talismã do selo da estrela demoníaca
+3270	Talismã de Mithril do Deus do Sono
+3271	Deus do Sono · Estrela do sono pacífico
+3272	Rugido do berrante de Esterópes
+3273	Talismã da Terra dos Sonhos
+3274	Talismã do Tempo
+3275	Talismã de Talos
+3276	Talismã de Talos
+3277	Talismã de Talos
+3278	Talismã de Talos
+3279	GM50W Ataque
+3280	gm50w Ataque 1
+3281	Talismã do Novato
+3282	Talismã de Luz
+3283	Talismã de Luz
+3284	Talismã de Luz
+3285	Talismã de Luz
+3286	Talismã de Luz
+3287	Talismã de Luz
+3288	Talismã do desejo divino
+3289	Talismã do desejo divino
+3290	Talismã do desejo divino
+3291	Talismã do desejo divino
+3292	Talismã do desejo divino
+3293	Talismã do desejo divino
+3294	Talismã da Musa
+3295	Talismã da Musa
+3296	Talismã da Musa
+3297	Talismã da Musa
+3298	Talismã da Musa
+3299	Talismã da Musa
+3300	Talismã de Gaia
+3301	Talismã de Gaia
+3302	Talismã de Gaia
+3303	Talismã de Gaia
+3304	Talismã de Gaia
+3305	Talismã de Gaia
+3306	Talismã de Anfiarau
+3307	Talismã de Anfiarau
+3308	Talismã de Anfiarau
+3309	Talismã de Anfiarau
+3310	Talismã de Anfiarau
+3311	Talismã de Anfiarau
+3312	Talismã_Comum_Categoria 15_Laranja
+3313	Talismã_Comum_Categoria 15_Branco
+3314	Talismã_Comum_Categoria 15_Roxo
+3315	Talismã_Comum_Categoria 15_Verde
+3316	Talismã_Comum_Categoria 15_Azul
+3317	Talismã_Comum_Categoria 15_Dourado
+3318	Talismã_Comum_Categoria 16_Laranja
+3319	Talismã_Comum_Categoria 16_Branco
+3320	Talismã_Comum_Categoria 16_Roxo
+3321	Talismã_Comum_Categoria 16_Verde
+3322	Talismã_Comum_Categoria 16_Azul
+3323	Talismã_Comum_Categoria 16_Dourado
+3324	Talismã_Comum_Categoria 17_Laranja
+3325	Talismã_Comum_Categoria 17_Branco
+3326	Talismã_Comum_Categoria 17_Roxo
+3327	Talismã_Comum_Categoria 17_Verde
+3328	Talismã_Comum_Categoria 17_Azul
+3329	Talismã_Comum_Categoria 17_Dourado
+3330	Talismã_Comum_Categoria 18_Laranja
+3331	Talismã_Comum_Categoria 18_Branco
+3332	Talismã_Comum_Categoria 18_Roxo
+3333	Talismã_Comum_Categoria 18_Verde
+3334	Talismã_Comum_Categoria 18_Azul
+3335	Talismã_Comum_Categoria 18_Dourado
+3336	Talismã_Comum_Categoria 19_Laranja
+3337	Talismã_Comum_Categoria 19_Branco
+3338	Talismã_Comum_Categoria 19_Roxo
+3339	Talismã_Comum_Categoria 19_Verde
+3340	Talismã_Comum_Categoria 19_Azul
+3341	Talismã_Comum_Categoria 19_Dourado
+3342	Talismã do Novato
+3343	Talismã do Novato
+3344	Talismã do Novato
+3345	Talismã do Novato
+3346	Talismã do Novato
+3347	Talismã do Novato
+3348	Talismã_Comum_Categoria 20_Laranja
+3349	Talismã_Comum_Categoria 20_Branco
+3350	Talismã_Comum_Categoria 20_Roxo
+3351	Talismã_Comum_Categoria 20_Verde
+3352	Talismã_Comum_Categoria 20_Azul
+3353	Talismã_Comum_Categoria 20_Dourado
+3354	Talismã da Alquimia
+3355	Talismã da Alquimia
+3356	Talismã da Alquimia
+3357	Talismã da Alquimia
+3358	Talismã da Alquimia
+3359	Talismã da Alquimia
+3360	Talismã do Médium
+3361	Talismã do Médium
+3362	Talismã do Médium
+3363	Talismã do Médium
+3364	Talismã do Médium
+3365	Talismã do Médium
+3366	Talismã do Profeta
+3367	Talismã do Profeta
+3368	Talismã do Profeta
+3369	Talismã do Profeta
+3370	Talismã do Profeta
+3371	Talismã do Profeta
+3372	Talismã do Elemento
+3373	Talismã do Elemento
+3374	Talismã do Elemento
+3375	Talismã do Elemento
+3376	Talismã do Elemento
+3377	Talismã do Elemento
+3378	Talismã de Fada
+3379	Talismã de Fada
+3380	Talismã de Fada
+3381	Talismã de Fada
+3382	Talismã de Fada
+3383	Talismã de Fada
+3384	Talismã da Estrela
+3385	Talismã da Estrela
+3386	Talismã da Estrela
+3387	Talismã da Estrela
+3388	Talismã da Estrela
+3389	Talismã da Estrela
+3390	Talismã da Terra dos Sonhos
+3391	Talismã da Terra dos Sonhos
+3392	Talismã da Terra dos Sonhos
+3393	Talismã da Terra dos Sonhos
+3394	Talismã da Terra dos Sonhos
+3395	Talismã da Terra dos Sonhos
+3396	Talismã do Tempo
+3397	Talismã do Tempo
+3398	Talismã do Tempo
+3399	Talismã do Tempo
+3400	Talismã do Tempo
+3401	Talismã do Tempo
+3402	Teste de equipamento 3
+3403	Determinação Inabalável - Categoria 10
+3404	Determinação Inabalável - Categoria 11
+3405	Determinação Inabalável - Categoria 12
+3406	Determinação Inabalável - Categoria 13
+3407	Determinação Inabalável - Categoria 14
+3408	Determinação Inabalável - Categoria 15
+3409	Determinação Inabalável - Categoria 16
+3410	Determinação Inabalável - Categoria 1
+3411	Determinação Inabalável - Categoria 2
+3412	Determinação Inabalável - Categoria 3
+3413	Determinação Inabalável - Categoria 4
+3414	Determinação Inabalável - Categoria 5
+3415	Determinação Inabalável - Categoria 6
+3416	Determinação Inabalável - Categoria 7
+3417	Determinação Inabalável - Categoria 8
+3418	Determinação Inabalável - Categoria 9
+3419	Uma Vida Sem Arrependimento - Categoria 10
+3420	Uma Vida Sem Arrependimento - Categoria 11
+3421	Uma Vida Sem Arrependimento - Categoria 12
+3422	Uma Vida Sem Arrependimento - Categoria 13
+3423	Uma Vida Sem Arrependimento - Categoria 14
+3424	Uma Vida Sem Arrependimento - Categoria 15
+3425	Uma Vida Sem Arrependimento - Categoria 16
+3426	Uma Vida Sem Arrependimento - Categoria 1
+3427	Uma Vida Sem Arrependimento - Categoria 2
+3428	Uma Vida Sem Arrependimento - Categoria 3
+3429	Uma Vida Sem Arrependimento - Categoria 4
+3430	Uma Vida Sem Arrependimento - Categoria 5
+3431	Uma Vida Sem Arrependimento - Categoria 6
+3432	Uma Vida Sem Arrependimento - Categoria 7
+3433	Uma Vida Sem Arrependimento - Categoria 8
+3434	Uma Vida Sem Arrependimento - Categoria 9
+3435	Sou Todo Poderoso - Categoria 10
+3436	Sou Todo Poderoso - Categoria 11
+3437	Sou Todo Poderoso - Categoria 12
+3438	Sou Todo Poderoso - Categoria 13
+3439	Sou Todo Poderoso - Categoria 14
+3440	Sou Todo Poderoso - Categoria 15
+3441	Sou Todo Poderoso - Categoria 16
+3442	Sou Todo Poderoso - Categoria 1
+3443	Sou Todo Poderoso - Categoria 2
+3444	Sou Todo Poderoso - Categoria 3
+3445	Sou Todo Poderoso - Categoria 4
+3446	Sou Todo Poderoso - Categoria 5
+3447	Sou Todo Poderoso - Categoria 6
+3448	Sou Todo Poderoso - Categoria 7
+3449	Sou Todo Poderoso - Categoria 8
+3450	Sou Todo Poderoso - Categoria 9
+3451	Capa Divina
+3452	Capa das Doze Casas
+3453	Capa do Guardião
+3454	Capa do Destemido
+3455	Capa de Cônsul
+3456	Capa_Comum_Categoria 15_Laranja
+3457	Capa_Comum_Categoria 16_Laranja
+3458	Ombreiras da Crença
+3459	Ombreiras da Justiça
+3460	Ombreiras da Glória
+3461	Capa do Guardião
+3462	Capa da Determinação
+3463	Capa do Destemido
+3464	Capa de Cônsul
+3465	Capa das Doze Casas
+3466	Capa do Grande Mestre
+3467	Capa de Teste
+3468	Joia da Ilusão
+3469	Joia Espiritual da Inteligência
+3470	Joia do Vazio
+3471	Joia de Odisseu
+3472	Joia de Cassandra
+3473	Joia de Athena
+3474	Joia de Apolo
+3475	Joia Espiritual da Terra_Comum_Categoria 17_Roxa
+3476	Joia Espiritual da Terra_Comum_Categoria 18_Roxa
+3477	Joia Espiritual da Terra_Comum_Categoria 19_Roxa
+3478	Joia do Novato
+3479	Joia Espiritual da Terra_Comum_Categoria 20_Roxa
+3480	Joia Espiritual do Heremita
+3481	Joia Espiritual do Sábio
+3482	Joia Espiritual do Homem Virtuoso
+3483	Joia Espiritual do Profeta
+3484	Joia Guia
+3485	Joia do Futuro
+3486	Joia da Eternidade
+3487	Joia Espiritual da Solidão
+3488	Joia da Ilusão
+3489	Joia Espiritual da Inteligência
+3490	Joia do Vazio
+3491	Joia de Odisseu
+3492	Joia de Cassandra
+3493	Joia de Athena
+3494	Joia de Apolo
+3495	Joia Espiritual da Água_Comum_Categoria 17_Roxa
+3496	Joia Espiritual da Água_Comum_Categoria 18_Roxa
+3497	Joia Espiritual da Água_Comum_Categoria 19_Roxa
+3498	Joia do Novato
+3499	Joia Espiritual da Água_Comum_Categoria 20_Roxa
+3500	Joia Espiritual do Heremita
+3501	Joia Espiritual do Sábio
+3502	Joia Espiritual do Homem Virtuoso
+3503	Joia Espiritual do Profeta
+3504	Joia Guia
+3505	Joia do Futuro
+3506	Joia da Eternidade
+3507	Joia Espiritual da Solidão
+3508	Joia da Ilusão
+3509	Joia Espiritual da Inteligência
+3510	Joia do Vazio
+3511	Joia de Odisseu
+3512	Joia de Cassandra
+3513	Joia de Athena
+3514	Joia de Apolo
+3515	Joia Espiritual do Fogo_Comum_Categoria 17_Roxa
+3516	Joia Espiritual do Fogo_Comum_Categoria 18_Roxa
+3517	Joia Espiritual do Fogo_Comum_Categoria 19_Roxa
+3518	Joia do Novato
+3519	Joia Espiritual do Fogo_Comum_Categoria 20_Roxa
+3520	Joia Espiritual do Heremita
+3521	Joia Espiritual do Sábio
+3522	Joia Espiritual do Homem Virtuoso
+3523	Joia Espiritual do Profeta
+3524	Joia Guia
+3525	Joia do Futuro
+3526	Joia da Eternidade
+3527	Joia Espiritual da Solidão
+3528	Joia da Ilusão
+3529	Joia Espiritual da Inteligência
+3530	Joia do Vazio
+3531	Joia de Odisseu
+3532	Joia de Cassandra
+3533	Joia de Athena
+3534	Joia de Apolo
+3535	Joia Espiritual do Trovão_Comum_Categoria 17_Roxa
+3536	Joia Espiritual do Trovão_Comum_Categoria 18_Roxa
+3537	Joia Espiritual do Trovão_Comum_Categoria 19_Roxa
+3538	Joia do Novato
+3539	Joia Espiritual do Trovão_Comum_Categoria 20_Roxa
+3540	Joia Espiritual do Heremita
+3541	Joia Espiritual do Sábio
+3542	Joia Espiritual do Homem Virtuoso
+3543	Joia Espiritual do Profeta
+3544	Joia Guia
+3545	Joia do Futuro
+3546	Joia da Eternidade
+3547	Joia Espiritual da Solidão
+3548	Joia da Ilusão
+3549	Joia Espiritual da Inteligência
+3550	Joia do Vazio
+3551	Joia de Odisseu
+3552	Joia de Cassandra
+3553	Joia de Athena
+3554	Joia de Apolo
+3555	Joia Espiritual do Ar_Comum_Categoria 17_Roxa
+3556	Joia Espiritual do Ar_Comum_Categoria 18_Roxa
+3557	Joia Espiritual do Ar_Comum_Categoria 19_Roxa
+3558	Joia do Novato
+3559	Joia Espiritual do Ar_Comum_Categoria 20_Roxa
+3560	Joia Espiritual do Heremita
+3561	Joia Espiritual do Sábio
+3562	Joia Espiritual do Homem Virtuoso
+3563	Joia Espiritual do Profeta
+3564	Joia Guia
+3565	Joia do Futuro
+3566	Joia da Eternidade
+3567	Joia Espiritual da Solidão
+3568	Rosário de Saturno
+3569	Rosário do Buraco Negro
+3570	Rosário de Dragão
+3571	Rosário da Areia
+3572	Rosário da Joia
+3573	Rosário da Rocha
+3574	Rosário da Montanha
+3575	Rosário do Vale
+3576	Rosário do Aerólito
+3577	Rosário Continental
+3578	Rosário Eterno
+3579	Rosário do Meteorito
+3580	Rosário de Mercúrio
+3581	Rosário do Buraco Branco
+3582	Rosário de Cisne
+3583	Rosário da Revelação
+3584	Rosário de Estalactite
+3585	Rosário da Cristalização
+3586	Rosário da Neve
+3587	Rosário da Onda
+3588	Rosário do Gelo
+3589	Rosário do Tsunami
+3590	Rosário Sagrado
+3591	Rosário do Oceano
+3592	Rosário de Marte
+3593	Rosário da Supernova
+3594	Rosário de Fênix
+3595	Rosário de Chamas
+3596	Rosário do Calor
+3597	Rosário Flamejante
+3598	Rosário da Fusão
+3599	Rosário da Poeira Ardente
+3600	Rosário de Lava
+3601	Rosário do Fogo Infernal
+3602	Rosário Brilhante
+3603	Rosário da Explosão Solar
+3604	Rosário do Preceito
+3605	Rosário do Preceito
+3606	Rosário do Preceito
+3607	Rosário Iluminado
+3608	Rosário Iluminado
+3609	Rosário Iluminado
+3610	Rosário do Juízo
+3611	Rosário do Juízo
+3612	Rosário de Vênus
+3613	Rosário da Nebulosa
+3614	Rosário de Andrômeda
+3615	Rosário do Íon
+3616	Rosário da Corrente Elétrica
+3617	Rosário da Pulsação
+3618	Rosário da Nuvem Trovejante
+3619	Rosário do Impacto
+3620	Rosário do Choque Elétrico
+3621	Rosário da Explosão do Trovão
+3622	Rosário Glorioso
+3623	Rosário da Maldição
+3624	Rosário de Júpiter
+3625	Rosário Galáctico
+3626	Rosário de Pégasus
+3627	Rosário das Penas
+3628	Rosário das Asas
+3629	Rosário da Névoa
+3630	Rosário do Vendaval
+3631	Rosário do Furacão
+3632	Rosário da Velocidade
+3633	Rosário de Meteoro
+3634	Rosário da Liberdade
+3635	Rosário de Cometa
+3636	Rosário da Sabedoria
+3637	Luz do Rosário_Categoria 11_Laranja
+3638	Luz do Rosário_Categoria 12_Laranja
+3639	Rosário da Luz
+3640	Rosário da Luz Cristalina
+3641	Rosário da Aurora
+3642	Rosário da Serenidade
+3643	Rosário da Luz Solar
+3644	Rosário da Redenção
+3645	Rosário da Luz Esplêndida
+3646	Rosário da Luz Sagrada
+3647	Rosário Deslumbrante
+3648	Estola do Cavalo
+3649	Estola do Urso
+3650	Estola do Elefante
+3651	Estola da Terra
+3652	Estola de Deméter
+3653	Estola do Peixe
+3654	Estola do Tubarão
+3655	Estola do Kraken
+3656	Estola da Água
+3657	Estola de Poseidon
+3658	Estola da Raposa
+3659	Estola do Sunbird
+3660	Estola de Fênix
+3661	Estola do Fogo
+3662	Estola de Hefesto
+3663	Estola da Cobra
+3664	Estola do Titã
+3665	Estola do Dragão
+3666	Estola do Trovão
+3667	Estola de Hera
+3668	Estola da Águia
+3669	Estola de Griffin
+3670	Estola de Garuda
+3671	Estola do Vento
+3672	Estola de Afrodite
+3673	Estola do Lobo
+3674	Estola de Hemera
+3675	Estola de Baldur
+3676	Estola da Luz
+3677	Estola de Eos
+3678	Cinturão Categoria 1
+3679	Cinturão de Urano
+3680	Cinturão da Guerra
+3681	Cinturão da Glória
+3682	Cinturão de Herói
+3683	Cinturão da Vitória
+3684	Cinturão do Líder
+3685	Cinturão da Justiça
+3686	Cinturão do Rei
+3687	Cinturão Divino
+3688	Cinturão de Teseu
+3689	Camisa de Herança
+3690	Camisa do Novato
+3691	Camisa do Recruta
+3692	Camisa do Soldado
+3693	Camisa da Guarda
+3694	Camisa do Gladiador
+3695	Camisa de Tribuno
+3696	Camisa da Ruína
+3697	Camisa do Desafiante
+3698	Camisa de Cônsul
+3699	Camisa de Tigre
+3700	Camisa do Insurgente
+3701	Camisa de Crisaor
+3702	Armadura Flamejante
+3703	Camisa de Frederick
+3704	Camisa do Marechal
+3705	Camisa do Soberano
+3706	Camisa de Teseu
+3707	Camisa do Novato
+3708	Camisa do Recruta
+3709	Camisa do Soldado
+3710	Camisa da Guarda
+3711	Camisa do Gladiador
+3712	Camisa de Tribuno
+3713	Camisa da Ruína
+3714	Camisa do Desafiante
+3715	Camisa do Herói
+3716	Camisa da Nova Tropa de Heróis
+3717	Camisa do Recruta
+3718	Camisa do Soldado
+3719	Camisa do Gladiador
+3720	Camisa de Tribuno
+3721	Túnica do Poder de Perseu
+3722	Armadura Imortal de Brontes
+3723	Armadura Imortal de Brontes
+3724	Camisa do Marechal
+3725	Roupa de caminhada noturna do Kid Ladrão
+3726	Nova roupa do Máscara da Morte
+3727	Robe de Aioria
+3728	Roupa de Meditação de Odin
+3729	Roupa de Shion concedida pelos Deuses
+3730	Túnica do Poder de Perseu
+3731	Armadura Imortal de Brontes
+3732	Camisa do Desafiante
+3733	Camisa do Herói
+3734	Camisa de Talos
+3735	Camisa de Talos
+3736	Camisa de Talos
+3737	Camisa de Talos
+3738	Alcançar
+3739	GM50W Sangue
+3740	gm50w Sangue 1
+3741	Teste de equipamento 1
+3742	Camisa do Novato
+3743	Camisa do Novato
+3744	Camisa do Novato
+3745	Camisa do Novato
+3746	Camisa do Novato
+3747	Camisa do Novato
+3748	Camisa do Novato
+3749	Camisa do Novato
+3750	Camisa do Novato
+3751	Camisa do Novato
+3752	Camisa do Marechal
+3753	Camisa do Marechal
+3754	Camisa do Marechal
+3755	Camisa do Marechal
+3756	Camisa do Marechal
+3757	Camisa do Marechal
+3758	Camisa do Soberano
+3759	Camisa do Soberano
+3760	Camisa do Soberano
+3761	Camisa do Soberano
+3762	Camisa do Soberano
+3763	Camisa do Soberano
+3764	Camisa de Teseu
+3765	Camisa de Teseu
+3766	Camisa de Teseu
+3767	Camisa de Teseu
+3768	Camisa de Teseu
+3769	Camisa de Teseu
+3770	Camisa de Marte
+3771	Camisa de Marte
+3772	Camisa de Marte
+3773	Camisa de Marte
+3774	Camisa de Marte
+3775	Camisa de Marte
+3776	Camisa de Hipomedonte
+3777	Camisa de Hipomedonte
+3778	Camisa de Hipomedonte
+3779	Camisa de Hipomedonte
+3780	Camisa de Hipomedonte
+3781	Camisa de Hipomedonte
+3782	Camisa_Comum_Categoria 15_Laranja
+3783	Camisa_Comum_Categoria 15_Branca
+3784	Camisa_Comum_Categoria 15_Roxa
+3785	Camisa_Comum_Categoria 15_Verde
+3786	Camisa_Comum_Categoria 15_Azul
+3787	Camisa_Comum_Categoria 15_Dourada
+3788	Camisa_Comum_Categoria 16_Laranja
+3789	Camisa_Comum_Categoria 16_Branca
+3790	Camisa_Comum_Categoria 16_Roxa
+3791	Camisa_Comum_Categoria 16_Verde
+3792	Camisa_Comum_Categoria 16_Azul
+3793	Camisa_Comum_Categoria 16_Dourada
+3794	Camisa_Comum_Categoria 17_Laranja
+3795	Camisa_Comum_Categoria 17_Branca
+3796	Camisa_Comum_Categoria 17_Roxa
+3797	Camisa_Comum_Categoria 17_Verde
+3798	Camisa_Comum_Categoria 17_Azul
+3799	Camisa_Comum_Categoria 17_Dourada
+3800	Camisa_Comum_Categoria 18_Laranja
+3801	Camisa_Comum_Categoria 18_Branca
+3802	Camisa_Comum_Categoria 18_Roxa
+3803	Camisa_Comum_Categoria 18_Verde
+3804	Camisa_Comum_Categoria 18_Azul
+3805	Camisa_Comum_Categoria 18_Dourada
+3806	Camisa_Comum_Categoria 19_Laranja
+3807	Camisa_Comum_Categoria 19_Branca
+3808	Camisa_Comum_Categoria 19_Roxa
+3809	Camisa_Comum_Categoria 19_Verde
+3810	Camisa_Comum_Categoria 19_Azul
+3811	Camisa_Comum_Categoria 19_Dourada
+3812	Camisa do Novato
+3813	Camisa do Novato
+3814	Camisa do Novato
+3815	Camisa do Novato
+3816	Camisa do Novato
+3817	Camisa do Novato
+3818	Camisa_Comum_Categoria 20_Laranja
+3819	Camisa_Comum_Categoria 20_Branca
+3820	Camisa_Comum_Categoria 20_Roxa
+3821	Camisa_Comum_Categoria 20_Verde
+3822	Camisa_Comum_Categoria 20_Azul
+3823	Camisa_Comum_Categoria 20_Dourada
+3824	Camisa do Recruta
+3825	Camisa do Recruta
+3826	Camisa do Recruta
+3827	Camisa do Recruta
+3828	Camisa do Recruta
+3829	Camisa do Recruta
+3830	Camisa do Soldado
+3831	Camisa do Soldado
+3832	Camisa do Soldado
+3833	Camisa do Soldado
+3834	Camisa do Soldado
+3835	Camisa do Soldado
+3836	Camisa da Guarda
+3837	Camisa da Guarda
+3838	Camisa da Guarda
+3839	Camisa da Guarda
+3840	Camisa da Guarda
+3841	Camisa da Guarda
+3842	Camisa do Gladiador
+3843	Camisa do Gladiador
+3844	Camisa do Gladiador
+3845	Camisa do Gladiador
+3846	Camisa do Gladiador
+3847	Camisa do Gladiador
+3848	Camisa de Tribuno
+3849	Camisa de Tribuno
+3850	Camisa de Tribuno
+3851	Camisa de Tribuno
+3852	Camisa de Tribuno
+3853	Camisa de Tribuno
+3854	Camisa da Ruína
+3855	Camisa da Ruína
+3856	Camisa da Ruína
+3857	Camisa da Ruína
+3858	Camisa da Ruína
+3859	Camisa da Ruína
+3860	Camisa do Desafiante
+3861	Camisa do Desafiante
+3862	Camisa do Desafiante
+3863	Camisa do Desafiante
+3864	Camisa do Desafiante
+3865	Camisa do Desafiante
+3866	Camisa do Herói
+3867	Camisa do Herói
+3868	Camisa do Herói
+3869	Camisa do Herói
+3870	Camisa do Herói
+3871	Camisa do Herói
+3872	Colar de Herança
+3873	Colar Afiado
+3874	Colar do Esquecimento
+3875	Colar de Despina
+3876	Colar de Andrômeda
+3877	Colar de Esmeralda
+3878	Colar de Diamante
+3879	Colar de Saboeiro
+3880	Colar do Novato
+3881	Colar de Ossos
+3882	Colar de Vidro
+3883	Colar Coral
+3884	Colar de Pérolas
+3885	Colar de Cristal
+3886	Colar de Jade
+3887	Colar de Ágata
+3888	Colar de Cristal Azul
+3889	Colar da Nova Tropa de Heróis
+3890	Colar de Ossos
+3891	Colar de Vidro
+3892	Colar Coral
+3893	Colar de Cristal
+3894	Colar de Jade
+3895	Corrente de prata esculpida do substituto de Hades
+3896	Pingente de Luz Divina de Argos Panoptes
+3897	Pingente de Luz Divina de Argos Panoptes
+3898	Colar de Esmeralda
+3899	Corrente de Olho de Tigre de Shido
+3900	Colar de Escorpião de Miro
+3901	Contas da Transcendência de Shaka
+3902	Faca de Trigo Dourada
+3903	Corrente da Liberdade de Pandora
+3904	Corrente de prata esculpida do substituto de Hades
+3905	Pingente de Luz Divina de Argos Panoptes
+3906	Colar de Ágata
+3907	Colar de Cristal Azul
+3908	Colar de Talos
+3909	Colar de Talos
+3910	Colar de Talos
+3911	Colar de Talos
+3912	Teste de equipamento 6
+3913	Colar do Novato
+3914	Colar de Esmeralda
+3915	Colar de Esmeralda
+3916	Colar de Esmeralda
+3917	Colar de Esmeralda
+3918	Colar de Esmeralda
+3919	Colar de Esmeralda
+3920	Colar de Diamante
+3921	Colar de Diamante
+3922	Colar de Diamante
+3923	Colar de Diamante
+3924	Colar de Diamante
+3925	Colar de Diamante
+3926	Colar de Saboeiro
+3927	Colar de Saboeiro
+3928	Colar de Saboeiro
+3929	Colar de Saboeiro
+3930	Colar de Saboeiro
+3931	Colar de Saboeiro
+3932	Colar de Selene
+3933	Colar de Selene
+3934	Colar de Selene
+3935	Colar de Selene
+3936	Colar de Selene
+3937	Colar de Selene
+3938	Colar da Harmonia
+3939	Colar da Harmonia
+3940	Colar da Harmonia
+3941	Colar da Harmonia
+3942	Colar da Harmonia
+3943	Colar da Harmonia
+3944	Colar_Comum_Categoria 15_Laranja
+3945	Colar_Comum_Categoria 15_Branco
+3946	Colar_Comum_Categoria 15_Roxo
+3947	Colar_Comum_Categoria 15_Verde
+3948	Colar_Comum_Categoria 15_Azul
+3949	Colar_Comum_Categoria 15_Dourado
+3950	Colar_Comum_Categoria 16_Laranja
+3951	Colar_Comum_Categoria 16_Branco
+3952	Colar_Comum_Categoria 16_Roxo
+3953	Colar_Comum_Categoria 16_Verde
+3954	Colar_Comum_Categoria 16_Azul
+3955	Colar_Comum_Categoria 16_Dourado
+3956	Colar_Comum_Categoria 17_Laranja
+3957	Colar_Comum_Categoria 17_Branco
+3958	Colar_Comum_Categoria 17_Roxo
+3959	Colar_Comum_Categoria 17_Verde
+3960	Colar_Comum_Categoria 17_Azul
+3961	Colar_Comum_Categoria 17_Dourado
+3962	Colar_Comum_Categoria 18_Laranja
+3963	Colar_Comum_Categoria 18_Branco
+3964	Colar_Comum_Categoria 18_Roxo
+3965	Colar_Comum_Categoria 18_Verde
+3966	Colar_Comum_Categoria 18_Azul
+3967	Colar_Comum_Categoria 18_Dourado
+3968	Colar_Comum_Categoria 19_Laranja
+3969	Colar_Comum_Categoria 19_Branco
+3970	Colar_Comum_Categoria 19_Roxo
+3971	Colar_Comum_Categoria 19_Verde
+3972	Colar_Comum_Categoria 19_Azul
+3973	Colar_Comum_Categoria 19_Dourado
+3974	Colar do Novato
+3975	Colar do Novato
+3976	Colar do Novato
+3977	Colar do Novato
+3978	Colar do Novato
+3979	Colar do Novato
+3980	Colar_Comum_Categoria 20_Laranja
+3981	Colar_Comum_Categoria 20_Branco
+3982	Colar_Comum_Categoria 20_Roxo
+3983	Colar_Comum_Categoria 20_Verde
+3984	Colar_Comum_Categoria 20_Azul
+3985	Colar_Comum_Categoria 20_Dourado
+3986	Colar de Ossos
+3987	Colar de Ossos
+3988	Colar de Ossos
+3989	Colar de Ossos
+3990	Colar de Ossos
+3991	Colar de Ossos
+3992	Colar de Vidro
+3993	Colar de Vidro
+3994	Colar de Vidro
+3995	Colar de Vidro
+3996	Colar de Vidro
+3997	Colar de Vidro
+3998	Colar Coral
+3999	Colar Coral
+4000	Colar Coral
+4001	Colar Coral
+4002	Colar Coral
+4003	Colar Coral
+4004	Colar de Pérolas
+4005	Colar de Pérolas
+4006	Colar de Pérolas
+4007	Colar de Pérolas
+4008	Colar de Pérolas
+4009	Colar de Pérolas
+4010	Colar de Cristal
+4011	Colar de Cristal
+4012	Colar de Cristal
+4013	Colar de Cristal
+4014	Colar de Cristal
+4015	Colar de Cristal
+4016	Colar de Jade
+4017	Colar de Jade
+4018	Colar de Jade
+4019	Colar de Jade
+4020	Colar de Jade
+4021	Colar de Jade
+4022	Colar de Ágata
+4023	Colar de Ágata
+4024	Colar de Ágata
+4025	Colar de Ágata
+4026	Colar de Ágata
+4027	Colar de Ágata
+4028	Colar de Cristal Azul
+4029	Colar de Cristal Azul
+4030	Colar de Cristal Azul
+4031	Colar de Cristal Azul
+4032	Colar de Cristal Azul
+4033	Colar de Cristal Azul

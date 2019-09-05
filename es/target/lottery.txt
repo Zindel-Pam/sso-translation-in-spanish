@@ -1,0 +1,503 @@
+0	^a800ffInsígnia Negra x30\rAo colecionar um determinado número, poderá trocar por 1 Armadura dos Cinco Cavaleiros Negros
+1	^a800ffSangue Demoníaco x999
+2	^a800ffFênix·Traje de Asa x1: troca de montaria alada
+3	^e5872fAlma: Laranjas ou Roxas
+4	Demais ferramentas aleatórias
+5	Cambio de habilidad[Escudero]
+6	Alma Feroz
+7	Jade Estelar Negra
+8	Expansão de inventário
+9	Expansão de armazém
+10	Livro do Oráculo de Ouro
+11	Elixir leve de Recuperação
+12	Alma Ardente
+13	Pacote de presente de Silver nível avançado
+14	Sacola de Estrelas II
+15	Luz da Estrela Condensada
+16	Elixir intermediário de Recuperação
+17	Dado do Destino
+18	Megafone Mundial
+19	Centro de Energia de Dobro de EXP
+20	Elixir avançado de Recuperação
+21	^a800ffEstrela Altair de Tanabata x1(Prática máx. 4500)
+22	^a800ffEstrela Vega de Tanabata x1(Prática máx. 4500)
+23	^a800ffFlores x999
+24	^a800ffQuimera·de Thor x1:Troca de montaria voadora
+25	^a800ffDemais prêmios grandes aleatórios
+26	Cambio de equipamiento[Escudero] x60
+27	Alma Ardente x8
+28	Alma Feroz x8
+29	Cambio de habilidad[Escudero] x3
+30	Cambio de equipamiento[Escudero] x18
+31	Alma Ardente x3
+32	Alma Feroz x3
+33	Cristal Estelar Negro x125
+34	Fragmento de Estola x50
+35	Sangue de Bronze x10
+36	Cambio de habilidad[Escudero] x1
+37	Cambio de equipamiento[Escudero] x6
+38	Alma Ardente x1
+39	Alma Feroz x1
+40	Cristal Estelar Negro x25
+41	Expansão de inventário x1
+42	Expansão de armazém x1
+43	Fragmento de Estola x10
+44	Jade Estelar Negra x10
+45	Cambio de equipamiento[Escudero] x1
+46	Livro do Oráculo de Ouro x1
+47	Alma Ardente x2
+48	Alma Feroz x2
+49	Pacote de presente de Silver nível avançado x1
+50	Sacola de Estrelas II x1
+51	Luz da Estrela Condensada x5
+52	Elixir avançado de Recuperação x1
+53	Dado do Destino x1
+54	Megafone Mundial x1
+55	Centro de Energia de Dobro de EXP x1
+56	Jade Estelar Negra x5
+57	Luz de Astro EXP x1
+58	Livro do Oráculo de Prata x1
+59	Areia Estelar x1
+60	Fragmento Bronze x5
+61	Sangue de Bronze x5
+62	Fragmento Prata x5
+63	^a800ffSangue Demoníaco x1
+64	^a800ffSangue de Ouro x1
+65	^0184ffFragmento Prata x1
+66	Fragmento Bronze
+67	Luz de Astro EXP
+68	Livro do Oráculo de Prata
+69	Areia Estelar
+70	^a800ffCoelho bomba x1(Prática máx. 4500)
+71	^a800ffChave Cósmica x999
+72	^a800ffMontaria Voadora: Tiamat · Interesse do gelo e fogo x1
+73	^a800ffSangue Demoníaco (perfeito) x1
+74	Cambio de equipamiento[Escudero]
+75	Cristal Estelar Negro
+76	Fragmento de Estola
+77	Sangue de Bronze
+78	Fragmento Prata
+79	^a800ffEscudeiro: Soldado Raso x1
+80	^e5872fRelíquia: Escudo de Medusa de Perseu x1
+81	^a800ffFonte Espiritual I x999
+82	^a800ffOsso de Tiranossauro · Veneno mortal 1x\rOu Osso de Tiranossauro · Noite interminável x1, permanente
+83	^a800ffDemais prêmios grandes aleatórios inclui:\rSangue de Prata x100, Sangue Demoníaco (perfeito) x1, Alma Ardente x100, Alma Feroz x100, etc
+84	^a800ffSangue Demoníaco (perfeito)
+85	Origem do Sangue Divino
+86	^a800ffEscudeiro: Bonequinha de bola de neve x1 (Vermelho ou roxo)
+87	^e5872fRelíquia: Rosário de Virgem x1
+88	^a800ffLuz Sagrada de Ouro x999
+89	^a800ffMontaria voadora: Rena de Natal x1 ou Pedra de Explosão Divina x1 (Pode trocar pra versão de montaria permanente)
+90	^a800ffDemais prêmios grandes aleatórios inclui:\rSangue de Prata x100, Sangue Demoníaco (perfeito) x1, Pacote de presente de traje Feliz Natal x1, Fusor de Energia x100, Alma Ardente x100, Alma Feroz x100, etc
+91	^a800ffPet de Batalha do Deus do Amor x1 (Prática máx.: 4500)
+92	^e5872fRelíquia: Rosa de Peixes x1
+93	^a800ffSangue de Hades x999
+94	^a800ffBênção da Deusa☆Aquário x999
+95	^a800ffDemais prêmios grandes aleatórios inclui:\rSangue de Prata x100, Sangue Demoníaco (perfeito) x1, Pacote de presente de traje do Ano Novo Chinês x1, Fusor de Energia x100, Placa da Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1, Alma Ardente x100, Alma Feroz X100, etc
+96	Pacote de presente de traje masculinos do Ano Novo Chinês
+97	Pacote de presente de traje femininos do Ano Novo Chinês
+98	Fusor de Energia
+99	Placa da Relíquia
+100	Sexto período da loteria
+101	Pedra Divina da Tempestade
+102	^a800ffHyoga SD x1
+103	^a800ffPedra Divina da Tempestade x1
+104	^a800ffAlma da Relíquia x100
+105	^a800ffFusor de Energia x100
+106	^a800ffEssência de Reformulação x100
+107	^a800ffSangue Demoníaco x100
+108	^a800ffSangue de Prata x100
+109	^a800ffAlma Ardente x100
+110	^a800ffAlma Feroz x100
+111	Cambio de habilidad[Escudero] x6
+112	Diamante de Silver x10
+113	Alma da Relíquia x5
+114	Alma da Relíquia x3
+115	Diamante de Silver x10
+116	Livro de Athena x1
+117	Alma da Relíquia x3
+118	Pacote de presente de Brilho Estelar x1
+119	Diamante de Silver x4
+120	Jade Estelar Negra x20
+121	Fusor de Energia x5
+122	Diamante de Silver x1
+123	Dado do Destino x1
+124	Fusor de Energia x1
+125	Luz de Astro EXP x3
+126	Origem do Sangue Divino x1
+127	^a800ffSirenes x1(Prática máx. 4500)
+128	^e5872fRelíquia: Excalibur de Capricórnio x1
+129	^a800ffBênção da Deusa☆Peixes x999
+130	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Lobo Demoníaco Azul x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rtroca do Pacote de presente de traje do Ano Novo Chinês: Certificado de Cavaleiro da Princesa x1, Fusor de Energia x100, Placa da Relíquia (troca de Relíquia universal) x1\rPedra Divina da Tempestade (troca de montaria voadora universal) x1, Alma Ardente x100, Alma Feroz X100, etc
+131	^a800ffEscudeiro: Mini Jabu x1(Prática máx. 4500)
+132	^e5872fÂnfora de Aquário x1
+133	^a800ffBênção da Deusa☆Áries x999
+134	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Azul Escuro do Mar Profundo x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de trajes femininos e masculinos novos x1, Fusor de Energia x100, Placa da Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+135	Sangue de Prata
+136	Certificado de Cavaleiro da Princesa
+137	Bênção da Deusa☆Peixes
+138	Chave Cósmica
+139	^a800ffEscudeiro: Mini Ban x1(Prática máx. 4500)
+140	^e5872fArco de Sagitário x1
+141	^e5872fAlma Ardente x999
+142	^a800ffBênção da Deusa☆Touro x999
+143	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Rei Leão Furioso x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de trajes femininos e masculinos novos x1, Fusor de Energia x100, Placa da Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+144	^a800ffMini Geki x1(Prática máx. 4500)
+145	^e5872fMáscara de Gêmeos x1
+146	^e5872fFragmento de Gema x9999
+147	^a800ffBênção da Deusa☆Gêmeos x999
+148	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Dragão x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de trajes femininos e masculinos novos x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+149	Bênção da Deusa☆Gêmeos
+150	^a800ffMini Nachi x1(Prática máx. 4500)
+151	^e5872fPinça de Câncer x1
+152	^a800ffBênção da Deusa☆Câncer x999
+153	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Carro em Chamas x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje de Couro da Alma x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz x100, etc
+154	Pacote de presente de traje de Couro da Alma
+155	Insígnia de Relíquia
+156	Cristal Espiritual
+157	^a800ffJune SD x1 (Prática máx. 4500)
+158	^e5872fPresa de Leão x1
+159	^a800ffBênção da Deusa☆Leão x999
+160	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Mascote de Pandora x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje do Verão x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+161	Pacote de traje do Mês de Leão
+162	Fonte Espiritual I
+163	^a800ffMini Marin x1(Prática máx. 4500)
+164	^e5872fEscudo de Athena [Lenda] x1
+165	^a800ffBênção da Deusa☆Virgem x999
+166	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Soberano do Céu Estrelado x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje do Exército da Noite x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+167	Pacote de presente de traje do Exército da Noite
+168	^a800ffMini Ichi x1(Prática máx. 4500)
+169	^e5872fNunchaku de Libra x1
+170	^a800ffBênção da Deusa☆Libra x999
+171	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Garuda Metálica x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje de Coração de Ninja x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+172	Pacote de presente de traje de Coração de Ninja
+173	^a800ffMini Jamian x1 (Prática máx. 4500)
+174	^e5872fCauda de Ouro de Escorpião x1
+175	^a800ffBênção da Deusa☆Escorpião (II) x999
+176	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Glória de Apolo x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje Amo Estar na Temporada de Neve x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+177	Pacote de presente de traje Amo Estar na Temporada de Neve
+178	^a800ffMini Orfeu x1 (Prática máx. 4500)
+179	^e5872fLança de Ouro de Libra x1
+180	^a800ffBênção da Deusa☆Sagitário (II) x999
+181	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Sombra Veloz Estrelada x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje do Campus Inexperiente x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+182	Pacote de presente de traje do Campus InexperientePacote de presente de moda do Verão x1
+183	^a800ffMini Tremy x1(Prática máx. 4500)
+184	^e5872fMartelo Divino de Áries x1
+185	^a800ffBênção da Deusa☆Capricórnio (II) x999
+186	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Presente do Papai Noel x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje da Noite de Natal x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+187	Pacote de presente de traje da Noite de NatalPacote de presente de traje de Feliz Natal x1
+188	^a800ffMini Algol x1 (Prática máx. 4500)
+189	^e5872fCapacete de Ouro de Touro x1
+190	^a800ffBênção da Deusa☆Aquário (II) x999
+191	^a800ffDemais prêmios grandes aleatórios: Inclui montaria voadora: Ferrão da Glória x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje de Hip Hop x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de montaria voadora universal) x1\rAlma Ardente x100, Alma Feroz X100, etc
+192	Pacote de presente de traje de Hip Hop
+193	^a800ffFesta no jardim de vento, chuva e cervo x1
+194	^a800ffPacote de traje do ano da prosperidade e felicidade x1
+195	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora do Ano Novo Chinês: Fugitivo na primavera x1, Montaria Voadora: Ferrão da Glória x1, Pacote de presente de traje de Hip Hop x1\rFragmento de Gema x9999, Bênção da Deusa☆Ano Novo x999, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1Fênix · Traje de Asa x1, Leão de Seda x1, Leão Alado de Ouro x1, etc, Montarias antigas\rCoelho Bombinha x1, Bonequinha de Bola de Neve x1, Soldado Raso x1, Filho do Deus do Amor Eros x1, etc, Escudeiros antigos\rPacote de presente de traje de Feliz Natal x1, Pacote de presente de traje do Verão x1, Certificado de Cavaleiro da Princesa x1, etc, Pacotes de presente de traje antigos\rFusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de Montaria Voadora universal) x1\rAlma Ardente x100, Alma Feroz x100, etc
+196	Estrela filho de Tanabata x1
+197	Estrela mãe de Tanabata x1
+198	Coelho Bombinha x1
+199	Coelha Bombinha x1
+200	Soldado Raso x1
+201	Bonequinha de Bola de Neve (vermelho) x1
+202	Bonequinha de bola de neve (roxo) x1
+203	Filho do Deus do Amor Eros x1
+204	Sirenes x1
+205	Fragmento de Gema x1
+206	Bênção da Deusa☆Ano Novo x1
+207	Ferrão da Glória x1
+208	Festa no jardim de vento, chuva e cervo x1
+209	Fugitivo na primavera x1
+210	Fênix · Traje de Asa x1
+211	Leão Alado de Ouro x1
+212	Leão Relâmpago x1
+213	Interesse do Fogo e do Gelo x1
+214	Rudolph · Trenó das Neves x1
+215	Leão de Seda x1
+216	Lobo Demoníaco Azul x1
+217	Azul escuro do mar profundo x1
+218	Rei Leão Furioso x1
+219	Sangue Demoníaco (perfeito) x1
+220	Pacote de presente de traje de Hip Hop x1
+221	Certificado de Cavaleiro da Princesa x1
+222	Pacote de presente de traje de Feliz Natal x1
+223	Pacote de presente de traje Sweet Candy x1
+224	Pacote de presente de moda do Verão x1
+225	Pedra Divina da Tempestade x1
+226	Chave Cósmica x1
+227	Insígnia de Relíquia x1
+228	Cristal Estelar Negro x1
+229	Fragmento de Estola x1
+230	Luz da Estrela Condensada x1
+231	Jade Estelar Negra x1
+232	Fonte Espiritual I x1
+233	^a800ffMini Io x1 (Prática máx. 4500)
+234	^ffff00Báculo de Athena [Lenda] x1
+235	^a800ffBênção da Deusa☆Áries (II) x999
+236	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Leopardo das Estrelas x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje Espanhol x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de Montaria Voadora universal) x1\rAlma Ardente x100, Alma Feroz x100, etc
+237	Pacote de presente de traje Espanhol
+238	^a800ffMini Pégasus Negro x1 (Prática máx. 4500)
+239	^e5872fCapacete de Lymnades x1
+240	^a800ffBênção da Deusa☆Touro (II) x999
+241	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Esquilo da Floresta x1, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rPacote de presente de traje do Ritmo do Miado x1, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de Montaria Voadora universal) x1\rAlma Ardente x100, Alma Feroz x100, etc
+242	Pacote de presente de traje do Ritmo do Miado
+243	^a800ffLuz Sagrada de Ouro x100
+244	^a800ffCertificado de Cavaleiro da Princesa x1
+245	^a800ffDemais prêmios grandes aleatórios: Inclui Chave Cósmica x100, Sangue de Prata x100, Sangue Demoníaco (perfeito) x1\rFusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Alma Ardente x100, Alma Feroz x100, etc
+246	Fragmento Ouro
+247	Elemento da Estrela nível 3
+248	Elemento da Estrela nível 2
+249	^a800ffMini Isaac x1 (Prática máx. 4500)
+250	^e5872fFlauta Mágica de Sirene x1
+251	^a800ffBênção da Deusa☆Gêmeos (II) x999
+252	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Touro do Poder x1, Montaria Voadora: Touro Dourado x1, Montaria Voadora: Touro da Destruição x1\rSangue de Prata x100, Sangue Demoníaco (perfeito) x1, Pacote de presente de traje de Colegiais de Sangue Quente x1, Fusor de Energia x100\rInsígnia de Relíquia (troca de Relíquia universal) x1, Pedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+253	Bilhete de Loteria do Búfalo de Luta 2
+254	Bilhete de Loteria do Búfalo de Luta 3
+255	Pacote de presente de traje de Colegiais de Sangue Quente
+256	^a800ffMini Mouses x1 (Prática máx. 4500)
+257	^e5872fAsas de Sangue de Skilla x1
+258	^a800ffBênção da Deusa☆Câncer (II) x999
+259	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Sapo da Sorte x1, Kit de Beisebol para Lazer x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+260	Pacote de Presente de traje 23
+261	Insígnia de Traje Clássico
+262	Insígnia de Montaria Clássica
+263	Insígnia de Escudeiro Clássico
+264	^a800ffMini Fênix Negro x1 (Prática máx. 4500)
+265	^e5872fAnel de Sabedoria de Crisaor x1
+266	^a800ffBênção da Deusa☆Leão (II) x999
+267	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Fumaça do Deserto x1, Kit Brilho do Sol da Praia x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+268	Kit Brilho do Sol da Praia
+269	^a800ffMini Dante x1 (Prática máx. 4500)
+270	^e5872fFrio Intenso de Kraken x1
+271	^a800ffBênção da Deusa☆Virgem (II) x999
+272	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Tartaruga Jurássica x1, Kit de borlas de ouro e prata do Guarda de Honra x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+273	^a800ffMini Dragão Negro x1 (Prática máx. 4500)
+274	^e5872fViolência de Dragão Marinho x1
+275	^a800ffBênção da Deusa☆Libra (II) x999
+276	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Rei de Tebas x1, Kit Caber para Lazer x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+277	Kit Caber para Lazer
+278	^a800ffMini Sorento x1 (Prática máx. 4500)
+279	^e5872fTridente de Poseidon [Lenda] x1
+280	^a800ffBênção da Deusa☆Escorpião (II) x999
+281	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Ressurgimento! Tesouro Nacional x1, Pacote de presente de traje de Favor da Ilha da Pena x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+282	Bênção de Vênus
+283	^a800ffShunrei SD x1 (Prática máx. 4500)
+284	^e5872fRemo de Aqueronte x1
+285	^a800ffBênção da Deusa☆Sagitário (III) x999
+286	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Porquinho da Índia Fofo x1, Pacote de presente de traje do Vento Negro x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+287	Pacote de presente de traje do Vento Negro
+288	Asa da loteria de novembro
+289	^a800ffMini Kanon x1 (Prática máx. 4500)
+290	^e5872fMadrágora de Alraune x1
+291	^a800ffBênção da Deusa☆Capricórnio (III) x999
+292	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Trenó de Huskys x1, Pacote de presente de traje de Caminhada na Neve x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+293	Beijo Negro
+294	^a800ffMini Cisne Negro x1 (Prática máx. 4500)
+295	^e5872fHarpa de Esfinge x1
+296	^a800ffBênção da Deusa☆Aquário (III) x999
+297	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Montaria Alada Demoníaca x1, Pacote de presente de traje do Eco x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+298	Pacote de presente de traje do Eco
+299	Rosa Índigo
+300	^a800ffMini Thetis x1 (Prática máx. 4500)
+301	^e5872fBorboleta de Papillon x1
+302	^a800ffBênção da Deusa☆Ano Novo (II) x999
+303	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Nuvem Mágica de Wukong x1, Pacote de presente de traje do Início da Estação x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+304	Pacote de presente de traje de Caminhada na Neve
+305	Grande Nevasca
+306	^a800ffMini Andrômeda Negro x1 (Prática máx. 4500)
+307	^e5872fCódigo de Balron x1
+308	^a800ffBênção da Deusa☆Áries (III) x999
+309	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Carneiro Metálico x1, Pacote de presente de traje da Aurora x1, Sangue Demoníaco (perfeito) x1\rAsas: Cócito! Asas do Demônio Glacial x1, Tóxico! Asas do Demônio da Separação x1, Velocidade da Luz! Asas do Demônio do Submundo x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+310	Pacote de presente de traje do Sentimento Amoroso
+311	Cócito! Asas do Demônio Glacial
+312	Tóxico! Asas do Demônio da Separação
+313	Velocidade da Luz! Asas do Demônio do Submundo
+314	^a800ffMini Misty x1 (Prática máx. 4500)
+315	^e5872fTentáculos de Verme x1
+316	^a800ffBênção da Deusa☆Touro (III) x999
+317	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Carneiro Metálico x1, Asas: Cócito! Asas do Demônio Glacial, Tóxico! Asas do Demônio da Separação, Velocidade da Luz! Asas do Demônio do Submundo, Pacote de Presente de traje 32 x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz X100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+318	Pacote de presente de traje da Aurora do Rio Nilo
+319	Etéreo! Asas de Anjo
+320	^a800ffMini Capella x1 (Prática máx. 4500)
+321	^e5872fEspada de Hades [Lenda] x1
+322	^a800ffBênção da Deusa☆Gêmeos (III) x999
+323	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Cavalo Marinho Prateado, Cavalo Marinho Púrpura, Cavalo Marinho Escarlate, Asas: Asas Psicodélicas, Pacote de presente de traje do Mar do Caribe x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+324	Cavalo Marinho Prateado
+325	Cavalo Marinho Escarlate
+326	Cavalo Marinho Púrpura
+327	Asas Psicodélicas
+328	^a800ffMini Jango x1 (Prática máx. 4500)
+329	^e5872fEspinha de Dragão de Wyvern x1
+330	^a800ffBênção da Deusa☆Câncer (III) x999
+331	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Pinguim Palhaço, Asas: Asa de Borboleta Rosa, Asa de Borboleta Azul, Asa de Borboleta Verde, Pacote de presente de traje do Paraíso x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+332	Pacote de presente de traje do Paraíso
+333	Asa de Borboleta Rosa
+334	Asa de Borboleta Azul
+335	Asa de Borboleta Verde
+336	^a800ffMini Zelos x1 (Prática máx. 4500)
+337	^e5872fMachado de Minotauro x1
+338	^a800ffBênção da Deusa☆Leão (III) x999
+339	^a800ffDemais prêmios grandes aleatórios: Inclui Montaria Voadora: Caranguejo dos Contos, Asas: Sonho de Jade, Pacote de presente de traje de Praia x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+340	Pacote de presente de traje Praia de Bali
+341	Pacote de presente de traje Praia Siciliana
+342	Pacote de presente de traje Praia Mexicana
+343	Sonho de Jade
+344	^e5872fInsígnia de Relíquia x1
+345	^a800ffBênção da Deusa☆Sentimento Inicial x999
+346	^a800ffDemais prêmios grandes aleatórios: Sangue Demoníaco x100, Sangue de Prata x100, Fusor de Energia x100, Sangue de Ouro x100, Bênção de Vênus x1\rPedra Divina da Tempestade (troca de Montaria Voadora universal) x1, Alma Ardente x100, Alma Feroz x100, Luz Sagrada de Ouro x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+347	Sangue Demoníaco
+348	Sangue de Ouro
+349	^a800ffMini Faraó x1 (Prática máx. 4500)
+350	^e5872fRelíquia: Marionete de Griffon x1
+351	^a800ffBênção da Deusa☆Virgem (III) x999
+352	^ff0000Grande Prêmio Especial (probabilidade mínima): Sangue Demoníaco (perfeito) x8\r^a800ffDemais prêmios grandes aleatórios: Montaria Voadora: Carruagem da Fantasia, Asa Sagrada, Pacote de presente de traje de lua e estrelas x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Traje Clássico x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássico x1, etc
+353	Carruagem da Fantasia
+354	Pacote de presente de traje de lua e estrelas
+355	Alma da Relíquia
+356	Pedra Espiritual Selada
+357	Sagrado! Asa em Chamas
+358	Sagrado! Asa de Luxo
+359	Sagrado! Asa da Fantasia
+360	Fragmento de Gema
+361	Cupom do Desafio de Alraune
+362	Meteorito Condensado
+363	Fruta de Poder Mágico
+364	Megafone de Anúncio
+365	Luz Sagrada de Ouro
+366	^a800ffMini Papillon x1 (Prática máx. 4500)
+367	^e5872fElmo de Basilisk x1
+368	^a800ffBênção da Deusa☆Escorpião (IV) x999
+369	^ff0000Grande Prêmio Especial (probabilidade mínima): Sangue Demoníaco (perfeito) x8\r^a800ffDemais prêmios grandes aleatórios: montaria voadora: Rinoceronte Escarlate, Asas: Asas de Dragão Sombrio, Pacote de presente de traje de festa de Dia das Bruxas x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100,  Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rEmblema de Traje Clássico x1, Emblema de Montaria Clássica x1, Emblema Clássico do Escudeiro x1, etc
+370	Rinoceronte Escarlate
+371	Pacote de presente de traje de festa de Dia das Bruxas
+372	Asas de Dragão Sombrio
+373	^a800ffBên. da Deusa☆Queen (Lim. de Prática: 4500)
+374	^e5872fHarpia: Máscara da Águia x1
+375	^a800ffBênção da Deusa☆Sagitário(IV)x999
+376	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora: Jaguar Dourado, Asas Douradas do Futuro, Pacote Doge x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc
+377	Jaguar Dourado
+378	Pacote Doge
+379	Luz do Futuro
+380	^a800ffMini Caronte x1 (Prática máx. 4500)
+381	^e5872fCarapaça Traiçoeira de Frog x1
+382	^a800ffBênção da Deusa☆Libra (III) x999
+383	^ff0000Grande Prêmio Especial (probabilidade mínima): Sangue Demoníaco (perfeito) x8\r^a800ffDemais prêmios grandes aleatórios: montaria voadora: Dragão de Asas Azuis, Asas: Asa Rosé, Pacote de presente de traje de Universitários de Sangue Quente x1, Sangue Demoníaco (perfeito) x1\rSangue de Prata x100, Fusor de Energia x100,  Insígnia de Relíquia (troca de Relíquia universal) x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rEmblema de Traje Clássico x1, Emblema Clássico do Escudeiro x1, etc
+384	Dragão de Asas Azuis
+385	Pacote de presente de traje de Universitários de Sangue Quente
+386	Asa Rosé
+387	Bênção de Niobe x1 (Lim. de Prática: 4500)
+388	^e5872fChifre: Punho de Rock x1
+389	^a800ffBênção da Deusa☆Capricórnio(IV)
+390	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Três tipos de Montarias Voadoras：Trenó Natalino II, Trenó Natalino III, Trenó Natalino IV, Três tipos de Asas: Coração Inocente, Coração Cristal, Coração Esmeralda, Traje Contos de Fadas III x1\rSangue Demoníaco (Perfeito) x1, Sangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc
+391	Trenó Natalino II
+392	Trenó Natalino III
+393	Trenó Natalino IV
+394	Pacote Snowman
+395	Pacote Polar
+396	Pacote Rodolfo
+397	Coração Inocente
+398	Coração Cristal
+399	Coração Esmeralda
+400	^a800ffBên. da Deusa☆Pandora (Lim. de Prática: 4500)
+401	^e5872fDeep: Ombreira Infernal x1
+402	^a800ffBênção da Deusa☆Aquário(IV)x999
+403	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Bode Prateado, Asa da Quimera, Pacote Piu x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+404	Bode Prateado
+405	Pacote Piu
+406	Asa da Quimera
+407	^a800ffBên. da Deusa☆Ano Novo(III) (Lim. de Prática: 4500)
+408	^e5872fPandora: Tridente das Trevas x1
+409	^a800ffBên. da Deusa☆Ano Novo(III) x999
+410	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Avestruz Dourado, Fênix de Dança, Pacote Shanghai x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+411	Avestruz Dourado
+412	Pacote Shanghai
+413	Fenix de Dança - 9 dias
+414	^a800ffBên. da Deusa☆Touro (Lim. de Prática: 4500)
+415	^e5872fBalron: Flagelo de Lune x1
+416	^a800ffBênção da Deusa☆Touro(IV)x999
+417	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Lula Flamejante, Pena Negra, Pacote Elegance x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+418	Lula Flamejante
+419	Pacote Elegance
+420	Pena Negra
+421	^a800ffBên. da Deusa☆Gordon (Lim. de Prática: 4500)
+422	^e5872fPoseidon: Elmo da Criação e Destruição[Lenda] x1
+423	^a800ffBênção da Deusa☆Gêmeos(IV)x999
+424	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Dente de Sabre Dourado, Asas do Rei Fada, Pacotes aleatórios de traje, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+425	Dente de Sabre Dourado
+426	Pacote Dark Gray
+427	Pacote Navy Blue
+428	Pacote Pink White
+429	Asas do Rei Fada
+430	^a800ffMini Sylphid x1 (Prática máx. 4500)
+431	^e5872fGaruda: Asas de Aiacos x1
+432	^a800ffBênção da Deusa☆Câncer(IV) x999
+433	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Arraia Dourada, Milhões de Vidro, Pacote Dia Ensolarado x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+434	Arraia Dourada
+435	Pacote Dia Ensolarado
+436	Milhões de Vidro
+437	^a800ffMini Lune x1 (Prática máx. 4500)
+438	^e5872fCiclope: Artefato de Giganto x1
+439	^a800ffBênção da Deusa☆Leão(IV) x999
+440	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Pippinho, Fantasma Azul, Pacote Verão Sem Fim x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+441	Pippinho
+442	Pacote Verão Sem Fim
+443	Fantasma Azul
+444	^a800ffMini Iwan x1 (Prática máx. 4500)
+445	^e5872fPapillon: Elmo de Myu x1
+446	^a800ffBênção da Deusa☆Virgem(IV) x999
+447	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Grifo Dourado, Milagre Laranja, Pacote Conto de Fadas x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+448	Grifo Dourado
+449	Pacote Conto de Fadas
+450	Milagre Laranja
+451	^a800ffMini Aioros x1 (Prática máx. 4500)
+452	^e5872fDeus do Sono: Asas de Hypnos x1
+453	^a800ffBênção da Deusa☆Libra(IV) x999
+454	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Ave de Cairns, Asas do Céu Azul, Pacote Escarlate x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+455	Ave de Cairns
+456	Pacote Escarlate
+457	Asas do Céu Azul
+458	^a800ffMini Verme x1 (Prática máx. 4500)
+459	^e5872fDohko: Escudo de Libra x1
+460	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Youkai Hakutaku, Coração do Mar Azul, Pacote Azul Bebê x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+461	Youkai Hakutaku
+462	Pacote Azul Bebê
+463	Coração do Mar Azul
+464	^a800ffMini Shura x1 (Prática máx. 4500)
+465	^e5872fTouro: Elmo Dourado x1
+466	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Mamute Dourado, Invasão Noturna, Pacote Aristocrático x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+467	Mamute Dourado
+468	Pacote Aristocrático
+469	Invasão Noturna
+470	^a800ffMini Camus x1 (Prática máx. 4500)
+471	^e5872fSagitário: Flecha Dourada x1
+472	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Rudolph, Asa Roxa, Pacote Boneco de Neve x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+473	Rudolph
+474	Pacote Boneco de Neve
+475	Asa Roxa
+476	^a800ffMini Afrodite x1 (Prática máx. 4500)
+477	^e5872fGêmeos: Object de Gêmeos x1
+478	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Hidra, Pacote Maligno, Pacote de Traje de Jamiel x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+479	Hidra
+480	Pacote de Traje
+481	Asas Malignas
+482	^a800ffMini Mu x1 (Prática máx. 4500)
+483	^e5872fShaka: Artefato de Virgem x1
+484	^a800ffBênção da Deusa☆Ano Novo(IV) x999
+485	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Welsh Corgi, Cerimônia Noturna, Pacote Romântico x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+486	Welsh Corgi
+487	Cerimônia Noturna
+488	^a800ffBên. da Deusa☆Krishna (Lim. de Prática: 4500)
+489	^e5872fTroll: Chicote de Iwan x1
+490	^a800ffBênção da Deusa☆Áries(IV)x999
+491	^ff0000Prêmio Especial (Chances Muito Baixas): Sangue Demoníaco (Perfeito) x8\r^a800ffDemais Prêmios Aleatórios: Montaria Voadora Coruja Dourada, Frutífera, Pacote Rockstar x1, Sangue Demoníaco (Perfeito) x1\rSangue de Prata x100, Fusor de Energia x100, Insígnia de Relíquia x1, Bênção de Vênus x1\rPedra Espiritual Selada x50, Alma da Relíquia x50, Alma Ardente x100, Alma Feroz x100\rInsígnia de Moda Clássica x1, Insígnia de Montaria Clássica x1, Insígnia de Escudeiro Clássica x1, etc...
+492	Coruja Dourada
+493	Pacote Rockstar
+494	Frutífera
+495	^a800ffTraje Refinado de Dia das Bruxas x1
+496	^a800ffLivro de Athena x5
+497	^a800ffDemais prêmios grandes: Inclui Insígnia de Relíquia x1, Sangue Demoníaco (perfeito) x1, Sangue de Prata x100, Chave Cósmica x100\rFusor de Energia x100, Alma Ardente x100, Alma Feroz x100
+498	^a800ffDemais prêmios grandes: Inclui Sangue de Prata x8, Chave Cósmica x8\rFusor de Energia x8, Alma Ardente x8, Alma Feroz x8
+499	^a800ffDemais prêmios grandes: Sangue Demoníaco (perfeito) x1, Sangue de Prata x100, Chave Cósmica x100\rFusor de Energia x100, Alma Ardente x100, Alma Feroz x100
+500	^a800ffDemais prêmios grandes: Inclui Sangue de Prata x5, Chave Cósmica x5Fusor de Energia x5, Alma Ardente x5, Alma Feroz x5
+501	^e5872fRosário de Virgem x1
+502	^e5872fRosa de Peixes x1

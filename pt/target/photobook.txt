@@ -1,0 +1,319 @@
+0	Todos
+1	Monstros
+2	Personagens
+3	OK!
+4	Falha
+5	Entregue de forma incorreta
+6	Ilustração Inexistente
+7	As ilustrações não podem ser entregues
+8	A informação entregue é inválida
+9	O número de itens entregues está incorreto
+10	As ilustrações correspondentes ainda não foram obtidas
+11	Conseguiu a ilustração %s
+12	Você não conseguiu obter as ilustrações correspondentes
+13	Este item não corresponde a ilustração em questão, o Álbum não pôde ser aberto
+14	Personagens
+15	Armaduras
+16	Locais
+17	Cavaleiros de Ouro
+18	Cavaleiros de Prata
+19	Cavaleiros de Bronze
+20	Generais Marina
+21	Espectros
+22	Cavaleiros Negros
+23	Outros
+24	Armaduras de Bronze
+25	Armaduras de Prata
+26	Armaduras de Ouro
+27	Armaduras Divinas
+28	Escamas
+29	Mapa do Mundo
+30	Monstros
+31	Testes do Destino
+32	Itens
+33	Relíquias
+34	Itens de Coleção
+35	Quadrinhos
+36	Volume I
+37	Volume II
+38	Saori Kido
+39	^cd0000Idade: ^ffffff14 anos\r^cd0000Altura: ^ffffff155cm\r^cd0000Peso: ^ffffff44kg\r^cd0000Aniversário: ^ffffff01º de setembro\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Local de Nascimento: ^ffffffSantuário da Grécia
+40	Saori Kido é a reencarnação da Deusa Athena no século XX, sendo uma das personagens principais da série Os Cavaleiros do Zodíaco, criada por Masami Kurumada.\rAthena é a deusa da sabedoria, da guerra, da estratégia, da justiça e da esperança. De acordo com o Hipermito, é também a deusa que herdou de Zeus, seu pai real, o controle sobre a Terra.
+41	Julian Solo
+42	^cd0000Aniversário: ^ffffff21 de março\r^cd0000Sangue: ^ffffffTipo O\r^cd0000Local de Nascimento: ^ffffffGrécia
+43	Encarnação do Deus Poseidon, que já disputou com Athena o domínio da superfície terrestre. Poseidon sempre reencarnou no corpo dos descendentes da Família Solo, uma rica potência do comércio marítimo. Dessa vez, Poseidon foi despertado não por vontade própria, mas acidentalmente porque Kanon encontrou o seu tridente. Ele planejava criar uma utopia na Terra, depois de varrer da face terrestre os próprios seres humanos através de um dilúvio. Nos eventos da Saga de Hades, Julian tem novamente seu corpo possuído por Poseidon, que envia cinco Armaduras de Ouro para os Campos Elísios, afim de ajudar Athena e seus Cavaleiros de Bronze.
+44	Hades
+45	^cd0000Altura: ^ffffff184cm\r^cd0000Peso: ^ffffff73kg\r^cd0000Aniversário: ^ffffff09 de setembro
+46	Hades, é o senhor do Submundo, julgando, assim, as almas das pessoas para decidir se merecem paz ou sofrimento eterno. Junto com seus irmãos, Zeus e Poseidon, é um dos 3 grandes dos 12 Deuses do Olimpo, as divindades mais poderosas do univeso. Ele é o maior antagonista da série, que com o desejo de tomar a Terra, lança um ataque contra o Santuário com o objetivo de tirar a vida de Athena.O que mais odeia, é a luz do Sol, que leva a esperança ao Inferno, destruindo o muro das lamentações.
+47	Mu
+48	^cd0000Idade: ^ffffff20 Anos\r^cd0000Altura: ^ffffff182cm\r^cd0000Peso: ^ffffff75kg\r^cd0000Aniversário: ^ffffff27 de março\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffTibete\r^cd0000Treino: ^ffffffJamiel\r^cd0000Mestre: ^ffffffShion\r^cd0000 Aprendiz: ^ffffffKiki
+49	Mu é o Cavaleiro de Ouro de Áries do século XX. Hábil na restauração de Armaduras, é ele quem conserta as de Bronze do Seiya e dos outros antes da Batalha das Doze Casas. Como desde cedo desconfiava do Grande Mestre, deu as costas ao Santuário. Porém, desejando a purificação do local, manteve suas obrigações como Cavaleiro, dedicando-se à restauração das Armaduras em Jamiel. Porém, não pense que seu poder enfraqueceu por se afastar do Santuário, o que pôde ser constatado durante a batalha contra os Espectros. Mu é o mais tranquilo e pacífico dos Cavaleiros de Ouro e, ainda assim, é um dos mais poderosos. Só recorre a violência em situações extremas. As palavras são as suas armas na maioria dos casos. Apesar da sua aparência jovem, Mu mostra maturidade e grande sabedoria.
+50	Aldebaran
+51	^cd0000Idade: ^ffffff20 Anos\r^cd0000Altura: ^ffffff210 cm\r^cd0000Peso: ^ffffff130 kg\r^cd0000Aniversário: ^ffffff08 de maio\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffBrasil\r^cd0000Treino: ^ffffffBrasil
+52	Cavaleiro de Ouro que protege a Casa de Touro. Dotado de uma resistência fora do comum, nem mesmo o Meteoro de Pégasus de Seiya conseguiu causar danos ao seu corpo. O Grande Chifre, alusão ao chifre de um touro bravo, é seu golpe assinatura. De personalidade franca e despachada, confia no que sente, sem se preocupar com as aparências ou racionalidades. Aldebaran provém do árabe e significa "aquele que segue". É também o nome dado à Gigante Vermelha pertencente à Constelação de Touro, sendo a sua estrela mais brilhante. Durante a batalha das Doze Casas, facilitou propositalmente para que Seiya e os demais pudessem passar em segurança, perdendo um de seus chifres no processo. Na batalha em que os Espectros invadiram o Santuário, resistiu bravamente contra Níobe, a Estrela Terrestre das Trevas, e sacrificou-se heroicamente. Antes de morrer, contudo, destruiu completamente o corpo de seu adversário.
+53	Saga
+54	^cd0000Idade: ^ffffff28 Anos\r^cd0000Altura: ^ffffff188 cm\r^cd0000Peso: ^ffffff87 kg\r^cd0000Aniversário: ^ffffff30 de maio\r^cd0000Sangue: ^ffffffTipo AB\r^cd0000Nascimento: ^ffffffGrécia\r^cd0000Treino: ^ffffffSantuário da Grécia
+55	Saga é o Cavaleiro de Ouro de Gêmeos do século XX, que antigamente era tido como o próximo sucessor do Grande Mestre, tendo todas as características necessárias para o posto – humanidade, habilidade e força física. Dado como desaparecido há treze anos, ele esteve escondido por todo esse tempo sob a máscara do Grande Mestre, depois de assassiná-lo e tomar seu posto como governante do Santuário. Seu plano era matar Athena e dominar o mundo. Na verdade, Saga tinha dupla personalidade, oscilando entre extremos do bem e do mal. Dentro dele, esses opostos estavam sempre lutando entre si. Depois de ter seu coração purificado, ele mesmo tira sua vida, arrependido por seus atos contra a Deusa.
+56	Máscara da Morte
+57	^cd0000Idade: ^ffffff23 Anos\r^cd0000Altura: ^ffffff184 cm\r^cd0000Peso: ^ffffff82 kg\r^cd0000: ^ffffff24 de junho\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffItália\r^cd0000Treino: ^ffffffSicília
+58	Máscara da Morte é o Cavaleiro de Ouro de Câncer e protetor da quarta Casa do Zodíaco do século XX. Adora lutas, matança e acredita que, para um objetivo maior, alguns sacrifícios são inevitáveis. As paredes da Casa de Câncer são enfeitadas com os rostos das pessoas que foram mortas por ele. Emite uma aura branca do seu dedo indicador que envia a alma do oponente para a entrada do Mundo dos Mortos – é a "Ondas do Inferno", seu golpe secreto. Ele morre na batalha contra Shiryu, mas retorna do Mundo dos Mortos como um Espectro. Nessa ocasião, falha na missão de assassinar Athena e acaba novamente no Submundo pelas mãos de Radamanthys de Wyvern. Apesar disso, participa da derrubada do Muro das Lamentações junto com os Cavaleiros de Ouro.
+59	Aioria
+60	^cd0000Idade: ^ffffff20 Anos\r^cd0000Altura: ^ffffff185 cm\r^cd0000Peso: ^ffffff85 kg\r^cd0000Aniversário: ^ffffff16 de Agosto\r^cd0000Sangue: ^ffffffTipo O\r^cd0000Nascimento: ^ffffffGrécia\r^cd0000Treino: ^ffffffSantuário da Grécia
+61	Cavaleiro de Ouro de Leão e irmão de Aioros. Apesar de sua personalidade explosiva, tem um coração puro que distingue rapidamente os justos, por isso foi um dos primeiros Cavaleiros de Ouro a reconhecer a autoridade de Athena. Como seu irmão Aioros foi condenado como traidor, ele tenta limpar o nome da família jurando fidelidade ao Grande Mestre, até participando voluntariamente do extermínio dos Cavaleiros de Bronze. Durante a batalha contra os Espectros, enfrentou o exército inimigo de frente e derrubou muitos Espectros, servindo como poder central de ataque no Santuário.
+62	Shaka
+63	^cd0000Idade: ^ffffff20 Anos\r^cd0000Altura: ^ffffff182cm\r^cd0000Peso: ^ffffff68 kg\r^cd0000Aniversário: ^ffffff19 de setembro\r^cd0000Sangue: ^ffffffTipo AB\r^cd0000Nascimento: ^ffffffÍndia\r^cd0000Treino: ^ffffffÍndia
+64	Shaka é o Cavaleiro de Ouro de Virgem do Século XX. Considerado a reencarnação de Buda, possui um poder de observação que permite conhecer a verdade escondida sob as aparências. Apesar disso, mantém seus olhos fechados a maior parte do tempo, de modo a elevar seu Cosmo. O poder de ir e vir no tempo e espaço impressiona até outros Cavaleiros de Ouro. Tem uma morte heroica sob a destrutiva “Exclamação de Athena", criada por Saga, Shura e Camus, mas ele submeteu-se a esse golpe para poder acompanhar Athena no Mundos dos Mortos.
+65	Dohko
+66	^cd0000Idade: ^ffffff261 Anos\r^cd0000Altura: ^ffffff140 cm ~ 170 cm\r^cd0000Peso: ^ffffffDesconhecido\r^cd0000Aniversário: ^ffffff20 de Outubro\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffChina\r^cd0000Treino: ^ffffffRozan
+67	Cavaleiro de Ouro que protege a Casa de Libra, mestre de Shiryu. Recebeu a ordem de Athena para vigiar os 108 Espectros de Hades e por anos a fio sentou-se nos Cinco Picos Antigos de Rozan. É o Cavaleiro de maior confiança de Athena. Todos o reconhecem como "Mestre”. Quando o Senhor das Trevas voltou a atacar, ele retomou a sua antiga forma e lutou na linha de frente. Tem ajudado Seiya e os Cavaleiros de Bronze em todas as ocasiões e, depois de participar de duas Guerras Santas, encontra seu fim como herói ajudando a derrubar o Muro das Lamentações.
+68	Miro
+69	^cd0000Idade: ^ffffff20 Anos\r^cd0000Altura: ^ffffff185 cm\r^cd0000Peso: ^ffffff84 kg\r^cd0000Aniversário: ^ffffff08 de Novembro\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffGrécia\r^cd0000Treino: ^ffffffGrécia
+70	Miro foi, no século XX, o Cavaleiro de Ouro de Escorpião. Prezava muito a amizade, por isso passou a zelar por Hyoga depois da morte de seu amigo Camus. Tinha grande orgulho em ser um Cavaleiro de Ouro e tornou-se implacável diante dos inimigos. O Grande Mestre convocou-o para exterminar os Cavaleiros de Bronze e ele lutou contra Hyoga no Santuário. Durante a invasão do exército de Hades, lutou na linha de frente. No final, deu sua vida para abrir caminho para os Campos Elísios através do Muro das Lamentações.
+71	Aioros
+72	^cd0000Idade: ^ffffff14 anos\r^cd0000Altura: ^ffffff187 cm\r^cd0000Peso: ^ffffff85 kg\r^cd0000Aniversário: ^ffffff30 de Novembro\r^cd0000Sangue: ^ffffffTipo O\r^cd0000Nascimento: ^ffffffGrécia\r^cd0000Treino: ^ffffffSantuário da Grécia
+73	Irmão mais velho do Cavaleiro de Ouro de Leão, Aioria, seria o sucessor do Grande Mestre Shion. Sua figura heroica, honesta e de bom coração é respeitada pelos Cavaleiros. Antes de morrer, há 13 anos, entregou Athena ainda bebê e sua Armadura de Ouro aos cuidados de Mitsumasa Kido, que estava viajando pela Grécia. Desde então, Aioros passou a ser considerado um traidor no Santuário, que era comandado por Saga disfarçado de Grande Mestre. Sua lealdade a Athena transcende as barreiras da morte, fazendo com que sua Armadura sempre se manifeste em momentos críticos para proteger a Deusa.
+74	Shura
+75	^cd0000Idade: ^ffffff23 Anos\r^cd0000Altura: ^ffffff186 cm\r^cd0000Peso: ^ffffff83 kg\r^cd0000Aniversário: ^ffffff12 de Janeiro\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffEspanha\r^cd0000Treino: ^ffffffPirineus
+76	Cavaleiro de Ouro que protege a Casa de Capricórnio, foi quem deixou Aioros à beira da morte, durante sua fuga. A mão em forma de espada de Shura possui o mesmo poder da lendária Excalibur, capaz de derrubar qualquer obstáculo, cortando com a palma da mão até mesmo o sólido escudo de Dragão e partindo-o em dois. Possui o título de “o Cavaleiro mais leal a Athena”, mas sua lealdade é tanta que chega a cegá-lo e acabou sendo enganado pelo Grande Mestre. Quando estava à beira da morte, caiu em si e salvou a vida de Shiryu vestindo-o com sua Armadura de Ouro, mostrando ser um Cavaleiro honrado. Retorna durante a Guerra Santa para ajudar os Cavaleiros de Bronze a salvarem a Deusa que jurou lealdade.
+77	Camus
+78	^cd0000Idade: ^ffffff20 Anos\r^cd0000Altura: ^ffffff184 cm\r^cd0000Peso: ^ffffff76 kg\r^cd0000Aniversário: ^ffffff07 de Fevereiro\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffFrança\r^cd0000Treino: ^ffffffSibéria
+79	Cavaleiro de Ouro que protege a Casa de Aquário, é orgulhoso, frio e decidido. Tem o título de "O Mago do Gelo”. Sua conduta é controlada, honesta e possui uma coragem genuína. Foi mestre do Cavaleiro de Cisne, Hyoga, e do General Marina Isaak de Kraken, e sempre lhes instruiu que "em face ao inimigo, é preciso manter-se indiferente” - mas ele mesmo deixa tal ensinamento de lado quando, nas Doze Casas, lutava contra seu amado discípulo, Hyoga, e lhe sorri ao morrer. Eventualmente retorna durante a Guerra Santa, participando da invasão ao Santuário e depois ajudando os Cavaleiros de Bronze a atravessarem o Muro das Lamentações.
+80	Afrodite
+81	^cd0000Idade: ^ffffff22 Anos\r^cd0000Altura: ^ffffff183 cm\r^cd0000Peso: ^ffffff72 kg\r^cd0000Aniversário: ^ffffff10 de março\r^cd0000Sangue: ^ffffffTipo O\r^cd0000Nascimento: ^ffffffSuécia\r^cd0000Treino: ^ffffffGroênlandia
+82	Cavaleiro de Ouro de Peixes, é dito que não há ninguém mais belo entre os 88 Cavaleiros, tendo o titulo de “guerreiro cujo brilho da beleza compete com o Sol e a Lua”. Acredita piamente na lei do mais forte e que só um poder supremo pode manter a paz no mundo. Seus golpes transformam rosas em armas: há a rosa vermelha, que faz com que o oponente perca seus cinco sentidos; a preta, capaz de derrubar qualquer obstáculo; a branca, que absorve o sangue do adversário. Suas Rosas Diabólicas Reais são um dos mais espetaculares ataques de todos os tipos dos Cavaleiros. Quando a Guerra Santa acontece, se redime de seus pecados dando sua força para derrubar o Muro das Lamentações.
+83	Shion
+84	^cd0000Idade: ^ffffff248 Anos\r^cd0000Altura: ^ffffff185 cm\r^cd0000Peso: ^ffffff77 kg\r^cd0000Aniversário: ^ffffff30 de março\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffTibete Tibete\r^cd0000Treino: ^ffffffJamiel
+85	Orfeu
+86	^cd0000Idade: ^ffffff19 Anos\r^cd0000Altura: ^ffffff173 cm\r^cd0000Peso: ^ffffff60 kg\r^cd0000Aniversário: ^ffffff15 de Novembro\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffGrécia\r^cd0000Treino: ^ffffffSantuário da Grécia
+87	Cavaleiro de Prata de Lira. Quando jovens, Orfeu e Eurídice se apaixonaram - mas, inesperadamente, Eurídice acaba morrendo. Sofrendo, vai ao Submundo pedir para que Hades reviva-a. A bela música de Orfeu acaba convencendo Hades, que a revive; entretanto, na saída do Submundo, Pandora o ludibria junto de Faraó para transformar Eurídice em pedra para que ele continue preso por lá. Orfeu evita participar da Guerra Santa até descobrir a traição, então atuando ao lado dos Cavaleiros de Bronze. Orfeu morre em batalha no Templo de Hades. 
+88	Marin
+89	^cd0000Idade: ^ffffff16 Anos\r^cd0000Altura: ^ffffff167 cm\r^cd0000Peso: ^ffffff51 kg\r^cd0000Aniversário: ^ffffff18 de março\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffSantuário da Grécia
+90	Amazona de Prata de Águia e mestra de Seiya de Pégasus. Sua percepção é extraordinária e é uma das mais excelentes guerreiras, de personalidade calma e tranquila. Caso o oponente deixe aparecer uma brecha, um ataque certeiro e fatal será dado num lampejo. Está sempre em busca do seu irmão mais novo, que acredita ainda estar vivo - e Seiya já acreditou, erroneamente, que ela era sua irmã mais velha. Na Saga de Hades encontra a irmã mais velha de Seiya, Seika, embora o paradeiro de seu próprio irmão continue um mistério.
+91	Shina
+92	^cd0000Idade: ^ffffff16 Anos\r^cd0000Altura: ^ffffff166 cm\r^cd0000Peso: ^ffffff49 kg\r^cd0000Aniversário: ^ffffff24 de março\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffItália\r^cd0000Treino: ^ffffffSantuário da Grécia
+93	Amazona de Prata de Cobra, a mestra de Cássios esconde um rosto belo e angelical por trás de sua máscara, apesar de sua atitude agressiva e imponente. Revoltada por Seiya ganhar a Armadura de Pégasus no lugar de seu discípulo, atacou-o quando ele tentava deixar o Santuário, tendo sua máscara quebrada por ele durante a luta - e, para uma Amazona, deixar que seu rosto seja visto por um homem é a maior das vergonhas; segundo as regras, é preciso matá-lo ou amá-lo. Por isso, foi atrás de Seiya e tentou matá-lo várias vezes; contudo, une-se aos Cavaleiros de Bronze ao saber que a Deusa Athena estava ao lado deles e, aos poucos, acaba se apaixonando pelo Cavaleiro de Pégasus, chegando até a se sacrificar por ele em algumas batalhas. Participou de lutas importantes na Saga do Santuário, Asgard e Poseidon.
+94	Deus · Seiya
+95	^cd0000Idade: ^ffffff13 Anos\r^cd0000Altura: ^ffffff165 cm\r^cd0000Peso: ^ffffff53 kg\r^cd0000Aniversário: ^ffffff01 de Dezembro\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffSantuário da Grécia
+96	Pégasus é o principal protagonista. Normalmente, age como uma criança, um personagem bastante animado. Mas em seus combates, especialmente quando Athena está em perigo, luta com todas as suas forças para ajudar e proteger seus aliados.total de impulso na batalha da frente.Praticar para o santuário grego.discípulos mágica Ling.
+97	Deus · Shiryu
+98	^cd0000Idade: ^ffffff14 anos\r^cd0000Altura: ^ffffff172 cm\r^cd0000Peso: ^ffffff53 kg\r^cd0000Aniversário: ^ffffff04 de Outubro\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffRozan
+99	Cavaleiro de Bronze de Dragão. Esteve sob os cuidados de Dohko de Libra para treinar nos Cinco Picos Antigos, na China. Durante seu treinamento, conseguiu reverter o fluxo da Grande Cachoeira de Rozan e, assim, mereceu ganhar sua Armadura. De personalidade franca, dá muito valor à amizade e acredita no poder que ela tem, sempre disposto a morrer pelos amigos; é aquele que sacrifica sua própria vida em prol dos outros. Shiryu participou de muitas lutas em que esteve perto da morte pois, geralmente, precisou explodir seu Cosmo além de seus limites para derrotar um inimigo que não tinha chances de ganhar. Sua vontade de vencer as vezes pode deixá-lo cego. Literalmente.
+100	Deus · Hyoga
+101	^cd0000Idade: ^ffffff14 anos\r^cd0000Altura: ^ffffff173 cm\r^cd0000Peso: ^ffffff60 kg\r^cd0000Aniversário: ^ffffff23 de Janeiro\r^cd0000Sangue: ^ffffffO\r^cd0000Nascimento: ^ffffffEx-União Soviética\r^cd0000Treino: ^ffffffSibéria Oriental\r^cd0000Mestre: ^ffffffCamus
+102	Cavaleiro de Bronze de Cisne e discípulo de Camus de Aquário. Possui uma personalidade discreta, sempre em conflito com suas próprias emoções apesar de tentar ser racional diante de tudo. Durante seu treinamento na Sibéria Oriental, recebeu ordens vindas do Santuário para ir até a Guerra Galáctica e punir os Cavaleiros de Bronze que lutavam por fins pessoais, mas acaba se envolvendo nas lutas pela Armadura de Ouro ao ver que não era verdade. Nesse meio tempo, Hyoga desenvolve uma profunda e sólida amizade com os outros Cavaleiros de Bronze. Depois disso, como Cavaleiro protetor de Athena, luta juntamente com os demais a fim de defender a paz na Terra.
+103	Deus · Shun
+104	^cd0000Idade: ^ffffff13 Anos\r^cd0000Altura: ^ffffff165 cm\r^cd0000Peso: ^ffffff51 kg\r^cd0000Aniversário: ^ffffff09 de setembro\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffIlha de Andrômeda
+105	O Cavaleiro de Bronze de Andrômeda é tudo que não se espera de um guerreiro. Extremamente pacífico e benevolente, evita ao máximo entrar em qualquer tipo de atrito e combate. Entretanto, se forçado a tal, mostra que é um dos mais poderosos cavaleiros de todo o exército de Athena. Por vezes é preciso pressioná-lo ao extremo para que mostre sua verdadeira força. Sua alma é tão pura que foi selecionado para ser o hospedeiro de Hades nesta Guerra Santa, mas sua lealdade aos seus amigos e a Athena permite que ele retorne aos sentidos e lute ao lado dos Cavaleiros de Bronze quando chega a hora.
+106	Deus · Ikki
+107	^cd0000Idade: ^ffffff15 anos\r^cd0000Altura: ^ffffff175 cm\r^cd0000Peso: ^ffffff62 kg\r^cd0000Aniversário: ^ffffff15 de Agosto\r^cd0000Sangue: ^ffffffTipo AB\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffIlha de Rainha da Morte
+108	Irmão mais velho de Shun de Andrômeda, seu mestre foi o misterioso Cavaleiro da Ilha da Rainha da Morte, Guilty. É o Cavaleiro de Bronze mais forte, além de também ser bom em ataques que manipulam a mente do oponente. Uma pessoa transbordando ódio, chama a si mesmo de "o homem que desistiu de tudo", mas é descrito por Saga como aquele tipo de homem “cujo senso de justiça está escondido no interior de seu coração”. É de natureza fria mas esconde emoções sob sua personalidade - e a mais difícil de esconder é o cuidado e preocupação que tem com seu irmão. Por isso não é do tipo que fala sobre como seus amigos lhe dão força, afinal, os outros já fazem isso bastante, chega de sentimentalismo.
+109	Seiya
+110	Personagem principal e o Cavaleiro de Bronze de Pégasus. Normalmente age como uma criança e tem uma personalidade inocente e impulsiva. Contudo, na hora de lutar, especialmente quando Athena encontra algum perigo, emprega todas as suas forças e se mostra um Cavaleiro muito hábil. É o espírito que lidera os demais, com um grande senso de justiça e sempre correndo para a frente da batalha. Seu local de treinamento é o Santuário da Grécia, onde foi discípulo de Marin, e seu maior objetivo é reencontrar sua irmã. Como portador da Armadura de Pégasus, é conhecido como o maior afrontador de Deuses dentre os Cavaleiros de Athena.
+111	Shiryu
+112	Hyoga
+113	Shun
+114	Ikki
+115	Nachi
+116	^cd0000Idade: ^ffffff14 Anos\r^cd0000Altura: ^ffffff171cm\r^cd0000Peso: ^ffffff57kg\r^cd0000Aniversário: ^ffffff20 de julho\r^cd0000Sangue: ^ffffffTipo AB\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffLibéria
+117	Apesar de ser apenas um Cavaleiro de Bronze, a lealdade do Cavaleiro de Lobo é indubitável. Mesmo ciente da diferença de poderes entre sua classe de cavaleiro e outras, ele se coloca em risco para proteger seus aliados. Sua técnica principal segue o mesmo princípio da Excalibur de Shura, sendo um movimento no qual seus músculos e Cosmo fazem o ar vibrar, tornando-o cortante. A diferença está na intensidade do golpe, no qual o de Shura é muito mais extenso e poderoso.
+118	Geki
+119	^cd0000Idade: ^ffffffDesconhecido\r^cd0000Altura: ^ffffffDesconhecido\r^cd0000Peso: ^ffffffDesconhecido\r^cd0000Aniversário: ^ffffffDesconhecido\r^cd0000Sangue: ^ffffffDesconhecido\r^cd0000Nascimento: ^ffffffDesconhecido\r^cd0000Treino: ^ffffffDesconhecido
+120	Um dos 48 Cavaleiros de Bronze que juraram lealdade a Athena, protegendo lutar até seu último suspiro em prol da Deusa guardiã da humanidade.
+121	Ban
+122	Ichi
+123	^cd0000Idade: ^ffffff14 anos\r^cd0000Altura: ^ffffff170 cm\r^cd0000Peso: ^ffffff56 kg\r^cd0000Aniversário: ^ffffff10 de Fevereiro\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffFinlândia
+124	Cavaleiro de Bronze de Hidra, possui uma natureza melancólica e é muito difícil para as outras pessoas compreenderem o que ele pensa. É especialista em golpes com presas venenosas e possui movimentos sutis em batalha, como uma serpente. Na Guerra Galáctica, perdeu de Hyoga. Embora de aparência estranha, Ichi é, na verdade, uma boa pessoa, ajudando a proteger Saori durante a Saga do Santuário.
+125	Jabu
+126	^cd0000Idade: ^ffffff13 Anos\r^cd0000Altura: ^ffffff165 cm\r^cd0000Peso: ^ffffff55 kg\r^cd0000Aniversário: ^ffffff03 de Novembro\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffJapão\r^cd0000Treino: ^ffffffArgélia
+127	O Cavaleiro de Bronze de Unicórnio que possui uma rixa eterna com Seiya. É apaixonado por Saori desde criança e é extremamente leal a ela. Possui telecinésia básica e luta usando principamente as pernas para desferir seus golpes. Derrota Ban na Guerra Galáctica mas, na segunda rodada, enfrenta a Corrente de Andrômeda de Shun e é derrotado. Na Saga das Doze Casas retorna para perto de Athena.
+128	June
+129	Pégasus Negro
+130	^cd0000Idade: ^ffffff15 anos\r^cd0000Altura: ^ffffff170 cm\r^cd0000Peso: ^ffffff58 kg\r^cd0000Aniversário: ^ffffff13 de Julho\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffIsrael\r^cd0000Treino: ^ffffffIlha de Rainha da Morte
+131	Seu nome verdadeiro é Kenuma, e é um dos quatro Cavaleiros do Apocalipse, responsável pela cintura da Armadura de Ouro de Sagitário depois de Ikki roubá-la na Guerra Galáctica. Sua principal técnica é o Meteoro Negro, capaz de partir a armadura e danificar o corpo, fazendo com que apareçam pontos negros na pele que não param de aumentar de tamanho, causam um envenenamento do sangue do inimigo e, depois, a morte. Foi derrotado por Seiya mas, antes que morresse, conseguiu acertá-lo com seus golpes e quase o matou também; Seiya sobrevive graças a Shiryu, que atingiu seus pontos vitais e conseguiu purificar seu sangue.
+132	Dragão Negro
+133	O nome real do Cavaleiro de Dragão Negro e um dos Cavaleiros do Apocalipse é Shinadekuro, e sua força parece ser a maior dos quatro. Na Ilha da Rainha da Morte, Ikki luta pela Armadura de Fênix e o Cavaleiro se torna seu subordinado. Para ajudar Ikki, ele fica responsável pelo peito da Armadura de Ouro de Sagitário e enfrenta Shiryu, que havia perdido grande quantidade de sangue devido ao conserto de sua Armadura. No começo estava vencendo, mas Shiryu usa o Cólera do Dragão, derramando muito sangue e o vencendo com dificuldade. À beira da morte, foi comovido pela amizade entre os Cavaleiros de Bronze e acertou o ponto vital de Shiryu para estancar seu sangramento. O Dragão Negro tem um irmão gêmeo cego, Fukuryu - que, na luta na escuridão, indicava-lhe a posição do inimigo para que tivesse vantagem sobre os outros.
+134	Cisne Negro
+135	^cd0000Idade: ^ffffff15 anos\r^cd0000Altura: ^ffffff173 cm\r^cd0000Peso: ^ffffff61 kg\r^cd0000Aniversário: ^ffffff28 de Dezembro\r^cd0000Sangue: ^ffffffTipo O\r^cd0000Nascimento: ^ffffffFinlândia\r^cd0000Treino: ^ffffffIlha de Rainha da Morte
+136	Jido é mais um dos quatro Cavaleiros do Apocalipse, responsável pelas ombreiras da Armadura de Ouro de Sagitário após Ikki roubá-la na Guerra Galáctica. Lutou contra Shun e, mais tarde, foi derrotado por Hyoga no Vale da Morte. Antes de morrer, memorizou a técnica de Hyoga e, através de uma habilidade única, gravou os golpes em seu globo ocular e enviou-o para Ikki por teleporte.
+137	Andrômeda Negro
+138	^cd0000Idade: ^ffffff14 anos\r^cd0000Altura: ^ffffff170 cm\r^cd0000Peso: ^ffffff58 kg\r^cd0000Aniversário: ^ffffff04 de Outubro\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffTurquia\r^cd0000Treino: ^ffffffIlha de Rainha da Morte
+139	Um dos quatro Cavaleiros do Apocalipse, era o responsável pelo corpo da Armadura de Ouro de Sagitário depois que Ikki a roubou na Guerra Galáctica. Suas Correntes Negras drenam vida e criam ilusões, fazendo o inimigo acreditar que tornaram-se serpentes. Foi derrotado por Shun, que foi tomado pela ira por ser atacado covardemente ao tentar salvar Seiya e o venceu facilmente. Curiosamente, é o único dos Cavaleiros Negros a não ter seu nome verdadeiro revelado.
+140	Jango
+141	^cd0000Idade: ^ffffff18 anos\r^cd0000Altura: ^ffffff188 cm\r^cd0000Peso: ^ffffff101 kg\r^cd0000Aniversário: ^ffffff08 de Agosto\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffSamoa\r^cd0000Treino: ^ffffffIlha de Rainha da Morte
+142	Um guerreiro que acredita apenas na força bruta. Virou o líder dos Cavaleiros Negros após Ikki ser derrotado. Tentou em vão tomar a Armadura de Fênix à força, mas não obteve a aprovação da Armadura. Ao fim, foi morto por Ikki, trajando a Armadura de Fênix.
+143	Mino
+144	^cd0000Idade: ^ffffff13 anos\r^cd0000Altura: ^ffffff153 cm\r^cd0000Peso: ^ffffff41 kg\r^cd0000Aniversário: ^ffffff05 de Abril\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffJapão
+145	Órfã desde pequena, Mino sempre viveu no Orfanato Filhos das Estrelas, crescendo junto com Seiya. Ela gosta muito de crianças e, depois que cresceu, continuou no Orfanato trabalhando como cuidadora. É uma garota gentil e pura. O amor entre ela e Seiya é assunto de conversa de muitas pessoas. Primeiramente, quando Seiya retornou de seu treinamento no Santuário, ela ficou muito feliz. Em seguida, depois de ele e os demais terem passado por inúmeras batalhas, ela decidiu tentar impedir Seiya de ir ao Santuário para batalhar com o Grande Mestre, prezando por sua sobrevivência.
+146	Cássios
+147	^cd0000Idade: ^ffffff15 anos\r^cd0000Altura: ^ffffff201 cm\r^cd0000Peso: ^ffffff128 kg\r^cd0000Aniversário: ^ffffff14 de Dezembro\r^cd0000Sangue: ^ffffffTipo O\r^cd0000Nascimento: ^ffffffGrécia\r^cd0000Treino: ^ffffffSantuário da Grécia
+148	O discípulo de Shina de Cobra e candidato à Armadura de Pégasus. Seu corpo é robusto, é forte como um touro e com apenas uma mão pode agarrar o corpo todo de Seiya. Infelizmente o destino de Cássios era somente ser um personagem de apoio e, por isso, o autor o deixou perder para Seiya durante a competição pela Armadura de Pégasus, além de ter perdido também uma orelha. É uma pessoa de respeito pela sua grandiosidade de se sacrificar pelo amor. Quando os Cavaleiros de Bronze estavam na corrida nas Doze Casas, Seiya encontrou uma luta amarga na Casa de Leão: o Cavaleiro de Ouro de Leão, Aioria, é atacado sorrateiramente pelo Grande Mestre e, sob o Satã Imperial e com seu senso de justiça confuso, ataca Seiya. A única forma de livrar-se do Satã Imperial seria ver o inimigo morrer na sua frente. Ao ouvir isso, Shina correu prontamente para a Casa de Leão - mas, para que Shina não fosse ferida, Cássios morreu em seu lugar, salvando também Seiya, seu antigo inimigo.
+149	Kiki
+150	^cd0000Idade: ^ffffff8 anos\r^cd0000Altura: ^ffffff130 cm\r^cd0000Peso: ^ffffff34 kg\r^cd0000Aniversário: ^ffffff01 de Abril\r^cd0000Sangue: ^ffffffTipo B\r^cd0000Nascimento: ^ffffffTibete\r^cd0000Treino: ^ffffffJamiel
+151	Kiki é discípulo de Mu. Cada Cavaleiro de Áries tem um assistente, e Kiki foi adotado por Mu como tal quando se encontraram em Jamiel. As sobrancelhas em forma de pontos circulares é uma característica dos lemurianos. É um menino travesso mas de bom coração, ajudando os Cavaleiros sempre que pode. As habilidades mais importantes de Kiki são a telecinésia, com a qual consegue mover o corpo de pessoas ou animais por um breve período de tempo, e a sua velocidade, que pode alcançar a velocidade da luz.
+152	Shunrei
+153	^cd0000Idade: ^ffffff13 Anos\r^cd0000Altura: ^ffffff154 cm\r^cd0000Peso: ^ffffff42 kg\r^cd0000Aniversário: ^ffffff20 de Abril\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffChina
+154	Foi abandonada ainda bebê numa aldeia em Rozan e, desde então, foi criada pelo Mestre Ancião. Os belos rios e montanhas da China deram-lhe um espírito gentil, humilde e uma forte determinação. Suas preces e cuidados sempre deram suporte a Shiryu, seu amigo de infância por quem é apaixonada - e cujo sentimento é recíproco.
+155	Esmeralda
+156	^cd0000Idade: ^ffffff13 Anos\r^cd0000Altura: ^ffffff158 cm\r^cd0000Peso: ^ffffff43 kg\r^cd0000Aniversário: ^ffffff25 de Agosto\r^cd0000Sangue: ^ffffffTipo A\r^cd0000Nascimento: ^ffffffIlha da Rainha da Morte
+157	Jovem gentil de uma beleza pura. Habitante da Ilha da Rainha da Morte, conheceu Ikki durante seu treinamento, oferecendo-lhe consolo e cuidados. Na luta de Ikki para obter a Armadura de Fênix, ela acaba acidentalmente recebendo o golpe de Guilty e morre. Assim, Ikki encarna o ódio, desperta seu Cosmo, mata seu mestre e obtém a Armadura.
+158	Guilty
+159	^cd0000Idade: ^ffffffDesconhecido \r^cd0000Altura: ^ffffff192 cm \r^cd0000Peso: ^ffffff91 kg \r^cd0000Aniversário: ^ffffffDesconhecido \r^cd0000Sangue: ^ffffffDesconhecido \r^cd0000Nascimento: ^ffffffDesconhecido \r^cd0000Treino: ^ffffffDesconhecido
+160	Mestre de Ikki na Ilha da Rainha da Morte, é conhecido como “Cavaleiro do Diabo”, responsável por usar a máscara que sela o mal da ilha. Acredita que seu discípulo é benevolente demais, sempre lhe dizendo que ele é fraco e lhe falta ódio. Durante a batalha pela Armadura de Fênix, acidentalmente matou Esmeralda - o que fez com que Ikki despertasse seu mais profundo ódio e o matasse.
+161	Kanon
+162	^cd0000Idade: ^ffffff28 Anos \r^cd0000Altura: ^ffffff188 cm \r^cd0000Peso: ^ffffff87 kg \r^cd0000Aniversário: ^ffffff30 de maio \r^cd0000Sangue: ^ffffffTipo AB \r^cd0000Nascimento: ^ffffffGrécia \r^cd0000Treino: ^ffffffSantuário da Grécia
+163	Irmão gêmeo caçula de Saga, embora ninguém no Santuário soubesse de sua existência. Possui uma personalidade bem mais maléfica do que a de seu irmão, sendo este o motivo de ter sido aprisionado no Cabo Sunion. Lá, acabou despertando a alma de Poseidon e se passou por General Marina de Dragão Marinho, desejando usar o nome do Deus dos Oceanos para derrotar Athena a fim de conquistar toda a Terra; este é o motivo de seu título de “o homem que ousou enganar até mesmo os deuses”. Após a guerra no Reino Marinho, Kanon arrependeu-se sinceramente de seus feitos e herdou a aspiração deixada por seu irmão, tornando-se o novo Cavaleiro de Ouro de Gêmeos e lutando pela Deusa. A sua força, na realidade, não é inferior a de Saga, tanto que lutou ao mesmo tempo e de igual para igual com os Três Juízes do Submundo.
+164	Krishna
+165	^cd0000Idade: ^ffffff19 Anos \r^cd0000Altura: ^ffffff187 cm \r^cd0000Peso: ^ffffff80 kg \r^cd0000Aniversário: ^ffffff10 de Agosto \r^cd0000Sangue: ^ffffffTipo B \r^cd0000Nascimento: ^ffffffSri Lanka
+166	O General Marina de Crisaor. O interior do corpo de Krishna possui um lado místico capaz de ativar os sete chackras, e a energia cósmica liberada é quase equivalente a de um Cavaleiro de Ouro. Sua arma principal é a Lança Dourada, cujo poder é impressionante, sendo capaz de cortar o oponente apenas com o ar impulsionado por ela. Derrotado pela Excalibur de Shiryu, Krishna mostrou um espírito honrado, respeitando o adversário que considera digno.
+167	Sorento
+168	^cd0000Idade: ^ffffff16 Anos \r^cd0000Altura: ^ffffff178 cm \r^cd0000Peso: ^ffffff75kg \r^cd0000Aniversário: ^ffffff10 de Setembro \r^cd0000Sangue: ^ffffffTipo A \r^cd0000Nascimento: ^ffffffÁustria
+169	Um dos Sete Generais Marinas sob o comando do Imperador dos Mares, Poseidon. Com sinceridade em seu coração, Sorento realmente acredita que Poseidon pode lavar o mal da Terra para estabelecer um mundo ideal. É especialista em usar o som de sua flauta, cujo poder formidável já deixou Aldebaran em desespero. Na luta para proteger o Pilar do Oceano Atlântico Sul, é derrotado por Shun.
+170	Thetis
+171	Radamanthys
+172	^cd0000Idade: ^ffffff23 Anos \r^cd0000Altura: ^ffffff189 cm \r^cd0000Peso: ^ffffff84 kg \r^cd0000Aniversário: ^ffffff30 de Outubro \r^cd0000Sangue: ^ffffffTipo O \r^cd0000Nascimento: ^ffffffReino Unido
+173	Estrela Celeste da Fúria, o Espectro de Wyvern é conhecido como “o mais forte dos Três Juízes do Submundo" dentre os 108 Espectros. Quando a história começa, contrariando as ordens de Pandora, envia por si mesmo uma tropa de Espectros para avançar; depois disso, tornou-se um oponente formidável de Seiya e os demais. Ele não apenas tem a confiança de Hades como também é querido e respeitado por seus subordinados. Na luta contra Kanon, é atingido pelo ataque suicida de seu oponente e acaba desaparecendo no céu do Submundo.
+174	Aiacos
+175	Minos
+176	^cd0000Idade: ^ffffff23 Anos \r^cd0000Altura: ^ffffff184 cm \r^cd0000Peso: ^ffffff72 kg \r^cd0000Aniversário: ^ffffff25 de Março \r^cd0000Sangue: ^ffffffTipo A \r^cd0000Nascimento: ^ffffffNoruega
+177	Estrela Celeste da Nobreza, o Espectro de Griffon é um dos Três Juízes do Submundo e sua força se compara à dos outros dois. A personalidade de Minos é calma; durante uma batalha, espera até o momento perfeito para dar um golpe decisivo. Como o último dos Três Juízes a ser derrotado, a fim de impedir a ida de Seiya e os demais, travou uma batalha intensa contra Hyoga. No entanto, ao adentrar na Hiperdimensão, seu corpo acabou por virar pó por não ter uma proteção divina.
+178	Pandora
+179	Pégasus
+180	Na mitologia grega, Perseu decapitou e matou a Górgona Medusa e o sangue que jorrou de seu pescoço deu vida a Pégasus. O cavalo alado voou ao céus e pousou no Monte Hélicon, onde criou a Primavera, uma fonte de inspiração para vários poetas. Athena domou o cavalo e o presenteou a Belerofonte, para que ele viajasse. Em um trajeto ao Monte Olimpo, Pégasus foi picado por uma vespa, por sua vez derrubando Belerofonte de volta à terra. Pégasus continuou voando sozinho, até finalmente alcançar o horizonte e tornar-se uma constelação.
+181	Dragão
+182	Segundo a mitologia grega, quando os deuses Zeus e Hera se casaram, a deusa Gaia lhes enviou uma macieira de frutos de ouro como presente. Mais tarde, Hera plantou a macieira no pomar onde as filhas da deusa da noite viviam e enviou um Dragão cuspidor de fogo para guardá-la. Este Dragão possuía 100 cabeças e nunca dormia. A deusa Hera, com intenção de dificultar o 11º trabalho de Hércules, pediu para que ele colhesse três maçãs douradas da macieira. Quando Hércules achou o pomar, as chamas que o dragão cuspia impediam que ele se aproximasse. Com sua sabedoria, Hércules se ofereceu a Atlas para encarregar-se de sua penitência - segurar o mundo acima dos ombros -, com a condição de que Atlas fizesse o Dragão dormir e pegasse as maçãs de ouro. Concluída a tarefa, Hércules o enganou para que ele carregasse o mundo novamente. Mais tarde, Hera enviou o Dragão ao céu, assim nascendo sua constelação.
+183	Cisne
+184	Na mitologia grega, a beleza da princesa Leda atraiu a atenção do deus Zeus, mas ele tinha medo da natureza ciumenta da deusa Hera e tinha receio de se aproximar da garota em sua forma verdadeira. Então, Zeus transformou-se em um Cisne para seduzir a princesa. Logo depois, a princesa ficou grávida, e deu a luz aos gêmeos que mais tarde se tornariam os heróis gregos Pólux e Castor. Posteriormente, Leda casou-se com Tíndaro, Rei de Esparta, e teve com ele duas filhas, Clitemnestra e Helena. A segunda casou-se com Menelau, irmão de Agamenon. Nesta época, Zeus já havia retornado para o céu e, para comemorar o sucesso de seu romance, transformou sua encarnação de Cisne na constelação de mesmo nome.
+185	Andrômeda
+186	Andrômeda tem sua origem no mito de Perseu. Nele, Cassiopeia, a rainha da Etiópia, gabava-se de que sua filha era mais bonita do que as Nereidas. Ofendidas, as ninfas pediram a Poseidon para punir Cassiopeia, no qual a divindade enviou o monstro marinho Cetus para atacar a Etiópia. Em pânico, o pai de Andrômeda, Cefeu, foi informado pelo Oráculo de Amon de que a única maneira de salvar o seu reino seria sacrificando sua filha. Ela foi acorrentada a uma rocha no mar, mas foi salva pelo herói Perseu, que, em uma versão da história, usou a cabeça da Medusa para transformar o monstro em pedra. Perseu e Andrômeda então se casaram e tiveram nove filhos. Depois da morte de Andrômeda, Atena homenageou-a colocando-a no céu como uma constelação.
+187	Fênix
+188	A majestosa ave de fogo é uma figura recorrente da mitologia. Capaz de viver por períodos de até 500 anos, ainda é capaz de transcender os limites da vida e morte quando atinge o ápice de sua maturidade, incendiando o próprio corpo e renascendo das cinzas. Diferente da maioria das constelações aqui narradas, Fênix é uma constelação relativamente nova, sendo batizada no final do século XVI, e é por isso que não possui nenhuma lenda clássica.
+189	Escudo
+190	Em 1683, 300 mil soldados Turcos cercaram Viena, a capital da Áustria, e tentaram conquistar a Europa. John III Sobieski, então rei da Polônia, levou à Viena apenas 70 mil soldados e conseguiu derrotar o exército Turco. A vitória não teve impacto apenas na Polônia, mas em toda Europa. Um ano mais tarde, o astrônomo Jan Heweliusz nomeou uma constelação com o nome de Escudo para comemorar a vitória alcançada e devido ao escudo usado por Sobieski na batalha.
+191	Sextante
+192	Uma armadura poderosa, que apenas pode ser usada pelos sagrados guerreiros fiéis a Athena.
+193	Volans
+194	Serpente
+195	A constelação de Serpente é dividida em duas metades: Caput, a cabeça, e Cauda. A divisão acontece pois a constelação de Cobra se encontra entre as duas. É uma das constelações mais antigas do céu, já que essas criaturas sempre foram admiradas no decorrer das civilizações, tanto que várias consideravam ambas uma constelação só. Porém, Ptolomeu já as catalogava como agrupamentos independentes.
+196	Peixe Austral
+197	Uma constelação bastante ancestral, já era admirada por civilizações desde a era da antiga Mesopotâmia. Por isso, recebeu várias associações por diversos povos com o passar dos séculos. Por exemplo, os Sírios acreditavam ser o peixe que salvou a deusa da fertilidade, Atargatis. Na mitologia síria, estaria ainda ligado ao deus Dagon, metade homem e metade peixe.
+198	Camaleão
+199	Hidra♂
+200	Coroa Boreal
+201	Na mitologia grega, Ariadne não quereria aceitar a proposta de casamento de Dionísio por crer que este era um humano qualquer. Para provar que era uma divindade, Dionísio tirou a coroa de Ariadne e lançou-a para o céu, o que resultou no nascimento desta constelação. Ariadne, por sua vez, acabou por casar com ele após o ocorrido.
+202	Cruzeiro do Sul
+203	A menor e mais famosa constelação nos céus. Recebendo diferentes nomes em diferentes culturas (inclusive sendo conhecida como “Garra de Águia” na Austrália), foi uma constelação importantíssima na época das navegações, pois o extremo superior da cruz aponta para o Polo Sul celeste.
+204	Popa
+205	Dentro da mitologia grega, Argo Navis é o navio que Jasão e os Argonautas usaram na sua busca pelo Velo de Ouro. Do navio é apenas visível a metade posterior, tendo a tradição definido que o resto da embarcação não era visível por estar envolta em nevoeiro. A constelação de Popa, como o nome indica, representa a popa da Argo Navis. O restante do navio se encontra nas constelações de Quilha e Vela.
+206	Rena
+207	Coroal Austral
+208	Lebre
+209	Erídano
+210	Relógio
+211	Imperatriz
+212	Oriolus
+213	Guepardo
+214	Coreius
+215	Lira
+216	Embora a constelação seja do instrumento, a história por trás dela é a do músico que a empunhava. Orfeu, filho de Apolo, tocava uma lira feita por Hermes usando uma casca de tartaruga. Apaixonado pela esposa Euridice, Orfeu desaba quando a amada é picada por uma serpente e vem a falecer. O músico viaja para o submundo e barganha com Hades para reaver a mulher, na qual a divindade concorda, mas somente se ele sair do submundo sem olhar para trás. Em um descuido, ele o faz para tentar ver o rosto da amada e, por causa de sua impaciência, perde Euridice para sempre. Desconsolado, Orfeu vê seu fim nas mãos de incontáveis mulheres após negar suas investidas. Zeus, em homenagem ao músico, ergueu sua lira aos céus e a transformou em uma constelação.
+217	Auriga
+218	Na interpretação grega, essa constelação representaria Erictônio, o filho de Hefesto e Athena. Erictônio aprendeu diversas técnicas com sua mãe, incluindo o adestramento, que usou para domar cavalos e inventou uma carroça (daí a tradução de Auriga por Cocheiro em algumas interpretações).
+219	Cefeu
+220	A figura mitológica de Cefeu representa o lendário rei do antigo território fenício, marido de Cassiopeia e pai de Andrômeda. Foi ele quem tomou a decisão de acorrentar a própria filha de modo a salvar seu reino, após sua esposa se gabar de ser mais bela que as nereidas e provocar a ira de Poseidon.
+221	Rede
+222	Águia
+223	Triângulo
+224	Facilmente identificável nos céus pelo seu formato, essa constelação era conhecida na Grécia como “Deltoton”, devido a similaridade com a letra grega Delta (Δ). Eratóstenes associava a constelação a foz do Rio Nilo. 
+225	Hércules
+226	Instigado a matar sua própria família pela Deusa Hera, Hércules (ou Héracles) inicia Doze Trabalhos que beiram o impossível para redimir-se. Filho de Zeus com a humana Alcmena, o semideus é um dos heróis mais conhecidos da mitologia grega, sendo convertido em constelação por seu próprio pai no final de sua vida mortal.
+227	Corvo
+228	O pássaro de estimação de Apolo fora ordenado a buscar água em uma distante nascente. O Corvo se distraiu com uma figueira, se atrasando em sua missão, e depois culpou uma cobra por não permitir que buscasse a água. A divindade viu através das mentiras do corvo e, como punição, o colocou nos céus junto da cobra e a taça que deveria usar para buscar água, incumbindo assim a cobra a jamais permitir que o Corvo chegasse na água da taça.
+229	Centauro
+230	Embora existam muitos centauros na mitologia, o que origina a constelação é Chiron, conhecido como “o treinador de heróis” por ter ensinado grandes mortais da mitologia, como Jasão e Hércules. Era muito sábio, disciplinado e benevolente, diferente da maioria de sua espécie.
+231	Fornalha
+232	Bússola
+233	Baleia
+234	Perseu
+235	Cassiopeia
+236	Pavão
+237	Lagarto
+238	Taça
+239	Cérbero
+240	Grou
+241	Altar
+242	Duquesa
+243	Dourado
+244	Atrium
+245	Fantasmas
+246	Áries
+247	A constelação de Áries se origina de um carneiro mítico cuja lã se transformava em ouro. O Velo de Ouro, ou Tosão de Ouro, o nome dado para a lã desse carneiro, se torna um dos objetos mais cobiçados na mitologia grega, sendo alvo das empreitadas de Jasão e os Argonautas. O carneiro pertencia a Frixo, filho de Atamante, e fora usado para que fugisse da Grécia junto de sua irmã, Hele.
+248	Touro
+249	Assim como o Cisne, o Touro nas estrelas representa uma das formas que Zeus assumiu para seduzir uma mortal. No caso, o alvo era a princesa fenícia Europa, com a qual Zeus teve três filhos. A constelação de Touro abriga dois dos grupos estelares mais emblemáticos dos céus: as Híades e as Plêiades. O formato da constelação mostra apenas metade do animal, como se estivesse emergindo das ondas.
+250	Gêmeos
+251	Sparta obcecado beleza princesa Leda Zeus, perto dela e transformada em um cisne, um par de gêmeos, dois vida - Paula Fox Filho de Deus e Filho do Homem Casto.Eles são todos os bravos guerreiros e aventureiros, muitas vezes definir em conjunto um grande proezas.Dois deles também têm um par de primo gêmeo - Idas e links.Um dia, pronto para agarrar quatro vacas, eles pegaram um monte de gado, e pronto para dividir, o ganancioso e links Idas enquanto Paula Fox, irmãos Casto não estão preparados, todo o gado de volta.Enfurecido dois conjuntos de gêmeos grandes manchas ásperas, com uma seta irá resultar Idas Casto esfaqueado até a morte.Paula Fox triste ter que ir para o céu com Kastoria, mas porque eles têm a vida eterna, mas não podemos fazer.Sua tristeza tocou Zeus, é o estabelecimento de uma constelação de dois deles, estavam vivendo no reino dos céus e da morte.
+252	Câncer
+253	Zeus e Alcmena filho nascido humano menina Hercules, Hercules e mais tarde Derby princesa casada, ela deu à luz uma criança a viver uma vida feliz.Mais tarde, devido à maldição de Zeus Hera positivo, Hercules, na verdade, pessoalmente assassinar sua loucura levou muito tempo liberado.O rei pediu-lhe para completar doze tarefas, caso contrário, eles vão ser escravizados por ele.Quando o segundo termo é ao vivo uniforme no monstro do pântano Xiduo La.Xiduo La é apenas nove cobra cabeça, escondendo no pântano perto da caverna, Hercules votação na tocha, tão enfurecido Xiduo La cuspir ataque com gás venenoso, grande Cancer de estar no pântano de ver Xi Duola trabalho duro, de modo que a mordida fora de pé de Hércules, o resultado é o esmagamento o Cancro, Xi Duola também subjugado.Hera sentimental, porque isso é a morte, e o estabelecimento de Câncer no céu.
+254	Leão
+255	O primeiro dos Doze Trabalhos de Hércules é o de enfrentar o Leão da Nemeia, um felino colossal como um elefante e de couro resistente como de um crocodilo. O filho de Zeus derruba a fera e a mata estrangulada, posteriormente vestindo sua pele para proteção. Hera, revoltada com a derrota do Leão, o converte em uma constelação para imortalizar o inimigo de Hércules nos céus.
+256	Virgem
+257	São muitos os mitos associados à constelação de Virgem, mas sempre ligados a figuras femininas em múltiplas culturas. Na Grécia, o grupo celeste se referia a Deusa Deméter, regente das colheitas e da fertilidade. Em outras leituras, a moça seria Erígone, filha de Ícaro e próxima do Deus Dionísio, que foi transformada em constelação após suicidar-se em luto ao seu pai.
+258	Libra
+259	A balança é associada a Deusa Astreia, filha de Zeus e Têmis, sendo a personificação da justiça junto de sua mãe. Uma guardiã da humanidade, ensinava os homens técnicas de caça, plantio e pregava o amor. Com o fim da Idade de Ouro, Astrea abandona a Terra para não ser testemunha do sofrimento que estaria por vir, indo aos céus e se transformando na constelação de Libra. Em outras interpretações, Astrea se torna a constelação de Virgem.
+260	Escorpião
+261	Assim como Câncer, a constelação de Escorpião também se origina de uma criatura conjurada para tentar matar um herói grego. No caso, o Escorpião havia sido enviado por Apolo para matar Órion, num ato de ciúmes em relação a sua irmã, Ártemis, a qual estava noiva do caçador. Após concluir a tarefa, foi erguido aos céus e se transformou na constelação. Curiosamente, quando as estrelas de Órion estão desaparecendo no Ocidente, as de Escorpião emergem no Oriente.
+262	Sagitário
+263	Uma vez que havia um meio-homem da raça metade cavalo, mas a parte superior do corpo humano, parte inferior do corpo, como corrida de cavalos selvagens.No entanto, no grupo étnico brutal, apenas o deus da colheita corvo Andina filho Kennon é centauro sábio, não só entender a música, adivinhação, ou professor Hércules.Um dia Hércules e conflitos étnicos, estava disposto a matá-lo para fugir para a casa da fazenda, a raiva que visa a metade cavalo e metade Hercules Terran freqüentemente jogar, mas não sei o professor Kennon também misturados com eles, e atirar a seus pés.Seta foi manchada com sangue devido à extremidade da matriz, que não é a libertação do sofrimento.gigantesco deus Prometheus, em seguida, trocaram imortal com ele, deixá-lo morrer em paz, mas tornou-se Sagitário céu.
+264	Capricórnio
+265	Deus de identidade Paine selvagem Faun para se tornar o santo padroeiro dos pastores, e sua aparência é uma parte superior do corpo humano, parte inferior do corpo de uma cabra, por isso não é muito bom, mas é cheio de vitalidade, amor cantar e dançar.Um dia, ele reuniu-se para a fada Riverside Qiu Lin Kesi, à primeira vista, para controlar quando Qiu Lin Kesi pânico e fogem.Paine perseguido, sendo perseguido Qiu Lin Kesi é orar a Deus, desapareceu de repente desapareceu, vi uma cana balançando ao vento.Paine decepcionado ela tomou flauta feita de canas, falta jogar música.Um dia no rio organizou uma deuses romanos estão ouvindo quando Paine jogando, de repente apareceu monstro - Onde os deuses imediatamente transformado em uma variedade de animais a fugir.Paine também se apressou para saltar para o peixe de água, mas apenas a parte inferior do corpo é peixe, mas também uma estranha Mo Yang.
+266	Aquário
+267	A figura que carrega a ânfora de água é associada ao pastor Ganimedes, extremamente gentil e esforçado, tanto que fora levado ao Olimpo por Zeus para ser o servente pessoal dos deuses e recebeu ambrósia para tornar-se imortal. Contudo, mesmo os inúmeros presentes enviados por Zeus não apaziguavam a saudade que o pai de Ganimedes nutria pelo filho. Assim, Zeus o coloca nos céus para que seu pai sempre pudesse vê-lo, na forma da constelação de Aquário.
+268	Peixes
+269	Durante o ataque do monstro Tifão na Grécia, todos os deuses são forçados a fugir diante a fúria da criatura. Afrodite e seu filho, Eros, se transformam em um par de peixes e fogem pelas águas. Para não se perderem um do outro, Afrodite ata uma corda entre os dois, garantindo assim que sempre estivessem conectados. A engenhosidade da deusa do amor garantiu ao par uma posição nas estrelas, na constelação de Peixes.
+270	Áries
+271	Gêmeos
+272	Touro
+273	Câncer
+274	Leão
+275	Virgem
+276	Libra
+277	Escorpião
+278	Sagitário
+279	Capricórnio
+280	Aquário
+281	Peixes
+282	Dragão Marinho
+283	De acordo com o Hipermito, quando Zeus deixa a Terra nas mãos de Athena, Poseidon começa a se preparar para atacar e tomar o controle do planeta para si. Para isso, ele constrói armaduras para seus generais poderem combater com vantagem as forças da Deusa, e assim nascem as Escamas de Poseidon. Feitas de Orichalco, metal proveniente de Atlântida, a vantagem que elas dão em batalha é tão grande que Athena se vê forçada a criar para seus próprios guardiões suas próprias armaduras, nascendo assim as 88 armaduras de Athena. Essa armadura é a de Dragão Marinho, usada na série por Kanon, irmão gêmeo de Saga.
+284	T. das Constel.
+285	Próxima ao Mar Egeu, na Grécia, é um lugar muito visitado por turistas devido sua reputação. Dizem que o nome "Terra das Constelações" foi dado ao local devido as inúmeras estrelas cadentes que podem ser vistas no céu.
+286	Santuário
+287	É a principal base de operação dos Cavaleiros de Athena. É de lá que o Grande Mestre e Athena comandam suas forças. É aqui onde ficam as Doze Casas, a linha de defesa final das forças da Deusa, guardadas pelos Cavaleiros de Ouro.
+288	Coliseu Graad
+289	A Fundação Graad é uma organização com alto poder aquisitivo e conhecimento tecnológico. Criada por Mitsumasa Kido e hoje dirigida por Saori Kido, é uma das maiores empresas de todo o mundo.\rO Coliseu Graad é uma das construções de propriedade da fundação, criada para realização da Guerra Galáctica.
+290	Rozan
+291	Localizado nos Cinco Picos Antigos, este local mantém as clássicas tradições e características culturais chinesas. É onde Shiryu e Shunrei vivem, bem como onde o Cavaleiro de Ouro de Libra, o Mestre Ancião Dohko, repousa enquanto mantém sua vigília sobre o selo de Athena, que mantém sob controle os Espectros de Hades desde a última Guerra Santa.
+292	Estr. Esquecida
+293	Esta estrada é o local no qual o Cavaleiro de Sagitário, Aioros, foi morto pelo Cavaleiro de Capricórnio, Shura, após resgatar a Deusa Athena ainda bebê. Também é o único caminho que conduz à Mansão Solo.
+294	I. da R. da Morte
+295	Tal como o seu nome implica, a Ilha da Rainha da Morte é um lugar cruel, conhecido como o “Inferno na Terra”. Ikki recebeu seu treinamento aqui para se tornar o Cavaleiro de Fênix. A ilha serve como base para os Cavaleiros Negros.
+296	Sibéria Orie.
+297	Inteiramente coberto por gelo e neve, ou os habitantes aprendem a conviver com o frio desesperador, ou congelam até a morte. É onde Hyoga vive e fez seu treinamento para se tornar o Cavaleiro de Cisne, sob a tutela do Cavaleiro de Aquário, Camus.
+298	Atlântida
+299	O lendário continente perdido de Atlântida é um reino submarino lindo e maravilhoso. É onde o Palácio de Poseidon está localizado. Antigamente, esse território ficava acima dos mares, porém afundou após a primeira Guerra Santa entre as forças de Athena e Poseidon.
+300	Ilha de Andrôm.
+301	O local onde Shun treinou e, através do Ritual de Sacrifício, obteve a Armadura de Andrômeda. A vegetação da Ilha de Andrômeda é escassa e a variação de temperatura de dia para noite é altíssima. No centro da ilha está o vulcão ativo de Tártaro, que dizem ser a porta para o inferno.
+302	Cast. de Hades
+303	O lugar onde Pandora nasceu. Inicialmente, era um castelo tranquilo e pacífico, mas, há 13 anos, quando o espírito de Hades renasceu, todas as formas de vida nos arredores foram extintas. Atualmente, o lugar está protegido por um encantamento de Hades, impedindo pessoas comuns de se aproximarem e enfraquecendo Cavaleiros de Athena a 1/10 de seu poder original. Possui um portal para o Submundo em seu interior.
+304	Submundo
+305	Para entrar no reino dos mortos, os vivos devem atingir o Oitavo Sentido. Inspirado pela “Divina Comédia” de Dante Alighieri, o território de Hades é dividido em 9 círculos com prisões para diferentes tipos de almas a serem punidas. Além do Muro das Lamentações, encontra-se o caminho para os Campos Elíseos, local de descanso das almas benevolentes e selecionadas pelos deuses, bem como do próprio imperador do Submundo.
+306	Sirene
+307	^cd0000Pertencem forças: ^ffffffNeptune
+308	Eles vivem em uma ilha, com uma canção maravilhosa para atrair marinheiros, sua ilha e, portanto, cheio de ossos humanos.Kraken é realmente um monstro do mar como muito feio e muitas vezes com medo da humanidade humana não perto da costa, assim que a sirene não tinha encontrado nenhuma presa pode pegar.Com a memória vai, eles começaram a evoluir para uma mulher bonita, de modo a sirene para a maioria maioria beleza.A maioria tem mantido uma metade homem sirene e olhar metade peixe para é que você pode usar o som e aparência à demagogia.
+309	Cérbero
+310	^cd0000 pertencem forças: ^ffffffPluto
+311	Guardavam os portões do inferno tipo de demônio, este monstro mau forma terrível.Tem muitas alto, longa cauda da cobra, cabeça e cabelo para trás é todo o dinheiro para a viagem de estradas cobras, veneno ejetado da boca do pôr-do-capim vai dar à luz a acônito.Na mitologia, o submundo dos mortos ao entrar o primeiro passeio de barco atravessou o rio Styx, e inferno três cães guardava o submundo Hades era a porta.Inferno três cães de estimação na alma de cada um dos submundo mortos, mas não deixe ninguém de fora.
+312	Báculo Dourado de Athena
+313	Grande ou pequeno pode escalar onipotente bem
+314	Minato Minato palavras palavras palavras palavras Cou
+315	Minato Minato palavras palavras palavras palavras Cou Cou Cou Minato palavras palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou Cou palavras palavras palavras
+316	Primeiro volume!
+317	Quadrinhos!
+318	

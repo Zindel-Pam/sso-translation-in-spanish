@@ -1,0 +1,1176 @@
+0	Tristeza Inevitável
+1	Morte acidental do personagem
+2	Nv. 10
+3	Atingiu Nv. 10
+4	Nv. 20
+5	Atingiu Nv. 20
+6	Nv. 30
+7	Atingiu Nv. 30
+8	Trabalho Árduo
+9	Conclua a Quest Huan 2x dentro de 4 dias
+10	Cautelosa e Conscientemente
+11	Conclua a Quest 1x dentro de 1 semana
+12	Refine a Armadura
+13	Conquistas Registrada
+14	Aprimore o Equipamento
+15	Dividir através da Caixa Mágica
+16	Síntese através da Caixa Mágica
+17	Habilidade de Produção
+18	Áries orienta a Quest
+19	Touro orienta a Quest
+20	Gêmeos orienta a Quest
+21	Câncer orienta a Quest
+22	Câncer orienta a Quest (Conquista registrada)
+23	Virgem orienta a Quest
+24	Leão orienta a Quest
+25	Libra orienta a Quest
+26	Escorpião orienta a Quest
+27	Sagitário orienta a Quest
+28	Capricórnio orienta a Quest
+29	Aquário orienta a Quest
+30	Peixes orienta a Quest
+31	Arena de Ática
+32	Adicionar Amigo
+33	Entrar no Exército
+34	Leiloar Item
+35	Leilão realizado com sucesso
+36	Abrir Loja
+37	Mensagem do Grupo
+38	Mensagem do Exército
+39	Editor de golpes contínuos
+40	Cravejar Runa
+41	PVP em ritmo lento
+42	Astromancia do Cosmo
+43	Montar Grupo
+44	Banho de Glória
+45	Atingiu Nv. 5
+46	Orientar Pré-Conquista
+47	Atingiu Nv. 11
+48	Atingiu Nv. 12
+49	Atingiu Nv. 15
+50	Atingiu Nv. 25
+51	Atingiu Nv. 35
+52	Atingiu Nv. 40
+53	Atingiu Nv. 45
+54	Atingiu Nv. 50
+55	Atingiu Nv. 59
+56	Conclua a Quest para Refine
+57	Conclua a Quest de Síntese através da Caixa Mágica
+58	Obtenha o Título 21301
+59	Conclua 1x o Questionário de Kiki
+60	Na ${dynamic_dir(55, "Programação do dia")}, conclua Questionário de Kiki.
+61	Conclua 1x Crise das Doze Casas
+62	Na ${dynamic_dir(55, "Programação do dia”)}, conclua Crise das Doze Casas.
+63	Conclua 1x Tempestade em Atlântida
+64	Na ${dynamic_dir(55, "Programação do dia")}, conclua Tempestade em Atlântida.
+65	Conclua 1x Dez Cavernas
+66	Na ${dynamic_dir(55, "Programação do dia")}, conclua Dez Cavernas.
+67	Seja vitorioso na [Arena]Ruínas de Ática
+68	Na ${dynamic_dir(55, "Programação do dia")}, conclua Ruínas de Ática.
+69	Conclua 1x Erradicar o Mal
+70	Na ${dynamic_dir(55, "Programação do dia")}, conclua Erradicar o Mal.
+71	Participe da Memórias da Guerra Santa e vista a Armadura de Ouro
+72	Após o Nv. 15, vá para a Interface de Recomendações no Calendário e participa da [Dungeon]Memórias da Guerra Santa e experimenta o poder da Armadura de Ouro
+73	Refine qualquer Armadura até Nv. 2
+74	Use ${dynamic_dir(5, "Refine")} para refinar qualquer Armadura até o Nv.2
+75	Crie ou participe de um Exército
+76	Vá até ${npc(14799)} para criar ou participar de um Exército
+77	Participe da Arena de Duelo
+78	Vá até a interface da ${dynamic_dir(26, "Arena de Duelo")} e obtenha 10 vitórias
+79	Troque de Signo 1x
+80	Vá até ${npc(18405)} e troque de Signo 1x
+81	Realizar uma compra com Gem no Item Mall
+82	Vá até ${dynamic_dir(44, "Item Mall")} e realize uma compra com Gem
+83	Fortalecer o Cosmo 1x
+84	Vá até ${dynamic_dir(1, "Cosmo")} e realize 1x a Astromancia, inserindo a Alma para que o Índice de Poder Estelar atinja 500
+85	Conclua a Quest de Cosmo
+86	Obtenha a 2ª Armadura de Bronze
+87	Vá até ${npc(17439)} para obter a 2ª Armadura de Bronze
+88	Realizar uma Divisão através da Caixa Mágica
+89	Use ${dynamic_dir(3, "Caixa Mágica")} para dividir um Equipamento
+90	Aprimore 1x o Equipamento
+91	Vá até ${npc(11576)} para Aprimore qualquer Equipamento 1x
+92	Subir 1x o Nv. através da Caixa Mágica
+93	Use ${dynamic_dir(4, "Caixa Mágica")} para subir o Nv. de um Equipamento
+94	Aprender 1 Habilidade de Produção
+95	Vá até ${npc(17542)} e aprenda alguma habilidade de Produção
+96	Oferecer o lance em um item, na Casa de Leilão
+97	Vá até ${npc(11575)} e dê o lance em um item na Casa de Leilão
+98	Cravejar Runa 1x
+99	Vá até ${npc(17850)} e craveje uma runa em um Equipamento qualquer
+100	Ative um Título
+101	Ative qualquer ${dynamic_dir(56, "Título")} obtido
+102	Ativar 2x EXP
+103	Vá até ${npc(14838)} para receber 2x EXP e o ative no ${dynamic_dir(6, "2x EXP")}
+104	Atingiu Nv. 18
+105	Atingiu Nv. 22
+106	Use 1x o Armazém
+107	Vá até ${npc(11565)} para ativar o Armazém e guardar os itens 1x
+108	Aprimore o Equipamento até que o Power atinja 2000
+109	No ${npc(11576)} Aprimore o Power para 2000 ${jump(1)}
+110	Comprar 1x os suprimentos
+111	Vá até ${npc(11303)} e ${npc(17282)} para comprar 50 Pães Dinamarquesas e 50 Poções Potentes de HP
+112	Realize 1x Cavaleiros da Deusa
+113	Na ${dynamic_dir(55, "Programação do dia")}, conclua Cavaleiros da Deusa.
+114	Realizar 1x Desafio do Destino
+115	Na ${dynamic_dir(55, "Programação do dia")}, conclua Desafio do Destino.
+116	Power atingir 5000 e Nv. 25
+117	Orientar Conquistas
+118	Power atingir 9000 e Nv. 35
+119	Power atingir 15000 e Nv. 45
+120	Power atingir 28000 e Nv. 55
+121	Power atingir 50000 e Nv. 65
+122	Power atingir 80000 e Nv. 75
+123	Power atingir 115000 e Nv. 85
+124	Power atingir 150000 e Nv. 95
+125	Vincular o Cartão de Segurança
+126	Vá até ${npc(29306)} para vincular o Cartão de Segurança
+127	Refine qualquer Armadura até Nv. 5
+128	Use o ${dynamic_dir(5, "Refine")} e refinar qualquer Armadura até Nv. 5
+129	Obtenha 5 Armaduras
+130	Vá até ${npc(17439)}, ${npc(17440)} ou ${npc(28252)} para obter outra Armadura
+131	Atinja 1000 de Poder Estelar do Cosmo
+132	No ${dynamic_dir(1, "Cosmo")} fazer o Índice de Poder Estelar atingir 1000
+133	Obtenha 2 Armaduras de Prata
+134	Vá até ${npc(17440)} para conseguir pistas e obter mais de 2 Armaduras de Prata
+135	Obtenha 1 Armadura de Ouro
+136	Vá até ${npc(28252)} para conseguir pistas e obter 1 Armadura de Ouro
+137	Os Cavaleiros do Zodíaco OL Introdução de Divulgador
+138	Vá até ${npc(32159)} para ler a Introdução de Divulgador de Os Cavaleiros do Zodíaco OL
+139	Obtenha 1 Pet
+140	Vá até ${npc(1240)} e pergunte como obter 1 Pet
+141	Realize 1x a Procriação de Pet
+142	Vá até ${npc(17340)} e realize 1x a Procriação de Pet
+143	Conclua 3x a Quest Desafio de Alraune
+144	Vá até ${npc(33799)} para concluir 3x a Quest Desafio de Alraune
+145	Obtenha 10 Armaduras de Bronze
+146	Refine 14 Armaduras de Bronze Comum até Nv. Máx
+147	Refine 14 Armaduras de Bronze até Nv. Máx
+148	Refine qualquer Armadura de Personagens Principais até Nv. 17
+149	Obtenha 10 Armaduras de Prata
+150	Refine 1 Armadura de Prata de Categoria Inicial ou Intermediária até Nv. Máx
+151	Refine 1 Armadura de Prata de Categoria Avançada até Nv. Máx
+152	Obtenha 6 Armaduras de Ouro
+153	Refine qualquer Armadura de Ouro até Nv. 20
+154	Refine qualquer uma das 12 Armaduras de Ouro até Nv. 20
+155	Aprimore qualquer Slot do Equipamento até 100%
+156	Aprimore qualquer Slot do Equipamento até 100%, se já atingiu isso, é só aprimorar mais 1x
+157	Aprimore 3 Slots do Equipamento até 100%
+158	Aprimore 3 Slots até 100% e deve ser no mesmo Equipamento
+159	Atinja 5000 de Poder Estelar do Cosmo
+160	Atinja 5000 de Poder Estelar do Cosmo
+161	Atinja 8000 de Poder Estelar do Cosmo
+162	Atinja 13500 de Poder Estelar do Cosmo
+163	Atinja 19000 de Poder Estelar do Cosmo
+164	Aprimore os Equipamentos dos Escudeiros até 1500 de Power
+165	Consulte seu progresso no botão Po, na aba Power, Escudeiro
+166	Alcance 4000 de power com o Escudeiro
+167	Alcance 6000 de power com o Escudeiro
+168	Aprimore o Equipamento até que o Power atinja 6000
+169	Aprimore o Equipamento até que o Power bônus atinja 6000.
+170	Aprimore o Equipamento até que o Power atinja 8000
+171	Aprimore o Equipamento até que o Power atinja 12000
+172	Aprimore o Equipamento até que o Power atinja 15000
+173	Refine qualquer Armadura Negra até Nv. 16
+174	Ler as instruções do sistema sobre Tutela
+175	Vá até ${npc(34575)} para ler as instruções sobre as exigências para se tornar discípulo
+176	Obtenha 20 Armaduras de Prata
+177	Obtenha 12 Armaduras de Ouro
+178	Ter 3 amigos com Amizade que atinja 1W
+179	Qualquer Reputação Geográfica atingir o máx
+180	Qualquer Reputação de Personagem atingir o máx
+181	Astrologia atingiu Nv. 5
+182	Astrologia atingiu Nv. 5, completando 5 Diagramas de Constelação
+183	Astrologia atingiu Nv. 24
+184	Astrologia atingiu Nv. 48
+185	Grau de Atividade Individual do dia atingir 200
+186	Conclua 1x Ritual
+187	Na Interface de Ritual, realize 1x o Ritual
+188	Tornar-se o Divulgador de Ouro de Os Cavaleiros do Zodíaco
+189	Vá até ${npc(32159)} para ler as orientações detalhadas sobre o Divulgador de Ouro, incentivando outros jogadores a atingirem Nv. 10
+190	Obtenha a Armadura dos Lendários 5 Protagonistas de Bronze
+191	Quando a Quest Principal atingir Nv. 9, poderá usar a Armadura dos Lendários 5 Protagonistas de Bronze
+192	Nv. 10 Pacote de Acelerador de Nv.
+193	No ${jump(88)} Star-Mais vendido, compre e abre Nv. 10 Pacote de Avanços de Nv.
+194	Conv.ocar Cavaleiros do Dragão
+195	Parabéns, você coletou 4 Dragões! Talvez eles realizarão um desejo seu
+196	Conclua o Desafio da Dungeon
+197	Vá até ${npc(212333)} para concluir a dungeon "Meteoro Negro"
+198	Vá até ${npc(212333)} para concluir a dungeon "Furacão das Trevas"
+199	Vá até ${npc(212333)} para concluir a dungeon "Explosão Galá."
+200	Vá até ${npc(212333)} para concluir a dungeon "Sinfonia Final"
+201	Vá até ${npc(212333)} para concluir a dungeon "Destr. Máxima"
+202	Vá até ${npc(212333)} para concluir a dungeon "Buraco Negro"
+203	Certificado de Aprendiz
+204	Chegue ao Nv. 10
+205	Certificado de Novato
+206	Chegue ao Nv. 20
+207	Certificado de Lutador
+208	Chegue ao Nv. 30
+209	Certificado de Guerreiro
+210	Chegue ao Nv. 40
+211	Certificado de Elite
+212	Chegue ao Nv. 50
+213	Certificado de Herói
+214	Chegue ao Nv. 60
+215	Certificado de Guardião
+216	Chegue ao Nv. 70
+217	Certificado de Superação
+218	Chegue ao Nv. 80
+219	Certificado de Grande Mestre
+220	Chegue ao Nv. 90
+221	Certificado de Deus
+222	Chegue ao Nv. 100
+223	Lenda do Massacre
+224	Consiga 10000 de Power
+225	Massacre dos Demônios
+226	Consiga 50000 de Power
+227	Lenda Imortal
+228	Consiga 100000 de Power
+229	Lenda do Assassino de Deuses
+230	Consiga 150000 de Power
+231	Caminho para a Riqueza
+232	Obtenha 100000 Gold
+233	Bem de Vida
+234	Obtenha 500000 Gold
+235	Pessoa Rica
+236	Obtenha 1000000 Gold
+237	Capitalista
+238	Obtenha 5000000 Gold
+239	Acumulador
+240	Obtenha 100000 Silver
+241	Poupador
+242	Obtenha 500000 Silver
+243	Magnata
+244	Obtenha 1000000 Silver
+245	Milionário
+246	Obtenha 5000000 Silver
+247	Trabalho Sofrido
+248	Abra o 4º Baú de Atividade 1x
+249	Abelha Trabalhadora
+250	Abra o 4º Baú de Ativ. por 7 dias consecutivos
+251	Trabalho Árduo
+252	Abra o 4º Baú de Atividade 120x
+253	De Leste a Oeste
+254	Obtenha 400pts de Atividade em 1 dia
+255	De Cima a Baixo
+256	Obtenha 800pts de Atividade em 1 dia
+257	Em Todos os Cantos
+258	Obtenha 1500ptos de Atividade em 1 dia
+259	1ª Gota de Sangue
+260	Conclua a Quest Erradicar o Mal 1x
+261	Cão de Caça
+262	Conclua a Quest Erradicar o Mal 8x
+263	O Caçador
+264	Conclua a Quest Erradicar o Mal 20x
+265	5º Sentido
+266	Chegue ao Nv. 1 do Cosmo
+267	6º Sentido
+268	Chegue ao Nv. 2 do Cosmo
+269	7º Sentido
+270	Chegue ao Nv. 3 do Cosmo
+271	8º Sentido
+272	Chegue ao Nv. 4 do Cosmo
+273	9º Sentido
+274	Chegue ao Nv. 5 do Cosmo
+275	Destinado ao Santuário
+276	Adquira 5 Armaduras
+277	Destinado à Constelação
+278	Adquira 12 Armaduras
+279	Espírito de Cavaleiro
+280	Obtenha uma Montaria
+281	Companheiro de Marin
+282	Atinja Reputação nível Estima com ela
+283	Companheiro de Shina
+284	Atinja Reputação nível Estima com ela
+285	Companheiro de Mu
+286	Atinja Reputação nível Estima com ele
+287	Companheiro de Aldebaran
+288	Atinja Reputação nível Estima com ele
+289	Companheiro de Saga
+290	Atinja Reputação nível Estima com ele
+291	Companheiro de Máscara da Morte
+292	Atinja Reputação nível Estima com ele
+293	Companheiro de Aioria
+294	Atinja Reputação nível Estima com ele
+295	Companheiro de Shaka
+296	Atinja Reputação nível Estima com ele
+297	Companheiro de Miro
+298	Atinja Reputação nível Estima com ele
+299	Companheiro de Dohko
+300	Atinja Reputação nível Estima com ele
+301	Companheiro de Aioros
+302	Atinja Reputação nível Estima com ele
+303	Companheiro de Shura
+304	Atinja Reputação nível Estima com ele
+305	Companheiro de Camus
+306	Atinja Reputação nível Estima com ele
+307	Companheiro de Afrodite
+308	Atinja Reputação nível Estima com ele
+309	Companheiro de Seiya
+310	Atinja Reputação nível Estima com ele
+311	Companheiro de Hyoga
+312	Atinja Reputação nível Estima com ele
+313	Companheiro de Shiryu
+314	Atinja Reputação nível Estima com ele
+315	Companheiro de Shun
+316	Atinja Reputação nível Estima com ele
+317	Companheiro de Ikki
+318	Atinja Reputação nível Estima com ele
+319	Guardião do Santuário
+320	Atinja Reputação nível Zelo nesta região
+321	Guardião do Coliseu Graad
+322	Atinja Reputação nível Zelo nesta região
+323	Guardião de Rozan
+324	Atinja Reputação nível Zelo nesta região
+325	Guardião da Estrada Esquecida
+326	Atinja Reputação nível Zelo nesta região
+327	Guardião da Ilha da Rainha da Morte
+328	Atinja Reputação nível Zelo nesta região
+329	Guardião da Sibéria Oriental
+330	Atinja Reputação nível Zelo nesta região
+331	Guardião de Atlântida
+332	Atinja Reputação nível Zelo nesta região
+333	Guardião da Ilha de Andrômeda
+334	Atinja Reputação nível Zelo nesta região
+335	Guardião do Castelo de Hades
+336	Atinja Reputação nível Zelo nesta região
+337	A Lenda dos Cavaleiros!
+338	Conclua "Saga do Santuário", Cap I
+339	Cavaleiro do Amor e da Justiça!
+340	Conclua "Saga do Santuário", Cap II
+341	Guerreiro sob a Via Láctea!
+342	Conclua "Saga do Santuário", Cap III
+343	Jovem Destinado!
+344	Conclua "Saga do Santuário", Cap IV
+345	Homem que Conhece a Verdade!
+346	Conclua "Saga do Santuário", Cap V
+347	Fé Milenar Intacta!
+348	Conclua "Saga do Santuário", Cap VI
+349	O Cavaleiro de Ouro de Sagitário!
+350	Conclua "Saga do Santuário", Cap VII
+351	O Domínio Sangrento dos Sete Mares!
+352	Conclua "Saga do Santuário", Cap VIII
+353	A Ambição de Dominar o Mundo!
+354	Conclua "Saga do Santuário", Cap IX
+355	As Chamas da Ilha da Rainha da Morte!
+356	Conclua "Saga do Santuário", Cap X
+357	O Poder de Poseidon!
+358	Conclua "Saga de Poseidon", Cap I
+359	A Glória do Extremo Norte!
+360	Conclua "Saga de Poseidon", Cap II
+361	A Ira de Poseidon!
+362	Conclua "Saga de Poseidon", Cap III
+363	O Azul da Fortaleza Submarina!
+364	Conclua "Saga de Poseidon", Cap IV
+365	Destruidor Dourado!
+366	Conclua "Saga de Hades: Cruzada ao Submundo", Cap I
+367	O Prólogo da Grande Guerra Santa!
+368	Conclua "Saga de Hades: Cruzada ao Submundo", Cap II
+369	A Traição dos Cavaleiros de Ouro!
+370	Conclua "Saga de Hades: Cruzada ao Submundo", Cap III
+371	Portal que Leva ao Submundo!
+372	Conclua "Saga de Hades: Cruzada ao Submundo", Cap IV
+373	Outra Dimensão!
+374	Conclua esta Quest de enredo
+375	Melodia Sufocante!
+376	Conclua esta Quest de enredo
+377	Urgente! A Situação do Leão!
+378	Conclua esta Quest de enredo
+379	Batalha! As Doze Casas!
+380	Conclua esta Quest de enredo
+381	Guerra Galáctica
+382	Lute na Guerra Galáctica
+383	Batalha mortal das Dez Cavernas!
+384	Conclua esta Quest de enredo
+385	Ruptura! Dragão e Tigre!
+386	Conclua esta Quest de enredo
+387	Fuga! Yomotsu Hirasaka!
+388	Conclua esta Quest de enredo
+389	Memórias! A Verdade de Treze Anos Atrás!
+390	Conclua esta Quest de enredo
+391	Conspiração! O Homem que Enganou Deus!
+392	Conclua esta Quest de enredo
+393	Confronto! Retorno à Star Hill!
+394	Conclua esta Quest de enredo
+395	Aniquilação! O Golpe Fantasma da Fênix!
+396	Conclua esta Quest de [Enredo]!
+397	Memórias! O Renascimento de Fênix!
+398	Conclua esta Quest de enredo
+399	Memórias! A Justiça da Aurora!
+400	Conclua esta Quest de enredo
+401	Azul Profundo! A Batalha dos Sete Mares!
+402	Conclua esta Quest de enredo
+403	Sombra Transcendente!
+404	Na ${npc(212687)} conclua Sombra Transcendente!
+405	Lenda do Coliseu Graad
+406	Conclua 30 Quests secundárias nesta região
+407	Lenda de Rozan
+408	Conclua 30 Quests secundárias nesta região
+409	Lenda da Estrada Esquecida
+410	Conclua 30 Quests secundárias nesta região
+411	Lenda da Ilha da Rainha da Morte
+412	Conclua 30 Quests secundárias nesta região
+413	Lenda da Sibéria Oriental
+414	Conclua 30 Quests secundárias nesta região
+415	Lenda de Atlântida
+416	Conclua 30 Quests secundárias nesta região
+417	Lenda da Ilha de Andrômeda
+418	Conclua 30 Quests secundárias nesta região
+419	Lenda do Castelo de Hades
+420	Conclua 30 Quests secundárias nesta região
+421	Pequeno Matemático
+422	Conclua "Doze Casas" e "Herói do Destino"
+423	Bardo
+424	Conclua a Quest 5x
+425	Bardo Viajante
+426	Conclua a Quest 25x
+427	Escritor de Epopeias
+428	Conclua a Quest 50x
+429	Coletor de rumores
+430	Conclua a Quest diariamente por 5 dias
+431	Habilidoso
+432	Conclua a Quest 1x
+433	Vencer os Inimigos
+434	Conclua a Quest 10x
+435	Indômito
+436	Conclua a Quest 25x
+437	Astro EXP Concentrado
+438	Conclua a Quest diariamente por 5 dias
+439	Paixão Extrema
+440	Conclua 1x a "Quest Extrema" da Estrela 1
+441	Desafio Extremo
+442	Conclua 1x a "Quest Extrema" da Estrela 2
+443	Honra Extrema
+444	Conclua 1x a "Quest Extrema" da Estrela 3
+445	Limite dos Cavaleiros!
+446	Conclua, no total, 50x a "Quest Extrema"
+447	Crise das Doze Casas
+448	Conclua esta Quest de evento
+449	Proteja Saori
+450	Conclua esta Quest de evento
+451	Tempestade em Atlântida
+452	Conclua esta Quest de evento
+453	Desafio de Peixes
+454	Conclua esta Quest de evento
+455	Desafio de Libra
+456	Conclua esta Quest de evento
+457	Desafio de Leão
+458	Conclua esta Quest de evento
+459	Réquiem do Santuário
+460	Conclua esta Quest de evento
+461	Proteja Athena
+462	Conclua esta Quest de evento
+463	Contra-Ataque I! Abismo do Fogo e Gelo
+464	Conclua esta Quest de evento
+465	Contra-Ataque II! Lobo Gigante da Montanha de Neve
+466	Conclua esta Quest de evento
+467	Contra-Ataque III! Deus Demoníaco do País de Gelo
+468	Conclua esta Quest de evento
+469	Apocalipse Demoníaco
+470	Conclua esta Quest de evento
+471	Invasão! Os Vingadores
+472	Conclua esta Quest de evento
+473	Sonata Infernal
+474	Conclua esta Quest de evento
+475	Borboletas do Submundo
+476	Conclua esta Quest de evento
+477	Sonho da Deusa
+478	Conclua esta Quest de evento
+479	Desafio de Peixes
+480	Conclua esta Quest de evento
+481	Desafio de Libra
+482	Conclua esta Quest de evento
+483	Desafio de Leão
+484	Conclua esta Quest de evento
+485	Tsunami em Atlântida
+486	Conclua esta Quest de evento
+487	Conflito das Doze Casas
+488	Conclua esta Quest de evento
+489	Memórias da Guerra Santa
+490	Conclua esta dungeon
+491	Dez Cavernas
+492	Conclua esta dungeon
+493	Coração de Sagitário
+494	Conclua esta dungeon
+495	Doze Casas I
+496	Conclua esta dungeon
+497	Doze Casas II
+498	Conclua esta dungeon
+499	Doze Casas III
+500	Conclua esta dungeon
+501	Doze Casas IV
+502	Conclua esta dungeon
+503	Santuário de Gelo
+504	Conclua esta dungeon
+505	Sete Pilares I
+506	Conclua esta dungeon
+507	Sete Pilares II
+508	Conclua esta dungeon
+509	Elegia da Deusa I
+510	Conclua esta Quest heroica
+511	Elegia da Deusa II
+512	Conclua esta Quest heroica
+513	Memórias Eternas
+514	Conclua 100x “Memórias da Guerra Santa”
+515	[Heroico]Dez Cavernas
+516	Conclua esta Quest heroica
+517	[Heroico]Coração de Sagitário
+518	Conclua esta Quest heroica
+519	[Heroico]Castelo do Graad Azul
+520	Conclua esta Quest heroica
+521	[Heroico]Castelo de Hades
+522	Conclua esta Quest heroica
+523	[Epopeia]O Fim de Hades
+524	Conclua esta epopeia
+525	[Heroico]Doze Casas Divinas I
+526	Conclua esta Quest heroica
+527	[Heroico]Doze Casas Divinas II
+528	Conclua esta Quest heroica
+529	[Heroico]Doze Casas Divinas III
+530	Concluir [Heroico]Doze Casas Divinas III
+531	[Heroico]Doze Casas Divinas IV
+532	Concluir [Heroico]Doze Casas Divinas IV
+533	Vitorioso
+534	Passe pela 1ª fase da "Epopeia Estelar"
+535	Vitorioso Constante
+536	Passe pela 10ª fase da "Epopeia Estelar"
+537	Romper a Linha Inimiga
+538	Passe pela 20ª fase da "Epopeia Estelar"
+539	Vencedor
+540	Passe pela 30ª fase da "Epopeia Estelar"
+541	Corajoso
+542	Passe pela 40ª fase da "Epopeia Estelar"
+543	Alma da Batalha
+544	Passe pela 50ª fase da "Epopeia Estelar"
+545	Posicionado para Batalha
+546	Passe pela 60ª fase da "Epopeia Estelar"
+547	Destruidor de Inimigos
+548	Passe pela 70ª fase da "Epopeia Estelar"
+549	Atitude Heroica
+550	Passe pela 80ª fase da "Epopeia Estelar"
+551	Bravura Imortal
+552	Passe pela 90ª fase da "Epopeia Estelar"
+553	Invencível
+554	Passe pela 100ª fase da "Epopeia Estelar"
+555	Inimigo do Povo
+556	Passe pela 110ª fase da "Epopeia Estelar"
+557	Feroz do Mundo
+558	Passe pela 120ª fase da "Epopeia Estelar"
+559	Lenda do Campo de Batalha
+560	Passe pela 130ª fase da "Epopeia Estelar"
+561	Estrela do Exército
+562	Passe pela 140ª fase da "Epopeia Estelar"
+563	Herói Invicto
+564	Passe pela 150ª fase da "Epopeia Estelar"
+565	Atitude de Conquista
+566	Passe pela 160ª fase da "Epopeia Estelar"
+567	Incomparável
+568	Passe pela 170ª fase da "Epopeia Estelar"
+569	Romper os Céus
+570	Passe pela 180ª fase da "Epopeia Estelar"
+571	Reencarnação de Ares
+572	Passe pela 190ª fase da "Epopeia Estelar"
+573	Déspota dos Céus
+574	Passe pela 200ª fase da "Epopeia Estelar"
+575	Eternidade
+576	Passe pela 210ª fase da "Epopeia Estelar"
+577	Vindo dos Céus
+578	Passe pela 220ª fase da "Epopeia Estelar"
+579	Poder do Assassino de Deuses
+580	Passe pela 230ª fase da "Epopeia Estelar"
+581	Massacre dos Deuses
+582	Passe pela 240ª fase da "Epopeia Estelar"
+583	Crepúsculo dos Deuses
+584	Complete a "Epopeia Estelar"
+585	Corrida Contra o Tempo
+586	Conclua "Ajude o Relojoeiro" em "Crise das Doze Casas"
+587	Sábio que Apenas Parece Tolo
+588	Derrote Thetis de Sereia em "Tempestade em Atlântida"
+589	Às Coisas Lindas Perdidas
+590	Conclua “Conselho da Garota Misteriosa" em "Desafio de Peixes"
+591	É um Espectro!
+592	Derrote Líder Escondido dos Espectros em "Desafio de Leão"
+593	Momentos de Tristeza
+594	Derrote Sombra do Sonho em "Proteja Saori"
+595	Momentos de Alegria
+596	Leia o Diário da Alegria em "Proteja Saori"
+597	Nos Momentos Tristes
+598	Derrote Sombra do Sonho em "Proteja Athena"
+599	Nos Momentos Alegres
+600	Leia o Diário da Alegria em "Proteja Athena"
+601	Sombra no Escuro
+602	Derrote Gigante do Tártaro em "Apocalipse Demoníaco"
+603	Coveiro
+604	Derrote Cérbero em "Réquiem do Santuário"
+605	Não Deixe Passe Nada
+606	Derrote Bado em "Contra-Ataque II! Lobo Gigante da Montanha de Neve"
+607	Sexto Artefato de Alma
+608	Derrote Naska, Serpente Rei Negra, em "Dez Cavernas"
+609	Dança Furiosa da Serpente Negra
+610	Derrote 100 Cobras Negras ou Ovos de Cobra Negra em "Dez Cavernas"
+611	Retirada do Espírito Maligno
+612	Derrote Monstro diante de Buda em "Doze Casas de Ouro (continuação)"
+613	Viagem no Tempo
+614	Obtenha e abrir "Caixa de Presente da Princesa" no Santuário de Gelo
+615	Lutador Divino · Pégasus Negro
+616	Derrote Pégasus Negro em [Heroico]Dez Cavernas, dificuldade Lutador Divino
+617	Lutador Divino · Cisne Negro
+618	Derrote Cisne Negro em [Heroico]Dez Cavernas, dificuldade Lutador Divino
+619	Lutador Divino · Dragão Negro
+620	Derrote Dragão Negro em [Heroico]Dez Cavernas, dificuldade Lutador Divino
+621	Lutador Divino · Ikki de Fênix
+622	Derrote Ikki de Fênix em [Heroico]Dez Cavernas, dificuldade Lutador Divino
+623	Semideus · Pégasus Negro
+624	Derrote Pégasus Negro em [Heroico]Dez Cavernas, dificuldade Semideus
+625	Semideus · Cisne Negro
+626	Derrote Cisne Negro em [Heroico]Dez Cavernas, dificuldade Semideus
+627	Semideus · Dragão Negro
+628	Derrote Dragão Negro em [Heroico]Dez Cavernas, dificuldade Semideus
+629	Semideus · Ikki de Fênix
+630	Derrote Ikki de Fênix em [Heroico]Dez Cavernas, dificuldade Semideus
+631	Lutador Divino · Centauro
+632	Derrote Centauro em [Heroico]Coração de Sagitário, dificuldade Lutador Divino
+633	Lutador Divino · Sagita
+634	Derrote Sagita em [Heroico]Coração de Sagitário, dificuldade Lutador Divino
+635	Lutador Divino · Baleia
+636	Derrote Baleia em [Heroico]Coração de Sagitário, dificuldade Lutador Divino
+637	Lutador Divino · Capricórnio
+638	Derrote Capricórnio em [Heroico]Coração de Sagitário, dificuldade Lutador Divino
+639	Semideus · Centauro
+640	Derrote Centauro em [Heroico]Coração de Sagitário, dificuldade Semideus
+641	Semideus · Sagita
+642	Derrote Sagita em [Heroico]Coração de Sagitário, dificuldade Semideus
+643	Semideus · Baleia
+644	Derrote Baleia em [Heroico]Coração de Sagitário, dificuldade Semideus
+645	Semideus · Capricórnio
+646	Derrote Capricórnio em [Heroico]Coração de Sagitário, dificuldade Semideus
+647	Soldado Divino · Pégasus Negro
+648	Derrote Pégasus Negro em [Heroico]Dez Cavernas, dificuldade Soldado Divino
+649	Soldado Divino · Cisne Negro
+650	Derrote Cisne Negro em [Heroico]Dez Cavernas, dificuldade Soldado Divino
+651	Soldado Divino · Dragão Negro
+652	Derrote Dragão Negro em [Heroico]Dez Cavernas, dificuldade Soldado Divino
+653	Soldado Divino · Ikki de Fênix
+654	Derrote Ikki de Fênix em [Heroico]Dez Cavernas, dificuldade Soldado Divino
+655	Soldado Divino · Centauro
+656	Derrote Centauro em [Heroico]Coração de Sagitário, dificuldade Soldado Divino
+657	Soldado Divino · Sagita
+658	Derrote Sagita em [Heroico]Coração de Sagitário, dificuldade Soldado Divino
+659	Soldado Divino · Baleia
+660	Derrote Baleia em [Heroico]Coração de Sagitário, dificuldade Soldado Divino
+661	Soldado Divino · Capricórnio
+662	Derrote Capricórnio em [Heroico]Coração de Sagitário, dificuldade Soldado Divino
+663	Pégasus Inflexível
+664	Se transforme em Seiya SD no [Evento]Proteja Athena
+665	Dragão Forte
+666	Se transforme em Shiryu SD no [Evento]Proteja Athena
+667	Cisne Severo
+668	Se transforme em Hyoga SD no [Evento]Proteja Athena
+669	Fênix das Chamas
+670	Se transforme em Ikki SD no [Evento]Proteja Athena
+671	Andrômeda Benevolente
+672	Se transforme em Shun SD no [Evento]Proteja Athena
+673	Lutador Divino · Áries
+674	Derrote Áries em [Heroico]Elegia da Deusa I, dificuldade Lutador Divino
+675	Lutador Divino · Estrela Terrestre das Trevas
+676	Derrote Estrela Terrestre das Trevas em [Heroico]Elegia da Deusa I, dificuldade Lutador Divino
+677	Lutador Divino · Estrela Terrestre Sinistra
+678	Derrote Estrela Terrestre Sinistra em [Heroico]Elegia da Deusa I, dificuldade Lutador Divino
+679	Soldado Divino · Áries
+680	Derrote Áries em [Heroico]Elegia da Deusa I, dificuldade Soldado Divino
+681	Soldado Divino · Estrela Terrestre das Trevas
+682	Derrote Estrela Terrestre das Trevas em [Heroico]Elegia da Deusa I, dificuldade Soldado Divino
+683	Soldado Divino · Estrela Terrestre Sinistra
+684	Derrote Estrela Terrestre Sinistra em [Heroico]Elegia da Deusa I, dificuldade Soldado Divino
+685	Semideus · Áries
+686	Derrote Áries em [Heroico]Elegia da Deusa I, dificuldade Semideus
+687	Semideus · Estrela Terrestre das Trevas
+688	Derrote Estrela Terrestre das Trevas em [Heroico]Elegia da Deusa I, dificuldade Semideus
+689	Semideus · Estrela Terrestre Sinistra
+690	Derrote Estrela Terrestre Sinistra em [Heroico]Elegia da Deusa I, dificuldade Semideus
+691	Lutador Divino · Laimi , Estrela Terrestre da Submissão
+692	Derrote Estrela Terrestre da Submissão em [Heroico]Elegia da Deusa II, dificuldade Lutador Divino
+693	Lutador Divino · Giganto, Estrela Terrestre da Violência
+694	Derrote Estrela Terrestre da Violência em [Heroico]Elegia da Deusa II, dificuldade Lutador Divino
+695	Lutador Divino · Trindade
+696	Derrote Cavaleiro de Ouro renascido em [Heroico]Elegia da Deusa II, dificuldade Lutador Divino
+697	Soldado Divino · Laimi , Estrela Terrestre da Submissão
+698	Derrote Estrela Terrestre da Submissão em [Heroico]Elegia da Deusa II, dificuldade Soldado Divino
+699	Soldado Divino · Giganto, Estrela Terrestre da Violência
+700	Derrote Estrela Terrestre da Violência em [Heroico]Elegia da Deusa II, dificuldade Soldado Divino
+701	Soldado Divino · Trindade
+702	Derrote Cavaleiro de Ouro renascido em [Heroico]Elegia da Deusa II, dificuldade Soldado Divino
+703	Semideus · Laimi , Estrela Terrestre da Submissão
+704	Derrote Estrela Terrestre da Submissão em [Heroico]Elegia da Deusa II, dificuldade Semideus
+705	Semideus · Giganto, Estrela Terrestre da Violência
+706	Derrote Estrela Terrestre da Violência em [Heroico]Elegia da Deusa II, dificuldade Semideus
+707	Semideus · Trindade
+708	Derrote Cavaleiro de Ouro renascido em [Heroico]Elegia da Deusa II, dificuldade Semideus
+709	Assassino de Deuses · Áries
+710	Derrote Áries em [Heroico]Elegia da Deusa I, dificuldade Assassino de Deuses
+711	Assassino de Deuses · Estrela Terrestre das Trevas
+712	Derrote Estrela Terrestre das Trevas em [Heroico]Elegia da Deusa I, dificuldade Assassino de Deuses
+713	Assassino de Deuses · Estrela Terrestre Sinistra
+714	Derrote Estrela Terrestre Sinistra em [Heroico]Elegia da Deusa I, dificuldade Assassino de Deuses
+715	Assassino de Deuses · Laimi , Estrela Terrestre da Submissão
+716	Derrote Estrela Terrestre da Submissão em [Heroico]Elegia da Deusa II, dificuldade Assassino de Deuses
+717	Assassino de Deuses · Giganto, Estrela Terrestre da Violência
+718	Derrote Estrela Terrestre da Violência em [Heroico]Elegia da Deusa II, dificuldade Assassino de Deuses
+719	Assassino de Deuses · Trindade
+720	Derrote Cavaleiro de Ouro renascido em [Heroico]Elegia da Deusa II, dificuldade Assassino de Deuses
+721	Lutador Divino · Estrela Beta
+722	Derrote Estrela Beta em [Heroico]Castelo do Graad Azul, dificuldade Lutador Divino
+723	Lutador Divino · Estrela Épsilon
+724	Derrote Estrela Épsilon em [Heroico]Castelo do Graad Azul, dificuldade Lutador Divino
+725	Lutador Divino · Estrela Delta
+726	Derrote Estrela Delta em [Heroico]Castelo do Graad Azul, dificuldade Lutador Divino
+727	Lutador Divino · Estrelas Zeta
+728	Derrote Estrelas Zeta em [Heroico]Castelo do Graad Azul, dificuldade Lutador Divino
+729	Soldado Divino · Estrela Beta
+730	Derrote Estrela Beta em [Heroico]Castelo do Graad Azul, dificuldade Soldado Divino
+731	Soldado Divino · Estrela Épsilon
+732	Derrote a Estrela Épsilon em [Heroico] Castelo do Graad Azul, dificuldade Soldado Divino
+733	Soldado Divino · Estrela Delta
+734	Derrote a Estrela Delta em [Heroico] Castelo do Graad Azul, dificuldade Soldado Divino
+735	Soldado Divino · Estrelas Zeta
+736	Derrote as Estrelas Zeta em [Heroico] Castelo do Graad Azul, dificuldade Soldado Divino
+737	Semideus · Estrela Beta
+738	Derrote a Estrela Beta em [Heroico] Castelo do Graad Azul, dificuldade Semideus
+739	Semideus · Estrela Épsilon
+740	Derrote a Estrela Épsilon em [Heroico] Castelo do Graad Azul, dificuldade Semideus
+741	Semideus · Estrela Delta
+742	Derrote a Estrela Delta em [Heroico] Castelo do Graad Azul, dificuldade Semideus
+743	Semideus · Estrelas Zeta
+744	Derrote as Estrelas Zeta em [Heroico] Castelo do Graad Azul, dificuldade Semideus
+745	Assassino de Deuses · Estrela Beta
+746	Derrote a Estrela Beta em [Heroico] Castelo do Graad Azul, dificuldade Assassino de Deuses
+747	Assassino de Deuses · Estrela Épsilon
+748	Derrote a Estrela Épsilon em [Heroico] Castelo do Graad Azul, dificuldade Assassino de Deuses
+749	Assassino de Deuses · Estrela Delta
+750	Derrote a Estrela Delta em [Heroico] Castelo do Graad Azul, dificuldade Assassino de Deuses
+751	Assassino de Deuses · Estrelas Zeta
+752	Derrote as Estrelas Zeta em [Heroico] Castelo do Graad Azul, dificuldade Assassino de Deuses
+753	Lutador Divino · Estrela Celeste Demoníaca
+754	Derrote a Estrela Celeste Demoníaca [Heroico] Castelo de Hades, dificuldade Lutador Divino
+755	Lutador Divino · Estrela Celeste do Clamor
+756	Derrote a Estrela Celeste do Clamor em [Heroico] Castelo de Hades, dificuldade Lutador Divino
+757	Lutador Divino · Estrela Terrestre Bizarra
+758	Derrote a Estrela Terrestre Bizarra em [Heroico] Castelo de Hades, dificuldade Lutador Divino
+759	Lutador Divino · Estrela Celeste da Fúria
+760	Derrote a Estrela Celeste da Fúria em [Heroico] Castelo de Hades, dificuldade Lutador Divino
+761	Soldado Divino · Estrela Celeste Demoníaca
+762	Derrote a Estrela Celeste Demoníaca em [Heroico] Castelo de Hades, dificuldade Soldado Divino
+763	Soldado Divino · Estrela Celeste do Clamor
+764	Derrote a Estrela Celeste do Clamor em [Heroico] Castelo de Hades, dificuldade Soldado Divino
+765	Soldado Divino · Estrela Terrestre Bizarra
+766	Derrote a Estrela Terrestre Bizarra em [Heroico] Castelo de Hades, dificuldade Soldado Divino
+767	Soldado Divino · Estrela Celeste da Fúria
+768	Derrote a Estrela Celeste da Fúria em [Heroico] Castelo de Hades, dificuldade Soldado Divino
+769	Semideus · Estrela Celeste Demoníaca
+770	Derrote a Estrela Celeste Demoníaca em [Heroico] Castelo de Hades, dificuldade Semideus
+771	Semideus · Estrela Celeste do Clamor
+772	Derrote a Estrela Celeste do Clamor em [Heroico] Castelo de Hades, dificuldade Semideus
+773	Semideus · Estrela Terrestre Bizarra
+774	Derrote a Estrela Terrestre Bizarra [Heroico] Castelo de Hades, dificuldade Semideus
+775	Semideus · Estrela Celeste da Fúria
+776	Derrote a Estrela Celeste da Fúria em [Heroico] Castelo de Hades, dificuldade Semideus
+777	Assassino de Deuses · Estrela Celeste Demoníaca
+778	Derrote a Estrela Celeste Demoníaca em [Heroico] Castelo de Hades, dificuldade Assassino de Deuses
+779	Assassino de Deuses · Estrela Celeste do Clamor
+780	Derrote a Estrela Celeste do Clamor em [Heroico] Castelo de Hades, dificuldade Assassino de Deuses
+781	Assassino de Deuses · Estrela Terrestre Bizarra
+782	Derrote a Estrela Terrestre Bizarra em [Heroico] Castelo de Hades, dificuldade Assassino de Deuses
+783	Assassino de Deuses · Estrela Celeste da Fúria
+784	Derrote a Estrela Celeste da Fúria em [Heroico] Castelo de Hades, dificuldade Assassino de Deuses
+785	Sonho! A Vida Curta
+786	Conclua esta Quest de evento
+787	Ilusão! Montanha do Precipício Destruído
+788	Conclua esta Quest de evento
+789	Despertar! A Cachoeira
+790	Conclua esta Quest de evento
+791	Rozan! O Sonho Virou Pó
+792	Conclua esta Quest de evento
+793	Dragão Mortal de Rozan
+794	Derrote o Boss oculto nesta Quest de evento
+795	Lutador Divino · Deus da Morte
+796	Derrote o Deus da Morte em [Epopeia]O Fim de Hades, dificuldade Lutador Divino
+797	Lutador Divino · Deus do Sono
+798	Derrote o Deus do Sono em [Epopeia]O Fim de Hades, dificuldade Lutador Divino
+799	Lutador Divino · Deus do Sonho
+800	Derrote o Deus do Sonho em [Epopeia]O Fim de Hades, dificuldade Lutador Divino
+801	Lutador Divino · Imperatriz do Submundo
+802	Derrote a Imperatriz do Submundo em [Epopeia]O Fim de Hades, dificuldade Lutador Divino
+803	Lutador Divino · Imperador do Submundo
+804	Derrote o Imperador do Submundo em [Epopeia]O Fim de Hades, dificuldade Lutador Divino
+805	Soldado Divino · Deus da Morte
+806	Derrote o Deus da Morte em [Epopeia]O Fim de Hades, dificuldade Soldado Divino
+807	Soldado Divino · Deus do Sono
+808	Derrote o Deus do Sono em [Epopeia]O Fim de Hades, dificuldade Soldado Divino
+809	Soldado Divino · Deus do Sonho
+810	Derrote o Deus do Sonho em [Epopeia]O Fim de Hades, dificuldade Soldado Divino
+811	Soldado Divino · Imperatriz do Submundo
+812	Derrote a Imperatriz do Submundo em [Epopeia]O Fim de Hades, dificuldade Soldado Divino
+813	Soldado Divino · Imperador do Submundo
+814	Derrote o Imperador do Submundo em [Epopeia]O Fim de Hades, dificuldade Soldado Divino
+815	Semideus · Deus da Morte
+816	Derrote o Deus da Morte em [Epopeia] OFim de Hades, dificuldade Semideus
+817	Semideus · Deus do Sono
+818	Derrote o Deus do Sono em [Epopeia]O Fim de Hades, dificuldade Semideus
+819	Semideus · Deus do Sonho
+820	Derrote o Deus do Sonho em [Epopeia]O Fim de Hades, dificuldade Semideus
+821	Semideus · Imperatriz do Submundo
+822	Derrote a Imperatriz do Submundo em [Epopeia]O Fim de Hades, dificuldade Semideus
+823	Semideus · Imperador do Submundo
+824	Derrote o Imperador do Submundo em [Epopeia]O Fim de Hades, dificuldade Semideus
+825	Assassino de Deuses · Deus da Morte
+826	Derrote o Deus da Morte em [Epopeia]O Fim de Hades, dificuldade Assassino de Deuses
+827	Assassino de Deuses · Deus do Sono
+828	Derrote o Deus do Sono em [Epopeia]O Fim de Hades, dificuldade Assassino de Deuses
+829	Assassino de Deuses · Deus do Sonho
+830	Derrote o Deus do Sonho em [Epopeia]O Fim de Hades, dificuldade Assassino de Deuses
+831	Assassino de Deuses · Imperatriz do Submundo
+832	Derrote a Imperatriz do Submundo em [Epopeia]O Fim de Hades, dificuldade Assassino de Deuses
+833	Assassino de Deuses · Imperador do Submundo
+834	Derrote o Imperador do Submundo em [Epopeia]O Fim de Hades, dificuldade Assassino de Deuses
+835	Estrela Negra
+836	Conclua a dungeon "[Evento]MAX! Meteoro Negro"
+837	Nebulosa de Prata
+838	Conclua a dungeon "MAX! Furacão das Trevas"
+839	Galáxia de Ouro
+840	Conclua a dungeon "MAX! Explosão Galáctica"
+841	Estrela Marinha
+842	Conclua a dungeon "MAX! Sinfonia Final"
+843	Buraco de Minhoca de Hades
+844	Conclua a dungeon "MAX! Destruição Máxima"
+845	Guerra Santa! Estrela Terrestre da Prisão!
+846	Vá até ${npc(200359)} e conclui a Guerra Santa!Estrela Terrestre Prisioneira!Obtenha e vista 3 equipamentos de nível verde
+847	Guerra Santa! Estrela Terrestre do Mal!
+848	Vá até ${npc(200438)} e conclui a Guerra Santa!Estrela Terrestre do Mal!Obtenha e vista 4 equipamentos de nível verde
+849	Jovem e Perigoso
+850	Conclua a dungeon "MAX! Buraco Negro"
+851	Lutador Divino·Deus·Áries
+852	No [Heroico]Doze Casas Divinas I, derrotar Deus·Áries de dificuldade Lutador Divino
+853	Lutador Divino·Deus·Touro
+854	No [Heroico]Doze Casas Divinas I, derrotar Deus·Touro de dificuldade Lutador Divino
+855	Lutador Divino·Deus·Gêmeos
+856	No [Heroico]Doze Casas Divinas I, derrotar Deus·Gêmeos de dificuldade Lutador Divino
+857	Soldado Divino·Deus·Áries
+858	Soldado Divino·Deus·Touro
+859	Soldado Divino·Deus·Gêmeos
+860	Semideus·Deus·Áries
+861	Semideus·Deus·Touro
+862	Semideus·Deus·Gêmeos
+863	Assassino de Deuses·Deus·Áries
+864	Assassino de Deuses·Deus·Touro
+865	Assassino de Deuses·Deus·Gêmeos
+866	Lutador Divino·Deus·Câncer
+867	No [Heroico]Doze Casas Divinas II, derrotar Deus·Câncer de dificuldade Lutador Divino
+868	Lutador Divino·Deus·Leão
+869	No [Heroico]Doze Casas Divinas II, derrotar Deus·Leão de dificuldade Lutador Divino
+870	Lutador Divino·Deus·Virgem
+871	No [Heroico]Doze Casas Divinas II, derrotar Deus·Virgem de dificuldade Lutador Divino
+872	Soldado Divino·Deus·Câncer
+873	No [Heroico]Doze Casas Divinas II, derrotar Deus·Câncer de dificuldade Soldado Divino
+874	Soldado Divino·Deus·Leão
+875	No [Heroico]Doze Casas Divinas II, derrotar Deus·Leão de dificuldade Soldado Divino
+876	Soldado Divino·Deus·Virgem
+877	No [Heroico]Doze Casas Divinas II, derrotar Deus·Virgem de dificuldade Soldado Divino
+878	Semideus·Deus·Câncer
+879	No [Heroico]Doze Casas Divinas II, derrotar Deus·Câncer de dificuldade Semideus
+880	Semideus·Deus·Leão
+881	No [Heroico]Doze Casas Divinas II, derrotar Deus·Leão de dificuldade Semideus
+882	Semideus·Deus·Virgem
+883	No [Heroico]Doze Casas Divinas II, derrotar Deus·Virgem de dificuldade Semideus
+884	Assassino de Deuses·Deus·Câncer
+885	No [Heroico]Doze Casas Divinas II, derrotar Deus·Câncer de dificuldade Assassino de Deuses
+886	Assassino de Deuses·Deus·Leão
+887	No [Heroico]Doze Casas Divinas II, derrotar Deus·Leão de dificuldade Assassino de Deuses
+888	Assassino de Deuses·Deus·Virgem
+889	No [Heroico]Doze Casas Divinas II, derrotar Deus·Virgem de dificuldade Assassino de Deuses
+890	Lutador Divino·Deus·Libra
+891	No [Heroico]Doze Casas Divinas III, derrotar Deus·Libra de dificuldade Lutador Divino
+892	Lutador Divino·Deus·Escorpião
+893	No [Heroico]Doze Casas Divinas III, derrotar Deus·Escorpião de dificuldade Lutador Divino
+894	Lutador Divino·Deus·Sagitário
+895	No [Heroico]Doze Casas Divinas III, derrotar Deus·Sagitário de dificuldade Lutador Divino
+896	Soldado Divino·Deus·Libra
+897	No [Heroico]Doze Casas Divinas III, derrotar Deus·Libra de dificuldade Soldado Divino
+898	Soldado Divino·Deus·Escorpião
+899	No [Heroico]Doze Casas Divinas III, derrotar Deus·Escorpião de dificuldade Soldado Divino
+900	Soldado Divino·Deus·Sagitário
+901	No [Heroico]Doze Casas Divinas III, derrotar Deus·Sagitário de dificuldade Soldado Divino
+902	Semideus·Deus·Libra
+903	No [Heroico]Doze Casas Divinas III, derrotar Deus·Libra de dificuldade Semideus
+904	Semideus·Deus·Escorpião
+905	No [Heroico]Doze Casas Divinas III, derrotar Deus·Escorpião de dificuldade Semideus
+906	Semideus·Deus·Sagitário
+907	No [Heroico]Doze Casas Divinas III, derrotar Deus·Sagitário de dificuldade Semideus
+908	Assassino de Deuses·Deus·Libra
+909	No [Heroico]Doze Casas Divinas III, derrotar Deus·Libra de dificuldade Assassino de Deuses
+910	Assassino de Deuses·Deus·Escorpião
+911	No [Heroico]Doze Casas Divinas III, derrotar Deus·Escorpião de dificuldade Assassino de Deuses
+912	Assassino de Deuses·Deus·Sagitário
+913	No [Heroico]Doze Casas Divinas III, derrotar Deus·Sagitário de dificuldade Assassino de Deuses
+914	Alguém Gosta de Mim
+915	Adicione 5 amigos
+916	Muitas Pessoas Gostam de Mim
+917	Adicione 20 amigos
+918	Todos Gostam de Mim
+919	Obtenha 50 amigos
+920	Melhor Amigo
+921	Consiga 1000 de Amizade com um amigo
+922	Trabalhador
+923	Conclua "Elegia do Renascido" 1x com Exército
+924	Trabalhador Talentoso
+925	Conclua "Elegia do Renascido" 10x com Exército
+926	Pedra Base da Raide
+927	Conclua "Elegia do Renascido" 50x com Exército
+928	Trabalhar Sem Parar
+929	Conclua "Elegia do Renascido" por 5 dias
+930	Batalha Famosa
+931	Vença 1x no Campo de Batalha de Ática
+932	O Caminho da Conquista
+933	Vença 25x no Campo de Batalha de Ática
+934	Rei Sem Coroa
+935	Vença 50x no Campo de Batalha de Ática
+936	Glória do Caos
+937	Vença 1x no Campo de Batalha Caótico
+938	General Vencedor
+939	Vença 25x no Campo de Batalha Caótico
+940	Invencível
+941	Vença 50x no Campo de Batalha Caótico
+942	Teste do Campo de Batalha Caótico
+943	Vença 1x no Teste do Campo de Batalha Caótico
+944	Vitória Imediata
+945	Vença 1x no Campo de Batalha de Lava
+946	Um Pequeno Sucesso
+947	Vença 25x no Campo de Batalha de Lava
+948	Mestre das Batalhas
+949	Vença 50x no Campo de Batalha de Lava
+950	Guarda do Céu
+951	Vença 1x no Campo de Batalha do Céu
+952	Viagem no Horizonte
+953	Vença 25x no Campo de Batalha do Céu
+954	Soberano do Céu
+955	Vença 50x no Campo de Batalha do Céu
+956	Sonho de uma Noite de Verão
+957	Conclua a Quest temática de Verão 1x
+958	Deusa! Prece de Verão!
+959	Conclua a Quest de evento
+960	Sortudo do Verão
+961	Abra 5x a Caixa da Sorte de Verão
+962	Orador do Verão
+963	Ore sob a fase final da Árvore da Fertilidade
+964	Festival da Lua! Explosão do Bolo Lunar
+965	Conclua a Quest de evento
+966	Dia das Bruxas! Abóbora Louca!
+967	Conclua a Quest de evento
+968	Administrador da Cidade
+969	Derrote 1x Monstro Ladrão
+970	Administrador Especialista da Cidade
+971	Derrote 25x Monstro Ladrão
+972	Administrador Mestre da Cidade
+973	Derrote 100x Monstro Ladrão
+974	Quest recomendada para Grupos
+975	Quest recomendada para Amigos
+976	Bronze
+977	Prata
+978	Ouro
+979	Mito
+980	Individual
+981	Astro EXP
+982	Cosmo
+983	Armadura
+984	Reputação
+985	Quest
+986	Quest Principal
+987	Quest Secundária
+988	Enredo
+989	Cavaleiros da Deusa
+990	Desafio do Destino
+991	Limite dos Cavaleiros
+992	Dungeon
+993	Evento
+994	Desafio
+995	Epopeia Estrelar
+996	Aventura
+997	Comunidade
+998	Relacionamento
+999	Exército
+1000	Ruínas de Ática
+1001	CdB Caótico
+1002	CdB de Lava
+1003	CdB do Céu
+1004	Mundo
+1005	Festival
+1006	Monstro Raro
+1007	Crescimento do Exército
+1008	Nível de Exército
+1009	Nº de Pessoas no Exército
+1010	Construção do Exército
+1011	Quest do Exército
+1012	Construção do Exército
+1013	Exército PVE
+1014	Dungeon do Exército
+1015	Nível 1
+1016	O Exército atingiu o nível 1
+1017	Nível 2
+1018	O Exército atingiu o nível 2
+1019	Nível 3
+1020	O Exército atingiu o nível 3
+1021	10 Pessoas
+1022	Nº de Pessoas no Exército atingiu 10
+1023	50 Pessoas
+1024	Nº de Pessoas no Exército atingiu 50
+1025	100 Pessoas
+1026	Nº de Pessoas no Exército atingiu 100
+1027	Quest Diária: 5x
+1028	Conclua Quest diária do Exército 5x
+1029	Quest Diária: 10x
+1030	Conclua Quest diária do Exército 10x
+1031	Quest Semanal: 5x
+1032	Conclua Quest semanal do Exército 5x
+1033	Quest Semanal: 10x
+1034	Conclua Quest semanal do Exército 10x
+1035	Construção Principal: Nível 1
+1036	A Construção Principal do Exército atingiu o nível 1
+1037	Construção Principal: Nível 2
+1038	A Construção Principal do Exército atingiu o nível 2
+1039	Construção Principal: Nível 3
+1040	A Construção Principal do Exército atingiu o nível 3
+1041	Exército: Atlântida
+1042	Forme um grupo com mais de 4 membros do Exército para concluir a Dungeon de Atlântida
+1043	Exército: Teste de Ouro
+1044	Formar um grupo com mais de 4 membros do Exército para concluir a Dungeon do Teste de Ouro
+1045	Exército: Proteção de Saori
+1046	Formar um grupo com mais de 4 membros do Exército para concluir a Proteção de Saori 5x
+1047	Exército: Memórias da Guerra Santa
+1048	Formar um grupo com mais de 4 membros do Exército para concluir Memórias da Guerra Santa 5x
+1049	Dia
+1050	Semana
+1051	Mês
+1052	Primeira Morte
+1053	Primeiro Casamento
+1054	Primeira vez como Aprendiz
+1055	Primeiro Discípulo admitido
+1056	Primeira colocação de Alma
+1057	Primeira retirada de Alma
+1058	Primeira fusão de Alma
+1059	Primeiro uso habilidade de Montaria
+1060	Primeiro Personagem ativado na comunidade
+1061	Primeiro uso de Mensagem do grupo
+1062	Primeiro Amigo adicionado
+1063	Primeiro Grupo formado
+1064	Primeira Melhoria manual
+1065	Primeira entrada nas Mensagens do Exército
+1066	Primeira Transferência para aprimorar equipamento
+1067	Primeiro Login na versão portátil
+1068	Primeiro recebimento do sistema de 2x EXP
+1069	Primeiro Dom aprendido
+1070	Primeira vitória de auto-caça em ritmo lento
+1071	Primeira Participação num leilão por um item
+1072	Primeiro Lance bem sucedido por um item no leilão
+1073	Primeiro Câmbio de lingote
+1074	Primeira troca de Signo
+1075	Primeira vez que abre a loja
+1076	Primeira Compra na loja de outra pessoa
+1077	Primeira Venda na loja pessoal
+1078	Primeira Compra na Loja Pessoal
+1079	Primeira configuração no Timelock
+1080	Primeira configuração no Cadeado de Senha
+1081	Primeira escolha de Signo
+1082	Aprender Habilidade
+1083	Primeira queima do Cosmo
+1084	Primeiro uso da Astromancia
+1085	Primeira Runa cravejada
+1086	Primeiro Equipamento aprimorado
+1087	Primeira síntese na Caixa Mágica
+1088	Primeira separação na Caixa Mágica
+1089	Primeiro gasto de Gem
+1090	Primeiro Título usado
+1091	Primeiro vez que abre o Armazém
+1092	Atingiu uma Conquista
+1093	Nível do personagem atingido
+1094	Nível do Cosmo atingido
+1095	Conclua uma Quest
+1096	Derrote um Monstro de ID
+1097	Índice de Reputação atingido
+1098	Índice de Reputação incrementada atingido
+1099	Vencer na Dungeon de desafio
+1100	Completar um Campo de Batalha
+1101	Gem Atingido
+1102	Coin Atingida
+1103	Power Atingido
+1104	Nº de Títulos obtidos
+1105	Títulos Específicos ou Não
+1106	Nº de Ilustrações obtidas
+1107	Nº de Armaduras obtidas
+1108	Nº de Armaduras obtidas de cada tipo
+1109	Número de Amigos
+1110	Grau de Amizade de um Amigo aleatório foi atingido
+1111	Derrote o Monstro Ladrão
+1112	VIP
+1113	Vença uma Dungeon de Equipamento ou de Evento
+1114	Obtenha uma Alma de qualidade
+1115	Nº de Almas no nível máximo
+1116	Nº de Montarias obtidas
+1117	O amigo por quem você se apaixonou também está apaixonado por você
+1118	No lugar A do ID do Mapa, derrote até que a quantidade dos jogadores derrotados atinja B
+1119	Cada Habilidade de Produção atingiu o nível
+1120	Nº de vitórias atingido sobre companheiros de time no PVP em ritmo lento (Desafios)
+1121	Nº de vitórias consecutivas atingido em "Pedra, papel, tesoura" no PVP em ritmo lento (Eliminatórias)
+1122	Posição atingida no ranking no PVP em ritmo lento (Eliminatórias)
+1123	Habilidade de Produção aleatória atingiu o nível 1
+1124	Nível de Refinação de Armadura aleatória atingido
+1125	Atingiu o Poder Estelar do Cosmo
+1126	Grau de Perfeição de Aprimoramento atingido
+1127	Nº de itens de id comprados
+1128	Nº de conclusões de uma Quest
+1129	Nº de conclusões de um tipo de Evento
+1130	Nº de conclusões de um tipo de Quest em cada período B dentro de um período A
+1131	Nº de conclusões consecutivas de um tipo de Quest
+1132	Nº de Monstros derrotados de um ID
+1133	Nº de Habilidades aprendidas num nível
+1134	Nº de Aprendizes que se tornaram Mestre
+1135	Nº de vitórias numa Dungeon
+1136	Nº de vitórias num Campo de Batalha
+1137	Nº de Monstros derrotados reunidos em um ID
+1138	Nº de Ilustrações obtidas reunidas em um ID
+1139	Conquistas Concluídas
+1140	Pontuação de Conquistas atingiu X de Índice
+1141	Nível do Exército atingido
+1142	Nº de Pessoas no Exército atingido
+1143	Reputação Atingida
+1144	Conclua Quest
+1145	Derrote o Monstro
+1146	Atravessar Dungeon
+1147	Desconhecido
+1148	Iniciante
+1149	Aceitável
+1150	Razoável
+1151	Revelação
+1152	Brilhante
+1153	Extraordinário
+1154	Aniquilação Total
+1155	Fama e Sucesso
+1156	0
+1157	
+1158	去${dynamic_dir(55, "\日程表"\)}推荐界面下寻找[活动]贵鬼辞典并完成一次
+1159	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]集结！十二宫危机并完成一次
+1160	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]风暴！亚特兰蒂斯并完成一次
+1161	去${dynamic_dir(55, "\日程表"\)}界面寻找[副本]十风穴并完成一次
+1162	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[战场]阿提卡遗迹并获得胜利
+1163	去${dynamic_dir(55, "\日程表"\)}周常界面寻找[活动]诛杀邪恶并完成一次
+1164	使用${dynamic_dir(5, "\星铸系统"\)}并星铸任意一件圣衣到2级
+1165	去${dynamic_dir(26, "\英雄竞技场"\)}界面参加一次竞技场
+1166	去${dynamic_dir(44, "\星券商城"\)}消费一次
+1167	在${dynamic_dir(1, "\小宇宙系统"\)}中进行一次占星，装上一个星魂，并星力值达到500
+1168	使用${dynamic_dir(3, "\魔盒系统"\)}拆分一件装备
+1169	使用${dynamic_dir(4, "\魔盒系统"\)}升阶一件装备
+1170	在${dynamic_dir(56, "\称号系统"\)}中装备任意一个称号
+1171	去${npc(14838)}处领取双倍经验并在${dynamic_dir(6, "\双倍经验系统"\)}中开启一次
+1172	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]女神的圣斗士并完成一次
+1173	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]命运的试炼并完成一次
+1174	使用${dynamic_dir(5, "\星铸系统"\)}再星铸其他任意一件圣衣到5级
+1175	在${dynamic_dir(1, "\小宇宙系统"\)}中使星力值达到1000

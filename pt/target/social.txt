@@ -1,0 +1,1625 @@
+0	/Atual
+1	/Grupo
+2	/Amigos
+3	/Colegas
+4	/MP
+5	/Exército
+6	/Mundo
+7	/Anúncio
+8	/Rir
+9	/Abraço mútuo
+10	/Imprimir Chat
+11	Eu
+12	%s já é seu amigo.
+13	Solicitação de amizade enviada, aguardando a resposta do jogador.
+14	Insira o nome do jogador:
+15	%s pediu para ser seu amigo, você aceita?
+16	Você concordou que %s te adicione como amigo.
+17	Você rejeitou o convite de %s,
+18	&%s& adicionado como amigo com sucesso.
+19	&%s& adicionado como amigo com sucesso.
+20	Você adicionou %s à lista de bloqueios
+21	%s já é seu amigo.
+22	%s já está em seus contatos.
+23	Você não pode enviar uma solicitação de amizade para você mesmo.
+24	O amigo %s foi removido de sua lista pois o personagem não existe mais.
+25	%s &%s& cancelou o laço de amizade com você.
+26	&%s& cancelou o laço de amizade com você.
+27	Amigos
+28	Contatos Recentes
+29	Bloqueios
+30	Rivais
+31	Contatos
+32	Não há rivais, não é necessário usar a ferramenta de rastreio de rivais~
+33	O rival que você está rastreando está offline atualmente
+34	O rival %s está em %s, vá logo se vingar~
+35	Amizade: %s
+36	Amizade: %d/10000
+37	A quantidade de grupos de amigos atingiu o limite máximo
+38	Escolha um nome para o grupo de amigos:
+39	Criar Grupo
+40	Mover Amigo
+41	Selecione um grupo para mover
+42	Tem certeza de que deseja excluir o amigo "%s"?
+43	Tem certeza de que deseja excluir o contato "%s"?
+44	Tem certeza de que deseja incluir "%s" na lista de bloqueios?
+45	Insira o nome do personagem que deseja adicionar à lista de bloqueios:
+46	%s já está na lista de bloqueios
+47	Tem certeza de que deseja excluir o grupo de amigos "%s"?\rTodos os amigos no grupo serão movidos para um grupo padrão
+48	Impossível abrir mais janelas de chat. Por favor, feche algumas e tente novamente.
+49	Seu amigo %s está online.
+50	Seu amigo %s está offline.
+51	No chat com ^F6C95E%s^N
+52	^8CC9FFEu: ^N
+53	^9BFF8C%s: ^N
+54	Tem certeza de que deseja excluir o histórico de conversa de todos os seus amigos?
+55	Histórico de conversa excluído com sucesso.
+56	Falha ao excluir o histórico de conversa, por favor tente excluir manualmente.
+57	Amigos online, disponíveis para conversa ~
+58	Buscando bastante carinho!
+59	Um grito aos céus! Minha brilhante estréia!
+60	Em nome de Athena! Queime, Cosmo!
+61	Se sentir bem, o povo não precisa se preocupar
+62	Somente após o nível %d a função de Saudação será liberada
+63	Desconhecido
+64	mês %d dia %d
+65	Ocorreu um erro desconhecido com essa operação de amizade
+66	A outra parte não está online agora
+67	A solicitação de amizade que você enviou não obteve resposta
+68	É uma pena, mas o jogador não permite que você o adicione como amigo
+69	Você atingiu o número máximo de amigos, não é possível adicionar mais amigos
+70	Jogador inexistente, não é possível adicioná-lo como amigo
+71	Já em na lista de amigos
+72	A lista de contatos atingiu o limite máximo, não é possível adicionar à lista
+73	Jogador inexistente, não é possível adicioná-lo à lista de contatos
+74	Já está na lista de contatos
+75	A quantidade de grupos de amigos atingiu o limite máximo
+76	Jogador inexistente, não é possível adicioná-lo à lista negra
+77	Jogador inexistente, não é possível adicioná-lo à lista negra
+78	Já está na Lista Negra
+79	O número de rivais bloqueados já atingiu o limite máximo (5), não é possível continuar a bloqueando
+80	%s e %s conheceram-se através do sistema de amor secreto, parabéns!
+81	Através do cristal, descobriu-se que você e o jogador %s foram amantes na vida passada; juntos, atacaram o Imperador do Submundo e morreram em nome do amor. Agora, %s espera que possa continuar a se encontrar com você, como estão destinados.
+82	Nas proximidades há um jogador com o nível semelhante ao seu, do sexo oposto, e deseja se tornar seu amigo!
+83	Nas proximidades há um jogador com o nível semelhante ao seu e o jogador deseja se tornar seu amigo!
+84	&%s& enviou a &%s& %d Rosas
+85	, e disse: %s
+86	%dun.
+87	Há %d Rosas no inventário
+88	Não há Rosas o suficiente
+89	Você não são amigos
+90	Este amigo não está online, não é possível presenteá-lo com rosas
+91	%s\t&%s& enviou %d Rosas para você
+92	Cônjuge
+93	Parceria
+94	Não é uma relação de parceria
+95	Não é o seu casal
+96	Convite para formar grupo
+97	Solicitação para entrar no grupo
+98	O pedido para entrar no grupo já foi entregue ao líder, por favor, aguarde a resposta.
+99	Você enviou uma solicitação para formar grupo, por favor, aguarde a resposta do jogador...
+100	%s já está em seu grupo, não é possível convidar novamente.
+101	Você não pode convidar a si mesmo.
+102	&%s& (%s %s) está convidando você para se juntar ao grupo, aceita o convite? \rModo de recolher itens: para itens de qualidade %s ou abaixo, empregar o método %s
+103	&%s& (%s %s) pediu para se juntar ao grupo, você concorda?
+104	&%s& convidou &%s& para entrar no grupo，você concorda?
+105	O líder concordou com seu convite para %s
+106	O líder recusou seu convite para %s
+107	%s convidou você para entrar no grupo, mas este pedido foi ignorado, pois ultrapassou o tempo
+108	O convite para formar grupo ultrapassou o limite de tempo; a outra parte não respondeu.
+109	O convite para formar grupo ultrapassou o limite de tempo; seu líder não respondeu.
+110	&%s& convidou &%s& para entrar no grupo, mas este pedido foi ignorado, pois ultrapassou o tempo
+111	Já está num grupo, não é possível aceitar o convite para formar outros grupos
+112	%s offline
+113	%s online
+114	%s mudou para este canal
+115	%s mudou para %s
+116	%s foi promovido a líder
+117	%s deixou o grupo
+118	%s deixou o grupo e %s foi promovido a líder
+119	%s promoveu %s a líder
+120	%s foi expulso do grupo
+121	Mais da metade (incluindo metade) dos membros concordaram que %s seja expulso do grupo
+122	O grupo foi desfeito
+123	&%s& foi adicionado ao grupo
+124	&%s& agradeceu, mas recusa seu convite
+125	&%s& obteve %d unidades de %s
+126	%s pediu para entrar no grupo, mas o número de membros do grupo já está completo.
+127	%s convidou você para entrar no grupo, mas atualmente você já formou um grupo.
+128	%s recusou a forma de repartição do grupo da nova proposta!
+129	Recolher livremente
+130	O líder alterou o modo de recolher itens: para itens de qualidade %s ou abaixo, empregar o método %s
+131	%s pediu para entrar no grupo, mas este pedido foi ignorado, pois ultrapassou o tempo
+132	A solicitação para formar grupo ultrapassou o limite de tempo; o jogador não respondeu.
+133	Modo de recolher itens do grupo no qual você está: para itens de qualidade %s ou abaixo, empregar o método %s
+134	Tem certeza que deseja deixar ou desfazer o grupo?
+135	Não é possível localizar grupo
+136	Confirmar
+137	Não Confirmado
+138	Recusar
+139	Este Jogador
+140	%d metros
+141	O líder deseja expulsar %s do grupo, você concorda?
+142	O membro do grupo não está online, não é possível procurar o caminho automaticamente
+143	O membro do grupo está em um local desconhecido, não é possível procurar o caminho automaticamente
+144	%s solicitou que todos os membros estejam em [%s] para se reunirem, deseja partir imediatamente?
+145	Aviso de reunião enviado com sucesso aos membros do grupo
+146	%s inscreveu-se para participar em %s%s
+147	Contagem regressiva da espera para o jogador entrar no campo: %s
+148	Contagem regressiva para esta competição:
+149	Contagem regressiva para o início dessa competição:
+150	A competição terminou
+151	Vitória da Equipe Vermelha
+152	Vitória da Equipe Azul
+153	Empate
+154	Deseja deixar a zona de Multiservidor?
+155	%s e %s trocaram de grupo
+156	%s foi trocado para outro grupo
+157	Abrir interface de informações da Raide
+158	O líder que está no nível %d ou acima pode criar uma raide
+159	Não é possível localizar raide
+160	%s está na sua raide, não é necessário enviar novamente o convite de formação de grupo.
+161	Só o Marechal tem essa permissão
+162	Pedido para subir para Chefe enviado
+163	Solicitação para entrar na raide
+164	Convite para formar raide
+165	O líder de raide não pode expulsar jogadores
+166	O líder de raide não pode abdicar de sua posição
+167	Tem certeza que deseja desfazer a raide?
+168	Não é possível criar uma raide no meio da Zona de Instância.
+169	Não é possível desfazer uma raide no meio da Zona de Instância.
+170	Raide
+171	%s não está online!
+172	O grupo em que %s se encontra está completo!
+173	O grupo em que %s se encontra é inexistente!
+174	O outro líder não está online!
+175	%s recusou seu convite para formação de grupo
+176	%s recusou sua solicitação para formação de grupo
+177	%s já entrou em outro grupo
+178	Não é possível formar grupo no Coliseu
+179	O alvo está no Coliseu, falha no convite para formação de grupo
+180	A votação para expulsão já foi aberta
+181	A votação ainda não obteve o voto de mais da metade dos membros do grupo
+182	Solicitação incorreta
+183	É necessário inscrever-se como líder
+184	Fugir do tempo de recarga
+185	Molde não encontrado
+186	Servidor não configurado
+187	Ainda não foi aberto
+188	Período da fila individual
+189	Período da fila de formação de grupo
+190	O número de pessoas para a formação de grupo não corresponde
+191	O número de pessoas com o mesmo Signo muito alto
+192	Nível Insuficiente
+193	Já está na fila
+194	Outros personagens da mesma conta já foram inscritos
+195	Já há um Coliseu
+196	Tempo Excedido
+197	Campo de batalha não encontrado
+198	Não é possível entrar
+199	Campo de batalha fechado
+200	A. As Ruínas do Deus da Guerra só suporta, temporariamente, Competição Multiservidor 5v5, e os jogadores inscritos precisam atingir o nível 90\rB. As Ruínas do Deus da Guerra será aberta em um período diferente todos os dias\ra) Diferenciar período de inscrição individual, período de inscrição de formação de grupo, assim como período de fechamento\rb) Durante o período de inscrição individual, o jogador só pode se inscrever em seu próprio nome, e o sistema vai buscar e combinar com um grupo de 5 pessoas\rc) Durante o período de inscrição para formação de grupo, o jogador se inscreve em forma de grupo, e só o líder pode clicar no botão de inscrição\rd) Nas inscrições de grupo, é preciso que todos os membros atinjam o nível 90. Caso o grupo tiver 5 pessoas, o número de pessoas com o mesmo Signo não pode ser maior do que 2\rNão há requisito rigoroso sobre membro do grupo que esteja em período de penalidade por fuga\rC. O sistema prosseguirá com a combinação de acordo com o Power do Coliseu do jogador; este Power será alterado de acordo com o índice de Power mais alto do histórico do jogador, bem como a frequência de vitórias\ra) Na inscrição de formação de grupo, o sistema fará o possível para combinar grupos com Power do Coliseu que sejam semelhantes\rb) Se, após um longo período, não encontrar um oponente que corresponda aos requisitos, o campo de busca será expandido\rD. Um pouco depois das inscrições, após o sistema finalizar as combinações e todos os jogadores enviarem os convites, todos os jogadores terão um tempo de 60s para clicar em confirmar\ra) Após todos os jogadores confirmarem, começa o teletransporte para entrar no campo\rb) Se o jogador abstiver-se de clicar e a combinação falhar, este jogador sofrerá penalidade por fugir, e os demais jogadores continuarão em formação como antes\rc) O jogador que sofrer penalidade por fuga não poderá se inscrever novamente durante 15 minutos e, ao mesmo tempo, será descontado um determinado valor de EXP de Competição\rd) Neste mês, quanto maior a quantidade de vezes que for penalizado por fuga, maior a EXP de competição que será descontada por vez. Por favor, tome cuidado\re) O jogador que está dentro do Coliseu, por tê-lo deixado por certos motivos, causou a vitória do inimigo, o que equivale a dar uma penalidade por fuga\rE.Quando o jogador estiver entrando no Coliseu de formação de grupo, uma parte do BUFF será limpa, inibindo o efeito de medicina de resistência e de resistência de vestimenta\rAo mesmo tempo, proíbe o uso de uma parte de elixires\rF. Nas Ruínas do Deus da Guerra, não importa se percam ou vençam, todos os jogadores obterão uma EXP de Competição definida e Reputação do prêmio de Competição\ra) Toda semana, o sistema fechará a contagem de EXP de Competição uma vez e o jogador terá melhorias em funçção do nível correspondente, de acordo com o Índice de EXP do jogador, no momento\rb) O nível de Competição tem um total de 15 níveis, e o Índice de EXP correspondente necessária segue abaixo\r1. EXP de Competição necessária para Nível 1: 0\r2. EXP de Competição necessária para Nível 2: 200\r3. EXP de Competição necessária para Nível 3: 700\r4. EXP de Competição necessária para Nível 4: 1500\r5. EXP de Competição necessária para Nível 5: 2600\r6.EXP de Competição necessária para Nível 6: 4000\r7.EXP de Competição necessária para Nível 7: 5700\r8.EXP de Competição necessária para Nível 8: 7700\r9.EXP de Competição necessária para Nível 9: 10000\r10.EXP de Competição necessária para Nível 10: 12600\r11.EXP de Competição necessária para Nível 11: 15500\r12.EXP de Competição necessária para Nível 12: 18700\r13.EXP de Competição necessária para Nível 13: 22200\r14.EXP de Competição necessária para Nível 14: 26000\r15.EXP de Competição necessária para Nível 15: 30100\rc) O nível de Competição atual decidirá o limite máximo de Reputação de prêmio do Coliseu que o jogador pode obter nesta semana\rSeguindo o aumento do nível de Competição, o jogador pode obter ícones descolados de acordo com o nível correspondente\rE pode ser exibido acima do avatar do personagem\re) A reputação do prêmio de Competição pode ser usado para trocar com um NPC determinado por um prêmio de exclusivo e de alta qualidade das Ruínas do Deus daGuerra\rf) A EXP de Competição será limpa após o fim do domingo da quarta semana de cada temporada\rG. Toda semana, o sistema emitirá a lista do ranking deste servidor de acordo com o nível de Competição e do Power de Competição dos jogadores
+201	A. Depois que o jogador começar a se teletransportar para campo, o sistema determinará um modo de luta de aleatório\ra) Modos diferentes têm regras de renascimento e condições de vitórias diferentes\rB. Quando o tempo de 90s de preparo após a abertura do campo acabar, o grupo que tiver personagens que não tenham conseguido entrar no campo, fará com que o outro grupo ganhe diretamente\rC. Se um grupo ignorar a regra de restrição de Constelação, durante a inscrição, será forçado a trocar de Constelação e, passados 90s depois de entrar no campo, será considerado diretamente como vitória da do outro grupo\rD. Após a espera de 6s depois da morte do jogador, ele será revivido automaticamente no ponto de renascimento, e terá um período de 10s de invencibilidade\ra) Dentro deste período, aquele que tiver a iniciativa de atacar outros jogadores será desprovido de invencibilidade\rE. Especificação do modo de luta e regras de vitória seguem abaixo\ra) Modo Massacre\r1. Neste modo, o grupo que derrotar 32 jogadores adversários primeiro, obterá a vitória\r2. Todos os jogadores podem reviver sem limites, até que seja determinada a vitória\r3. Se nenhuma equipe obter a vitória dentro de um determinado tempo, a vitória será determinada levando em conta a comparação do total de danos dos grupos\rb) Modo Guarda de Elite\r1. Neste modo, o primeiro que matar o grupo de jogadores de elite obterá a vitória\r2. Além de jogadores de elite, os outros membros do grupo podem reviver sem limite de vezes\r3. Na inscrição individual, o sistema selecionará o jogador com o Poder de Luta de Coliseu mais alto dentro do grupo já formado, para que se torne de elite\r4. Na inscrição para formação de grupo, o líder no momento da inscrição se tornará o jogador de elite desse grupo\r5. O líder, dentro de um limite determinado, dará aos membros do grupo um aumento de BUFF\r6.Se nenhuma equipe obter a vitória dentro de um determinado tempo, a vitória será determinada levando em conta a comparação da quantidade de sangue restante da elite dos grupos\r7.Note que, neste modo, caso o líder deixe o Coliseu por qualquer razão, será considerado automaticamente como vitória do outro grupo \r    c) Modo Disputa pela Bandeira\r1. Após um determinado tempo, depois da abertura do campo, a bandeira aparecerá numa ponte, no centro do campo\r2. Os jogadores que obtiverem a bandeira e retornarem ao ponto de nascimento de sua equipe, obterão a vitória imediatamente\r3. Os jogadores que obtiverem a bandeira terão sua velocidade reduzida e sua barra de Stamina esvaziada\r4. Caso você derrote o jogador que esteja carregando a bandeira, ela cairá no local de origem, e os outros jogadores poderão roubá-la\r5. Neste modo, todos os jogadores podem reviver ilimitadamente\r6.Se nenhuma equipe obter a vitória dentro de um determinado tempo, a vitória será determinada levando em conta a comparação do total de danos dos grupos
+202	O Client de Jogo não tem dados relacionados ao Coliseu
+203	Inscrição (Solo)
+204	Inscrição (Grupo)
+205	Sair da fila
+206	Somente o líder do grupo consegue fazer a inscrição no modo de formação de grupo
+207	Período de registro incorreto
+208	No modo de formação de time, o máximo permitido é de %d pessoas por grupo
+209	No modo de formação de time, o máximo de cada Constelação dentro do grupo inscrito é de %d pessoas
+210	Atualmente ainda não completou o nível 90, não é possível inscrever-se
+211	Dentre os membros do grupo, os jogadores que não completarem o nível 90 não poderão se inscrever
+212	Coliseu de Competição entre Grupos
+213	%d vitórias %d derrotas
+214	Ativado
+215	Nascido
+216	Desativado
+217	%d/%d segundos
+218	Obteve reputação como prêmio da arena: %d/%d (excedendo o limite máximo da semana, não poderá ganhar mais)
+219	Ainda não saiu
+220	Equipe Azul perdeu
+221	Equipe Vermelha perdeu
+222	Equipe Vermelha abdicou
+223	Equipe Azul abdicou
+224	Alguma equipe abdicou
+225	O número de pessoas não está igual
+226	O número de pessoas do Signo ultrapassa o limite
+227	Porque %s, %s
+228	Alguns abdicaram para aguardar a próxima combinação
+229	Regras do Coliseu
+230	Modos de luta e afins
+231	Retornar para a interface principal
+232	%dª semana desta temporada
+233	Jogador Desconhecido
+234	Você se juntou ao grupo de colegas (%s - %s). Na interface Social, clique na aba "colegas" para ver mais detalhes.
+235	Meus colegas (%s-%s^N)
+236	Exército desconhecido
+237	Clique duas vezes para modificar o anúncio de recrutamento e pressione enter para confirmar
+238	Clique duas vezes para modificar o anúncio interno e pressione enter para confirmar
+239	Clique duas vezes para modificar as observações e pressione enter para confirmar
+240	Clique duas vezes para modificar o nome do cargo e e pressione enter para confirmar
+241	Sem permissão para modificar
+242	Por posição
+243	Por Signo
+244	Por nível
+245	%d/%d (%d online)
+246	Online
+247	Retirado
+248	Marechal
+249	Suplente
+250	General
+251	Major
+252	Tenente
+253	Soldado
+254	Você já está em um exército, não é possível prosseguir com essa operação
+255	Somente ao atingir o nível 10 poderá juntar-se ao Exército
+256	O nível do alvo é baixo demais, para juntar-se ao Exército é preciso atingir o nível 10
+257	Você não está em um exército, não é possível prosseguir com essa operação
+258	Você não tem permissão para prosseguir com essa operação
+259	Você não tem permissão para enviar mensagem de voz no canal do Exército, por favor, contate o Gestor do Exército
+260	Não há informação de cargo do exército
+261	Informações do Exército insuficientes
+262	Não alcançou o cargo adequado
+263	%s bem sucedido
+264	%s falhou: %s
+265	Informações básicas do Exército
+266	Criar Exército
+267	Defazer Exército
+268	Restaurar Exército
+269	Informações detalhadas do Exército
+270	Lista do Exército
+271	Solicitação para juntar-se ao exército
+272	Aprovar solicitação para o Exército
+273	Solicitação para juntar-se ao Exército recusada
+274	Convite para juntar-se ao Exército
+275	Sair do Exército
+276	O jogador foi expulso do Exército
+277	Publicar anúncio do Exército
+278	Atualização do emblema do Exército
+279	O Marechal do Exército passou seu cargo adiante
+280	Alterar cargo do Exército
+281	Alterar informação dos membros
+282	Alterar títulos dos cargos do Exército
+283	Alterar permissão dos cargos do Exército
+284	Alterar facção do Exército
+285	Criar Aliança do Exército
+286	Verificar Aliança do Exército
+287	Juntar-se à Aliança do Exército
+288	Sair da Aliança do Exército
+289	Recrutamento da Aliança do Exército
+290	Renomear Aliança do Exército
+291	Obter lista da Aliança do Exército
+292	Solicitação para juntar-se à Aliança do Exército
+293	Dissolver Aliança do Exército
+294	Expulsar alguém da Aliança do Exército
+295	Trocar Chefe
+296	Alterar Declaração
+297	Taxa Cand.
+298	Você solicitará para juntar-se ao Exército %s, essa solicitação consumirá %d Gold, deseja confirmar?
+299	A solicitação para juntar-se ao Exército já foi enviada para o Exército %s, por favor, aguarde pela confirmação
+300	O convite para juntar-se ao Exército foi enviado, por favor, espere pela resposta do jogador
+301	%s te convidou para juntar-se ao Exército %s, deseja aceitar o convite?
+302	%s convidou você para juntar-se ao Exército, mas este pedido foi ignorado, pois ultrapassou o tempo
+303	O Gestor do Exército descobriu um Exército %s que talvez lhe agrade, deseja juntar-se a ele?
+304	Insira um nome para o Exército:
+305	Usar 100000 Gold para criar o Exército?
+306	Confirmar o consumo da ferramenta "Capítulo da fé na proteção da deusa" para criar o Exército?
+307	Insira o nome do Exército inimigo:
+308	Insira o nome do personagem:
+309	Usar 500000 Gold para criar a Aliança do Exército?
+310	Insira um nome para a Aliança do Exército:
+311	O nível do jogador precisa atingir o nível 25
+312	É necessária a ferramenta "Capítulo da fé na proteção da deusa" (Após finalizar a formação de time, vá até Zoe para receber "Criação do Exército!Missão do capítulo de fé na proteção")
+313	Ou 100000 Gold
+314	Nome do Exército contém caracteres não permitidos
+315	É necessário ter nível %d ou acima da Base do Exército para poder criar uma Aliança do Exército.
+316	É preciso ter, no mínimo, %I64d Gold para poder criar uma Aliança do Exército
+317	Nome da Aliança do Exército contém caracteres não permitidos
+318	Já está em uma Aliança do Exército
+319	Inserir taxa para candidatura ao Exército
+320	Último Login
+321	Saída auto.
+322	Renomear
+323	Selecione novo cargo
+324	%s nomeou %s como %s
+325	O número de pessoas para o cargo %s está completo
+326	Deseja confirmar a nomeação de %s como\r%s?
+327	Deseja confirmar a nomeação de %s como %s? \r^ff0000Os retirados não podem obter o benefício do Exército, não podem entrar na base do Exército e não podem participar das lutas da Guerra Galáctica!
+328	^ff0000Aviso: deseja passar o título de Marechal para %s?
+329	^ff0000Mais um aviso: deseja passar o título de Marechal para %s?
+330	Deseja desfazer o Exército %s?
+331	Deseja restaurar o Exército %s?
+332	Deseja sair do Exército %s?
+333	Deseja confirmar sua saída do Exército %s? (Seu cargo atual é de %s, você não sairá imediatamente do Exército; primeiro, se tornará um membro retirado, e %s sairá do Exército automaticamente)
+334	Pode considerar primeiro antes de colocar %s na lista de membros periféricos, deseja fazer isso mesmo?
+335	Deseja confirmar o banimento de %s do Exército?
+336	Deseja confirmar o banimento de %s do Exército? (O cargo atual dessa pessoa é de %s, ela não sairá imediatamente do Exército; primeiro, se tornará um membro retirado, e %s sairá do Exército automaticamente)
+337	Por favor, insira o motivo do banimento de %s:
+338	Sem fundamento
+339	%s aceitou a solicitação de %s
+340	%s recusou a solicitação de %s
+341	%s convidou %s
+342	%s passou o cargo de Marechal para %s
+343	%s saiu do Exército
+344	%s expulsou %s do Exército
+345	%s\t%s\t%s Recomendação
+346	O Exército %s não concorda que você junte-se a ele.
+347	%s convidou %s.
+348	%s concorda que %s entre no Exército!
+349	Ainda há %s dissolução
+350	%s prosseguiu com a operação para desfazer o Exército; depois de 15 dias, o Exército será desfeito
+351	O Exército será desfeito após 60 minutos; o Marechal pode cancelar a operação no Painel de Controle
+352	O Exército foi desfeito
+353	[Anúncio do Exército] %s
+354	Exército restaurado do status de dissolução
+355	%s solicitou para juntar-se ao Exército; aguardando a confirmação
+356	%s alterou o nome do cargo do Exército
+357	Permissão do cargo do Exército alterada
+358	Anúncio do recrutamento do Exército alterado
+359	O Marechal %s não tem estado online por um longo período, por isso, o cargo será passado automaticamente para %s
+360	Recuperação da Base do Exército
+361	A base do Exército foi recuperada; índice de Atividade insuficiente
+362	A Base foi recolhida por falta de fundos para pagar a taxa de manutenção.
+363	A base do Exército será recuperada
+364	Nesta semana, seu Exército obteve W.O. nas Classificatórias. Entre na base do Exército para obter diretamente o prêmio de benefício das Classificatórias. Por favor, retornem todos à base para receber o prêmio.
+365	Obteve uma conquista do Exército
+366	&%s& criou o Exército %s! Parabéns!
+367	&%s& juntou-se ao Exército %s! Parabéns!
+368	O convite para juntar-se ao Exército foi enviado, por favor, espere pela resposta.
+369	Exército criado Id = %I64
+370	Para aumentar a nível, é necessário que a atividade desta semana atinja %d pontos
+371	Não é possível aumentar, nesta semana, o nível do Exército já foi aumentado (a partir do nível 10, só é possível aumentar uma vez por semana)
+372	O nível do Exército já foi aumentada até o máximo
+373	Você não tem permissão para %s
+374	Enviar mensagem de voz no Canal do Exército
+375	Anotação
+376	Add Membro
+377	Expulsar
+378	Anúncio
+379	Renomear
+380	Permissões
+381	Decl. Guerra
+382	Mover retirados
+383	Convidar
+384	Config Arm.
+385	Administrar Bloqueios
+386	Mudar cargo de Marechal
+387	Definir Suplente do Exército
+388	Emblema do Exército
+389	Adicionar senha de segundo nível
+390	Organizar itens do Armazém
+391	Usar base do Exército
+392	Usar Armazém do Exército
+393	Usar habilidades do Exército
+394	Distribuir número de pontos de Habilidades
+395	Classificatórias
+396	Pontuar
+397	Permissão Incorreta
+398	Config. taxa
+399	Iniciar guerra de pilhagem
+400	Star = %d Fundos
+401	Operação do Exército desconhecida: %d
+402	Impossível
+403	Base do Exército
+404	Solicitar base do Exército 
+405	Entrar na base do Exército 
+406	Deixar base do Exército 
+407	Lista para obter a base do Exército
+408	1. O solicitante deve ser o Marechal do Exército\r2. Não pode ter base do Exército\r3. A solicitação deve ocorrer entre terças-feiras e domingos\r4. Gold necessário: %d
+409	Você ainda não tem um Exército
+410	O Exército já tem uma Base, não é necessário solicitar novamente
+411	O nível do seu Exército ainda não atingiu o nível 1, não é possível solicitar uma base
+412	O Exército no qual você está ainda não possui uma base
+413	Gold requerido insuficiente, não é possível solicitar uma base
+414	Perfeito sucesso
+415	Falha ao recolher matéria-prima
+416	(cheio)
+417	bem sucedido
+418	As solicitações da base só podem ser feitas entre terça-feira e domingo
+419	Cancelando
+420	O nível do Exército ainda não atingiu o nível 1
+421	Erro de ID
+422	Sem Permissão
+423	Já Existe
+424	O índice de Atividade do Exército da semana passada não está entre os 200 primeiros nomes
+425	Erro ao Distribuir
+426	Reputação do Exército insuficiente
+427	Sem base do Exército
+428	Uma falha apareceu no canal da base em que seu Exército está, falha ao entrar
+429	Sem espaço para distribuição
+430	Esta base está avançando para as Classificatórias
+431	Você não pode entrar nesta base no momento
+432	Falha na operação
+433	Não há membros formais do Exército, não é possível utilizar
+434	É preciso estar no Grande Mundo para utilizar
+435	A base está na preparação para as Classificatórias
+436	As classificatórias da base já acabaram
+437	A própria base está avançando para as Classificatórias
+438	O número de pessoas nas Classificatórias está completo
+439	A base está sendo recuperada
+440	As classificatórias da base ainda não começaram
+441	Você não tem direito ao acesso preferencial, por favor, tente novamente após as 20:03
+442	Para entrar na base de outros Domínios, o nível precisa ser maior ou igual ao nível da base do Domínio da própria equipe
+443	Permissão insuficiente, não é possível entrar na base do Exército
+444	Distribuição do número de pontos de Ciência e Tecnologia do Exército realizada com sucesso
+445	Não é possível distribuir número de pontos de Ciência e Tecnologia do Exército durante as Classificatórias
+446	Não há Exército; distribuição do número de pontos de Ciência e Tecnologia do Exército realizada com sucesso
+447	Não há permissão para a distribuição do número de pontos de Ciência e Tecnologia do Exército
+448	Não há número de pontos o suficiente para distribuir tanto assim
+449	Guerra de bases de "%s" contra "%s", a guerra começará em %s As duas equipes, por favor, estejam preparadas
+450	Guerra de bases de "%s" contra "%s", começará depois de 15 minutos. As duas equipes, por favor, estejam preparadas
+451	A guerra dos Exércitos começou, a base está em status para de preparação para entrar na guerra; depois de 10 minutos, poderá entrar
+452	A preparação da base do Exército foi concluída, participantes da guerra, por favor, entrem rapidamente
+453	A guerra vai acabar após 15 minutos
+454	A guerra vai acabar após cinco minutos
+455	Tem certeza de deseja declarar guerra contra %s?
+456	Falha ao declarar guerra: %s
+457	%sdeclarou guerra contra"%s", e durará 30 minutos
+458	%s derrotou "%s" na guerra do mundo
+459	A guerra mundial de "%s" com "%s" acabou, os dois lados estão equilibrados
+460	ID de usuário inválido
+461	O jogador não pertence a nenhum Exército
+462	Permissão Insuficiente
+463	Este Exército não existe
+464	Este jogador não existe
+465	O alvo não pertence a nenhum Exército
+466	No meio da luta
+467	Só pode declarar guerra uma vez ao dia
+468	O Exército alvo recebeu proteção contra a declaração de guerra
+469	%s: %d/%d\rÍndice de Defesa necessário nesta semana: %d\r%s
+470	(nível %d)
+471	^999999(inativo)^N
+472	Destruída
+473	Não foi destruída
+474	Após 5 minutos, o Exército entrará em status de preparação para a guerra.
+475	Após 10 segundos, a base do Exército entrará em status de preparação para a  guerra.
+476	A base do exército entrou em status de preparação para a guerra; este status continuará por 5 minutos, durante os quais não será possível que o jogador entre na base.
+477	A preparação para a guerra das Classificatórias do Exército acabou, jogadores que não participar da competição, por favor, entrem no campo.
+478	As Classificatórias do Exército começaram, competidores, por favor, lutem sem deixar arrependimentos!!
+479	Ainda restam 10 minutos para o fim destas Classificatórias; Exércitos que ainda continuam na luta, empreguem toda sua força para obter a vitória!
+480	Todas as competições das Classificatórias do Exército desta semana estão oficialmente encerradas.
+481	As Classificatórias do Exército já começaram, deseja entrar imediatamente no campo de batalha?
+482	Tempo de preparação restante: %s
+483	Tempo de competição restante: %s
+484	A distância para completar pode estar acabando, ainda restam %d segundos!
+485	O Exército nº%d falhou ao usar o Poder Divino %s
+486	Bloquear Alvo
+487	Liberar
+488	Alvo bloqueado com sucesso
+489	Poder Divino liberado com sucesso
+490	Operação do Poder Divino falhou  devido a um erro no servidor
+491	A operação do Poder Divino
+492	O alvo da operação do Poder Divino já foi destruído pelo fogo
+493	Outro Poder Divino está sendo carregado
+494	Sem Estátua Guardiã, não é possível liberar o Poder Divino
+495	O Poder Divino já não tem mais número de vezes para utilização
+496	Por favor, cancele primeiro outra habilidade de Poder Divino
+497	O portal de teletransporte já está estabilizado
+498	Carregamento de Poder Divino cancelado
+499	Liberar alvo, e não bloquear alvo
+500	Não é possível atacar construções aliadas
+501	O alvo ainda não foi bloqueado
+502	Não é possível proteger a construção inimiga
+503	Não é possível retornar à cidade no status atual
+504	Foi expulso das Classificatórias devido a um erro de jogo
+505	Você foi expulso das Classificatórias por um comando do Exército
+506	As Classificatórias terminaram, você deixou a base
+507	Vitória da Equipe Vermelha
+508	Vitória da Equipe Azul
+509	Não é possível saber os resultados
+510	A luta terminou, depois que você estiver em %s, deixará o campo de batalha
+511	Equipe Vermelha
+512	Equipe Azul
+513	Arma Divina
+514	Grande Escudo de Ajax
+515	Benção do Monte Olimpo
+516	Portal de teletransporte aleatório
+517	%s de %s foi bloqueado por %s
+518	%s de %s foi protegido por %s
+519	%s inteiro obteve o efeito %s
+520	%s abriu %s
+521	%s de %s está prestes a fechar
+522	%s de %s fechou
+523	A luta entre o Exército %s e o Exército %s das Classificatórias acabou em empate
+524	O Exército %s venceu o Exército %s nas Classficatórias
+525	Após o fim das classificatórias, o Marechal do grupo Divino pode receber um prêmio adicional com o ${npc(32788)} na Base do Exército
+526	Recursos de cristal da equipe vermelha: %d/%d
+527	Recursos de cristal da equipe azul: %d/%d
+528	Contagem regressiva para o término: %s
+529	Para que a retirada do campo de batalha comece, ainda há: %s
+530	O Campo de batalha fechou
+531	Você não se juntou a nenhum Exército
+532	Sem informações deste Domínio
+533	Este não é um período para apostas
+534	O meu Exército não ocupará um Domínio vizinho ao meu
+535	O máximo que se pode leiloar ao mesmo tempo é de %d pedaços de Domínio
+536	Primeiro é necessário ocupar %d pedaços de Domínio
+537	Meu Exército já ocupou este Domínio
+538	O seu Exército ainda não se juntou a nenhuma facção
+539	Primeiro, é necessário atacar o território desta facção
+540	É necessário que o domínio principal da facção seja ocupado por qualquer Exército
+541	Não pode atacar o domínio principal das outras facções
+542	Só é possível atacar/ocupar no máximo um domínio principal
+543	Não é possível atacar territórios dentro da Aliança
+544	Só pode ocupar ou declarar guerra a um dos domínios dos Cinco Protagonistas de Bronze
+545	Classificação desse Exército é menor que %s
+546	Só é possível atacar ou declarar guerra ao Domínio desta facção
+547	Só pode ocupar o Domínio em caos
+548	Só pode ocupar 15 pedaços do Domínio
+549	Ocupar pelo menos um Domínio Nv1 ou Nv2
+550	Ocupar pelo menos um Domínio Nv3
+551	Você ainda não se juntou a um Exército
+552	Apenas o Marechal do Exército/Suplente pode participar da aposta de Domínio
+553	O preço mais alto é o do meu Exército, não é possível fazer outra aposta
+554	É necessário, ao menos %I64d para poder fazer uma aposta
+555	É necessário ao menos aumentar o preço %I64d para poder fazer uma aposta
+556	Lance para %s dado com sucesso, gastou %I64d dos fundos do Exército
+557	Os fundos do seu Exército são insuficientes
+558	Seu preço é menor do que o preço mais alto atualmente
+559	O preço atualmente mais alto é o do meu Exército
+560	Este Domínio não tem relação com o meu Exército ou com a Aliança
+561	A contagem regressiva para a luta está em preparação, por favor, junte-se daqui a pouco
+562	Não está acontecendo lutas atualmente neste Domínio
+563	Somente os membros oficiais do Exército é que podem juntar-se à luta
+564	Somente membros de Exércitos com nível %d ou acima é que podem entrar na luta
+565	Não pode juntar-se ao ataque ou defesa se for uma luta em que os dois lados são da mesma Aliança
+566	Por favor, selecione um pedaço de Domínio
+567	Possível atacar: Sim
+568	Possível atacar: Não
+569	Motivos para não poder atacar: \r%s
+570	Lucro:
+571	Aumentar o preço
+572	Não pode aumentar
+573	☆
+574	Ocupado por: %s
+575	Sem atacantes
+576	Leilão em progresso
+577	Leilão encerrado
+578	Preparando para iniciar
+579	Batalha em progresso
+580	Status Desconhecido
+581	Finalizado (%s)
+582	Inscrições para Guerra Galáctica ainda não foram iniciadas. O início é às quintas-feiras, às 9h %s.
+583	Inscrições para Guerra Galáctica em progresso. Preste atenção no tempo e na situação dos leilões.
+584	Guerra Galáctica em progresso. Preste atenção no tempo e no andamento das competições.
+585	Nenhum
+586	Invasão de outro mundo
+587	Atacar
+588	Defender
+589	Equipe atacante
+590	Equipe defensora
+591	Vitória
+592	Derrota
+593	%s venceu
+594	Apenas o Marechal do Exército/Suplente pode receber o prêmio extra
+595	Hoje o prêmio deste Domínio já foi recebido
+596	Hoje já não já mais prêmios que podem ser recebidos
+597	Seu Exército/Aliança ainda não ocupou nenhum Domínio
+598	Só quem se tornou um membro oficial do Exército é que pode receber o prêmio
+599	Seu nível é baixo demais, não é possível receber os lucros do Domínio, é necessário atingir o nível %d
+600	Prata
+601	Ouro
+602	Bronze
+603	Domínio Principal
+604	Domínio disponível
+605	Domínio ocupado
+606	Situação do Domínio
+607	Santuário
+608	Atlântida
+609	Submundo
+610	Caos
+611	Céu divino estrelado do Sol
+612	%s \rOcupado por: %s \rTaxa de Riqueza: %d
+613	%s [%s]
+614	<Guerra Galáctica> Lucros do Marechal
+615	<Guerra Galáctica> Lucros dos membros
+616	Um novo preço para ^F6C95E%s^N foi dado como aposta!
+617	O Exército %s iniciou uma guerra de pilhagem contra o Exército %s!
+618	Vitória da equipe defensora
+619	Vitória da equipe atacante
+620	Falha na restituição da aposta do Guerra Galáctica
+621	Distribuição automática durante a inicialização
+622	Restituição em dinheiro da aposta de vitória do Guerra Galáctica
+623	Falha na restituição da Equipe defensora
+624	Falha na restituição da Equipe atacante
+625	Prêmio de vitória da Equipe defensora
+626	Prêmio em dinheiro de vitória do Guerra Galáctica (membro)
+627	Prêmio em dinheiro de derrota do Guerra Galáctica (membro)
+628	Aposta realizada diretamente com sucesso
+629	Restituição em dinheiro da aposta falha do Guerra Galáctica
+630	Falha na aposta do Domínio %s, repor por %s%s
+631	Você ocupou o Domínio %s com sucesso
+632	%s venceu no ataque ao Domínio, restituição de %s%s da aposta sobre Domínio
+633	%s falhou na defesa do Domínio, Recompensa de %s%s da aposta sobre Domínio
+634	%s falhou no ataque ao Domínio, restituição de %s%s da aposta sobre Domínio
+635	%s venceu ao defender o Domínio, Recompensa de %s%s da aposta sobre Domínio
+636	Vitória na guerra territorial, espólio de guerra da equipe vencedora
+637	Derrota na guerra territorial, prêmio da equipe perdedora
+638	Lance dado com sucesso para o Domínio %s
+639	A competição %s foi cancelada, %s%s da aposta restituída
+640	Você obteve o grau de contribuição do Exército: %d
+641	Sistema de competição do Guerra Galáctica
+642	Fundos do Exército
+643	Explicação da Luta da Guerra Galáctica
+644	Regras de Aposta da Guerra Galáctica
+645	Explicação do Prêmio da Guerra Galáctica
+646	Explicação da Riqueza da Guerra Galáctica
+647	Regras para Aliança do Exército
+648	Regras da Guerra de Pilhagem
+649	① Condições para vencer\r    · Vitória da equipe atacante: destruir o Cristal de Núcleo da Equipe Azul\r    · Vitória da equipe defensora: destruir o Cristal de Núcleo da Equipe Vermelha ou quando o tempo da luta acabar, o Cristal de Núcleo da Equipe Azul não tiver sido destruído\r    ② Apresentação dos Cristais\r    · Cristal de Núcleo: O cristal mais importante, localizado dentro da base. Quando o Cristal de Defesa e o Cristal de Energia da facção correspondente forem destruídos, o Cristal de Núcleo é atingido\r     · Cristal de Defesa: Produz uma área de defesa do cristal, localizado num dos lados dos arredores da base da equipe. Só pode ser atacado depois que a luta começar e, se não for destruído, não é possível entrar na base do exército da outra equipe\r    · Cristal de Energia: assim como a defesa do cristal, está localizado em um dos lados dos arredores da base da equipe\r    · Cristal de Teletransporte Central: um cristal amarelo e neutro, está localizado na zona central das competições da Guerra Galáctica. O jogador que der o último golpe e for afiliado a uma facção terá o direito de ocupação. A equipe que tiver o Cristal de Teletransporte pode, através da área de teletransporte do centro da base do exército, teletransportar-se diretamente até a Zona Central\r    ③ Alvos da Luta\r    Quando enfrentar um Domínio que não pertence a ninguém, haverá uma luta PVE contra os monstros e, quando atacar um Domínio que esteja ocupado, haverá uma luta PVP contra os jogadores defensores\r    Quando as Cidades Estelares ocupadas pelo exército ultrapassarem 10, pode ser que uma invasão de outro mundo se inicie; uma grande quantidade de monstros invadirá o domínio do exército. Se a defesa falhar, o exército perderá o Domínio invadido. Quanto mais ocupado for o Domínio, mais invasões de outro mundo ele poderá sofrer\r    ④ Restrições de Participação\r    Membros expulsos não podem participar da Guerra Galáctica. No campo de batalha da Guerra Galáctica, os jogadores que forem expulsos do exército serão removidos do campo de batalha.\r    ⑤ Carro de Guerra de Arqueiro\r    O máximo de carros de guerra de arqueiro que se pode possuir ao mesmo tempo é 3. O uso principal é para destruir o cristal da outra equipe, sendo necessário clicar no carro de guerra para que mude de forma dentro da base\r    ⑥ Torre de Defesa\r    Na base das competições da Guerra Galáctica, procure pelo espírito das ruínas do NPC para receber a Torre de Defesa, que se divide em "Torre de Luz Gloriosa" e "Torre Congelante". Depois de obtê-la, é necessário aguardar um período de tempo para poder trocar;  usar esta ferramenta na base das ruínas desocupadas pode evocar a Torre de Defesa desta equipe.\r    ⑦ Ataque Surpresa do Exército\r    Quando o Marechal do exército estiver no mapa das competições da Guerra Galáctica, na parte de baixo da interface aparecerá um ícone de teletransporte do exército. Ao usá-lo produzirá um portal de teletransporte temporário para fazer ataques surpresas\r    Determinação Imortal\r    Quando o Exército estiver defendendo seu último pedaço do território, ativará a Determinação Imortal. O banho de fogo de Fênix ajudará os jogadores a se defenderem.\r    ⑨ Vantagem de lutar no próprio Domínio\r    Quando o exército lutar no Domínio de sua própria facção, a quantidade de Sangue de Cristal de sua equipe será dobrada. Quando ambos os lados estiverem lutando no próprio Domínio, nenhuma vantagem será obtida.\r    ⑩ Cartão de Invocação\r    O herói invocado pelo Cartão de Invocação causará danos ao Cristal do inimigo que estiver dentro de um raio de 15 metros de distância.
+650	① Qualificação para Apostas\r    · O exército só pode participar das competições da Guerra Galáctica após juntar-se a uma facção; localização do NPC do guia de facção: Coliseu Graad (207,241);\r    · Somente os times prata ou acima nas competições das classificatórias do exército é que podem participar das apostas na Guerra Galáctica;\r    ② Regras das Apostas\r   · Exércitos que possuem uma facção podem apostar em Cidades Estelares do nível atual ou qualquer outro Domínio de nível ainda mais alto. O limite é de 3 apostas por semana;\r    · Exércitos sem facção podem apostar em Cidades Estelares de Prata ou de Bronze que estejam abaixo do Céu Estrelado do Caos. O limite de apostas é de 2.\r    Exércitos que ocuparam Cidades Estelares de céu estrelado do caos podem apostar em Cidades Estelares do nível atual ou qualquer outro Domínio do caos de nível ainda mais alto\r    · O exército pode apostar no Domínio Principal desta facção, mas não consegue apostar no Domínio Principal de outras facções\r    · O máximo que o Exército pode ocupar ou apostar é um Domínio Principal; o exército só pode ocupar ou apostar em um Domínio de Bronze;\r    · Apostar em Cidades Estelares consome os "Fundos do Exército”.\r    ③ Tempo das Apostas\r    O período da janela de apostas em Cidades Estelares é quinta-feira, das 09:00 às 21:00, caso os lances para a aposta excedam, será postergado para, no máximo, às 22:00 da quinta-feira;\r        •Depois que todos os lances de apostas em Cidades Estelares terminarem, será gerada uma tabela com os horários das guerras de Domínio \r    ④ Restituição em dinheiro das apostas\r    · O Exército que não obtiver permissão para atacar terá todo o investimento apostado restituído;\r    · Se a ocupação for bem sucedida, uma restituição de 60% do valor da aposta será dado à equipe atacante e, ao mesmo tempo, uma recompensa de 10% do valor da aposta será dado à equipe defensora;\r    · Se a defesa for bem sucedida, a equipe defensora obterá 30% do valor da aposta da equipe atacante, e uma restituição de 30% será dada à equipe atacante;\r    ⑤ Regras de Ocupação\r    · As Cidades Estelares são abertas na primeira semana, assim o sistema filtra os exércitos com condições que correspondem aos requisitos necessários. A filtragem é necessária para que seja possível verificar quais exércitos podem ocupar as Cidades Estelares sem dono. O limite por exército é de 1 pedaço;\r    · Na segunda semana começam as apostas sobre as Cidades Estelares;\r    · Exércitos que estejam entre as três grandes facções só podem ocupar Cidades Estelares destas facções, e o máximo que podem ocupar são 15 Cidades Estelares;\r    · Exércitos sem facção podem ocupar Cidades Estelares de Céu Estrelado do Caos ou abaixo. O limite máximo que cada exército pode ocupar é 2;\r    · Depois que o exército ocupar o Domínio do Caos e entrar novamente numa facção, o Domínio do Caos ocupado será automaticamente recuperado;\r    ⑥ Outros\r       · Quando o exército sai da facção atual, ele perde a todas as Cidades Estelares ocupadas; quando o exército estiver apostando em algum Domínio, não será possível sair da facção atual;\r           · Quando o exército sai da facção atual, não consegue participar de guerras de Domínio de facções por 2 semanas, mas pode participar de guerras de Domínio do Caos.
+651	O exército obterá um prêmio de acordo com o território ocupado. Cada membro recebe o próprio prêmio, e o Marechal do Exército/Suplente recebem prêmios extras. O horário para recebimento é na segunda-feira, às 10:00, e na sexta-feira, às 19:00. O membros precisam ter pelo menos nível 40 para receber o prêmio, e o Marechal do Exército/Suplente precisam ter pelo menos nível 60 para receber o prêmio especial.\r    · O Exército que ocupar o Domínio Principal do Céu Estrelado do Santuário se tornará, automaticamente, a facção "Grande Mestre" do Santuário;\r    · O Exército que ocupar o Domínio Principal do Céu Estrelado de Poseidon se tornará, automaticamente, a facção "Sacerdote" de Poseidon;\r    · O Exército que ocupar o Domínio Principal do Céu Estrelado de Hades se tornará, automaticamente, a facção "Oficial Divino" de Hades;\r    A quantidade de vezes que os membros comuns do exército recebem os prêmios é a mesma que o limite máximo dos membros. O número máximo de pessoas no exército é de 200 pessoas, e podem receber somente 200 vezes os prêmios comuns a cada dia\r    ① Abaixo, os prêmios dos membros do Exército: (vinculado) \r    Domínio dos Cinco Protagonistas de Bronze: Especialidade Nebulosa x6, Bolsa do Tesouro Nebulosa x2 \r    Domínio de Prata: Especialidade Nebulosa x4, Bolsa do Tesouro Nebulosa x2\r    Domínio de Ouro: Especialidade Nebulosa x10, Bolsa do Tesouro Nebulosa x2\r    Domínio Principal: Especialidade Nebulosa x10, Bolsa do Tesouro Nebulosa x2\r    ② Abaixo, os prêmios do Marechal do Exército:\r    Para o Exército cujo Grau de Prosperidade não ultrapassar 1000, a cada 100 Graus de Prosperidade, o Marechal do Exército e o Suplente podem obter, separadamente, 1 Bolsa do Tesouro do Grau de Prosperidade.\r    Para o Exército cujo Grau de Prosperidade ultrapassar 1500, o Marechal do Exército e o Suplente podem obter, adicionalmente, um tesouro secreto de Grau de Prosperidade. Conforme o aumento do Grau de Prosperidade, a probabilidade de obter a Bolsa do Tesouro do Grau de Prosperidade diminui, e a probabilidade de obter o Tesouro Secreto do Grau de Prosperidade aumenta.\r    O Exército que ocupar o Domínio Principal obterá, adicionalmente, 5 Tesouros Secretos da Nebulosa\r    ③ Cartão de Habilidades do Marechal do Exército\r    O Exército que ocupar um Domínio sem um Domínio Principal pode, toda semana, receber a Quest do Cartão de Invocação e, na primeira rodada no campo de batalha das competições da Guerra Galáctica, poderá invocar o poderoso herói desta facção para ajudar na luta.\r    Ao ocupar o Santuário, o Exército de Atlântida e a Cidade de Hades, podem receber a Quest do Cartão de Transformação e, na primeira rodada no campo de batalha das competições da Guerra Galáctica, transformarem-se em deuses que lançam um ataque explosivo e devastador contra o inimigo.\r    O Exército que ocupar o Domínio Principal pode, toda semana, obter um Cartão de Transformação, que pode ser usado fora das competições da Guerra Galáctica e da Arena Galáctica para transformarem-se em deuses e causar danos imensos no inimigo.\r    ④ Explicação de Itens Relacionados\r    Especialidade Nebulosa: após utilizá-la, obterá Gem e EXP. Está relacionada ao nível do utilizador\r    Bolsa do Tesouro Nebulosa\r    Tesouro Secreto da Nebulosa: grande quantidade de Gem, Sangue Demoníaco x5, Chave Cósmica x5, Alma da Relíquia x5. Limite de 2 vezes por dia; equipes no nível 60 podem usá-lo.\r    Bolsa do Tesouro do Grau de Prosperidade: grande quantidade de Gem, Sangue de Ouro x5, Sangue de Prata x5, Essência da Alma x5. Limite de 2 vezes por dia, equipes no nível 60 podem usá-lo.\r    Tesouro Secreto do Grau de Prosperidade: grande quantidade de Gem, Sangue Demoníaco x5, Alma da Relíquia x5, Essência de Alma x5. Limite de 2 vezes por dia, equipes no nível 60 podem usá-lo.\r    Itens excedentes como, por exemplo, Especialidade Nebulosa e Bolsa do Tesouro Nebulosa, podem ser vendidos na loja, pelo preço individual de 20000/50000.
+652	① Visão Geral\r    O Grau de Prosperidade é igual à soma do Grau de Prosperidade de cada Domínio ocupado pelo exército.\r    Toda semana, antes do início da Guerra Territorial, o Grau de Prosperidade de cada Domínio será restabelecido para o índice inicial. Depois que a Guerra Territorial acabar, será contabilizado o Índice do Grau de Prosperidade pós-guerra da semana, que será definido de acordo com o resultado da guerra.\r    De acordo com o Grau de Prosperidade, o Marechal do Exército/Suplente pode obter, toda semana, muitos prêmios de Bolsa do Tesouro do Grau de Prosperidade.\r    ② Restabelecimento\r    Toda semana, antes do início da Guerra Territorial, o Grau de Prosperidade de cada Domínio será restabelecido para o índice inicial.\r    Índice inicial do Grau de Prosperidade das Cidades Estelares: Grau de Prosperidade 100, para Domínio nível Prata; Grau de Prosperidade 200, paro Domínio nível Bronze; Grau de Prosperidade 400, para Domínio nível Ouro; Grau de Prosperidade 1000, para Domínio Principal.\r    ③ Disputas\r    Ao atacar e ocupar um Domínio que não esteja ocupado por um exército, pode obter o Grau de Prosperidade desse Domínio em seu índice original.\r    Ao atacar e ocupar o Domínio de outros exércitos, o Índice do Grau de Prosperidade obtido será baseado no  total do Grau de Prosperidade da outra equipe. Quanto mais alto o Grau de Prosperidade geral da outra equipe, mais Graus de Prosperidade podem ser saqueados. Quanto mais baixo o Grau de Prosperidade geral da outra equipe, menos Graus de Prosperidade podem ser saqueados. Ao ser atacado e ocupado, o Grau de Prosperidade do Domínio será zerado temporariamente.\r    Quando muitos exércitos atacarem e ocuparem o Domínio de um mesmo exército, os exércitos atacantes dividirão a pilhagem do Grau de Prosperidade igualmente, de acordo com o número de Cidades Estelares atacadas e ocupadas.\r    Quando o exército falha ao atacar e ocupar o Domínio, todo o Grau de Prosperidade do Domínio será saqueado proporcionalmente. Ao mesmo tempo, obterá uma Recompensa saqueada determinada.\r    ④ Fatura\r    Na fatura, o Grau de Prosperidade obtido pelo Exército será igualmente divido em cada Domínio ocupado pelo exército.\r    Na fatura, a recompensa obtida pelo Exército que perdeu o território será igualmente divida em cada Domínio ocupado pelo Exército.
+653	① O Exército deve, primeiro, juntar-se a uma das três grandes facções para, depois juntar-se ou criar uma Aliança.\r    ② A Aliança só pode ser formada entre Exércitos desta facção;\r    ③ O Exército que estiver dentro de uma Aliança precisa, primeiro, deixar a Aliança para poder trocar a facção do Exército;\r    ④ A quantidade máxima de Exércitos na Aliança é 4;\r    ⑤ Os membros do Exército que estiver numa Aliança podem juntar-se às competições do Guerra Galáctica de outros Exércitos da mesma Aliança, a fim de ajudar na luta;\r    ⑥ Quando os membros do Exército que estiver numa Aliança forem receber o "Prêmio de Membro" da Guerra Galáctica, o prêmio será obtido de acordo com as condições do Domínio ocupada pela Aliança;\r    ⑦ Após sair da Aliança, o Exército não consegue juntar-se a outras Alianças por 2 semanas;\r    Quando o Marechal do Exército que estiver numa Aliança (Suplente) for receber o "Prêmio de Marechal do Exército" da Guerra Galáctica, o prêmio será obtido de acordo com a quantidade de Cidades Estelares ocupadas por este Exército ( Válido somente para o Exército que já estava dentro da Aliança quando terminou à 00:00h da semana passada)
+654	Período de Pilhagem:\rde segunda à quinta, das 19:00 às 20:00, a Guerra de Pilhagem será iniciada.\rDepois de meia hora da declaração de guerra, poderá entrar no campo de batalha da Guerra de Pilhagem.\rRegras de Declaração de Guerra:\r1. Quando o Grau de Prosperidade do Exército for menor do que 200, não poderá receber declaração de guerra.\r2. O Exército que possui um Domínio pode declarar guerra a um Exército que ocupa um Domínio de mesmo nível ou de nível ainda mais alto (o cálculo do Domínio é realizado de acordo com o nível mais alto).\rExércitos de Domínio de Domínio Principal podem declarar guerra a Exércitos de Domínio de Ouro ou acima.\r3. Exércitos da Aliança não podem declarar guerra entre si.\r4. Exércitos que não possuem Base não podem entrar na Guerra de Pilhagem.\r5. Exércitos da mesma Facção não podem entrar na Guerra de Pilhagem.\rRegras de Pilhagem:\r1. Cada Exército pode fazer pilhagem 1 vez a cada semana.\r2. Cada Exército pode sofrer pilhagem 1 vez a cada semana.\r3. Se a equipe que declarou a guerra vencer, poderá saquear 20% do Grau de Prosperidade semanal do outro Exército; se a equipe que declarou a guerra perder, não haverá ganhos de pilhagem.\r4. A Riqueza do Exército que estiver fazendo a pilhagem será acumulada na Riqueza da semana seguinte.\rRegras da Guerra de Pilhagem:\rutilizar as regras originais da Guerra Galáctica. Dentro do campo de batalha da Guerra de Pilhagem, pode-se usar: Cartão de Invocação, Carro de Guerra do Arqueiro, Torre de Defesa, Ataque Surpresa do Exército e Determinação Imortal. (O Cartão de Invocação é de uso comum com as competições da Guerra Galáctica, seu uso requer cautela.)
+655	Declaração de Guerra
+656	Aguardar para entrar
+657	Juntar-se ao campo de batalha
+658	Não tem permissão o suficiente para prosseguir com essa operação
+659	Nome do Marechal do Exército que recebeu o convite
+660	Renomear a Aliança do Exército
+661	Aliança do Exército criada com sucesso
+662	Juntar-se à Aliança: solicitação de %s enviada
+663	Juntou-se à Aliança com sucesso
+664	Juntou-se à Aliança com sucesso: %s
+665	Dono da Aliança:%s recusou a sua solicitação
+666	Juntou-se à Aliança: %s
+667	Saiu da Aliança: %s
+668	A Aliança: %s já foi dissolvidea
+669	O Exército de %s juntou-se à nossa Aliança
+670	O Exército;%s juntou-se à nossa Aliança
+671	A Aliança recusou a entrada do Exército: %s
+672	A Aliança mudou o nome para: %s
+673	Declaração do Exército modificada com sucesso
+674	Junte-se á nossa Aliança para balancear conjuntamente a hegemonia
+675	Dono da Aliança
+676	Definir Exército: mover %s para fora da Aliança?
+677	Exército:%s foram movidos para fora da Aliança. desejamos que eles fiquem bem lá fora
+678	Não é necessário transferir a liderança da Aliança para si mesmo
+679	Confirmar a transferência da liderança da Aliança para o Exército: %s?
+680	Exército: %s tornou-se Dono da Aliança
+681	Não há Aliança de Exército atualmente
+682	Pedido para Juntar-se
+683	Deseja sair da Aliança do Exército?
+684	Deseja desfazer a Aliança do Exército?
+685	Facções Diferentes
+686	Não se juntou a nenhuma Facção
+687	Já ocupou um Domínio Principal
+688	O máximo de Exércitos existentes dentro da Aliança é de %d
+689	Sistema do Exército
+690	A base do Exército debita automaticamente
+691	Manutenção da base debita %d dos fundos do Exército em que você está
+692	Erro de Parâmetro
+693	O sistema das competições do Guerra Galáctica ainda não foi aberto
+694	Não é possível que o personagem realize negociação no status atual
+695	Dados do Domínio não foram encontrados
+696	O sistema está ocupado, tente novamente mais tarde
+697	Falha no lance da aposta, o Exército em que você está não vai ocupar um Domínio que faz fronteira com o seu
+698	Falha no lance da aposta, tempo incorreto
+699	Falha no lance da aposta, fundos insuficientes
+700	Falha no lance da aposta, caixa de mensagens cheia. Por favor, limpe a caixa de mensagens
+701	Falha ao entrar, tempo incorreto
+702	Falha ao entrar, cheio de pessoas
+703	Falha ao entrar, nível insuficiente
+704	Não é possível receber os ganhos de cada dia. A hora do recebimento é qualquer período entre às 10:00 da segunda-feira e às 19:00 de sexta-feira
+705	Não é possível receber os ganhos, a quantidade de vezes que recebeu ultrapassou o limite máximo
+706	Falha ao receber Quest de cada dia, ainda não completaram 3 dias de entrada no Exército
+707	Falha ao entrar nas competições do Torneio Galáctico, ainda não completaram 7 dias de entrada no Exército
+708	É necessário alterar antes dos lances de aposta terminarem
+709	Dando lances de apostas de território
+710	Sistema Ocupado
+711	Sem Gold o suficiente. não é possível juntar-se
+712	Ainda faz menos de 48 horas desde a última vez que saiu
+713	Falha no lance da aposta, facção incorreta
+714	Falha no lance da aposta, declarações de Guerra Territoriais em excesso
+715	Falha no lance da aposta, ocupação de Domínio de Bronze em excesso
+716	Falha ao entrar nas competições do Torneio Galáctico, não são companheiros de Aliança
+717	Falha no lance da aposta, a Classificação está no Time Prata ou abaixo
+718	Falha no lance da aposta, o Domínio Principal não foi ocupado por ninguém
+719	Falha no lance da aposta, ocupação de território de nível de Domínio Estelar em excesso
+720	Falha ao entrar nas competições do Torneio Galáctico, o tempo para formar a Aliança ainda não completou 2 dias
+721	Falha no lance da aposta, não se pode fazer um lance de aposta no território de companheiros de aliança
+722	Falha no lance da aposta, já ocupou 15 territórios
+723	Substituir Exército durante o tempo de recarga
+724	Falha no lance da aposta, substituir dentro do tempo de recarga do Campo
+725	Sem permissão para entrar na guerra de Domínio
+726	É necessário ocupar um território de classificação correspondente
+727	Já ocupou dois Domínios do Caos
+728	Aliança Inexistente
+729	O Exército já está dentro de uma Aliança
+730	Nome da Aliança já existe
+731	Não é possível negociar no status atual
+732	A Aliança está cheia
+733	O jogador recusou o pedido para participar da Aliança
+734	O Exército que ocupa o Domínio Principal, não pode participar ou criar Aliança
+735	Exército não pertence a nenhuma Facção, não pode participar ou criar Aliança
+736	Não pode participar de Aliança de outra Facção
+737	Apenas o Dono da Aliança pode executar operação
+738	Exército não está em uma Aliança
+739	Requerente não existe
+740	Nível da base é muito baixo, não pode criar Aliança
+741	Por favor, tente novamente
+742	Território de batalha inimigo, não pode participar da Aliança
+743	O Exército com Power entre os dois primeiros lugares do servidor, não pode criar ou participar de Aliança
+744	Diferentes Facções não podem participar da Aliança
+745	Substituir Aliança durante o tempo de recarga
+746	Guerra de Pilhagem ainda não começou
+747	Não tem permissão para declarar guerra
+748	Luta da declaração de guerra em progresso
+749	Luta da declaração de guerra recebida em progresso
+750	Esta semana, o número de vezes que declarou guerra foi ultrapassado
+751	Esta semana, o número de vezes que recebeu declaração de guerra foi ultrapassado
+752	Esta semana não pode declarar guerra contra o mesmo Exército mais uma vez
+753	Não é possível declarar guerra contra si mesmo
+754	Não pode declarar guerra contro Domínio de nível baixo
+755	O Exército que não tiver Domínio ocupada, não pode declarar guerra
+756	Exércitos da mesma Facção não podem declarar guerra entre si
+757	Facção escolhida
+758	Deseja escolher nova Facção para participar: %s? \rSe tiver Facção atual, é necessário deixá-la primeiro. Após 48 horas, poderá participar de nova Facção
+759	Deseja sair da Facção atual? \rQuando o Exército tiver território de leilão, não é possível usar esse serviço
+760	Somente o Marechal do Exército/Suplente pode alterar Facção do Exército
+761	Última saída da Facção em menos de 48 horas, não pode se juntar à nova Facção
+762	Esta operação não altera sua Facção
+763	Nenhum
+764	Facção do Santuário
+765	Facção de Atlântida
+766	Facção do Submundo
+767	Céu estrelado do Caos (nenhum)
+768	Juntou-se com sucesso à Facção: %s
+769	Saiu da antiga Facção com sucesso
+770	Sair da Facção
+771	Junte-se à Facção do Santuário
+772	Junte-se à Facção de Atlântida
+773	Junte-se à Facção do Submundo
+774	Declaração de Guerra bem sucedida
+775	%s restante
+776	Item exclusivo do Exército %s (Exército atual)
+777	^ff0000 Item exclusivo de outros Exércitos
+778	Você ainda não se juntou ao Exército, este item não pode ser utilizado
+779	Item não pertence a este Exército, não pode ser aberto
+780	Exército %d:
+781	Grupo número %d:
+782	Grupo Divino
+783	Grupo de Ouro
+784	Grupo de Prata
+785	Grupo de Bronze
+786	Time de Ferro
+787	Checar senha do Armazém
+788	Configurar senha do Armazém
+789	Alterar senha do Armazém
+790	Redefinir senha do Armazém
+791	Item depositado
+792	Item removido
+793	Itens agrupados
+794	Troca de item
+795	Verificação de senha
+796	Obter dados do Armazém do Exército
+797	Modificar permissão de item
+798	Adicionar código de bloqueio
+799	Tirar código de bloqueio
+800	Erro na inicialização do Armazém
+801	Não há base do Exército ou nível da base é menor que 3
+802	Item do Armazém do Exército foi alterado, por favor, faça atualização
+803	Senha do armazém incorreta
+804	Contribuição insuficiente
+805	Erro na operação de itens do Armazém
+806	Entrou no Exército há menos de 3 dias, não é possível usar
+807	Batalha, loja pessoal de negociação, banho de glória, montaria multiplayer entre outros status não podem ser usados
+808	Os dados foram alterados. Após atualizá-los, tente a operação novamente.
+809	O número de alterações de ícone de hoje já foi esgotado (3 vezes). Após meia-noite, o número será atualizado, tente novamente
+810	Pontuação total ultrapassou limite (entre -2 bilhões e 2 bilhões)
+811	O registro de pontuação total do membro atingiu o limite (400). Por favor, após excluir parte dos seus registros, tente alterar novamente
+812	Não há dados relacionados do Armazém do Exército
+813	Necessário senha
+814	Por favor, insira senha do Armazém
+815	Antes de adicionar bloqueio ao item, é necessário configurar senha
+816	Configurar senha do Armazém
+817	Por favor, insira senha
+818	Nenhuma senha, não é necessário reiniciar
+819	A senha será reiniciada após 3 dias, deseja prosseguir?
+820	O reinício de senha terá efeito após %s, tem certeza que deseja ignorar a reinicialização?
+821	Alterar senha do Armazém
+822	Senha antiga
+823	Nova senha
+824	Reinsira
+825	Este artigo ainda não configurou permissão de recebimento
+826	Não há permissão de recebimento
+827	Necessário contribuição de %d para poder receber
+828	Problema na permissão de recebimento deste item
+829	Armazém do Exército cheio
+830	Este artigo não pode ser colocado no Armazém
+831	Posição do alvo incorreta
+832	Necessário entregar contribuição de %d, confirmar recebimento?
+833	Operação de artigos recebidos cancelada
+834	Não há espaço no Armazém do Exército para realizar a divisão dos itens
+835	Permissão aqui já foi configurada pela administração, não é possível agrupar
+836	Os itens aqui não podem ser agrupados
+837	As propriedades dos dois itens não são iguais, não podem ser agrupados
+838	%s depositou %dx %s
+839	%s removeu %dx %s
+840	%s depositou %dx %s no Armazém
+841	%s removeu %dx %s no Armazém
+842	%s alterou senha do Armazém
+843	%s designou %s para %s
+844	Operação do Armazém não descrita: %d
+845	Seu cargo não pode configurar ou alterar restrições
+846	Restrição de item alterada por %s
+847	Acima do cargo %s pode receber
+848	%s pode receber
+849	Todos podem receber
+850	Nome do membro do Exército não digitado
+851	ID deste jogador não encontrada
+852	O jogador não está neste Exército
+853	Por favor, selecione um item do Armazém
+854	Item selecionado não existe
+855	Locais recomendados você pode usar, se pretende utilizar os locais de referência?
+856	Necessário digitar motivo da alteração
+857	Pontuações não foram alteradas
+858	%s %d (%s: %s, %s)
+859	Alterar pontuação de membro do Exército
+860	É necessário escolher mudança de membro
+861	No momento, você ainda não entrou em nenhum Exército. Procure por ${npc(14799)} para criar ou para participar de um. Após isso, você poderá aproveitar de uma variedade de benefícios e, junto com os outros jogadores, desenvolver e melhorar seu Exército!
+862	Não há Exército, não é possível configurar ícone do Exército
+863	Não selecionou cor do ícone
+864	Não selecionou margem do ícone
+865	Você precisa selecionar um ícone sombreado ou introduzir um logotipo do texto
+866	Sem requisitos
+867	100.000
+868	200.000
+869	300.000
+870	500.000
+871	800.000
+872	1.000.000
+873	%s oferece %I64d Star como recompensa para que junte-se ao seu grupo. (%d pessoas, %s, Power %s, duração %s)
+874	%s oferece %I64d Star para jogadores %s acima, Power %s para formarem de grupo (%d membros) %s
+875	Já foi finalizado
+876	Nível de Prática Concentrada Insuficiente
+877	Power insuficiente
+878	Não é necessário adicionar a própria recompensa
+879	Seu grupo está completo, não é possível iniciar a recompensa
+880	Você já está em um grupo e não é o Líder, não é possível iniciar a recompensa
+881	Recompensa iniciada anteriormente não pode ser finalizada
+882	Incompleto
+883	Completo
+884	Impossível adicionar, cota de recompensa já está completa
+885	A recompensa do grupo falhou, incapaz de reunir membros suficientes
+886	A recompensa de grupo do membro %s foi de %d Star
+887	A recompensa de seu grupo dentro do exército falhou no evento, retorno de %d Star
+888	Recompensa do Grupo iniciada com sucesso
+889	Não é possível iniciar a formação de grupo
+890	Incapaz de iniciar recompensa de grupo, Star insuficiente
+891	Configuração de recompensa de grupo já atingiu o nível máximo
+892	Prêmio do Exército
+893	Mensagem contém anexo, deseja excluí-la?
+894	Anexo
+895	Novo
+896	Reservar
+897	^ff0000Expirado
+898	Tem mensagens não lidas
+899	Mensagem enviada, irá chegar imediatamente na caixa de entrada do jogador.
+900	Mensagem enviada, após uma hora, irá chegar na caixa de entrada do jogador.
+901	Falha ao enviar mensagem
+902	Selo insuficiente
+903	Valor incorreto de moeda para envio
+904	Moeda insuficiente, não pode enviar mensagem
+905	Destinatário não existe
+906	Destinatário está vazio
+907	^ff0000(não oficial)
+908	Assunto da mensagem está vazia
+909	Conteúdo da mensagem está vazia
+910	Informação de mensagem incorreta
+911	Serviço do banco de dados não pode ser conectado
+912	Mensagem não existe
+913	Informação do anexo incorreta
+914	Não pode enviar mensagem para si mesmo
+915	Caixa de mensagem do destinatário está congelada.
+916	Serviço da caixa de mensagem temporariamente indisponível
+917	Caixa de mensagem do destinatário está cheia.
+918	Só pode enviar e-mensagem para seus amigos, não poderá enviar aos que não forem amigos
+919	Mensagem com anexo não podem ser deletadas. Após retirar anexo, tente novamente.
+920	O limite de moedas no personagem foi atingido
+921	Não é possível receber, o limite de moedas do personagem foi atingido
+922	O limite de Star no personagem foi atingido
+923	Não é possível receber, o limite de Star do personagem foi atingido
+924	Inventário cheio
+925	Todas
+926	Jogadores
+927	Sistema
+928	Item vinculado, não é possível enviar
+929	Item bloqueado, não é possível enviar
+930	Item não negociável, não é possível enviar
+931	Insira o valor de gold para enviar
+932	Deseja enviar o seguinte objeto para %s? \r%s^N
+933	Gold
+934	Prêmio do sistema baotuan
+935	Sistema baotuan
+936	Pelo %s dar prêmio baotuan
+937	Prêmio do divulgador
+938	Sistema do divulgador
+939	Convidado %s, prêmio do divulgador dado a você
+940	Deseja excluir todas as cartas que não possuem anexos ou que já tiveram os seus anexos recolhidos?
+941	Após excluir as cartas, não é possível recuperá-las. Deseja excluir todas?\r^FF0000(cartas com anexo não serão deletadas)
+942	Anexo cheio, operação inválida!
+943	Zona de Instância
+944	Evento
+945	^32B500Pode inscrever
+946	^0077D9Na Fila
+947	^0077D9Fila do grupo
+948	^999999Número de vezes esgotado
+949	^999999Indisponível
+950	^999999Nível não corresponde
+951	^999999Ainda não foi aberto
+952	Ilimitado
+953	Dragão
+954	Andrômeda
+955	Pégasus, Cisne, Fênix
+956	Necessário %d～%d pessoas
+957	Necessário %d pessoas
+958	Necessário, pelo menos, %d pessoas
+959	Máximo permitido: %d pessoas
+960	Número de pessoas ilimitado
+961	Diferença de nível ilimitada
+962	É necessário que a diferença entre o nível de todos os membros do grupo não seja maior que %d
+963	Apenas o líder pode conduzir o grupo para a fila
+964	Apenas o líder pode sair da fila
+965	O sistema encontrou uma formação automática para você com um grupo para a Zona de Instância 『%s』. Deseja entrar no grupo e se teletransportar até a entrada da Zona de Instância?
+966	O sistema encontrou uma formação automática para você com um grupo para o Evento 『%s』. Deseja entrar no grupo e se teletransportar até a entrada do Evento?
+967	Você recusou a equipe da formação automática, você deixou a fila: %s
+968	Algumas pessoas recusaram essa formação, você voltou para a fila
+969	O membro do grupo %s recusou essa formação, todos foram removidos da fila
+970	O membro %s recusou essa formação, todos foram removidos da fila
+971	Serão movidos quando todos confirmarem
+972	^ff0000Algumas pessoas recusaram essa formação de fila, deseja voltar à fila para continuar formação?
+973	Voltou para a fila
+974	Há novos membros. Aceita as alterações?
+975	Você está na fila de formação automática. Se quer trabalhar junto com seus companheiros de grupo, é necessário que saia da fila original e peça ao líder para entrar na fila novamente.
+976	^F91919 Cancelado (muitas pessoas)
+977	^F91919 Cancelado (restrições de Signo)
+978	^F91919 Cancelado (grande diferença entre níveis)
+979	^F91919 Reajustar
+980	Como houveram membros que não aceitaram o convite, todos foram removidos da fila
+981	Como não aceitou o convite, após a correspondência com o grupo, foi removido da fila
+982	Você ou seu grupo/raide estão na fila para: %s, aguarde a inicialização
+983	Já foi aceito
+984	Você esperou por muito tempo no ^ff0000%s^N, se quiser ao mesmo tempo participar na fila de ^ff0000%s^N? \r^F91919 Lembrete: Eventos de nível avançado como %s, adicionam aumento da velocidade correspondente, mas o prêmio é reduzido.
+985	Em um grupo, só pode formar fila e cancelar pelo líder
+986	Em uma raide, só pode formar fila e cancelar pelo líder
+987	Você não pode entrar nessa fila: %s
+988	Seu grupo/raide não pode participar da fila, porque os membros %s não cumpriram as condições: %s
+989	Erro no servidor
+990	Condições não são suficientes, não é possível formar fila
+991	ID da equipe incorreta
+992	Repetir inscrição
+993	Fila cheia
+994	Signo do jogador não é o suficiente
+995	Status do jogador incorreto
+996	Raide não pode participar do evento de modo "sem raide"
+997	Muitos jogadores de nível básico
+998	Não aceitou a formação anterior (1min)
+999	Muitos jogadores de nível avançado
+1000	Proibido formar fila em multiservidor
+1001	Os jogadores não pertencem à mesma Facção, falha na formação de grupo
+1002	%s subiu para o nível %d
+1003	%s derrotou %s
+1004	%s aceitou a quest %s
+1005	%s concluiu a quest %s
+1006	%s obteve %s
+1007	%s conquistou %s
+1008	%s de %s obteve aprimoramento perfeito
+1009	Refinação %s de %s atingiu nível completo
+1010	%s de %s atingiu nível completo
+1011	Os amigos %s lançaram um novo microblog "%s"
+1012	%s no fórum do Exército lançaram um convite novo "%s"
+1013	%s lançaram um movimento desconhecido
+1014	A análise do movimento de %s falhou
+1015	%s (Nv%d, %s) te disse: %s
+1016	Eu sou muito habilidoso, seja meu Aprendiz!
+1017	Acima do nível %d pode admitir Aprendiz
+1018	Com o Power acima de %d pode admitir Aprendiz
+1019	O limite de Aprendizes foi ser excedido. Você já tem %d Aprendizes, só é possível treinar %d Aprendizes ao mesmo tempo!
+1020	Você ainda não se tornou Mestre, não é possível admitir Aprendizes
+1021	Este jogador não é o seu Aprendiz
+1022	Aprendizes que você pode admitir %d/%d
+1023	Tornou-se mestre com sucesso %d
+1024	Power do Aprendiz formado %d/%d
+1025	Candidatar
+1026	Power
+1027	Encontre um bom Mestre para te ajudar!
+1028	%s desfez a relação tutelar com o seu Mestre
+1029	Seu Aprendiz %s de formou!
+1030	Parabéns, você se formou!
+1031	Relação tutelar com o Aprendiz %s, foi desfeita com sucesso
+1032	Relação tutelar com o Mestre %s, foi desfeita com sucesso.
+1033	Graças ao duro treinamento do Mestre, você atingiu uma nova etapa! Receba %d EXP
+1034	O personagem não atingiu o nível %d, não pode se candidatar como seu Aprendiz.
+1035	Você já tem o Mestre &%s&. Um dia como Mestre, Mestre a vida toda!
+1036	Já enviou pedido de admissão de Aprendiz, por favor, aguarda resposta...
+1037	Você recusou o Mestre indicado pelo sistema.
+1038	%s (%d pts)
+1039	Taxa de Amizade ultrapassou %d, pode adicionar como tutela. Rapidamente vai aumentar o sentimento entre os dois ~
+1040	%s (Nv%d, %s) olha para você:\r%s
+1041	Serei um ótimo Aprendiz!
+1042	Pode se tornar Aprendiz apenas abaixo do nível %d
+1043	Atualmente você é um Mestre, não pode se tornar Aprendiz
+1044	Já tem um Mestre, não é possível se tornar Aprendiz de outra pessoa
+1045	Este jogador não é o seu Mestre
+1046	Atualmente não há relação tutelar
+1047	Aceitar
+1048	Aprendizes
+1049	Para ser Mestre, é necessário: Nv. ≥ 60/Power ≥ 30000
+1050	%dpts
+1051	A cada 5 níveis alcançados pelo Aprendiz (Nos níveis 5, 10, 15...60), o Mestre vai receber pontos de honra. Se o Aprendiz não alcançar 5 níveis, não receberá o prêmio. Só receberá o prêmio nos próximos 5 níveis alcançados
+1052	Não há sistema de pontos adicionais de tutela compatível
+1053	Receba pontos de honra (Pontos quando o Aprendiz sobe de nível: %d, pontos quando o Aprendiz se torna Mestre: %d).
+1054	Receba pontos de honra adicionais com a admissão do Aprendiz: %d
+1055	Insira o seu anúncio
+1056	A outra parte ultrapassou o nível %d, não pode ser Mestre dele.
+1057	Você se tornou Mestre de &%s&, para ensiná-lo sua doutrina, não poupe esforços
+1058	Você se registrou com sucesso como Mestre disponível. Você entrará na lista de Mestres que estão em busca de um Aprendiz~
+1059	Você cancelou o registro da lista de Mestres
+1060	Você alterou sua declaração de admissão do Aprendiz
+1061	Já enviou pedido de tutela para o jogador, por favor, aguarde a resposta...
+1062	Você já enviou convite formal para este jogador. Se a outra parte aceitar, vocês vão ter uma relação de Mestre e Aprendiz!
+1063	Você recusou o Aprendiz indicado pelo sistema, nesse dia não irá receber outras informações do sistema de indicação.
+1064	Indicações
+1065	Cancelar
+1066	Jogador não está online
+1067	A outra parte já é aprendiz de um mestre
+1068	Número de Aprendizes já atingiu o limite máximo
+1069	O sistema está ocupado, tente novamente mais tarde.
+1070	A outra parte recusou seu convite para admissão do Aprendiz.
+1071	O nível do jogador não preenche os requisitos
+1072	Já se formou como Mestre
+1073	Power insuficiente
+1074	Sem Aprendiz
+1075	Sem Mestre
+1076	Atualmente não há pontos de honra para receber
+1077	Hoje o Mestre não pode mais admitir Aprendizes
+1078	Hoje o Aprendiz não pode mais se tornar Aprendiz
+1079	Já está registrado
+1080	Conteúdo da declaração muito longo
+1081	Quando estiver em multiservidor, não é possível executar operação relacionada de tutela
+1082	O Power do jogador ainda não atingiu requisitos para admissão do Aprendiz
+1083	O nível do personagem é muito alto para poder se tornar Aprendiz
+1084	O Power do personagem é muito baixo para poder se tornar Mestre
+1085	Os dois lados já têm relação de tutela
+1086	Você mesmo já tem Mestre
+1087	A outra parte já tem Mestre
+1088	Você ainda não está registrado na lista de Mestres
+1089	Erro no número de votos
+1090	Não há votos
+1091	Não é possível votar neste momento
+1092	Quer que seu precioso voto vá para ^ff0000%s^ffffff?
+1093	Hoje só pode enviar esse voto
+1094	Voto enviado com sucesso
+1095	Não há informação do Exército do candidato eleito
+1096	Apenas o Marechal do Exército pode eleger candidato
+1097	Apenas Exército que ocupar o domínio principal pode eleger candidato
+1098	Candidato do Grande Mestre reeleito
+1099	Substituto do Grande Mestre alterado com sucesso
+1100	Funções do substituto do Grande Mestre alteradas
+1101	Recebeu traje do Grande Mestre
+1102	Apenas quem entrar na lista dos 500 melhores Powers dessa terça-feira, poderá ter um voto grátis. E só pode receber um papel de voto por período
+1103	Clique duas vezes para modificar o anúncio do Grande Mestre
+1104	Apenas o Grande Mestre e seu substituto autorizado podem modificar os anúncios
+1105	Nulo
+1106	O divino e poderoso Grande Mestre %s da Facção do Santuário está online! Todos os Cavaleiros mostraram uma expressão de grande respeito.
+1107	O divino e poderoso Sacerdote %s da Facção de Atlântida está online! Todos os Cavaleiros mostraram uma expressão de grande respeito.
+1108	O divino e poderoso Oficial %s da Facção do Submundo está online! Todos os Cavaleiros mostraram uma expressão de grande respeito.
+1109	%s recentemente emitiu um novo anúncio
+1110	%s foi censurado pelo Grande Mestre
+1111	%s foi nomeado como novo substituto do Grande Mestre
+1112	Deseja mesmo consumir um %s, abrindo Quest de recompensa do Grande Mestre?
+1113	Deseja mesmo consumir um %s, abrindo evento completo de anúncio do Grande Mestre?
+1114	Falta o item %s, não é possível abrir evento de reforma da estátua
+1115	Falta o item %s, não é possível abrir evento de recompensa do Santuário
+1116	Deseja mesmo indicar %s como substituto do Grande Mestre?
+1117	Deseja mesmo proibir discurso do %s?
+1118	Deseja mesmo revogar o substituto do Grande Mestre do cargo? Dentro de 24 horas só poderá executar operação de exclusão do substituto do Grande Mestre uma vez.
+1119	Apenas o Grande Mestre pode receber Traje do Grande Mestre
+1120	Já obteve o Traje do Grande Mestre
+1121	Editar
+1122	^ff0000%s^NAtravés de intensa competição e, com ^ff0000%d votos ^N de apoio, se tornar o novo Grande Mestre do Santuário! %s
+1123	^ff0000%s^NPela força extraordinária, obter do reconhecimento ^ff0000%s^N do Grande Mestre, para entrar na função de substituto do Grande Mestre! %s
+1124	^ff0000%s^NExcesso de tirania, perdeu apoio popular, o Grande Mestre ^ff0000%s^N afastou seu substituto do posto! %s
+1125	%dº mandato
+1126	Servidor ocupado
+1127	O eleitor não alcança as condições, eleição não pode ser aberta
+1128	Não há votos
+1129	Ultrapassou o número de votos, não pode continuar a votar
+1130	Não tem permissão do Grande Mestre
+1131	Dentro de 24 horas só poderá executar operação de exclusão do substituto do Grande Mestre uma vez.
+1132	Erro ao configurar a permissão do substituto
+1133	Esta Facção já exerceu duas vezes o cargo de Grande Mestre, não pode ser um candidato
+1134	Corpo do Exército guerra urbana não é longo, os candidatos não podem ser definidas
+1135	Já foi nomeado por outro Marechal do Exército
+1136	Não está no período de alteração de candidato, não é possível trocar candidato a Grande Mestre
+1137	Traje já foi obtido
+1138	Espaço livre no inventário insuficiente
+1139	Já ultrapassou as palavras proibidas deste personagem
+1140	Ao ultrapassar o limite de palavras proibidas grátis, é necessário o item Selo Sagrado do Silêncio
+1141	Não tem permissão para alterar o anúncio
+1142	Não entrou na lista dos 500 melhores Powers dessa terça-feira, não tem permissão para votar.
+1143	Apenas no Santuário pode abrir evento completo de anúncio
+1144	No pacote não há itens da Quest
+1145	Este evento completo só pode ser aberto uma vez por dia
+1146	1, O candidato da competição pelo poder da Via Láctea ocupa o Exército selecionado do domínio principal.\r2, Entrar na fase de votação, período para votar é do meio-dia de terça até meio-dia de sexta.\r3, Durante a semana de votação, somente os Cavaleiros que estiverem na lista dos 500 melhores Power na terça-feira poderão votar.\r4, O Cavaleiro que tiver qualificação para votar, poderá receber um papel de voto grátis.\r5, No período de votação, cada pessoa pode colocar no máximo 3 papéis de voto.\r6, Os votos serão contados na meia-noite de sexta-feira, o candidato com mais votos se tornará o próximo Grande Mestre.\r7, O novo Grande Mestre irá tomar posse oficialmente na próxima terça-feira, após o período de votação.\r8, A mesma Facção só pode ocupar o cargo de Grande Mestre duas vezes.
+1147	Todos estão comemorando! Felicitações ao casal %s e %s! Desejamos a vocês uma vida longa e feliz e que se amem para sempre!
+1148	Seu casamento com %s foi removido ToT
+1149	%s e %s se tornaram amigos próximos, é necessário que mantenham contato!
+1150	A relação de amizade entre %s e você foi removida >_<
+1151	Erro desconhecido: %d
+1152	Erro de comunicação em rede
+1153	Anormalidade do banco de dados
+1154	Erro nos dados
+1155	Erro na operação
+1156	Nome do jogador já existe
+1157	Nome do Exército já existe
+1158	Erro impossível
+1159	Nome muito comprido ou caractere não permitido
+1160	Conflito de recomendador
+1161	Cota de recomendador completa
+1162	Nível do jogador é muito baixo
+1163	Erro na permissão do jogador
+1164	Jogador já está na lista de aplicações do Exército
+1165	Personagem não está na lista de aplicações
+1166	Status do jogador não está normal
+1167	Gold requerido não é suficiente
+1168	Jogador já foi excluído ou está em status de exclusão
+1169	Já está em um Exército
+1170	Jogador não está no Exército
+1171	Erro no pacote de marca temporal do jogador
+1172	O período para sair do Exército não atingiu 24 horas, não é possível juntar-se a um Exército
+1173	ID do Exército está incorreto
+1174	Exército completo
+1175	Lista de aplicações do Exército completa
+1176	Lista de Exército está vazia
+1177	Exército está em status de exclusão
+1178	Quando a transferência do Marechal do Exército, para ser transferido ao longo da linha de nenhum papel
+1179	Forçar cancelamento no tempo de recarga
+1180	A outra pessoa não concordou em participar do Exército
+1181	O período para se juntar ao Exército não ultrapassa um dia
+1182	Não é possível encontrar Exército
+1183	Exército está em status normal
+1184	Posições já estão completas
+1185	Nível do Exército é muito baixo
+1186	Exército está nas classificatórias
+1187	Nas classificatórias, o jogador não pode retirar Exército
+1188	Nas classificatórias, não é possível trocar identificação do Exército do jogador
+1189	A ação não pode ser realizada com o bloqueio temporário ativo.
+1190	Não é possível ativar base do Exército
+1191	Não é possível encontrar base do Exército
+1192	A base do Exército está em status de batalha
+1193	A organização da batalha do Exército já está completa
+1194	Não é possível declarar guerra no horário atual
+1195	O seu Exército não possui base
+1196	Você deixou a base do Exército: %s
+1197	A Base está qualificada
+1198	Base inexistente
+1199	Nesse período de tempo não pode ser acessado
+1200	Outras razões
+1201	Falha ao entrar/sair da base do Exército
+1202	A outra base está em conflito, proibida a entrada de pessoas
+1203	Só pode entrar em outras bases das 18h às 0h
+1204	Base do Exército ainda não registrada
+1205	Base do Exército ainda não designada
+1206	A base do Exército está em status de preparo para batalha, entre novamente mais tarde
+1207	A base do Exército está em status de limpeza, entre novamente mais tarde
+1208	Limite de pessoas na base do Exército excedido
+1209	Reputação insuficiente
+1210	Junte-se à equipe de voz
+1211	Expandir canal de voz
+1212	Estamos entrando...
+1213	Pressione o botão %s para falar
+1214	Esta tecla já está ocupada.
+1215	Falar livremente
+1216	Colocado na lista negra pelo proprietário, saia do canal atual de chat de voz
+1217	GT não foi logado com sucesso, por favor faça o login do jogo novamente
+1218	Olá, pessoal! "Cavaleiros do Zodíaco Online" está em fase de teste! Entre no site br.cdz.ongame.net para baixar o Client de Jogo mais recente! Ao criar um personagem, inserira o código do convite do divulgador abaixo: %s ao entrar no mundo do jogo, irá obter prêmio de pacote de presente misterioso para iniciantes e experimentar a sensação de vestir uma Armadura de Ouro! Após seguir as orientações e subir de nível, ainda ganha Gem e lingote em grande quantidade!
+1219	Informação do convite já foi copiado para a área de transferência
+1220	Confirmação de recebimento de flor
+1221	Sucesso ao receber rosa
+1222	Sucesso ao enviar rosa
+1223	Falha no envio de rosa
+1224	%s\r^ff0000Dica: ^ffffffComércio do Vale do Arroz está aberto, receba rosas
+1225	Por favor, receba primeiro o pacote de presente VIP do nível anterior
+1226	Você não ficará mais sozinho. Quando as 99 rosas chegarem ao seu coração, jurarei aos céus que o nosso amor durará!
+1227	Eu te amo, essas três palavras expressam meus sentimentos. Quero beijar sua mão e deixar estas palavras percorrerem o mundo!
+1228	Romance verdadeiro de mil e uma noites, te protegerei por mil milhas. Meus olhos enchem de amor sob as estrelas. Você é único para mim!
+1229	Durante toda a vida nos amaremos. Existe uma linha vermelha que nos conecta. Então, percorrerei esse caminho segurando a sua mão!
+1230	Molde de metal
+1231	Esculpidor
+1232	Levedura
+1233	[Prêmio da Base Básica]\rDobro EXP: 2h por semana\rLoja de Elixir de Resist.\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1234	[Prêmio do Próx. Nv.]\rLoja: Fonte da Fusão e etc
+1235	Destruição = -40 de cada recurso
+1236	[Prêmio da Base nível 1]\rLoja: Fonte da Fusão e etc\rLoja de Elixir de Resist.\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1237	[Prêmio do Próx. Nv.]\rLoja: Fonte de Areia Estelar, Poção de EXP Reserva e etc
+1238	Destruição = -101 de cada recurso
+1239	[Prêmio da Base nível 2]\rLoja: Fonte de Areia Estelar,\rPoção de EXP Reserva e etc\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1240	[Prêmio do Próx. Nv.]\rArmazém do Exército liberado\rDobro EXP: 3h por semana\rLoja: Fonte do Campo, Poção de Potência, entre outros itens de Produção
+1241	Destruição = -270 de cada recurso
+1242	[Prêmio da Base nível 3]\rArmazém liberado\rDobro EXP: 3h por semana\rLoja: Materiais de Produção\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1243	[Prêmio do Próx. Nv.]\rLoja: ferramentas para Caixa Mágica e etc
+1244	Destruição = -540 de cada recurso
+1245	[Prêmio da Base nível 4]\rLoja: ferramentas para Caixa Mágica e etc\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1246	[Prêmio do Próx. Nv.]\rLoja: Elixires de Recuperação especiais e etc
+1247	Destruição = -675 de cada recurso
+1248	[Prêmio da Base nível 5]\rLoja: Elixires de Recuperação especiais e etc\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1249	[Prêmio do Próx. Nv.]\rDobro EXP: 4h por semana\rLoja: Pacote de Jade Estelar e etc
+1250	Destruição = -810 de cada recurso
+1251	[Prêmio da Base nível 6]\rDobro EXP: 4h por semana\rLoja: Pacote de Jade Estelar e etc\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1252	[Prêmio do Próx. Nv.]\rLoja: Sangue de Bronze e etc
+1253	Destruição = -1755 de cada recurso
+1254	[Prêmio da Base nível 7]\rLoja: Sangue de Bronze e etc\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1255	[Prêmio do Próx. Nv.]\rLoja: Sangue Demoníaco e etc
+1256	Destruição = -2025 de cada recurso
+1257	[Prêmio da Base nível 8]\rLoja: Sangue Demoníaco e etc\rCáps. do Tempo depende do Nv. Base e clas. do Exército.
+1258	A Base do Exército atingiu o nível máximo.
+1259	Pedra do Lar dos Deuses
+1260	Pedra produzida no Monte Olimpo, é o material de construção do Lar dos Deuses.
+1261	Madeira da Cidade dos Deuses
+1262	Madeira produzida no Monte Olimpo, é o material de construção do Lar dos Deuses.
+1263	Minério do Lar dos Deuses
+1264	Minério produzido no Monte Olimpo, é o material de construção do Lar dos Deuses
+1265	Alma de Bronze
+1266	Alma do antigo Cavaleiro de Bronze!
+1267	Alma de Prata
+1268	Alma do antigo Cavaleiro de Prata!
+1269	Alma de Ouro
+1270	Alma do antigo Cavaleiro de Ouro!
+1271	Templo da Deusa do Amor
+1272	Local de oferenda a Afrodite, Deusa do Amor, ela é o símbolo do amor! Quanto mais alto o nível do Templo da Deusa do Amor, mais forte sua capacidade, pode ir ao ${npc(23561)} aumentar o nível do Templo.
+1273	Oração da Deusa do Amor
+1274	Todos os dias pode ir até ${npc(23565)} orar para a imagem da Deusa do Amor, e irá obter EXP Reserva. Quanto mais alto o nível do Templo da Deusa do Amor, mais EXP Reserva pode obter por dia!
+1275	Com o Templo da Deusa do Amor no nível 1 é possível ativar, todos os dias pode obter EXP Reserva!
+1276	Com o Templo da Deusa do Amor no nível 2 é possível ativar o próximo nível, todos os dias pode obter mais EXP Reserva!
+1277	Com o Templo da Deusa do Amor no nível 3 é possível ativar o próximo nível, todos os dias pode obter mais EXP Reserva!
+1278	Com o Templo da Deusa do Amor no nível 4 é possível ativar o próximo nível, todos os dias pode obter mais EXP Reservaa!
+1279	Já atingiu nível mais alto!
+1280	Templo do Deus do Vinho
+1281	Local de oferenda a Dionísio, Deus do Vinho, suas festividades têm força inebriante! Quanto mais alto o nível do Templo do Deus do Vinho, mais forte sua capacidade, pode ir ao ${npc(23561)} aumentar o nível do Templo.
+1282	Imune a tudo
+1283	Pode comprar objeto divino com ${npc(23569)}. O objeto divino pode aumentar sua resistência, fazendo com que recebe menos dano na batalha com outros jogadores.
+1284	Com Templo do Deus dos Rebanhos no nível 1 é possível ativar, pode comprar objeto divino de qualidade excepcional!
+1285	Com Templo do Deus dos Rebanhos no nível 2 é possível ativar o próximo nível, pode comprar objeto divino de qualidade excelente!
+1286	Com Templo do Deus dos Rebanhos no nível 3 é possível ativar o próximo nível, pode comprar objeto divino de qualidade épica!
+1287	Com Templo do Deus dos Rebanhos no nível 4 é possível ativar o próximo nível, pode comprar objeto divino de qualidade lendária!
+1288	Templo da Deusa da Lua
+1289	Local de oferenda a Ártemis, Deusa da Lua, ela é responsável pelos encantamentos da noite! Quanto mais alto o nível do Templo da Deusa da Lua, mais forte sua capacidade, pode ir ao ${npc(23561)} aumentar o nível do Templo.
+1290	Templo do Deus de Fogo
+1291	Local de oferendas a Hefesto, Deus do Fogo. Também é conhecido como Deus dos artesãos! Quanto mais alto o nível do Templo do Deus do Fogo, mais forte sua capacidade, pode ir ao ${npc(23561)} aumentar o nível do Templo.
+1292	Templo do Deus da Guerra
+1293	Local de oferenda a Ares, Deus da Guerra. Ele é o Deus da Guerra e da Batalha! Quanto mais alto o nível do Templo do Deus da Guerra, mais forte sua capacidade, pode ir ao ${npc(23561)} aumentar o nível do Templo.
+1294	Power do Exército
+1295	Sob o abrigo do Deus da Guerra, aumenta força e stamina de todos os jogadores dentro do Exército. Quanto maior o nível do Templo do Deus da Guerra, mais irá aumentar o nível de propriedade!
+1296	Com Templo do Deus dos Rebanhos no nível 1 pode ativar, aumentando a força e a stamina dos jogadores dentro do Exército!
+1297	Com Templo do Deus dos Rebanhos no nível 2 pode ativar o próximo nível, aumentando a força e a stamina dos jogadores dentro do Exército!
+1298	Com Templo do Deus dos Rebanhos no nível 3 pode ativar o próximo nível, aumentando a força e a stamina dos jogadores dentro do Exército!
+1299	Templo do Deus dos Rebanhos
+1300	Local de oferendas a Hermes, Deus dos Rebanhos. Sua velocidade é como se voasse, também é conhecido como Patrono dos mercadores! Quanto mais alto o nível do Templo do Deus dos Rebanhos, mais forte sua capacidade, pode ir ao ${npc(23561)} aumentar o nível do Templo.
+1301	Os corações têm uma sensibilidade mútua
+1302	Com a ajuda do Deus dos Rebanhos, você e sua montaria compreendem melhor a intenção do outro, aumentando a velocidade por hora da sua montaria. Quanto mais alto o nível do Templo do Deus dos Rebanhos, mais sua velocidade irá aumentar!
+1303	É necessário nível 1 do Templo do Deus dos Rebanhos para ativar, aumentando a velocidade do jogador com montaria!
+1304	É necessário nível 2 do Templo do Deus dos Rebanhos para ativar o próximo nível, aumentando a velocidade do jogador com montaria!
+1305	É necessário nível 3 do Templo do Deus dos Rebanhos para ativar o próximo nível, aumentando a velocidade do jogador com montaria!
+1306	É necessário nível 4 do Templo do Deus dos Rebanhos para ativar o próximo nível, aumentando a velocidade do jogador com montaria!
+1307	Já está no nível mais alto!
+1308	Eternidade
+1309	Terror
+1310	Brilho
+1311	Sinal de Fumaça
+1312	Gigante Vermelho
+1313	Disputa
+1314	Galáxia
+1315	Destruição
+1316	Buraco Negro
+1317	Escuridão
+1318	Caos
+1319	Combustão
+1320	Buraco Branco
+1321	Rebelião
+1322	Fáeton
+1323	Cláudia
+1324	Heitor
+1325	Martha
+1326	Cassandra
+1327	Musa
+1328	Dafne
+1329	Dulce
+1330	Jasão
+1331	Agamenon
+1332	Aquiles
+1333	Águia
+1334	Rede
+1335	Auriga
+1336	Cefeu
+1337	Fornalha
+1338	Centauro
+1339	Corvo
+1340	Triângulo
+1341	Pavão
+1342	Altar
+1343	Hércules
+1344	Lira
+1345	Cobra
+1346	Órion
+1347	Lagarto
+1348	Sagita
+1349	Erídano
+1350	Bússola
+1351	Baleia
+1352	Taça
+1353	Cérbero
+1354	Perseu
+1355	Cassiopeia
+1356	Grou
+1357	Cisne
+1358	Dragão
+1359	Andrômeda
+1360	Fênix
+1361	Pégasus
+1362	Peixes
+1363	Virgem
+1364	Libra
+1365	Escorpião
+1366	Sagitário
+1367	Capricórnio
+1368	Touro
+1369	Áries
+1370	Gêmeos
+1371	Aquário
+1372	Câncer
+1373	Leão
+1374	Santuário
+1375	Mar de Floris
+1376	Mar de Timor
+1377	Mar do Coral
+1378	Mar Adriático
+1379	Mar do Caribe
+1380	Mar do Norte
+1381	Mar Mediterrâneo
+1382	Mar Egeu
+1383	Mar Vermelho
+1384	Golfo do Áden
+1385	Golfo Pérsico
+1386	Mar Negro
+1387	Mar de Barents
+1388	Mar de Beaufort
+1389	Mar de Amundsen
+1390	Mar Branco
+1391	Kraken
+1392	Dragão Marinho
+1393	Skilla
+1394	Cavalo Marinho
+1395	Lymnades
+1396	Sirene
+1397	Sereia
+1398	Chrysaor
+1399	Atlântida
+1400	Estrela Terrestre Sinistra
+1401	Estrela Terrestre das Trevas
+1402	Estrela Terrestre da Submissão
+1403	Estrela Terrestre da Violência
+1404	Estrela Terrestre Bizarra
+1405	Estrela Terrestre da Sombra
+1406	Estrela Terrestre da Depreciação
+1407	Estrela Terrestre da Corrida
+1408	Estrela Terrestre da Ferocidade
+1409	Estrela Terrestre do Prestígio
+1410	Estrela Terrestre do Espírito
+1411	Estrela Terrestre do Mal
+1412	Estrela Terrestre do Cálculo
+1413	Estrela Terrestre da Inspeção
+1414	Estrela Terrestre do Voo
+1415	Estrela Terrestre da Besta
+1416	Estrela Terrestre da Liderança
+1417	Estrela Terrestre da Opressão
+1418	Estrela Terrestre da Causa
+1419	Estrela Terrestre do Vazio
+1420	Estrela Celeste da Besta
+1421	Estrela Celeste da Valentia
+1422	Estrela Celeste Demoníaca
+1423	Estrela Celeste da Fúria
+1424	Estrela Celeste da Eminência
+1425	Estrela Celeste do Cárcere
+1426	Estrela Celeste do Hiato
+1427	Estrela Celeste da Agilidade
+1428	Estrela Celeste do Clamor
+1429	Estrela Celeste da Nobreza
+1430	Castelo de Hades
+1431	Memórias da Guerra Santa
+1432	Acima do nível 25
+1433	Reviva a Guerra Santa do antigo Santuário, testemunhe a última grande batalha!
+1434	Dez Cavernas
+1435	Batalha das Dez Cavernas!
+1436	Crise das Doze Casas
+1437	Acima do nível 35
+1438	Apareceu uma grande quantidade de guardas do poder do Submundo nas proximidades do Santuário.Eles tentam entrar no Santuário, para destruir a estátua de Athena. Cavaleiros, precisamos que vão até a entrada do Santuário para proteger a estátua de Athena!
+1439	Tempestade em Atlântida
+1440	Acima do nível 45
+1441	Frequência de tsunami emitida, vocês precisam salvar o mundo!
+1442	Doze Casas I
+1443	Batalha das Doze Casas
+1444	Coração de Sagitário
+1445	Acima do nível 40
+1446	Batalha do Coração de Sagitário!
+1447	Apocalipse de Alraune
+1448	Acima do nível 60
+1449	O Imperador do Submundo se recuperou, a Estrela Demoníaca 108 despertou, você precisa selá-los novamente!
+1450	Réquiem do Santuário
+1451	O espírito do Cavaleiro está invadindo a força do Imperador do Submundo, não vá salvá-los!
+1452	Santuário de Gelo
+1453	Acima do nível 70
+1454	E batalha das Valquírias!
+1455	Sete Pilares I
+1456	Acima do nível 80
+1457	A Guerra dos Oceanos começou!
+1458	Sete Pilares II
+1459	Proteja Athena (60-89)
+1460	A Deusa está em perigo, vá rápido defendê-la!
+1461	Proteja Athena (90)
+1462	Acima do nível 90
+1463	Grande Contra-ataque! Deus Demoníaco do País de Gelo
+1464	Loki, o Deus Maligno do País de Gelo despertou e está tentando transformar o Mundo em um Reino de Gelo. Salvem o Mundo, Guerreiros!
+1465	Doze Casas II
+1466	Doze Casas III
+1467	Acima do nível 68
+1468	Doze Casas IV
+1469	Elegia da Deusa I
+1470	Elegia da Deusa II
+1471	Proteja Saori
+1472	Proteja Athena
+1473	[Heroico]Dez Cavernas
+1474	[Heroico]Batalha das Dez Cavernas
+1475	[Heroico]Coração de Sagitário
+1476	[Heroico]Batalha do Coração de Sagitário!
+1477	Invasão! Os Vingadores
+1478	Loki, o Deus Maligno do País de Gelo despertou, e agora junto com o Imperador do Submundo, o Imperador dos Mares e o Cavaleiro de Prata degradado estão fazendo uma conspiração. Guerreiros, dependemos de vocês!
+1479	Prece da Deusa
+1480	Quando a Guerra Santa se aproximar, a Deusa seguirá a direção das estrelas, guiando os Cavaleiros para defender o poder do mal!
+1481	Dia dos Namorados! Shiryu e Shunrei
+1482	Na noite do Dia dos Namorados, uma terrível mudança acontece no Poço dos Mortos. Solicitado a investigar o ocorrido, Shiryu acaba aprisionado no Poço dos Mortos. Shunrei, sente a dificuldade pela qual Shiryu está passando, desesperadamente vai em direção ao Poço dos Mortos, e pede sua ajuda para resgatá-lo.
+1483	[Heroico]Castelo do Graad Azul
+1484	Acima do nível 100
+1485	[Heroico]Batalha do Castelo do Graad Azul!
+1486	[Heroico]Castelo de Hades
+1487	[Heroico]Batalha do Castelo de Hades!
+1488	Despertar! Seis Existências de Shaka
+1489	Acima do nível 30
+1490	O Cavaleiro de Ouro de Virgem sentiu que não demoraria até acontecer a batalha da Guerra Santa no Jardim das Árvores Gêmeas Salas. Para fazer com que mais Cavaleiros pudessem compreender o oitavo sentido, ele decidiu enviá-los à Ilusão do Jardim das Árvores Gêmeas Salas através do Ciclo das Seis Existências, podendo assim entender os fundamentos do Oitavo Sentido do Cosmo. Jovens Cavaleiros! Para se prepararem para a Guerra Santa, aceitem bravamente o desafio de Shaka!
+1491	Memórias de Dohko
+1492	Um dia a mais de 200 anos atrás, na véspera da Guerra Santa, o céu silencioso foi rasgado por um trovão negro. Uma terrível figura surgiu em meio à ventania - era Hades, Imperador do Submundo. Espalhados pelas proximidades do Santuário, os Cavaleiros de Ouro imediatamente foram até o local da Deusa Athena, a Guerra Santa havia começado...
+1493	Avante! Desafio de Escorpião
+1494	A força do Submundo gradativamente se recuperava. Milo de Escorpião, chamado no Santuário de "Luz do Sol da Grécia" decidiu fazer uma prova com a nova geração de Cavaleiros. Esse Cavaleiro de Ouro com seu famoso Agulha Escarlate - Antares, de que modo ele irá fazer sua prova? A nova geração de Cavaleiros do Santuário aguardam ansiosamente...
+1495	Aproximação! Crise de Sagitário
+1496	Thanatos, o Deus da Morte, percebeu que a Alma de Aioros pairava pela Casa de Sagitário. Por isso, entrou silenciosamente na Casa e usou seu grande poder para aprisionar o Cosmo de Aioros e levá-lo ao Abismo do Submundo. No momento decisivo, a Deusa Athena sentiu uma transformação estranha vinda da Casa de Sagitário. Para evitar a conspiração do Deus da Morte, enviou imediatamente corajosos Cavaleiros para lá.
+1497	Nevasca! Defendendo a árvore de Natal
+1498	O Papai Noel preparou muitos presentes para as pessoas, este deveria ser um feriado feliz, mas o mal está por toda parte. Um grupo de ladrões formado pelo Mundo Marinho e pelo Submundo planeja roubar os presentes de Natal. Corajosos jovens da Justiça, vão rápido ajudar o Papai Noel a se defender do mal, protejam nossos presentes!
+1499	Eventos Mensais
+1500	O poder do Submundo se aproveita da luz fraca da noite para invadir o Santuário. Assim que ficam sabendo, os Cavaleiros vão atacar os Soldados do Submundo. Os Cavaleiros se apressam, mas ficam surpresos ao descobrir que uma figura familiar já está protegendo o local.A alma de Shura, Cavaleiro de Ouro de Capricórnio, ainda luta bravamente para defender o Santuário...
+1501	Sonata Infernal
+1502	Através de esforços incansáveis, finalmente conseguiu entrar no Submundo. Adiante, ainda há uma batalha cruel esperando por você! À luta! Guerreiros.
+1503	Borboletas do Submundo
+1504	Flor canibal misteriosa do submundo, rosas vermelhas sedutoras, cinco pessoas de pedra estão fazendo uma cerimônia misteriosa. A passagem para o submundo está prestes a se abrir, os cavaleiros de Athena devem destruir a cerimônia!
+1505	Aquário! Truque mais forte
+1506	Nas vésperas da aproximação da Guerra Santa, o longo silêncio da Casa de Aquário foi interrompido pelo Cosmo horrorizado queimando. O jovem Cavaleiro se apressou até a Casa de Aquário, mas descobriu que o Cavaleiro de Ouro Camus já estava morto ali. Mas dessa vez, foi para o Cavaleiro de Ouro de Aquário ensinar o truque mais forte ao Cavaleiro da nova geração...
+1507	Peixes! Rosa VS Flor Demoníaca
+1508	As rosas que circundam a Casa de Peixes são a defesa mais importante de todas as Doze Casas de Ouro. São como Afrodite de Peixes, não apenas bonitas, mas também fatais. Mas o poder do Submundo não vai desistir de invadir a Terra. Dessa vez, o Imperador do Submundo enviou a Estrela Celeste Demoníaca, Queen, e sua Flor Demoníaca para entrar na Casa de Gêmeos. A Flor Demoníaca está incessantemente destruindo as rosas, na tentativa de quebrar a proteção das rosas da Casa de Peixes
+1509	Ressurreição! Guerreiros mortos
+1510	O Marina morto e o Cavaleiro de Prata se juntaram à Estrela Celeste da Fúria, Radamanthys, para defender o Submundo. Cavaleiros heroicos, invadam o Submundo, lutem!
+1511	Mito do Grande Coliseu (Nv60-89)
+1512	Mu de Áries, através de suas próprias memórias, criou esse campo de treinamento. Neste espaço caótico, você vai participar de uma chave de grupo com os Cavaleiros de Ouro antecessores e com os Espectros.
+1513	Mito do Grande Coliseu (Nv90)
+1514	Ânfora Selada
+1515	Acima do nível 50
+1516	A Deusa Athena foi sequestrada novamente pelo Espírito do Imperador dos Mares e levada ao Pilar dos Sete Mares, mas por que "novamente"?
+1517	Ânfora Selada (Nv60-89)
+1518	Ânfora Selada (Nv90)
+1519	Áries! A Grande Luta de Mestre e Discípulo
+1520	Mu de Áries e seu Aprendiz Kiki estão preparando uma prova para os Cavaleiros, a parede de cristal resistente e Kiki desobediente causam problema, realmente dão dor de cabeça!
+1521	Tsunami em Atlântida
+1522	Conflito das Doze Casas
+1523	Acima do nível 20
+1524	Desafio de Ouro
+1525	Esta direção leva ao caminho dos Cavaleiros de Ouro, siga em frente! Três provas seguidas esperam você e seu companheiro, estão prontos?
+1526	Gêmeos! Confronto entre o Bem e o Mal
+1527	A angústia de Gêmeos não termina, no seu coração o bem e o mal são um tormento incessante, desde o princípio. Corajoso jovem da Justiça, ajude Gêmeos a eliminar o mal do seu coração, leve-o para sempre para o lado da Justiça!
+1528	Desafio dos Sonhos
+1529	Shiryu ele... Shiryu está em perigo, rápido... Vá rápido ajudá-lo
+1530	Festival de Outono! Espectros derrotados
+1531	O Deus do Sonho lidera um grupo de Espectros para armar uma emboscada no Campo de Batalha do céu para atacar os Cavaleiros. Porém, os Coelhos do Festival de Outono descobriram e os avisaram. Esses coelhos prepararam um bolo de lua com receita secreta, que faz com que os Cavaleiros se tornassem poderosos. Vamos derrotar os Espectros!
+1532	Festival Dungeon
+1533	Todos os 365 dias do ano, há festivais diferentes! Não importa que dia seja hoje, que tipo de desafios serão enfrentados! Desejo-lhe tudo de bom, boas festas!
+1534	Dia de Ação de Graças! Quem mexeu no meu peru?
+1535	No Dia de Ação de Graças, a Senhorita Saori quis agradecer o grande esforço dos Cavaleiros, por isso decidiu dar uma festa com muitas iguarias em sua mansão. Ela não esperava que um grupo de pessoas que não foram convidadas invadisse a festa e roubasse a torta de abóbora e o peru...
+1536	Dilema do Papai Noel
+1537	Papai Noel veio à Terra trazer os presente, não esperava encontrar 追堵 de poder do mal. Tentou roubar seus presentes e acabar com esse lindo feriado...
+1538	Dez Cavernas (3 pessoas)
+1539	Coração de Sagitário (3 pessoas)
+1540	Doze Casas I (3 pessoas)
+1541	Doze Casas II (3 pessoas)
+1542	Doze Casas III (3 pessoas)
+1543	Acima do nível 55
+1544	Doze Casas IV (3 pessoas)
+1545	Santuário de Gelo (3 pessoas)
+1546	Sete Pilares I (3 pessoas)
+1547	Sete Pilares II (3 pessoas)
+1548	[Heroico]Dez Cavernas (3 pessoas)
+1549	[Heroico]Coração de Sagitário (3 pessoas)
+1550	Dohko VS Shion
+1551	O tempo voltou até aquele instante em que Shion invadiu as Doze Casas com os Espectros. Ajude o Mestre Dohko a confrontar seu antigo companheiro de luta —— junte-se a ele e desafie o igualmente forte, Shion de Áries.
+1552	[Evento]MAX! Meteoro Negro
+1553	A Areia do Tempo começou a fluir, na Ilusão da Caixa de Pandora, derrote essa miragem! Você sabe que é aquela estrela incomparável!
+1554	[Evento]MAX! Furacão das Trevas
+1555	[Evento]MAX! Explosão Galáctica
+1556	[Evento]MAX! Sinfonia Final
+1557	[Evento]MAX! Destruição Máxima
+1558	[Evento]MAX! Buraco Negro
+1559	[Evento]Caminho da Tormenta
+1560	Deus transformou-se na estrada, e constantemente experimentar uma maior avanço it!
+1561	Sombra Transcendente!
+1562	A Terra está sob sombras, o que aconteceu?
+1563	Doze Casas I
+1564	Guerreiros, vão receber a prova dos 12 Cavaleiros de Ouro Divinos!
+1565	Doze Casas II
+1566	Doze Casas III
+1567	Teste de Ouro
+1568	Desafio do Destino
+1569	Escute os ensinamentos da Deusa, aceite o Desafio do Destino!
+1570	Teste de Ouro
+1571	Truque do Deus do Sonho
+1572	Truque do Deus do Sonho, você precisa decifrá-lo!
+1573	Guerra! Linha de Frente de Câncer!
+1574	Durante a passagem da Casa de Câncer, um grande número de tropas do Submundo veio à Terra das Constelações, na tentativa de ocupá-la. Guerreiros, vão à luta!
+1575	Batalha! Presas de Leão
+1576	Aqueles que foram exilados na Estrada Esquecida abandonaram a fé na Deusa. Como guardião da Estrada Esquecida, o Cavaleiro de Ouro Aioria recebeu ordens para acabar com esta rebelião!
+1577	Dia das Bruxas! Abóbora louca
+1578	No Castelo de Hades os fantasmas se agitam, será uma nova conspiração do Imperador do Submundo? Felizmente, o Santuário está preparado para lidar com esses fantasmas com Bombas de Abóbora! Vamos bombardear tudo!
+1579	Câncer! Zumbis chegaram
+1580	No Castelo de Hades, durante um longo tempo as almas errantes entravam no corpo dos mortos, transformando-se em zumbis terríveis. O Máscara da Morte de Câncer tem experiência em lidar com zumbis, ele permitirá que um Cavaleiro utilize-se da força dele para derrotar os zumbis. mas o Máscara da Morte também prega algumas peças, e às vezes pode transformar algum Cavaleiro em zumbi.
+1581	没有仇敌，无需使用仇敌追踪道具
+1582	拒绝军团申请
+1583	确定花费500000金币创建军团？
+1584	玩家等级需要达到30级
+1585	或金币500000
+1586	1 申请者需是军团长\r2 当前没有军团基地\r3 申请时间在每周二到每周日\r3 （注：每周二维护后上周活跃度200名内军团可申请）
+1587	成功竞拍上了%s，花费了%I64d的金币
+1588	您的金币不足
+1589	加价(%I64d金币)
+1590	银河争霸赛报名尚未开启，开启时间每周二晚19点%s
+1591	战神星空
+1592	银河争霸赛胜利奖金（团长）
+1593	竞拍星域 %s 失败，退还%s%s
+1594	防守星域 %s 胜利，作为团长，你获得战利品 %s%s
+1595	防守星域 %s 胜利，作为团员，你获得战利品 %s%s
+1596	进攻星域 %s 胜利，返回竞拍的%s%s
+1597	    ①获胜条件\r    ·进攻方获胜：破坏蓝方核心水晶\r    ·防守方获胜：破坏红方核心水晶或战斗时间结束时，蓝方核心水晶没有被破坏\r    ②水晶介绍\r    ·核心水晶：最重要的水晶，位于基地内，当对应阵营的防御水晶、能量水晶都被破坏时，核心水晶才能够被攻击\r     ·防御水晶：结界守护水晶，位于本方基地的外围一侧，战斗开始后才可以被攻击，不破坏无法进入对方基地\r    ·能量水晶：同防御水晶，位置在本方基地外围的另一侧\r    ·中央传送水晶：中立的黄色水晶，位于银河争霸赛中央区域，最后一击的玩家所属阵营获得占领权，有传送水晶的一方可以通过基地内中间传送区直接传送至中央区域\r    ③战斗对象\r    面对无归属的星域时，会与怪物进行pve战斗，当进攻已被占领的星域时，会与防守玩家进行pvp战斗\r    当军团占领星域超过10个时，可能会开启异界入侵，大量怪物入侵军团的星域。若防守失败，军团将失去被入侵的星域。占领星域越多，可能出现异界入侵的场次也越多。\r    ④参与限制\r    军团外围成员无法参与银河争霸。银河争霸战场中被降级为外围成员或被踢出军团的玩家，会被移出战场。\r    ⑤射手战车\r    最多同时拥有三辆射手战车，主要用于破坏对方的水晶，需要在本基地内点击战车变身\r    ⑥防御塔\r    在银河争霸赛基地中找NPC遗迹之魂领取防御塔，分为“耀光塔”和“霜冻塔”，领取后需要等待一段时间才能兑换，对空置的遗迹基座使用该道具可以召唤出本方的防御塔。\r    ⑦军团突袭\r    当军团长（代理军团长）位于银河争霸赛地图时，界面中下方会出现一个军团传送的图标，用于发起突袭制造出临时的传送门\r    ⑧不灭意志\r    当军团防守自己的最后一片领土时，会触发不灭意志.浴火凤凰，帮助玩家进行防守。\r    主城和小强星域不会触发不灭意志。\r    ⑨主场优势\r    当军团在己方阵营的星域战斗时，己方水晶血量翻倍。双方都是主场时，则都不会触发主场优势。\r    ⑩召唤卡\r    召唤卡召唤的英雄会对自身周围15米内的敌方水晶造成伤害。\r
+1598	    ①竞拍资格\r    ·军团加入阵营后才能参加银河争霸赛；阵营引导npc位置：圣域（-265,110）；\r    ·军团排位赛处于金组及以上的军团才能参与银河争霸竞拍；\r    ②竞拍规则\r    ·无占领星域的军团，可以竞拍本阵营最低阶星域和圣域白银星域,限竞拍一块；\r    ·有占领星域的军团，可以竞拍与当前占有星域相邻的任意星域，每周限竟拍三块；\r    ·有占领星域且本阵营主城已被占领的军团，可竞拍任意战神星空的白银级星域。拥有小强星域的军团在本阵营主城已被占领后，可直接竞拍战神星空的黄金级星域。在战神星空占领了星域后，须依连接关系竞拍相邻星域。\r    ·太阳神空的情况同战神星空。\r    ·主城与所有本星空黄金级星域相连，五小强星域与所有其他星域相连；\r    ·军团可依连接关系竞拍本阵营主城、战神星空主城与太阳神星空的主城，但不能竞拍其他阵营主城；\r    ·军团最多只能占领或竞拍一个主城；军团只能占领或竞拍一个青铜星域；\r    ③竞拍时间\r    ·竞拍星域窗口期为周四9:00->周四21:00，如发生抢点溢价，则最多可顺延至周四22：00；\r    ·所有星域的竞价结束后，会产生星域对战时间安排表；\r    ④竞拍金返还\r    ·未获得进攻权限的军团将全额返还竞拍金；\r    ·成功占领星域，返还90%竞拍金给进攻方；竞拍金额超过5亿时,返还4.5亿；\r    ·成功防守星域，防守方军团长和军团成功共获得进攻方90%竞拍金；竞拍金额超过5亿时,返还4.5亿；\r    ⑤其他\r    ·军团退出当前阵营时，失去所有已占星域；军团有竞拍星域时无法退出当前阵营；\r
+1599	    当军团占领领土后，根据占领的领土获得奖励。成员有自己的奖励，团长/代理军团长有额外的奖励，领奖时间是周一10：00-周五19：00，领奖人需要满40级，军团长/代理军团长领取特殊奖需要80级。\r    军团普通成员领奖的次数与帮派成员上限相同，即军团上限人数为200人，则每日只能领取200人次的普通奖励。\r    ①军团成员奖品如下：（绑定） \r    五小强星域：星云特产×6，星云宝袋×2 \r    白银星域：星云特产×4，星云宝袋×2\r    黄金星域：星云特产×10，星云宝袋×2\r    主城：星云特产×10 星云宝袋×2\r    ②军团长奖品如下：\r    繁荣度不超过1000的军团，依每100繁荣度军团长与代理军团长分别可获得1个繁荣度宝袋。\r    繁荣度超过1500的军团，军团长与代理军团长可额外获得繁荣度秘宝。随繁荣度增加，获得繁荣度宝袋的比率逐渐降低，获得繁荣度秘宝的比率逐渐提高。\r    占领主城的军团，会额外获得5个星云秘宝\r    ③军团长技能卡\r    占领非主城星域的军团每周可领取召唤卡任务,在一场银河争霸战场内召唤本阵营强力英雄协助战斗。\r    占领圣域、亚特兰蒂斯与哈迪斯城的军团每周可领取化身卡任务，在一场银河争霸赛场内化身为神，对敌人照成毁灭性打击。\r    占领主城的军团每周另可获得一张化身卡，可在银河争霸及银河斗技场外使用，化身为神，对敌人照成巨大的伤害。\r    ④有关物品的说明\r    星云特产：使用后获得绑定币和经验，与使用者级别有关；每天限30次，40级方可使用\r    星云宝袋：守护星装备兑换券×2，时空之钥×1，星魂精华×2，每天限6次，40级方可使用\r    星云秘宝：大量绑定币，神魔之血×5，时空之钥×5，神器之灵×5，每天限2次，60级方可使用\r    繁荣度宝袋：大量绑定币，黄金之血×5，白银之晶×5，星魂精华×5，每天限2次，60级方可使用\r    繁荣度秘宝：大量绑定币，神魔之血×5，神器之灵×5，星魂精华×5，每天限2次，60级方可使用\r    多余的物品，比如星云特产，星云宝袋可以卖店，售价分别为20000/50000。\r
+1600	    ①军团须先加入三大阵营中的一个，之后才能加入或创建联盟。\r    ②联盟可在未占领三大主城的军团间形成。占领辉煌之宫的军团与占领战神殿的军团不可相互结盟。联盟中的军团占领主城时，会自动退出联盟。\r    ③军团战力在服务器前两名的无法和其他军团结盟。联盟中的军团战力达到服务器前两名时，会自动退出联盟。\r    ④联盟中的军团需先退出联盟，才能改变军团阵营。\r    ⑤军团联盟的军团数上限是4个。\r    ⑥联盟中的军团成员可加入同联盟其他军团的银河争霸比赛，协助战斗。\r    ⑦联盟中的军团成员领取银河争霸“成员奖励”时，依联盟占领星域情况获得奖励。(上周结束时--周日24点，军团已在本联盟内方可生效。)\r
+1601	竞价失败，金币不足
+1602	领取每日任务失败，数量已满
+1603	竞价失败，排位赛分组在金组以下
+1604	战神阵营（无）
+1605	太阳神阵营（无）
+1606	成功任命了代理教皇
+1607	圣域伟大而神圣的教皇%s上线了，圣斗士们皆流露出敬畏的神情。
+1608	需要500000金币
+1609	您所在的军团没有基地，每周活跃度前200名的军团才可以申请基地哦
+1610	其他基地只能在晚上18点到凌晨2点之间进入
+1611	
+1612	猎犬座星域
+1613	天枰座星域
+1614	勒托星域
+1615	达芙妮星域
+1616	卡珊德拉星域
+1617	赫尔墨斯星域
+1618	辉煌之宫
+1619	15级以上
+1620	女神！仲夏的神祈
+1621	摩羯！修罗的剑道
+1622	复生！大斗技场神话
+1623	国庆！拯救雅典娜
+1624	冥王哈迪斯趁着圣斗士们庆祝国庆节之际将女神雅典娜掳走。为了将女神救回，众圣斗士踏上了营救雅典娜的道路。待到众人终于追上冥王，却发现冥王哈迪斯和女神雅典娜变成了另一番模样。

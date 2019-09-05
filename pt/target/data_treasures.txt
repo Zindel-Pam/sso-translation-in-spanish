@@ -1,0 +1,1158 @@
+0	Loja
+1	Loja VIP
+2	Loja de Trajes
+3	Fortificação
+4	Luva de Gatinho
+5	Refinamento
+6	Escudeiro
+7	Remodelar
+8	Tênis Extravagante
+9	Espírito da Armadura
+10	Anima
+11	Astrologia
+12	Luva de Gatinho
+13	Refinamento
+14	Escudeiro
+15	Remodelar
+16	Tênis Extravagante
+17	Espírito da Armadura
+18	Anima
+19	Astrologia
+20	Troca
+21	Elixir
+22	Luva de Gatinho
+23	Aprimoramento
+24	Astrologia
+25	Relíquia
+26	Espírito da Armadura
+27	Remodelar
+28	Zodíaco de Ouro
+29	Aprimoramento Divino
+30	Divindade
+31	Espelho Quebrado
+32	Utilizado para remodelar a forma do próprio personagem.
+33	Poção de Afrodite
+34	Utilizado para trocar para a pose de um Signo diferente
+35	Disfarce de Hermes
+36	Após usar, poderá trocar de gênero.
+37	Camiseta casual, design moderno, acabamento fino
+38	Camiseta casual, design moderno, acabamento fino
+39	Aprimoramento
+40	Astrologia
+41	Relíquia
+42	Espírito da Armadura
+43	Remodelar
+44	Zodíaco de Ouro
+45	Aprimoramento Divino
+46	Divindade
+47	Espelho Quebrado
+48	Utilizado para remodelar a forma do próprio personagem.
+49	Poção de Afrodite
+50	Utilizado para trocar para a pose de um Signo diferente
+51	Disfarce de Hermes
+52	Após usar, poderá trocar de gênero.
+53	Troca de Gênero
+54	Utilizado na troca da montaria Tempestade por Cavalo de Pégasus.
+55	Punho da Justiça
+56	Camiseta casual, design moderno, acabamento fino
+57	GAME OVER
+58	Camiseta casual, design moderno, acabamento fino
+59	Cruz Vermelha
+60	Calça casual, combina com tudo
+61	Calça Cinza
+62	Calça casual, combina com tudo
+63	Calçado casual, prático e confortável
+64	Tênis Roxo
+65	Calçado casual, prático e confortável
+66	Tênis Verde
+67	É possível se apaixonar durante o halloween, não é?
+68	Calçado casual, prático e confortável
+69	Tênis Roxo
+70	Calçado casual, prático e confortável
+71	Tênis Verde
+72	É possível se apaixonar durante o halloween, não é?
+73	É possível se apaixonar durante o halloween, não é?
+74	É possível se apaixonar durante o halloween, não é?
+75	Luva Black Skull
+76	É possível se apaixonar durante o halloween, não é?
+77	Botas Black Skull
+78	É possível se apaixonar durante o halloween, não é?
+79	Moda esportiva confortável e estilosa
+80	Moda esportiva confortável e estilosa
+81	Jaqueta Colorida
+82	Moda esportiva confortável e estilosa
+83	Moda esportiva confortável e estilosa
+84	Moda esportiva confortável e estilosa
+85	Jaqueta Extravagante
+86	Moda esportiva confortável e estilosa
+87	Moda esportiva confortável e estilosa
+88	Moda esportiva confortável e estilosa
+89	Moda esportiva confortável e estilosa
+90	Moda esportiva confortável e estilosa
+91	Moda esportiva confortável e estilosa
+92	Moda esportiva confortável e estilosa
+93	Tênis Colorido
+94	Parte da fantasia de gatinho
+95	Parte da fantasia de gatinho
+96	Moda esportiva confortável e estilosa
+97	Tênis Extravagante
+98	Parte da fantasia de gatinho
+99	Parte da fantasia de leopardo
+100	Parte da fantasia de leopardo
+101	Parte da fantasia de Doraemiau
+102	Parte da fantasia de Doraemiau
+103	Traje Doraemiau (M)
+104	Parte da fantasia de gatinho
+105	Luva de Gatinho
+106	2x EXP de centro de energia
+107	增加双倍经验时间60分钟。
+108	Hiper Poção IV
+109	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+110	Hiper Poção III
+111	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
+112	Sangue de Poseidon*20
+113	在星铸鳞衣时可提升效果。
+114	Sangue de Ouro*20
+115	在星铸黄金圣衣及主角圣衣时可提升效果。
+116	Sangue de Bronze*20
+117	在星铸青铜圣衣及白银圣衣时可提升效果。
+118	Sangue de Prata*20
+119	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+120	Sangue de Hades*20
+121	在星铸冥·圣衣时可提升效果。
+122	Punho da Justiça
+123	Camiseta casual, design moderno, acabamento fino
+124	GAME OVER
+125	Camiseta casual, design moderno, acabamento fino
+126	Cruz Vermelha
+127	Camiseta casual, design moderno, acabamento fino
+128	Calça Cinza
+129	Calça casual, combina com tudo
+130	Calça Azul Marinho
+131	Calça casual, combina com tudo
+132	Calça Azul
+133	Calça casual, combina com tudo
+134	Tênis Azul
+135	Calçado casual, prático e confortável
+136	Tênis Roxo
+137	Calçado casual, prático e confortável
+138	Tênis Verde
+139	Calçado casual, prático e confortável
+140	Traje Black Skull
+141	É possível se apaixonar durante o halloween, não é?
+142	Luva Black Skull
+143	É possível se apaixonar durante o halloween, não é?
+144	Botas Black Skull
+145	É possível se apaixonar durante o halloween, não é?
+146	Capacete Black Skull
+147	É possível se apaixonar durante o halloween, não é?
+148	Jaqueta Colorida
+149	Moda esportiva confortável e estilosa
+150	Jaqueta Simples
+151	Moda esportiva confortável e estilosa
+152	Jaqueta Extravagante
+153	Moda esportiva confortável e estilosa
+154	Bermuda Colorida
+155	Moda esportiva confortável e estilosa
+156	Bermuda Simples
+157	Moda esportiva confortável e estilosa
+158	Bermuda Extravagante
+159	Moda esportiva confortável e estilosa
+160	Tênis Colorido
+161	Moda esportiva confortável e estilosa
+162	Tênis Simples
+163	Moda esportiva confortável e estilosa
+164	Tênis Extravagante
+165	Moda esportiva confortável e estilosa
+166	Traje de Gatinho
+167	Parte da fantasia de gatinho
+168	Traje de Leopardo
+169	Parte da fantasia de leopardo
+170	Traje Doraemiau (M)
+171	Parte da fantasia de Doraemiau
+172	Luva de Gatinho
+173	Parte da fantasia de gatinho
+174	Luva de Leopardo
+175	Parte da fantasia de leopardo
+176	Luva Doraemiau (M)
+177	Parte da fantasia de Doraemiau
+178	Botas de Gatinho
+179	可爱的深蓝色猫爪时装鞋子，男生专用。
+180	Botas de Leopardo
+181	可爱的豹纹猫爪时装鞋子，男生专用。
+182	Botas Doraemiau (M)
+183	可爱的天蓝色猫爪时装鞋子，男生专用。
+184	Chapéu de Gatinho
+185	可爱的深蓝色猫爪时装头饰，男生专用。
+186	Chapéu de Leopardo
+187	可爱的豹纹猫爪时装头饰，男生专用。
+188	Chapéu Doraemiau (M)
+189	可爱的天蓝色猫爪时装头饰，男生专用。
+190	Biquíni Atraente
+191	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
+192	Sandálias Atraentes
+193	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
+194	Biquíni Brisa do Mar
+195	A brisa do mar deixa as pessoas mais felizes!
+196	Sandálias Brisa do Mar
+197	A brisa do mar deixa as pessoas mais felizes!
+198	Biquíni Charmoso
+199	Charme misterioso, um estilo diferente!
+200	Sandálias Charmosas
+201	Charme misterioso, um estilo diferente!
+202	Biquíni Fofo
+203	A fofura acalenta o coração das pessoas
+204	Sandálias Fofas
+205	A fofura acalenta o coração das pessoas
+206	Biquíni Descolado
+207	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+208	Sandálias Descoladas
+209	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+210	Biquíni Arco-Íris
+211	雨后天空，沙滩彩虹！美景美不胜收~
+212	Sandálias Arco-Íris
+213	雨后天空，沙滩彩虹！美景美不胜收~
+214	Traje Pink Skull
+215	É possível se apaixonar durante o halloween, não é?
+216	Luva Pink Skull
+217	É possível se apaixonar durante o halloween, não é?
+218	Botas Pink Skull
+219	É possível se apaixonar durante o halloween, não é?
+220	Capacete Pink Skull
+221	É possível se apaixonar durante o halloween, não é?
+222	Jaqueta Colorida
+223	Moda esportiva confortável e estilosa
+224	Jaqueta Simples
+225	Moda esportiva confortável e estilosa
+226	Jaqueta Extravagante
+227	Moda esportiva confortável e estilosa
+228	Minissaia Preta
+229	Moda esportiva confortável e estilosa
+230	Minissaia Bordô
+231	Moda esportiva confortável e estilosa
+232	Minissaia Estampada
+233	Moda esportiva confortável e estilosa
+234	Tênis Colorido
+235	Moda esportiva confortável e estilosa
+236	Tênis Simples
+237	Moda esportiva confortável e estilosa
+238	Tênis Extravagante
+239	Moda esportiva confortável e estilosa
+240	Traje de Ratinha
+241	Parte da fantasia de ratinha
+242	Traje de Onça
+243	Parte da fantasia de onça
+244	Traje Doraemiau (F)
+245	Parte da fastasia de Doraemiau
+246	Meia de Ratinha
+247	Parte da fantasia de ratinha
+248	Meia de Onça
+249	可爱的豹纹猫爪时装长袜，女生专用。
+250	Meia Doraemiau
+251	可爱的天蓝色猫爪时装长袜，女生专用。
+252	Luva de Ratinha
+253	Parte da fantasia de ratinha
+254	Luva de Onça
+255	可爱的豹纹猫爪时装手套，女生专用。
+256	Luva Doraemiau (F)
+257	可爱的天蓝色猫爪时装手套，女生专用。
+258	Botas de Ratinha
+259	Parte da fantasia de ratinha
+260	Botas de Onça
+261	可爱的豹纹猫爪时装鞋子，女生专用。
+262	Botas Doraemiau (F)
+263	可爱的天蓝色猫爪时装鞋子，女生专用。
+264	Chapéu de Ratinha
+265	Parte da fantasia de ratinha
+266	Chapéu de Onça
+267	可爱的豹纹猫爪时装头饰，女生专用。
+268	Chapéu Doraemiau (F)
+269	可爱的天蓝色猫爪时装头饰，女生专用。
+270	Atadura
+271	Te deixa com um visual amedrontador
+272	Óculos Charmoso
+273	Charme misterioso, um estilo diferente!
+274	Óculos Encantador
+275	Encantador e inesquecível!
+276	Óculos Elegante
+277	Quanta elegância!
+278	Óculos Atraente
+279	Vermelho é a cor da paixão!
+280	Insígnia das Nuvens
+281	换取天马座·翼装的必要物品。
+282	Sangue Demoníaco*20
+283	传说是神魔的血液精华，可以极大提升聚能的稳定性。
+284	Sangue Demoníaco
+285	传说是神魔的血液精华，可以极大提升聚能的稳定性。
+286	Sangue de Bronze*20
+287	在星铸青铜圣衣及白银圣衣时可提升效果。
+288	Sangue de Bronze
+289	在星铸青铜圣衣及白银圣衣时可提升效果。
+290	Sangue de Ouro*20
+291	在星铸黄金圣衣及主角圣衣时可提升效果。
+292	Sangue de Ouro
+293	在星铸黄金圣衣及主角圣衣时可提升效果。
+294	Livro do Oráculo de Athena
+295	开启最高阶的小宇宙占星神喻，高阶星魂不再是梦。
+296	Hiper Poção IV
+297	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+298	Hiper Poção III
+299	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
+300	Hiper Poção I
+301	回复少量生命。
+302	Energético I*20
+303	使用后可以获得500魔盒能量。
+304	Energético I
+305	使用后可以获得500魔盒能量。
+306	Potencializador*20
+307	使用后可以获得400生产精力。
+308	Potencializador
+309	使用后可以获得400生产精力。
+310	Expansão do Inventário
+311	扩充背包位置栏6格。
+312	Expansão do Armazém
+313	扩充仓库位置栏6格。
+314	Megafone Mundial x100
+315	在世界频道发言时消耗。40级以上可开启。
+316	Megafone Mundial x10
+317	在世界频道发言时消耗。40级以上可开启。
+318	2x EXP de centro de energia
+319	增加双倍经验时间60分钟。
+320	Dado do Destino*20
+321	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+322	Dado do Destino
+323	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+324	Coração Eclíptica I
+325	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+326	Coração Eclíptica II
+327	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+328	Coração Eclíptica III
+329	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+330	Coração Eclíptica IV
+331	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+332	Coração Eclíptica V
+333	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+334	Troca de equipamento[Escudeiro]
+335	收集一定数量可以兑换守护星装备。
+336	Bênção da Deusa☆Áries(II)
+337	开启可获得女神的恩赐声望，并额外获得女神赐予的物品奖励。
+338	Luz da Determinação de Métis
+339	聪慧女神的意志使你能重新学习战斗技能。
+340	Presente de Áries II (Sublime)
+341	每人限制使用一次的超值大礼包。
+342	Presente de Áries II (Supremo)
+343	每人限制使用一次的超值大礼包。
+344	Sangue de Poseidon*20
+345	在星铸鳞衣时可提升效果。
+346	Sangue de Ouro*20
+347	在星铸黄金圣衣及主角圣衣时可提升效果。
+348	Sangue de Bronze*20
+349	在星铸青铜圣衣及白银圣衣时可提升效果。
+350	Sangue de Prata*20
+351	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+352	Sangue de Hades*20
+353	在星铸冥·圣衣时可提升效果。
+354	Punho da Justiça
+355	Camiseta casual, design moderno, acabamento fino
+356	GAME OVER
+357	Camiseta casual, design moderno, acabamento fino
+358	Cruz Vermelha
+359	Camiseta casual, design moderno, acabamento fino
+360	Calça Cinza
+361	Calça casual, combina com tudo
+362	Calça Azul Marinho
+363	Calça casual, combina com tudo
+364	Calça Azul
+365	Calça casual, combina com tudo
+366	Tênis Azul
+367	Calçado casual, prático e confortável
+368	Tênis Roxo
+369	Calçado casual, prático e confortável
+370	Tênis Verde
+371	Calçado casual, prático e confortável
+372	Traje Black Skull
+373	É possível se apaixonar durante o halloween, não é?
+374	Luva Black Skull
+375	É possível se apaixonar durante o halloween, não é?
+376	Botas Black Skull
+377	É possível se apaixonar durante o halloween, não é?
+378	Capacete Black Skull
+379	É possível se apaixonar durante o halloween, não é?
+380	Jaqueta Colorida
+381	Moda esportiva confortável e estilosa
+382	Jaqueta Simples
+383	Moda esportiva confortável e estilosa
+384	Jaqueta Extravagante
+385	Moda esportiva confortável e estilosa
+386	Bermuda Colorida
+387	Moda esportiva confortável e estilosa
+388	Bermuda Simples
+389	Moda esportiva confortável e estilosa
+390	Bermuda Extravagante
+391	Moda esportiva confortável e estilosa
+392	Tênis Colorido
+393	Moda esportiva confortável e estilosa
+394	Tênis Simples
+395	Moda esportiva confortável e estilosa
+396	Tênis Extravagante
+397	Moda esportiva confortável e estilosa
+398	Traje de Gatinho
+399	Parte da fantasia de gatinho
+400	Traje de Leopardo
+401	Parte da fantasia de leopardo
+402	Traje Doraemiau (M)
+403	Parte da fantasia de Doraemiau
+404	Luva de Gatinho
+405	Parte da fantasia de gatinho
+406	Luva de Leopardo
+407	Parte da fantasia de leopardo
+408	Luva Doraemiau (M)
+409	Parte da fantasia de Doraemiau
+410	Botas de Gatinho
+411	可爱的深蓝色猫爪时装鞋子，男生专用。
+412	Botas de Leopardo
+413	可爱的豹纹猫爪时装鞋子，男生专用。
+414	Botas Doraemiau (M)
+415	可爱的天蓝色猫爪时装鞋子，男生专用。
+416	Chapéu de Gatinho
+417	可爱的深蓝色猫爪时装头饰，男生专用。
+418	Chapéu de Leopardo
+419	可爱的豹纹猫爪时装头饰，男生专用。
+420	Chapéu Doraemiau (M)
+421	可爱的天蓝色猫爪时装头饰，男生专用。
+422	Biquíni Atraente
+423	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
+424	Sandálias Atraentes
+425	O charme com um ar de maturidade traz um friozinho na barriga nesse verão caloroso
+426	Biquíni Brisa do Mar
+427	A brisa do mar deixa as pessoas mais felizes!
+428	Sandálias Brisa do Mar
+429	A brisa do mar deixa as pessoas mais felizes!
+430	Biquíni Charmoso
+431	Charme misterioso, um estilo diferente!
+432	Sandálias Charmosas
+433	Charme misterioso, um estilo diferente!
+434	Biquíni Fofo
+435	A fofura acalenta o coração das pessoas
+436	Sandálias Fofas
+437	A fofura acalenta o coração das pessoas
+438	Biquíni Descolado
+439	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+440	Sandálias Descoladas
+441	阳光，沙滩，美女！和煦温暖，如沐春风啊~
+442	Biquíni Arco-Íris
+443	雨后天空，沙滩彩虹！美景美不胜收~
+444	Sandálias Arco-Íris
+445	雨后天空，沙滩彩虹！美景美不胜收~
+446	Traje Pink Skull
+447	É possível se apaixonar durante o halloween, não é?
+448	Luva Pink Skull
+449	É possível se apaixonar durante o halloween, não é?
+450	Botas Pink Skull
+451	É possível se apaixonar durante o halloween, não é?
+452	Capacete Pink Skull
+453	É possível se apaixonar durante o halloween, não é?
+454	Jaqueta Colorida
+455	Moda esportiva confortável e estilosa
+456	Jaqueta Simples
+457	Moda esportiva confortável e estilosa
+458	Jaqueta Extravagante
+459	Moda esportiva confortável e estilosa
+460	Minissaia Preta
+461	Moda esportiva confortável e estilosa
+462	Minissaia Bordô
+463	Moda esportiva confortável e estilosa
+464	Minissaia Estampada
+465	Moda esportiva confortável e estilosa
+466	Tênis Colorido
+467	Moda esportiva confortável e estilosa
+468	Tênis Simples
+469	Moda esportiva confortável e estilosa
+470	Tênis Extravagante
+471	Moda esportiva confortável e estilosa
+472	Traje de Ratinha
+473	Parte da fantasia de ratinha
+474	Traje de Onça
+475	Parte da fantasia de onça
+476	Traje Doraemiau (F)
+477	Parte da fastasia de Doraemiau
+478	Meia de Ratinha
+479	Parte da fantasia de ratinha
+480	Meia de Onça
+481	可爱的豹纹猫爪时装长袜，女生专用。
+482	Meia Doraemiau
+483	可爱的天蓝色猫爪时装长袜，女生专用。
+484	Luva de Ratinha
+485	Parte da fantasia de ratinha
+486	Luva de Onça
+487	可爱的豹纹猫爪时装手套，女生专用。
+488	Luva Doraemiau (F)
+489	可爱的天蓝色猫爪时装手套，女生专用。
+490	Botas de Ratinha
+491	Parte da fantasia de ratinha
+492	Botas de Onça
+493	可爱的豹纹猫爪时装鞋子，女生专用。
+494	Botas Doraemiau (F)
+495	可爱的天蓝色猫爪时装鞋子，女生专用。
+496	Chapéu de Ratinha
+497	Parte da fantasia de ratinha
+498	Chapéu de Onça
+499	可爱的豹纹猫爪时装头饰，女生专用。
+500	Chapéu Doraemiau (F)
+501	可爱的天蓝色猫爪时装头饰，女生专用。
+502	Atadura
+503	Te deixa com um visual amedrontador
+504	Óculos Charmoso
+505	Charme misterioso, um estilo diferente!
+506	Óculos Encantador
+507	Encantador e inesquecível!
+508	Óculos Elegante
+509	Quanta elegância!
+510	Óculos Atraente
+511	Vermelho é a cor da paixão!
+512	Insígnia das Nuvens
+513	换取天马座·翼装的必要物品。
+514	Sangue Demoníaco*20
+515	传说是神魔的血液精华，可以极大提升聚能的稳定性。
+516	Sangue Demoníaco
+517	传说是神魔的血液精华，可以极大提升聚能的稳定性。
+518	Sangue de Bronze*20
+519	在星铸青铜圣衣及白银圣衣时可提升效果。
+520	Sangue de Bronze
+521	在星铸青铜圣衣及白银圣衣时可提升效果。
+522	Sangue de Ouro*20
+523	在星铸黄金圣衣及主角圣衣时可提升效果。
+524	Sangue de Ouro
+525	在星铸黄金圣衣及主角圣衣时可提升效果。
+526	Livro do Oráculo de Athena
+527	开启最高阶的小宇宙占星神喻，高阶星魂不再是梦。
+528	Hiper Poção IV
+529	立刻恢复最大HP一半的HP量。总恢复量一千万HP。
+530	Hiper Poção III
+531	立刻恢复最大HP一半的HP量。总恢复量二百万HP。
+532	Energético I*20
+533	使用后可以获得500魔盒能量。
+534	Energético I
+535	使用后可以获得500魔盒能量。
+536	Potencializador*20
+537	使用后可以获得400生产精力。
+538	Potencializador
+539	使用后可以获得400生产精力。
+540	Expansão do Inventário
+541	扩充背包位置栏6格。
+542	Expansão do Armazém
+543	扩充仓库位置栏6格。
+544	Megafone Mundial*200
+545	在世界频道发言时消耗。
+546	Megafone Mundial*10
+547	在世界频道发言时消耗。
+548	Megafone de Anúncio*200
+549	在广播频道发言时消耗。
+550	Megafone de Anúncio*10
+551	在广播频道发言时消耗。
+552	Megafone de Anúncio
+553	在广播频道发言时消耗。
+554	2x EXP de centro de energia
+555	增加双倍经验时间60分钟。
+556	Dado do Destino*20
+557	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+558	Dado do Destino
+559	增加一次在“命运试炼”及“传记任务”后重新随机奖励的机会。
+560	Bênção da Deusa☆Áries(II)
+561	开启可获得女神的恩赐声望，并额外获得女神赐予的物品奖励。
+562	Rosas
+563	价值不菲的鲜花，可用来赠送好友。60级以上活动有掉落。
+564	Cartão de Investida
+565	神奇的物品，可直接扫荡活动副本。
+566	Coração Eclíptica I
+567	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+568	Coração Eclíptica II
+569	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+570	Coração Eclíptica III
+571	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+572	Coração Eclíptica IV
+573	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+574	Coração Eclíptica V
+575	增加守护星位置栏，不出战的守护星会对出战守护星有属性加成。
+576	Luz da Estrela Condensada*5
+577	用于换取守护星相关道具的材料。
+578	Troca de equipamento[Escudeiro]
+579	收集一定数量可以兑换守护星装备。
+580	Fragmento Bronze*5
+581	收集一定数量后，可换取青铜圣衣。20级以上活动有大量掉落。
+582	Fragmento Prata*5
+583	收集一定数量后，可换取白银圣衣。60级以上活动有大量掉落。
+584	Autorização de Armadura[Bronze]
+585	换取更高阶青铜圣衣的凭证。
+586	Autorização de Armadura[Prata]
+587	换取更高阶白银圣衣的凭证。
+588	Jade Estelar Negra*5
+589	黑暗圣衣1-10级星铸。可以兑换得到。
+590	Cristal Estelar Negro*5
+591	黑暗圣衣11-16级星铸。可以兑换得到。
+592	Esplendor Estelar Negro*5
+593	黑暗圣衣17-32级星铸。可以兑换得到。
+594	Jade Estelar*5
+595	天马座圣衣1-10级星铸。20级以上活动有大量掉落。
+596	Cristal Estelar*5
+597	天马座圣衣11-16级星铸。50级以上活动有大量掉落。
+598	Esplendor Estelar*5
+599	天马座圣衣17-32级星铸。70级以上活动有大量掉落。
+600	Poeira Estelar*5
+601	用于普通青铜圣衣星铸。30级以上活动有大量掉落。
+602	Areia Estelar*5
+603	用于普通白银圣衣星铸。50级以上活动有大量掉落。
+604	Brilho Estelar [Terra]*5
+605	用于黄金圣衣星铸。70级以上活动有大量掉落。
+606	Brilho Estelar [Fogo]*5
+607	用于黄金圣衣星铸。70级以上活动有大量掉落。
+608	Brilho Estelar [Água]*5
+609	用于黄金圣衣星铸。70级以上活动有大量掉落。
+610	Brilho Estelar [Vento]*5
+611	用于黄金圣衣星铸。70级以上活动有大量掉落。
+612	Luz Espiritual*10
+613	用于装备聚能。30级以上活动有大量掉落。
+614	Luz Espiritual+*10
+615	用于装备聚能。50级以上活动有大量掉落。
+616	Flor da Alma*10
+617	用于装备聚能。30级以上活动有大量掉落。
+618	Flor da Alma+*10
+619	用于装备聚能。50级以上活动有大量掉落。
+620	Jovem Fervoroso
+621	Avance bravamente e queime! Cosmo!
+622	Imaturo
+623	Jovem e pueril, bons tempos
+624	Bonito e Elegante
+625	Jovem belo, elegante e natural
+626	Luz Dourada
+627	A luz do sol envolve você
+628	Jovem Fofo
+629	A fofura é a justiça
+630	Maduro
+631	O tempo proporciona a maturidade
+632	Jamiel (M)
+633	Descendente do povo de Jamiel
+634	Espírito Zen
+635	O homem mais próximo de Deus
+636	Pinta Embaixo do Olho
+637	A beleza dele pode competir com o sol e a lua
+638	Terror e Justiça
+639	A justiça pode ser terrível
+640	Jovem Fervoroso
+641	Jovem de coração fervoroso
+642	Pégasus
+643	Penteado de Seiya de Pégasus
+644	Dragão
+645	Penteado de Shiryu de Dragão
+646	Cisne
+647	Penteado de Hyoga de Cisne
+648	Andrômeda
+649	Penteado de Shun de Andrômeda
+650	Fênix
+651	Penteado de Ikki de Fênix
+652	Áries
+653	Penteado de Mu de Áries
+654	Virgem
+655	Penteado de Virgem de Shaka
+656	Peixes
+657	Penteado de Afrodite de Peixes
+658	Câncer
+659	Penteado de Máscara da Morte de Câncer
+660	Moça Fofa
+661	Eu e meu Pet ficamos bobos com tanta fofura!
+662	Moça Inocente
+663	Para quem tem um coração puro
+664	Imperatriz
+665	Tem que me chamar de Imperatriz!
+666	Moça Charmosa
+667	Com um sorriso a cidade se curva, com mais outro o país todo também
+668	Valente e Brilhante
+669	Cheia de espírito heroico, que mulher mais peculiar!
+670	Moça do Lírio
+671	Moça independente e autossuficiente, parece um lírio calmo e contido
+672	Jamiel (F)
+673	Descendente do povo de Jamiel
+674	Moça das Neves
+675	Elegante e nobre, quem, senão eu?
+676	Moça Delicada
+677	Delicada como uma rosa
+678	Último Mistério
+679	都说了叫神秘了，那意思就你猜啊~~
+680	Pureza Impecável
+681	Penteado impecável
+682	Maria-Chiquinha
+683	Para quem tem um coração puro
+684	Encanto Misterioso
+685	O mistério é o encanto de uma mulher!
+686	Flor Selvagem
+687	路边的野花你快去采~
+688	Bolinhos Fofinhos
+689	Dois bolinhos são melhores do que um!
+690	Coque Jovial
+691	Penteado jovial e descolado
+692	Charme Natural
+693	Beleza natural como a de um hibisco
+694	Sábia e Delicada
+695	Ela sabe que livros contém tesouros
+696	Bonita e Clássica
+697	Bela, única e independente
+698	Elegância Graciosa
+699	A elegância é algo que se cultiva
+700	Fragmento de Estola
+701	集齐一定数量后，可用于换取绶带的物品。
+702	Jovem Fervoroso
+703	Avance bravamente e queime! Cosmo!
+704	Imaturo
+705	Jovem e pueril, bons tempos
+706	Bonito e Elegante
+707	Jovem belo, elegante e natural
+708	Luz Dourada
+709	A luz do sol envolve você
+710	Jovem Fofo
+711	A fofura é a justiça
+712	Maduro
+713	O tempo proporciona a maturidade
+714	Jamiel (M)
+715	Descendente do povo de Jamiel
+716	Espírito Zen
+717	O homem mais próximo de Deus
+718	Pinta Embaixo do Olho
+719	A beleza dele pode competir com o sol e a lua
+720	Terror e Justiça
+721	A justiça pode ser terrível
+722	Jovem Fervoroso
+723	Jovem de coração fervoroso
+724	Pégasus
+725	Penteado de Seiya de Pégasus
+726	Dragão
+727	Penteado de Shiryu de Dragão
+728	Cisne
+729	Penteado de Hyoga de Cisne
+730	Andrômeda
+731	Penteado de Shun de Andrômeda
+732	Fênix
+733	Penteado de Ikki de Fênix
+734	Áries
+735	Penteado de Mu de Áries
+736	Virgem
+737	Penteado de Virgem de Shaka
+738	Peixes
+739	Penteado de Afrodite de Peixes
+740	Câncer
+741	Penteado de Máscara da Morte de Câncer
+742	Moça Fofa
+743	Eu e meu Pet ficamos bobos com tanta fofura!
+744	Moça Inocente
+745	Para quem tem um coração puro
+746	Imperatriz
+747	Tem que me chamar de Imperatriz!
+748	Moça Charmosa
+749	Com um sorriso a cidade se curva, com mais outro o país todo também
+750	Valente e Brilhante
+751	Cheia de espírito heroico, que mulher mais peculiar!
+752	Moça do Lírio
+753	Moça independente e autossuficiente, parece um lírio calmo e contido
+754	Jamiel (F)
+755	Descendente do povo de Jamiel
+756	Moça das Neves
+757	Elegante e nobre, quem, senão eu?
+758	Moça Delicada
+759	Delicada como uma rosa
+760	Último Mistério
+761	都说了叫神秘了，那意思就你猜啊~~
+762	Pureza Impecável
+763	Penteado impecável
+764	Maria-Chiquinha
+765	Para quem tem um coração puro
+766	Encanto Misterioso
+767	O mistério é o encanto de uma mulher!
+768	Flor Selvagem
+769	路边的野花你快去采~
+770	Bolinhos Fofinhos
+771	Dois bolinhos são melhores do que um!
+772	Coque Jovial
+773	Penteado jovial e descolado
+774	Charme Natural
+775	Beleza natural como a de um hibisco
+776	Sábia e Delicada
+777	Ela sabe que livros contém tesouros
+778	Bonita e Clássica
+779	Bela, única e independente
+780	Elegância Graciosa
+781	A elegância é algo que se cultiva
+782	Fragmento de Estola
+783	集齐一定数量后，可用于换取绶带的物品。
+784	Espírito Caótico de Leão
+785	可将低阶狮子坐骑升级为高阶坐骑的必须品。
+786	Fusor de Energia
+787	微粒进化过程中使用该物品可大大提高成功率。
+788	Sangue de Prata
+789	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+790	Sangue de Prata*20
+791	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+792	Sangue de Hades
+793	在星铸冥·圣衣时可提升效果。
+794	Sangue de Hades*20
+795	在星铸冥·圣衣时可提升效果。
+796	Fusor de Energia
+797	微粒进化过程中使用该物品可大大提高成功率。
+798	Sangue de Prata
+799	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+800	Sangue de Prata*20
+801	在星铸所有白银圣衣及青铜圣衣时可提升效果。
+802	Sangue de Hades
+803	在星铸冥·圣衣时可提升效果。
+804	Sangue de Hades*20
+805	在星铸冥·圣衣时可提升效果。
+806	Luz Estelar*5
+807	天马座圣衣33-48级星铸。80级以上活动有大量掉落。
+808	Areia do Submundo*5
+809	用于冥·圣衣星铸的必须品。
+810	Chave Cósmica
+811	用于观星的必须品。65级以上活动有掉落。
+812	Traje Superior Vênus
+813	Última moda em Vênus
+814	金星时光短裤
+815	Última moda em Vênus
+816	Botas Vênus (M)
+817	Última moda em Vênus
+818	Luva Vênus (M)
+819	Última moda em Vênus
+820	Camiseta Brisa do Mar
+821	A brisa do mar deixa as pessoas mais felizes!
+822	Bermuda Brisa do Mar
+823	A brisa do mar deixa as pessoas mais felizes!
+824	Chinelos Brisa do Mar
+825	A brisa do mar deixa as pessoas mais felizes!
+826	Traje Vênus
+827	Última moda em Vênus
+828	金星引力短裤
+829	Última moda em Vênus
+830	Botas Vênus (F)
+831	Última moda em Vênus
+832	Luva Vênus (F)
+833	Última moda em Vênus
+834	Biquíni Girassol
+835	Brilhante como um girassol
+836	Sandálias Girassol
+837	Brilhante como um girassol
+838	Óculos de Sol Básico
+839	Bonito e básico
+840	Óculos Vermelho
+841	火热风镜框，潮流时尚。
+842	Óculos de Sol Coral
+843	神秘魅影，变幻莫测。
+844	Óculos de Sol Roxo
+845	神秘魅影，变幻莫测。
+846	Coração de Cerejeira
+847	兑换薄樱落·骑士的必须品。
+848	Estrela de Prata
+849	兑换银翼杀手·风暴的必须品。
+850	Ovo de Coelinho Fofo
+851	打开后获得小伙伴——萌小兔。
+852	Traje Superior Vênus
+853	Última moda em Vênus
+854	金星时光短裤
+855	Última moda em Vênus
+856	Botas Vênus (M)
+857	Última moda em Vênus
+858	Luva Vênus (M)
+859	Última moda em Vênus
+860	Traje Vênus
+861	Última moda em Vênus
+862	金星引力短裤
+863	Última moda em Vênus
+864	Botas Vênus (F)
+865	Última moda em Vênus
+866	Luva Vênus (F)
+867	Última moda em Vênus
+868	Óculos de Sol Básico
+869	Bonito e básico
+870	Óculos Vermelho
+871	火热风镜框，潮流时尚。
+872	Óculos de Sol Coral
+873	神秘魅影，变幻莫测。
+874	Óculos de Sol Roxo
+875	神秘魅影，变幻莫测。
+876	Coração de Cerejeira
+877	兑换薄樱落·骑士的必须品。
+878	Estrela de Prata
+879	兑换银翼杀手·风暴的必须品。
+880	Luz Sagrada de Ouro
+881	配合黄金圣衣兑换券使用，在NPC圣光使者处兑换黄金圣衣
+882	Poção de Afrodite
+883	使用后可以重塑自己角色的外形。
+884	Poção de Afrodite
+885	使用后可以重塑自己角色的外形。
+886	Luz da Determinação de Métis
+887	聪慧女神的意志使你能重新学习战斗技能。
+888	Máscara Noturna (M)
+889	魔幻乐园主题服饰。
+890	Máscara Noturna (F)
+891	魔幻乐园主题服饰。
+892	Chapéu de Bruxo
+893	魔幻乐园主题服饰。
+894	Traje Superior Country
+895	魔幻乐园主题服饰。
+896	Calça Country
+897	魔幻乐园主题服饰。
+898	Luva Country
+899	魔幻乐园主题服饰。
+900	Botas Country
+901	魔幻乐园主题服饰。
+902	Traje Superior Americano
+903	魔幻乐园主题服饰。
+904	Calça Americana
+905	魔幻乐园主题服饰。
+906	Luva Americana
+907	魔幻乐园主题服饰。
+908	Botas Americanas (M)
+909	魔幻乐园主题服饰。
+910	Chapéu de Bruxa
+911	魔幻乐园主题服饰。
+912	Traje Fashion
+913	魔幻乐园主题服饰。
+914	Botas Fashion
+915	魔幻乐园主题服饰。
+916	Traje Americano
+917	魔幻乐园主题服饰。
+918	Botas Americanas (F)
+919	魔幻乐园主题服饰。
+920	Máscara Noturna (M)
+921	魔幻乐园主题服饰。
+922	Máscara Noturna (F)
+923	魔幻乐园主题服饰。
+924	Chapéu de Bruxo
+925	魔幻乐园主题服饰。
+926	Traje Superior Country
+927	魔幻乐园主题服饰。
+928	Calça Country
+929	魔幻乐园主题服饰。
+930	Luva Country
+931	魔幻乐园主题服饰。
+932	Botas Country
+933	魔幻乐园主题服饰。
+934	Traje Superior Americano
+935	魔幻乐园主题服饰。
+936	Calça Americana
+937	魔幻乐园主题服饰。
+938	Luva Americana
+939	魔幻乐园主题服饰。
+940	Botas Americanas (M)
+941	魔幻乐园主题服饰。
+942	Chapéu de Bruxa
+943	魔幻乐园主题服饰。
+944	Traje Fashion
+945	魔幻乐园主题服饰。
+946	Botas Fashion
+947	魔幻乐园主题服饰。
+948	Traje Americano
+949	魔幻乐园主题服饰。
+950	Botas Americanas (F)
+951	魔幻乐园主题服饰。
+952	Presente de Áries II (Sublime)
+953	每人限制使用一次的超值大礼包。
+954	Presente de Áries II (Supremo)
+955	每人限制使用一次的超值大礼包。
+956	Alma da Relíquia
+957	在增强神器灵力值可选择使用。
+958	Alma da Relíquia
+959	在增强神器灵力值可选择使用。
+960	Fonte Espiritual I
+961	增加人物的灵气值。
+962	Esplendor Sagrado
+963	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
+964	Esplendor Sagrado+
+965	用于披风聚能。通过战场获胜后获得的神祭书页可兑换。
+966	Carinho à Primeira Vista
+967	两人结为夫妻，男生必备道具。
+968	Amor à Primeira Vista
+969	两人结为夫妻，女生必备道具。
+970	Sangue de Poseidon
+971	在星铸鳞衣时可提升效果。
+972	Sangue de Poseidon*20
+973	在星铸鳞衣时可提升效果。
+974	Áxis de Reformulação
+975	可以重铸一些装备的灵纹属性。
+976	Áxis de Preservação*10
+977	可以在重铸灵纹时保留前一次的装备灵纹。
+978	Áxis de Preservação+
+979	可以在重铸灵纹时保留前一次的装备灵纹。
+980	Áxis de Transição
+981	灵纹转移时必须消耗的物品。
+982	Alianças de Casamento
+983	两人结为夫妻必备的情侣对戒。
+984	Kit de Casamento de Luxo
+985	举行梦幻婚礼的婚庆套包。
+986	Pilha de Convites
+987	装有很多请柬，可以用来送给亲友。
+988	Marca Texto
+989	在豪华题词留言板留言的必须品，祝福被所有人看到。
+990	Sangue de Poseidon
+991	在星铸鳞衣时可提升效果。
+992	Sangue de Poseidon*20
+993	在星铸鳞衣时可提升效果。
+994	Áxis de Reformulação
+995	可以重铸一些装备的灵纹属性。
+996	Áxis de Preservação*10
+997	可以在重铸灵纹时保留前一次的装备灵纹。
+998	Áxis de Preservação+
+999	可以在重铸灵纹时保留前一次的装备灵纹。
+1000	Áxis de Transição
+1001	灵纹转移时必须消耗的物品。
+1002	Resplendor do Oceano*5
+1003	用于鳞衣星铸的必须品。
+1004	Ovo de Bebê Panda
+1005	可爱的新春熊猫宝宝，抱着红色锦鲤给你拜年咯！
+1006	Sangue de Espectro
+1007	在星铸冥圣衣时可提升效果。
+1008	Sangue de Espectro*20
+1009	在星铸冥圣衣时可提升效果。
+1010	Sangue de Espectro
+1011	在星铸冥圣衣时可提升效果。
+1012	Sangue de Espectro*20
+1013	在星铸冥圣衣时可提升效果。
+1014	Cristal de Degeneração
+1015	可以用于徽章的升阶。
+1016	Cristal do Abismo
+1017	可以用于灵石的升阶。
+1018	Cristal de Furacão
+1019	可以用于手环的升阶。
+1020	Cristal de Hades
+1021	可以用于高阶徽章的升阶。
+1022	Cristal de Poseidon
+1023	可以用于高阶灵石的升阶。
+1024	Cristal de Zeus
+1025	可以用于高阶手环的升阶。
+1026	Pacote de presente de retorno de gratidão de grande valor
+1027	内含价值18倍的超值道具，每个角色只可开启一次。
+1028	Pacote do Frenesi Nv10
+1029	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1030	Pacote do Frenesi Nv59
+1031	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1032	Pacote do Frenesi Nv79
+1033	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1034	Pacote de presente de retorno de gratidão de grande valor
+1035	内含价值18倍的超值道具，每个角色只可开启一次。
+1036	Pacote do Frenesi Nv10
+1037	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1038	Pacote do Frenesi Nv59
+1039	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1040	Pacote do Frenesi Nv79
+1041	礼包内物品可帮助您更快升级，每个角色只可开启一次。
+1042	Gema - Sol
+1043	可以镶嵌并提升灵魂之甲的属性。
+1044	Gema - Lua
+1045	可以镶嵌并提升灵魂之甲的属性。
+1046	Gema - Mercúrio
+1047	可以镶嵌并提升灵魂之甲的属性。
+1048	Gema - Vênus
+1049	可以镶嵌并提升灵魂之甲的属性。
+1050	Gema - Marte
+1051	可以镶嵌并提升灵魂之甲的属性。
+1052	Gema - Júpiter
+1053	可以镶嵌并提升灵魂之甲的属性。
+1054	Gema - Saturno
+1055	可以镶嵌并提升灵魂之甲的属性。
+1056	Gema - Urano
+1057	可以镶嵌并提升灵魂之甲的属性。
+1058	Gema - Netuno
+1059	可以镶嵌并提升灵魂之甲的属性。
+1060	Gema - Plutão
+1061	可以镶嵌并提升灵魂之甲的属性。
+1062	Espírito de Gema
+1063	在灵魂宝石升级时可以额外增加升级经验。
+1064	Gema - Sol
+1065	可以镶嵌并提升灵魂之甲的属性。
+1066	Gema - Lua
+1067	可以镶嵌并提升灵魂之甲的属性。
+1068	Gema - Mercúrio
+1069	可以镶嵌并提升灵魂之甲的属性。
+1070	Gema - Vênus
+1071	可以镶嵌并提升灵魂之甲的属性。
+1072	Gema - Marte
+1073	可以镶嵌并提升灵魂之甲的属性。
+1074	Gema - Júpiter
+1075	可以镶嵌并提升灵魂之甲的属性。
+1076	Gema - Saturno
+1077	可以镶嵌并提升灵魂之甲的属性。
+1078	Gema - Urano
+1079	可以镶嵌并提升灵魂之甲的属性。
+1080	Gema - Netuno
+1081	可以镶嵌并提升灵魂之甲的属性。
+1082	Gema - Plutão
+1083	可以镶嵌并提升灵魂之甲的属性。
+1084	Espírito de Gema
+1085	在灵魂宝石升级时可以额外增加升级经验。
+1086	Pacote de presente de devolução dos pontos de Áries
+1087	来自白羊座的祝福！可在30天内返回80000星券。限一次。
+1088	Cristal Espiritual
+1089	升级灵魂之甲的必须道具。
+1090	Fragmento de Gema
+1091	升级灵魂宝石的必须材料。
+1092	Fragmento de Gema
+1093	升级灵魂宝石的必须材料。
+1094	Luz da Determinação de Métis
+1095	聪慧女神的意志使你能重新学习战斗技能。
+1096	Luz da Determinação de Métis
+1097	聪慧女神的意志使你能重新学习战斗技能。
+1098	Pacote de presente de recompensa de Áries
+1099	来自白羊座的祝福！可在30天内返回20000星券。限一次。
+1100	Pacote de presente de devolução dos pontos de Áries
+1101	来自白羊座的祝福！可在30天内返回80000星券。限一次。
+1102	Pacote de presente de recompensa de Áries
+1103	来自白羊座的祝福！可在30天内返回20000星券。限一次。
+1104	Memento de Anima*1
+1105	星灵强化时使用，可提升强化经验倍率。
+1106	Memento de Anima*20
+1107	星灵强化时使用，可提升强化经验倍率。
+1108	Meteorito Condensado*1
+1109	搜寻星元所需要的消耗品。
+1110	Meteorito Condensado*20
+1111	搜寻星元所需要的消耗品。
+1112	Sussurro de Jápeto
+1113	使用后重置星灵觉醒值。
+1114	Memento de Anima*1
+1115	星灵强化时使用，可提升强化经验倍率。
+1116	Memento de Anima*20
+1117	星灵强化时使用，可提升强化经验倍率。
+1118	Meteorito Condensado*1
+1119	搜寻星元所需要的消耗品。
+1120	Meteorito Condensado*20
+1121	搜寻星元所需要的消耗品。
+1122	Sussurro de Jápeto
+1123	使用后重置星灵觉醒值。
+1124	Emblema do Sacerdote
+1125	将军团旌旗旁边的守卫者替换成女王神官。
+1126	Emblema do Ursinho
+1127	将军团旌旗旁边的守卫者替换成嗜血泰迪熊。
+1128	Emblema do Rei Pirata
+1129	将军团旌旗旁边的守卫者替换成暴躁海盗王。
+1130	Papel para Votação
+1131	选举教皇的必需品，将其投给你最信任的那个候选人。
+1132	Bandeira do Grande Mestre
+1133	只有教皇和代理教皇才能使用的令旗，用来开启教皇相关的活动。
+1134	Selo Sagrado do Silêncio
+1135	只有教皇才能使用，封禁扰乱圣域，散步谣言的险恶之徒言论的圣印。
+1136	Disfarce de Hermes
+1137	使用后可切换不同职业的站姿。
+1138	Troca de Gênero
+1139	使用后可切换性别。
+1140	Disfarce de Hermes
+1141	使用后可切换不同职业的站姿。
+1142	Troca de Gênero
+1143	使用后可切换性别。
+1144	Espírito de Batalha de Leão
+1145	可将高阶狮子坐骑升级为更高阶坐骑的必须品。
+1146	Flor de Lótus
+1147	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+1148	Flor de Lótus
+1149	凭此物和时装上衣可在一辉处兑换相应性别时装一套。
+1150	Pessoa Misteriosa
+1151	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1152	Pessoa Misteriosa
+1153	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1154	Pessoa Misteriosa
+1155	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。
+1156	Pessoa Misteriosa
+1157	使用后获得30分钟神秘人效果，该效果下你将不被人知道是谁。

@@ -1,0 +1,4 @@
+0	Você conseguiu!
+1	Não foi dessa vez!
+2	  pássaros
+3	Tem certeza que não deseja participar da atividade agora?

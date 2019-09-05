@@ -1,0 +1,909 @@
+0	Rozan
+1	Wuhan
+2	Xiangyang
+3	Baú de Atividade 1
+4	Acima do Nv12, necessário 15 pontos de atividade diários para abrir.\rAcima do Nv70, receberá 2x Fragmentos da Relíquia ao abrir.
+5	Baú de Atividade 2
+6	Acima do Nv12, necessário 55 pontos de atividade diária para abrir.\rAcima do Nv70, receberá 2x Fragmentos da Relíquia ao abrir.\rAcima do Nv100, receberá 5x Fragmentos Divinos adicionais ao abrir.
+7	Baú de Atividade 3
+8	Acima do Nv12, necessário 110 pontos de atividade diária para abrir.\rAcima do Nv70, receberá 2x Fragmentos da Relíquia ao abrir.\rAcima do Nv100, receberá 1x Essência Divina adicional ao abrir.
+9	Baú de Atividade 4
+10	Acima do Nv12, necessário 180 pontos de atividade diária para abrir.\rAcima do Nv70, receberá 2x Fragmentos da Relíquia ao abrir.\rAcima do Nv100, receberá 2x Essências de Divindade e 1x Marca Divina I adicional ao abrir.
+11	[Evento]Crise das Doze Casas
+12	Santuário
+13	Nv35+
+14	(3-6/Grupo completo recomendado)
+15	[Evento]Réquiem do Santuário
+16	Nv60+
+17	[Evento]Proteja Saori
+18	Nv25+
+19	(1-6/Grupo completo recomendado)
+20	[Evento]Proteja Athena
+21	[Evento]Teste de Ouro
+22	Nv 40-100(^fffd44Prêmios apenas no Nv59+^N)
+23	[Evento]Desafio da Trapaça
+24	Nv 60-89
+25	[Evento]Tempestade em Atlântida
+26	Nv45+
+27	[Evento]Apocalipse Demoníaco
+28	[Solo]Cavaleiros da Deusa
+29	[Evento]Desafio do Destino
+30	Coliseu Graad
+31	[Solo]Caminho dos Cavaleiros
+32	[Evento]Invasão do Submundo
+33	Nv20+
+34	[Solo]Epopeia Estelar Descartar
+35	[Exército]Banho de Glória
+36	Nenhum
+37	[Exército]Elegia do Renascido
+38	Base do Exército
+39	[Exército]Travessura Divina
+40	[Exército]Benefício do Exército
+41	[Exército]Cápsula do Tempo
+42	[Ilusão]Disputa pelo Tesouro
+43	Ilusão
+44	[Ilusão]Ilusão Adentro
+45	[Evento]Memórias da Guerra Santa
+46	[Equipamento]Dez Cavernas
+47	Penhasco Madeira Vermelha
+48	(2-6/Grupo completo recomendado)
+49	[Equipamento]Coração de Sagitário
+50	Nv40+
+51	[Equipamento]Doze Casas I
+52	[Equipamento]Santuário de Gelo
+53	Nv70+
+54	[Equipamento]Sete Pilares I
+55	Nv80+
+56	[Equipamento]Sete Pilares II
+57	[Arena]Ruínas de Ática
+58	[Equipamento]Erradicar o Mal
+59	Vitória! A Glória do Campo de Batalha (Descartar)
+60	[Solo]Super Corrida
+61	${npc(20091,1)}
+62	[Solo]Questionário de Kiki
+63	${jump(54)}
+64	Estrela da Sorte
+65	Nachi de Lobo
+66	${npc(17445,9)}
+67	Alma de Lei-Hu
+68	${npc(17446,1)}
+69	Nv30+
+70	Sombra de Saga
+71	${npc(17447,4)}
+72	Estrada Esquecida
+73	Chamas de Jango
+74	${npc(17448,7)}
+75	Ilha da Rainha da Morte
+76	Nv50+
+77	Descartar
+78	${npc(31610,10)}
+79	Sibéria Oriental
+80	${npc(31611,1)}
+81	Atlântida
+82	${npc(31612,7)}
+83	Ilha de Andrômeda
+84	${npc(31613,10)}
+85	Forte de Heinstein
+86	${npc(31614,7)}
+87	${npc(31615,1)}
+88	${npc(31616,10)}
+89	Castelo de Hades
+90	[Arena]Ática 1x1
+91	[Arena]Ática Teste Temporário
+92	Ambição de Saori
+93	Nv 20-100(^fffd44Prêmios apenas no Nv59+^N)
+94	Nv 25-100(^fffd44Prêmios apenas no Nv59+^N)
+95	Nv 45-100(^fffd44Prêmios apenas no Nv59+^N)
+96	[Equipamento]Doze Casas II
+97	[Equipamento]Doze Casas III
+98	Nv55+
+99	[Equipamento]Doze Casas IV
+100	[Heroico]Elegia da Deusa I
+101	Nv90+
+102	[Heroico]Elegia da Deusa II
+103	[Exército]Classificatória do Exército
+104	[Solo]Super Corrida
+105	[Solo]Boneco de Neve Sequestrador (Estrela da Sorte)
+106	[Solo]Boneco de Neve Sequestrador
+107	[Solo]Artimanhas de Morfeu
+108	(Mais de 3 pessoas)
+109	[Ilusão]Desafio de Alraune
+110	[Torneio]Arena Galáctica
+111	${jump(58)}
+112	[Festival]Bolinhos do Festival do Barco Dragão
+113	[Festival]Sonho de uma Noite de Verão
+114	[Mensal]Guerra! Frente de batalha de Câncer!
+115	${pos(-366,327,130,1,'Terra das Constelações')}
+116	Terra das Constelações
+117	(Mais de 4 pessoas)
+118	[Mensal]Presente Divino do Festival de Verão
+119	Em qualquer lugar, basta estar on-line
+120	[Arena]Descartar Atacar! Ruínas de Ática
+121	[Mensal]Prece da Deusa
+122	(4-6/Grupo completo recomendado)
+123	[Heroico]Dez Cavernas
+124	[Heroico]Coração de Sagitário
+125	[Evento]Invasão! Os Vingadores (Guerra Divina)
+126	[Arena]Teste do Campo de Batalha Caótico
+127	[Evento]Retorno dos Guerreiros
+128	[Solo]Cavaleiros! Glória das Estrelas
+129	[Mensal]Presas do Leão
+130	${pos(-20,302,451,2,'Vila Rodório')}
+131	(Mais de 3 pessoas)
+132	[Mensal]Dia dos Namorados! Shiryu e Shunrei
+133	[Arena]Campo de Batalha Caótico
+134	Nv100+
+135	[Arena]Campo de Batalha Caótico 3x3 Teste
+136	[Solo]Limite dos Cavaleiros
+137	[Mensal]Dia das Bruxas! Abóbora Louca
+138	[Ilusão]Desafio de Alraune
+139	[Mensal]Despertar! Seis Existências de Shaka
+140	[Mensal]Moeda do Festival
+141	[Mensal]Dragão de Duas Cabeças
+142	[Mensal]Baú do Tesouro Divino
+143	[Mensal]Eu e Meus Pets
+144	[Festival]Festival de Outono!Fantasia do Vinho da Flor
+145	[Arena]Descartar Domínio! Campo de Batalha Caótico
+146	Fechar
+147	[Mensal]Dia Nacional! Dragão do Oriente
+148	[Mensal]Colecione Feliz Dia Nacio Nal
+149	[Mensal]Memórias de Dohko
+150	[Mensal]Dia das Bruxas! Noite de Celebração
+151	[Evento]Magia do Dia das Bruxas
+152	[Equipamento]A Chama de Fênix
+153	[Equipamento]Coragem de Sagitário
+154	[Equipamento]Traição de Ouro
+155	[Equipamento]Exclamação da Deusa
+156	[Festival]Ação de Graças! Peru Assado Divino
+157	[Mensal]Banquete de Ação de Graças
+158	[Evento]Ovo da Felicidade
+159	[Mensal]Desafio de Escorpião
+160	[Mensal]Presente! Coração de Gratidão
+161	[Mensal]Memórias Daqueles Anos
+162	[Mensal]Crise de Sagitário
+163	[Mensal]Natal! Noite de Celebração
+164	[Solo]Ataque às Doze Casas
+165	[Mensal]Nevasca! Defendendo a Árvore de Natal
+166	(Mais de 4 pessoas)
+167	[Evento]Sonata Infernal
+168	[Evento]Baús do Tesouro
+169	[Mensal]Festival do Gelo e da Neve
+170	[Mensal]Ilusão da Árvore de Natal
+171	[Mensal]Ovos Surpresa
+172	[Evento]Promessa de Renascimento
+173	[Santuário]Aioria
+174	${npc(38380,9)}
+175	[Atlântida]Kanon
+176	${npc(38382,9)}
+177	[Submundo]Perséfone
+178	${npc(38387,9)}
+179	[Neutro]Loki
+180	${npc(38390,9)}
+181	[Santuário]Shura
+182	${npc(38381,13)}
+183	[Atlântida]Krishna
+184	${npc(38383,13)}
+185	[Submundo]Hypnos
+186	${npc(38386,13)}
+187	[Neutro]Demônio do Abismo
+188	${npc(38389,13)}
+189	[Santuário]Aldebaran
+190	${npc(38379,11)}
+191	[Atlântida]Isaac
+192	${npc(38384,11)}
+193	[Submundo]Radamanthys
+194	${npc(38385,11)}
+195	[Neutro]Gigante de Lava
+196	${npc(38388,11)}
+197	[Proteger]Estátua de Athena
+198	${npc(38391,11)}
+199	[Proteger]Estátua de Poseidon
+200	${npc(38392,11)}
+201	[Proteger]Estátua de Hades
+202	${npc(38393,11)}
+203	[Evento]Borboletas do Submundo
+204	[Mensal]Kendo de Shura
+205	Nv 60-100(^fffd44Prêmios apenas no Nv89+^N)
+206	[Torneio]Ruínas do Deus da Guerra (Solo)
+207	${jump(86)}
+208	Ruínas do Deus da Guerra
+209	(Apenas 1 pessoa pode se inscrever)
+210	[Torneio]Ruínas do Deus da Guerra (Grupo)
+211	(Apenas 5 pessoas, incrição feito pelo capitão)
+212	[Evento]Sonho da Deusa
+213	[Mensal]Ano da Cavalaria
+214	[Mensal]Colecione Feliz Ano No Vo
+215	[Mensal]Prêmio do Ano de Cavalo
+216	[Mensal]Moeda Comemorativa do Ano de Cavalo
+217	[Mensal]Doce Dia dos Namorados
+218	[Mensal]Galope do Cavalo
+219	[Exército]Exército de Ouro
+220	[Evento]Invasão do Submundo+
+221	[Evento]O Ano Novo chegou!
+222	[Evento]Ano Novo!
+223	[Mensal]Golpe Excepcional
+224	[Mensal]Rosa VS Flor Demoníaca
+225	[Evento]Mito do Grande Coliseu
+226	[Mensal]Dia Branco
+227	[Heroico]Castelo do Graad Azul
+228	Nv95+
+229	[Mensal]Amor Eterno
+230	[Arena]Campo de Batalha Imparcial 1x1 Teste
+231	[Mensal]A Luta de Mestre e Discípulo
+232	[Mensal]Os Guerreiros Esquecidos
+233	[Dungeon]Castelo de Gelo
+234	[Dungeon]Castelo das Trevas
+235	[Mensal]Batalha entre o Bem e o Mal
+236	[Arena]Ataque! Encolha, Cavaleiro
+237	Nv12+
+238	[Arena]Encolha, Cavaleiro!
+239	[Arena]Encolha Cavaleiro! 1x1 Teste
+240	[Arena]Campo de Batalha de Lava 3x3 Teste
+241	[Arena]Vitória! Novo Ápice! Descartar
+242	Vitória! Caminho do Rei (Descartar)
+243	[Arena]Campo de Batalha de Lava
+244	[Arena]Voo1
+245	[Mensal]Primeiro de Maio! Agradecimento da Deusa
+246	[Evento]Tsunami em Atlântida
+247	[Evento]Conflito das Doze Casas
+248	[Evento]Desafio de Ouro
+249	[Mensal]Glória do Primeiro de Maio
+250	[Mensal]Prêmio do Trabalhador
+251	[Arena]Campo de Batalha do Céu 3x3
+252	[Arena]Campo de Batalha do Céu
+253	Segundo PK do Exército 3x3
+254	Segundo PK do Exército 1x1
+255	[Mensal]Comemoração de Aniversário! Medalha
+256	[Mensal]Comemoração de Aniversário! Armadura Alada
+257	[Solo]Teste de Visão
+258	${jump(90)}
+259	[Mensal]Comemoração de Aniversário! Armadura
+260	[Mensal]Marcha dos Zumbis
+261	[Mensal]Batalha Sangrenta! Desgraça Nórdica
+262	[Mensal]Batalha Sangrenta! Desgraça Nórdica 1x1
+263	[Mensal]Guerra! Desgraça Nórdica
+264	[Mensal]Verão Sem Fim-Vigor Ilimitado
+265	[Mensal]Verão Sem Fim - Momento de Frescor
+266	[Mensal]A partir de hoje, sou o BOSS
+267	[Mensal]Confronto! Eu sou o BOSS
+268	Campo de Batalha do Mal! Leão Mensal 1x1 Teste
+269	[Evento]Desafio dos Sonhos
+270	[Mensal]Semana de Ouro - Aventura do Valente
+271	[Heroico]Castelo de Hades
+272	[Exército]Portão do Submundo
+273	(12-36 pessoas)
+274	[Exército]Flor das Cordas! Lamento dos Espíritos
+275	[Exército]Profundezas! O Submundo
+276	[Exército]O Fim? Cócito
+277	[Exército]Atacar! Os Três Juízes do Submundo
+278	[Exército]Deuses Gêmeos! Morte e Sono Profundo
+279	[Exército]Ataque ao Submundo
+280	Tempo de Prêmio de Gem da Versão Renascimento (Não Exibir)
+281	[Mensal]Festival do Renascimento - Celebração
+282	[Mensal]Festival do Renascimento - Noite do Festival de Outono
+283	[Festival]Festival de Outono! Morte aos Espectros
+284	[Mensal]Dohko VS Shion
+285	[Solo]Presente! Tesouro da Deusa
+286	${jump(55)}
+287	[Festival]Dia Nacional! Salve Athena
+288	[Festival]Dia Nacional! Sete Dias de Música
+289	[Festival]Ação de Graças! Favor da Deusa
+290	[Festival]Dia Nacional
+291	${npc(1000002,15,'Canal 15 do Santuário')}
+292	[Festival]Dia das Bruxas
+293	[Arena]Primeira Guerra Galáctica
+294	[Arena]Sagitário! Mirando na Maçã Dourada
+295	[Arena]Sagitário! Mirando na Maçã Dourada 1x1 Teste
+296	[Festival]Flecha do Deus do Amor
+297	[Festival]Puzzle do Amor
+298	[Epopeia]O Fim de Hades
+299	Nv99+
+300	[(2-12/Grupo completo recomendado)
+301	[Festival]Ação de Graças! Quem Mexeu no Peru?
+302	Batalha! O Fim de Hades
+303	[Festival]Ação de Graças! Felicidade
+304	[Festival]Ação de Graças! Ladrão Cavalheiro do Santuário
+305	Linhas 11-15 do Santuário - Abaixo das escadas da Área Sacerdotal
+306	[Festival]Fim de Ano!Dilema do Papai Noel
+307	[Solo]Presente! EXP do Servidor de Teste
+308	[Solo]Presente! Gem do Servidor de Teste
+309	[Festival]Florescer da Juventude
+310	[Festival]Dobro! Relíquia Divina
+311	[Festival]Dobro! O Presente do Esforço
+312	[Festival]Dobro! Papai Noel do Passado
+313	[Festival]Dobro! Distribuir o Envelope Vermelho
+314	[Festival]Ano Novo! Desfile dos Cavaleiros
+315	[Festival]Dança de Gelo! Invasão dos Bonecos de Neve
+316	[Festival]Dobro! Informação do Papai Noel
+317	[Festival]Semana de Ouro! Grande Tesouro
+318	[Festival]Dádiva Divina! Senha da Deusa
+319	[Festival]Proteção no Inverno Rigoroso
+320	[Festival]Convenção! Presentes do Festival da Lanterna
+321	[Festival]Ano Novo! Bênção da Deusa
+322	[Festival]Boas notícias! Presentes Online
+323	[Festival]Benefícios! Presentes de Ano Novo
+324	[Festival]WeChat! Bolinhos da Felicidade
+325	[Festival]Amor no Dia dos Namorados
+326	[Arena]Competição da Ilha Flutuante 1x1
+327	[Evento]Ânfora Selada
+328	[Festival]Desfile dos Soldados em Chamas
+329	Qualquer lugar online (Não recebe em caso de morte ou loja)
+330	[Festival]Chamas! Retorno do Guerreiro
+331	[Evento]MAX! Meteoro Negro
+332	[Evento]MAX! Furacão das Trevas
+333	[Evento]MAX! Explosão Galáctica
+334	[Evento]Caminho da Tormenta
+335	[Evento]MAX! Sinfonia Final
+336	[Evento]MAX! Destruição Máxima
+337	[Evento]MAX! Buraco Negro
+338	[Evento]Cruzada! BOSS Mundial
+339	[Arena]Competição de Sobrevivência 2x2
+340	[Arena]Competição de Sobrevivência
+341	[Neutro]Heilong (BOSS Voador)
+342	${npc(51356,12)}
+343	[Arena]Competição de Sobrevivência 3x3
+344	Torneio de Ouro
+345	Torneio de Ouro - Teste
+346	[Evento]Sombra Transcendente!
+347	[Evento]Cumprimentos Clássicos!Presente do Grau de Atividade
+348	[Evento]Invasão da Alma Dourada
+349	[Evento]Pet para Login Contínuo
+350	[Evento]Cumprimentos Clássicos!Benefício por completar os pontos
+351	[Heroico]Doze Casas Divinas I
+352	[Neutro]Sombra de Hades
+353	${npc(213502,8)}
+354	Campo Elísios
+355	[Festival]Fim de Ano!Duendes em fuga
+356	[Festival]Bênção!Prelúdio de Ano Novo Chinês
+357	[Festival]Bênção!Feliz Ano Novo Chinês
+358	[Festival]Bênção!Bênção do Ano Novo Chinês
+359	[Festival]Ano Novo Chinês!Roda Gigante de WeChat
+360	[Evento]Névoa Vermelha: Cristal
+361	[Evento]Névoa Vermelha: Batalha
+362	[Festival]Invasão! Dia do Branco
+363	Mar Egeu
+364	[Campo de Batalha]Segunda Competição do Soberano Galáctico
+365	[Evento]Névoa Vermelha II: Vazio
+366	[Heroico]Doze Casas Divinas II
+367	[Mensal]Leão!Se encontrar como em um sonho
+368	[Evento]Névoa Vermelha III: Vulcão
+369	[Evento]Presente Diário
+370	[Evento]Recompensa de Atividade
+371	[Evento]Parada Militar
+372	[Evento]Repelir o Mal
+373	[Festival]Fogos de Artifício!Bandeira do Dragão ondulante
+374	[Heroico]Doze Casas Divinas III
+375	[Evento]Esforço Árduo!
+376	[Evento]Recompensa Divina(Base)
+377	[Evento]Plantando Árvores!
+378	[Evento]Traje Reluzente
+379	[Evento]Celebração!
+380	[Evento]Trabalho Duro
+381	[Heroico]Doze Casas Divinas IV
+382	EXP/AEXP
+383	EXP
+384	Astro EXP
+385	Ferramenta de aprimoramento
+386	Ferramenta de refinação
+387	Ferramenta de síntese de equipamento
+388	Material para Produção
+389	Fórmula
+390	Equipamento
+391	Silver
+392	Gold
+393	Baú do Tesouro
+394	Insígnia da Esperança
+395	Reputação de Batalha
+396	Luz da Fé
+397	Contribuição do Exército
+398	^12ff00 5pts. Atividade^N
+399	^12ff00 10pts. Atividade^N
+400	^12ff00 20pts. Atividade^N
+401	^12ff00 30pts. Atividade^N
+402	^12ff00 40pts. Atividade^N
+403	^12ff00 5-20pts. Atividade^N
+404	^12ff00 15pts. Atividade^N
+405	^12ff00 50pts. Atividade^N
+406	Sangue de Prata
+407	Reputação do Personagem
+408	Sangue Demoníaco
+409	Reputação da Zona
+410	Reputação da Zona e do Personagem
+411	Bandeira da Glória
+412	Livro de Habilidades do Escudeiro
+413	Essência da Alma
+414	Luz da Experiência
+415	 Itens variados
+416	Título
+417	Pégasus * Traje de Asa (7 dias)
+418	Cartão de Investida
+419	Moeda do Festival Galáctico
+420	Baú do Tesouro do Festival
+421	Demônio da Noite · Dragão de Duas Cabeças (10 dias)
+422	Emblema Dourado de Dragão de Duas Cabeças
+423	^e12500Alma Laranja nível 10
+424	^e12500Sangue Demoníaco (perfeito)
+425	^e12500Pacote de Fragmento Ouro
+426	^e12500Mulher Coelha
+427	^e12500Sangue Demoníaco x100
+428	^e12500Montaria Dragão de Duas Cabeças (Permanente)
+429	^e12500Chave Cósmica x100
+430	^e12500Gatinho
+431	^e12500Fóssil de Dragão Prata (7 dias)
+432	^e12500EXP Abundante
+433	^e12500^N
+434	^e12500Montaria Fênix Esgotada
+435	^e12500Milhões de EXP
+436	^e12500EXP Superabundante
+437	60 Pontos de Romance
+438	Chave Cósmica
+439	Gem
+440	Sangue de Ouro
+441	Fragmento Ouro
+442	Alma Laranja
+443	Título: Lembro de Você
+444	Pergaminho de Invocação de Ação de Graças x14
+445	Pergaminho de Invocação de Ano Novo x14
+446	Título: Galope do Cavalo
+447	Martelo de Ação de Graças
+448	Torta de Abóbora
+449	Grande quantidade de EXP
+450	Doce Mágico
+451	Talismã de Mandato dos Céus
+452	Talismã da Escolha dos Céus
+453	Pedra do Destino I
+454	Reputação de Cavaleiro de Ouro
+455	Proteja Athena
+456	Jogadores: 3-6\rVocê pode realizar a Quest Proteja Saori uma vez por dia.\rNota: O número de vezes de realização será contabilizado junto do evento de nível avançado Proteja Athena.\rEm Proteja Saori, o nível dos inimigos é a média do nível dos membros do grupo. Recomenda-se um grupo completo de 6 pessoas para participar.\rO Cosmo da Deusa Athena está despertando - esse é o momento da escuridão antes do amanhecer. A Deusa precisa de vocês e de sua proteção.
+457	Crise das Doze Casas
+458	Jogadores: 3-6\rVocê pode receber a Quest Crise das Doze Casas todos os dias das 12:00 às 14:00\rNota: O número de vezes de realização será contabilizado junto com os eventos de nível avançado "Réquiem do Santuário" e "Borboletas do Submundo". É possível conseguir apenas um prêmio por dia. Recomenda-se um grupo completo de 6 pessoas para participar.\rEm Crise das Doze Casas, o nível do monstro é a média do nível dos membros do grupo.\rContexto: As forças de Hades estão invadindo o Santuário. Cavaleiros, defendam o portão!
+459	Memórias da Guerra Santa
+460	Jogadores: 3-6\rVocê pode receber a Quest Memórias da Guerra Santa uma vez por dia.\rNota: É possível participar das Memórias da Guerra Santa com grupos de 3 jogadores, mas recomenda-se chamar mais alguns companheiros.\rA Fundação Graad, com seus recursos financeiros e tecnológicos, simulou a batalha da última Guerra Santa. Os Cavaleiros podem retornar ao passado e experienciar a dura batalha daquele tempo.
+461	Cavaleiros da Deusa
+462	Jogadores: Solo\rVocê pode receber a Quest Cavaleiros da Deusa uma vez por dia.\rNota: Acima do nível 30 receberá Fragmento de Luz Estelar, que pode ser usado para trocar prêmios na Base do Exército.\rA partir do nível 60 é possível utilizar o Cartão de Investida por meio do NPC Adriel - Emissário de Extermínio para completá-la diretamente.\rA série Cavaleiros do Zodíaco possui várias histórias sobre os gloriosos feitos dos Cavaleiros e o mal que eles combateram. Para espalhar essas histórias, o sensei Kurumada decidiu coletar o material dessas narrativas e começar um novo trabalho.
+463	Desafio do Destino
+464	Jogadores: 3-6\rVocê pode receber a Quest Desafio do Destino uma vez por dia.\rSuperar a si mesmo, fortalecendo ao máximo seus corpos, é a meta dos guerreiros do Santuário desde a era mitológica. Recentemente, uma garota chamada Láquesis apareceu no Santuário alegando que, através da adivinhação, é capaz de invocar alguém poderoso que cada um deles encontrará durante toda sua vida. Depois de ouvir esses rumores, os guerreiros do Santuário ficaram inquietos...
+465	Exército - Diário: Elegia do Renascido
+466	Horário do evento: Ativado pelo Marechal de Exército, com o npc Kadu, uma vez por dia. Após ativo, todos os membros devem ir até o npc Betina para participar da Quest.\rNível: Qualquer nível. Recomenda-se que participe com o grupo completo.\rO Exército deve ter uma base para poder abrir este evento.
+467	Exército - Semanal: Travessura Divina
+468	Horário do evento: Ativado pelo Marechal de Exército, Vice-líder ou Suplente, uma vez por semana. Após a abertura do evento, monstros poderosos aparecerão na Base do Exército.\rJogadores: todo o Exército.\rO Exército deve ter uma base para poder abrir este evento.
+469	Herança! Desafio de Ouro
+470	Roda do Destino, Desafio de Ouro! O evento consiste em "Desafio de Peixes", "Desafio de Libra" e "Desafio de Leão", podendo escolher uma dungeon por vez.\rEsse evento dá grande quantidade de Silver como prêmio. Por isso, se estiver com pouco Silver, participe!
+471	Epopeia Estelar
+472	A Epopeia Estelar é um teste de força aos jovens. O resultado é contabilizado semanalmente e é um desafio individualdo, qual pode participar várias vezes. Desafiar constantemente inimigos mais poderosos pode lhe garantir prêmios melhores.
+473	Tempestade em Atlântida
+474	O número de vezes de realização será contabilizado junto com o evento de nível avançado "Apocalipse Demoníaco".\rEm Tempestade em Atlântida, o nível do monstro é a média do nível dos membros do grupo. É possível participar apenas um vez por dia. Recomenda-se um grupo completo de 6 pessoas para participar.\rContexto: Os Tsunamis são frequentes, o desastre é grande e as pessoas estão rezando pela misericórdia da Deusa. O Santuário precisa que você investigue a verdade sobre os Tsunamis e que os acalme.
+475	Benefício do Exército: Favor da Deusa
+476	Jogadores: Solo\rVocê pode fazer a Quest Benefício do Exército todo sábado das 19:40~19:55.\rNota: O Exército deve ter uma base para poder participar desse evento.\rPara incentivar os membros do Exército a continuar seus esforços de construção, todos os sábados serão distribuídos benefícios para cada um. Fiquem atentos ao horário.
+477	Nota: O Exército deve ter uma base para poder participar deste evento.\rAs classificatórias do Exército serão abertas todos os sábados, das 22:00 às 23:00. Fiquem atentos ao horário.
+478	Dez Cavernas
+479	Jogadores: 2-6\rNota: Dez Cavernas fornece, no máximo, 10 prêmios semanais. A dificuldade é alta, então recomenda-se montar um grupo completo para participar.\rIkki de Fênix liderou os Cavaleiros Negros até o Coliseu Graad, de onde levaram a Armadura de Ouro de Sagitário!\rEles estão localizados nas Dez Cavernas do Monte Fuji. Desafie o poderoso Ikki e os Cavaleiros Negros para recuperar a Armadura de Ouro!
+480	Arena: Ruínas de Ática
+481	Jogadores: 10-18 por equipe.\rPara aprimorar suas habilidades de combate e se preparar para a nova Guerra Santa, os cavaleiros se reúnem no antigo campo de batalha das Ruínas de Ática para um treinamento de combate!
+482	Você pode iniciar a quest a partir das 11:00, diariamente. Atualizado a cada 2h, até às 23:00.\r^e12500Atenção: Tal mapa é uma área de PK sem penalidade. Tenham cuidado, jogadores.^N\rO Baú do Tesouro aparecerá no Coliseu, situado no centro da Ilusão. Ao destruí-lo, prêmios valiosos irão dropar.
+483	Você pode receber a Quest Ilusão Adentro todos os dias das 10:00 às 23:59, aparecerá uma grande quantidade de monstros dentro da Ilusão\r^e12500Atenção: Tal mapa é uma área de PK sem penalidade. Tenham cuidado, jogadores.^N\rNotas: Nível mínimo para entrar na Ilusão I é 50\rNível mínimo para entrar na Ilusão II é 65\rPara receber Hades e deixar o mundo na escuridão e terror eternos, o Deus do Sonho e seus irmãos receberam a ordem de Thanatos e Hypnos para recrutar o exército do Submundo. Eles procuram por Espectros que ainda não despertaram e tentam acordar seus Cosmos Malignos. Pelo amor e justiça, pela paz e pela luz da terra, impeça-os, jovem Cavaleiro!
+484	Na Ilusão irão aparecer vários monstros, aberto o dia todo.Recomenda-se que entre em grupo.\r^e12500 Nota: Este mapa é uma área segura.^N
+485	Jogadores: Solo ou em grupo\rVocê pode receber a Quest Invasão do Submundo todos os sábados e domingos, das 16:30 às 17:00.\rNota: Recomenda-se que entre em grupo.\rReceba a Quest com o Emissário de Eventos, Camon.\rQuanto mais monstros matar, mais prêmios irá receber.
+486	Jogadores: 2-6\rVocê pode receber a Quest Doze Casas do Zodíaco I dez vezes por semana.\rNota: A dificuldade é alta, por isso, recomenda-se montar um grupo completo para participar.\rSaori Kido foi ao Santuário para o confronto com o Grande Mestre, mas este enviou um assassino para disparar uma flecha dourada contra ela. Para salvar a vida da Deusa, é preciso atravessar as Doze Casas do Zodíaco, dentro de 12 horas.\rVocês conseguirão enfrentar Mu de Áries, Aldebaran de Touro e o misterioso Cavaleiro de Gêmeos?
+487	Jogadores: 2-6\rVocê pode receber a Quest Doze Casas do Zodíaco II dez vezes por semana.\rNota: A dificuldade é alta, por isso, recomenda-se montar um grupo completo para participar.\rPara salvar Saori Kido, atingida pela flecha dourada, é necessário atravessar as casas de Câncer, Leão e Virgem.\rO cruel Cavaleiro de Câncer matará até o último de seus adversários; os golpes do Cavaleiro de Leão se aproximam da velocidade da luz; Shaka de Virgem é considerado como o homem mais próximo de Deus. Jovens Cavaleiros, que lutam pela justiça e pelo amor, conseguirão derrotar esses poderosos oponentes?
+488	Jogadores: 2-6\rVocê pode receber a Quest Doze Casas do Zodíaco III dez vezes por semana.\rNota: A dificuldade é alta, por isso, recomenda-se montar um grupo completo para participar.Para salvar Saori Kido, atingida pela flecha dourada, é necessário atravessar as casas de Libra, Escorpião e Sagitário.\rDohko de Libra está em Rozan, em reclusão; Aioros de Sagitário foi morto na conspiração iniciada treze anos atrás; acha que poderá passar por essas casas facilmente? Dizem que até hoje ninguém conseguiu resistir aos golpes do Cavaleiro Miro de Escorpião.
+489	Jogadores: 2-6\rVocê pode receber a Quest Doze Casas do Zodíaco IV dez vezes por semana.\rPara salvar Saori Kido, atingida pela flecha dourada, é necessário atravessar as casas de Capricórnio, Aquário e Peixes.\rA espada do Cavaleiro de Capricórnio pode cortar todas as coisas materiais deste mundo; o ar frio do Cavaleiro de Aquário é capaz de congelar completamente o movimento das moléculas; as rosas venenosas do Cavaleiro de Peixes são a última barreira intransponível. Jovens Cavaleiros que lutam pelo amor e pela justiça, conseguirão superar esse desafio?
+490	Jogadores: 2-6\rVocê pode receber a Quest Coração de Sagitário, no máximo, 10 vezes por semana.\rNota: A dificuldade é alta, por isso, recomenda-se montar um grupo completo para participar.\rPara salvar Athena bebê, proteja o Cavaleiro de Sagitário em sua fuga da perseguição do Cavaleiro de Capricórnio!
+491	Jogadores: 2-6\rVocê pode receber a Quest Erradicar o Mal duas vezes por semana\rApós receber a Quest, forme um grupo de acordo com a recomendação. Ao completá-la, irá obter grande quantidade de prêmios!
+492	Jogadores: 2-6\rVocê pode receber a Quest Erradicar o Mal duas vezes por semana\rApós receber a Quest, forme um grupo de acordo com a recomendação. Ao completá-la, irá obter grande quantidade de prêmios!
+493	Jogadores: Solo\rNota: Ao juntar 10 unidades de Ouro Brilhante, poderá trocá-los na base do Exército por 1 Chave do Tempo.\rO jogador que tiver a Chave do Tempo pode abrir a Cápsula do Tempo aleatória em sua ou em outra base do Exército.\rA Cápsula do Tempo contém Gold!
+494	Você pode clicar na habilidade "Banho de Glória", na Barra de Habilidades Básicas para entrar no status ‘Banho de Glória’. A cada 5 minutos você receberá EXP Reserva. A quantidade obtida é definida de acordo com seu Power.\r"Banho de Glória" está disponível por no máximo 8 horas por dia. . Irá receber bônus extra, se for utilizado dentro da Base do Exército.
+495	Jogadores: Solo\rVocê pode receber a Quest Super Corrida (Estrela da Sorte) toda segunda, quarta, sexta e domingo (das 06h às 06h do dia seguinte).\rNota: Este evento está liberado apenas no Santuário 1 e é realizado a cada 4 minutos.\rQuem será abençoado pela Estrela da Sorte e aparecerá na frente de todos?\rVamos adivinhar quem será o primeiro lugar dessa corrida!
+496	Viagem do Espaço-tempo——procure o Emissário do espaço-tempo para você conhecer a jovem Saori!\rSe a Estrela da Sorte indicar a Saori Ambiciosa, então, obterá prêmio extra ao finalizá-la!
+497	Estrela Cadente da Sorte - A Estrela da Sorte irá guiá-lo a participar da "Super Corrida" ou do "Questionário de Kiki". Ao completar estes eventos de acordo com suas instruções, irá obter prêmios generosos! Corra para participar!
+498	Jogadores: Solo\rVocê pode receber o Questionário de Kiki toda segunda, quarta e sexta.\rNota: No Nv60, serão apenas 10 perguntas por dia e o prêmio de EXP de cada pergunta será o dobro.\rKiki tem se esforçado muito para completar seu livro - o "Questionário de Kiki". Vá ajudá-lo, rápido!
+499	Jogadores: Solo\rNota: Acima do Nv30, Caminho dos Cavaleiros fornecerá apenas prêmios de reputação.\rO Caminho dos Cavaleiros recompensa os jogadores de acordo com a reputação atingida nas zonas de Quests. Quando a reputação na zona atingir 50.000, 75.000 e 100.000, respectivamente, a equipe de segurança dará ao jogador diferentes prêmios como agradecimento pela contribuição à segurança nacional.\rAlém disso, quando todos os jogadores estiverem na mesma zona e atingirem um certo total de pontos na tarefa, um Boss aparecerá no mapa - e, ao derrotá-lo, prêmios valiosos surgirão!\rLembre-se de sua verdadeira intenção ao se tornar um Cavaleiro: erradicar o mal! Cavaleiros, protejam sua terra sagrada!
+500	Jogadores: 3-6\rVocê pode receber a Quest Réquiem do Santuário uma vez por dia, todos os dias das 12:00 às 14:00 e das 20:00 às 22:00.\rNota: No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 59, e o prêmio de Pontos de Favor será concedido para jogadores acima do nível 60.\rÉ possível utilizar o Cartão de Investida por meio do npc Adriel - Emissário de Extermínio para completar diretamente.\rEm "Réquiem do Santuário", o nível dos monstros é baseado no nível médio dos membros da equipe. Recomenda-se um grupo completo de 6 pessoas para participar.\rNas vésperas da Guerra Santa, mudanças aconteceram no Cemitério do Santuário. As forças do Submundo entraram sorrateiramente, para roubar seu poder. E também usar o Cemitério como uma ponte para atacar o Santuário.
+501	Jogadores: 2-6\rVocê pode receber a Quest Sete Pilares I até 10 vezes por semana.\rAthena foi feita prisioneira por Poseidon no Pilar Principal, atrás do Templo de Poseidon, com as águas dos 7 Oceanos desaguando sobre ela. Logo a água que cai dentro do pilar irá afogá-la. Somente derrotando os Generais Marinas dos 7 Pilares, poderá encontrar Poseidon e salvar Athena! Cavaleiros, derrotem os servos do Imperador dos Mares!
+502	Jogadores: 2-6\rVocê pode receber a Quest Sete Pilares II até 10 vezes por semana.\rNota: Para participar, você precisa passar pela [Dungeon]Sete Pilares I e conseguir o item ^61f2ffPedra de Ressonância dos Mares^N.\rAthena foi feita prisioneira pelo Poseidon no Pilar Principal, atrás do Templo de Poseidon, com as águas dos 7 Oceanos desaguando sobre ela. Logo a água que cai dentro do pilar irá afogá-la. Cavaleiros, derrotem Poseidon e resgatem Athena!
+503	Jogadores: 2-6\rNota: Em [Heroico]Elegia da Deusa I é necessário possuir mais que 45 Pontos de Herói para participar. Pressione a tecla "V" para visualizar os Pontos de Herói. Pode obtê-los ao completar [Dungeon]Sete Pilares I, [Dungeon]Sete Pilares II, [Heroico]Dez Cavernas e [Heroico]Coração de Sagitário.\rPode participar, no máximo, 5 vezes por semana. O número de vezes de realização será contabilizado junto com outras Dungeons de nível [Heroico].\rA dificuldade do evento é alta, por isso, recomenda-se que seja cauteloso.
+504	Jogadores: 2-6\rNota: Em [Heroico]Elegia da Deusa II é necessário possuir mais que 45 Pontos de Herói para participar. Pressione a tecla "V" para visualizar os Pontos de Herói. Pode obtê-los ao completar [Dungeon]Sete Pilares I, [Dungeon]Sete Pilares II, [Heroico]Dez Cavernas e [Heroico]Coração de Sagitário.\rPode participar, no máximo, 5 vezes por semana. O número de vezes de realização será contabilizado junto com outras Dungeons de nível [Heroico].\rA dificuldade do evento é alta, por isso, recomenda-se que seja cauteloso.
+505	Este evento contém três Dungeons: "Abismo do Fogo e Gelo" "Lobo Gigante da Montanha de Neve ", "País de Gelo do Deus Demoníaco". Selecione uma das Dungeons para jogar.\rNo "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 59, e o prêmio de Pontos de Favor será concedido para jogadores acima do nível 60.
+506	Jogadores: 2-6\rNota: Santuário de Gelo dropa no máximo 10 prêmios por semana.\rA Princesa do Gelo foi amaldiçoada pelo Anel de Nibelungo e se transformou em Valquíria. Ela está sendo controlada pelas forças de Poseidon, ocupando o Templo do Imperador dos Mares, para confrontar Athena. Para salvar a Princesa Valquíria, quebre a escuridão que sela o campo de gelo. Jovens Cavaleiros que lutam pelo amor e pela justiça, vão ao Santuário de Gelo!
+507	Jogadores: 3-6\rVocê pode receber a Quest Proteja Athena uma vez por dia.\rNotas: O número de vezes de realização será contabilizado junto com o evento "Proteja Saori”.\rÉ possível utilizar o Cartão de Investida por meio do NPC Adriel - Emissário de Extermínio para completá-la diretamente.\rEm "Proteja Athena", o nível do monstro é a média do nível dos membros do grupo.\rRecomenda-se um grupo completo de 6 pessoas para participar.\rNo "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 59, e o prêmio de Pontos de Favor será concedido para jogadores acima do nível 60.\rContexto: O Cosmo da deusa Athena está despertando. Esse é o momento da escuridão antes do amanhecer. A Deusa precisa de vocês e de suas proteções.
+508	Jogadores: 3-6\rNota: No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 59, e o prêmio de Pontos de Favor será concedido para jogadores acima do nível 60.\rÉ possível utilizar o Cartão de Investida por meio do npc Adriel - Emissário de Extermínio para completá-la diretamente.\rEm Apocalipse Demoníaco, o nível do monstro é a média do nível dos membros do grupo. Pode participar apenas uma vez por dia. Recomenda-se um grupo completo de 6 pessoas para participar.\rA Guerra Santa está prestes a irromper e a Deusa está convocando seus Cavaleiros a irem ao Mundo dos Mortos, obter os frutos da Mokurenji, usados para produzir o Rosário Sagrado de Virgem.
+509	O Deus do Sonho tentará atacar o Santuário através do Poço dos Mortos. Seus servos do Submundo já apareceram nas proximidades do Poço. Felizmente, o Grande Mestre já está sabendo do plano e enviou Aldebaran, Cavaleiro de Ouro de Touro para lá. Ajude-o a cuidar deste problema!\rPode participar apenas uma vez por dia. Recomenda-se participar em grupo!
+510	Toda terça, quinta e sábado (das 06h às 06h do dia seguinte) será abençoado pela Estrela da Sorte e aparecerá em frente a todos!\rDefensor de Atena, você gostaria de voltar através do Túnel do Espaço-tempo para compreender melhor a infância de Saori?\rA energia atual só conseguirá te manter lá por 10 minutos, e então será teleportado de volta à realidade. Tomara que apenas 10 minutos sejam o suficiente para você roubar muitas bolas de neve e entregá-las para a jovem Saori!\rDica: Não subestime os Bonecos de Neve. Você só conseguirá atingi-lo quando sua quantidade de bolas de neve for maior do que a do boneco!
+511	Jogadores: Solo\rNotas: A Arena Galáctica fica aberta e aceita inscrições aos Sábados e Domingos, no período das 13:00 às 15:00 e das 22:00 às 23:55.\rA cada semana, durante o período da competição, ao se registrar e duelar em lutas 1x1, seus pontos serão acumulados e irá subir de nível, fazendo com que lute cada vez com oponentes mais poderosos.\rA Arena Galáctica é o lugar onde os Cavaleiros combatem para mostrar sua força.\rAlém de obter prêmios generosos em cada partida, ao participar 10 vezes na semana, poderá ganhar prêmios semanais de acordo com seu nível de classificação, além de também poder utilizar os pontos acumulados para trocar por ferramentas valiosas.
+512	Evento: 07 de junho de 2016 até 14 de junho.\rDurante o Festival do Barco do Dragão, muitos Cavaleiros se reúnem em Rozan.A silenciosa Rozan, torna-se vibrante durante o festival.O Chefe da Vila também te convidou para participar do Festival do Barco do Dragão em Rozan.Está esperando o quê?Boa festa!\rO evento encerra às 6:00 do dia 14 de junho!
+513	O Verão chegou e o Santuário está em grande animação. Parece que o calor do verão aquece os corações de todos e os torna mais cordiais. Por que será que isso acontece? Vá perguntar à Shina!
+514	A Terra das Constelações é uma importante área de treino na Grécia, também é o reflexo de Câncer na Terra. Durante a passagem da Casa de Câncer, um grande número de tropas do Submundo veio à Terra das Estrelas, na tentativa de ocupá-la.
+515	Presente Divino do Festival de Verão vai durar até 30 de junho!\rDe terça a sexta das 20:00 às 22:00; De sábado a domingo das 15:00 às 17:00 e das 20:00 às 22:00!\rBênção Celestial, Baú do Tesouro Divino! Enquanto estiver online, poderá obter grande quantidade de prêmios surpreendentes e ainda terá a chance de ganhar 100 unidades de Sangue Demoníaco!\rA cada 15 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios! Quando aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+516	A Deusa concede a cada Cavaleiro, 105 Pontos de Luta Divina por semana. Com os pontos, pode conseguir essa Quest com Amanda, Emissário de Luta Divina. A cada 3 pontos, poderá fazer a missão 1 vez. Ao completá-la, irá obter grande quantidade de prêmios. A Quest só pode ser recebida 2 vezes por dia. Caso não tenha Pontos de Luta Divina suficientes, não poderá recebê-la.
+517	Quando a noite cai, o Deus do Sonho fica mais poderoso. A Guerra Santa é eminente e Athena precisa realizar uma importante cerimônia de oração das estrelas antes da chegada da próxima batalha, o que consumirá muito de sua energia.\rTransforme-se em um Cavaleiro de Ouro e utilize o Cosmo de Ouro e a ressonância divina para dar forças à Deusa e prevenir os ataques do Deus do Sonho e de sua tropa.
+518	Jogadores: 2-6\rNota: Em [Heroico]Dez Cavernas é necessário possuir mais que 30 Pontos de Herói para participar. Pressione a tecla "V" para visualizar os Pontos de Herói. Pode obtê-los ao completar [Dungeon]Sete Pilares I e [Dungeon]Sete Pilares II.\rPode participar, no máximo, 5 vezes por semana. O número de vezes de realização será contabilizado junto com outras Dungeons de nível [Heroico].\rA dificuldade do evento é alta, por isso, recomenda-se que seja cauteloso.
+519	Jogadores: 2-6\rNota: Em [Heroico]Coração de Sagitário é necessário possuir mais que 30 Pontos de Herói para participar. Pressione a tecla "V" para visualizar os Pontos de Herói. Pode obtê-los ao completar [Dungeon]Sete Pilares I, [Dungeon]Sete Pilares II e [Heroico]Dez Cavernas.\rPode participar, no máximo, 5 vezes por semana. O número de vezes de realização será contabilizado junto com outras Dungeons de nível [Heroico].\rA dificuldade do evento é alta, por isso, recomenda-se que seja cauteloso.
+520	Para participar de ‘Invasão! Os Vingadores’, é necessário consumir 2 contagens de contra-ataque. Caso a contagem de contra-ataque restante seja inferior a 2, você não poderá participar! Para dominar o mundo, o Deus da Maldade se juntou a Hades e Poseidon e recrutou um grupo de Cavaleiros de Prata corrompidos, planejando atacar o Santuário. Cavaleiros de Athena, vão logo impedir sua conspiração!
+521	Jogadores: Solo\rTodos os dias você pode receber uma grande quantidade de EXP Reserva e 1 hora de status de "Promessa Perene". A cada 5 minutos online, você obterá uma grande quantidade de EXP.
+522	‘Cavaleiros! Glória das Estrelas’ pode ser completado apenas uma vez por semana. Após receber a missão de Céos,  faça o desafio da Epopeia Estelar, para poder completar a Quest. Quanto maior o número do histórico da competição, maior o prêmio de EXP!
+523	Aqueles vilões, que foram exilados na Estrada Esquecida, abandonaram a fé na Deusa. Incentivados pela força negra, tentam tomar a Vila Esquecida, para executar o plano maligno de destruir todo o Santuário. Como guardião da Estrada Esquecida, o Cavaleiro de Ouro Aioria recebeu a ordem de acabar com essa rebelião.
+524	Na noite do Dia dos Namorados, o Poço dos Mortos possui uma terrível agitação. Solicitado a investigar o ocorrido, Shiryu acaba aprisionado no Poço dos Mortos. Shunrei, sente a dificuldade pela qual Shiryu está passando e desesperadamente vai em direção a ele. Ela pede que você a ajude a resgatá-lo.
+525	Jogadores: 10-18\rNota: Liberado no nível 100.\rComo um treino para se preparar para o confronto com Hades, Athena criou este Campo de Batalha Caótico.No Campo de Batalha Caótico, um lado luta pelas forças de Athena, enquanto o outro lado interpreta as forças das tropas de Hades.Este é um treinamento de combate para ambos os lados.Apenas um confronto mais próximo da realidade pode aguçar a habilidade de confrontar um Deus.Lute pela paz na terra, meu jovem!
+526	Jogadores: Solo\rQual o limite de um Cavaleiro? Ninguém sabe! Pois os Cavaleiros estão sempre superando-os!\rComo preparação para a Guerra Santa, o comandante do Santuário recebeu a ordem de Athena de preparar várias tarefas difíceis para os Cavaleiros. Dizem que apenas completando todas as tarefas, se tornará o Cavaleiro mais forte. Cumpra esse desafio, jovem Cavaleiro! O título de mais forte pertence a você!!!
+527	No Castelo de Hades os fantasmas se agitam, será uma nova conspiração do Imperador do Submundo? Felizmente, o Santuário está preparado para lidar com esses fantasmas com Bombas de Abóbora! Vamos apreciar o bombardeio!
+528	Você pode receber a Quest Desafio de Alraune a cada 5 minutos e pode ser completada 72 vezes ao dia, reiniciando a contagem às 0h.\r^e12500Obs: Este mapa é uma área segura.^N\rAo entrar no Desafio de Alraune de nível correspondente, irá receber a Quest do Desafio de Alraune. Mate 30 Alraunes de nível correspondente.
+529	O Cavaleiro de Ouro de Virgem sentiu que não demoraria até acontecer a batalha da Guerra Santa no Jardim das Árvores Sala Gêmeas. Para fazer com que mais Cavaleiros pudessem compreender o Oitavo Sentido, ele decidiu enviá-los à Ilusão do Jardim das Árvores Sala Gêmeas através do Ciclo das Seis Existências, para que entendessem os fundamentos do Oitavo Sentido do Cosmo. Jovens Cavaleiros, para se prepararem para a Guerra Santa, aceitem o desafio de Shaka!
+530	Encerramento: 25 de Outubro.\rTodo dia, ao passar de 100 pontos de Grau de Atividade, pode receber uma "Moeda do Festival Galáctico" e um "Baú do Tesouro do Festival" com o Emissário do Festival do Episódio da Guerra Galáctica.
+531	Fique online antes do dia 22 de Setembro para receber um "Demônio da Noite · Dragão de Duas Cabeças (10 dias)".\rTodo dia, ao passar de 100 pontos de Grau de Atividade, pode receber um "Emblema Dourado de Dragão de Duas Cabeças" com o Emissário do Festival do Episódio da Guerra Galáctica.\rAo juntar 7 "Emblemas Dourados de Dragão de Duas Cabeças", pode trocar por uma montaria de "Dragão de Duas Cabeças (Permanente)". Prazo para troca: até 30 de Setembro.
+532	Período: 13 a 19 de março, das 20:00 às 21:00.\rA cada 10 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber "Essência do Artefato Divino" e prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+533	Encerramento: 30 de Setembro.\rCom a ferramenta "Testemunha dos Pets", pode invocar o BOSS escondido na Dungeon; Com o título "Imagem do Guerreiro na Lembrança", pode receber missão escondida do Mestre do Festival. Como prêmio da missão, o jogador recebe status de EXP adicional de 10%, durante 4h, ao matar monstros. O bônus é válido para companheiros de time.\rJogadores que ficaram mais de 15 dias sem fazer login, podem obter a ferramenta e o título.
+534	O Festival de Outono chegou! Em Rozan não é apenas o bolo da lua que é delicioso, mas lá também tem o famoso vinho de Osmanthus. Dizem que dá para sentir de longe o cheiro do vinho do Chefe da Vila. Vá à Vila do Dragão Oculto e tome três taças para valer a pena!
+535	Entre os Cavaleiros, há vários jovens que são de um reino antigo.Esses dias é o Dia Nacional daquele país.No entanto, devido à sua missão em manter a paz na terra, os jovens cavaleiros não podem deixar o santuário e retornarem ao seu país.Então, nesta época do ano, o Grande Mestre ordena que Marin faça uma celebração simples no santuário por eles.
+536	Durante o evento, em Dohko VS Shion, as missões Bandeira do Dragão Ondulante, Conquista do BOSS Mundial e Torneio de Ouro, obtenha 4 itens 'Feliz', 'Dia', 'Nacio', 'Nal' aleatoriamente (não vinculado).\rA palavra solta pode ser aberta diretamente para obter uma pequena quantidade de EXP e Silver.Ao juntar a frase, pode trocar por grande quantidade de EXP e Ferramentas com Mestre Kurumada, uma vez por dia.
+537	Um dia a mais de 200 anos atrás, na véspera da Guerra Santa, o céu silencioso foi rasgado por um trovão negro. Uma terrível figura surgiu em meio à ventania - era Hades, Imperador do Submundo. Espalhados pelas proximidades do Santuário, os Cavaleiros de Ouro imediatamente foram até o local da Deusa Athena, a Guerra Santa havia começado...
+538	O Dia das Bruxas está chegando! Para celebrar este festival, a Deusa pediu para que todos decorassem o Santuário com lanternas de abóbora e que preparessem um grande show de fogos de artifício! Participe deste evento e festeje com todos!
+539	Todos os dias você pode receber um Doce Mágico, uma grande quantidade de EXP Reserva e 1 hora de status de "Magia do Dia das Bruxas". A cada 5 minutos online, você obterá uma grande quantidade de EXP.
+540	Pode ser finalizado apenas 1 vez por semana.\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Dez Cavernas e, ao vencer, poderá obter uma grande quantidade de EXP!
+541	Pode ser finalizado apenas 1 vez por semana.\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Coração de Sagitário e, ao vencer, poderá obter uma grande quantidade de EXP!
+542	Pode concluir apenas 1x por semana.\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Elegia da Deusa I e, através da vitória, basta concluir para obter uma grande quantidade de prêmios!
+543	Pode concluir apenas 1x por semana.\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Elegia da Deusa II e, através da vitória, basta concluir para obter uma grande quantidade de prêmios!
+544	Período do Evento: 25 novembro ~ 27 novembro, todas as noites das 20:30 às 21:30.\rA cada 10 minutos o Peru aparecerá aleatoriamente na interface do jogo, clique no no Peru para receber EXP em abundância e outras misteriosas recompensas!Quando o Peru aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+545	Encerramento do Evento: 9 de Dezembro.\rTodo dia quando estiver online, obtenha mais de 100 pontos de atividade e poderá receber 1x "Torta de Abóbora" da npc Cozinheira de Ação de Graças.\rAcumule 1, 3, 6 "Coração da Ação de Graças" para receber valorosas recompensas, respectivamente.
+546	Todo dia, poderá receber 1 Martelo de Ação de Graças, grande quantidade de EXP Reserva e 1h do status "Conforto de Ação de Graças". A cada 5min online poderá obter uma grande quantidade de EXP.
+547	A força do Submundo gradativamente se recuperava. Milo de Escorpião, chamado no Santuário de "Luz do Sol da Grécia" decidiu fazer uma prova com a nova geração de Cavaleiros. De que modo esse Cavaleiro de Ouro, famoso pela sua Agulha Escarlate - Antares, fará sua prova? A nova geração de Cavaleiros do Santuário aguarda ansiosamente...
+548	Bons camaradas são para a vida toda! No Dia de Ação de Graças, expresse sua gratidão por todos aqueles que já te ajudaram! São eles quem te dão forças, que te acompanham nas lutas, que merecem a sua proteção......pelo amor e pela justiça!
+549	Encerramento do Evento: 9 de Dezembro.\rJogadores que ficaram mais de 7 dias sem fazer login, depois que ficarem online, poderão obter a título de "Lembro de você" e 14x ferramentas "Pergaminho de Invocação de Ação de Graças".\rAo possuir o título, você pode receber 12x "Cesta de Comidas de Ação de Graças" e 7 "Pergaminho de Invocação de Ação de Graças" da Cozinheira de Ação de Graças. Só pode receber 1x.\rCom a ferramenta "Pergaminho de Invocação de Ação de Graças", pode invocar o BOSS escondido na Dungeon.
+550	Thanatos, o Deus da Morte, percebeu que a Alma de Aioros pairava pela Casa de Sagitário. Por isso, entrou silenciosamente na Casa e usou seu grande poder para aprisionar o Cosmo de Aioros e levá-lo ao Abismo do Submundo. No momento decisivo, a Deusa Athena sentiu uma mudança estranha vinda da Casa de Sagitário. Para evitar a conspiração do Deus da Morte, enviou imediatamente corajosos Cavaleiros para lá.
+551	Flocos de neve por todo o céu, o Natal chegou!Os Cavaleiros decoraram o Santuário com várias árvores de Natal, e as crianças já começam a pendurar as meias na árvore!Neste dia feliz, será que o Papai Noel vai aparecer em seu trenó de renas?
+552	Jogadores: Solo\rAgora você pode atuar como Seiya e os demais toda semana, experimentar como é a viagem pelas Doze Casas e, depois, você obterá a reputação correspondente às Doze Casas e poderá obter até mesmo um componente de Armadura de Ouro.
+553	O Papai Noel preparou muitos presentes de Natal para as pessoas; este deveria ser um feriado feliz, mas o mal está por toda parte. Um grupo de ladrões vindo do Reino Marinho e do Submundo planeja roubar os presentes de Natal. Corajosos jovens da justiça, vão logo ajudar o Papai Noel a se defender do mal, protejam nossos presentes!
+554	Jogadores: 3-6\rVocê pode receber a Quest Sonata Infernal uma vez por dia\rNotas: No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 89, e o prêmio de Pontos de Favor será concedido para jogadores acima do nível 90.\rEm "Sonata Infernal", o nível dos monstros é baseado no nível médio dos membros do grupo.\rAtravés de uma batalha incansável de todos, finalmente conseguiram entrar no Submundo. A batalha à frente é ainda mais desesperadora, esforcem-se, Cavaleiros da Deusa!
+555	Período: Das 20:00 às 22:00.\rDescrição: A cada 10 minutos aparecerá um baú na tela do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, por favor, não percam!
+556	Encerramento do Evento: 07 de janeiro de 2014.\rTodo dia online, quando o Grau de Atividade atingir 50 pontos  e 100 pontos, você receberá, respectivamente,1x "Pacote de Presente do Festival do Gelo e da Neve" e 1x "Pacote de presente grande do Carnaval do Gelo e da Neve", com Nana, a emissária do Carnaval de Gelo e de Neve\rAcumulando 1, 3 e 6 ornamentos do Festival do Gelo e da Neve, poderá trocar, separamente, por prêmios generosos.
+557	Encerramento do evento: 30 de dezembro. Todos os dias, poderá receber 1x parte do grande presente misterioso do ano do Gelo e da Neve; depois de abri-la, poderá obter um prêmio generoso!
+558	Encerramento do evento: 29 de Dezembro. No período do evento, poderá receber 1x caixa e, ao abri-la poderá obter 1x "Ovo Exótico de Várias Gemas".O Ovo Exótico de Várias Gemas pode ser aberto entre 01 de Janeiro de 2014 a 12 de Janeiro de 2014. Ao abri-lo, você poderá obter 3x super Ovos de Duas Gemas; ao abrir cada um deles,poderá obter um mar de prêmios. Todo dia, entre 01 de Janeiro de 2014 a 12 de Janeiro de 2014, poderá consumir 1x.
+559	Jogadores: Solo\rTodos os dias você pode receber uma grande quantidade de EXP Reserva e 1 hora de status de "Promessa de Renascimento". A cada 5 minutos online, você obterá uma grande quantidade de EXP.
+560	Jogadores: 3-6\rVocê pode receber a Quest Borboletas do Submundo uma vez por dia das 12:00 às 14:00 e das 20:00 às 22:00.\rNotas: No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 89, e o prêmio de Pontos de Favor será concedido para jogadores acima do nível 90.\rEm "Borboletas do Submundo", o nível dos monstros é baseado no nível médio dos membros do grupo.\rFlores canibais misteriosas do Submundo, as rosas vermelhas sedutoras, espalhadas por toda parte, parecem esconder uma situação crítica. Cinco pessoas de pedra estão fazendo uma cerimônia misteriosa, e passagem para o Submundo está prestes a se abrir. Pela paz na Terra, os cavaleiros de Athena devem destruir a cerimônia!
+561	As forças do Submundo se aproveita da luz fraca da noite para invadir o Santuário. Assim que ficam sabendo, os Cavaleiros vão atacar os Soldados do Submundo. Os Cavaleiros se apressam, mas ficam surpresos ao descobrir que uma figura familiar já está protegendo o local.A alma de Shura, Cavaleiro de Ouro de Capricórnio, ainda luta bravamente para defender o Santuário...
+562	Jogadores: 6\rVocê pode receber a Quest Sonho da Deusa uma vez por semana.\rNota: Para receber a Quest, obtenha a Autorização de Saori Kido e depois o grupo poderá participar.\rO Marechal deve trazer o item Autorização de Saori Kido. Lidere o grupo para onde o Assistente do Tatsumi está localizado.\rAtenção: a Autorização vem principalmente do Exército; ao juntar-se a um Exército ativo, fica ainda mais fácil de participar deste Evento.
+563	Encerramento do Evento: 03 de Março de 2014.\rTodos os dias em que estiver online e o Grau de Atividade atingir 20 pontos, poderá rebecer 1x " Fragmento do mapa do tesouro escondido do Ano do Cavalo", com o emissário do Ano do Cavalo, Shiryu.\rColecionando 1x, 7x, 20x e 30x poderá trocar por grandes presentes do Ano Novo (As trocas serão iniciadas depois de 10 de Fevereiro e não consomem fragmentos; depois de 03 de Março, o "Fragmento da figura do tesouro escondido do Ano do Cavalo" pode ser usado diretamente).
+564	Encerramento do Evento: 18 de Fevereiro de 2014.\rDurante o Evento, jogadores acima do nível 20 podem participar e, através dos Eventos individuais "Super Corrida", "Boneco de Neve Sequestrador" e "Evento Diário da Marin", obter as ferramentas "Bên", "ção","de", "Feliz","Ano", "No", "vo".\rAo colecionar esses 7 termos, poderá receber a Missão de bênção do Ano Novo com o emissário do Ano Novo, Ikki (limite de 1x).\rAo colecionar "Feliz", "Ano", "No", "vo", poderá receber a Missão de Feliz Ano Novo com o emissário do Ano Novo, Ikki, todos os dias (limite de 1x ao dia).
+565	Encerramento do Evento: 02 de Fevereiro de 2014. Jogadores acima do nível 20 podem, com o emissário do Ano Novo, escolher 1 palavra-ferramenta dentro dessas duas frases "Que o dinheiro venha logo" e "Que tudo se realize". Em dois horários de premiação, sorteará 2 lotes de prêmios. Jogadores sorteados poderão obter um prêmio grande e, os que não tiveram a sorte, assim como os jogadores que ainda não participaram da escolha das palavras, também podem obter um prêmio especial!
+566	Encerramento do Evento: 24 de Fevereiro de 2014. Jogadores acima do nível 20, durante o período do evento, podem dar o Golpe Final no último Boss da Dungeon, em "Réquiem do Santuário", "Crise das Doze Casas", "Borboletas do Submundo", "Apocalipse Demoníaco", "Sonata Infernal" e "Tempestade em Atlântida". Ao matá-lo, ele poderá dropar uma ferramenta especial de Ano Novo, a moeda comemorativa do Ano do Cavalo.Você pode trocá-la com o emissário do Ano Novo Seiya, por um prêmio especial.
+567	Período do Evento: 11 de Fevereiro de 2014 a 17 de Fevereiro de 2014.\rTodos os dias, poderá receber com Shun, a missão de formação de time de marido e mulher " Doce Dia dos Namorados", depois de conclui-la, obterá 60 pontos de Romance como prêmio.
+568	Período do Evento: 11 de Fevereiro de 2014 a 24 de Fevereiro de 2014.\rSe o jogador passar mais do que 7 dias offline, depois que ficar online, obterá o título verde-água "Galope do Cavalo" e 14x ferramentas "Pergaminho de Invocação do Ano Novo".\rCom o título "Galope do Cavalo", você pode receber, com Seiya, uma missão de uma vez na vida, cujo prêmio é um pacote de presente de 6x títulos "Correr para te abraçar" e 7x "Pergaminho de melhora de EXP de Ano Novo", além de 7x ferramentas "Pegar o Envelope Vermelho".
+569	O Ano Novo está chegando e as forças do Submundo estão à espreita, tentando atacar cada Exército de Cavaleiros. Sabendo disso, Athena enviou os 12 Cavaleiros de Ouro e um Exército de Cavaleiros para protegerem a base juntos.\rAo entrar na base do Exército, receba a Quest com a Athena, que está próxima ao Milagre. Resista às forças do Submundo no Campo de Batalha, situado ao centro do mapa da Base; você ainda pode vestir a Armadura de Ouro ao lado de Athena e usar o poder de um Cavaleiro de Ouro para lutar.\rO período do Evento é todas as segundas, quartas, quintas e aos domingos, das 9:00-22:30.
+570	O Ano Novo chegou, que maravilha! Com o Ano Novo à vista, o Santuário está repleto de uma atmosfera de harmonia. Todos carregam votos de prosperidade, ansiosos pela chegada do Ano Novo! Pendure lanternas, quebre ovos dourados junto com todos, e cumprimentem-se um aos outros! Desejamos que você tenha muita força e riquezas!
+571	Jogadores: Solo ou em grupo\rVocê pode receber a Quest Invasão do Submundo (avançado) todos os sábados e domingos, das 16:30 às 17:00.\rNota: Recomenda-se que entre em grupo.\rReceba a Quest do emissário de eventos Rodrigues.\rQuanto mais monstros matar, mais prêmios obtidos.
+572	Nome 5 do Evento de Teste
+573	O Ano Novo chegou, que maravilha! Com o Ano Novo à vista, o Santuário está repleto de uma atmosfera de harmonia. Todos carregam votos de prosperidade, ansiosos pela chegada do Ano Novo!
+574	Nas vésperas da aproximação da Guerra Santa, o longo silêncio da Casa de Aquário foi interrompido por um Cosmo chocante queimando. Depois que jovem Cavaleiro se apressou até a Casa de Aquário, descobriu que o já morto Cavaleiro de Ouro, Camus, tinha aparecido ali. Contudo, dessa vez, foi para ensinar a técnica mais poderoso ao Cavaleiro da nova geração...
+575	As rosas que circundam a Casa de Peixes é a defesa mais importante de todas as Doze Casas de Ouro. São como Afrodite de Peixes; não são apenas bonitas, mas também fatais. Mesmo assim, as forças do Submundo não desistirão de invadir a Terra. Dessa vez, o Imperador do Submundo enviou a Estrela Celeste Demoníaca, Queen, e sua Flor Demoníaca para entrar na Casa de Gêmeos. A Flor Demoníaca está destruindo as rosas sem parar, na tentativa de quebrar a proteção das rosas da Casa de Peixes...
+576	Período do Evento: 22 de maio - 28 de maio, todas as noites, das 20:00-21:00.\rA cada 10 min aparecerá na tela do jogo um baú aleatório, clique nele para receber uma enorme quantidade de EXP e prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 min para coletar a recompensa, não perca!
+577	Jogadores: 3-6\rVocê pode receber a Quest Mito do Grande Coliseu uma vez por dia.\rO Grande Coliseu é um campo de treinamento que Mu criou, usando a Telecinésia; somente os Cavaleiros com a verdadeira força é que poderão passar pelas provas deste lugar.
+578	Todas as pessoas que receberam chocolates e flores no dia dos namorados, atenção: o dia de responder a esse amor chegou~ No White Day, envie o seu amor e agradecimento para aquela pessoa que te ama, fazendo com que o amor do Cavaleiro que protege a Terra cubra todo o mundo!
+579	Mu de Áries e seu discípulo Kiki estão preparando um campo de treinamento para o Cavaleiro. A firme Muralha de Cristal e o travesso Kiki podem dar uma boa dor de cabeça às pessoas.
+580	No passado, esses guerreiros lutaram pelo Amor e pela Justiça e, independentemente de terem se tornado Cavaleiros ou não, merecem ser estimados por todos. O Dia dos Finados se aproxima, vá visitar esses guerreiros esquecidos pelo tempo.
+581	Na misteriosa Hiperdimensão, a justiça e o mal travam uma disputa. Jovem corajoso e justo, vá para a Hiperdimensão e ajude Gêmeos a dispersar o mal em seu coração, fazendo com que a justiça dure para sempre!
+582	No Mundo dos Encolhido, está havendo uma competição de entertenimento. Todos os participantes obterão um prêmio e a equipe vitoriosa da competição obterá um prêmio extra, ao destruir o forte da outra equipe, tornando-se a vencedora da competição.
+583	Destrua o castelo do inimigo e obtenha a vitória, recebendo prêmios extras! Receba a Quest do Campo de Batalha com o Palhaço e se transforme em um Escudeiro no mundo dos Encolhidos. Esta é a guerra dos Escudeiros! O que estão esperando? Venham para a luta!
+584	Todos os dias, com a emissária de guerra Aline, você pode usar seus pontos de luta divina para receber as Quests: Vitória! Novo Ápice!, como no [Campo de Batalha de Lava]e no [Campo de Batalha do Céu]para obter a vitória. Além disso, ao ficar nos 90% primeiros do ranking, poderá obter uma grande quantidade de prêmios generosos.
+585	Você precisa participar e obter a vitória no [Campo de Batalha de Lava] e no [Campo de Batalha do Céu]. Esta Quest só pode ser concluída 1x por semana.\rDepois de receber a Quest, de acordo com a dica para concluir, obterá uma grande quantidade de prêmios, após a conclusão!
+586	Escala de Luta: 18v18\rDivisão de níveis: 60—79; 80—94 ;95—Prática Concentrada 2; Prática Concentrada 3— Prática Concentrada 10\rO Campo de Batalha de Lava pode providenciar um ambiente para uma competição absolutamente imparcial; este será o palco para você exibir seus talentos!\rPode receber a Quest com a emissária da Guerra Santa, Aline: Vitória! Novo Ápice; depois que conclui-la, poderá obter uma grande quantidade de prêmios.
+587	O Dia do Trabalho está chegando. Levando em consideração cada Cavaleiro que, sempre  com muito cuidado e atenção, empregaram suas forças para proteger o Santuário e a Paz, a Deusa preparou um presente misterioso a fim de agradecer por todas as suas contribuições.
+588	Encerramento do Evento: 19 de Maio de 2014.\rNo período do evento, jogadores acima do nível 20 poderão obter 4 letras-ferramentas: "Honra", "e Glória", "no "Trabalho", através de eventos individuais.\rAo colecionar as 4 letras, pode receber um prêmio surpresa do emissário da celebração do Dia do Trabalho (1x por dia).
+589	A fim de agradecer o Cavaleiro que, sempre com muito cuidado e atenção, se esforça para proteger o Santuário, a Deusa preparaou um grande presente de agradecimento, concedido durante o período do Dia do Trabalho. Venha pegar esse monte de EXP, Silver e etc.\rPeríodo do Evento: 01 de Maio - 3 de Maio, todos os dias, das 20:00 - 23:59.
+590	No Castelo de Hades, durante um longo tempo as almas errantes entravam no corpo dos mortos, transformando-se em zumbis terríveis. O Máscara da Morte de Câncer tem experiência em lidar com zumbis, ele permitirá que um Cavaleiro utilize-se da força dele para derrotar os zumbis. mas o Máscara da Morte também prega algumas peças, e às vezes pode transformar algum Cavaleiro em zumbi.
+591	Para entrar no campo de batalha 5v5, na Base de Treinamento Graad, o jogador precisa escolher livremente 1 entre numerosos Signos, e usar este poder para derrotar o jogador adversário. Ao dar um Golpe Final no jogador, poderá obter Pontos de Matéria-prima correspondentes; acumulando Pontos suficientes, obterá a vitória. Aberto todas as segundas, quartas, quintas e domingos!
+592	A Fundação Graad comprou e construiu recentemente uma nova Base de Treinamento no norte da Europa. Quem entra lá precisa derrotar ardilosos oponentes de todos os tipos, através de diversas estratégias. Dizem que só quem tem capacidade de observação afiada e de análise racional é que se tornará a arma final que controlará toda a luta.
+593	Os BOSS das Provas de Ouro foram maltratados demais e foram partindo um após o outro, mas a vida continua. Os próprios Cavaleiros terão que ser BOSS! Ao participar todos os dias do "Confronto! Eu sou o BOSS", há possibilidades de se tornar o BOSS e maltratar os demais jogadores!
+594	Este é um campo de batalha 1V6! Os BOSS das Provas de Ouro foram maltratados demais! Todos os dias são maltratados inúmeras vezes, além de que alguns Cavaleiros se viciaram nisso. Os BOSS estão profundamente magoados e decidiram que não gostam mais do que fazem; quem quer ser Boss, que seja! Não tem jeito, os próprios Cavaleiros terão que ser BOSS!
+595	Portão do Submundo
+596	Flor das Cordas! Lamento dos Espíritos
+597	Profundezas! O Submundo
+598	O Fim? Cócito
+599	Atacar! Os Três Juízes do Submundo
+600	Deuses Gêmeos! Morte e Sono Profundo
+601	Jogadores: 12-36\rTodos os dias, das 6:00 às 23:00, o Marechal do Exército lidera os membros a partir de onde está o funcionário do Coliseu Graad para entrar no Submundo. Ao entrar lá, há 7 fases ao todo e é preciso que 12-36 Cavaleiros concluam juntos.\rOs Cavaleiros estão sendo guiados por Athena rumo ao Submundo! Primeiro, é necessário passar por "Portão do Submundo”; depois, na Base do Exército, abra aleatoriamente uma fase entre a 2ª e a 7ª; conclua a luta desses dois estágios e poderá receber os frutos da vitória na Base do Exército.
+602	O Deus do Sonho lidera um grupo de Espectros para armar uma emboscada no Campo de Batalha do Céu para atacar os Cavaleiros. Porém, os Coelhos do Festival de Outono descobriram e os avisaram. Esses coelhos prepararam um bolo da lua secreto, e os Cavaleiros viraram gigantes incomparáveis. Além disso, os Coelhos ainda produziram alguns doces especiais, que dizem que têm efeitos misteriosos. Vamos derrotar os Espectros!
+603	Jogadores: 4+\rProbabilidade de obtenção de Fragmento Precioso de Libra!\rO tempo voltou até aquele instante em que Shion invadiu as Doze Casas com os Espectros. Ajude Dohko a enfrentar seu antigo companheiro de luta - junte-se a ele e desafie o igualmente forte Shion de Áries.
+604	O Imperador do Submundo, Hades, aproveitou que os Cavaleiros comemoravam o Dia Nacional da China para sequestrar a Deusa Athena. Para salvar a Deusa, os Cavaleiros foram atrás dela, a fim de resgatá-la. Quando finalmente alcançaram o Imperador do Submundo,  descobriram que Hades e a Deusa Athena estavam com sua aparência transformada.
+605	Tremy de Sagita decidiu fazer uma competição de arco e flecha com Aioros de Sagitário; os dois decidiram conceder suas técnicas aos outros Cavaleiros, para que eles decidam, afinal, quem tem as habilidades de arqueiro mais poderosas.
+606	No Dia de Ação de Graças, a Senhorita Saori quis agradecer o grande esforço dos Cavaleiros, por isso decidiu dar uma festa com muitas iguarias em sua mansão. Ela não esperava que um grupo de pessoas que não foram convidadas invadisse a festa e roubasse a torta de abóbora e o peru...
+607	O Papai Noel veio ao mundo dos humanos trazendo muitos presentes, mas acabou encontrando o  bloqueio e perseguição de forças malignas, que tentaram tirar os presentes de si e destruir esse maravilhoso feriado...
+608	No Antigo Oriente, há um espaço-tempo lendário chamado Perfect World; nele, o povo realiza inúmeros sonhos. No aniversário de 10 anos da Perfect World, deixe-nos aclamar junto à Deusa! Caso obtenha Gold ou Moeda de Prata, não esqueça de participar do sorteio de jeito nenhum!
+609	Nome 8 do Evento de Teste
+610	Nome 9 do Evento de Teste
+611	Nome 10 do Evento de Teste
+612	Nome 11 do Evento de Teste
+613	Explicação 1 do Evento de Teste
+614	Explicação 2 do Evento de Teste
+615	Explicação 3 do Evento de Teste
+616	Explicação 5 do Evento de Teste
+617	Explicação 6 do Evento de Teste
+618	Explicação 7 do Evento de Teste
+619	Explicação 8 do Evento de Teste
+620	Explicação 9 do Evento de Teste
+621	Explicação 10 do Evento de Teste
+622	Explicação 11 do Evento de Teste
+623	Armadilha para Pet
+624	Fortalecer Pet
+625	Livro de Habilidades do Pet
+626	Fundos do Exército
+627	Suprimentos do Exército
+628	O dia inteiro
+629	Clique duas vezes para ver mais detalhes do evento escolhido.
+630	Cerimônia de outra dimensão
+631	Força para defender a Armadura
+632	Caixa de Pandora
+633	O dobro todos os dias
+634	Pesadelo do Profeta
+635	[Cidade]Desafio Estelar
+636	[Cidade]Casa de Gelo de Deimos
+637	[Cidade]Templo de Disputa
+638	[Cidade]Fuga de Sagitário
+639	[Semanal]A Casa de Gelo de Deimos
+640	[Semanal]Templo de Disputa
+641	[Semanal]Fuga de Sagitário
+642	Receber Baú do Tesouro de Login
+643	Portão da Constelação
+644	Terra do Demônio
+645	Invasão da Escuridão
+646	Receba a Quest de arco singleplayer com Aldebaran, na Vila Rodório do Santuário.\rA cada 10x, forma-se um ciclo e, dentro de um ciclo, quanto maior o número de arcos, melhor o prêmio. \rCada pessoa pode concluir, no máximo, 10x por dia.
+647	Receba a Quest de arco singleplayer com Aldebaran, na Vila Rodório do Santuário.\rA cada 10x, forma-se um ciclo e, dentro de um ciclo, quanto maior o número de arcos, melhor o prêmio. \rCada pessoa pode concluir, no máximo, 5x por dia.
+648	O Evento da Invasão da Escuridão começou e, agora, a primeira fase que está em andamento é: na Casa de Peixes Negro, receba, de Anabela, a Quest da Invasão da Escuridão: Ameaça do Ser Marinho.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+649	O Evento da Invasão da Escuridão começou e, agora, a primeira fase que está em andamento é: na Casa de Peixes Negro, todos os seus companheiros de time devem receber, de Anabela, a Quest da Invasão da Escuridão: Ameaça do Ser Marinho; depois, a Dungeon deve ser aberta pelo Capitão.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+650	O Evento da Invasão da Escuridão começou e, agora, a primeira fase que está em andamento é: na Casa de Peixes Negro, siga o alvo de luta, atravesse a Casa e conclua a Quest da Invasão da Escuridão: Ameaça do Ser Marinho.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+651	O Evento da Invasão da Escuridão começou e, agora, a segunda fase que está em andamento é: na Casa de Libra Negro, receba, de Anita, a Quest da Invasão da Escuridão: A Balança de Libra.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+652	O Evento da Invasão da Escuridão começou e, agora, a segunda fase que está em andamento é: na Casa de Libra Negro, todos os seus companheiros de time devem receber, de Anita, a Quest da Invasão da Escuridão: A Balança de Libra; depois, a Dungeon deve ser aberta pelo Capitão.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+653	O Evento da Invasão da Escuridão começou e, agora, a primeira fase que está em andamento é: na Casa de Libra Negro, siga o alvo de luta, atravesse a Casa e conclua a Quest da Invasão da Escuridão: A Balança de Libra.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+654	O Evento da Invasão da Escuridão começou e, agora, a terceira fase que está em andamento é: na Casa de Leão Negro, receba, de Valéria, a Quest da Invasão da Escuridão: Ambição de Leão.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+655	O Evento da Invasão da Escuridão começou e, agora, a terceira fase que está em andamento é: na Casa de Leão Negro,todos os seus companheiros de time devem receber, de Valéria, a Quest da Invasão da Escuridão: Ambição de Leão.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+656	O Evento da Invasão da Escuridão começou e, agora, a primeira fase que está em andamento é: na Casa de Leão Negro, siga o alvo de luta, atravesse a Casa e conclua a Quest da Invasão da Escuridão: Ambição de Leão.\rÉ recomendado formar um grupo completo de 6 pessoas para ir; além disso, durante o evento, não poderá sair.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.
+657	As forças da escuridão do Imperador do Submundo ameaçam a fonte de poder que funde as Armaduras. O povo de Jamiel precisa da ajuda dos Cavaleiros!
+658	Todos os dias, você pode receber 1x de Dabel da Vila Rodório, o tempo em dobro. Após recebê-lo, ative o efeito em dobro e, quando matar os monstros, obterá EXP em dobro como prêmio.
+659	O nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo de jogadores.\rDentro do período do evento, procure Jaqueline da Vila Rodório do Santuário para entrar na Terra dos Sonhos do Profeta e verificar a ameaça da profecia da Terra dos Sonhos. \rÉ recomendado formar um grupo completo de 6 pessoas para ir.
+660	A fim de melhorar o próprio Cosmo, o Cavaleiro vai entrar numa prova de batalha real; em quase 10 anos, ninguém passou nessa prova.
+661	Durante a primeira Guerra Santa, Deimos, líder do Batalhão do Fogo Vermelho, sob comando de Ares, o Deus da Guerra, foi selado pelo ‘Exclamação de Athena’ na Casa de Gelo, ao pé do Monte Fuji. Atualmente, sua determinação está despertando gradativamente......
+662	Conhecido por estar ao extremo norte da estrada de Jamiel, do continente alado, a Deusa da Discórdia está em seu templo tramando um plano para afundar todo Jamiel. Os mestres da telecinésia do povo de Jamiel estão lutando com todo o esforço contra as bestas demoníacas. Vá ajudar os guerreiros de Jamiel a acabar com o plano da Deusa da Discórdia!
+663	As três Deusas do Destino do Cume das Ideias te guiarão pelo portal temporal do Vale Estelar, para que testemunhe o plano do Grande Mestre de assassinar Athena, há treze anos atrás, assim como a verdade sobre a fuga de Sagitário.
+664	Entre na Casa de Gelo de Deimos e destrua o plano de Deimos e da Serpente Gigante de Oito Cabeças.(Série de Quests semanais com restrição de vezes. \rA cada semana, pode concluir, ao todo, 3x e, caso desista da Quest, ela não será descontada deste limite)
+665	Entre no Templo da Discórdia, mate o Deus da Agonia, o Cavaleiro de Câncer da geração anterior e a Deusa da Discórdia para eliminar a ameaça do tempo da Discórdia.(Série de Quests semanais com restrição de vezes. \rA cada semana, pode concluir, ao todo, 3x e, caso desista da Quest, ela não será descontada deste limite)
+666	Volte Há 13 anos atrás e ajude o Cavaleiro de Sagitário a proteger Athena na fuga da perseguição do Grande Mestre, que enviou alguns Cavaleiros poderosos para persegui-los. Derrote esses Cavaleiros. (Série de Quests semanais com restrição de vezes. \rA cada semana, pode concluir, ao todo, 3x e, caso desista da Quest, ela não será descontada deste limite)
+667	Diariamente, após fazer login no jogo, vá até Marin da Vila Rodório para receber um Baú do Tesouro de Login.
+668	Rota: canais 2, 3 e 4\rDentro do tempo, procure o Servo da Porta do Demônio que aparecerá, para entrar na Terra do Demônio e lutar.\rO nível dos monstros da Dungeon tem relação com a média ponderada do nível dos membros do grupo.\rRecomenda-se formar um grupo completo de 6 pessoas para ir.
+669	Espião Secreto do Território Negro
+670	Servo da Porta do Demônio
+671	É preciso mais de 5 pessoas para formar um grupo grupo pode procurar o mensageiro da Deusa em Jamiel (Planície do Mar de Estrelas, Lótus do Mar Profundo, Floresta da Noite) e na Estrada Esquecida (Vale Estelar, Ruínas de Poseidon, Ilha de Creta) para abrir o Portão da Constelação.\rCada vez consome 4 pontos do Índice de Justiça do membro.
+672	Canal \t%s
+673	Hoje é segunda-feira, o Dia da Lua; vá fazer um pedido à Lua.
+674	Hoje é terça-feira, o Dia do Fogo; vá fazer um pedido a Marte.
+675	Hoje é quarta-feira, o Dia da Água; vá fazer um pedido a Mercúrio.
+676	Hoje é quinta-feira, o Dia da Madeira; vá fazer um pedido a Júpiter.
+677	Hoje é sexta-feira, o Dia do Metal; vá fazer um pedido a Vênus.
+678	Hoje é sábado, o Dia da Terra; vá fazer um pedido a Saturno.
+679	Hoje é domingo, o Dia do Sol; vá fazer um pedido ao Sol.
+680	Você já fez um pedido hoje.
+681	É preciso estar acima do nível 20 para fazer pedidos.
+682	^e12500Local:^N Coliseu Graad 9\rO Cavaleiro de Bronze de Lobo, Nachi, passou por um árduo treinamento na Libéria e usou sua técnica "Uivo Mortal do Lobo" durante a luta. Atualmente, para ter uma força ainda mais poderosa, está no Coliseu Graad procurando pelos quatro cantos por alguém para duelar.
+683	^e12500Local:^N Rozan 8\rEm Rozan, Lei-Hu tornou-se discípulo de Dohko, um Cavaleiro de Ouro, antes do Shiryu de Dragão, esperando herdar a Armadura de Dragão. Contudo, durante o treinamento, foi envenenado pelo poder e mergulhou no lado obscuro da força.
+684	^e12500Local:^N Estrada Esquecida 1\rA Ilusão por trás da poderosa força espiritual de Saga, Cavaleiro de Ouro de Gêmeos, possui um poder sobre-humano que pode usar todos os golpes de Gêmeos. Sob ordem de Saga, a Ilusão está na Estrada Esquecida para eliminar os membros inquietos que ousam suspeitar do Santuário.
+685	^e12500Local:^N Ilha da Rainha da Morte 1\rO líder dos Cavaleiros Negros foi jogado no vulcão sob ordens de Ikki de Fênix. Por não ter aceitado sua derrota, reencarnou do Inferno de Lava através de um misterioso acordo. As chamas de ódio que envolvem seu corpo permitem que sua força aumente. No momento, tudo o que quer é buscar vingança contra os Cavaleiros de Bronze.
+686	Kraken - Isaac
+687	^e12500Local:^N Sibéria Oriental 4, 5 e 6\rO General Marina que guarda o Pilar do Oceano Ártico, Isaac de Kraken, é um guerreiro cheio de senso de justiça. A fim de salvar a Terra do mal, Isaac compartilha da crença de Poseidon e deseja que o velho mundo pereça para o advento de um novo mundo. Neste instante, Isaac te aguarda no continente da Sibéria Oriental com a sua técnica mortal, Aurora Boreal.
+688	General - Dragão Marinho
+689	^e12500Local:^N Atlântida 1, 5 e 6\rO Dragão Marinho, líder dos sete Generais Marinas de Poseidon, é conhecido como o mais poderoso entre eles. De origem desconhecida, possui a ambição de dominar o mundo e, sobretudo, causar desastre e calamidade, dando origem à uma guerra em todo o oceano.
+690	Deus do Sono - Hypnos
+691	^e12500Local:^N Ilha de Andrômeda 1, 2 e 3\rNa mitologia grega, Hypnos é o Deus do Sono e alguém de confiança para Hades. Planeja uma Guerra Santa desde que foi liberado por Pandora. Sua habilidade especial é o Sono Eterno.
+692	Estrela Celeste da Fúria - Radamanthys
+693	^e12500Local:^N Castelo de Hades 1, 2 e 3\rO poder de Radamanthys, um dos três Juízes do Inferno, supera o dos Cavaleiros de Ouro. Sua função seria vigiar o Submundo, mas veio à Terra para monitorar o Shion ressuscitado, já que não acredita que este será fiel a Hades. Já liderou os Espectros em várias lutas travadas com os Cavaleiros.
+694	Deus do Sonho - Oneiros
+695	^e12500Local:^N Ilha da Rainha da Morte 1\rO Deus do Sonho é o braço direito de Hypnos. A fim de enfraquecer o poder dos Cavaleiros, ressuscitou o líder dos Cavaleiros Negros, Jango. Como não alcançou os resultados desejados, foi atrás deles pessoalmente.
+696	Imperador dos Mares - Poseidon
+697	^e12500Local:^N Atlântida 5\rO Imperador Dos Mares, na antiga mitologia, foi selado por Athena e, por algum motivo especial, foi libertado. Mesmo que ainda não esteja completamente desperto como o poderoso Imperador dos Mares, seu poder pode acabar com o mundo.
+698	Imperatriz do Submundo - Perséfone
+699	^e12500Local:^N Castelo de Hades 1\rA imperatriz de Hades vive nas profundezas do Inferno, no Jardim da Outra Margem do Tártaro. É responsável pelo Mokurenji, que pode restringir os poderes de Hades. Ela é bonita e persuasiva, capaz de controlar as plantas e as almas mortas do Submundo. Pode alterar sua forma humana para a de uma planta livremente. É a detentora do poder absoluto nas profundezas do Inferno.
+700	^e12500Local:^N Ilha de Andrômeda 3\r^e12500Facção:^N Santuário\r^e12500Facção Inimiga:^N Submundo/Atlântida\rPoderoso Cavaleiro do Santuário. Deve ser desafiado por jogadores poderosos das Facções Atlântida e Submundo.
+701	^e12500Local:^N Ilha de Andrômeda 3\r^e12500Facção:^N Atlântida\r^e12500Facção Inimiga:^N Submundo/Santuário\rPoderoso Marina de Atlântida. Deve ser desafiado por jogadores poderosos das Facções Santuário e Submundo.
+702	^e12500Local:^N Ilha de Andrômeda 3\r^e12500Facção:^N Submundo\r^e12500Facção Inimiga:^N Atlântida/Santuário\rEsposa de Hades, possui poder equivalente ao de uma Deusa. Deve ser desafiada por jogadores poderosos das Facções Santuário e Atlântida.
+703	^e12500Local:^N Ilha de Andrômeda 3\r^e12500Facção:^N ---\r^e12500Facção Inimiga:^N Todas\rLoki é uma poderosa ameaça a todos os seres vivos. Jogadores de qualquer Facção podem desafiá-lo, mas é possível que tenha que disputar com outras Facções por sua cabeça. Derrote Loki para honrar sua Facção!
+704	^e12500Local:^N Atlântida 2\r^e12500Facção:^N Santuário\r^e12500Facção Inimiga:^N Submundo/Atlântida\rPoderoso Cavaleiro do Santuário. Deve ser desafiado por jogadores poderosos das Facções Atlântida e Submundo.
+705	^e12500Local:^N Atlântida 2\r^e12500Facção:^N Atlântida\r^e12500Facção Inimiga:^N Submundo/Santuário\rPoderoso Marina de Atlântida. Deve ser desafiado por jogadores poderosos das Facções Santuário e Submundo.
+706	^e12500Local:^N Atlântida 2\r^e12500Facção:^N Submundo\r^e12500Facção Inimiga:^N Atlântida/Santuário\rEsposa de Hades, possui poder equivalente ao de uma Deusa. Deve ser desafiada por jogadores poderosos das Facções Santuário e Atântida.
+707	^e12500Local:^N Atlântida 2\r^e12500Facção:^N ---\r^e12500Facção Inimiga:^N Todas\rO Demônio do Abismo é uma poderosa ameaça a todos os seres vivos. Jogadores de qualquer Facção podem desafiá-lo, mas é possível que tenha que disputar com outras Facções por sua cabeça. Derrote o Demônio do Abismo para honrar sua Facção!
+708	^e12500Local:^N Sibéria Oriental 5\r^e12500Facção:^N Santuário\r^e12500Facção Inimiga:^N Submundo/Atlântida\rPoderoso Cavaleiro do Santuário. Deve ser desafiado por jogadores poderosos das Facções Atlântida e Submundo.
+709	^e12500Local:^N Sibéria Oriental 5\r^e12500Facção:^N Atlântida\r^e12500Facção Inimiga:^N Submundo/Santuário\rPoderoso Marina de Atlântida. Deve ser desafiado por jogadores poderosos das Facções Santuário e Submundo.
+710	^e12500Local:^N Sibéria Oriental 5\r^e12500Facção:^N Submundo\r^e12500Facção Inimiga:^N Atlântida/Santuário\rEsposa de Hades, possui poder equivalente ao de uma Deusa. Deve ser desafiada por jogadores poderosos das Facções Santuário e Atlântida.
+711	^e12500Local:^N Sibéria Oriental 5\r^e12500Facção:^N ---\r^e12500Facção Inimiga:^N Todas\rO Gigante de Lava é uma poderosa ameaça a todos os seres vivos. Jogadores de qualquer Facção podem desafiá-lo, mas é possível que tenha que disputar com outras Facções por sua cabeça. Derrote o Gigante de Lava para honrar sua Facção!
+712	^e12500Local:^N Santuário 11\r^e12500Facção:^N Santuário\r^e12500Facção Inimiga:^N Submundo/Atlântida\rA Estátua de Athena é a personificação da Deusa.\rJogadores poderosos da Facção do Santuário podem obter prêmios ao proteger a Estátua.\rJogadores de outras Facções podem atacar a Estátua e saquear os tesouros.\rQual será a Facção vitoriosa?
+713	^e12500Local:^N Santuário 11\r^e12500Facção:^N Atlântida\r^e12500Facção Inimiga:^N Submundo/Santuário\rA Estátua de Poseidon é a personificação do Imperador dos Mares.\rJogadores poderosos da Facção de Atlântida podem obter prêmios ao proteger a Estátua.\rJogadores de outras Facções podem atacar a Estátua e saquear os tesouros.\rQual será a Facção vitoriosa?
+714	^e12500Local:^N Santuário 11\r^e12500Facção:^N Submundo\r^e12500Facção Inimiga:^N Atlântida/Santuário\rA Estátua de Hades é a personificação do Imperador do Submundo.\rJogadores poderosos da Facção do Submundo podem obter prêmios ao proteger a Estátua.\rJogadores de outras Facções podem atacar a Estátua e saquear os tesouros.\rQual será a Facção vitoriosa?
+715	Jogadores: 2-6\rNota: A dificuldade é alta; recomenda-se montar um grupo completo para participar.\rQuando os pontos de herói ultrapassarem 60, poderá participar. Dropa 5 prêmios a cada semana, no máximo. O número de vezes de realização será contabilizado junto com outras Dungeons de Herói.\rUm grupo de Guerreiros do Gelo invadiu o Castelo do Graad Azul. Eles planejam confrontar Athena, deixando a Terra em chamas, novamente.\rCavaleiros leais, derrubem o Castelo do Graad Azul e destruam o plano deles.
+716	Jogadores: 2-6\rNota: A dificuldade é alta; recomenda-se montar um grupo completo para participar\rQuando os pontos de herói ultrapassarem 60, poderá participar. Dropa 5 prêmios a cada semana, no máximo. O número de vezes de realização será contabilizado junto com outras Dungeons de Herói.\rO Castelo de Hades é o território dos Espectros na superfície e, ao mesmo tempo, é também a entrada que leva ao Submundo.\rSomente invadindo o Castelo de Hades e eliminando os servos do Imperador do Submundo é que os Cavaleiros poderão abrir o caminho para salvar Athena.
+717	Todo dia, os jogadores cujo grau de atividade atingir 20, poderão receber um Objeto do Amor Verdadeiro com Eros, que poderá ser usado para trocar por ferramentas preciosas.
+718	Todos os dias, em um período determinado, serão abertas as inscrições individuais para formação de time multiservidor. O jogador pode se inscrever individualmente e, depois que o sistema encontrar grupos com a força semelhante à sua, entrará no duelo multiservidor 5vs5. Dentre os 3 modos de competição, escolha um aleatoriamente para entrar em PK. Ao vencer, obterá a reputação da competição para trocá-la por prêmios de grande valor!
+719	Todos os dias, em um período determinado, serão abertas as inscrições em grupo para a formação de time multiservidor; depois que os jogadores formarem grupos de 5 pessoas, o Capitão deve clicar em inscrever-se. Depois que o sistema encontrar grupos com a força semelhante à sua, entrará no duelo multiservidor 5v5. Dentre os 3 modos de competição, escolha um aleatoriamente para entrar em PK. Ao vencer, obterá a reputação da competição para trocá-la por prêmios de grande valor!
+720	Pode ser realizado apenas 1 vez por semana.\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Castelo do Graad Azul e, ao vencer, poderá obter uma grande quantidade de prêmios!
+721	Pode ser realizado apenas 1 vez por semana.\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Castelo de Hades e, ao vencer, poderá obter uma grande quantidade de prêmios!
+722	No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 89, e concederá prêmio de Pontos de Favor para jogadores acima do nível 90.
+723	Todos os dias, das 12:00 às 14:00 e das 20:00 às 22:00.\rNo "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 89, e Pontos de Favor serão concedidos para jogadores acima do nível 90.\rEm "Conflito das Doze Casas", o nível dos monstros é baseado no nível médio dos membros do grupo. Só pode participar 1 vez por dia, e recomenda-se um grupo de ao menos 6 pessoas para participar.\rContexto: As forças de Hades estão invadindo o Santuário. As forças do Imperador do Submundo estão invadindo o Santuário! Cavaleiros, protejam o portão!
+724	Jogadores: 3-6\rVocê pode realizar a Quest Tsunami em Atlântida, todas as Quartas e Sábados, uma vez por dia.\rNota: No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 89, e concederá Pontos de Favor para jogadores acima do nível 90.\rEm "Tsunami em Atlântida", o nível dos monstros é baseado no nível médio dos membros do grupo.\rContexto: Os Tsunamis são frequentes, o desastre é grande e pessoas estão rezando para que a glória da Deusa ilumine a Terra. O Santuário precisa que você investigue a verdade por trás dos tsunamis e acalme-os.
+725	Regra de Luta: 18v18\rDivisão de níveis: 60-79; 80-94; 95-Prática Concentrada 2; Prática Concentrada 3-Prática Concentrada 10[Campo de Batalha do Céu]pode ser compreendido como um Campo de Batalha de voo; este não é apenas um lugar para testar sua capacidade de luta terrestre, mas também onde você pode exibir suas qualidades de batalhas aéreas.\rPode receber a Quest com a Emissária da Batalha dos Deuses, Aline: Vitória! Novo ápice. \rApós a conclusão, obterá uma grande quantidade de prêmios.
+726	Durante a celebração de aniversário, obtenha 20 pontos do Grau de Atividade todos os dias para poder receber uma grande medalha de celebração de aniversário.
+727	Durante a celebração do aniversário, com 20-22 pontos diários poderá receber um emblema de montaria de celebração de aniversário.
+728	Montaria Alada Demoníaca (permanente)
+729	Durante a Comemoração de Aniversário, todo dia, das 20h até 22h, pode receber um Fragmento Ouro.
+730	　　Jogadores: Solo\rVocê pode receber a Quest Teste de Visão uma vez por dia.\rNota: Subtraia os pássaros atingidos por tiros e acrescente os nascidos dos ovos. Aceite o desafio final e você terá a oportunidade de obter um prêmio misterioso!\rMarin quer te desafiar em um treinamento de alto grau de dificuldade para aguçar sua visão.\rEla preparou um monte de pássaros para você; quando eles passarem voando, você deve saber o número exato deles.
+731	^e12500Chave Cósmica x200
+732	Período do Evento: 22 de julho até 04 de agosto. Todo dia, quando o grau de atividade atingir 20, receberá um Vigor Ilimitado.\rAo coletar 1, 3, 6 ou 9 unidades desse item, poderá procurar Shiryu para trocar por prêmio de Verão Sem Fim.
+733	Período do Evento: 22 de julho até 04 de agosto. Através da realização de Quests e Dungeons Diários, receberá Pacote de Presente de EXP de Verão.
+734	Jogadores: 3-6\rNota: No "Modo Discípulo", o prêmio ao passar de fase será de acordo com o número de jogadores de nível abaixo de 89, e concederá prêmio de Pontos de Favor para jogadores acima do nível 90.\rRozan nas memórias, dez anos de histórias e sentimentos. Este evento será selecionado aleatoriamente entre as 6 Dungeons como "Desafio de Rozan" ou "Desafio de Ouro do Submundo".
+735	Período do Evento: 12 a 19 de agosto. Através da realização de Quests e Dungeons Diários, receberá Fragmento do Mapa do Tesouro Escondido. O jogador que possuir 1 kit de Fragmentos pode trocar por um Mapa e, com este, receber o prêmio.
+736	Período do Evento: A partir de agora até 22 de setembro. Todo dia, quando o grau de atividade atingir 20, receberá 2 Bilhetes de Troca do Festival de Outono.\rAo coletar 1, 8, 14, 25, 45 ou 70 Bilhetes, poderá procurar Shiryu para trocar por Presente do Festival do Renascimento.
+737	Período do Evento: a partir de agora até 22 de Setembro, todos os dias das 20:00 às 22:00, pode receber 1 Bilhete de Troca do Festival de Outono. Ao coletar 1, 8, 14, 25, 45 ou 70 Bilhetes, poderá procurar Shiryu para trocar por Presente do Festival do Renascimento.
+738	A Deusa agradece a sua contribuição para o Santuário, portanto, ao finalizar algumas Quests simples todos os dias, poderá receber uma grande quantidade de Gem.
+739	Período do Evento: a partir de agora até 7 de outubro, todos os dias das 20:00 às 22:00, pode receber 1 Bilhete de Troca do Dia Nacional e Prêmio da Celebração com o Furioso, Emissário do Dia Nacional. Ao coletar 5, poderá trocar por Prêmio Perfeição do Dia Nacional com o Furioso, após dia 08 de outubro.
+740	Período do Evento: a partir de agora até 01 de dezembro. Todo dia, ao entrar no jogo, pode procurar Athena para receber um Buff de EXP Online. Dura 3h e a cada 10 minutos aumenta um pouco de EXP.
+741	Período do Evento: a partir de agora até 07 de outubro. Todos os dias das 12:00 às 13:00 e das 21:00 às 22:00, na Linha 15 do Santuário aparecerá o Palhaço do Dia Nacional. Ao matá-lo, receberá prêmio, o qual poderá ser ativado apenas 20 vezes. Se ultrapassar disso, terá que vender na loja.
+742	Período do Evento: 28 de outubro a 03 de novembro, das 20:00 às 22:00. Receber na Lanterna de Abóbora ou dropar ao matar o BOSS Final das Dungeons Crise das Doze Casas, Renascimento, Incubação e Relógio.\rAo coletar 1, 3, 6 ou 9 Balas de Fruta poderá trocar por prêmio generoso com a Lanterna de Abóbora. Se conseguir 9 Balas, receberá o Título Especial do Dia das Bruxas.
+743	Período: dia 08 de novembro até 14 de novembro.Poderá procurar por Filho da Deusa do Amor para receber a Quest todo dia
+744	Período do Evento: 10 de novembro a 16 de novembro, todos os dias das 12:00 às 14:00 ou das 20:00 às 22:00. Ao ficar online, receberá um Bilhete de Participação de Puzzle com um número de 1 a 10, sendo 6 a 10 números raros. Após a utilização do item, terá BUFF de um número e é necessário que encontre outro jogador que possui um BUFF cujo número somado ao seu dará 11. Quando tiver BUFF de dois números que a soma seja 11, automaticamente irá receber Quest de prêmio. Atenção: os dois números de BUFF não podem vir da mesma pessoa, deve encontrar outro jogador para que completem juntos.
+745	Jogadores: 12\rNota: Poderá participar, quando os Pontos Heroicos ultrapassarem 60.\rRecomenda-se formar grupo com 1 Tanque, 3 Curas e 8 Danos.\rDungeon de Equipamento de Tropa de Nível Épico. Cada BOSS dropa apenas uma vez por semana e dropa separado da Dungeon de "Herói". Quanto maior o grau de dificuldade, melhor o drop. Por isso, todos os Cavaleiros devem aproveitar essas oportunidades.
+746	Jogadores: 6-12\rVocê pode receber a Quest O Fim de Hades uma vez por semana\rDepois de receber a Quest, forme um grupo para participar de [Heroico]Castelo do Graad Azul, [Heroico]Castelo de Hades e [Epopeia]O Fim de Hades. Ao vencer, poderá obter uma grande quantidade de prêmios!
+747	Montaria limitada
+748	Título
+749	Período do evento: a partir de agora até 01 de Dezembro. Todo dia, quando o Grau de Atividade ultrapassar 20, pode receber um Peru de Ação de Graças com Eros. Ao juntar 1, 3 ou 5 perus, poderá ir até o Filho da Deusa do Amor trocar por prêmios surpreendentes.
+750	Período do evento: a partir de agora até 01 de Dezembro. Todo dia, das 20:00 às 21h, na linha 11-15 do Santuário, irá aparecer o Ladrão Cavalheiro misterioso. Ao matá-lo, irá obter prêmio, o qual só pode ser ativado 20 vezes. Caso ultrapasse, 请自行卖店.
+751	Benefício exclusivo do Servidor de Teste. Pode receber grande quantidade de EXP, todos os dias
+752	Benefício exclusivo do Servidor de Teste. Pode receber 1000 Gem, todos os dias
+753	Período do evento: de 23 de Dezembro a 12 de Janeiro. Todo dia, quando o Grau de Atividade ultrapassar 20, pode receber um Cartão de Natal e Ano Novo na Árvore de Natal. Ao juntar 3, 6, 10 ou 15 cartões, poderá trocar por prêmios surpreendentes com o Papai Noel.
+754	Período do evento: de 23 a 25 de Dezembro, das 20:00 às 22:00. Pode receber diariamente Informação do Papai Noel, na Árvore de Natal. De 01 a 03 de Janeiro, poderá trocar diariamente Informação do Papai Noel por prêmio correspondente com o Papai Noel.
+755	Período do evento: de 23 a 25 de Dezembro. Todos os dias, pode receber dois "Envelopes vermelhos grandes de Ano Novo" na Árvore de Natal. De 01 a 03 de Janeiro, o envelope vermelho pode ser usado por outros jogadores e todos podem obter prêmios.
+756	Período do evento: de 01 a 03 de Janeiro. Todos os dias, ao completar duas vezes a Quest do Campo de Batalha de Ática ou Campo de Batalha Caótico, poderá obter uma vez o prêmio duplo adicional do Campo de Batalha.
+757	Aprisionada na Montanha de Gelo, a Deusa Kirsi enviou seus subordinados na época mais fria do ano para se vingar dos Deuses do Monte Olimpo que a haviam confinado. Nesse momento, inúmeros Bonecos de Neve estão invadindo a Sibéria Oriental, ameaçando a paz da Terra. Corajosos Cavaleiros, derrotem esses detestáveis invasores!
+758	Período do evento: de 01 a 03 de Janeiro, poderá trocar diariamente Informação do Papai Noel por prêmio correspondente com o Papai Noel.
+759	Sangue de Prata
+760	Período do evento: de 20 a 26 de Janeiro. Todos os dias, jogadores cujo Grau de Atividade atingir 20, poderão receber um "Fragmento de Tesouro grande". O jogador que juntar 1, 3 ou 5 fragmentos, poderá trocar prêmios generosos com o Emissário de Presentes!
+761	100 unidades de Sangue de Ouro
+762	Período do evento: de 23 a 25 de Janeiro. Os jogadores podem entrar no GT, ouvir a Rádio Exclusiva dos Cavaleiros e o programa "Taverna Galáctica". O famoso apresentador do programa ——coco irá guiá-los durante a missão. Diariamente, nos períodos de 20:10-20:20, 20:25-20:35, 20:40-20:50, surgirão 3 missões da transmissão, com 5 números premiados. A rádio lhe dará estes números e ao selecioná-lo corretamente, obterá prêmios generosos.
+763	Período do evento: de 20 a 26 de Janeiro. Durante o evento, todos os dias, ao dar o golpe final nos Bosses das Dungeons Renascimento, Incubação, Crise das Doze Casas, Abismo, Lamento, Renascimento, Tempestade, Contracorrente, Deusa, entre outras, poderá obter Pacote Quente e Frio extra.
+764	Período: dia 26 de janeiro até 15 de fevereiro.Durante o evento, ao completar 3 Dungeons Lamentação, Deusa e Incubação, cada Dungeon lhe dará um Bolinho de Ano Novo.Com 3 Bolinhos de Ano Novo, poderá trocar com Grande Mestre SD por um Ingresso do Festival das Lanternas.No ato da troca, irá obter uma quantidade de EXP e Silver. Com 10 Ingressos do Festival da Lanterna, durante o período de 16 de Fevereiro a 2 de Março, poderá trocar um presente generoso do Festival da Lanterna com Grande Mestre SD.
+765	Durante o evento, os jogadores que fizerem login diariamente, irão receber status de “Bênção da Deusa" com Athena SD. O status pode durar 3 horas. Ao recebê-lo, a cada 5 minutos, irá obter EXP ou Astro EXP correspondentes e Silver como prêmio.
+766	Durante o evento, dentro do prazo estabelecido (20:00 às 21:00), os jogadores não precisam realizar nenhuma tarefa, é necessário apenas que fiquem online e a cada 10 minutos, obterão prêmios generosos. Além desses benefícios, ainda poderão obter aleatoriamente diversos tipos de prêmios valiosos!
+767	Durante o evento, para que o Cavaleiro tenha um feliz Ano Novo, preparamos um presente generoso para todos. Durante o evento, quando o jogador estiver online, poderá receber 1x "Pacote de presente grande do Ano da Cabra" (somente 1x); depois de abri-lo, obterá separadamente o Pacote de Presente grande de Bronze do Ano da Cabra, Pacote de Presente grande de Prata do Ano da Cabra, Pacote de Presente grande de Ouro do Ano da Cabra, Pacote de Presente grande de Platina do Ano da Cabra; Só pode abrir 1 Pacote por dia, em ordem crescente (abertura do pacote é do dia 01 a 15 de janeiro, no calendário lunar). Os 4 Pacotes de Presente contém prêmios generosos e bastante EXP.
+768	Período do evento (10 de Fevereiro a 09 de Março). Todos os dias, no WeChat oficial de Cavaleiros do Zodíaco, serão concedidos códigos de ativação para pacotes de presente. Cada número do WeChat pode participar do evento e receber 1x por dia. Com o código de ativação, vá até NPC Zoe (Santuário -241,-402), clique em NPC-Zoe e, depois do diálogo, escolha a opção de Cartão de Presente, insira o código de ativação obtido e clique em confirmar. Use para trocar por 1x Bolsa da Sorte de Feliz Ano Novo (ative para obter 1x Guioza da Felicidade e 1 Cartão de Felicitações de Ano Novo). Colecionando 1, 3, 6, ou 9 Guiozas, poderá trocar por 1 pacote de prêmios de grande valor, com Athena SD (de 19 de Fevereiro a 03 de Março). Ao usar este Cartão de Felicitações, pode obter 1x prêmio determinado; cada jogador pode usar, no máximo, 30x.
+769	No Dia dos Namorados, o sistema gravará o Broadcast do Mundo, incluindo (nomes dos jogadores abençoados) e (As palavras ou bênçãos feitas do Dia dos Namorados para TA). Cada servidor sorteará, aleatoriamente, 10 para os apaixonados (personagens que enviaram bênçãos e que foram abençoados), concederá o apelido de efeito especial da Versão do Dia dos Namorados 2015: Sempre juntos em 2015. Nota: a lista dos ganhadores dos prêmios do evento será publicada no site oficial depois de 25 de Fevereiro, e tais prêmios serão concedidos depois de 5 dias úteis após a publicação da lista.
+770	Título: Sempre juntos em 2015
+771	Jogadores: 3-6\rVocê pode receber a Quest Ânfora Selada uma vez por dia.\rA Deusa foi presa e levada novamente! Por que eu diria novamente......
+772	Período do evento: de 17 a 23 de Março. Todo dia, ao completar 2x a missão do Campo de Batalha "Ática" ou do Campo de Batalha "Guerra Caótica", poderá obter 1x EXP em dobro no campo de batalha como prêmio extra.
+773	Descrição:\rPeríodo: 20:00 às 22:00\rA cada 10 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+774	Período do evento: de 17 a 30 de Março. Todos os dias, jogadores cujo Grau de Atividade atingir 20, poderão receber 1x "Cartão de ressurgimento das cinzas". O jogador que juntar 1, 3 ou 5 fragmentos, poderá trocar por prêmios generosos com Athena SD!
+775	Para participar de MAX! Meteoro Negro, é necessário matar todos os BOSSES dentro de 10 min! Quanto mais rápido, mais abundantes os prêmios obtidos! Essa é uma aposta de Pandora e Athena; elas estão à procura do Cosmo mais brilhante em todo o mundo. Afinal, quem será aquele que, em meio à guerra infinita, revelará seus talentos e se sobreporá aos demais, como uma estrela brilhante? Venha, Cavaleiro. Em meio ao caos, lute por uma terra de paz!
+776	Para participar de MAX! Furacão das Trevas, é necessário matar todos os BOSSES dentro de 10 min! Quanto mais rápido, mais abundantes os prêmios obtidos! Essa é uma aposta de Pandora e Athena; elas estão à procura do Cosmo mais brilhante em todo o mundo. Afinal, quem será aquele que, em meio à guerra infinita, revelará seus talentos e se sobreporá aos demais, como uma estrela brilhante? Venha, Cavaleiro. Em meio ao caos, lute por uma terra de paz!
+777	Para participar de MAX! Explosão Galáctica, é necessário matar todos os BOSSES dentro de 10 min! Quanto mais rápido, mais abundantes os prêmios obtidos! Essa é uma aposta de Pandora e Athena; elas estão à procura do Cosmo mais brilhante em todo o mundo. Afinal, quem será aquele que, em meio à guerra infinita, revelará seus talentos e se sobreporá aos demais, como uma estrela brilhante? Venha, Cavaleiro. Em meio ao caos, lute por uma terra de paz!
+778	Jogadores: 2-6\rNota: Recomenda-se organizar-se com os companheiros após concluir outras Dungeons para depois entrarem nessa a fim de receberem mais Silver.\rO Caminho da Tormenta é um conjunto de Dungeons que produz Silver. A cada rodada é preciso concluir 5 dessas zonas; ao concluir cada rodada, haverá agradáveis surpresas te esperando. Seu grau de dificuldade não é alto, mas consome um pouco mais de tempo.
+779	Para participar de MAX! Sinfonia Final, é necessário matar todos os BOSSES dentro de 10 min! Quanto mais rápido, mais abundantes os prêmios obtidos! Essa é uma aposta de Pandora e Athena; elas estão à procura do Cosmo mais brilhante em todo o mundo. Afinal, quem será aquele que, em meio à guerra infinita, revelará seus talentos e se sobreporá aos demais, como uma estrela brilhante? Venha, Cavaleiro. Em meio ao caos, lute por uma terra de paz!
+780	Para participar de MAX! Destruição Máxima, é necessário matar todos os BOSSES dentro de 10 min! Quanto mais rápido, mais abundantes os prêmios obtidos! Essa é uma aposta de Pandora e Athena; elas estão à procura do Cosmo mais brilhante em todo o mundo. Afinal, quem será aquele que, em meio à guerra infinita, revelará seus talentos e se sobreporá aos demais, como uma estrela brilhante? Venha, Cavaleiro. Em meio ao caos, lute por uma terra de paz!
+781	Jogadores: 2-6\rNo Buraco Negro Infinito gerado por Pandora, é preciso matar uma rodada de inimigos dentro de 10 min; uma rodada equivale a 5 BOSSES da ilusão! Ao matar uma rodada de inimigos, o tempo do desafio será reestabelecido! É claro que os BOSSES da ilusão que aparecerão em seguida serão mais e mais poderosos! As apostas já estão chegando ao fim! Venha, Cavaleiro! Em meio a esse buraco negro infinito, lute por uma terra de paz!
+782	Escala de Combate : 8-15 pessoas / equipe.\rLiberado no nível 100.\rA Competição de Sobrevivência é o primeiro campo de batalha que admite três grupos e adota o modo de 'Combate Mortal'.A vitória será obtida pelo grupo que arrancar 50 cabeças primeiro!\rPode receber a Quest com a Emissária da Batalha dos Deuses, Aline: Bom!Começo.Após a conclusão, obterá uma grande quantidade de recompensa.
+783	Neste caos forjado, o tempo foi cortado em segmentos. O modo de reestabelecimento do tempo você já conhece: é preciso matar uma rodada de inimigos dentro de 10 min; uma rodada equivale a 5 BOSSES da ilusão! É claro que isso também é uma oportunidade de provar a si mesmo! Venha, Cavaleiro! Destrua esse caos forjado e seja o dono desse mundo!
+784	Jogadores: 5x5\rNota: Pets acima do nível 30 (30-79, 80-99 e nível 100; são 3 fases).\rParticipem juntos da batalha 5x5 rápida e a grande quantidade de prêmios vai fazer com que você não consiga parar!\rVocê se lembra dos dias em que lutava junto de seu Pet? Batalhas emocionantes, gritos entusiasmados, felicidades da vitória e tristezas da derrota; tudo isso está no Torneio de Ouro. O que está esperando?! Venha participar já!
+785	Período do evento: 16 a 22 de Junho. Todo dia, ao completar 2x a missão do Campo de Batalha "Ática" ou do Campo de Batalha "Guerra Caótica", poderá obter 1x EXP em dobro no campo de batalha como prêmio extra.
+786	Período: De 16 a 22 de Junho, das 20:00 às 21:00.\rA cada 10 minutos, aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+787	Período do evento: a partir de agora até 27 de Abril. Todos os dias, quando o Grau de Atividade atingir 20, pode receber 1x Cartão de Renascimento da Alma de Ouro com Aioria. Ao juntar 1, 3 ou 5, poderá ir até o Emissário dos Presentes para trocar por prêmios surpreendentes.
+788	Período do evento: A partir de agora até 27 de Abril. Durante o período do evento, todos os dias, ao passar de fase nas Dungeons das Doze Casas, Atlântida, Renascimento, Abismo, Incubação, Lamento, Contracorrente, Saori e etc, poderá obter como prêmio extra Alma de Ouro.
+789	Período do evento: A partir de agora até 12 de Maio, todos os dias, ao passar de fase nas Dungeons das Doze Casas, Atlântida, Renascimento, Abismo, Incubação, Lamento, Contracorrente, Saori e etc, obterá como prêmio extra, aleatoriamente, "Honra e", "Glória do", "Dia do", "Trabalho".
+790	Período do evento: 22 de Maio a 05 de Junho. Todos os dias, jogadores cujo Grau de Atividade atingir 20 poderão receber 1x "Fragmento de Moda de Edição Limitada" e, o jogador que colecionar 7x + Edição limitada (tempo limitado) poderá trocar por 1x kit de moda permamente com Athena SD.
+791	Período do evento: 22 a 28 de Maio, todas as noites, das 20:00 às 21:00. No período online, começando a partir da hora em que ficou online, a cada intervalo de 10 min, um presente misterioso será dado a você automaticamente. Não percam!
+792	Período do evento: 22 de Maio a 05 de Junho, todo dia, ao completar a missão do Campo de Batalha "Vitória!Novo Ápice", poderá receber um prêmio do Campo de Batalha com o Grande Mestre SD.
+793	^e12500Local:^N Castelo de Hades 3\r^e12500Facção:^N ---\r^e12500Facção Inimiga:^N Todas\rHeilong é um BOSS Mudial voador. É preciso permanecer voando para poder atacá-lo, do contrário, a maldição do Dragão das Trevas que fica na nuvem abaixo dele esmagará vocês! Heilong aparecerá todos os dias no Castelo de Hades 3, num horário específico.\rJogadores de nível alto de qualquer Facção podem desafiá-lo. Quando desafiá-lo, talvez você enfrente poderosas ameaças de jogadores de outras Facções. Pela honra da Facção, ao ataque!
+794	Jogadores: Solo\rVocê pode receber a Quest Cruzada! BOSS Mundial uma vez por dia.\rInicie a Quest e ataque o BOSS Mundial correspondente para poder receber as recompensas. Prêmios muito generosos o aguardam!
+795	Sob liderança de Athena, os Cavaleiros acabaram com o sonho de Hades; será que esse é mesmo o fim? O futuro claro está cada vez mais enevoado, e as sombras no céu predizem que uma guerra ainda mais cruel está por vir......\rJogadores acima do nível 90 que participam desse evento, ao coletar pedaços do Pergaminho do Caos o suficiente podem obter Revelação da Profecia. Além disso, enquanto vocês se esforçam para buscar a verdade para proteger o Santuário, os guardiões de Athena estão aparecendo a cada instante, para dar prêmios generosos a vocês!
+796	Período: A partir de agora até 24 de Maio, se o grau de atividade diária atingir 120, poderá receber um 'Presente de Atividade Diária', com chances de receber um grande prêmio surpresa.
+797	Período do evento: a partir de agora até 25 de Outubro, todos os dias, quando o Grau de Atividade ultrapassar 100, pode receber 1x "Alma laranja ou dourada" com Athena SD.\rAo colecionar 7x, pode trocar por 1x Alma de propriedade dourada nível 1 com o Grande Mestre SD.
+798	Período do evento: a partir de agora até 01 de Novembro, todo os dia dias, quando estiver online, pode receber 3x "Fragmento de Pet" com Athena SD.\rColecionando 1x, 10x, pode trocar com um prêmio de ferramenta com o Grande Mestre SD, com 30x, pode trocar por um Pet eterno.
+799	Período: 12 de maio até 24 de maio, das 19: 00 até 22: 00.\rA cada hora aparecerá na tela do jogo um Baú do Tesouro da Estrela da Sorte, clique nele para receber grandes prêmios misteriosos!Por favor, não percam!
+800	Jogadores: 2-6\rNota: Pode participar quando os pontos de herói alcançarem mais de 60. Dropa um prêmio a cada semana, no máximo. A dificuldade é alta e recomenda-se montar um grupo completo para participar.\rO Poder Divino Ancestral é protegido pelos 12 Cavaleiros Divinos de Ouro, que representam justiça e paz.\rGuerreiros da justiça que querem esse poder, aceitem a prova dos 12 Cavaleiros Divinos de Ouro!
+801	^e12500Local:^N Campo Elísios 2\r^e12500Facção:^N ---\r^e12500Facção Inimiga:^N Todas\rSombra de Hades é atualizado às 21:30, toda noite. Ao lado dele haverá vários vultos de Hades que o protegem e o último golpe que mata esses guardas obterá uma boa recompensa.\rJogadores de alto nível de qualquer facção podem desafiá-lo. Quando desafiá-lo, pode ser que tenha que enfrentar uma enorme ameaça dos jogadores de outra facção. Para honrar a Facção, ataque!
+802	Período: 22 de dezembro até 28 de Dezembro.\rOs presentes que o Papai Noel preparou sofreram destruição das forças do mal, se transformando em Fadas de Gelo e fugiram para todos os lados
+803	Período: 26 de janeiro até 15 de fevereiro de 2016.\rPersonagens acima do nível 80, se o grau de atividade diária atingir 15 e 180, ativará o baú do tesouro.Pode obter um Bilhete de Troca do Emblema de Proteção.\rAo juntar 30 Bilhetes, poderá trocar por um Escudeiro de Filho da Deusa do Amor.Cada personagem poderá trocar somente 2 vezes.\rPeríodo da troca: 16 de fevereiro até 22 de fevereiro de 2016
+804	Período: 26 de janeiro até 15 fevereiro de 2016.\rDurante o evento, personagens acima de nível 80, ao abrir o baú do tesouro do grau de atividade diária de 55, 110 e 180 podem receber um envelope vermelho do Ano de Macaco comum, raro e precioso, respectivamente.\rTodos os Cavaleiros que derem o golpe final nos Mapas Grandes também podem receber um envelope vermelho do Ano de Macaco.Cidade de Hades: Guardas de Hades, Borboleta do Submundo, Espião do Submundo, Perseguidores do Submundo, Assassino do Submundo, Zumbi do Cemitério, Andarilho do Submundo, Flor Demoníaca, Ceifador do Submundo, Amigas da Victória, Soldado do Submundo, Morcego Sanguinário, Morcego de Sangue A, Morcego de Sangue B, Morcego de Sangue AB, Morcego de Sangue O;\rSubmundo: Demônio da Primeira Prisão, Demônio da Segunda Prisão, Demônio da Terceira Prisão, Demônio da Quarta Prisão, Demônio da Quinta Prisão, Fantoche de Sangue, Juiz Violento, Flor Devoradora de Almas, Besouro Venenoso, Guarda das Cobras, Guarda de Titã, Caçadores do Gelo, Guardião do Submundo, Guardião do Gelo, Alma do Zumbi;\rCampos Elísios: Fada da Floresta, Fada Guarda, Monstro Fada Guarda
+805	Período: 26 de janeiro até 15 de fevereiro de 2016.\rJunte 100, 300, 500 ou 1000 Fragmentos do Ano de Macaco, mais os Gold correspondente para trocar pelo Presente Especial de Ano Novo.\r100 unidades podem ser trocados por Pacote de Habilidade de Dança Deslumbrante, 300 por Cartão de Transformação de Sagitário (permanente), 500 por Montaria Força Divina da Destruição, do Sol ou do Ouro e 1000 por Edição Esgotada da Montaria do Urso Gigante.\rPeríodo da troca: 16 de fevereiro até 22 de fevereiro de 2016
+806	Período: 4 de fevereiro até 15 de fevereiro de 2016.\rDurante o evento, todos os Cavaleiros podem seguir a conta do Wechat Oficial wanmeiseiya e, ao responder ''Roleta poderá obter o código bidimensional do evento.\rClique nele e segure para a opção 'Reconhecer o Código Bidimensional' para participar do sorteio.Ou visite a página oficial do evento e faça a leitura do código.\rSão 2 chances de sorteio todos os dias, o primeiro sorteio é direto e a segunda chance será obtida ao compartilhar com os amigos.Poderá verificar o registro de premiação dentro da pesquisa de prêmios e poderá usar o código de troca para trocar por prêmios no jogo.\rVisite o site oficial para maiores detalhes.\rPeríodo de troca: até 29 de fevereiro de 2016
+807	O incidente de Névoa Vermelha fez o Cristal Mitológico ficar escasso, por favor, colete 10 Cristais Mitológicos em Um Dragão e entregue à grande farmacêutica Emílio.
+808	Deus do Nada Lamech já ordenou seus servos atacarem o Santuário, o qual está com uma defesa fraca.Por favor, vá até a porta do Santuário no dia 15 de abril de 2016, às 20 horas, para defendê-lo.
+809	Período: 15 de março até 22 de março, das 20: 00 até 20: 30.\rSolteiros do Submundo invadiram o Mar Egeu!Derrote 100 guerreiros do Submundo e poderá contrariar a Deusa do Amor do Submundo, ganhando bons prêmios!Corre lá!
+810	Jogadores: Solo\rVocê pode receber a Quest Névoa Vermelha todo sábado das 20: 00 até 23: 00\rO Deus do Nada, Lamech, nasce na fenda do Caos. Com a resistência contínua dos Cavaleiros, será que o plano do Deus do Nada de acabar com o mundo irá se concretizar?
+811	O Cavaleiro de Ouro de Leão, Aioria, sempre quis ter uma chance de voltar no passado!Assim, poderia ajudar o seu irmão, reescrevendo o destino da vida!Quando realmente teve essa chance, apareceram muitas pessoas para atrapalhá-lo!Jovens Cavaleiros, derrotem esses insignificantes que estão em volta de "Aioria"!
+812	Período: A partir de hoje até dia 14 de novembro, o personagem que entrar no jogo obterá um prêmio.
+813	Descrição: Ao atingir 200 ou mais pontos de atividade diária, pode receber uma recompensa.
+814	Descrição: Complete uma missão no campo de batalha (1 vez por dia) para receber o Pacote do Assasino.
+815	Descrição: Os jogadores podem receber a missão diária Repelir o Mal. O objetivo da missão é derrotar 5 mil monstros aleatórios. A premiação está repleta de itens, participe!
+816	Descrição: Jogadores podem procurar o NPC Eros, filho da deusa do amor e receber a quest de Ação de Graças.
+817	Descrição: Jogadores podem procurar o NPC Papai Noel e receber um Envelope Vermelho Duplo.
+818	Descrição: Receba a quest com o NPC Papai Noel. Derrote monstros na Sibéria para coletar partes do boneco de neve e entregue-as ao Papai Noel para receber recompensas.
+819	Descrição: Jogadores podem procurar o NPC Papai Noel e receber a quest.
+820	Descrição: Para agradecer aos Cavaleiros, a Deusa Athena nos presenteia com as sementes da árvore da prosperidade. Enquanto cuidarmos e cultivarmos a árvore, seu poder cobrirá todo o mundo e tidos receberão recompensas.
+821	Descrição: Na Base do Exército, jogadores podem receber diariamente o BUFF Recompensa Divina (duração de 3 horas) que fornece recompensas a cada 15 minutos online.
+822	Descrição: Enquanto equipado com o Chapéu Cacarejo, procure o NPC Professor Kurumada para receber a quest (uma vez ao dia).
+823	Descrição: Procure o NPC Gerente[Fundação] na Base do Exército para receber a quest (uma vez ao dia).
+824	Descrição: Ao realizar Proteja Athena (uma vez ao dia), poderá receber o item Cartão de Fundos e utilizá-lo para trocar por recompensas com o NPC Professor Kurumada.
+825	Descrição: Durante o período do evento, pode receber recompensa com o NPC Professor Kurumada.
+826	Descrição: Durante o período do evento, pode receber a quest com o NPC Professor Kurumada (diariamente).
+827	Descrição: Durante o evento, ao derrotar monstros em Campos Elísios, Submundo, Castelo de Hades, Ilha de Andrômeda, Atlântida, Sibéria Oriental, Ilha da Rainha da Morte e Estrada Esquecida, é possível dropar Fragmento de Festival. Ao acumular vários, pode trocá-los por recompensas.
+828	Descrição: Durante o evento, jogadores recebem conjunto de traje (10 dias). Uma vez por dia, podem receber o item Troca de Traje. Ao juntar 7 unidades do item, podem trocar por Insígnia de Moda Clássica com NPC Professor Kurumada.
+829	Descrição: Diariamente, no período das 20:00 às 23:59, jogadores podem receber 500 GEM com o NPC Celebração na Cidade Prata
+830	Descrição: Ao atingir 200 pontos de atividade no dia, você pode receber 1 Cartão Especial, que pode ser trocado por um grande prêmio.
+831	Descrição: Durante o evento, pode receber Cartão de Retorno e utilizá-lo para trocar por uma super recompensa após o evento.
+832	Descrição: Ao atingir 200 pontos de atividade no dia, você pode receber 1 Pacote de Recompensa Diária.
+833	Descrição: Os jogadores podem receber a missão diária Repelir o Mal. O objetivo da missão é derrotar 5 mil monstros aleatórios. A premiação está repleta de itens, participe!
+834	Descrição:\rPeríodo: 20:00 às 22:00\rA cada 10 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+835	Descrição:\rPeríodo: 20:00 às 22:00\rA cada 10 minutos aparecerá aleatoriamente um baú do tesouro na interface do jogo, clique nele para receber prêmios misteriosos! Quando o baú aparecer, você terá apenas 2 minutos para coletar a recompensa, não perca!
+836	12级以上当天获得55点活跃度可开启，70级以上开启此宝箱还可额外获得2个神器碎片。
+837	12级以上当天获得110点活跃度可开启，70级以上开启此宝箱还可额外获得3个神器碎片。
+838	12级以上当天获得180点活跃度可开启，70级以上开启此宝箱还可额外获得3个神器碎片。
+839	[活动]传承！黄金试炼（神战三环）
+840	[活动]大反攻！冰国邪神（神战三环）
+841	[活动]圣战回忆
+842	15级以上
+843	35级以上(^fffd44掉落29-48级装备^N)
+844	45级以上(^fffd44掉落38-56级装备^N)
+845	55级以上(^fffd44掉落48-63级装备^N)
+846	70级以上(^fffd44掉落68-81级装备^N)
+847	80级以上(^fffd44掉落78-89级装备^N)
+848	[战场]胜利！战场的荣耀
+849	[个人]超级跑跑(幸运星)
+850	30-100级(^fffd44只能获得59级奖励^N)
+851	60级以上(^fffd44掉落56-68级装备^N)
+852	68级以上(^fffd44掉落60-75级装备^N)
+853	90级以上(^fffd44掉落89-99级装备^N)
+854	[个人]超级跑跑
+855	[月度]女神！仲夏的神祈
+856	[月度]复生狂欢-天降宝箱
+857	[月度]中秋！桂花酒的幻想
+858	[活动]危急！女神的心意
+859	[军团]过大年！黄金军团
+860	[活动]复生！大斗技场神话（神战）
+861	[战场]胜利！王者之路
+862	[活动]逆流！黄金试炼（神战三环）
+863	（6人）
+864	[活动]梦神！如梦似归尘（神战三环）
+865	[节日]爱神征集令
+866	110级以上
+867	(6-12人 推荐满队)
+868	[节日]圣诞老人的困境
+869	[活动]风暴！封印之壶（神战英雄）
+870	[节日]浴火！天降宝箱
+871	各种血等
+872	与高级活动“重生！圣域镇魂歌”共同计次。\r每天12：00-14：00、20：00-22：00开启。\r集结！十二宫危机中怪物等级为队伍成员的平均等级，每天只能参加一次活动，建议组满6人再去参加。\r背景：冥王的势力正在入侵圣域，圣斗士们快去保卫圣域大门！
+873	圣战回忆3人组队即可参加，建议多叫上一些队友。\r背景：玩家在祭奠前代圣战死去的圣斗士时，突然被莫名的力量影响，回到了前次圣战中的圣域，亲历了上次圣战的艰苦战斗。
+874	圣斗士世界中流传着各种各样圣斗士的故事，那些荣耀的英雄将获得世人的敬仰，而那些邪恶的势力也将为世人所警醒。为了将这些事迹广为流传，车田老师决定将收集到的故事素材创作一部新的作品。\r任务：单人参加。\r60级后可在扫荡使者安迪菲处使用扫荡卡直接完成。
+875	所有神战三环共同计次。\r本活动包括2个有顺序关系的连环挑战副本：\r“双鱼试炼”——“天秤试炼”或“狮子试炼”\r参加任一副本计数1次，每天可累计参加6次，参加“双鱼试炼”需消耗1点神战点，参加“天秤试炼”或“狮子试炼”需消耗2点神战点！
+876	十风穴每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r凤凰座一辉带领的黑暗圣斗士大闹银河竞技场，夺取了射手座的黄金圣衣！\r如今他们盘踞在富士山的十风穴！去挑战强大的一辉和黑暗圣斗士，夺回黄金圣衣吧！
+877	战斗规模：24v24\r等级段划分：40—59；60—79；80—94；95—潜修2；潜修3—潜修10\r为了磨练战斗技艺，迎接新的圣战，圣斗士们在圣战古战场阿提卡遗迹进行实战训练！\r可在神战使者安迪娜处使用神战点接取任务：冲锋！阿提卡遗迹，完成后可获得大量奖励。
+878	黄金十二宫(始)每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r纱织小姐来到圣域与教皇对决，却被教皇派来的刺客用黄金箭射中。为了拯救女神的生命，必须在十二小时内突破由黄金圣斗士把守的十二宫。\r你们能够战胜白羊座的穆先生、金牛座的阿鲁迪巴和神秘的双子座圣斗士吗？
+879	黄金十二宫(续)每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r为了拯救被黄金箭射中的纱织小姐，必须突破巨蟹宫、狮子宫和处女宫。\r残忍的巨蟹座会杀死每一个对手；勇猛的狮子座的出拳速度接近光速；处女座的沙加被称为最接近神的人。爱与正义的少年，你们能够击败这些强大的对手吗？
+880	黄金十二宫(终)每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r为了拯救被黄金箭射中的纱织小姐，必须突破天秤宫、天蝎宫和射手宫。\r天秤座的童虎老师在庐山隐居；射手座的艾俄罗斯死于十三年前的阴谋；以为这样就能够轻松过关吗？天蝎座的米罗可是能使出任何人都无法抵挡的必杀一击。
+881	黄金十二宫(余)每周最多可参加10次，需要先参加[副本]黄金十二宫(终)，获得物品：^61f2ff星之轨迹^N后才能参加。\r为了拯救被黄金箭射中的纱织小姐，必须突破摩羯宫、水瓶宫和双鱼宫。\r摩羯座的圣剑能够斩断一切的有形之物；水瓶座的冻气连分子的运动都能都冻结；双鱼座的剧毒玫瑰是无法逾越的最后屏障。爱与正义的少年，你们还能继续前进吗？
+882	射手之心每周最多可参加10次，且难度较高，推荐组满队伍再去参加。\r为了拯救襁褓中的雅典娜，保护射手座逃脱摩羯座的追击！
+883	圣斗士的成长往往需要伴随着激烈的战斗，女神雅典娜为了磨练她的圣斗士们，决定让他们通过各种磨练来提升自己的实力。斗士们，努力在各种考验中成长吧！
+884	所有神战三环共同计次。本活动包括2个有顺序关系的连环挑战副本：\r“冰火深渊”——“巨狼雪山”或“冰国邪神”\r参加任一副本计数1次，每天可累计参加6次，参加“冰火深渊”消耗1点神战点，参加“巨狼雪山”或“冰国邪神”消耗2点神战点。\r可在扫荡使者安迪菲处使用扫荡卡直接完成。\r支持“传承团队模式”,在传承团队模式中，通关奖励会根据59级以下的玩家人数，给60级以上玩家发放传承值奖励。
+885	冰海神殿每周最多可参加10次，需要先参加[副本]黄金十二宫(余)，获得物品：^61f2ff冰之羽翼^N后才能参加。\r冰之国公主瓦尔基里被尼伯龙根的指环诅咒，化身成女武神。她被海皇势力控制，占据了封印在冰海之下的海皇神殿与雅典娜对抗。为了从诅咒中解救瓦尔基里公主，冲破这封锁冰原的极夜，爱与正义的少年，向着冰海神殿前进吧！
+886	值此端午之际，众多圣斗士都聚集到了庐山。宁静的庐山此刻显得热闹非凡。村长也特别邀请你去庐山参加他们端午节的庆典。还等什么，快去狂欢吧！
+887	仲夏之夜来临时，正是梦神俄尼里伊力量最强大的时候，而雅典娜则要在这一天进行重要的星辰祷告仪式，她会在仪式中消耗许多精力。\r变身为黄金战士，以黄金小宇宙与神的共鸣为女神回复体力，并且阻止前来袭击的梦神及其党羽。
+888	战斗规模：18v18\r等级段划分：80—94；95—潜修2；潜修3—潜修10\r为了与哈迪斯的对抗训练年轻的圣斗士，雅典娜创造了这个混沌战场。在混沌战场中一方为雅典娜部队，另一方扮演冥王的部队，双方进行实战演练。只有最真实的对抗才能磨砺出与神对抗的能力，为了大地的和平，奋斗吧！少年。
+889	在圣斗士之中有很多来自东方一个古老国度的少年。\r这几天正是那个国家的国庆节。可是，身为守护大地和平的圣斗士，少年们无法离开圣域返回自己的国家。因此每年这个时候教皇都命魔铃在圣域为他们进行简单的庆祝。
+890	活动期间，在国庆！东方之龙、中秋夜！月饼大爆炸和觉醒！沙加的六道活动中，随机奖励道具“国”“庆”“快”“乐”四个物品（不绑定）。\r单字物品可以直接打开获得少量经验和金券，集齐4个字可与爱米丽兑换大量经验，每日可兑换1次。
+891	活动时间：12月24日—12月30日，每晚20：00—21：00。\r每隔10分钟将在游戏界面随机弹出宝箱，点击宝箱即可领取海量经验和神秘大奖！每次弹出只有2分钟的领取时间，请大家不要错过！
+892	每周只能完成1次，组满6人方可参加。\r队长需携带物品：城户纱织的委托书，在辰巳德丸处带领队伍接取任务：城户纱织的委托，然后方可参加。
+893	参加复生！大斗技场神话需消耗2次庐山三环计次，庐山三环剩余次数不满2次时无法参加！大斗技场是穆先生利用念力制造出来的试炼场，只有真正有实力的圣斗士们才能通过这里的试炼。
+894	缩小世界中的6V6战场，玩家需要在众多英雄中选择1个获取力量，并使用此力量击败敌方玩家，并最终摧毁对方的堡垒。每周一、三、五、日领取任务后才能获得奖励哦！
+895	梦神带着一群冥斗士准备埋伏在天空战场偷袭圣斗士的事情被正准备中秋节的兔子们知道了，兔子们通知了圣斗士，并为圣斗士准备了新研制的秘密月饼，圣斗士们都变得巨大无比，准备一起踩扁冥斗士吧！
+896	时间回到史昂同冥斗士一起闯入十二宫的那一刻，帮助童虎老师对抗昔日的战友——挑战和童虎老师同样强大的白羊座史昂。
+897	一众冰斗士占据了蓝冰堡。企图与雅典娜对抗，让大地再次燃起战火。\r忠诚的圣斗士们，去踏平蓝冰堡，粉碎他们的企图。\r英雄点数达到60以上时可以参加,每周最多可参加5次，与其他英雄副本共同计次。难度较高，推荐组满队伍再去参加。\r
+898	哈迪斯城是冥斗士在地面的阵地，同时也是地面通往冥界的入口。\r圣斗士们冲入哈迪斯城，粉碎冥王的爪牙,才能打通前往冥界拯救雅典娜的道路。\r英雄点数达到60以上时可以参加,每周最多可参加5次，与其他英雄副本共同计次。难度较高，推荐组满队伍再去参加。\r
+899	所有神战三环共同计次。本活动包括3个有顺序关系的连环挑战副本：\r“逆流！双鱼试炼”——“逆流！天秤试炼”或“逆流！狮子试炼”\r参加任一副本计数1次，每天可累计参加6次，参加“逆流！双鱼试炼”需消耗1点神战点，参加“逆流！天秤试炼”或“逆流！狮子试炼”需消耗2点神战点。\r可在扫荡使者安迪菲处使用扫荡卡直接完成。\r支持“传承团队模式”,在传承团队模式中，通关奖励会根据89级以下的玩家人数，给90级以上玩家发放传承值奖励。
+900	所有神战三环共同计次。本活动包括3个有顺序关系的连环挑战副本：\r“梦起！夏虫朝菌”——“梦幻！断山残崖”或“梦醒！飞流直下”\r参加任一副本计数1次，每天可累计参加6次，参加“梦起！夏虫朝菌”需消耗1点神战点，参加“梦幻！断山残崖”或“梦醒！飞流直下”需消耗2点神战点。\r可在扫荡使者安迪菲处使用扫荡卡直接完成。\r支持“传承团队模式”,在传承团队模式中，通关奖励会根据89级以下的玩家人数，给90级以上玩家发放传承值奖励。
+901	活动时间：11月11日至11月17日，每天上线可找爱神之子领取活动任务，完成任务后不仅能获得任务奖励还能获得特别道具浪漫之证，集齐9个浪漫之证可以兑换特别称号一枚。
+902	活动时间：11月11日至11月17日，每天中午12点-14点或晚上20点-22点上线即可领取对对碰参与券1-10其中之一，6-10为稀有数字，使用物品后会拥有一个数字BUFF，需要寻找数字相加等于11的另一个数字BUFF拥有者。身上拥有两个数字BUFF且相加等于11时自动会接取奖励任务。注意：两个数字BUFF不能同时来自自己，必须寻找其他玩家一起完成。
+903	史诗级团队装备副本，每周每个BOSS仅仅有1次掉落，难度越高，掉落越好，因此请各位圣斗士珍惜自己的掉落机会\r注意，现在史诗副本与英雄副本分开记次，玩家可以攻略英雄副本之后继续攻略史诗副本。\r建议1个坦克玩家，3个治疗玩家，8个输出玩家组队。\r英雄点数达到60以上时可以参加,每周可以进入无限次，但是每周每个BOSS只有一次掉落。
+904	黄金服专有福利，每日可以领取大量经验以及一个小时的3.5倍经验时间
+905	黄金服专有福利，每日可以领取1000星券以及10张扫荡卡
+906	活动时间：2月10日-3月9日，活动期间，每日完成相应等级的哀嚎、女神及孵蛋3大本，每个副本均可获得“新春汤圆”1份，凭3份新春汤圆，每日可至Q版教皇处，兑换花灯门票1张。兑换的同时，获取一定的经验及金券。凭10张花灯门票，可在2月18日-3月9日期间，在Q版教皇处兑换丰厚的元宵节大礼1份，剩下不足10张的花灯门票可以单张兑换小奖品。
+907	参加风暴！女神的封印之壶需消耗2次庐山三环计次，庐山三环剩余次数不满2次时无法参加！女神又被抓走了！我为什么会说又……这次居然是被已经封印的海皇之灵带走了，不过我们勇敢的圣斗士一定可以将女神大大顺利救回的！
+908	活动时间：3月17日—3月23日，每晚20：00—21：00。\r每隔10分钟将在游戏界面随机弹出宝箱，点击宝箱即可领取神秘大奖！每次弹出只有2分钟的领取时间，请大家不要错过！

@@ -1,0 +1,412 @@
+0	%s adicionado à coleção: %s
+1	Sem prática
+2	Com prática
+3	Este item não é necessário para o Signo auxiliar do esquecimento
+4	Ocultar outros monstros
+5	Mostrar outros monstros
+6	Ocultar outros jogadores
+7	Mostrar outros jogadores
+8	Esconder outros pets
+9	Mostrar outros pets
+10	Diminuir configurações de vídeo
+11	Restaurar configurações de vídeo
+12	Índice de Potência: %d/%d
+13	Índice de Vigor: %d/%d
+14	Pet ainda não foi vinculado, não é possível fazer dessa forma
+15	Nome contém caracteres inválidos
+16	Pets já treinados não podem ser treinados novamente
+17	Depois de %d minutos, o fortalecimento do Pet %s estará completo
+18	Adicionar a Pedra Elementar de Pet na barra de fortalecimento irá iniciar o fortalecimento. Confirmar?
+19	Só é possível alterar o nome de Pet que já foi vinculado
+20	A barra de fortalecimento do Mestre treinador de Pet está cheia
+21	Depois de adicionar o Pet à barra, ele será vinculado, e não será possível renegociá-lo com outra pessoa. Deseja confirmar?
+22	Adicionar a Pedra Elementar de Pet iniciará o fortalecimento
+23	Fortalecimento em progresso
+24	Sua barra de Pet está cheia
+25	Sua barra de fortalecimento de Pet está cheia
+26	O seu nível ainda não atingiu o nível de fortalecimento requerido para a Pedra Elementar deste Pet
+27	Por favor, selecione ou chame primeiro o Pet que precisa ser alimentado.
+28	Comida requerida por esse Pet não encontrada
+29	Não há animal selecionado ou a comida do Pet não corresponde
+30	Fortalecimento de %s em progresso\rFortalecimento prossegue por %dmin e %ds
+31	Fortalecimento de %s em progresso\rTempo restante %dh %dmin
+32	Fortalecimento do substituto do mestre treinador de Pet requer 12 horas para progredir mas, caso a hospedagem fique offline, os efeitos do fortalecimento do substituto e da sua próprio fortalecimento serão os mesmos.
+33	%s fortalecimento realizado com sucesso
+34	Não é possível separar
+35	Inventário está cheio, não é possível dividir item
+36	Domínio das Forças Físicas
+37	Domínio da Terra
+38	Domínio da Água
+39	Domínio do Fogo
+40	Domínio do Vento
+41	Domínio da Luz
+42	Domínio da Escuridão
+43	Fraqueza Física
+44	Fraqueza contra Terra
+45	Fraqueza contra Água
+46	Fraqueza contra Fogo
+47	Fraqueza contra Vento
+48	Fraqueza contra Luz
+49	Fraqueza contra Escuridão
+50	Dom para aumentar o índice de HP, nível %d
+51	Dom para aumentar Ataque, nível %d
+52	Dom para aumentar Defesa, nível %d
+53	Taxa de crescimento do aumento do índice de HP %.1f%%
+54	Taxa de crescimento do aumento de Ataque %.1f%%
+55	Taxa de crescimento do aumento de Defesa %.1f%%
+56	O valor que você trouxe para pagar as despesas deste fortalecimento é insuficiente, deseja usar Gold para completar o valor?
+57	O valor que você trouxe para pagar essa compra é insuficiente, deseja usar Gold para completar o valor?
+58	Requer Dom prévio %s até o nível %d
+59	O pedido foi ignorado pois ultrapassou o tempo
+60	%s se formou
+61	%s foi expulso pelo mestre
+62	%s traiu o mestre
+63	%s foi aceito pelo mestre
+64	Você subiu para o nível %d
+65	O nível de Prática Concentrada subiu para nível %d
+66	Obteve %d pontos de EXP de Signo Auxiliar
+67	%dx %s recolhido
+68	%dx %s produzido
+69	Ocorreu um problema. A conexão com o servidor foi perdida ou\rfoi selecionado um canal inexistente no mapa em que o\rpersonagem está localizado. Por favor, faça o login novamente.
+70	Alvo não selecionado
+71	Alvo distante demais
+72	A sua versão de cliente do programa é baixa demais, por favor, saia do jogo para prosseguir com a atualização.
+73	%s não está online atualmente, ou o personagem não existe.
+74	Alvo selecionado incorreto
+75	Procurar Grupo
+76	Recrutar Membro
+77	%s %s
+78	Ativo
+79	Passivo
+80	Falha na operação, você está em status de morte
+81	Seu nível atingiu %s
+82	Não é possível conectar-se ao servidor
+83	Personagem %I64d foi bloqueado
+84	Número de conta %d foi bloqueada
+85	Número de pessoas online %d/%d
+86	O servidor está prestes a ser reiniciado
+87	Personagem %I64d foi proibido de falar por %d segundos
+88	Número de conta %d foi proibida de falar por %d segundos
+89	Moeda insuficiente
+90	Meus Amigos
+91	Falha ao enviar informação
+92	Essa mensagem só poder ser enviada uma vez a cada uma hora
+93	Operação realizada com sucesso
+94	Essa pessoa não foi encontrada na busca ou não está online agora
+95	O jogo será fechado temporariamente em %d segundos
+96	Essa pessoa não foi encontrada na busca
+97	%dx %s começou o fortalecimento
+98	%dx %s consumido
+99	Seja bem-vindo ao CDZ Online!
+100	Comando ainda não foi restaurado
+101	Armazém foi expandido para %d slots
+102	%s te derrotou
+103	%s: %s
+104	%s recebeu %s da Bênção de Athena
+105	Tempo de Bloqueio: %dmin
+106	Proibido realizar login
+107	Por favor, selecione a linha de jogo
+108	Proibido enviar mensagem
+109	Proibido realizar negociações com jogador
+110	Proibido vender item
+111	Motivos do bloqueio: %s
+112	Motivos do bloqueio: perturbar a ordem do Santuário
+113	&%s& venceu &%s& no duelo
+114	&%s& e &%s& empataram no duelo
+115	Não é possível entrar em duelo em status de batalha
+116	O convite para duelo já foi enviado para o jogador. Por favor, aguarde a sua resposta
+117	Signo não cumpre os requisitos, não é possível fazer dessa forma
+118	Previsão do mercado
+119	A mochila de Pet está cheia, não é possível fortalecer
+120	Servidor em manutenção. Por favor, aguarde um pouco para fazer login.
+121	Receber o direito de controlar a catapulta
+122	Perde o direito de controlar a catapulta
+123	Entrar em status invisível
+124	Deixar status invisível
+125	Entrar em status invencível
+126	Deixar status invencível
+127	O destino não está dentro dos limites do mapa.
+128	O destino está a nordeste.
+129	O destino está a sudeste.
+130	O destino está a leste.
+131	O destino está a noroeste.
+132	O destino está a sudoeste.
+133	O destino está a oeste.
+134	O destino está ao norte.
+135	O destino está ao sul.
+136	O destino está acima.
+137	O destino está abaixo.
+138	Diminuir Preço
+139	Aumentar Preço
+140	Custar os olhos da cara
+141	%s realizado com sucesso!
+142	Item Mall não está sincronizado com o servidor
+143	Inventário foi expandido para %d slots
+144	%s falhou!
+145	%s vinculado com sucesso
+146	%s será vinculado depois de vestido
+147	Aprendeu "%s" nível %d
+148	Restaurou "%s" para o nível %d
+149	O armazém do Exército foi expandido para %d slots
+150	Nenhum
+151	Primeira camada de compreensão
+152	Segunda camada de compreensão
+153	Terceira camada de compreensão
+154	Quarta camada de compreensão
+155	Quinta camada de compreensão
+156	Sexta camada de compreensão
+157	Reservar 1
+158	Produto Comprado
+159	Produto Vendido
+160	Dom compreendido estágio %s %d
+161	Seu Signo auxiliar subiu para o nível %d
+162	Agora não é possível organizar
+163	Ligar Auto-enfeitiçamento
+164	Fechar Auto-enfeitiçamento
+165	Falha ao registrar: a tecla de atalho está registrada por outro procedimento
+166	Negócios de Mercúrio
+167	Dia dos Negócios
+168	Reservar tipo 3 de saquinho de dinheiro com comerciante ambulante
+169	Reservar tipo 4 de saquinho de dinheiro com comerciante ambulante
+170	Reservar tipo 5 de saquinho de dinheiro com comerciante ambulante
+171	Reservar tipo 6 de saquinho de dinheiro com comerciante ambulante
+172	Reservar tipo 7 de saquinho de dinheiro com comerciante ambulante
+173	Reservar tipo 8 de saquinho de dinheiro com comerciante ambulante
+174	Reservar tipo 9 de saquinho de dinheiro com comerciante ambulante
+175	Reservar tipo 10 de saquinho de dinheiro com comerciante ambulante
+176	Reservar tipo 11 de saquinho de dinheiro com comerciante ambulante
+177	Reservar tipo 12 de saquinho de dinheiro com comerciante ambulante
+178	Reservar tipo 13 de saquinho de dinheiro com comerciante ambulante
+179	Reservar tipo 14 de saquinho de dinheiro com comerciante ambulante
+180	Reservar tipo 15 de saquinho de dinheiro com comerciante ambulante
+181	Reservar tipo 16 de saquinho de dinheiro com comerciante ambulante
+182	Reservar tipo 17 de saquinho de dinheiro com comerciante ambulante
+183	Reservar tipo 18 de saquinho de dinheiro com comerciante ambulante
+184	Reservar tipo 19 de saquinho de dinheiro com comerciante ambulante
+185	Reservar tipo 20 de saquinho de dinheiro com comerciante ambulante
+186	Reservar tipo 21 de saquinho de dinheiro com comerciante ambulante
+187	Reservar tipo 22 de saquinho de dinheiro com comerciante ambulante
+188	Reservar tipo 23 de saquinho de dinheiro com comerciante ambulante
+189	Reservar tipo 24 de saquinho de dinheiro com comerciante ambulante
+190	Reservar tipo 25 de saquinho de dinheiro com comerciante ambulante
+191	Reservar tipo 26 de saquinho de dinheiro com comerciante ambulante
+192	Reservar tipo 27 de saquinho de dinheiro com comerciante ambulante
+193	Reservar tipo 28 de saquinho de dinheiro com comerciante ambulante
+194	Reservar tipo 29 de saquinho de dinheiro com comerciante ambulante
+195	Reservar tipo 30 de saquinho de dinheiro com comerciante ambulante
+196	Reservar tipo 31 de saquinho de dinheiro com comerciante ambulante
+197	Reservar tipo 32 de saquinho de dinheiro com comerciante ambulante
+198	Você não está em nenhum exército.
+199	Você não está em nenhum clã.
+200	Padrão Externo
+201	Aparência Alternativa
+202	Não há Gema
+203	%s (%d)
+204	Item incorreto
+205	Todos
+206	Item com ocorrência de erro fatal
+207	Kit (%d):
+208	Requisito de nível de Compreensão %s
+209	Habilidade %s nível %d
+210	Aprimoramento concluído com sucesso, a qualidade do equipamento melhorou.
+211	Fortalecimento concluído com êxito, a qualidade do equipamento melhorou. Parabéns por ter obtido número %d de cavidade de Joia.
+212	Falha ao Aprimorar
+213	Sucesso ao cravejar, a força contida na Runa foi despertada.
+214	Gema cravejada com sucesso
+215	Runa desmontada com sucesso, a runa foi destruída.
+216	Gema desmontada com sucesso, obteve Fragmento de Gema.
+217	Nome gravado com sucesso, você se tornou o dono exclusivo deste equipamento.
+218	Falha ao gravar nome, o item utilizado está danificado.
+219	Equipamento avaliado com sucesso!
+220	Equipamento reavaliado com sucesso
+221	Equipamento já foi avaliado.
+222	Por favor, prossiga com a avaliação após inserir o equipamento na inventário
+223	Quebrado
+224	Comum
+225	Extraordinário
+226	Excelente
+227	Épica
+228	Lenda
+229	Reservado
+230	Kit
+231	Kit de nível avançado
+232	%s no processo de produção recebeu inesperadamente [%s]*%d！
+233	Você esqueceu o Signo auxiliar %s
+234	O Signo %s caiu para o nível %d
+235	Astrologia aparece como %s
+236	Obteve %d pontos do Signo auxiliar
+237	Aguardar uma nova revelação:
+238	Toque o fenômeno astrológico para obter uma revelação.
+239	Libere espaço no inventário e, depois, clicar para receber. Esperte um minuto para abrir a nova revelação.
+240	Libere espaço no inventário e, depois, clicar para receber.
+241	Exibir todos os danos
+242	Exibir apenas os danos próprios e do Pet
+243	Não exibir danos
+244	A nova revelação ainda está por vir
+245	Ponto de retorno atual: %s
+246	O presidente da outra parte não está online, não é possível prosseguir com o desafio
+247	A solicitação de Guerra de Honra de Clãs está em tempo de recarga, o intervalo é de 5 minutos
+248	O clã está em uma Guerra de Honra de Clãs, por favor, reenvie o desafio mais tarde.
+249	O nível do clã da outra parte não chega ao nível 2, não é possível declarar guerra contra ele
+250	O clã %s fez uma solicitação de Guerra de Honra para o clã %s
+251	O clã %s aceitou a solicitação de Guerra de Honra do clã %s
+252	O clã %s recusou a solicitação de Guerra de Honra do clã %s
+253	A declaração de Guerra de Honra do clã %s para o clã %s está devagar e sem resposta, a solicitação de declaração de guerra falhou
+254	A declaração de Guerra de Honra do clã %s para o clã %s acabou, número total de mortes %d:%d, o clã %s saiu vitorioso!
+255	A declaração de Guerra de Honra do clã %s para o clã %s acabou, número total de mortes %d:%d, os dois clãs empataram.
+256	Prece por bênção de Hoje: %d/4. A prece por bênção deste capítulo (4 primeiras vezes de cada dia) pode obter EXP do personagem e há chance de obter a bênção e oferendas dos deuses
+257	Prece por bênção de Hoje: %d/4. A prece por bênção da continuação do capítulo (4 primeiras vezes de cada dia) não pode obter EXP do personagem e oferendas dos deuses, mas há chances de obter a bênção dos deuses
+258	Notificação de status on/offline de amigo ligada.
+259	Notificação de status on/offline de amigo cancelada.
+260	Resposta automática de amigo ligada.
+261	Resposta automática de amigo cancelada.
+262	ID do personagem do jogador
+263	Tempo de recebimento do convite
+264	Tipo de Convite
+265	Conteúdo do Convite
+266	ID do GM do convite recebido
+267	Processado/processo abandonado
+268	Tempo para finalizar convite
+269	Observações
+270	Nome do Comando
+271	Parâmetros detalhados de execução de comando
+272	Tempo de execução de comando
+273	ID do GM que executa o comando
+274	ID do usuário do convite relacionado
+275	Tempo de recebimento do convite relacionado
+276	Relação de Intimidade
+277	Terminar Abraço
+278	Terminar montaria coletiva de muitas pessoas
+279	%s convidou-o para um passeio coletivo, você concorda?
+280	%s agradece, mas recusa a montaria coletiva de muitas pessoas
+281	Montaria coletiva de muitas pessoas
+282	Pequena Secretária
+283	Pesquisar Resultados
+284	agentname não permitido, falha ao obter ticket
+285	agentaccount não permitido, falha ao obter ticket
+286	Outros Erros (anomalia de banco de dados)
+287	Tempo esgotado, por favor, tente novamente
+288	Erro de comunicação em rede, por favor, tente novamente
+289	Proibir essa conta de fazer login em outros sistemas
+290	O login automático dessa conta não é permitido
+291	Destino não permitido, falha ao receber ticket
+292	Função indisponível
+293	GT logando com frequência, tente novamente mais tarde
+294	Falha no Multiservidor
+295	Falha de comunicação multiservidor
+296	Falha na etapa de autenticação multiservidor
+297	Tempo esgotado para verificação de identidade multiservidor
+298	Verificação de identidade multiservidor não corresponder
+299	Tempo esgotado para dados multiservidor
+300	Falha ao salvar dados multiservidor
+301	Não é possível usar em status multiservidor
+302	Tem certeza de que deseja escolher ^FFFF00%s^FFFFFF?\rAo atingir o nível 59 é possível re-escolher outro Signo.
+303	%s escolheu %s como Signo
+304	O jogador precisa alcançar %s
+305	Não é possível prosseguir na água
+306	Não é possível prosseguir com a oração na água
+307	Não é possível prossegui com a meditação na água
+308	Não é possível prosseguir em status de transformação
+309	Não é possível prosseguir com a oração em status de transformação
+310	Não é possível prosseguir com a meditação em status de transformação
+311	Não é possível voar em status atual
+312	Não é permitido voar no cenário atual
+313	Não é possível voar em status de transformação
+314	É proibido voar em status de luta
+315	Não é permitido montaria no cenário atual
+316	A cada 5 minutos no Banho de Glória pode obter %d pontos de EXP Reserva
+317	Silver: %d
+318	Silver: %d\r(Gold pode ser usado para completar o valor restante)
+319	(Silver insuficiente, deseja usar Gold para completar o restante do valor?
+320	Silver:
+321	Gold: %d
+322	Total de Gold
+323	Nível %d
+324	%dh %dmin %ds
+325	Tempo de alta eficiência
+326	Tempo comum
+327	Tempo total
+328	%d EXP Reserva +%d EXP
+329	%d Astro EXP Reserva +%d Astro EXP
+330	O seu Banho de Glória de hoje já atingiu 8 horas\rSe continuar hoje, não será possível obter nenhuma EXP Reserva ou EXP
+331	O seu Banho de Glória de hoje já atingiu 8 horas\rSe continuar hoje, não será possível obter nenhuma Astro EXP Reserva ou Astro EXP
+332	EXP Reserva:
+333	Astro EXP Reserva:
+334	O seu nível é muito alto, não é possível colecionar
+335	Deseja usar [%s]?\r%s
+336	Hoje você já completou 8 horas, use amanhã novamente, do contrário, a perda certamente será grande
+337	EXP Reserva atingiu o limite máximo, libere-a um pouco, senão, não será possível obter mais EXP Reserva
+338	Nível necessário: %s
+339	Rank Nv necessário: Nv%d
+340	Power necessário: %d
+341	%s precisa alcançar %s
+342	Custo de %s: %s
+343	[Limite %dx]
+344	[Ilimitado]
+345	[%dx hoje]
+346	[%dx semanal]
+347	[Amanhã]
+348	[Próx. semana]
+349	[Grupo]
+350	[Exército]
+351	Liberar Constelação Protetora [Áries]
+352	Liberar Constelação Protetora [Touro]
+353	Liberar Constelação Protetora [Gêmeos]
+354	Liberar Constelação Protetora [Câncer]
+355	Liberar Constelação Protetora [Leão]
+356	Liberar Constelação Protetora [Virgem]
+357	Liberar Constelação Protetora [Libra]
+358	Liberar Constelação Protetora [Escorpião]
+359	Liberar Constelação Protetora [Sagitário]
+360	Liberar Constelação Protetora [Capricórnio]
+361	Liberar Constelação Protetora [Aquário]
+362	Liberar Constelação Protetora [Peixes]
+363	Nível insuficiente, não é possível trocar
+364	Power insuficiente, não é possível trocar
+365	Número de vezes máximo para troca atingido
+366	Requisitos da quest insuficientes, não é possível trocar
+367	Há quests de exclusão mútua, não é possível trocar
+368	Reputação insuficiente, não é possível trocar
+369	Gold insuficiente, não é possível trocar
+370	Silver insuficiente, não é possível trocar
+371	Não há reputação suficiente, não é possível trocar
+372	Item consumido incompleto, não é possível trocar
+373	Item não permitido para troca em tempo limite
+374	Condições da quest incompletas, não é possível trocar
+375	Inventário cheio, não é possível trocar
+376	Espaço livre do pacote insuficiente
+377	Ultrapassou o número máximo de troca de 100 vezes
+378	Gold insuficiente
+379	Silver insuficiente
+380	%s insuficiente
+381	Entrar na sala de chat de voz do grupo
+382	Deixar a sala de chat de voz do grupo
+383	Quando muitas pessoas entram no cenário de luta, a fim de torná-lo mais fluido e te ajudar a esconder os modelos não importantes, você pode usar as teclas de atalho rápido Alt+N para restaurar
+384	Falha ao carregar construção. Por favor, saia do jogo para fazer a verificação da versão
+385	Efeito de brilho na tela de jogo
+386	Deseja abrir o teletransporte do exército na localização atual?
+387	[Equipe Vermelha] %s
+388	[Equipe Azul] %s
+389	Cristal de Energia %d%%
+390	Cristal de Defesa %d%%
+391	Cristal Nuclear %d%%
+392	Tempo de luta restante: %dmin
+393	Deseja deixar o campo de luta atual?
+394	Abrir teletransporte do exército
+395	Situação da luta - %s
+396	Tempo de espera da luta: %dmin
+397	Saindo (%ds)
+398	Quantidade de carros de guerra da Equipe Vermelha: %d
+399	Quantidade de carros de guerra da Equipe Azul: %d
+400	O Marechal do exército lançou o portal de teletransporte em %s, depois de 30 segundos, os membros do exército podem ir até o teletransporte!
+401	É necessário tempo de recarga de %ds
+402	Pode abrir o portal de teletransporte
+403	O portal se estabilizou, começou o assalto! Lutem!
+404	O portal de teletransporte ficou sem energia e desapareceu...
+405	Tempo de luta restante: %ds
+406	Tempo de espera da luta: %ds
+407	Não é possível entrar no campo de batalha em estado de luta
+408	Não é possível deixar o campo de batalha em estado de luta
+409	%.0f%s (%.0f%% )
+410	%.0f%s
+411	100M

@@ -1,0 +1,253 @@
+0	Receta Prueba
+1	Elixir del Rey
+2	Poción
+3	Super Poción II
+4	Poción
+5	Super Poción III
+6	Poción
+7	Super Poción IV
+8	Poción
+9	Super Poción V
+10	Poción
+11	Super Poción VI
+12	Poción
+13	Super Poción VII
+14	Poción
+15	Elixir de Firmeza
+16	Poción
+17	Elixir de Elementos de Pulsación
+18	Poción
+19	Elixir de Batalla
+20	Poción
+21	Poción Mágica de Inmortalidad
+22	Poción
+23	Poción Gradual I
+24	Poción
+25	Poción Gradual III
+26	Poción
+27	Poción Gradual II
+28	Poción
+29	Purificación de Elixir nivel básico
+30	Poción
+31	Super Poción Mágica de Energía
+32	Poción
+33	Poción Mágica de Encanto
+34	Poción
+35	Poción Mágica del Nada
+36	Poción
+37	Poción Mágica Fría de Sepsia
+38	Poción
+39	Poción Mágica de Rayos de Luz
+40	Poción
+41	Mezcla del Renacimiento
+42	Mezcla
+43	Mezcla de Deterioro
+44	Mezcla
+45	Mezcla de Mente Pura
+46	Mezcla
+47	Mezcla de Estancamiento de Sangre
+48	Mezcla
+49	Cinturón de Elixir del Maestro
+50	Mezcla
+51	Mezcla Débil
+52	Mezcla
+53	Mezcla del Alma de Sirena
+54	Mezcla
+55	Mezcla Suave
+56	Mezcla
+57	Mezcla de Mente Pura nivel avanzado
+58	Mezcla
+59	Mezcla de Distorsión
+60	Mezcla
+61	Mover Cielo y Tierra
+62	Refinación
+63	Polvo de Estrella Abrasivo
+64	Refinación
+65	Cayado del Juicio
+66	Refinación
+67	Cristal de Extracción
+68	Refinación
+69	Transformación de Estrella
+70	Refinación
+71	Gránulo de Arena Estelar
+72	Refinación
+73	Brazalete de Jade de Promesa
+74	Refinación
+75	Purificar Espacio
+76	Refinación
+77	Rosa de la Noche
+78	Refinación
+79	Estrella Fundida
+80	Refinación
+81	Piedra Filosofal
+82	Tesoros
+83	Alquimista Señor de los Anillos
+84	Tesoros
+85	Colgante de Producción de Tesoros de Precisión
+86	Tesoros
+87	Luz Espiritual
+88	Tesoros
+89	Tesoro Colgante de Precisión
+90	Tesoros
+91	Elemento de Estrella nivel 1
+92	Tesoros
+93	Flor del Alma
+94	Tesoros
+95	Luz Espiritual+
+96	Tesoros
+97	Elemento de Estrella nivel 2
+98	Tesoros
+99	Flor del Alma+
+100	Tesoros
+101	Disciplina de Luz Estelar
+102	Refinar
+103	Bendición Estelar I
+104	Refinar
+105	Martillo de Jamir
+106	Refinar
+107	Polvo Estelar
+108	Refinar
+109	Arena Estelar
+110	Refinar
+111	Bendición Estelar II
+112	Refinar
+113	Cristal Estelar Brillante
+114	Refinar
+115	Fragmento de Luz Estelar
+116	Refinar
+117	Borrón en la Luz Estelar
+118	Refinar
+119	Bendición Estelar III
+120	Refinar
+121	Amuleto Divino
+122	Amuleto
+123	Amuleto de Vigor
+124	Amuleto
+125	Amuleto Resistente
+126	Amuleto
+127	Amuleto de Batalla
+128	Amuleto
+129	Amuleto Avanzado de Vigor
+130	Amuleto
+131	Amuleto Avanzado Resistente
+132	Amuleto
+133	Amuleto Avanzado de Batalha
+134	Amuleto
+135	Amuleto Misterioso de Vigor
+136	Amuleto
+137	Amuleto M.
+138	Amuleto
+139	Amuleto Misterioso de Batalha
+140	Amuleto
+141	Carta de Recomendación para los Aprendices de nivel intermedio
+142	Espíritu Guardián
+143	Método de Reencarnación
+144	Espíritu Guardián
+145	Carta de Recomendación para los Aprendices de nivel básico
+146	Espíritu Guardián
+147	Pito Mágico de Silbido agudo del Fantasma
+148	Espíritu Guardián
+149	Cayado del Juicio
+150	Espíritu Guardián
+151	Método de Reencarnación nivel avanzado
+152	Espíritu Guardián
+153	Pito Mágico de Silbido agudo del Espíritu Maligno
+154	Espíritu Guardián
+155	Fuerza de Doble Cara
+156	Espíritu Guardián
+157	Método Misterioso de Reencarnación
+158	Espíritu Guardián
+159	Pito Mágico de Silbido agudo del Espíritu Loco
+160	Espíritu Guardián
+161	Grabado Divino
+162	Grabado
+163	Grabado de Vigor
+164	Grabado
+165	Grabado Resistente
+166	Grabado
+167	Grabado de Batalla
+168	Grabado
+169	Grabado Avanzado de Vigor
+170	Grabado
+171	Grabado Avanzado Resistente
+172	Grabado
+173	Grabado Avanzado de Batalla
+174	Grabado
+175	Grabado Misterioso de Vigor
+176	Grabado
+177	Grabado Misterioso Resistente
+178	Grabado
+179	Grabado Misterioso de Batalla
+180	Grabado
+181	Libro del Emperador
+182	Táctica - Transformación Mágica
+183	Libro de Enseñanza del Aprendiz
+184	Táctica - Transformación Mágica
+185	Libro de Enseñanza del Especialista
+186	Táctica - Transformación Mágica
+187	Libro de Enseñanza del Maestro
+188	Táctica - Transformación Mágica
+189	Libro de Golpes Críticos
+190	Táctica - Transformación Mágica
+191	Libro de los Héroes
+192	Táctica - Transformación Mágica
+193	Libro de Enseñanza del Sabio
+194	Táctica - Transformación Mágica
+195	Libro de Purificación de Esencia
+196	Táctica - Transformación Mágica
+197	Libro de los Sabios
+198	Táctica - Transformación Mágica
+199	Libro Épico
+200	Táctica - Transformación Mágica
+201	Talismán del Guerrero Enloquecido
+202	Táctica - Comandante
+203	Talismán de Obediencia
+204	Táctica - Comandante
+205	Estatua de Tigre del Comandante
+206	Táctica - Comandante
+207	Talismán de Promesa
+208	Táctica - Comandante
+209	Capítulos Restantes del Arte de la Guerra
+210	Táctica - Comandante
+211	Talismán de Fortaleza
+212	Táctica - Comandante
+213	Talismán de Fe
+214	Táctica - Comandante
+215	Libro de Purificación de Esencia
+216	Táctica - Comandante
+217	Talismán de Invocación
+218	Táctica - Comandante
+219	Talismán del Principio
+220	Táctica - Comandante
+221	Bandera Sagrada
+222	Táctica - Enseñanzas Especiales
+223	Trompeta de Línea de Frente del Aprendiz
+224	Táctica - Enseñanzas Especiales
+225	Bandera de Unión de Fuerzas
+226	Táctica - Enseñanzas Especiales
+227	Trompeta de Línea de Frente del Especialista
+228	Táctica - Enseñanzas Especiales
+229	Bandera de Reclutamiento
+230	Táctica - Enseñanzas Especiales
+231	Bandera del Entusiasmo
+232	Táctica - Enseñanzas Especiales
+233	Errante de la Línea de Frente del Maestro
+234	Táctica - Enseñanzas Especiales
+235	Bandera de Construcción
+236	Táctica - Enseñanzas Especiales
+237	Bandera de Asalto
+238	Táctica - Enseñanzas Especiales
+239	Trompeta de la Línea de Frente del Sabio
+240	Táctica - Enseñanzas Especiales
+241	Pan Integral Delicioso
+242	Pan
+243	Pan Danés Delicioso
+244	Pan
+245	Pan de Miel Delicioso
+246	Pan
+247	Pan Seco y Duro Delicioso
+248	Pan
+249	Pan de Centeno Delicioso
+250	Pan
+251	Pan de Sándwich Delicioso
+252	Pan

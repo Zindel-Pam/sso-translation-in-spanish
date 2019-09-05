@@ -1,0 +1,319 @@
+0	Todos
+1	Monstruos
+2	Personajes
+3	¡OK!
+4	Falla
+5	Entregue de forma incorrecta
+6	Ilustración Inexistente
+7	Las ilustraciones no se pueden entregar
+8	La información entregue es inválida 
+9	El número de ítems entregues está incorrecto
+10	Las ilustraciones correspondientes aún no fueron obtenidas
+11	Consiguió la ilustración %s
+12	No conseguiste obtener las ilustraciones correspondientes 
+13	Este ítem no corresponde a la ilustración en cuestión, el Álbum no pudo abrirse
+14	Personajes
+15	Armaduras
+16	Lugares
+17	Caballeros Dorados
+18	Caballeros de Plata
+19	Caballeros de Bronce
+20	Generales Marina
+21	Espectros
+22	Caballeros Negros
+23	Otros
+24	Armaduras de Bronce
+25	Armaduras de Plata
+26	Armaduras Doradas
+27	Armaduras Divinas
+28	Escamas
+29	Mapa del Mundo
+30	Monstruos
+31	Prueba del Destino
+32	Ítems
+33	Reliquias 
+34	Ítems de Colección 
+35	Historietas 
+36	Volumen I
+37	Volume Dois
+38	Saori
+39	^cd0000Edad: ^ffffff14 años\r^cd0000Altura: ^ffffff155cm\r^cd0000Peso: ^ffffff44kg\r^cd0000Cumpleaños: ^ffffff01º de septiembre\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Local de Nacimiento: ^ffffffSantuario de Grecia
+40	Saori es la reencarnación de la Diosa Atenea del siglo XX, siendo una de las protagonistas de la serie 'Los Caballeros del Zodiaco' creada por Masami Kurumada.\rAtenea es la diosa de la sabiduría, guerra, estrategia, justicia y esperanza. De acuerdo con el Hipermito, es también la diosa que heredó de Zeus, su verdadero padre, el control de la Tierra.
+41	Julián Solo
+42	^cd0000Cumpleaños: ^ffffff21 de marzo\r^cd0000Sangre: ^ffffffTipo O\r^cd0000Local de Nacimiento: ^ffffffGrecia
+43	Encarnación del Dios Poseidón, que ya disputó con Atenea el dominio de la superficie terrestre. Poseidón siempre reencarnó en el cuerpo de los descendientes de la Familia Solo, una rica potencia del comercio marítimo. Esta vez, Poseidón se despertó no por su propia voluntad, sino porque, accidentalmente, Kanon encontró a su tridente. Él planeaba crear la utopía en la Tierra, después de barrer de la superficie terrestre a los propios seres humanos a través de un diluvio. En los eventos de la Saga de Hades, Poseidón posee el cuerpo de Julián nuevamente y envía cinco Armaduras Doradas para los Campos Elíseos, al fin de ayudar Atenea y a sus Caballeros de Bronce.
+44	Hades
+45	^cd0000Altura: ^ffffff184cm^cd0000Peso: ^ffffff73kg^cd0000Cumpleaños: ^ffffff09 de septiembre
+46	Hades es responsable por el Inframundo juzgando las almas de las personas y decidiendo si merecen paz o sufrimiento eterno. Junto a sus hermanos, Zeus y Poseidón, es uno de los 3 grandes entre los 12 Dioses de Olimpo, las divinidades más poderosas del universo. Él es el mayor antagonista de la serie que con el deseo de tomar la Tierra, lanza un ataque contra el Santuario con el objetivo de quitar la vida de Atenea. Lo que más odia es la luz del Sol que lleva la esperanza al infierno destruyendo el muro de los lamentos.
+47	Mu
+48	^cd0000Edad: ^ffffff20 Años\r^cd0000Altura: ^ffffff182cm\r^cd0000Peso: ^ffffff75kg\r^cd0000Cumpleaños: ^ffffff27 de marzo\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffTíbet\r^cd0000Entrenamiento: ^ffffffJamir\r^cd0000Maestro: ^ffffffShion\r^cd0000 Aprendiz: ^ffffffKiki
+49	Mu es el Caballero Dorado de Aries del siglo XX. Hábil en la restauración de Armaduras, es quien repara las Armaduras de Bronce de Seiya y de los demás antes de la Batalla de las Doce Casas. Como desde el inicio desconfiaba del Gran Maestro, dio la espalda al Santuario. Pero, como deseaba la purificación del lugar, mantuvo sus obligaciones como Caballero, dedicándose a la restauración de las Armaduras en Jamir. Pero, no pienses que su poder fue debilitado por alejarse del Santuario, como es notado en la batalla contra los Espectros. Mu es el más tranquilo y pacífico de los Caballeros Dorados y, aún así, es uno de los más poderosos. Sólo recurre a la violencia en casos extremos. Las palabras son sus armas en la mayoría de los casos. A pesar de su apariencia joven, Mu es maduro y muy sabio.
+50	Aldebarán
+51	^cd0000Edad: ^ffffff20 Años\r^cd0000Altura: ^ffffff210 cm\r^cd0000Peso: ^ffffff130 kg\r^cd0000Cumpleaños: ^ffffff08 de mayo\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffBrasil\r^cd0000Entrenamiento: ^ffffffBrasil
+52	Caballero Dorado que protege la Casa de Tauro. Dotado de una resistencia fuera de lo común, ni mismo el Meteoro de Pegaso de Seiya conseguió causar daños a su cuerpo. El Gran Cuerno, alusión al cuerno de un Tauro enfadado, es su golpe de firma. De personalidad franca y despachada, confía en lo que siente, sin preocuparse por las aparencias o racionalidades. Aldebarán proviene del árabe y significa "aquel que sigue". Es también el nombre dado a la Gigante Roja perteneciente a la Constelación de Tauro, siendo su estrella más brillante. Durante la batalla de las Doce Casas, facilitó intencionalmente para que Seiya y los demás pudiesen pasar en seguridad, perdiendo uno de sus cuernos en el proceso. En la batalla en que los Espectros invadieron el Santuario, resistió valientemente contra Niobe, la Estrella Terrestre de la Oscuridad, y se sacrificó heroicamente. Sin embargo, antes de morir, destruyó completamente el cuerpo de su adversario.
+53	Saga
+54	^cd0000Edad: ^ffffff28 Años\r^cd0000Altura: ^ffffff188 cm\r^cd0000Peso: ^ffffff87 kg\r^cd0000Cumpleaños: ^ffffff30 de mayo\r^cd0000Sangre: ^ffffffTipo AB\r^cd0000Nacimiento: ^ffffffGrecia\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+55	Saga es el Caballero Dorado de Géminis del siglo XX, que antiguamente era el próximo sucesor del Gran Maestro, teniendo todas las características necesarias para el puesto – humanidad, habilidad y fuerza física. Supuestamente desapareció hace trece años, estubo escondido por todo ese tiempo bajo la máscara del Gran Maestro, después de asesinarlo y tomar su puesto como gobernante del Santuario. Su plan era matar a Atenea y dominar el mundo. En realidad, Saga tenía doble personalidad, oscilando entre extremos del bien y del mal. Dentro de él, esos opuestos estaban siempre luchando entre sí. Después de tener su corazón purificado, él mismo quita su vida, arrepentido por sus actos contra la Diosa.
+56	Máscara de la Muerte
+57	^cd0000Edad: ^ffffff23 Años\r^cd0000Altura: ^ffffff184 cm\r^cd0000Peso: ^ffffff82 kg\r^cd0000: ^ffffff24 de junio\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffItalia\r^cd0000Entrenamiento: ^ffffffSicilia
+58	La Máscara de la Muerte es el Caballero Dorado de Cáncer y protector de la cuarta Casa del Zodíaco del siglo XX. Le gusta luchar y matar y cree que, para alcanzar un objetivo mayor, algunos sacrificios son inevitables. Las paredes de la Casa de Cáncer son decoradas con los rostros de las personas que fueron muertas por él. Emite un aura blanca de su dedo indicador que envía el alma del oponente para la entrada del Mundo de los Muertos – son las “Ondas Infernales”, su golpe secreto. Muere en la batalla contra Shiryu, pero regresa del Mundo de los Muertos como un Espectro. En esa ocasión, falla en la misión de asesinar a Atenea y acaba nuevamente en el Inframundo por las manos de Radamanthys de Wyvern. A pesar de eso, participa en la caída del Muro de los Lamentos junto a los Caballeros Dorados.
+59	Aioria
+60	^cd0000Edad: ^ffffff20 Años\r^cd0000Altura: ^ffffff185 cm\r^cd0000Peso: ^ffffff85 kg\r^cd0000Cumpleaños: ^ffffff16 de Agosto\r^cd0000Sangre: ^ffffffTipo O\r^cd0000Nacimiento: ^ffffffGrecia\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+61	Caballero Dorado de Leo y hermano de Aioros. A pesar de su personalidad explosiva, tiene un corazón puro que distingue rápidamente a los justos, por eso, fue uno de los primeros Caballeros Dorados a reconocer la autoridad de Atenea. Así como su hermano, Aioros fue condenado como traidor, e intenta limpiar el nombre de la familia jurando fidelidad al Gran Maestro, incluso participando voluntariamente del exterminio de los Caballeros de Bronce. Mientras la batalla contra los Espectros, confrontó al ejército enemigo y derribó muchos Espectros, sirviendo como poder central de ataque en el Santuario.
+62	Shaka
+63	^cd0000Edad: ^ffffff20 Años\r^cd0000Altura: ^ffffff182cm\r^cd0000Peso: ^ffffff68 kg\r^cd0000Cumpleaños: ^ffffff19 de septiembre\r^cd0000Sangre: ^ffffffTipo AB\r^cd0000Nacimiento: ^ffffffIndia\r^cd0000Entrenamiento: ^ffffffIndia
+64	Shaka es el Caballero Dorado de Virgo del Siglo XX. Considerado la reencarnación de Buda, tiene un poder de observación que permite conocer la verdad escondida bajo las apariencias. A pesar de eso, mantiene sus ojos cerrados la mayor parte del tiempo, de modo a elevar su Cosmos. El poder de ir y venir en el tiempo y espacio impresiona hasta otros Caballeros Dorados. Tiene una muerte heroica bajo la destructiva “Exclamación de Atenea”, creada por Saga, Shura y Camus, pero cedió a ese golpe para acompañar a Atenea en el Mundo de los Muertos.
+65	Dohko
+66	^cd0000Edad: ^ffffff261 Años\r^cd0000Altura: ^ffffff140 cm ~ 170 cm\r^cd0000Peso: ^ffffffDesconocido\r^cd0000Cumpleaños: ^ffffff20 de Octubre\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffChina\r^cd0000Entrenamiento: ^ffffffRozan
+67	Caballero Dorado que protege la Casa de Libra, maestro de Shiryu. Recibió la orden de Atenea para vigilar a los 108 Espectros de Hades y por años seguidos se ha sentado en los Cinco Picos Antiguos de Rozan. Es el Caballero de mayor confianza de Atenea. Todos lo reconocen como “Maestro”. Cuando el Señor de la Oscuridad volvió a atacar, él retoma a su antigua forma y lucha en la línea frontal. Ha ayudado a Seiya y a los Caballeros de Bronce en todas las ocasiones y, después de participar de dos Guerras Santas, encuentra su fin como héroe ayudando a derribar el Muro de los Lamentos.
+68	Milo
+69	^cd0000Edad: ^ffffff20 Años\r^cd0000Altura: ^ffffff185 cm\r^cd0000Peso: ^ffffff84 kg\r^cd0000Cumpleaños: ^ffffff08 de Noviembre\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffGrecia\r^cd0000Entrenamiento: ^ffffffGrecia
+70	Milo fue, en el siglo XX, el Caballero Dorado de Escorpio. Apreciaba mucho la amistad, por eso pasó a cuidar a Hyoga después de la muerte de su amigo Camus. Tenía mucho orgullo de ser un Caballero Dorado y se convirtió implacable delante de sus enemigos. El Gran Maestro lo convocó para exterminar a los Caballeros de Bronce y él luchó contra Hyoga en el Santuario. También luchó en la línea frontal durante la invasión del ejército de Hades. Al final, dio su vida para abrir camino a los Campos Elíseos a través del Muro de los Lamentos.
+71	Aioros
+72	^cd0000Edad: ^ffffff14 años\r^cd0000Altura: ^ffffff187 cm\r^cd0000Peso: ^ffffff85 kg\r^cd0000Cumpleaños: ^ffffff30 de Noviembre\r^cd0000Sangre: ^ffffffTipo O\r^cd0000Nacimiento: ^ffffffGrecia\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+73	Hermano mayor del Caballero Dorado de Leo, Aioria, sería el sucesor del Gran Maestro Shion. Su figura heroica, honesta y de buen corazón es respetada por los Caballeros. Antes de morir, hace 13 años, entregó a Atenea todavía bebé y a su Armadura Dorada a los cuidados de Mitsumasa Kido, que estaba viajando por Grecia. Desde entonces, Aioros fue considerado un traidor en el Santuario, que estaba siendo gobernado por Saga disfrazado de Gran Maestro. Su lealtad a Atenea extiende las barreras de la muerte, haciendo con que su Armadura siempre se manifieste en momentos críticos para proteger a la Diosa.
+74	Shura
+75	^cd0000Edad: ^ffffff23 Años\r^cd0000Altura: ^ffffff186 cm\r^cd0000Peso: ^ffffff83 kg\r^cd0000Cumpleaños: ^ffffff12 de Enero\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffEspaña\r^cd0000Entrenamiento: ^ffffffPirineos
+76	Caballero Dorado que protege La Casa de Capricornio, fue quién dejó Aioros al borde de la muerte durante su fuga. La mano en forma de espada de Shura tiene el mismo poder de la legendaria Excalibur, capaz de derribar cualquier obstáculo, cortando con la palma de la mano hasta el sólido escudo del Dragón, partiéndolo en dos. Lleva el título de “el Caballero más leal a Atenea”, pero su lealtad es tanta que lo cegó y acaba siendo engañado por el Gran Maestro. Cuando estaba al borde de la muerte, se dio cuenta y salvó la vida de Shiryu equipándolo con su Armadura Dorada, demostrando ser un Caballero de honor. Regresa mientras la Guerra Santa para ayudar a los Caballeros de Bronce a salvaren la Diosa a la cual juró lealtad.
+77	Camus
+78	^cd0000Edad: ^ffffff20 Años\r^cd0000Altura: ^ffffff184 cm\r^cd0000Peso: ^ffffff76 kg\r^cd0000Cumpleaños: ^ffffff07 de Febrero\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffFrancia\r^cd0000Entrenamiento: ^ffffffSiberia
+79	Caballero Dorado que protege la Casa de Acuario, es orgulloso, frío y decidido. Tiene el título de “El Mago del Hielo”. Su conducta es controlada, honesta y tiene un coraje genuino. Fue maestro del Caballero de Cisne, Hyoga, y del General Marina Isaac de Kraken, y siempre les enseñó que “al enfrentar el enemigo, es necesario mantenerse indiferente” – pero él no llevó eso en consideración cuando, en las Doce Casas, luchó contra su amado discípulo, Hyoga, y le sonrió mientras moría. Por eventualidad, regresa mientras la Guerra Santa, participando de la invasión al Santuario y, posteriormente, ayudando a los Caballeros de Bronce a cruzar el Muro de los Lamentos.
+80	Afrodita
+81	^cd0000Edad: ^ffffff22 Años\r^cd0000Altura: ^ffffff183 cm\r^cd0000Peso: ^ffffff72 kg\r^cd0000Cumpleaños: ^ffffff10 de marzo\r^cd0000Sangre: ^ffffffTipo O\r^cd0000Nacimiento: ^ffffffSuecia\r^cd0000Entrenamiento: ^ffffffGroenlandia
+82	Caballero Dorado de Piscis, es dicho que no hay nadie más bello entre los 88 Caballeros, teniendo el título de "Guerrero cuyo brillo de la belleza compite con el Sol y la Luna". Cree piadosamente en la ley del más fuerte y que sólo un poder supremo puede mantener la paz del mundo. Sus golpes transforman rosas en armas: la rosa roja, que hace con que el oponente pierca sus cinco sentidos; la negra, capaz de derribar cualquier obstáculo; y la blanca, que absorbe la sangre del adversario. Sus Rosas Diabólicas Reales son uno de los más espectaculares ataques de todos los tipos de los Caballeros. Cuando la Guerra Santa sucede, se redime de sus pecados dando su fuerza para derribar el Muro de los Lamentos.
+83	Shion
+84	^cd0000Edad: ^ffffff248 Años\r^cd0000Altura: ^ffffff185 cm\r^cd0000Peso: ^ffffff77 kg\r^cd0000Cumpleaños: ^ffffff30 de marzo\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffTíbet\r^cd0000Entrenamiento: ^ffffffJamir
+85	Orfeo
+86	^cd0000Edad: ^ffffff19 Años\r^cd0000Altura: ^ffffff173 cm\r^cd0000Peso: ^ffffff60 kg\r^cd0000Cumpleaños: ^ffffff15 de Noviembre\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffGrecia\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+87	Caballero de Plata de Lira. Cuando jóvenes, Orfeo y Eurídice se enamoraron - pero, inesperadamente, Eurídice acaba muriendo. Sufriendo, Orfeo va al Inframundo para pedir a Hades que la reviva. La hermosa música de Orfeo acaba convenciendo a Hades, que la revive; sin embargo, en la salida del Inframundo, Pandora lo engaña junto a Pharaoh para transformar Eurídice en piedra, para que Orfeo siga atrapado allí. Orfeo evita participar en la Guerra Santa hasta descubrir la traición, entonces actuando al lado de los Caballeros de Bronce, él muere en batalla en el Templo de Hades.
+88	Marin
+89	^cd0000Edad: ^ffffff16 Años\r^cd0000Altura: ^ffffff167 cm\r^cd0000Peso: ^ffffff51 kg\r^cd0000Cumpleaños: ^ffffff18 de marzo\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+90	Amazona de Plata de Águila y maestra de Seiya de Pegaso. Su percepción es extraordinária y es una de las más excelentes guerreras, de personalidad calma y tranquila. Caso el oponente deje aparecer una debilidad, un ataque certero y fatal se dará en un destello. Está siempre en busca de su hermano menor, que aún cree estar vivo - y Seiya ya creyó, erróneamente, que ella era su hermana mayor. En la Saga de Hades encuentra a la hermana mayor de Seiya, Seika, aunque el paradero de su propio hermano continúe un misterio.
+91	Shina
+92	^cd0000Edad: ^ffffff16 Años\r^cd0000Altura: ^ffffff166 cm\r^cd0000Peso: ^ffffff49 kg\r^cd0000Cumpleaños: ^ffffff24 de marzo\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffItalia\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+93	Amazona de Plata de Ofiuco, la maestra de Cassios oculta un rostro hermoso y angelical detrás de su máscara, a pesar de su actitud agresiva e imponente. Enojada porque Seiya ganó la Armadura de Pegaso en el lugar de su discípulo, lo atacó mientras que él intentaba dejar el Santuario, teniendo su máscara rota por Seiya durante la lucha - y, para una Amazona, dejar que su rostro sea visto por un hombre es la mayor de las verguenzas; según las normas, se requiere matarlo o amarlo. Por eso, fue atrás de Seiya e intentó matarlo varias veces; sin embargo, se unió a los Caballeros de Bronce al saber que la Diosa Atenea estaba al lado de ellos y, en poco tiempo, se terminó enamorando del Caballero de Pegaso, llegando a sacrificarse por él en algunas batallas. Participó de luchas importantes en la Saga del Santuario, Asgard y Poseidón.
+94	Dios · Seiya
+95	^cd0000Edad: ^ffffff13 Años\r^cd0000Altura: ^ffffff165 cm\r^cd0000Peso: ^ffffff53 kg\r^cd0000Cumpleaños: ^ffffff01 de Diciembre\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+96	Pegaso é o principal protagonista. Normalmente, age como uma criança, um personagem bastante animado. Mas em seus combates, especialmente quando Athena está em perigo, luta com todas as suas forças para ajudar e proteger seus aliados.total de impulso na batalha da frente.Praticar para o santuário grego.discípulos mágica Ling.
+97	Dios · Shiryu
+98	^cd0000Edad: ^ffffff14 años\r^cd0000Altura: ^ffffff172 cm\r^cd0000Peso: ^ffffff53 kg\r^cd0000Cumpleaños: ^ffffff04 de Octubre\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffRozan
+99	Caballero de Bronce de Dragón. Estuvo bajo los cuidados de Dohko de Libra para entrenar en los Cinco Picos Antiguos, en China. Mientras su entrenamiento, logró revertir el flujo de la Cascada de Rozan, y asi, mereció ganar su Armadura. De personalidad franca, da mucho valor a la amistad y cree en el poder que ella tiene, siempre dispuesto a morir por los amigos; es aquel que sacrifica su propia vida en favor de los demás. Shiryu participó de muchas luchas en las cuales estuvo cerca de la muerte, pues, generalmente, necesitó explotar a su Cosmos además de sus límites para derrotar un enemigo que no tenía oportunidad de ganar. Su voluntad de vencer a veces puede dejarlo ciego. Literalmente.
+100	Dios · Hyoga
+101	^cd0000Edad: ^ffffff14 años\r^cd0000Altura: ^ffffff173 cm\r^cd0000Peso: ^ffffff60 kg\r^cd0000Cumpleaños: ^ffffff23 de Enero^cd0000Sangre: ^ffffffO\r^cd0000Nacimiento: ^ffffffEx-Unión Soviética\r^cd0000Entrenamiento: ^ffffffSiberia Oriental\r^cd0000Maestro: ^ffffffCamus
+102	Caballero de Bronce de Cisne y discípulo de Camus de Acuario. Tiene una personalidad discreta, siempre en conflicto com sus propias emociones, a pesar de intentar ser racional ante todo. Mientras su entrenamiento en la Siberia Oriental, recibió órdenes venidas del Santuario para ir hasta el Torneo Galáctico y castigar a los Caballeros de Bronce que luchaban por fines personales, pero acaba envolviéndose en las luchas por la Armadura Dorada al ver que no era verdad. En ese tiempo, Hyoga desarrolla una profunda y sólida amistad con los otros Caballeros de Bronce. Después de eso, como Caballero protector de Atenea, lucha juntamente con los demás para defender la paz en la Tierra.
+103	Dios · Shun 
+104	^cd0000Edad: ^ffffff13 Años\r^cd0000Altura: ^ffffff165 cm\r^cd0000Peso: ^ffffff51 kg\r^cd0000Cumpleaños: ^ffffff09 de septiembre\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffIsla de Andrómeda
+105	El Caballero de Bronce de Andrómeda es todo lo que no se espera de un guerrero. Extremadamente pacífico y benevolente, evita al máximo entrar en cualquier tipo de fricción y combate. Sin embargo, si forzado, muestra que es uno de los más poderosos caballeros de todo el ejército de Atenea. Por veces, es necesario presionarlo al extremo para que muestre su verdadera fuerza. Su alma es tan pura que fue elegido para ser el hospedero de Hades en esta Guerra Santa, pero la lealtad a sus amigos y a Atenea permite que regrese a los sentidos y luche al lado de los Caballeros de Bronce cuando llega la hora.
+106	Dios · Ikki 
+107	^cd0000Edad: ^ffffff15 años\r^cd0000Altura: ^ffffff175 cm\r^cd0000Peso: ^ffffff62 kg\r^cd0000Cumpleaños: ^ffffff15 de Agosto\r^cd0000Sangre: ^ffffffTipo AB\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffIsla de la Reina Muerte
+108	El hermano mayor de Shun de Andrómeda, su maestro fue el misterioso Caballero de la Isla de la Reina Muerte, Guilty. Es el Caballero de Bronce más fuerte, además de también ser bueno en ataques que manipulan la mente del oponente. Una persona desbordando odio, se llama a sí mismo de "el hombre que desistió de todo", pero es descrito por Saga como aquel tipo de hombre "cuyo sentido de la justicia se esconde en el interior de su corazón". Es de una naturaleza fría, pero oculta emociones sobre su personalidad - y la más difícil de ocultar es el cuidado y preocupación que tiene con su hermano. Por eso no es del tipo que habla de cómo sus amigos le dan fuerza, después de todo, los demás ya lo hacen bastante, basta de sentimentalismo.
+109	Seiya
+110	El personaje principal es el Caballero de Bronce de Pegaso. Normalmente luce como un chico y tiene una personalidad inocente e impulsiva. Sin embargo, en la hora de luchar, especialmente cuando Atenea encuentra algún peligro, proporciona todas sus fuerzas y se muestra un Caballero muy hábil. Es el espíritu que lidera a los demás, con un gran sentido de justicia y siempre corriendo hacia la batalla. Su lugar de entrenamiento es el Santuario de la Grecia, donde fue discípulo de Marin, y su mayor objetivo es reencontrar a su hermana. Como dueño de la Armadura de Pegaso, es conocido como el mayor oponente de los Dioses entre los Caballeros de Atenea.
+111	Shiryu
+112	Hyoga
+113	Shun
+114	Ikki
+115	Nachi
+116	^cd0000Edad: ^ffffff14 Años\r^cd0000Altura: ^ffffff171cm\r^cd0000Peso: ^ffffff57kg\r^cd0000Cumpleaños: ^ffffff20 de julio\r^cd0000Sangre: ^ffffffTipo AB\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffLiberia
+117	Apesar de ser sólo un Caballero de Bronce, la lealtad del Caballero de Lobo es indudable. Incluso consciente de la diferencia de poderes entre su clase de caballero y otras, se pone en riesgo para proteger a sus aliados. Su técnica principal sigue el mismo principio de la Excalibur de Shura, siendo un movimiento en el cual sus músculos y Cosmos hacen el aire vibrar, haciéndolo cortante. La diferencia está en la intensidad del golpe, en el cual el de Shura es mucho más extenso y poderoso.
+118	Geki
+119	^cd0000Edad: ^ffffffDesconocido\r^cd0000Altura: ^ffffffDesconocido\r^cd0000Peso: ^ffffffDesconocido\r^cd0000Cumpleaños: ^ffffffDesconocido\r^cd0000Sangre: ^ffffffDesconocido\r^cd0000Nacimiento: ^ffffffDesconocido\r^cd0000Entrenamiento: ^ffffffDesconocido
+120	Uno de los 48 Caballeros de Bronce que juraron lealtad a Atenea, protegiendo luchar hasta su último suspiro en favor de la Diosa guardián de la humanidad.
+121	Ban
+122	Ichi
+123	^cd0000Edad: ^ffffff14 años\r^cd0000Altura: ^ffffff170 cm\r^cd0000Peso: ^ffffff56 kg\r^cd0000Cumpleaños: ^ffffff10 de Febrero\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffFinlandia
+124	Caballero de Bronce de Hidra, posee una naturaleza melancólica y es muy difícil para las otras personas comprender lo que piensa. Es especialista en golpes con presas venenosas y tiene movimientos sutiles en batalla, como una serpiente. En el Torneo Galáctico, fue derrotado por Hyoga. Apesar de la rara aparencia, Ichi es, en realidad, una buena persona, ayudando a proteger a Saori durante la Saga del Santuario.
+125	Jabu
+126	^cd0000Edad: ^ffffff13 Años\r^cd0000Altura: ^ffffff165 cm\r^cd0000Peso: ^ffffff55 kg\r^cd0000Cumpleaños: ^ffffff03 de Noviembre\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffJapón\r^cd0000Entrenamiento: ^ffffffArgelia
+127	El Caballero de Bronce de Unicornio que posee una riña eterna con Seiya. Está enamorado por Saori desde chico y es extremadamente leal a ella. Posee telequinesis básica y lucha usando principalmente las piernas para asestar sus golpes. Logra derrotar a Ban en el Torneo Galáctico, pero, en el segundo turno, enfrenta la Corriente de Andrómeda de Shun y es derrotado. En la Saga de las Doce Casas regresa para el lado de Atenea.
+128	June
+129	Pegaso Negro
+130	^cd0000Edad: ^ffffff15 años\r^cd0000Altura: ^ffffff170 cm\r^cd0000Peso: ^ffffff58 kg\r^cd0000Cumpleaños: ^ffffff13 de Julio\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffIsrael\r^cd0000Entrenamiento: ^ffffffIsla de la Reina Muerte
+131	Su verdadero nombre es Kenuma, y es uno de los cuatro Caballeros del Apocalipsis, responsable por la cintura de la Armadura Dorada de Sagitario después de que Ikki la robara en el Torneo Galáctico. Su principal técnica es el Meteoro Negro, capaz de partir la armadura y dañar el cuerpo, haciendo con que aparezcan puntos negros en la piel que no paran de aumentar de tamaño, que provocan envenenamiento en la sangre del enemigo y, después, la muerte. Fue derrotado por Seiya, pero antes de morir, logró alcanzarlo con sus golpes y también casi lo mató; pero Seiya sobrevive gracias a Shiryu, que atingió sus puntos vitales y logró purificar su sangre.
+132	Dragón Negro
+133	El verdadero nombre del Caballero de Dragón Negro y uno de los Caballeros del Apocalipsis es Shinadekuro, y su fuerza parece ser la mayor de los quatro. En la Isla de la Reina Muerte, Ikki lucha por la Armadura de Fénix y el Caballero se convierte en su subordinado. Para ayudar a Ikki, él se queda responsable por el pecho de la Armadura Dorada de Sagitario y enfrenta a Shiryu, que había perdido gran cantidad de sangre debido a la reparación de su Armadura. En el inicio estaba ganando, pero Shiryu usó el Cólera del Dragón, derramando mucha sangre y ganando con dificultad. A un paso de la muerte, fue conmovido por la amistad entre los Caballeros de Bronce y alcanzó el punto vital de Shiryu, frenando su hemorragia. El Dragón Negro tiene un hermano gemelo ciego, Fukuryu - que, en la lucha en la oscuridad, le indicaba la posición del enemigo para que tuviera ventaja sobre los demás.
+134	Cisne Negro
+135	^cd0000Edad: ^ffffff15 años\r^cd0000Altura: ^ffffff173 cm\r^cd0000Peso: ^ffffff61 kg\r^cd0000Cumpleaños: ^ffffff28 de Diciembre\r^cd0000Sangre: ^ffffffTipo O\r^cd0000Nacimiento: ^ffffffFinlandia\r^cd0000Entrenamiento: ^ffffffIsla de la Reina Muerte
+136	Jido es más uno de los cuatro Caballeros del Apocalipsis, encargado de las hombreras de la Armadura Dorada de Sagitario después de que Ikki la robara en el Torneo Galáctico. Luchó contra Shun y, más tarde, fue derrotado por Hyoga en el Valle de la Muerte. Antes de morir, memorizó la técnica de Hyoga y, a través de una habilidad única, grabó los golpes en su globo ocular y los envió a Ikki por teletransporte.
+137	Andrómeda Negro
+138	^cd0000Edad: ^ffffff14 años\r^cd0000Altura: ^ffffff170 cm\r^cd0000Peso: ^ffffff58 kg\r^cd0000Cumpleaños: ^ffffff04 de Octubre\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffTurquia\r^cd0000Entrenamiento: ^ffffffIsla de la Reina Muerte
+139	Uno de los cuatro Caballeros del Apocalipsis, era encargado del cuerpo de la Armadura Dorada de Sagitario después de que Ikki la robara en el Torneo Galáctico. Sus Corrientes Negras drenan la vida y crean ilusiones, haciendo el enemigo creer que se convirtió en serpiente. Fue derrotado por Shun, que fue tomado por la ira por ser atacado cobardemente al intentar salvar a Seiya y lo venció fácilmente. Curiosamente, es el único de los Caballeros Negros que no tiene su verdadero nombre revelado.
+140	Jango
+141	^cd0000Edad: ^ffffff18 años\r^cd0000Altura: ^ffffff188 cm\r^cd0000Peso: ^ffffff101 kg\r^cd0000Cumpleaños: ^ffffff08 de Agosto\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffSamoa\r^cd0000Entrenamiento: ^ffffffIsla de la Reina Muerte
+142	Un guerrero que sólo cree en la fuerza bruta. Se convirtió en el líder de los Caballeros Negros tras Ikki ser derrotado. Intentó en vano tomar la Armadura de Fénix a la fuerza, pero no obtuvo la aprovación de la Armadura. Al fin, fue muerto por Ikki, que vestía la Armadura de Fénix.
+143	Miho
+144	^cd0000Edad: ^ffffff13 años\r^cd0000Altura: ^ffffff153 cm\r^cd0000Peso: ^ffffff41 kg\r^cd0000Cumpleaños: ^ffffff05 de Abril\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffJapón
+145	Huérfana desde niña, Miho siempre ha vivido en el Orfanato Hijos de las Estrellas, creciendo junto a Seiya. Le gustan mucho los niños y, después que creció, continuó en el Orfanato trabajando como cuidadora. Es una chica gentil y pura. El amor entre ella y Seiya es asunto de charla de muchas personas. Al principio, cuando Seiya regresó de su entrenamiento en el Santuario, ella se quedó muy feliz. En seguida, después de que él y los demás hubieran pasado por innumerables batallas, ella decidió tratar de impedir a Seiya de ir al Santuario para batallar con el Gran Maestro, velando por su supervivencia.
+146	Cassios
+147	^cd0000Edad: ^ffffff15 años\r^cd0000Altura: ^ffffff201 cm\r^cd0000Peso: ^ffffff128 kg\r^cd0000Cumpleaños: ^ffffff14 de Diciembre\r^cd0000Sangre: ^ffffffTipo O\r^cd0000Nacimiento: ^ffffffGrecia\r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+148	El discípulo de Shina de Ofiuco y candidato a la Armadura de Pegaso. Su cuerpo es robusto, fuerte como un toro y con sólo una de las manos puede agarrar el cuerpo entero de Seiya. Lamentablemente, el destino de Cassios era apenas ser un personaje de apoyo y, por eso, el autor lo dejó perder para Seiya durante la competición por la Armadura de Pegaso, aparte de haber perdido también una oreja. Es una persona de respeto por su grandiosidad de sacrificarse por el amor. Mientras los Caballeros de Bronce estaban en la carrera en las Doce Casas, Seiya encontró una lucha amargada en la Casa de Leo: el Caballero Dorado de Leo, Aioria, es atacado sigilosamente por el Gran Maestro y, bajo el Satán Imperial y con su sentido de justicia confuso, ataca a Seiya. La única forma de librarse del Satán Imperial sería ver al enemigo morir delante de él. Al escuchar eso, Shina corrió prontamente para la Casa de Leo - pero, para que Shina no fuera herida, Cassios murió en su lugar, salvando también a Seiya, su antiguo enemigo.
+149	Kiki
+150	^cd0000Edad: ^ffffff8 años\r^cd0000Altura: ^ffffff130 cm\r^cd0000Peso: ^ffffff34 kg\r^cd0000Cumpleaños: ^ffffff01 de Abril\r^cd0000Sangre: ^ffffffTipo B\r^cd0000Nacimiento: ^ffffffTíbet\r^cd0000Entrenamiento: ^ffffffJamir
+151	Kiki es discípulo de Mu. Cada Caballero de Aries tiene un asistente, y Kiki fue adoptado por Mu como tal cuando se encontraron en Jamir. Las cejas en forma de puntos circulares son una característica de los lemurianos. Es un chico travieso pero de buen corazón, ayudando a los Caballeros siempre que puede. Las habilidades más importantes de Kiki son la telequinesis, con la que consigue mover el cuerpo de personas o animales por un breve período de tiempo, y su velocidad, que puede alcanzar la velocidad de la luz. 
+152	Shunrei
+153	^cd0000Edad: ^ffffff13 Años\r^cd0000Altura: ^ffffff154 cm\r^cd0000Peso: ^ffffff42 kg\r^cd0000Cumpleaños: ^ffffff20 de Abril\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffChina
+154	Fue abandonada aún bebé en una aldea en Rozan y, desde entonces, fue creada por el Maestro. Los hermosos ríos y montañas de China le dieron un espíritu gentil, humilde y una fuerte determinación. Sus plegarias y cuidados siempre le dieron apoyo a Shiryu, su amigo de la infancia por quien es enamorada - y cuyo sentimiento es recíproco.
+155	Esmeralda
+156	^cd0000Edad: ^ffffff13 Años\r^cd0000Altura: ^ffffff158 cm\r^cd0000Peso: ^ffffff43 kg\r^cd0000Cumpleaños: ^ffffff25 de Agosto\r^cd0000Sangre: ^ffffffTipo A\r^cd0000Nacimiento: ^ffffffIsla de la Reina Muerte
+157	Joven gentil de una belleza pura. Habitante de la Isla de la Reina Muerte, conoció a Ikki mientras su entrenamiento, ofreciéndole consuelo y cuidados. En la lucha de Ikki para obtener la Armadura de Fénix, ella termina accidentalmente recibiendo el golpe de Guilty y muere. Así, Ikki encarna el odio, despierta a su Cosmos, mata a su maestro y obtiene la Armadura.
+158	Guilty
+159	^cd0000Edad: ^ffffffDesconocido \r^cd0000Altura: ^ffffff192 cm \r^cd0000Peso: ^ffffff91 kg \r^cd0000Cumpleaños: ^ffffffDesconocido \r^cd0000Sangre: ^ffffffDesconocido\r^cd0000Nacimiento: ^ffffffDesconocido \r^cd0000Entrenamiento: ^ffffffDesconocido
+160	Maestro de Ikki en la Isla de la Reina Muerte, es conocido como "Caballero del Diablo", encargado por usar la máscara que sella el mal de la isla. Cree que su discípulo es demasiado benevolente, siempre diciéndole que es débil e le falta odio. Mientras la batalla por la Armadura de Fénix, accidentalmente mató a Esmeralda - lo que hizo con que Ikki despertara su más profundo odio y lo matase.
+161	Kanon
+162	^cd0000Edad: ^ffffff28 Años \r^cd0000Altura: ^ffffff188 cm \r^cd0000Peso: ^ffffff87 kg \r^cd0000Cumpleaños: ^ffffff30 de Mayo \r^cd0000Sangre: ^ffffffTipo AB \r^cd0000Nacimiento: ^ffffffGrecia \r^cd0000Entrenamiento: ^ffffffSantuario de la Grecia
+163	El hermano gemelo de Saga, aunque nadie en el Santuario supiese de su existencia. Tiene una personalidad mucho más maléfica que la de su hermano, siendo éste el motivo de haber sido encarcerado en el Cabo Sunión. Allá, acabó despertando el alma de Poseidón y se pasó por General Marina de Dragón del Mar, deseando usar el nombre del Dios de los Oceános para derrotar a Atenea al fin de conquistar toda la Tierra; este es el motivo de su título: "el hombre que se atrevió a engañar hasta los dioses". Después de la guerra en el Reino Marino, Kanon se arrepintió sinceramente de sus hechos y heredó la aspiración dejada por su hermano, convirtiéndose en el nuevo Caballero Dorado de Géminis y luchando por la Diosa. Su fuerza, en realidad, no es inferior a la de Saga, tanto que luchó al mismo tiempo de igual para igual con los Tres Jueces del Inframundo.
+164	Krishna
+165	^cd0000Edad: ^ffffff19 Años \r^cd0000Altura: ^ffffff187 cm \r^cd0000Peso: ^ffffff80 kg \r^cd0000Cumpleaños: ^ffffff10 de Agosto \r^cd0000Sangre: ^ffffffTipo B \r^cd0000Nacimiento: ^ffffffSri Lanka
+166	El General Marina de Crisaor. El interior del cuerpo de Krishna posee un lado místico capaz de activar a los siete chakras, y la energia cósmica liberada es casi equivalente a la de un Caballero Dorado. Su principal arma es la Lanza Dorada, cuyo poder es impresionante, siendo capaz de cortar el oponente sólo con el aire impulsado por ella. Derrotado por la Excalibur de Shiryu, Krishna mostró un espíritu de honor, respetando al adversario que considera digno.
+167	Sorrento
+168	^cd0000Edad: ^ffffff16 Años \r^cd0000Altura: ^ffffff178 cm \r^cd0000Peso: ^ffffff75kg \r^cd0000Cumpleaños: ^ffffff10 de Septiembre \r^cd0000Sangre: ^ffffffTipo A \r^cd0000Nacimiento: ^ffffffAustria
+169	Uno de los Siete Generales Marinas bajo el control del Rey de los Mares, Poseidón. Con sinceridad en su corazón, Sorrento realmente cree que Poseidón puede lavar el mal de la Tierra para establecer un mundo ideal. Es especialista en usar el sonido de su flauta, cuyo poder formidable ya dejó a Aldebaran en desesperación. En la lucha para proteger el Pilar del Océano Atlántico Sur, fue derrotado por Shun.
+170	Thetis
+171	Radamanthys
+172	^cd0000Edad: ^ffffff23 Años \r^cd0000Altura: ^ffffff189 cm \r^cd0000Peso: ^ffffff84 kg \r^cd0000Cumpleaños: ^ffffff30 de Octubre \r^cd0000Sangre: ^ffffffTipo O \r^cd0000Nacimiento: ^ffffffReino Unido
+173	Estrella Celeste de la Ferocidad, el Espectro de Wyvern es conocido como "el más fuerte de Los Tres Jueces del Inframundo" entre los 108 Espectros. En el inicio de la historia, contrariando a las órdenes de Pandora, envia por sí mismo una tropa de Espectros para avanzar; después de eso, se convirtió en un oponente formidable de Seiya y los demás. Él no apenas tiene la confianza de Hades, como también es querido y respetado por sus subordinados. En la lucha contra Kanon, es alcanzado por el ataque suicida de su oponente y acaba desapareciendo en el cielo del Inframundo.
+174	Aiacos
+175	Minos
+176	^cd0000Edad: ^ffffff23 Años \r^cd0000Altura: ^ffffff184 cm \r^cd0000Peso: ^ffffff72 kg \r^cd0000Cumpleaños: ^ffffff25 de Marzo \r^cd0000Sangre: ^ffffffTipo A \r^cd0000Nacimiento: ^ffffffNoruega
+177	Estrella Celestial de la Nobleza, el Espectro de Grifo es uno de los Tres Jueces del Inframundo y su fuerza se compara a la fuerza de los otros dos. La personalidad de Minos es calma; durante una batalla, espera hasta el momento perfecto para dar un golpe decisivo. Como el último de los Tres Jueces a ser derrotado, al fin de impedir la ida de Seiya y los demás, luchó en una batalla intensa contra Hyoga. Sin embargo, al adentrarse en la Hiperdimensión, su cuerpo acabó por volverse polvo por no tener una protección divina.
+178	Pandora
+179	Pegaso
+180	En la mitologia griega, Perseo decapitó y mató a la Gorgona Medusa y la sangre que brotó de su cuello dió vida a Pegaso. El caballo alado voló a los cielos y posó en el Monte Hélicon, donde creó la Primavera, una fuente de inspiración para varios poetas. Atenea domó el caballo y lo regaló a Belerofonte para que viajara. En un trayecto al Monte Olimpo, Pegaso fue picado por una avispa, a su vez derribando a Belerofonte de vuelta a la tierra. Pegaso continuó volando solo, hasta finalmente alcanzar el horizonte y convertirse en una constelación.
+181	Dragón
+182	Según la mitologia griega, cuando los dioses Zeus y Hera se casaron, la diosa Gaia les envió un manzano de frutos de oro como regalo. Más tarde, Hera plantó el manzano de frutos de oro en el huerto donde las hijas de la diosa de la noche vivian y envió un Dragón escupidor de fuego para guardarlo. Este Dragón poseía 100 cabezas y nunca se dormía. La diosa Hera, con la intención de dificultar el 11º trabajo de Herácles, pidió para que él cogiera tres manzanas doranas del manzano. Cuando Herácles halló el huerto, las llamas que el dragón escupía impedían que se acercara. Con su sabiduría, Herácles se ofereció a Atlas para encargarse de su penitencia - sostener el mundo por encima de los hombros -, con la condición de que Atlas hiciera el Dragón dormir y cogiera las manzanas de oro. Hecha la tarea, Herácles lo engañó para que él sostenese el mundo de nuevo. Más tarde, Hera envia el Dragón al cielo, nasciendo así su constelación.
+183	Cisne
+184	En la mitologia griega, la belleza de la princesa Leda atrajo la atención del dios Zeus, pero él tenía miedo de la naturaleza celosa de la diosa Hera y tenía miedo de acercarse a la chica en su forma verdadera. Entonces, Zeus se transformó en un Cisne para seducir a la princesa. Luego después, la princesa quedó embarazada, y dio a luz a los gemelos que más tarde se convertirían en los héroes griegos Pólux y Castor. Posteriormente, Leda se casó con Tíndaro, Rey de Esparta, y tuvo con él dos hijas, Clitemnestra y Helena. La segunda se casó con Menelau, hermano de Agamenon. En esta época, Zeus ya había regresado al cielo y, para conmemorar el éxito de su romance, transformó su encarnación de Cisne en la constelación del mismo nombre.
+185	Andrómeda
+186	Andrómeda tiene su origen en el mito de Perseo. En él, Casiopea, la reina de Etiopia, se alardeaba de que su hija era más bonita que las Nereidas. Ofendidas, las ninfas pidieron a Poseidón para castigar a Casiopea, y la divindad envió el monstruo marino Cetus para atacar a Etiopia. En pánico, el padre de Andrómeda, Cefeus, fue informado por el Oráculo de Amon que la única manera de salvar a su reino sería sacrificando a su hija. Ella fue encadenada a una roca del mar, pero fue salvada por el héroe Perseo, que, en una versión de la historia, usó la cabeza de Medusa para convertir el monstruo en piedra. Entonces Perseo y Andrómeda se casaron y tuvieron nueve hijos. Después de la muerte de Andrómeda, Atenea la homenajeó colocándola en el cielo como una constelación.
+187	Fénix
+188	La majestuosa ave de fuego es una figura recurrente de la mitología. Capaz de vivir por períodos de hasta 500 años, todavía es capaz de trascender los límites de la vida y la muerte cuando alcanza el ápice de su madurez, incendiando al propio cuerpo y renaciendo de las cenizas. A diferencia de la mayoría de las constelaciones aquí narradas, Fénix es una constelación relativamente nueva, siendo bautizada a finales del siglo XVI, y es por eso que no tiene ninguna leyenda clásica.
+189	Escudo
+190	En 1683, 300 mil soldados Turcos rodearon a Viena, la capital de Austria, e intentaron conquistar Europa. John III Sobieski, el rey de Polonia, llevó a Viena solo 70 mil soldados y consiguió derrotar al ejército Turco. La victoria no tuvo impacto sólo en Polonia, sino en toda Europa. Un año más tarde, el astrónomo Jan Heweliusz nomeó una constelación con el nombre del Escudo para celebrar la victoria alcanzada, debido al escudo usado por Sobieski en batalla.
+191	Sextans
+192	Una armadura poderosa, que sólo puede ser usada por los sagrados guerreros fieles a Atenea.
+193	Volans
+194	Serpiente
+195	La constelación de Serpiente se divide en dos mitades: Caput, la cabeza, y Cola. La división ocurre pues la constelación de Serpiente se encuentra entre las dos. Es una de las constelaciones más antiguas del cielo, ya que esas criaturas siempre fueron admiradas en el transcurso de las civilizaciones, tanto que varias consideraban ambas apenas una constelación. Sin embargo, Ptolomeo ya las catalogaba como agrupaciones independientes.
+196	Pez Austral
+197	Una constelación bastante ancestral, ya que era admirada por civilizaciones desde la Era de la antigua Mesopotamia. Por eso, ha recibido varias asociaciones por diversas civilizaciones con el paso de los siglos. Por ejemplo, los Sirios creían ser el pez que salvó a la diosa de la fertilidad, Atargatis. En la mitología siria, estaría además relacionado al dios Dagón, mitad hombre y mitad pez.
+198	Camaleón
+199	Hidra♂
+200	Corona Boreal
+201	En la mitología griega, Ariadne no quería aceptar la propuesta de casamiento de Dionísio por creer que este era un ser humano cualquiera. Para provar que era una divinidad, Dionísio sacó la corona de Ariadne y la lanzó al cielo, resultando en el nacimiento de esta constelación. Ariadne, por su vez, terminó casando con él después de lo ocurrido.
+202	Cruz del Sur
+203	La menor y más famosa constelación en los cielos. Recibiendo diferentes nombres en diferentes culturas (incluso conocida como "Garra de Águila" en Australia), fue una constelación muy importante en la época de las navegaciones, pues el extremo superior de la cruz apunta para el Polo Sur celeste.
+204	Popa
+205	Dentro de la mitología griega, Argo Navis es el navío que Jasón y los Argonautas usaron en su búsqueda por el Vellocino de Oro. Del navío solo es visible la mitad posterior, definida la tradición que el resto de la embarcación no era visible por estar envuelta en la neblina. La constelación de Popa, como el nombre ya indica, representa la popa de la Argo Navis. Lo demás del navío se encuentra en las constelaciones de Quilla y Vela.
+206	Reno
+207	Corona Austral
+208	Liebre
+209	Erídano
+210	Horologium
+211	Reina
+212	Oriolus
+213	Chita
+214	Coreius
+215	Lira
+216	Aunque la constelación sea del instrumento, la historia por trás de ella es la del músico que la empuñaba. Orfeo, hijo de Apolo, tocaba una lira hecha por Hermes usando un caparazón de tortuga. Enamorado por la esposa Euridice, Orfeo se deshace cuando la amada es picada por una serpiente y viene a fallecer. El músico viaja al Inframundo y hace un trato con Hades para recuperar a su mujer, el cual la divindad acepta, pero sólo si sale del Inframundo sin mirar hacia detrás. En un descuido, él lo hace para intentar ver el rostro de su amada y, por causa de su impaciencia, pierde Euridice para siempre. Desconsolado, Orfeo ve su fin en las manos de incontables mujeres después de negar sus investidas. Zeus, en homenaje al músico, levantó su lira al cielo y la convertió en una constelación.
+217	Auriga
+218	En la interpretación griega, esa constelación representaria Erictonio, el hijo de Hefesto y Atenea. Erictonio aprendió diviersas técnicas con su madre, incluyendo el adestramiento, que utilizó para domar caballos e inventó una carroza (de ahí la traducción de Auriga por Cochero en algunas interpretaciones).
+219	Cefeus
+220	La figura mitologica de Cefeus representa el legendario rey del antiguo territorio fenicio, marido de Casiopea y padre de Andrómeda. Fue él quien tomó la decisión de encadenar a su propia hija de modo a salvar a su reino, después que su esposa se convenció de ser más bella que las nereidas y provocar la ira de Poseidón.
+221	Retículo
+222	Águila
+223	Triángulo
+224	Fácilmente identificable en los cielos por su formato, esa constelación era conocida en la Grecia como ”Deltoton”, debido a la similitud con la letra griega Delta (Δ). Eratóstenes asociaba la constelación a la desembocadura del Río Nilo.
+225	Heracles
+226	Instigado a matar a su propia familia por la Diosa Hera, Heracles empieza 12 trabajos casi imposibles para redimirse. Hijo de Zeus con la humana Alcmena, el semidiós es uno de los héroes más conocidos de la mitologia griega, siendo convertido en constelación por su propio padre al final de su vida mortal.
+227	Cuervo
+228	El pájaro doméstico de Apolo fue ordenado a buscar agua en un manantial lejano. El cuervo se despistó con una higuera, se atrasando en su misión, y después culpó a una serpiente por no permitir que buscase el agua. La divindad vió a través de las mentiras del cuervo y, como punición, lo puso en los cielos junto de la serpiente y la copa que deberia utilizar para buscar el agua, incumbiendo así a la serpiente de jamás permitir que el cuervo llegase al agua de la copa.
+229	Centauro
+230	  Aunque existan muchos centauros en la mitologia, lo que origina la constelación es Chiron, conocido como “el entrenador de héroes“ por haber enseñado a grandes mortales de la mitologia, como Jasón y Heracles. Era muy sabio, disciplinado y benevolente, diferente de la mayoria de su espécie.
+231	Fornax
+232	Brújula
+233	Ballena
+234	Perseo
+235	Casiopea
+236	Pavo
+237	Lagarto
+238	Copa
+239	Cerbero
+240	Grulla
+241	Altar
+242	Duquesa
+243	Pez Espada
+244	Atrium
+245	Maestro de los Fantasmas
+246	Aries
+247	La constelación de Aries se originó de un carnero mítico cuya lana se convertía en oro. El Vellocino de Oro, o el Tosón de Oro, el nombre dado a la lana de ese carnero, se convierte en uno de los objetos más codiciados en la mitología griega, siendo objetivo de las obras de Jasón y de los Argonautas. El carnero pertenecía a Frixo, hijo de Atamante, y fue utilizado para huir de Grecia junto a su hermana, Hele.
+248	Tauro
+249	Así como el Cisne, el Tauro en las estrellas representa una de las formas que Zeus asumió para seducir una mortal. En este caso, el objetivo era la princesa fenicia Europa, con la cual Zeus tuvo tres hijos. La constelación de Tauro abriga dos de los grupos estelares más emblemáticos de los cielos: las Híades y las Pleiades. El formato de la constelación enseña sólo la mitad del animal, como si estuviera emergiendo de las olas.
+250	Géminis
+251	Los hermanos que dan forma a la constelación son Castor y Polux, hijos de la reina de Esparta, Leda, después de esta ser seducida por Zeus en su forma de cisne. Los gemelos eran guerreros formidables, pero, en una batalla por la mano de donzellas prometidas, Castor fue abatido. Polux intenta quitar su propia vida, pero su lado inmortal le impide. Su drama entonces es inmortalizado en las estrellas, con los gemelos eternamente abrazados.
+252	Cáncer
+253	Mientras Heracles enfrentaba a la Hidra, se envió un cangrejo para entorpecer al héroe. Sin hesitar, la pequeña criatura fue aplastada por un pisón del hijo de Zeus. Como premio por sus esfuerzos, el ser fue erguido a los cielos y se convertió en la constelación de Cáncer.
+254	Leo
+255	El primer de los Doce Trabajos de Heracles es el de enfrentar el León de Nemea, un felino colosal como un elefante y de cuero resistente como el de un cocodrilo. El hijo de Zeus derriba la fiera y la mata estrangulada, posteriormente vestiendo su piel para protección. Hera, indignada con la derrota del León, lo convierte en una constelación para inmortalizar el enemigo de Heracles en los cielos.
+256	Virgo
+257	Son muchos los mitos asociados a la constelación de Virgo, pero siempre ligados a figuras femeninas en múltiples culturas. En la Grecia, el grupo celeste se refería a la Diosa Deméter, regente de las cosechas y de la fertilidad. En otras lecturas, la joven sería Erígone, hija de Ícaro y cercana al Dios Dionísio, que fue convertida en constelación después de suicidarse en luto a su padre. 
+258	Libra
+259	La balanza es asociada a la Diosa Astrea, hija de Zeus y Temis, siendo la personificación de la justicia junto a su madre. Una guardián de la humanidad, enseñaba a los hombres técnicas de caza y de plantio, y predicaba el amor. Con el fin de la Edad de Oro, Astrea abandona la Tierra para no ser testigo del sufrimiento que estaba por venir, yendo a los cielos y se convirtiendo en la constelación de Libra. En otras interpretaciones, Astrea se convertió en la constelación de Virgo.
+260	Escorpio
+261	Asi como Cáncer, la constelación de Escorpio también se origina de una criatura conjurada para intentar matar un héroe griego. En el caso, el Escorpio había sido enviado por Apolo para matar a Orión, en un acto de celos en relación a su hermana, Artemisa, la cual estaba novia del cazador. Después de concluir la tarea, fue erguido a los cielos y se convertió en constelación. Curiosamente, cuando las estrellas de Orión están desapareciendo en el Ocidente, las de Escorpio emergen en el Oriente.
+262	Sagitario
+263	Asi como la constelación de Centauro, Sagitario también retrata el cuento de Chiron. Hijo del titán Cronos y de la ninfa Filira, fue adoptado por Apolo y entrenó a una série de héroes de la mitologia, como Herácles, Jasón, Aquiles, Ajax, Teseo, y muchos otros. Vivió y murió por el bien de los demás, sacrificando su propria inmortalidad para livrar Prometeo de su castigo eterno. Sus actos hicieron con que fuese inmortalizado en los cielos en la constelación zodiacal.
+264	Capricornio
+265	Mientras los dioses estaban reunidos en la Grecia, el gigante Tifón atacó y forzó todos a huíren. Para evadir la criatura, los dioses fueron asumiendo formas de animales; Artemis se convertió en gato, Hermes en Íbis, y asi sucesivamente. Pan, engenhoso, saltó en un río, convertió mitad de su cuerpo en pez y la otra mitad en carnero, escapando con facilidad, usando el mejor de los dos animales. Admirado por su perspicacia, Zeus lo colocó entre las constelaciones bajo el sobrenombre de Capricornio.
+266	Acuario
+267	  La figura que lleva el ánfora de agua es asociada al pastor Ganimedes, extremamente gentil y esfuerzado, tanto que fue llevado al Olimpo por Zeus para ser el serviente personal de los dioses y recibió ambrosia para convertirse en inmortal.  Sin embargo, incluso los innumerables regalos enviados por Zeus no apaciguaban la nostalgia que el padre de Ganimedes nutría por el hijo. Asi, Zeus lo pone en los cielos para que su padre siempre pudiese verlo, en la forma de constelación de Acuario.
+268	Piscis
+269	Mientras el ataque del monstruo Tifón en la Grecia, todos los dioses son forzados a huir ante la furia de la criatura. Afrodita y su hijo, Eros, se convierten en un par de peces y huyen por las aguas. Para no perderse el uno del otro, Afrodita ata una cuerda entre los dos, garantizando así que siempre estuvieran conectados. La engenhosidad de la diosa del amor le ha garantido al par una posición en las estrellas, en la constelación de Piscis.
+270	Aries
+271	Géminis
+272	Tauro
+273	Cáncer
+274	Leo
+275	Virgo
+276	Libra
+277	Escorpio
+278	Sagitario
+279	Capricornio
+280	Acuario
+281	Piscis
+282	Dragón del Mar
+283	De acuerdo con el Hipermito, cuando Zeus dejó la Tierra en las manos de Atenea, Poseidón comienza a prepararse para atacar y tomar el control del planeta para sí. Para eso, él contruye armaduras para sus generales, para que puedan combatir con ventaja a las fuerzas de la Diosa, y así nacen las Escamas de Poseidón. Hechas de Oricalco, metal proveniente de Atlantis, la ventaja que ellas dan en batalla es tan grande que Atenea se vió forzada a crear para sus proprios guardianes, sus proprias armaduras, naciendo así las 88 armaduras de Atenea. Esa armadura es la del Dragón del Mar, utilizada en la série por Kanon, hermano gemelo de Saga.
+284	T. de las Conste.
+285	Cerca del Mar Egeo, en la Grecia, es un lugar muy visitado por los turistas debido a su reputación. Dicen que el nombre "Tierra de las Constelaciones" fue dado al lugar debido a las innumerables estrellas fugaces que pueden ser vistas en el cielo.
+286	Santuario
+287	Es la principal base de operación de los Caballeros de Atenea. Es de allí que el Gran Maestro y Atenea comandan sus fuerzas. Es también donde quedan las Doce Casas, la línea de defensa final de las fuerzas de la Diosa, guardadas por los Caballeros Dorados.
+288	Coliseo Graad
+289	La Fundación Graad es una organización con alto poder aquisitivo y conocimiento tecnológico. Creada por Mitsumasa Kido y hoy dirigida por Saori, es una de las mayores empresas de todo el mundo. \r El Coliseo Graad es una de las construcciones de propriedad de la fundación, creada para realización del Torneo Galáctico.
+290	Rozan
+291	Localizado en los Cinco Picos Antiguos, este lugar mantiene las clásicas tradiciones y caracteristicas culturales chinesas. Es donde Shiryu y Shunrei viven, bien como el Caballero Dorado de Libra y el Maestro Dohko, que reposa mientras mantiene su vigilia sobre el sello de Atenea, que mantiene bajo control a los Espectros de Hades desde la última Guerra Santa.
+292	Est. Olvidada
+293	Esta entrada es el lugar en el cual el Caballero de Sagitario, Aioros, fue muerto por el Caballero de Capricornio, Shura, después de rescatar a la Diosa Atenea, todavía bebé. Tambiém es el único camino que lleva a la Mansión Solo.
+294	I. de R. Muerte
+295	Como su nombre implica, la Isla de la Reina Muerte es un lugar cruel, conocido como el “Infierno en la Tierra“. Ikki recibió su entrenamiento aquí para convertirse en el Caballero de Fénix. La isla sirve como base para los Caballeros Negros.
+296	Sibé. Orien.
+297	Completamente cubierto de hielo y nieve, o los habitantes aprenden a convivir con un frío demoledor, o se congelan hasta la muerte. Es donde Hyoga vive y hizo su entrenamiento para convertirse en el Caballero de Cisne, bajo la tutela del Caballero de Acuario, Camus.
+298	Atlantis
+299	El legendario continente perdido de Atlantis es un reino submarino bello y maravilloso. Es donde el Palacio de Poseidón está localizado. Antiguamente, ese territorio quedaba por encima de los mares, pero se hundió tras la primera Guerra Santa entre las fuerzas de Atenea y Poseidón.
+300	Isla Andróm.
+301	El lugar donde Shun entrenó y, a través del Ritual del Sacrificio, ha obtenido la Armadura de Andrómeda. La vegetación de la Isla Andrómeda es escasa y la variación de temperatura del día para la noche es altísima. En el centro de la Isla está el volcán activo del Tartaro, que dicen ser la puerta para el Infierno. 
+302	Cas. de Hades
+303	El lugar donde Pandora nació. Inicialmente, era un castillo tranquilo y pacífico, pero, hace 13 años, cuando el espíritu de Hades renació, todas las formas de vida en los alrededores fueron extintas. Actualmente, el lugar está protegido por un encantamiento de Hades, impidiendo personas comunes de aproximarse y debilitando a los Caballeros de Atenea a 1/10 de su poder original. Tiene un portal para el Inframundo en su interior. 
+304	Inframundo
+305	Para entrar en el reino de los muertos, los vivos deben alcanzar el Octavo Sentido. Inspirado en la “Divina Comedia“ de Dante Alighieri, el territorio de Hades es dividido en 9 círculos con prisiones para diferentes tipos de almas a ser castigadas. Además del Muro de los Lamentos, se encuentra el camino para los Campos Elíseos, lugar de descanso de las almas benevolentes y seleccionadas por los dioses, bien como el propio Rey del Inframundo. 
+306	Sirena
+307	^cd0000 pertencem forças: ^ffffffNeptune
+308	Eles vivem em uma ilha, com uma canção maravilhosa para atrair marinheiros, sua ilha e, portanto, cheio de ossos humanos.Kraken é realmente um monstro do mar como muito feio e muitas vezes com medo da humanidade humana não perto da costa, assim que a sirene não tinha encontrado nenhuma presa pode pegar.Com a memória vai, eles começaram a evoluir para uma mulher bonita, de modo a sirene para a maioria maioria beleza.A maioria tem mantido uma metade homem sirene e olhar metade peixe para é que você pode usar o som e aparência à demagogia.
+309	Cerbero
+310	^cd0000 pertencem forças: ^ffffffPluto
+311	Guardavam os portões do inferno tipo de demônio, este monstro mau forma terrível.Tem muitas alto, longa cauda da cobra, cabeça e cabelo para trás é todo o dinheiro para a viagem de estradas cobras, veneno ejetado da boca do pôr-do-capim vai dar à luz a acônito.Na mitologia, o submundo dos mortos ao entrar o primeiro passeio de barco atravessou o rio Styx, e inferno três cães guardava o submundo Hades era a porta.Inferno três cães de estimação na alma de cada um dos submundo mortos, mas não deixe ninguém de fora.
+312	cetro de ouro Athena
+313	Grande ou pequeno pode escalar onipotente bem
+314	Minato Minato palavras palavras palavras palavras Cou
+315	Minato Minato palavras palavras palavras palavras Cou Cou Cou Minato palavras palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou palavras palavras palavras Cou Cou Cou Cou palavras palavras palavras
+316	Volume Volume ah ah
+317	Quadrinhos ah ah
+318	

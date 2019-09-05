@@ -1,0 +1,711 @@
+0	Ajusta valor fixo de Power
+1	^ffff00★Power %d^f2f3f2
+2	Ajusta valor fixo de HP
+3	HP +%d
+4	Ajusta o valor fixo de força física
+5	Vigor +%d
+6	Ajusta o valor fixo de rancor máximo
+7	Rancor +%d
+8	Ajusta o valor fixo de raiva máxima
+9	Raiva +%d
+10	Ajusta o valor fixo da velocidade de recuperação de HP
+11	Recuperação de HP +%d
+12	Ajusta valor fixo da velocidade de recuperação do status de HP de combate
+13	Recuperação de HP de Combate +%d
+14	Ajuste do valor fixo de velocidade de recuperação do MP
+15	Recuperação de MP +%d
+16	Ajusta valor fixo da velocidade de recuperação do status de MP de combate
+17	Recuperação de MP de Combate +%d
+18	Ajuste do valor fixo de velocidade de recuperação do Rancor
+19	Recuperação de Rancor +%d
+20	Ajusta valor fixo da velocidade de recuperação do status de Rancor de combate
+21	Recuperação de Rancor de Combate +%d
+22	Ajuste do valor fixo de velocidade de recuperação da Raixa
+23	Recuperação de Raiva +%d
+24	Ajusta valor fixo da velocidade de recuperação do status de Raiva de combate
+25	Recuperação de Raiva de Batalha +%d
+26	Ajusta valor fixo de ataques de terra
+27	Atq Terra +%d
+28	Ajusta valor fixo de ataques de água
+29	Atq Água +%d
+30	Ajusta valor fixo de ataques de fogo
+31	Atq Fogo +%d
+32	Ajusta valor fixo de ataques de vento
+33	Atq Vento +%d
+34	Ajusta valor fixo de resistência à terra
+35	Resistência à Terra +%d
+36	Ajusta valor fixo de resistência à água
+37	Resistência à Água +%d
+38	Ajusta valor fixo de resistência ao fogo
+39	Resistência à Fogo +%d
+40	Ajusta valor fixo de resistência ao vento
+41	Resistência à Vento +%d
+42	Ajusta o valor fixo de penetração contra resistência à Terra
+43	Penet. resist. à Terra +%d
+44	Ajusta o valor fixo de penetração contra resistência à Água
+45	Penet. resist. à Água +%d
+46	Ajusta o valor fixo de penetração contra resistência à Fogo
+47	Penet. resist. à Fogo +%d
+48	Ajusta o valor fixo de penetração contra resistência à Vento
+49	Penet. resist. à Vento +%d
+50	Ajusta a taxa de danos de de terra
+51	Atq Terra +%.0f%%
+52	Ajusta a taxa de danos de de água
+53	Atq Água +%.0f%%
+54	Ajusta a taxa de danos de de fogo
+55	Atq Fogo +%.0f %%
+56	Ajusta a taxa de danos de de vento
+57	Atq Vento +%.0f%%
+58	Ajusta valor fixo da velocidade de caminhada
+59	Velocidade de Caminhada +%0.1fm/s
+60	m/s
+61	Ajusta valor fixo da velocidade de corrida
+62	Velocidade de Corrida +%0.1fm/s
+63	Ajusta valor fixo da velocidade de montaria
+64	Velocidade de Montaria +%0.1fm/s
+65	Ajusta valor fixo da velocidade de voo
+66	Velocidade Voo +%0.1fm/s
+67	Ajusta valor fixo da velocidade de nado
+68	Velocidade de Nado +%0.1fm/s
+69	Ajusta valor fixo da altura de salto
+70	Altura de Salto +%0.1fm/s
+71	Ajusta valor fixo de Precisão
+72	Precisão +%d
+73	Ajusta valor fixo de evasão
+74	Evasão +%d
+75	Ajusta valor fixo de ataque mínimo
+76	Ataque Mínimo +%d
+77	Ajusta valor fixo de ataque máximo
+78	Ataque Máximo +%d
+79	Ajusta valor fixo de defesa
+80	Defesa +%d
+81	Ajusta valor fixo de dano adicional
+82	Dano Adicional +%.0f%%
+83	Ajuste de valor fixo da taxa de danos
+84	Dano +%.0f%%
+85	Ajuste de valor fixo de taxa de ataque crítico
+86	Taxa de Crítico +%.1f%%
+87	Ajuste de valor fixo de danos adicionais de ataque crítico
+88	Atq Crítico +%d
+89	Ajuste de valor fixo de taxa de resistência a ataque crítico
+90	Taxa de resistência à crítico +%.1f%%
+91	Ajuste de valor fixo de chance extra de resistência a ataque crítico
+92	Redução de Dano Crítico +%d
+93	Ajuste de valor fixo de taxa de lucky strike
+94	Taxa de Lucky Strike +%.1f%%
+95	Ajusta valor fixo de taxa de ataque direto
+96	Taxa de Ataque Direto +%.0f%%
+97	Ajusta valor fixo de resistência a danos físicos
+98	Resistência a Danos Físicos +%.0f%%
+99	Ajusta valor fixo de resistência à magia
+100	Resistência à Magia +%.0f%%
+101	Ajusta valor fixo de resistência a envenenamento
+102	Resistência a Envenenamento +%d
+103	Ajusta valor fixo de resistência à confusão
+104	Resistência à Tontura +%d
+105	Ajusta valor fixo de resistência à fraqueza
+106	Resistência ao Sono +%d
+107	Ajusta valor fixo de resistência ao silêncio
+108	Resistência ao Silêncio +%d
+109	Ajusta valor fixo de resistência à redução de velocidade
+110	Resistência à Redução de Velocidade +%d
+111	Ajusta valor fixo para ignorar a resistência a envenenamento
+112	Ignorar resistência a Envenenamento +%d
+113	Ajusta valor fixo para ignorar a resistência à confusão
+114	Ignorar Resistência à Confusão +%d
+115	Ajusta valor fixo para ignorar a resistência à fraqueza
+116	Ignorar Resistência à Fraqueza +%d
+117	Ajusta valor fixo para ignorar a resistência a sono
+118	Ignorar Resistência a Sono +%d
+119	Ajusta valor fixo para ignorar a resistência à redução de velocidade
+120	Ignorar resistência à redução de Velocidade +%d
+121	Ajusta valor fixo do efeito de tratamento medicinal
+122	Efeito de Tratamento Medicinal +%.0f%%
+123	Ajusta porcentagem do valor de HP
+124	HP +%.1f%%
+125	Ajusta porcentagem do valor de força física
+126	Energia +%.0f%%
+127	Ajusta porcentagem máxima de rancor
+128	Rancor +%.0f%%
+129	Ajusta porcentagem máxima de raiva
+130	Raiva +%.0f%%
+131	Ajusta a porcentagem da velocidade de recuperação do valor de HP
+132	Recuperação de HP +%.0f%%
+133	Ajusta a porcentagem da velocidade da recuperação do valor de status de HP de combate
+134	Recuperação de HP de Combate +%.0f%%
+135	Ajusta a porcentagem da velocidade de recuperação do valor de Vigor
+136	Recuperação de Vigor +%.0f%%
+137	Ajusta a porcentagem da velocidade da recuperação do valor de status de força física de combate
+138	Recuperação de Força Física de Combate +%.0f%%
+139	Ajusta a porcentagem da velocidade de recuperação de rancor
+140	Recuperação de Rancor +%.0f%%
+141	Ajusta a porcentagem da velocidade da recuperação do valor de status de rancor de combate
+142	Recuperação de Rancor de Combate +%.0f%%
+143	Ajusta a porcentagem da velocidade de recuperação de raiva
+144	Recuperação de Raiva +%.0f%%
+145	Ajusta a porcentagem da velocidade da recuperação do valor de status de raiva de combate
+146	Recuperação da Raiva de Combate +%.0f%%
+147	Ajusta porcentagem de ataques de terra
+148	Atq Terra +%.1f%%
+149	Ajusta porcentagem de ataques de água
+150	Atq Água +%.1f%%
+151	Ajusta porcentagem de ataques de fogo
+152	Atq Fogo +%.1f%%
+153	Ajusta porcentagem de ataques de vento
+154	Atq Vento +%.1f%%
+155	Ajusta a porcentagem da velocidade de caminhada
+156	Velocidade de Caminhada +%.0f%%
+157	Ajusta a porcentagem da velocidade de corrida
+158	Velocidade de Corrida +%.0f%%
+159	Ajusta a porcentagem da velocidade de montaria
+160	Velocidade de Montaria +%.0f%%
+161	Ajusta a porcentagem da velocidade de voo
+162	Velocidade de Vôo +%.0f%%
+163	Ajusta a porcentagem da velocidade de nado
+164	Velocidade de Nado +%.0f%%
+165	Ajusta porcentagem da altura de salto
+166	Altura de Salto +%.0f%%
+167	Ajusta porcentagem de Precisão
+168	Precisão +%.0f%%
+169	Ajusta porcentagem de evasão
+170	Evasão +%.0f%%
+171	Ajusta porcentagem de ataque pequeno
+172	Ataque Mínimo +%.1f%%
+173	Ajusta porcentagem de ataque grande
+174	Ataque Máximo +%.1f%%
+175	Ajusta porcentagem de defesa
+176	Defesa +%.1f%%
+177	Ajusta porcentagem de danos adicionais de ataque crítico
+178	Atq Crítico +%.1f%%
+179	Ajusta porcentagem de redução de danos adicionais de ataque crítico
+180	Redução de Danos Críticos +%.1f%%
+181	Ajusta porcentagem de resistência a envenenamento
+182	Resistência a Envenenamento +%.0f%%
+183	Ajusta porcentagem de resistência à confusão
+184	Resistência a Tontura +%.0f%%
+185	Ajusta porcentagem de resistência à fraqueza
+186	Resistência a Sono +%.0f%%
+187	Ajusta a percentagem de resistência ao Silêncio
+188	Resistência ao Silêncio +%.0f%%
+189	Ajusta a percentagem de resistência à redução de velocidade
+190	Resistência à redução de velocidade +%.0f%%
+191	Ajuste para ignorar a porcentagem de resistência a envenenamento
+192	Ignorar Resistência a Envenenamento +%.0f%%
+193	Ajusta para ignorar porcentagem de resistência à confusão
+194	Ignorar Resistência à Tontura +%.0f%%
+195	Ajusta para ignorar porcentagem de resistência à fraqueza
+196	Ignorar Resistência ao Sono +%.0f%%
+197	Ajusta para ignorar a porcentagem de resistência ao silêncio
+198	Ignorar Resistência ao Silêncio +%.0f%%
+199	Ajusta para ignorar a porcentagem de resistência à redução de velocidade
+200	Ignorar Resistência à Redução de Velocidade +%.0f%%
+201	Ajudar porcentagem do efeito de tratamento medicinal
+202	Efeito de Tratamento Medicinal +%.1f%%
+203	Ajusta porcentagem de ataque
+204	Ataque +%.1f%%
+205	Adicionar novas habilidades
+206	Reduz a recarga das habilidades específicas
+207	%s recarga reduzida em %d milisegundos
+208	Adicionar nível de habilidade existente
+209	Habilidades adicionais: %s +%d
+210	Moeda obtido com aumento percentual
+211	Moeda obtida +%.0f%%
+212	Experiência obtido com aumento percentual
+213	Experiência de matar monstro obtido +%.0f%%
+214	Ajusta valor fixo de ataque
+215	Ataque +%d
+216	Ajusta valor fixo de resistência ao dano
+217	Resistência à danos +%.0f%%
+218	Ajusta valor fixo da investida
+219	Investida +%.0f%%
+220	Ajusta valor fixo da proteção
+221	Proteção +%.2f%%
+222	Ajusta valor fixo da armadura
+223	Armadura +%.0f%%
+224	Ajusta valor fixo de destruição
+225	Destruição +%.2f%%
+226	Ajusta valor fixo de ataques de Trovão
+227	Atq Trovão +%d
+228	Ajusta valor fixo de resistência à Trovão
+229	Resistência à Trovão +%d
+230	Ajusta o valor fixo de penetração contra resistência à Trovão
+231	Penet. resist. à Trovão +%d
+232	Ajusta a taxa de danos de de trovão
+233	Danos de ataque de Trovão +%d
+234	Ajusta valor fixo de resistência à sangramento
+235	Resistência à sangramento +%d
+236	Ajusta valor fixo de resistência à queimadura
+237	Resistência à queimadura +%d
+238	Ajusta valor fixo de resistência à queda
+239	Resistência à queda +%d
+240	Ajusta valor fixo de resistência de congelamento
+241	Resistência de congelamento +%d
+242	Ajusta valor fixo de resistência à petrificação
+243	Resistência à petrificação +%d
+244	Ajusta os valores fixos de penetração contra resistência à sangramento
+245	Penet. resist. à sangramento +%d
+246	Ajusta os valores fixos de penetração contra resistência à queimadura
+247	Penet. resist. à queimadura +%d
+248	Ajusta os valores fixos de penetração contra resistência à queda
+249	Penet. resist. à queda +%d
+250	Ajusta os valores fixos de penetração contra resistência à congelamento
+251	Penet. resist. à congelamento +%d
+252	Ajusta os valores fixos de penetração contra resistência à petrificação
+253	Penet. resist. à petrificação +%d
+254	Ajusta porcentagem de ataques de Trovão
+255	Atq Trovão +%.1f%%
+256	Ajusta porcentagem de ataques de sangramento
+257	Atq sangramento +%.0f%%
+258	Ajusta porcentagem de ataques de queimadura
+259	Atq queimadura +%.0f%%
+260	Ajusta porcentagem de ataques de queda
+261	Atq queda +%.0f%%
+262	Ajusta porcentagem de ataques de congelamento
+263	Atq congelamento +%.0f%%
+264	Ajusta porcentagem de ataques de petrificação
+265	Atq petrificação +%.0f%%
+266	Ajusta os valores fixos de penetração contra resistência à sangramento
+267	Penet. resist. à sangramento +%.0f%%
+268	Ajusta os valores fixos de penetração contra resistência à queimadura
+269	Penet. resist. à queimadura +%.0f%%
+270	Ajusta os valores fixos de penetração contra resistência à queda
+271	Penet. resist. à queda +%.0f%%
+272	Ajusta os valores fixos de penetração contra resistência à congelamento
+273	Penet. resist. à congelamento +%.0f%%
+274	Ajusta os valores fixos de penetração contra resistência à petrificação
+275	Penet. resist. à petrificação +%.0f%%
+276	Ajusta os valores fixos de ataques de todos os elementos
+277	Atq elemental +%d
+278	Ajusta os valores fixos de resistência contra danos recebidos de todos os elementos
+279	Resistência a todos os elementos +%.1f
+280	Ajusta os valores fixos de penetração contra resistência à todos os elementos
+281	Penet. resist. à todos os elementos+%.1f
+282	Ajusta os valores fixos de danos de todos os elementos
+283	Danos de todos os elementos +%.0f%%
+284	Ajusta a taxa de ataques de todos os elementos
+285	Atq elemental +%.1f%%
+286	Aumenta o nível de habilidade do signo correspondente
+287	Ajusta os valores fixos de resistência contra status anormais
+288	Resistência contra status anormais +%d
+289	Ajusta os valores fixos de penetração contra resistência à status anormais
+290	Penet. resist. à status anormais +%d
+291	Ajusta o valor fixo de Submundo transforma nível
+292	Trevas +%d
+293	Ajusta valor fixo de ataques de luz
+294	Atq Luz+%d
+295	Ajusta valor fixo de resistência à luz
+296	Resistência à luz+%d
+297	Ajusta o valor fixo de penetração contra resistência à Luz
+298	Penet. resist. à Luz+%d
+299	Ajusta a taxa de danos de de luz
+300	Dano de ataque de luz+%.0f%%
+301	Ajusta porcentagem de ataques de luz
+302	Atq Luz+%.1f%%
+303	Ajusta valor fixo de ataque do elemento principal
+304	Atq elemento principal +%d
+305	Ajusta valor fixo de resistência ao elemento principal
+306	Resistência ao elemento principal +%d
+307	Ajusta o valor fixo de penetração contra resistência à elemento principal
+308	Penet. resist. à elemento principal +%d
+309	Ajusta a taxa de danos de elementos principais
+310	Taxa de danos de elementos principais +%.0f%%
+311	Ajusta porcentagem de propriedades principais de ataque
+312	Porcentagem de danos de elementos principais +%.1f%%
+313	Ajusta o valor fixo de imunidade
+314	Blindagem +%d
+315	Ajusta a porcentagem de imunidade
+316	Blindagem +%.1f%%
+317	Ajusta a porcentagem de danos PVP
+318	Taxa de dano PVP +%.1f%%
+319	Ajusta a porcentagem de resistência a danos PVP
+320	Resistência a danos PVP +%.1f%%
+321	Terra das Const. 1
+322	Terra das Const. 2
+323	Terra das Const. 3
+324	Terra das Const. 4
+325	Terra das Const. 5
+326	Terra das Const. 6
+327	Terra das Const. 7
+328	Terra das Const. 8
+329	Terra das Const. 9
+330	Terra das Const. 10
+331	Terra das Const. 11
+332	Terra das Const. 12
+333	Terra das Const. 13
+334	Terra das Const. 14
+335	Terra das Const. 15
+336	Santuário 1
+337	Santuário 2
+338	Santuário 3
+339	Santuário 4
+340	Santuário 5
+341	Santuário 6
+342	Santuário 7
+343	Santuário 8
+344	Santuário 9
+345	Santuário 10
+346	Santuário 11
+347	Santuário 12
+348	Santuário 13
+349	Santuário 14
+350	Santuário 15
+351	Rozan 1
+352	Rozan 2
+353	Rozan 3
+354	Rozan 4
+355	Rozan 5
+356	Rozan 6
+357	Rozan 7
+358	Rozan 8
+359	Coliseu Graad 1
+360	Coliseu Graad 2
+361	Coliseu Graad 3
+362	Coliseu Graad 4
+363	Coliseu Graad 5
+364	Coliseu Graad 6
+365	Coliseu Graad 7
+366	Estrada Esquecida 1
+367	Estrada Esquecida 2
+368	Estrada Esquecida 3
+369	Estrada Esquecida 4
+370	Estrada Esquecida 5
+371	Estrada Esquecida 6
+372	Rainha da Morte 1
+373	Rainha da Morte 2
+374	Rainha da Morte 3
+375	Rainha da Morte 4
+376	Rainha da Morte 5
+377	Rainha da Morte 6
+378	Sibéria Oriental 1
+379	Sibéria Oriental 2
+380	Sibéria Oriental 3
+381	Sibéria Oriental4
+382	Sibéria Oriental 5
+383	Sibéria Oriental 6
+384	Atlântida 1
+385	Atlântida 2
+386	Atlântida 3
+387	Atlântida 4
+388	Atlântida 5
+389	Atlântida 6
+390	Ilha Andrômeda 1
+391	Ilha Andrômeda 2
+392	Ilha Andrômeda 3
+393	Castelo de Hades 1
+394	Castelo de Hades 2
+395	Castelo de Hades 3
+396	Submundo 1
+397	Submundo 2
+398	Submundo 3
+399	Campos Elísios 1
+400	Campos Elísios 2
+401	Campos Elísios 3
+402	Campos Elísios 4
+403	Campos Elísios 5
+404	Campos Elísios 6
+405	Coliseu Graad 8
+406	Coliseu Graad 9
+407	Coliseu Graad 10
+408	Coliseu Graad 11
+409	Coliseu Graad 12
+410	Coliseu Graad 13
+411	Coliseu Graad 14
+412	Coliseu Graad 15
+413	Mar Egeu 1
+414	Mar Egeu 2
+415	Mar Egeu 3
+416	Mar Egeu 4
+417	Mar Egeu 5
+418	Mar Egeu 6
+419	Mar Egeu 7
+420	Mar Egeu 8
+421	Mar Egeu 9
+422	Mar Egeu 10
+423	Mar Egeu 11
+424	Mar Egeu 12
+425	Mar Egeu 13
+426	Mar Egeu 14
+427	Mar Egeu 15
+428	Ilusão 1 (canal 1)
+429	Ilusão 1 (canal 2)
+430	Ilusão 1 (canal 3)
+431	Ilusão 1 (canal 4)
+432	Ilusão 1 (canal 5)
+433	Ilusão 1 (canal 6)
+434	Ilusão 1 (canal 7)
+435	Ilusão 1 (canal 8)
+436	Ilusão 1 (canal 9)
+437	Ilusão 1 (canal 10)
+438	Ilusão 1 (canal 11)
+439	Ilusão 1 (canal 12)
+440	Ilusão 1 (canal 13)
+441	Ilusão 1 (canal 14)
+442	Ilusão 1 (canal 15)
+443	Ilusão 2 (canal 1)
+444	Ilusão 2 (canal 2)
+445	Ilusão 2 (canal 3)
+446	Ilusão 2 (canal 4)
+447	Ilusão 2 (canal 5)
+448	Ilusão 2 (canal 6)
+449	Ilusão 2 (canal 7)
+450	Ilusão 2 (canal 8)
+451	Ilusão 2 (canal 9)
+452	Ilusão 2 (canal 10)
+453	Ilusão 2 (canal 11)
+454	Ilusão 2 (canal 12)
+455	Ilusão 2 (canal 13)
+456	Ilusão 2 (canal 14)
+457	Ilusão 2 (canal 15)
+458	Ilusão 3 (canal 1)
+459	Ilusão 3 (canal 2)
+460	Ilusão 3 (canal 3)
+461	Ilusão 3 (canal 4)
+462	Ilusão 3 (canal 5)
+463	Ilusão 3 (canal 6)
+464	Ilusão 3 (canal 7)
+465	Ilusão 3 (canal 8)
+466	Ilusão 3 (canal 9)
+467	Ilusão 3 (canal 10)
+468	Ilusão 3 (canal 11)
+469	Ilusão 3 (canal 12)
+470	Ilusão 3 (canal 13)
+471	Ilusão 3 (canal 14)
+472	Ilusão 3 (canal 15)
+473	Ilusão 4 (canal 1)
+474	Ilusão 4 (canal 2)
+475	Ilusão 4 (canal 3)
+476	Ilusão 4 (canal 4)
+477	Ilusão 4 (canal 5)
+478	Ilusão 4 (canal 6)
+479	Ilusão 4 (canal 7)
+480	Ilusão 4 (canal 8)
+481	Ilusão 4 (canal 9)
+482	Ilusão 4 (canal 10)
+483	Ilusão 4 (canal 11)
+484	Ilusão 4 (canal 12)
+485	Ilusão 4 (canal 13)
+486	Ilusão 4 (canal 14)
+487	Ilusão 4 (canal 15)
+488	Ilusão 5 (canal 1)
+489	Ilusão 5 (canal 2)
+490	Ilusão 5 (canal 3)
+491	Ilusão 5 (canal 4)
+492	Ilusão 5 (canal 5)
+493	Ilusão 5 (canal 6)
+494	Ilusão 5 (canal 7)
+495	Ilusão 5 (canal 8)
+496	Ilusão 5 (canal 9)
+497	Ilusão 5 (canal 10)
+498	Ilusão 5 (canal 11)
+499	Ilusão 5 (canal 12)
+500	Ilusão 5 (canal 13)
+501	Ilusão 5 (canal 14)
+502	Ilusão 5 (canal 15)
+503	Ilusão 6 (canal 1)
+504	Ilusão 6 (canal 2)
+505	Ilusão 6 (canal 3)
+506	Ilusão 6 (canal 4)
+507	Ilusão 6 (canal 5)
+508	Ilusão 6 (canal 6)
+509	Ilusão 6 (canal 7)
+510	Ilusão 6 (canal 8)
+511	Ilusão 6 (canal 9)
+512	Ilusão 6 (canal 10)
+513	Ilusão 6 (canal 11)
+514	Ilusão 6 (canal 12)
+515	Ilusão 6 (canal 13)
+516	Ilusão 6 (canal 14)
+517	Ilusão 6 (canal 15)
+518	Ilusão 7 (canal 1)
+519	Ilusão 7 (canal 2)
+520	Ilusão 7 (canal 3)
+521	Ilusão 7 (canal 4)
+522	Ilusão 7 (canal 5)
+523	Ilusão 7 (canal 6)
+524	Ilusão 7 (canal 7)
+525	Ilusão 7 (canal 8)
+526	Ilusão 7 (canal 9)
+527	Ilusão 7 (canal 10)
+528	Ilusão 7 (canal 11)
+529	Ilusão 7 (canal 12)
+530	Ilusão 7 (canal 13)
+531	Ilusão 7 (canal 14)
+532	Ilusão 7 (canal 15)
+533	Ilusão 1
+534	Ilusão 2
+535	Ilusão 3
+536	Ilusão 4
+537	Ilusão 5
+538	Ilusão 6
+539	Ilusão 7
+540	Ilusão 8
+541	Ilusão 9
+542	Ilusão 10
+543	Ilusão 11
+544	Ilusão 12
+545	Ilusão 13
+546	Ilusão 14
+547	Ilusão 15
+548	Templo de Athena ${line}
+549	Ilusão
+550	Salão da Deusa ${line}
+551	Terra do Fim 1
+552	Terra do Fim 2
+553	Terra do Fim 3
+554	Terra do Fim 4
+555	Terra do Fim 5
+556	Terra do Fim 6
+557	Sibéria Oriental 7
+558	Sibéria Oriental 8
+559	Através das configurações, a caixa de chat externa poderá ser mudada para modo embutido
+560	————[Kiki]
+561	Através da barra de Quests traçadas à direta, você pode fazer uma busca automática diretamente para o objetivo NPC!
+562	Ao pular, quando estiver no ar, pressione a barra de espaços novamente para poder dar um pulo duplo
+563	Clique com o botão esquerdo do mouse na interface do mapa para buscar automaticamente a rota até tal localização
+564	Você pode usar a habilidade Recolher para ganhar espólios caídos, tal habilidade pode ser encontrada na interface de Habilidades
+565	Duplo clique nas teclas direcionais fará você correr mais depressa, mas isso consumirá energia
+566	Mantenha pressionada a tecla SHIFT durante a rota automática para aumentar a velocidade
+567	Quando os jogadores próximos forem muitos, você pode apertar Alt+P para esconder os jogadores próximos
+568	Parte das tarefas será marcada no chão para levar até as placas sinalizadoras de Quest NPC
+569	A Queima do Cosmo te deixa muito poderoso, use-o em um momento crítico
+570	A habilidade Recolher pode te ajudar a pegar rapidamente espólios caídos ao redor, você pode encontrá-la nas Habilidades Básicas
+571	Jogadores demais num mesmo mapa e não consegue concluir a quest com sucesso? Tente mudar para um canal com menos jogadores
+572	Quando a quantidade de mensagens na barra de chat for muito grande, você pode limpar todas as informações
+573	Para cada tipo diferente de quest, acima da cabeça do NPC haverá um ícone da quest disponível correspondente, também diferente, por favor,preste atenção para diferenciar as quests principais e quests secundárias
+574	Em status de combate, não é possível usar pão ou alguns tipos de recuperação, o máximo que pode ser feito é pegar algumas poções de HP
+575	Note que você só poderá ver amigos que estão no mesmo canal que você
+576	Se você estiver na água ou no ar, pressionar a tecla Z pode te ajudar a reduzir a altura
+577	Pressione as teclas Shift+ Direcional para se desviar de um ataque, você também pode encontrar a habilidade Evasão no Livro de Habilidades
+578	Você também pode manter a tecla SHIFT pressionada e clicar no chão para se esquivar dos ataques do inimigo
+579	Defender também pode reduzir danos em grande quantidade. Pegue essa habilidade na interface de Habilidades
+580	Com energia insuficiente, não é possível correr, defender, esquivar; mas ela irá se recuperar automaticamente
+581	Clicar no ponto de interrogação na interface te levará até a entrada correspondente na enciclopédia da interface de ajuda
+582	Na interface de quests, você pode abrir/fechar o rastreamento de quests
+583	No mapa, você pode ver os NPC próximos, bem como as quests carregadas por eles
+584	Após atingir um certo nível, caso você queira continuar subindo de nível, precisará melhorar as habilidades para usar a Perícia para atingir os requerimentos
+585	Refinar uma armadura pode conceder atributos ainda mais altos, além de poder ativar mais habilidades e poder modificar a aparência da armadura
+586	Todos os títulos obtidos carregam um bônus, vá já abrir a interface de títulos para vê-lo!
+587	Inventário cheio, solução 1: descartar ou vender itens inúteis
+588	Inventário cheio, solução 2: os itens podem ser depositados no armazém
+589	Inventário cheio, solução 3: expandir o inventário
+590	Se você acha que o seu inventário está bagunçado, por que não experimentar a função Organizar?
+591	A energia cósmica vai aumentar automaticamente durante o combate
+592	Aprender habilidades pode aumentar o próprio grau de Perícia
+593	Não consegue encontrar um NPC específico? Você pode abrir a interface do mapa para encontrar o NPC correspondente
+594	Se o valor de EXP já estiver completo, mas não conseguir fazer as melhorias, clique na interface de propriedades do personagem para fazer a melhoria manualmente
+595	Ao atingir um certo nível, todos os eventos em que pode participar e as dungeons podem ser encontradas na Programação do Dia!
+596	Não está fazendo melhorias rápido o bastante? Lembre-se de ativar 2x EXP na dungeon
+597	Não consegue se mover? No menu de opções, clique em “Char Preso"
+598	Em qualquer lugar do jogo, você pode abrir sua loja, mas as taxas serão diferentes
+599	Mantendo a tecla SHIFT pressionada, clique no ícone de item para adicioná-lo a uma mensagem do chat
+600	Mantendo a tecla SHIFT pressionada, clique no ícone de Quest para adicioná-la a uma mensagem do chat
+601	Mantendo a tecla SHIFT pressionada, clique no Atlas para adicionar coordenadas do mapa a uma mensagem do chat
+602	Mantendo a tecla SHIFT pressionada, clique no avatar e nome do NPC para adicioná-lo a uma mensagem do chat
+603	O grau de perfeição é a síntese de toda a força encorporada depois de aprimorar cada peça do equipamento
+604	Aprimorar o equipamento é a melhor maneira de melhorar os atributos do equipamento
+605	Aprender Habilidade de Produção pode melhorar sua eficiência de combate em todos os aspectos
+606	Parte dos materiais para produções básicas podem ser comprados em NPC da Cidade Prata
+607	Ferramentas de recuperação comuns, como poção de HP, pão, etc podem ser comprados dos farmacêuticos na Cidade Prata os dos vendedores de pão espalhados por toda parte
+608	O sistema da Caixa Mágica pode desmontar o excesso de equipamentos no inventário, mas também pode aumentar a qualidade de equipamentos específicos
+609	Caixa Mágica poderá somente separar equipamentos com cor acima de branco e não mais que 15 nível a mais que o seu nível. Abra a Caixa, os itens em destaque dentro da mochila poderão ser desmontados
+610	A energia da Caixa Mágica vai se recuperar automaticamente todos os dias antes das duas primeiras horas online
+611	Usar o editor de Combo leva a um combate ainda mais tranquilo
+612	Você pode obter pão, remédios e demais produtos de recuperação básicos com o NPC na cidade principal do Santuário
+613	No jogo, todas as cidades próximas possuem caixas de mensagem para verificar os e-mails
+614	Quando sair temporariamente do jogo, você pode usar o Banho de Glória para obter uma grande quantidade de EXP
+615	Todo dia que você assinar sua presença online, poderá obter prêmios materiais atraentes
+616	Se você quer estar sempre em contato com uma pessoa, então, peça que adicione à lista de amigos
+617	Quer encontrar jogadores com o nível próximos ao seu para jogarem juntos? Use o sistema de Colegas para procurar
+618	Parte da força dos monstros nas dungeons baseia-se no nível médio do grupo para fazer os ajustes apropriados
+619	Nas dungeons, lembre-se de mudar para Corrente Circular ou Corrente Triangular de Andrômeda a tempo
+620	Todos os dias, dentro de um tempo limite, será ativada a dungeon de evento correspondente, traga uma grande quantidade de ganhos, por favor, organize bem seu tempo
+621	Em "Prova de Ouro", "Atlântida", "Crise das Doze Casas" e outros eventos, a experiência adquirida ou perdida está de acordo com o nível de cada jogador
+622	Você pode obter obter uma certa quantidade de bônus BUFF junto com outros times de jogadores
+623	A proteção da constelação só pode ser usada dentro de uma dungeon, de acordo com o horóscopo diário, pode aumentar a força de um grupo dentro de um determinado período de tempo
+624	A plataforma de grupo pode te ajudar a se teletransportar de qualquer localização para uma entrada de dungeon, por favor, aprenda como usar
+625	O grau de atividade será zerado todos os dias, às 6h
+626	Participando em todos os tipos de evento, você pode obter Luz Espiritual, que é utilizada no aprimoramento
+627	Ao se tornar VIP, poderá abrir o Armazém portátil em qualquer lugar
+628	Depois de atingir certos requisitos no jogo, pode receber um grande prêmio nas opções da Relógio de Fogo das Doze Casas
+629	Quer saber de que formas ainda pode aumentar seu Power? Verifique o Progresso do Cavaleiro!
+630	O Power é considerado um critério importante da força do Cavaleiro
+631	Ao alcançar determinado nível, você poderá ir ao Santuário se tornar membro do clérigo ou formar um exército. Juntos, os jogadores poderão superar suas dificuldades.
+632	Quanto mais amigos e quanto mais próximos forem, permite ao jogador ajudar muito mais!
+633	Usando o teletransporte, você pode ir e voltar rapidamente de diferentes partes do mapa
+634	Pressionando a tecla ALT arraste os itens para separá-los em uma pilha
+635	O cartão de visita pode ajudá-lo a lembrar o nome de outras pessoas, sem revelar sua localização
+636	Se o equipamento estiver danificado, você precisa repará-lo para poder usá-lo
+637	GT pode ajudá-lo a se comunicar com colegas de equipe, ligue o microfone ao entrar na equipe
+638	Quando trocar de equipamento, use a função para transferir o aprimoramento para o novo equipamento
+639	No Item Mall você pode comprar uma grande variedade de ferramentas em promoção!
+640	Na dungeon, o uso racional da sua energia permite que fique mais eficiente nas lutas!
+641	Na dungeon, formar uma equipe permite que você passe de fase com mais eficiência e não reduz a recompensa de cada pessoa
+642	Ao caírem recompensas na batalha, se não pegá-las rapidamente elas poderão desaparecer
+643	Em determinados momentos, em algum lugar do jogo você poderá escolher ir para fora da cidade chefe. Ao defendê-lo irá receber uma grande recompensa, vá lutar!
+644	As dungeons de equipamentos, assim como os eventos, são atualizados todas as semanas às 6h da manhã
+645	Depois de formar o grupo, se o líder clicar no botão "Reunir", os membros do grupo receberam uma notificação de rota automática para a localização do líder
+646	Quando o nível não for suficiente para a Quest Principal, você pode participar de Quests secundárias nos eventos diários para melhorá-lo
+647	Ao refinar o nível da armadura, os jogadores aprendem novas habilidades, ativadas ao equipar a habilidade de ventomadura dentro do armazém
+648	Não há espaço para tantas habilidades? A barra de habilidades pode ser expandida em três linhas
+649	Iniciar e intensificar o Cosmo dos Cavaleiros é o modo mais rápido de melhorar a força dos personagens!
+650	Quer obter equipamentos e ferramentas preciosas difíceis de encontrar? Vá ao leilão para consultá-los.
+651	Juntando uma velocidade de corrida razoável com pulo duplo, você poderá atingir uma altura que muitos jogadores não alcançam
+652	Quer salvar uma bela cena? Mantenha as teclas ALT + Z pressionadas para entrar no modo de câmera!
+653	Abra lojas nas áreas especiais, lá não há taxas.
+654	Configurar a ferramenta PK pode evitar ataques desnecessários aos jogadores dentro do jogo
+655	Se encontrar um inimigo poderoso, outros membros do grupo podem ajudá-lo a vencê-lo
+656	Ao atingir o nível 66 e alcançar 40000 de Power, aparecerá asas na armadura
+657	Quanto mais amigos e quanto mais próximos forem, permite ao jogador ajudar muito mais!
+658	Ataques de Vento para o Signo de Pégasus tem dano adicional de 50% a mais do que para os outros Signos
+659	Ataques de Água para o Signo do Cisne tem dano adicional de 50% a mais do que para os outros Signos
+660	Ataques de Terra para o Signo do Dragão tem dano adicional de 50% a mais do que para os outros Signos
+661	Ataques de Trovão para o Signo de Andrômeda tem dano adicional de 50% a mais do que para os outros Signos
+662	Ataques de Fogo para o Signo de Fênix tem dano adicional de 50% a mais do que para os outros Signos
+663	Ao obter uma montaria, após vestí-la, abra a interface de habilidades e procure por "Montar" para utilizá-la
+664	No momento que você estiver forte o suficiente, poderá mudar o seu Signo
+665	No momento que os jogadores tiver ultrapassado nível 66 e não ter chegado ao nível 86, e ter alcançado 100000 de Power, irá aparecer as asas da armadura
+666	No momento que os jogadores tiver ultrapassado nível 86, e ter alcançado 180000 de Power, irá aparecer as asas da armadura
+667	Após surgir o novo padrão do Power das asas, se não alcançar o novo padrão, o nível baixa das asas antigas permanecerão
+668	Quando quiser adicionar mais jogadores na equipe, o capitão deve clicar no botão abaixo "Criar Raide"
+669	Quando o capitão clicar o botão abaixo "Criar Raide", poderá transformar o grupo de jogadores em Raide
+670	GM online nunca irá pedir pra você a senha de conta ou outras informações importantes por mensagem.
+671	Utilizar outro software de plugin de terceiros irá aumentar consideravelmente o risco de ter a conta roubada
+672	Quando for comprar ou trocar itens, por favor verifique o preço e a quantidade certa
+673	Opções do sistema pode alterar o nome e exibir o conteúdo do chat
+674	SHIFT+ clique no ícone de item para enviar informações de itens a uma mensagem do canal de chat
+675	SHIFT+ clique no mapa para enviar coordenadas a uma mensagem do canal de chat
+676	SHIFT+ clique no avatar e as coodernadas do NPC para enviar as informações a uma mensagem do canal de chat
+677	Para mandar mensagem para o mundo precisa-se de um alto falante como ferramenta
+678	No menu de opções do sistema você poderá alterar os atalhos de teclado, pode abrir o menu apertando ESC
+679	Quando você receber uma nova mensagem, procure por uma caixa de mensagens para verificar
+680	Se você ficou preso, por favor, aperte ESC para abrir o menu e clique na opção "Fiquei Preso".
+681	Se você ainda não completou 18 anos de idade, então, se o ultrapassar 3 horas de jogo, será solicitado que você faça um intervalo
+682	Por favor, não acredite em qualquer informação não oficial que envolva o nome do site no jogo
+683	Por favor, não divulgue sua conta e senha para não ficar sujeito à perda
+684	Vincular a senha de segurança pode diminuir as chances de perder a conta
+685	Quando você achar que seu jogo está com lag, clique no atalho "Evitar Lag" no menu Opções e o sistema será ajustado de acordo com as configurações do seu computador
+686	Meus punhos podem rasgar o céu! Minhas pernas podem esmagar a terra! Eu sou um símbolo dos Cavaleiros da Esperança
+687	————Cavaleiros da Deusa!!
+688	Processamento suspeita que tenha Cavalo de Tróia dentro do jogo, por favor apague o diretórios das pastas executáveis antes de entrar no jogo, recomenda o uso de software antivírus para verificar.
+689	No momento do colapso do processamento suspeita que tenha Cavalo de Tróia dentro do jogo, por favor apague o diretórios das pastas executáveis antes de entrar no jogo, recomenda o uso de software antivírus para verificar.
+690	^fff600第一届银河擂台赛，参赛时间到时，可以凭比赛入场券进入相应的赛场中\r持有观战入场券时，可以进入赛场观战，入场券在6w级世界BOSS宝箱中随机掉落\r每方最多18人参战，每场比赛最多可以容纳80人观战，满员后则无法进入
+691	暴击率+%.0f%%
+692	暴击率减免+%.0f%%
+693	幸运一击率+%.0f%%
+694	生命力+%.0f%%
+695	地攻击+%.0f%%
+696	水攻击+%.0f%%
+697	火攻击+%.0f%%
+698	风攻击+%.0f%%
+699	攻击力下限+%.0f%%
+700	攻击力上限+%.0f%%
+701	防御力+%.0f%%
+702	暴击伤害+%.0f%%
+703	暴伤减免+%.0f%%
+704	攻击力+%.0f%%
+705	招架+%.0f%%
+706	破甲+%.0f%%
+707	雷攻击+%.0f%%
+708	所有属性抗性+%d
+709	所有属性抗性减免+%d
+710	所有属性攻击+%.0f%%

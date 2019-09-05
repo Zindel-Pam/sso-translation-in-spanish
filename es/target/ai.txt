@@ -1,0 +1,720 @@
+0	El beneficio del Ejército será liberado en 10 minutos. Miembros del Ejército regresen a la base para recibirlo.
+1	El beneficio del Ejército será liberado en 5 minutos. Miembros del Ejército regresen a la base para recibirlo.
+2	El beneficio del Ejército será liberado en 3 minutos. Miembros del Ejército regresen a la base para recibirlo.
+3	El beneficio del Ejército será liberado en 1 minuto. Miembros del Ejército regresen a la base para recibirlo.
+4	¡El beneficio del Ejército está liberado!
+5	El beneficio del Ejército de esta semana se terminó. Agradecemos la participación de los miembros. Cuanto mayor sea el nivel de la Base del Ejército, mayor será el beneficio. Contamos con la participación de todos en la construcción de su Ejército.
+6	El nivel actual del Salón del Ejército es: %d --- Nº 11 Reputación
+7	Aún no se ha hecho la manutención de la base actual del Ejército --- Nº 12 Reputación %d
+8	Se hizo para mantener la base actual de Ejército ---Nº 12 Reputación %d
+9	Total del recurso que fue retirado esa semana: %d --- Nº 5 Reputación
+10	Capital %d
+11	Alimentos %d
+12	Madera %d
+13	Mineral %d
+14	Completado la definición de la Reputación de Clasificatorias
+15	Comenzar
+16	¡Maldita sea!, %d segundos de lucha y sólo golpeó %d
+17	¡$noname ya tiene %d enemigos dentro del Santuario! ¡Atácalos, rápido!
+18	¡$noname, si entran más de 10 enemigos, vamos a estar en problemas!
+19	¡$noname, ya tiene %d enemigos dentro del Santuario!
+20	$noname, Shina: permitió a muchos enemigos entrar en el Santuario. Me decepcionaste.
+21	¡$noname Shina: No pienses tanto! ¡Bloquea a los Espectros que están llegando allí!
+22	¡Onda del Dragón Negro!
+23	¡Dragón Explorador Negro!
+24	¡No dejaré que avancen ni un sólo paso más!
+25	¡Combo de Patadas Negras!
+26	¡La tierra va a temblar por causa de mi ataque y serás tragado por la tierra!
+27	¡Ave Fénix!
+28	¡Puño Fantasma del Fenix!
+29	$noname El agua que sale de la estatua de Atenea puede purificar la maldición de transformación
+30	$noname La estatua de Atenea emite una luz, Géminis de la generación anterior resucitado no podrá moverse bajo esa luz
+31	¡Desacelere!
+32	¡Ataque Súbito!
+33	¡Sangrar!
+34	Los maldeciré después ~~ de mi muerte ~~
+35	¿Un placer en verlos? Entonces... ¿Qué tipo de muerte prefieren?
+36	Debo atacar en otro ángulo, ¿Quién será el punto débil para que pueda avanzar?
+37	Vestigio de Fénix
+38	Habilidad 1
+39	Habilidad 2
+40	Suicidio
+41	Ataque común
+42	Habilidad 1
+43	Habilidad 1
+44	5 segundos de una gran onda: %d
+45	¡Flechas Mortales!
+46	¡Lluvia súbita de flechas!
+47	¡Cacería Veloz!
+48	No escaparás ~~
+49	¡Nadie escapa de mi Flecha de Persecución, por más rápido que sea!
+50	¡Flecha de Cacería!
+51	Ataque común
+52	Habilidad 1
+53	Habilidad 1
+54	Habilidad 3
+55	Ataque común
+56	Habilidad 1
+57	Habilidad 2
+58	Ataque común
+59	Habilidad 1
+60	Habilidad 2
+61	Ataque común
+62	Habilidad 1
+63	Habilidad 2
+64	Ataque común
+65	Habilidad 1
+66	Habilidad 2
+67	Ataque común
+68	Habilidad 1
+69	Habilidad 2
+70	Revolución Estelar
+71	Tracción Estelar
+72	Muro de Cristal
+73	Cargar Extinción Estelar
+74	Extinción Estelar
+75	Vivir
+76	Nació el NPC de Control
+77	¡Atención! ¡Atención! ¡Alguien entró y salió de la zona!
+78	¡Jugador: %d entró en la zona de BUFF!
+79	¡Jugador: %d fuera de la zona de BUFF!
+80	¡Actualmente hay %d jugadores en la zona de BUFF!
+81	Llamas de Jango
+82	$nobubble${lev(50-200)}$noname$UImid${npc(%d)}apareció en ${line(6,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+83	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+84	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+85	${name(%s)}, ¡Pruebe el poder de mi Maldición de las Llamas!
+86	¡Sin alvo!
+87	$noname Shion: Al cerrar un mecanismo, el status del otro, que está conectado a este, cambiará... Creo que con su sabiduría, pueden desactivar todos los mecanismos
+88	¡$noname Shion: allí enfrente está el círculo mágico con mecanismos que causan la Ilusión del Mundo celestial! ¡Desactive esos mecanismos para eliminar el círculo mágico!
+89	Nachi de Lobo
+90	$nobubble${lev(30-200)}$noname$UImid${npc(%d)}apareció en ${line(4,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+91	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+92	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+93	Alma de Ley-hu
+94	$nobubble${lev(35-200)}$noname$UImid${npc(%d)}apareció en ${line(3,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+95	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+96	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+97	¡Hahaha, les voy a mostrar mi habilidad especial que aprendí alrededor del mundo! ¡Rugido del Tigre!
+98	¡Hunf, bando de débiles! ¡Ya caerán todos! Voy a descansar un poco, entonces......
+99	Sombra de Saga
+100	$nobubble${lev(40-200)}$noname$UImid${npc(%d)}apareció en ${line(5,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+101	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+102	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+103	Kraken - Isaac
+104	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${línea(7,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+105	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+106	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+107	, ${name(%s)}
+108	General - Dragón del Mar
+109	$nobubble${lev(70-200)}$noname$UImid${npc(%d)}apareció en ${line(8,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+110	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+111	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+112	Tormenta Fría
+113	Dios del sueño - Hypnos
+114	$nobubble${lev(80-200)}$noname$UImid${npc(%d)}apareció en ${line(9,%d)}(%d,%d), ¡Guerreros valientes,vayan para allá y acepten el desafío!
+115	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+116	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+117	Estrella Celeste de la Ferocidad - Radamantis
+118	$nobubble${lev(90-200)}$noname$UImid${npc(%d)}apareció en ${line(10,%d)}(%d,%d), ¡Guerreros valientes,vayan para allá y acepten el desafío!
+119	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+120	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+121	Dios del Sueño - Oneiros
+122	$nobubble${lev(50-200)}$noname$UImid${npc(%d)}apareció en ${line(6,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+123	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+124	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+125	¡Oh, aparezcan, mis sirvientes! ¡Estos insignificantes que se atreven a ir en contra de mi voluntad. Le concedo el derecho a matarlos!
+126	Maldito, ¿Cómo te atreves a matar a mis sirvientes? ¡Prepárese para soportar la ira del Dios del Sueño!
+127	Emperador de los Mares- Poseidón
+128	$nobubble${lev(70-200)}$noname$UImid${npc(%d)}apareció en ${line(8,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+129	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+130	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+131	Reina del Inframundo - Perséfone
+132	$nobubble${lev(90-200)}$noname$UImid${npc(%d)}apareció en ${line(10,%d)}(%d,%d), ¡Guerreros valientes,vayan para allá y acepten el desafío!
+133	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+134	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+135	$nobubble${lev(90-200)}$noname$UImid${npc(%d)}apareció en ${line(6,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+136	$nobubble$noname$UImid${league(%s)}del Ejército${name(%s)} ¡Está en nuestra base recogiendo la Caja del Tesoro del Tiempo! (%d,%d)
+137	¡$nobubble$noname$UImid${league(%s)}El Ejército${name(%s)}con éxito${league(%s)} llevó la Caja del Tesoro del Tiempo de la Base del Ejército y obtuvo una gran cantidad de Gold!
+138	¡$nobubble$noname$UImid${league(%s)} El Ejército ${name(%s)} apareció en la Base (%d,%d), y está haciendo algo a escondidas!
+139	Mini Saori
+140	Mini Seiya
+141	Mini Hyoga
+142	Mini Shiryu
+143	Mini Ban
+144	¡La competición está a punto de empezar! ¡Escoja rápidamente a su competidor!
+145	¡%s quedó en %d º lugar!
+146	¡Todos los competidores llegaron a la recta final!
+147	Sigue el resultado de la competición:
+148	¡%d º lugar: %s!
+149	¡Enhorabuena a los jugadores que ganaron premios! Por favor, reciban sus recompensas tan pronto como les sea posible. Ahora los competidores necesitan una pausa.
+150	¡Inicio de la competición! ¡Por favor, jugadores que hicieron una apuesta, no se alejen, sino no recibirán el premio!
+151	¡La competición está a punto de empezar! ¡Escoja rápidamente a su competidor!
+152	Algo está mal, voy a ver cómo están los competidores
+153	¡Mini Saori en %d º lugar!
+154	¡Mini Seiya en %d º lugar!
+155	¡Mini Hyoga en % º lugar!
+156	¡Mini Shiryu en %d º lugar!
+157	¡Mini Ban en %d º lugar!
+158	¡%s º lugar!
+159	¡Explosión Dimensional!
+160	¡Puño de la Ilusión!
+161	¡Voy a mandarlos a la hiperdimensión, para que nunca más vuelvan!
+162	¡Soy Guardián de la Casa de Géminis, nunca pasarás por aquí!
+163	Perder la propia sangre
+164	¡Puño de la Ilusión!
+165	¡Explosión de Galaxias!
+166	¡Explosión Dimensional!
+167	¡Teletransportar al Jugador!
+168	Morirán aquí y no podrán volver más~
+169	¡Qué lástima, aún no son lo suficientemente fuertes!
+170	¡Relámpago de Voltaje!
+171	¡Plasma Relámpago!
+172	¡Tormenta de Relámpagos!
+173	Salir del status de lucha para colocar buff
+174	Salir del status de lucha para remover buff
+175	Reproducir Animación del status Invencible
+176	Reconozco el valor de ustedes, ¡Vamos! Jóvenes Caballeros
+177	Personas sin valor, no pasan por la Casa de Leo
+178	¡Aún no me puedes vencer!
+179	¡$nochat, toma esto! Relámpago de Voltaje
+180	Puedo ser aún más rápido, ¿Vamos a ver cuánto tiempo durarán?
+181	¡$nochat Relámpago de Voltaje !
+182	¡$nochat Tormenta de Relámpagos!
+183	Sala del Equipo Azul
+184	Almacén del Equipo Azul
+185	Tiendas Móviles del Equipo Azul
+186	Campo de Práctica del Equipo Azul
+187	Taller del Equipo Azul
+188	Altar del Equipo Azul
+189	Milagro del Equipo Azul
+190	Puerta del lado derecho del Equipo Azul
+191	Puerta Central del Equipo Azul
+192	Puerta del lado izquierdo del Equipo Azul
+193	Líder del Equipo Azul
+194	Sala del Equipo Rojo
+195	Almacén del Equipo Rojo
+196	Tienda Móvil del Equipo Rojo
+197	Campo de Práctica del Equipo Rojo
+198	Taller del Equipo Rojo
+199	Altar del Equipo Rojo
+200	Milagro del Equipo Rojo
+201	Puerta del lado derecho del Equipo Rojo
+202	Puerta Central del Equipo Rojo
+203	Puerta del lado izquierdo del Equipo Rojo
+204	Líder del Equipo Rojo
+205	Renacer
+206	Sufrir ataque
+207	Destruido
+208	$noname$UImidEquipo Azul controla el Punto de Teletransportación Central
+209	$noname$UImidEquipo Azul activó el Portal de Teletransportación del Carro de Guerra
+210	$noname$UImidEquipo Rojo controló el Punto de Teletransportación Central
+211	$noname$UImidEquipo Rojo activó el Portal de Teletransportación del Carro de Guerra
+212	$noname$UImidDesapareció el status de recuperación del líder del Equipo Azul
+213	$noname$UImidDesapareció el status de ataque del líder del Equipo Azul
+214	$noname$UImidDesapareció el status de defensa del líder del Equipo Azul
+215	$noname$UImidDesapareció el status de recuperación del líder del Equipo Rojo
+216	$noname$UImidDesapareció el status de ataque del líder del Equipo Rojo
+217	$noname$UImidDesapareció el status de defensa del líder del Equipo Rojo
+218	$UImid$noname Equipo Azul ya puede producir Carro de Guerra
+219	$UImid$noname Equipo Azul ya puede producir Talismán de la Torre
+220	$UImid$noname Equipo Rojo ya puede producir Carro de Guerra
+221	$UImid$noname Equipo Rojo ya puede producir Talismán de la Torre
+222	$UImid$noname Equipo Azul no puede producir más el Carro de Guerra
+223	$UImid$noname Equipo Azul no puede producir más el Talismán de la Torre
+224	$UImid$noname Equipo Rojo no puede producir más Carro de Guerra
+225	$UImid$noname Equipo Rojo no puede más producir el Talismán de la Torre
+226	$UImid$noname Situación Básica del Equipo Azul:
+227	$UImid$noname Situación Básica del Equipo Rojo
+228	$UImid$noname Carro de Guerra del Equipo Azul: Ligero %d; Pesado %d; Total %d/%d
+229	$UImid$noname Carro de Guerra del Equipo Rojo: Ligero %d; Pesado %d; Total %d%d
+230	$UImid$noname Nació el Monstruo de Control General de las Clasificatorias
+231	$UImid$noname Inicialización completada, ¡La competición está a punto de comenzar!
+232	$UImid$noname Reputación
+233	$UImid$noname Cantidad
+234	$noname$UImidLa competición comenzará oficilamente después %d segundos
+235	Comenzar oficialmente después de X segundos
+236	$noname$UImid¡La competición comenzó oficialmente! Tiempo de duración es de 1 hora
+237	$noname$UImidQuien mate al líder del equipo adversario primero, localizado dentro de la base, podrá ganar la competencia.
+238	¿Escucho esa linda canción de la muerte?
+239	Resistirán a esta sinfonía de la muerte ~
+240	¡Melodía Infernal!
+241	Crear Nacimiento Temporizador 1 segundo
+242	El tiempo se ha agotado
+243	Espada de Cristal
+244	Unión Celeste
+245	Choque del Relámpago
+246	Choque del Relámpago
+247	Llamas del Dragón de Dos Cabezas
+248	Helada del Dragón de Dos Cabezas
+249	Danza Furioso de Tiamat
+250	Chorro de Tinta
+251	Desplazamiento
+252	Maldición de los Nibelungos
+253	Lanza de la Helada
+254	Lanza del Trueno
+255	Lanza de la Aurora subió al mundo celestial
+256	Lanza de la Aurora irradiando
+257	$UImid$noname Cuenta regresiva de irradiación de la Lanza de la Aurora: %d segundos
+258	Segundos
+259	Puño de Cuerdas
+260	Cuerdas de Ilusión
+261	Cuerdas de la Masacre
+262	Cuerdas de la Luna
+263	Cuerdas de la Sinfonía de la Muerte
+264	$noname$UImidCantidad del sello activado: %d/5
+265	Abeja reina
+266	Murciélago Vampiro
+267	Oso Polar
+268	Águila
+269	Lobo
+270	Cobra Gigante
+271	Aguijón de la Abeja Reina
+272	Ataque Vampiro
+273	Furia del Oso Polar
+274	Águila Poderosa
+275	Colmillos del Lobo
+276	Colmillos de la Cobra Gigante
+277	Status de dispersión
+278	¡No! ¡Eso es imposible!
+279	Alas de Hielo
+280	Ataúd de la Aurora
+281	Ejecución Aurora
+282	Tornado de Hielo
+283	$noname$UImidEl Aire Frío de Camus hizo nevar dentro de la Casa de Acuario
+284	$noname$UImidLa nieve está cada vez más fuerte y la temperatura dentro de la Casa de Acuario está disminuyendo
+285	$noname$UImidLa Tormenta de nieve opacó la visión y los miembros están entumecidos, perdiendo la conciencia
+286	$noname$UImidBajo una baja temperatura, el movimiento y la defensa de las personas disminuyen
+287	Restricción
+288	Cargar Aguja Escarlata
+289	Perforación de la Aguja Escarlata
+290	Antares
+291	Invocar Escorpio de Sangre Nv1
+292	Invocar Escorpio de Sangre Nv2
+293	Invocar Escorpio de Sangre Nv3
+294	Recupera HP
+295	Disperción de la Aguja Escarlata
+296	Último ataque - ¡Aguja Escarlata!
+297	$UImid$noname ¡Miro está a punto de liberar Aguja Escarlata, es mejor tener más personas para dividir el ataque!
+298	$UImid$noname ¡Cuando la “Aguja Escarlata” sufrida es mayor que %d capas, Miro liberará su ataque fatal!
+299	capas, ¡Miró liberará su ataque fatal!
+300	¡$noname$UImid${league(%s)}El Centro de Milagro${league(%s)}del Ejército${name(%s)} fue totalmente destruido por el poderoso ataque!
+301	¡$noname$UImid^e12500${league(%s)}El Centro de Milagro${league(%s)}del Ejército${name(%s)}fue totalmente destruido por el poderoso ataque!
+302	¡$noname$UImid${league(%s)}El Ejército${name(%s)}quemó el Cosmos y destruyó totalmente${league(%s)}el Centro de Milagro del Ejército!
+303	¡$noname$UImid^e12500${league(%s)}El Ejército${name(%s)}quemó el Cosmos y destruyó totalmente${league(%s)}el Centro de Milagro del Ejército!
+304	¡$noname$UImid${league(%s)}El ejército perdió${league(%s)}Ejército，${league(%s)}del Ejército${name(%s)}destruyó totalmente${league(%s)}el Centro de Milagro del Ejército!
+305	¡$noname$UImid^e12500${league(%s)}El Ejército perdió${league(%s)}Ejército，${league(%s)}del Ejército${name(%s)}destruyó totalmente${league(%s)}el Centro de Milagro del Ejército!
+306	¡$noname$UImid${league(%s)}El Ejército está${name(%s)}bajo el liderazgo, que ha unido sus fuerzas, ${league(%s)} y destruyó totalmente el Centro de Milagro del Ejército!
+307	¡$noname$UImid^e12500${league(%s)}El Ejército está${name(%s)}bajo el liderazgo, que ha unido sus fuerzas, ${league(%s)}y destruyó totalmente el Centro de Milagro del Ejército!
+308	¡$noname$UImid${league(%s)}Ejército${name(%s)}hizo el milagro del Ejército a entrar en la lucha!
+309	$noname$UImid${league(%s)}El Ejército${name(%s)}está atacando con toda su fuerza y el Milagro del Ejército ya está un poco dañado.
+310	$noname$UImid${league(%s)}El Ejército${name(%s)}está determinado y el Milagro del Ejército ya está dañado, ¡Solicite soporte inmediatamente!
+311	$noname$UImid${league(%s)}El Ejército${name(%s)}está mostrando todo su poder y el Milagro del Ejército pende de un hilo, ¡Solicite soporte inmediatamente!
+312	$noname$UImid${league(%s)}El Ejército${name(%s)}está todo poderoso y el Milagro del Ejército está muy destruido, ¡Solicite soporte inmediatamente!
+313	$noname$UImid${league(%s)}El Ejército${name(%s)}quemó el Cosmos y el Milagro del Ejército será destruido dentro de poco, ¡Solicite soporte inmediatamente!
+314	$noname$UImid^ff0000${league(%s)}El Milagro del Ejército fue desafiado, ¡Entrando en status de Desafío del Milagro! ¡El status de Desafío del Milagro dura 1 hora!
+315	$noname$UImid^ff0000${league(%s)}Todos los miembros del Ejército unieron sus fuerzas, ¡Defendieron con éxito el Milagro durante el status de desafío! ¡Es un Ejército Real que domina el servidor!
+316	Ciclo de las Seis Existencias
+317	Tesoro del Cielo
+318	Privación de la Audición
+319	Privación del Olfato
+320	Privación del Tacto
+321	Privación del Paladar
+322	Privación de la Visión
+323	Activar QTE
+324	Tercer Ojo
+325	Desplazamiento
+326	Bendición de las Tinieblas
+327	Bendición de las Tinieblas_Invocación de la Liberación Instantánea Individual
+328	Invocación de los Espíritus
+329	Tesoro de Persecución
+330	Tesoro Circular
+331	Habilidad bloqueada
+332	¡Ataque de la Ballesta!
+333	Ya no juego con ustedes ~
+334	Haha ~~ hasta luego ~~
+335	Mi nivel es:
+336	; Tabla de Drops:
+337	Ya no juego con ustedes ~
+338	Haha ~~ hasta luego ~~
+339	$noname Bado: estos Caballeros del mal son terribles, mi hermano~~
+340	$noname Shido: es verdad, hermano~~
+341	$noname Bado: pero que Caballeros más débiles, hermano~~
+342	$noname Shido: es verdad, hermano~~
+343	¡Rosas Diabólicas Reales!
+344	¡Rosas Pirañas!
+345	¡Rosa Sangrienta!
+346	¡Rosas Negras Tóxicas!
+347	¡Me gustan las rosas!
+348	Las Rosas no se marchitan, la belleza eterna florecerá
+349	¡Que rosa bella! ¡Muere con su belleza!
+350	¡La muerte también es bella, disfruta esa sensación!
+351	¡Rosas manchadas de sangre! ¡Son tan bonitas!
+352	Rosas blancas que florecen en la sangre. Deben ser muy bonitas
+353	¡Voy a hacerlos morir en la fragancia de las rosas!
+354	$noname$UImidEl primer Caballero del nivel 30 ya apareció. Fin de la Era del Hierro. ¡Caballeros, júntense para construir la Era de Bronce!
+355	$noname$UImidEl primer Ejército fue creado. El servidor entró en la Era de Bronce, oficialmente.
+356	$noname$UImidEl Alma del Emperador de los Mares resentida intentó invadir el Santuario y fue encerrado por Atenea.Después de expulsarlo, el servidor entrará en la Era de Plata.
+357	$noname$UImidEl Alma del Emperador de los Mares resentida fue expulsada.El servidor entró en la Era de Plata, liberando el nivel 79 y el Episodio del Mundo Submarino.
+358	$noname$UImid108 Las Estrellas Malignas ya se despertaron y el Dios del Sueño está en el Santuario. ¡Caballeros derroten a Hypnos y protejan a Atenea!
+359	$noname$UImidEl primer ataque del Inframundo fue impedido.El servidor entró en la Era de Oro, liberando el nivel 89 y el Episodio de Hades (capítulo anterior).
+360	$noname$UImidCuando el legendario Gran Eclipse surge, el mundo será cubierto por la oscuridad para siempre. ¡Caballeros, abran el Portal del Inframundo! Sólo después de una larga noche, amanecerá.
+361	$noname$UImidLa eterna oscuridad se está acercando.El servidor entrará en la Era de la Oscuridad, liberando el nivel 99 y el Episodio de Hades (siguiente capítulo).
+362	$noname$UImidAtenea entró en el Inframundo a bucar a Hades. ¡Caballeros, abran el Camino al Inframundo! ¡Atenea necesita de su protección!
+363	$noname$UImidEl Portal del Inframundo está abierto! El servidor se está preparando para la apertura del Asesino de Dioses, liberando el nivel 100 y el Episodio de Hades.
+364	$noname$UImidEl Gran Eclipse ya comenzó. ¡Caballeros, sobrepasen la restricción de Pandora, destruyan el Muro de los Lamentos y entren en los Campos de Elíseos, devolviendo la luz a la Tierra!
+365	$noname$UImidEl muro de los Lamentos fue destruido. Activado el Evento Amargura de Hades, liberando el nivel 10 de la Práctica Concentrada y el Episodio de Campos de Elíseos
+366	$noname$UImidNúmero de mineral recolectado.
+367	Muro de Cristal
+368	Revolución Estelar
+369	Extinción Estelar
+370	Fragancia Ilusoria
+371	Colonia Ilusoria
+372	Dispersión de la Fragancia
+373	Erupción de fealdad
+374	Lanza de la Mariposa
+375	Sueño Imperial
+376	Lámpara de Vida
+377	Ataque de Mariposas del Inframundo
+378	Flecha de la Justicia
+379	Flecha del Castigo
+380	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+381	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+382	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+383	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+384	¡Puño de Helada!
+385	¡Puño de Llamas!
+386	¡Puño de Helada Severa!
+387	¡Puño de Llamas Ardientes!
+388	¡No son lo suficientemente fuertes!
+389	¡Caballeros jóvenes como ustedes son buenos para entrar en mi colección!
+390	No saldrán de este castillo de hielo ~~
+391	¡Se volverá una escultura de hielo vivo!
+392	¡Ya tengo suficiente colección, sólo sirves para ser quemado!
+393	¡Puño de Lobo!
+394	¡Ataque de Lobo!
+395	¡Mordida Venenosa!
+396	¡Cacería de Lobos!
+397	¡No son lo suficientemente fuertes!
+398	Espíritu de Lobos ~~ no se disipará ~~
+399	¡A los ojos de los lobos árticos son carne fresca ambulante!
+400	¡Corte de la Espada de Cristal!
+401	¡No son lo suficientemente fuertes!
+402	Se han conocido a través de mi ilusión~~
+403	¡Misterios de la ilusión, fuerza de la Espada de Cristal!
+404	¡Ilusión Mortal! ¡Círculo de Cristal!
+405	¡Corte de la Espada de Cristal!
+406	¡Puño de Tigre!
+407	¡Cambio de posición!
+408	¡Me quiero vengar por mi hermano!
+409	¡No son lo suficientemente fuertes!
+410	¡$noname Shido: Sirvientes de Atenea, iremos a enterrarlos aquí, en esta tierra de hielo!
+411	¡$noname Bado: Querido hermano, déjame estar adelante para protegerlo en esta batalla!
+412	¡Ondas Sanadoras!
+413	¡Depuración del Terremoto!
+414	¡Rayo Helado!
+415	¡Cambiar de forma!
+416	¡Me quiero vengar por mi hermano!
+417	¡No son lo suficientemente fuertes!
+418	^FF7F00Isla Negra^N
+419	^FF7F00Isla Brillante^N
+420	^FF7F00Isla de la Estrella^N
+421	^FF7F00Isla del Caos^N
+422	$UImid$noname^3A5FCD¡Equipo Azul ^N activó el Cristal de %s!
+423	$UImid$noname^FF0000¡Equipo Rojo ^N activó el Cristal de %s!
+424	$UImid$noname^3A5FCD¡Equipo Azul ^N Atacó sigilosamente el Cristal de %s!
+425	$UImid$noname^FF0000¡Equipo Rojo ^N atacó sigilosamente el Cristal de %s!
+426	$UImid$noname^3A5FCD¡Equipo Azul ^N recuperó el Cristal de %s!
+427	$UImid$noname^FF0000¡Equipo Rojo ^N recuperó el Cristal de %s!
+428	$UImid$noname^FF0000¡Equipo Rojo ^N atacó sigilosamente el Cristal de %s!
+429	$UImid$noname^3A5FCD¡Equipo Azul ^N Atacó sigilosamente el Cristal de %s!
+430	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó %s!
+431	$UImid$noname^FF0000¡Equipo Rojo ^N dominó %s!
+432	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal de la ^FF7F00Isla Negra ^N!
+433	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal de la ^FF7F00Isla Brillante ^N!
+434	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal de la ^FF7F00Isla de la Estrella ^N!
+435	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal de la ^FF7F00Isla del Caos ^N!
+436	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Isla Negra ^N!
+437	$UImid$noname^FF0000Equipo Rojo ^N dominó el Cristal de la ^FF7F00Isla Brillante ^N!
+438	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Isla de la Estrella ^N!
+439	$UImid$noname^FF0000Equipo Rojo ^N dominó el Cristal de la ^FF7F00Isla del Caos ^N!
+440	$UImid$noname^3A5FCD¡Equipo Azul ^N recuperó el Cristal de la ^FF7F00Isla Negra ^N!
+441	$UImid$noname^3A5FCD¡Equipo Azul ^N recuperó el Cristal de la ^FF7F00Isla Brillante ^N!
+442	$UImid$noname^3A5FCD¡Equipo Azul ^N recuperó el Cristal de la ^FF7F00Isla de las Estrellas ^N!
+443	$UImid$noname^3A5FCD¡Equipo Azul ^N recuperó el Cristal de la ^FF7F00Isla del Caos ^N!
+444	$UImid$noname^FF0000¡Equipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla Negra ^N!
+445	$UImid$noname^FF0000¡Equipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla Brillante ^N!
+446	$UImid$noname^FF0000¡Equipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla de las Estrellas ^N!
+447	$UImid$noname^FF0000¡Equipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla del Caos ^N!
+448	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+449	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+450	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+451	Todavía no son lo suficientemente fuertes, vengan a retarme cuando estén listos
+452	$UImid$noname Encantamiento de Defensa del Equipo Rojo desapareció
+453	$UImid$noname Encantamiento de Defena del Equipo Azul desapareció
+454	$UImid$noname Más %d minutos para iniciar la Competición del Torneo Galáctico
+455	
+456	$UImid$noname ¡Iniciar la Competición del Torneo Galáctico!
+457	$UImid$noname ¡Fin de la Competición del Torneo Galáctico! Felicitaciones al equipo de defensa que obtuvo la victoria
+458	$UImid$noname Un minuto más para el fin de la Competición del Torneo Galáctico
+459	$UImid$noname Cristal del Núcleo del Equipo Rojo fue destruido, victoria del Equipo Azul
+460	$UImid$noname Cristal de Defensa del Equipo Rojo fue destruido
+461	$UImid$noname Cristal de Energía del Equipo Rojo fue destruido
+462	$UImid$noname Cristal del Núcleo del Equipo Azul fue detruido, victoria del Equipo Rojo
+463	$UImid$noname Cristal de Defensa del Equipo Azul fue destruido
+464	$UImid$noname Cristal de Energía del Equipo Azul fue destruido
+465	$UImid$noname Equipo Rojo llevó el Cristal del Tiempo, las grietas del tiempo aparecieron en la base del Equipo Rojo
+466	$UImid$noname Equipo Azul llevó el Cristal del Tiempo, las grietas del tiempo aparecerán en la base del Equipo Azul
+467	$noname$UImid^e12500¡Línea 1, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 1, por favor, busquen al Emisario de Entrada de la Competición de la Línea 1 para entrar en el campo!
+468	$noname$UImid^e12500¡Línea 2, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 2, por favor, busquen al Emisario de Entrada de la Competición de la Línea 2 para entrar en el campo!
+469	$noname$UImid^e12500¡Línea 3, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 3, por favor, busquen al Emisario de Entrada de la Competición de la Línea 3 para entrar en el campo!
+470	$noname$UImid^e12500¡Línea 4, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 4, por favor, busquen al Emisario de Entrada de la Competición de la Línea 4 para entrar en el campo!
+471	$noname$UImid^e12500¡Línea 5, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 5, por favor, busquen al Emisario de Entrada de la Competición de la Línea 5 para entrar en el campo!
+472	$noname$UImid^e12500¡Línea 6, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 6, por favor, busquen al Emisario de Entrada de la Competición de la Línea 6 para entrar en el campo!
+473	$noname$UImid^e12500¡Línea 7, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 7, por favor, busquen al Emisario de Entrada de la Competición de la Línea 7 para entrar en el campo!
+474	$noname$UImid^e12500¡Línea 8, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 8, por favor, busquen al Emisario de Entrada de la Competición de la Línea 8 para entrar en el campo!
+475	$noname$UImid^e12500¡Línea 9, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 9, por favor, busquen al Emisario de Entrada de la Competición de la Línea 9 para entrar en el campo!
+476	$noname$UImid^e12500¡Línea 10, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 10, por favor, busquen al Emisario de Entrada de la Competición de la Línea 10 para entrar en el campo!
+477	$noname$UImid^e12500¡Línea 11, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 11, por favor, busquen al Emisario de Entrada de la Competición de la Línea 11 para entrar en el campo!
+478	$noname$UImid^e12500¡Línea 12, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 12, por favor, busquen al Emisario de Entrada de la Competición de la Línea 12 para entrar en el campo!
+479	$noname$UImid^e12500¡Línea 13, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 13, por favor, busquen al Emisario de Entrada de la Competición de la Línea 13 para entrar en el campo!
+480	$noname$UImid^e12500¡Línea 14, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 14, por favor, busquen al Emisario de Entrada de la Competición de la Línea 14 para entrar en el campo!
+481	$noname$UImid^e12500¡Línea 15, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 15, por favor, busquen al Emisario de Entrada de la Competición de la Línea 15 para entrar en el campo!
+482	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 1! ¡Miembros del Ejército que van a batallar en la Línea 1, por favor, vengan a recibir su Billete de Entrada!
+483	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 2! ¡Miembros del Ejército que van a batallar en la Línea 2, por favor, vengan a recibir su Billete de Entrada!
+484	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 3! ¡Miembros del Ejército que van a batallar en la Línea 3, por favor, vengan a recibir su Billete de Entrada!
+485	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 4! ¡Miembros del Ejército que van a batallar en la Línea 4, por favor, vengan a recibir su Billete de Entrada!
+486	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 5! ¡Miembros del Ejército que van a batallar en la Línea 5, por favor, vengan a recibir su Billete de Entrada!
+487	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 6! ¡Miembros del Ejército que van a batallar en la Línea 6, por favor, vengan a recibir su Billete de Entrada!
+488	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 7! ¡Miembros del Ejército que van a batallar en la Línea 7, por favor, vengan a recibir su Billete de Entrada!
+489	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 8! ¡Miembros del Ejército que van a batallar en la Línea 8, por favor, vengan a recibir su Billete de Entrada!
+490	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 9! ¡Miembros del Ejército que van a batallar en la Línea 9, por favor, vengan a recibir su Billete de Entrada!
+491	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 10! ¡Miembros del Ejército que van a batallar en la Línea 10, por favor, vengan a recibir su Billete de Entrada!
+492	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 11! ¡Miembros del Ejército que van a batallar en la Línea 11, por favor, vengan a recibir su Billete de Entrada!
+493	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 12! ¡Miembros del Ejército que van a batallar en la Línea 12, por favor, vengan a recibir su Billete de Entrada!
+494	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 13! ¡Miembros del Ejército que van a batallar en la Línea 13, por favor, vengan a recibir su Billete de Entrada!
+495	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 14! ¡Miembros del Ejército que van a batallar en la Línea 14, por favor, vengan a recibir su Billete de Entrada!
+496	$noname$UImid^e12500PK ¡El taquillero de las competiciones apareció en la Línea 15! ¡Miembros del Ejército que van a batallar en la Línea 15, por favor, vengan a recibir su Billete de Entrada!
+497	^FF7F00Punto de Dominio Noroeste ^N
+498	^FF7F00Punto de Dominio Noreste ^N
+499	^FF7F00Punto de Dominio Sureste ^N
+500	^FF7F00Punto de Dominio Sudoeste ^N
+501	^FF7F00Punto de Dominio Central ^N
+502	$noname$UImidBatalla empatada, fin de la lucha
+503	$noname$UImidVictoria del Equipo Azul! ¡La lucha terminó, representante del equipo ganador, por favor, ve al punto de partida para retirar el certificado de Victoria!
+504	$noname$UImidVictoria del Equipo Rojo! ¡La lucha terminó, representante del equipo ganador, por favor, ve al punto de partida para retirar el certificado de Victoria!
+505	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Noroeste ^N!
+506	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Noreste ^N!
+507	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Sureste ^N!
+508	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Sudoeste ^N!
+509	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Central ^N!
+510	$UImid$noname^3A5FCD¡Equipo Rojo ^N dominó el Cristal del ^FF7F00Punto de Dominio Noroeste ^N!
+511	$UImid$noname^3A5FCD¡Equipo Rojo ^N dominó el Cristal del ^FF7F00Punto de Dominio Noreste ^N!
+512	$UImid$noname^3A5FCD¡Equipo Rojo ^N dominó el Cristal del ^FF7F00Punto de Dominio Sureste ^N!
+513	$UImid$noname^3A5FCD¡Equipo Rojo ^N dominó el Cristal del ^FF7F00Punto de Dominio Sudoeste ^N!
+514	$UImid$noname^3A5FCD¡Equipo Rojo ^N dominó el Cristal del ^FF7F00Punto de Dominio Central ^N!
+515	¡Un puñetazo más!
+516	¡Un puñetazo más!
+517	$noname$UImidEl Cristal del Centro ya está liberado, el equipo que lo recoge primero, obtendrá la victoria!
+518	$noname$UImidVictoria del Equipo Azul! ¡Lucha finalizada!
+519	$noname$UImidVictoria del Equipo Rojo! ¡Lucha finalizada!
+520	$noname$UImidLucha empatada! ¡Lucha finalizada! ¡Lucha finalizada!
+521	$noname$UImidLucha iniciada!
+522	$noname$UImid^e12500¡Línea 1, entrada liberada! ¡La batalla comenzará después de 5 minutos! Ejércitos que van a batallar en la Línea 1, por favor, busquen al Emisario de la entrada de la Competencia de la Línea 1 · Ciudad Principal del Multiservidor para entrar en el campo!
+523	$noname$UImid^e12500¡Línea 2, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 2, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 2· Ciudad Principal del Multiservidor para entrar en el campo!
+524	$noname$UImid^e12500¡Línea 3, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 3, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 3· Ciudad Principal del Multiservidor para entrar en el campo!
+525	$noname$UImid^e12500¡Línea 4, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 4, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 4· Ciudad Principal del Multiservidor para entrar en el campo!
+526	$noname$UImid^e12500¡Línea 5, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 5, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 5· Ciudad Principal del Multiservidor para entrar en el campo!
+527	$noname$UImid^e12500¡Línea 6, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 6, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 6· Ciudad Principal del Multiservidor para entrar en el campo!
+528	$noname$UImid^e12500¡Línea 7, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 7, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 7· Ciudad Principal del Multiservidor para entrar en el campo!
+529	$noname$UImid^e12500¡Línea 8, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 8, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 8· Ciudad Principal del Multiservidor para entrar en el campo!
+530	$noname$UImid^e12500¡Línea 9, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 9, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 9· Ciudad Principal del Multiservidor para entrar en el campo!
+531	$noname$UImid^e12500¡Línea 10, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 10, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 10· Ciudad Principal del Multiservidor para entrar en el campo!
+532	$noname$UImid^e12500¡Línea 11, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 11, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 11· Ciudad Principal del Multiservidor para entrar en el campo!
+533	$noname$UImid^e12500¡Línea 12, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 12, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 12· Ciudad Principal del Multiservidor para entrar en el campo!
+534	$noname$UImid^e12500¡Línea 13, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 13, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 13· Ciudad Principal del Multiservidor para entrar en el campo!
+535	$noname$UImid^e12500¡Línea 14, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 14, por favor, busquen al Emisario de Entrada de la Competición de la Línea 14· Ciudad Principal del Multiservidor para entrar en el campo!
+536	$noname$UImid^e12500¡Línea 15, entrada liberada! ¡La batalla comenzará después de 5 minutos! ¡Ejércitos que van a batallar en la Línea 15, por favor, busquen al Emisario de la Entrada de la Competición de la Línea 15· Ciudad Principal del Multiservidor para entrar en el campo!
+537	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 1· Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 1, por favor, vengan a recibir su Billete de Entrada!
+538	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 2 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 2, por favor, vengan a recibir su Billete de Entrada!
+539	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 3 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 3, por favor, vengan a recibir su Billete de Entrada!
+540	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 4 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 4, por favor, vengan a recibir su Billete de Entrada!
+541	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 5 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 5, por favor, vengan a recibir su Billete de Entrada!
+542	$noname$UImid^e12500¡El taquillero de las competicines apareció en la Línea 6 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 6, por favor, vengan a recibir su Billete de Entrada!
+543	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 7 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 7, por favor, vengan a recibir su Billete de Entrada!
+544	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 8 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 8, por favor, vengan a recibir su Billete de Entrada!
+545	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 9 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 9, por favor, vengan a recibir su Billete de Entrada!
+546	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 10 · Ciudad Principal del Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 10, por favor, vengan a recibir su Billete de Entrada!
+547	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 11 ·Ciudad Principal de Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 11, por favor, vengan a recibir su Billete de Entrada!
+548	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 12·Ciudad Principal de Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 12, por favor, vengan a recibir su Billete de Entrada!
+549	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 13 ·Ciudad Principal de Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 13, por favor, vengan a recibir su Billete de Entrada!
+550	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 14·Ciudad Principal de Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 14, por favor, vengan a recibir su Billete de Entrada!
+551	$noname$UImid^e12500¡El taquillero de las competiciones apareció en la Línea 15·Ciudad Principal de Multiservidor! ¡Miembros del Grupo que van a batallar en la Línea 15, por favor, vengan a recibir su Billete de Entrada!
+552	¡Por Atenea!
+553	La promesa de proteger a la Diosa hasta la muerte ~~Yo he cumplido ~~
+554	¡Por Poseidón!
+555	Determinación inmortal del mar~~
+556	¡Por Hades!
+557	La oscuridad cubriría a la Tierra al final~~
+558	Llama~~Quema~~Vida~~
+559	Llama~~No~~Extingue~~
+560	¡Voy a aplastarlos!
+561	Eso es imposible~~
+562	¡Mortal, no piense en superar los poderes de Dios!
+563	Se convirtió en un~~Asesino de Dioses~~
+564	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${line(%d,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+565	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+566	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+567	No fue encontrado el Boss correspondiente
+568	Gloria de la Diosa ilumina la Tierra
+569	$nobubble${lev(60-200)}$noname$UImid${npc(%d)} apareció en ${line(%d, %d)}(%d, %d). ¡Guerreros valientes de la Facción del Santuario, vayan a protegerla!
+570	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+571	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+572	$nobubble$noname$UImid Un jugador de la Facción del Santuario defendió ${npc(%d)} con éxito y todos están animados! Por 3 minutos, jugadores de la facción rival no podrán acercarse del área de Tesoro de la Estatua de Atenea.
+573	El Océano arrasará el mundo
+574	$nobubble${lev(60-200)}$noname$UImid${npc(%d)} apareció en ${line(%d, %d)}(%d, %d). ¡Guerreros valientes de la Facción de Poseidón, vayan a protegerla!
+575	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+576	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+577	$nobubble$noname$UImid Un jugador de la Facción de Poseidón defendió ${npc(%d)} y todos están animados! Por 3 minutos, jugadores de la facción rival no podrán acercarse del área de Tesoro de la Estatua de Poseidón.
+578	La oscuridad cubriría a la Tierra finalmente
+579	$nobubble${lev(60-200)}$noname$UImid${npc(%d)} apareció en ${line(%d, %d)}(%d, %d). ¡Guerreiros valientes de la Facción de Hades, vayan a protegerla!
+580	$nobubble$noname$UImid%s mostró su poder y mató al BOSS mundial ${npc(%d)}!
+581	$nobubble$noname$UImid${name(%s)} mostró su poder y mató al BOSS mundial ${npc(%d)}!
+582	$nobubble$noname$UImid Un jugador de la Facción de Hades defendió ${npc(%d)} y todos estan animados! Por 3 minutos, jugadores de la facción rival no podrán acercarse del área de Tesoro de la Estatua de Hades.
+583	No fue encontrado el Boss correspondiente
+584	¡Castigo divino!
+585	¡Favor divino!
+586	Cambiar facción del jugador
+587	¡Daño de gran escala!
+588	¡Fuego Divino del Mundo celestial!
+589	Tormenta de Arena
+590	¡Cascada Invertida!
+591	¡Viento Helado!
+592	¡Por Hades!
+593	La oscuridad cubriría a la Tierra al final~~
+594	¡Por Poseidón!
+595	Determinación inmortal del mar~~
+596	¡Por Atenea!
+597	La promesa de proteger a la Diosa hasta la muerte ~~Yo he cumplido ~~
+598	^FF7F00Isla del Corazón ^N
+599	^FF7F00Isla del Fuego ^N
+600	^FF7F00Isla de las Llamas ^N
+601	^FF7F00Isla del Amor ^N
+602	$UImid$noname^3A5FCD¡Equipo Azul ^N activó el Cristal de %s!
+603	$UImid$noname^FF0000¡Equipo Rojo ^N activó el Cristal de %s!
+604	$UImid$noname^3A5FCD¡Equipo Azul ^N Atacó sigilosamente el Cristal de %s!
+605	$UImid$noname^FF0000¡Equipo Rojo ^N atacó sigilosamente el Cristal de %s!
+606	$UImid$noname^3A5FCD¡Equipo Azul ^N recuperó el Cristal de %s!
+607	$UImid$noname^FF0000¡Equipo Rojo ^N recuperó el Cristal de %s!
+608	$UImid$noname^FF0000¡Equipo Rojo ^N atacó sigilosamente el Cristal de %s!
+609	$UImid$noname^3A5FCD¡Equipo Azul ^N Atacó sigilosamente el Cristal de %s!
+610	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó %s!
+611	$UImid$noname^FF0000¡Equipo Rojo ^N dominó %s!
+612	¡$UImid$noname^3A5FCDEquipo Azul ^N dominó al Cristal de la ^FF7F00Isla del Corazón ^N!
+613	¡$UImid$noname^3A5FCDEquipo Azul ^N dominó al Cristal de la ^FF7F00Isla del Fuego ^N!
+614	¡$UImid$noname^3A5FCDEquipo Azul ^N dominó al Cristal de la ^FF7F00Isla de las Llamas ^N!
+615	¡$UImid$noname^3A5FCDEquipo Azul ^N dominó al Cristal de la ^FF7F00Isla del Amor ^N!
+616	¡$UImid$noname^3A5FCDEquipo Rojo ^N dominó al Cristal de la ^FF7F00Isla del Corazón ^N!
+617	¡$UImid$noname^3A5FCDEquipo Rojo ^N dominó al Cristal de la ^FF7F00Isla del Fuego ^N!
+618	¡$UImid$noname^3A5FCDEquipo Rojo ^N dominó al Cristal de la ^FF7F00Isla de las Llamas ^N!
+619	¡$UImid$noname^3A5FCDEquipo Rojo ^N dominó al Cristal de la ^FF7F00Isla del Amor ^N!
+620	¡$UImid$noname^3A5FCDEquipo Azul ^N recuperó el Cristal de la ^FF7F00Isla del Corazón ^N!
+621	¡$UImid$noname^3A5FCDEquipo Azul ^N recuperó el Cristal de la ^FF7F00Isla del Fuego ^N!
+622	¡$UImid$noname^3A5FCDEquipo Azul ^N recuperó al Cristal de la ^FF7F00Isla del Llamas ^N!
+623	¡$UImid$noname^3A5FCDEquipo Azul ^N recuperó el Cristal de la ^FF7F00Isla del Amor ^N!
+624	¡$UImid$noname^3A5FCDEquipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla del Corazón ^N!
+625	¡$UImid$noname^3A5FCDEquipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla del Fuego ^N!
+626	¡$UImid$noname^3A5FCDEquipo Rojo ^N recuperó el Cristal de la ^FF7F00Isla del Llamas ^N!
+627	¡$UImid$noname^3A5FCDEquipo Rojo ^N dominó al Cristal de la ^FF7F00Isla del Amor ^N!
+628	^FF7F00Punto de Dominio Noroeste ^N
+629	^FF7F00Punto de Dominio Noreste ^N
+630	^FF7F00Punto de Dominio Sureste ^N
+631	^FF7F00Punto de Dominio Sudoeste ^N
+632	^FF7F00Punto de Dominio Central ^N
+633	$noname$UImidBatalla empatada, fin de la lucha
+634	$noname$UImidVictoria del Equipo Azul! Lucha finalizada
+635	$noname$UImidVictoria del Equipo Rojo! Lucha finalizada
+636	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal de %s!
+637	$UImid$noname ^FF0000¡Equipo Rojo ^N ha dominado el Cristal de %s!
+638	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Noroeste ^N!
+639	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Noreste ^N!
+640	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Sureste ^N!
+641	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Sudoeste ^N!
+642	$UImid$noname^3A5FCD¡Equipo Azul ^N dominó el Cristal del ^FF7F00Punto de Dominio Central ^N!
+643	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Punto de Dominio Noroeste ^N!
+644	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Punto de Dominio Noroeste ^N!
+645	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Punto de Dominio Sureste ^N!
+646	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Punto de Dominio Sureste ^N!
+647	$UImid$noname^FF0000¡Equipo Rojo ^N dominó el Cristal de la ^FF7F00Punto de Dominio Central ^N!
+648	ID de mi modelo: %d
+649	Número de Serie del Héroe: %d
+650	No fue encontrado el modelo del Héroe
+651	No fue encontrado el invocador
+652	Pequeño Campo de Batalla comandante
+653	La cantidad de sangre máxima del Boss es 0, siendo así, no puede liberar habilidad
+654	¡No son lo suficientemente fuertes!
+655	$gm_print$UImid$noname ^EE7621%d Línea, ¡En la Competición Multiservidor %d, el ^N ^FF0000Equipo Rojo ^N ^EE7621obtuvo la victoria final! ^N
+656	$gm_print$UImid$noname ^EE7621%d Línea, ¡En la Competición Multiservidor %d, el ^N ^FF0000Equipo Azul ^N ^EE7621obtuvo la victoria final! ^N
+657	$gm_print$UImid$noname^EE7621%d Línea, ¡En la Competición Multiservidor %d, el resultado fue un empate! ^N
+658	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${line(8,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+659	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${line(9,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+660	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${línea(7,%d)}(%d,%d), ¡Guerreros valientes, vayan para allá y acepten el desafío!
+661	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${line(2,%d)}(%d,%d), ¡Guerreros valientes de la Facción del Santuario, vayan para allá y defiéndanlo!
+662	$nobubble$noname$UImidEl jugador del Santuario lo defendió ${npc(%d)} con éxito y todos están emocionados!
+663	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${line(2,%d)}(%d,%d), ¡Guerreros valientes de la Facción de Poseidón, vayan para allá y defiéndanlo!
+664	$nobubble$noname$UImidEl jugador de la Facción de Poseidón lo defendió ${npc(%d)} y todos están emocionados!
+665	$nobubble${lev(60-200)}$noname$UImid${npc(%d)}apareció en ${line(2,%d)}(%d,%d), ¡Guerreros valientes de la Facción de Hades, vayan para allá y defiéndanlo!
+666	$nobubble$noname$UImidEl jugador de Hades lo defendió ${npc(%d)} con éxito y todos están emocionados!
+667	El Conteo del tiempo de la Prueba de daños es de 2 minutos. HP actual es de %d
+668	Tiempo agotado. HP actual es de: %d, daño total causado: %d
+669	5 segundos, restan %d segundos
+670	Mi facción aún es desconocida
+671	$noname La Disputa de Velocidad en la Ciudad de Hades: la dificultad de ese desafío es de %d, utilizó %d segundos.El resultado ya fue registrado. [Héroe] Los primeros 50 puestos en la Disputa de Velocidad de Hades ganaron buenas recompensas. Consulte la página oficial para mayores detalles del evento.
+672	$noname La Disputa de Velocidad en la Ciudad de Hades: desafíe a los 4 jefes de la misma dificultad y podrá participar del Evento de Competición de Velocidad en la Ciudad de Hades. Los 50 grupos con el menor tiempo recibirán buenas recompensas. El grado de dificultad del desafío tiene que ser de Soldado Divino para arriba.
+673	dungeonracing:dungeonname=32123:difficulty=%d:usedtime=%d:player1=%s:player2=%s:player3=%s:player4=%s:player5=%s:player6=%s
+674	$noname La Disputa de Velocidad en la Ciudad de Hades: el grado de dificultad de los jefes desafiados es diferente, por lo tanto, no generó un resultado de la disputa.
+675	$noname La Disputa de Velocidad en la Ciudad de Hades: el grado de dificultad desafiado está por abajo del Soldado Divino, por lo tanto, no generó un resultado de la disputa
+676	¿Quién es el que tendría lástima? ~~ De una flor marchita, sin perfume ni color~~
+677	La vida es bella como las flores de verano ~~ Y la muerte es como las hojas de otoño ~~
+678	Joven Galante, mejor enterrado debajo de las flores que en el campo de batalla, ¿no?
+679	¿Han venido del jardín? ¡Ya que me ayudaron a librarme de esas plantas alocadas, dejaré que mueran sin mucho sufrimiento!
+680	Escucha ~~ El lamento de las aves ~~
+681	Ataque de la Ave Feroz
+682	Su cadáver queda para los buitres
+683	Su cadáver queda para los muerciélagos
+684	¡Soy el poderoso Zelos de la Estrella Terrestre de la Rareza! ¡Ríndanse ahora y puedo pensar en perdonarles la vida!
+685	¡Eso es imposible, Zelos nunca pierde! ¡Hicieron trampa!
+686	Imposible, ¿Cómo consiguieron descubrir al verdadero Zelos tán rápido? ¡Hicieron trampa!
+687	¡Hahaha! Es sólo el clon~~
+688	Más débil que yo~~Quiere decir, ¡Hizo un buen trabajo!
+689	¿Sintiendo qué su visión está borrosa? ~~Zelos es terrible, ¿no?
+690	¡Hades me está llamando para volver al Inframundo, pero matarlos primero no me llevará mucho tiempo!
+691	¡Hades me está llamando, nosotros nos enfrentaremos en el Inframundo!
+692	Pense que fuese a resistir un poco más. Caballeros son más débiles de lo que pense.
+693	$UImid${name(%s)}, ¡Traidor! ¡Buscó el refugio de Atenea! ¡Acabaré contigo hoy!
+694	¡Por Atenea!
+695	La promesa de proteger a la Diosa hasta la muerte ~~Yo he cumplido ~~
+696	Gloria de la Diosa ilumina la Tierra
+697	¡Por Poseidón!
+698	Determinación inmortal del mar~~
+699	El Océano arrasará el mundo
+700	¡Por Hades!
+701	La oscuridad cubriría a la Tierra al final~~
+702	La oscuridad cubriría a la Tierra finalmente
+703	Llama~~Quema~~Vida~~
+704	Llama~~No~~Extingue~~
+705	¡Voy a aplastarlos!
+706	Eso es imposible~~
+707	资金
+708	食物
+709	木材
+710	矿产
+711	雅雅娜
+712	哈哈斯
+713	波波冬
+714	皇皇
+715	锤锤
+716	$noname$UImid比赛将在
+717	$UImid$noname极光长矛照射倒计时：
+718	$noname$UImid开启封印个数：
+719	$UImid$noname当身中“猩红毒针”超过

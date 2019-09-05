@@ -1,0 +1,1121 @@
+0	Cargar - %s
+1	Junción de Ordén - %s
+2	Artículo en uso
+3	Invocar Pet
+4	Recuperar Pet
+5	Ajustar Pet
+6	Remover Ajuste Pet
+7	** Tú **
+8	^d8d7a1Cargando el juego, espere por favor...
+9	^d8d7a1Conectando, %d seg/%d seg
+10	Atribuido a
+11	Efecto Daño, aumento de daño a %0.1f%%
+12	Efecto Defensa, reducción de daño a %0.1f%%
+13	¿Confirmar que deseas abrir %s de tiempo?
+14	Suspensión durante %s minutos
+15	EXP en doble
+16	EXP 3.5x
+17	%s activado
+18	%s desactivado
+19	Bono de EXP activado
+20	Bono de EXP desactivado
+21	Tiempo restante:
+22	^ff0000Tiempo excedido
+23	No hay tiempo para %s disponible
+24	Hoy las primeras %d veces que comprar valen el doble de EXP, requiere %d Lingote (descuento de %d de lingote %.1f)
+25	Consumir nuevamente lo mínimo, %s del tiempo del doble de EXP para poder comprar
+26	Abrir %s
+27	Cerrar %s
+28	Su tiempo disponible de %s ha aumentado %d minutos
+29	Haz entrado en el mapa de alta EXP, sugerimos que seleccione la opción abajo para activar el multiplicador de EXP
+30	Haz dejado el área de alta EXP, sugerimos que desactive el multiplicador de EXP
+31	Pulse %s para cancelar. Este texto no se guardará.
+32	Latencia: ^00ff00%dms^N
+33	Latencia: ^FFFF00%dms^N
+34	Latencia: ^ff0000%dms^N
+35	Confirmar
+36	Cancelar
+37	Rechazar
+38	Sí
+39	No
+40	Responder
+41	Ignorar
+42	Concordar
+43	Introduzca el nombre de la tag
+44	^ffe185¿Deseas volver a la selección de personajes?
+45	Inserta el valor
+46	Ingrese tu nueva contraseña dos veces, por favor.
+47	Contraseña de 3 a 8 caracteres.
+48	Recibir el doble requiere el doble de consumo de reputación del sistema, deseas recibir?
+49	No preguntar de nuevo
+50	Sistema: Por ser menor de 18 años, recibirás avisos en el juego con respeto al tiempo adecuado para estar online.
+51	Tiempo online: %s \rTiempo de juego saludable, \r¡Siga adelante y tenga un buen juego!
+52	Tiempo online: %s \rEstás jugando durante mucho tiempo, \r¡Haga una pausa y tome agua :)!
+53	Sugestión Saludable: Acumulaste 1 hora de juego continuo.
+54	Sugestión Saludable: Acumulaste 2 horas de juego continuo.
+55	Sugestión Saludable: Tiempo de juego continuo muy alto, haremos una pequeña pausa.
+56	Sugestión Saludable: Tiempo de juego continuo muy alto, haremos una pequeña pausa.
+57	Sistema en enfriamiento del consejo saludable, retorne más tarde.
+58	El tiempo no puede ser inferior a 0 minutos.
+59	Bloqueo temporal no puede exceder el límite de 2 horas.
+60	El tiempo definido es igual al tiempo aplicado atualmente.
+61	El bloqueo temporal fue definido en %s, esa modificación tendrá efecto después del próximo login.
+62	Haz extendido la duración del bloqueo temporario, de este modo, solo se podrá proseguir con las operaciones en la lista después de %s cada vez que estés online. ¿Estás seguro de que deseas continuiar con el cambio?
+63	Haz reducido la duración del bloqueo temporario, de este modo, solo se podrá proseguir con las operaciones en la lista después de %s cada vez que estés online. Este cambio tendrá efecto después de 3 días, ¿Estás seguro de que deseas continuar con el cambio?
+64	La cancelación del bloqueo temporario tendrá efecto después de 3 días, ¿Confirmar la cancelación?
+65	El bloqueo temporal fue definido como %s, el bloqueo temporal tendrá efecto después %s.
+66	Cancelamiento del bloqueo temporal fue realizado con éxito, el cancelamiento tendrá efecto después %s.
+67	El bloqueo temporario aún esta activo. Por favor, intenta otra vez cuando el tiempo expirar.
+68	Expirado
+69	Bloqueo temporal aún activo.
+70	Desbloqueo de contraseña realizado
+71	Limpieza de contraseñas realizada
+72	Definición de contraseña realizada
+73	Alteración de contraseña realizada
+74	La remoción forzada de contraseña de bloqueo fue realizada, la contraseña será cancelada después de %s.
+75	Remoción forzada de contraseña cancelada
+76	Remoción forzada de contraseña realizada con éxito
+77	¿Deseas realizar la remoción forzada de contraseña de bloqueo?
+78	¿Deseas cancelar la remoción forzada de contraseña de bloqueo?
+79	Inserción de contraseña de bloqueo
+80	Inserta la contraseña de bloqueo
+81	Contraseña actual
+82	Nueva contraseña
+83	Reinserta
+84	Config. clave de bloqueo
+85	Introducir código de bloqueo del artículo
+86	Código de bloqueo del artículo antiguo
+87	Código de bloqueo del artículo nuevo
+88	Configurar código de bloqueo del artículo
+89	Por favor, introduzca el código de bloqueo del artículo
+90	¿Deseas restaurar el bloqueo de artículos protegidos?\r Para desbloquear una vez más después de haber bloqueado, es necesario esperar 7 días.
+91	¿Confirmar eliminación forzada de bloqueo del artículo?
+92	Bloqueo del artículo aún no está activado
+93	Cuando el personaje alcance el nivel %d, se habilitará la función de la Escudero
+94	Cuando el personaje alcance el nivel %d, se habilitará la función del Cosmos
+95	Escudero
+96	Cosmos
+97	Combates: %d
+98	Base
+99	Ataque crítico
+100	Reducción de daño
+101	Elemento
+102	Resistencia
+103	Daño adicional
+104	Status anormales
+105	Ignorar resistencia diferente
+106	Otros
+107	Información del personaje
+108	Atributos:
+109	HP:
+110	Ataque:
+111	Defensa:
+112	Precisión:
+113	Evasión:
+114	Índice de ataque crítico:
+115	Índice de resist. a crítico:
+116	Daño crítico:
+117	Resistencia a crítico:
+118	Ataque de Tierra:
+119	Ataque de Agua:
+120	Ataque de Fuego:
+121	Ataque de Viento:
+122	Ataque de Trueno:
+123	Ataque de Luz:
+124	Penet. resist. a Tierra:
+125	Penet. resist. al Agua:
+126	Penet. resist. al Fuego:
+127	Penet. resist. al Viento:
+128	Penet. resist. al Trueno:
+129	Penet. resist. a Luz:
+130	Resistencia a Tierra:
+131	Resistencia al Agua:
+132	Resistencia al Fuego:
+133	Resistencia al Viento:
+134	Resistencia al Trueno:
+135	Resistencia a Luz:
+136	Índice acierto de suerte:
+137	Bloquear:
+138	Penetración:
+139	Índice de daños:
+140	Resist. contra daños:
+141	Índice de daño PVP:
+142	Resist. contra daños PVP:
+143	Resist. contra daño físico:
+144	Resist. contra daño mágico:
+145	Blindaje
+146	Resist. al control
+147	Resist. al perjuicio
+148	Resist. al sangrado
+149	Resist. al aturdimiento
+150	Resist. a maldición
+151	Ignorar resist. al control
+152	Ignorar resist. al perjuicio
+153	Ignorar resist. al sang.
+154	Ignorar resist. al aturd.
+155	Ignorar resist. a maldición
+156	Nivel de Tinieblas
+157	EXP
+158	Astro EXP
+159	EXP Reserva
+160	Astro EXP Reserva
+161	Cada vez que el jugador recibir daño, el equivalente será reducido de su indice de HP, cuando el indice de HP llegar a 0, perderá la capacidad de luchar.
+162	Cada vez que estés atacando, podrás exhibir el Ataque
+163	Cuanto mayor la defensa, menor los daños de los ataques comunes recibidos
+164	Cuanto mayor sea la precisión, menos posibilidades tendrá el enemigo de esquivar. Sólo el 5% de daño se aplica cuando el enemigo esquiva.
+165	Cuanto mayor sea la evasión, mayores serán las posibilidades de esquivar los ataques.
+166	Probabilidad de que ocurra un ataque crítico, el ataque crítico inicial es de 1,5 veces de daño
+167	Aumenta el daño de Tierra, pero el daño puede ser reducido por la resistencia a ese elemento.
+168	Aumentar el daño de ataque de propiedades, para Cisne y Dragón Marino es aún más efectivo, pero puede ser disminuido por la resistencia a la propiedad de Agua
+169	Aumentar el daño de ataque de propiedades, para Fénix es aún más efectivo, pero puede ser disminuido por la resistencia a la propiedad de Fuego
+170	Aumenta o dano do atributo de ataque. É mais efetivo para o signo de Tornado. Possui penetração contra resistência à vento
+171	Aumentar el daño de ataque de propiedades, para Andrómeda es aún más efectivo, pero puede ser disminuido por la resistencia a la propiedad de Trueno
+172	Aumentar el daño de ataque de propiedades, para Lyra es aún más efectivo, pero puede ser disminuido por la resistencia a la propiedad de Luz
+173	Resistencia a la propriedad de Tierra de la Parte ignorada
+174	Resistencia a la propiedad de Agua de la parte ignorada
+175	Resistencia a la propiedad de Fuego de la parte ignorada
+176	Resistencia a la propiedad de Viento de la parte ignorada
+177	Resistencia a la propriedad de Trueno de la parte ignorada
+178	Resistencia a la propriedad de Luz de la parte ignorada
+179	Resistencia a la propriedad de Tierra de la Parte ignorada
+180	Reducir el daño sufrido por el ataque de Fuego
+181	Reducir el daño sufrido por el ataque de Agua
+182	Reducir el daño sufrido por el ataque de Viento
+183	Reducir el daño sufrido por el ataque de Trueno
+184	Reducir el daño sufrido por el ataque de Luz
+185	Apareció la probabilidad de Lucky Strike, Lucky Strike puede exhibir directamente el límite máximo del golpe
+186	Reducir la probabilidad de sufrir ataque crítico
+187	Después del ataque crítico, aumenta el Ataque extra
+188	Reducir daño crítico cuando sufras ataque crítico
+189	Cuando seas golpeado por monstruo de propiedad de Investida, disminuirá el daño en gran cantidad
+190	Para monstruos de propiedad de Armadura Protectora, producirá daños aún más altos
+191	Aumentar el número de veces del índice de daño, aumentará el daño real
+192	Aumentar la resistencia al daño disminuirá los daños sufridos
+193	Aumentar el índice de daño PVP aumentará el daño PVP real
+194	Aumentar la resistencia al daño PVP disminuirá el daño PVP sufrido.
+195	Reducir daños de habilidad de propiedad física recibidos
+196	Reducir daños de habilidad de propiedad espiritual recibidos
+197	Aumentar la habilidad de la Determinación Inquebrantable
+198	Repeler contra flotación, agarro, golpe de cuerpo tiene la probabilidad de inmunidad
+199	Se puede reducir la duración de efectos de silencio, control de movimiento y confusión
+200	Se puede reducir la duración de efectos de envenenamiento, sangrado y quemadura
+201	Se puede reducir la duración de efectos de caída, congelación y petrificación
+202	Se puede reducir la duración de efectos de maldición
+203	Invalidar partes de la resistencia al control del enemigo
+204	Invalidar partes de la resistencia al prejuicio del enemigo
+205	Invalidar partes de la resistencia a la hemorragia del enemigo
+206	Invalidar partes de la resistencia al ultimo suspiro del enemigo
+207	Invalidar partes de la resistencia al debilitamiento del enemigo
+208	No exhibir Alas
+209	Alas [Traje]
+210	Alas [Power]
+211	Alas [Armadura]
+212	HP \t%d/%d
+213	Física \t%d/%d
+214	Rencor \t%d/%d
+215	Rabia \t%d/%d
+216	Energía 1 \t%d/%d
+217	Energía 2 \t%d/%d
+218	EXP \t%.2f
+219	Precisión \t%d
+220	Evasión \t%d
+221	Índice acierto de suerte \t%.2f
+222	Índice de Ataque Directo \t%.2f
+223	Power Mínimo \t%d
+224	Power Máximo \t%d
+225	Defensa \t%d
+226	Frecuencia de Daños \t%.2f
+227	Resistencia a Daños \t%.2f
+228	Resistencia a daños físicos \t%.2f
+229	Resistencia a daños espirituales \t%.2f
+230	Índice de ataque crítico \t%.2f
+231	Daño adicional de ataque crítico \t%d
+232	Índice de resist. a crítico \t%.2f
+233	Resistencia a crítico \t%d
+234	?Índice fijo de efecto de cura recibido \t%d
+235	Ataque de propiedad de Tierra \t%d
+236	Ataque de propiedad de Agua \t%d
+237	Ataque de propiedad de Fuego \t%d
+238	Ataque de propiedad de Viento \t%d
+239	Ataque de propiedad de Trueno \t%d
+240	Resistencia a la propiedad de Tierra \t%.2f
+241	Resistencia a la propiedad de Agua \t%.2f
+242	Resistencia a la propriedad de Fuego \t%.2f
+243	Resistencia a la propiedad de Viento \t%.2f
+244	Resistencia a la propiedad de Trueno \t%.2f
+245	Reducción de resistencia a la propiedad de Tierra \t%.2f
+246	Redución de resistencia a la propiedad de Agua \t%.2f
+247	Redución de resistencia a la propiedad de Fuego \t%.2f
+248	Penet. contra resist. al Viento \t%.2f
+249	Redución de resistencia a la propiedad de Trueno \t%.2f
+250	Frecuencia de daños de propiedad de Tierra \t%.2f
+251	Frecuencia de daños de propiedad de Agua \t%.2f
+252	Frecuencia de daños de propiedad de Fuego \t%.2f
+253	Frecuencia de daños de propiedad de Viento \t%.2f
+254	Frecuencia de daños de propiedad de Trueno \t%.2f
+255	Velocidad de Caminada \t%.2f
+256	Velocidad de Corrida \t%.2f
+257	Velocidad de Nado \t%.2f
+258	Velocidad de Montaría \t%.2f
+259	Velocidad de Vuelo \t%.2f
+260	Altura de Salto \t%.2f
+261	Velocidad de recuperación del índice de HP \t%d
+262	Velocidad de recuperación del índice de Energía \t%d
+263	Velocidad de recuperación del índice de Rencor \t%d
+264	Velocidad de recuperación del índice de Rabia \t%d
+265	Velocidad de recuperación 1 del índice de Energía \t%d
+266	Velocidad de recuperación 2 del índice de Energía \t%d
+267	Velocidad de recuperación del índice de HP en status de lucha \t%d
+268	Velocidad de recuperación del índice de Stamina en status de lucha \t%d
+269	Velocidad de recuperación del índice de Rencor en status de lucha \t%d
+270	Velocidad de recuperación del índice de Rabia en status de lucha \t%d
+271	Velocidad de recuperación 1 del índice de Energía en status de lucha \t%d
+272	Velocidad de recuperación 2 del índice de Energía en status de lucha \t%d
+273	Resistencia al Control \t%.2f
+274	Resistencia al Prejuicio \t%.2f
+275	Resistencia al Sangrado \t%.2f
+276	Resistencia al ultimo suspiro \t%.2f
+277	Resistencia a Quemadura \t%.2f
+278	Resistencia a Caída \t%.2f
+279	Resistencia a Congelación \t%.2f
+280	Resistencia a Petrificación \t%.2f
+281	Resistencia a Reducción de Velocidad \t%.2f
+282	Resistencia al Debilitamiento \t%.2f
+283	Ignorar resistencia al control \t%.2f
+284	Ignorar resistencia al prejuicio \t%.2f
+285	Ignorar resistencia al sangrado \t%.2f
+286	Ignorar resistencia al último suspiro \t%.2f
+287	Ignorar resistencia a quemadura \t%.2f
+288	Ignorar resistencia a caída \t%.2f
+289	Ignorar resistencia a congelación \t%.2f
+290	Ignorar resistencia a petrificación \t%.2f
+291	Ignorar resistencia a redución de velocidad \t%.2f
+292	Ignorar resistencia al debilitamiento \t%.2f
+293	Aumento de porcentaje de EXP obtenida \t%d
+294	Precisión \t%.2f
+295	Protección \t%.2f
+296	Armadura de Protección \t%.2f
+297	Armadura de Destrucción \t%.2f
+298	Capacidad de Cura \t%d
+299	Índice de daño PVP \t%.2f
+300	Resistencia a los daños PVP \t%.2f
+301	Todavía no obtuviste ningún título
+302	Temporalmente sin título
+303	Obtuviste un nuevo título de "%s"
+304	★
+305	☆
+306	Correo
+307	Almacén
+308	Almacén del Ejército
+309	Casa de Subasta
+310	Desmonte de Artículo
+311	Perfeccionar
+312	Alteración de Perfeccionamiento
+313	Crear Ejército
+314	Solicitud para unirse al ejército
+315	Solicitud para base del ejército
+316	Unirse a la base del ejército
+317	Unirse a otras bases militares
+318	Dejar base del ejército
+319	Teletransporte del Atlas
+320	Clavetear
+321	Doble de EXP activado/desactivado
+322	Declaración de Guerra del Ejército
+323	Lucha del ejército por la libertad (nombre del personaje que ha declararado la guerra)
+324	Lucha del ejército por la libertad (nombre del ejército que ha declarado la guerra)
+325	Cambiar Signo
+326	Mensaje del Divulgador
+327	Mensaje de oro del Divulgador
+328	Equipamiento para fortalecer fusión
+329	Búsqueda al Tesoro
+330	Abandonar zona de instancia
+331	Recibir por la contribución de indicación del ejército
+332	Tarjeta de Regalo
+333	[Desafío]Epopeya Estelar
+334	Baño de Gloria
+335	Procreación de Pet
+336	Recibir bebé procreado
+337	Hasta luego.
+338	Crear alianza del ejército
+339	Lista de alianza de ejército
+340	Alterar Elemento
+341	Cambiar índice de Astro EXP
+342	Entrar en la arena de competición
+343	Descubrir adversario del campo actual
+344	Consultar hechos de guerra
+345	Premio de W.O.
+346	Admisión de Espectador
+347	Ayuda
+348	Eventos del campo de batalla
+349	^004a2fQuest accesible:
+350	^004a2fCompletar Quest:
+351	Autentificación de Atenea
+352	Crear 12 Casas
+353	Lo sentimos, todavía no eres un usuario VIP, recarga 1 dólar para disfrutar del servicio de almacén que trajiste contigo.
+354	Nivel %d
+355	(Inactivo)
+356	(Activo)
+357	Puedes continuar a recibir Lucky Coins gratuitamente, procurar por más informaciones
+358	Los Lucky Coins regalados por el sistema ya han acabado
+359	Actualmente, no tienes Luck Coins que puedas recibir
+360	%dpts. para el próx. NvVIP
+361	%g Lingote
+362	%d Lingote
+363	Has obtenido %d puntos número de puntos VIP
+364	Has perdido %d puntos número de puntos VIP
+365	Número de puntos VIP (índice de suerte) ha sido repuesto para %d
+366	¡Nivel VIP subió al nivel %d!
+367	El plazo de expiración del mainstream V ha sido prolongado para el año/mes/día/hora por ser nivel VIP
+368	Cualificaciones del mainstream ya expiraron
+369	Renovación completada con éxito, el período de expiración del mainstream V es de año/mes/día/hora
+370	Obtuviste %d Lucky Coins
+371	Gastaste %d Lucky Coins
+372	Sólo se puede enviar y recibir mensajes de voz cuando el VIP llega al nivel 6 o superior.
+373	Número de puntos de recarga del mes actual: %d
+374	%dpts para el próximo Nv. VIP Mensual
+375	No recibido
+376	Recibido
+377	VIP Mensual del próximo mes: Nv %d
+378	Obtenga el VIP Mensual, para recibir beneficios todo mes.
+379	Restante: %d
+380	Nivel VIP: %d
+381	Beneficio de la 1ª semana
+382	Beneficio de la 2ª semana
+383	Beneficio de la 3ª semana
+384	Beneficio de la 4ª semana
+385	Beneficio mensual
+386	Cambio Diario
+387	Cambio Semanal
+388	Falta el artículo que será modificado por grabación %s, no se puede modificar.
+389	(Aún quedan %d caracteres restantes)
+390	Ya no puedes dejar más palabras.
+391	Ingresaste un bloque de información
+392	Gratuito
+393	Nivel de prioridad de grabación no fue seleccionado.
+394	Nivel de grabación es mayor que esta clasificación, no es posible seleccionar.
+395	Modificación de contenido guardada con éxito
+396	Tiempo restante: %d
+397	%d^fffd44+%d(recompensa de evento)^N
+398	Avanzo en la Zona de Instancia
+399	Puntos PK: %d
+400	%d puntos
+401	Puntos PK es 0, no es necesario limpiar
+402	Gold insuficiente, no es necesario limpiar.
+403	¿Deseas limpiar los puntos PK?
+404	¿Deseas cambiar el signo?
+405	Silver insuficiente, no se puede cambiar el signo.
+406	Personaje con nivel igual o inferior a 59 no puede cambiar de signo.
+407	Actualmente, no se puede cambiar el signo.
+408	Todos
+409	Bronce
+410	Plata
+411	Oro
+412	Nulo
+413	Equip.
+414	Nivel de espirítus celestiales insuficiente, no es posible equipar
+415	Anima: %s
+416	Redefinir pericia de Anima
+417	Toda semana se puede redefinir los puntos de pericia de Anima una vez gratuitamente.
+418	Redefinir el número de puntos de habilidad requiere un consumo de %s%s%d unidades
+419	Cantidad de artículos insuficiente, no es posible redefinir el número de puntos de habilidades
+420	Redefinición de puntos de habilidades realizada con éxito
+421	Error al redefinir puntos de habilidad
+422	EXP: %d
+423	Error en la posición de las joyas solicitadas
+424	Alcanzaste el nivel máximo
+425	Error de Parámetro
+426	Error en el artículo requerido
+427	Error de parámetro de cantidad de artículos requeridos
+428	Cantidad de artículos requeridos insuficiente
+429	Error en el artículo auxiliar requerido
+430	Cantidad de artículos auxiliares requeridos insuficiente
+431	Fortalecimiento de los Espíritus Celestiales realizado con éxito
+432	Gratis hoy: %d
+433	Búsquedas posibles hoy %d/%d
+434	Artículos insuficientes, no es posible buscar.
+435	Inventario lleno
+436	Búsqueda realizada con éxito.
+437	No tienes atributos de combinación.
+438	Anima
+439	Tiempo restante: %dseg
+440	Solicitud inválida
+441	Negociar
+442	Solicitud para unirse al grupo
+443	Solicitud interactiva
+444	Invitación para montaría multiplayer
+445	Solicitud de duelo
+446	Información del Sistema
+447	Recado de Amigos
+448	Solicitud de batalla del ejército
+449	Solicitud del Ejército
+450	Solicitud para unirse al equipo
+451	Solicitud para formar grupo
+452	¿Forzar la entrada en la instancia?
+453	Solicitud para entrar en la Instancia
+454	Solicitud de Amistad
+455	Solicitud para Explorar
+456	Invitar a entrar al campo de batalla
+457	Compartir Quest
+458	Solicitud para unirse al grupo
+459	Solicitud para Grupo
+460	Orden para Reunión
+461	Entrar en la fila
+462	Entrar en la Clasificatorias
+463	Invitación de Tutela
+464	Invitación de autenticación de Atenea
+465	Será votado para ser expulsado de la tropa
+466	Solicitud de Alianza del Ejército
+467	Premio del Ejército
+468	Será votado para ser expulsado del campo de batalla
+469	Mostrar todo
+470	[Qst]General
+471	[Qst]Repetición
+472	Teletransporte
+473	Punto esencial
+474	Servicios
+475	Tutorial
+476	¿Confirma la cancelación de todos los destinos de la lista de persecución?
+477	¿Confirma la cancelación de este destino de la lista de persecución?
+478	No se puede añadir otros destinos de persecución, por favor, cancele algunos e intente de nuevo
+479	Formato de la coordenada introducida incorrecto, por favor, introduzca nuevamente.
+480	Destino guardado con éxito.
+481	，
+482	　
+483	^f2ebcf^O053Localización: %s
+484	%s\rCosto de Teletransporte: %s
+485	^00ff00Teletransportar hasta aquí y continuar el enrutamiento
+486	Costo de teletransporte insuficiente
+487	^c0c0c0%s\rTodavía no has activado este punto de teletransporte
+488	Mapa del Mundo
+489	[%s (%d, %d)]
+490	Por favor, introduzca el número de mapa
+491	Por favor, indique la coordenada X
+492	Por favor, indique la coordenada Z
+493	Item Mall
+494	Inventario
+495	Personaje
+496	Habilidad
+497	Quest
+498	Otros
+499	Social
+500	Sistem
+501	Ranking del Jugador:
+502	^80FF00nuevo
+503	^80FF00↑
+504	^FFFF00↓
+505	Individual
+506	Grupo
+507	Mund
+508	Ejérc
+509	Amig
+510	Gloria en batalla: %d
+511	%s de power
+512	Power:
+513	Power
+514	Power total
+515	Power: %d
+516	Armadura:
+517	Armadura de Bronce
+518	Armadura de Plata
+519	Armadura Dorada
+520	Armadura Divina
+521	Signo
+522	Armadura
+523	Equipamiento
+524	Accesorio
+525	Colección
+526	Constelaciones
+527	Nivel:
+528	Pericia:
+529	Pericia:
+530	Esotérica:
+531	Avanzado:
+532	Reino:
+533	Solar:
+534	Lunar:
+535	Omega:
+536	Bronce:
+537	Plata:
+538	Dorada:
+539	Divina:
+540	Surplices:
+541	Escamas:
+542	Nivel:
+543	Perfeccionar:
+544	Runa:
+545	Elemento:
+546	Perfec. Divino:
+547	Práctica:
+548	Clan:
+549	Equipamiento:
+550	Álbum:
+551	Título:
+552	Logros:
+553	Astromancia:
+554	Reliquia:
+555	Espíritu de Arm.:
+556	Anima:
+557	Zodiaco:
+558	Divinidad:
+559	Mosaicos:
+560	Aumentar el nivel del personaje puede elevar el Poder de Lucha
+561	Aprender y perfeccionar las habilidades de lucha pueden mejorar el índice de Conciencia
+562	Todavía no está abierto
+563	Practicar habilidades del ejército puede elevar el Poder de Lucha
+564	Aumentar el límite del cosmos puede elevar el Poder de Lucha
+565	Debido a los puntos de vida de la Estrella Solar y del Alma Estelar Solar, mejorar la calidad y el nivel del Alma Estelar Solar puede elevar el Poder de Lucha
+566	Debido a los puntos de vida de la Estrella Lunar y del Alma Estelar Lunar, mejorar la calidad y el nivel del Alma Estelar Lunar puede elevar el Poder de Lucha
+567	Debido a los puntos de vida de la Estrella SP y del Alma Estelar de la Secuencia Principal, mejorar la calidad y el nivel del Alma Estelar SP puede elevar el Poder de Lucha
+568	Refinar Armadura de Bronce, vestida y en poseción puede elevar el Poder de Lucha
+569	Refinar Armadura, vestida y en poseción puede elevar el Poder de Lucha
+570	Refinar Armadura de Plata, vestida y en poseción puede elevar el Poder de Lucha
+571	Refinar Armadura Dorada, vestida y en poseción puede elevar el Poder de Lucha
+572	Refinar Armadura Divina, vestida y en poseción puede elevar el Poder de Lucha
+573	Refinar Sapuris, vestida y en poseción puede elevar el Poder de Lucha
+574	Refinar Escama, vestida y en poseción puede elevar el Poder de Lucha
+575	Mejorar el nivel de un equipamiento vestido puede elevar el Poder de Lucha
+576	Usar el equipamiento vestido para proseguir en el perfeccionamiento puede elevar el Poder de Lucha
+577	Usar el equipamiento vestido para proseguir en el claveteo de Runa puede elevar el Poder de Lucha
+578	Al usar el Kit de Grabado Espiritual completo, puede aumentar el Poder Lucha
+579	Equipo de la prueba divina puede aumentar el Poder de Lucha
+580	Aumentar el nivel de tesoros vestidos (Piedra Espiritual, Anillo, Emblemas, Cuentas, Faja) puede elevar el Poder de Lucha
+581	Mejorar el equipamiento vestido puede elevar el Poder de Lucha
+582	Clavetear runa en tesoro vestido puede elevar el Poder de Lucha
+583	Mejorar la calificación de la Escudero de Lucha principal y el grado de intimidad puede aumentar el Poder de Lucha
+584	Mejorar la calificación de la Escudero de Lucha auxiliar en la Escudero del equipo puede elevar el Poder de Lucha
+585	Equipar la Escudero con equipamiento de lucha puede elevar el Poder de Lucha
+586	Completar la colección relacionada a las ilustraciones puede elevar el Poder de Lucha
+587	Recoger título con bono de atributo puede elevar el Poder de Lucha.
+588	Alcanzar logros de bono de propiedad puede elevar el Poder de Lucha
+589	Avanzar a Stargazing y unir la Constelación puede elevar el Poder Lucha
+590	Recoger artefactos divinos y mejorar el nivel del límite de estos artefactos a través de la perfusión puede elevar el Poder de Lucha
+591	Mejorar el nivel de la Armadura Espiritual y de la Joya Espiritual puede elevar el Poder de Lucha
+592	Despertar y fortalecer aún más los Espíritus Celestiales puede elevar el Poder de Lucha
+593	Mejorar el nivel de la Voluntad de Oro y fortalecer los Espíritus Celestiales puede elevar el Poder de Lucha
+594	Activar divinidad puede aumentar el Poder de Lucha
+595	O Espelho Quebrado pode aumentar seu POWER
+596	Actualmente no hay tamaño Índice de Astro EXP
+597	El máximo que se puede cambiar en una vez es %I64d del Índice de Astro EXP
+598	¿Confirma el cambio del Índice de Astro EXP?
+599	EXP obtenida:
+600	Astro EXP obtenida:
+601	EXP restante:
+602	Astro EXP restante:
+603	EXP:
+604	Astro EXP:
+605	EXP Reserva:
+606	Astro EXP Reserva:
+607	Porcentaje de EXP:
+608	Porcentaje de Astro EXP:
+609	Recibir EXP:
+610	Recibir Astro EXP:
+611	EXP:
+612	Astro EXP:
+613	Nivel de Práctica Concentrada Actual:%d \rPropiedades mejoradas: \r%s
+614	Siguiente nivel de Práctica Concentrada:%d\r Propiedades mejoradas: \r%s
+615	&%s&: %s
+616	&%s& te dijo: %s
+617	&%s&: %s
+618	Dijiste a &%s&: %s
+619	Yo a &%s&: %s
+620	Has enviado tu mensaje de voz muy rápido, para enviarlo dos veces, es necesario un intervalo de 2 segundos.
+621	Por favor, no hable muy rápido al repetir su mensaje de voz, para reenviar dos veces es necesario un intervalo de 3 segundos.
+622	Error al enviar el mensaje de voz, necesitas el apoyo del “Megáfono del Canal del Mundo” para permitir que todas las personas escuchen tu voz.
+623	Error al enviar el mensaje de voz, necesitas el apoyo del "Megáfono del Canal de Transmisión" para permitir que todas las personas escuchen tu voz.
+624	Error en la transmisión, necesitas del soporte del Orden Divina de Hermes" para permitir que todas las personas escuchen tu voz.
+625	El mensaje del canal consumirá Megáfono del Canal Multiservidor
+626	El mensaje del canal consumirá "Megáfono del Canal del Mundo"
+627	El mensaje del canal consumirá %d Silver
+628	El mensaje del canal consume "Megáfono del Canal del Mundo" o consejos de Silver
+629	Sólo puedes enviar un símbolo de artículo a la barra de diálogo a la vez
+630	El intervalo de tiempo para volver accesar al servicio de atención al cliente desde la última vez no puede ser menor de 3 minutos, por favor, espere un momento e inténtelo denuevo.
+631	Su pregunta fue enviada, por favor, espere para que sea procesada.
+632	No es posible enviar, palabra secreta vacía.
+633	General
+634	Grupo
+635	MP
+636	Coleg
+637	Esa coordenada no está en este escenario actual.
+638	Evento
+639	Grupo
+640	Batalla
+641	Transmisión
+642	Ms
+643	Actualmente, no organizas equipos
+644	Actualmente, no haces parte de ninguna tropa
+645	Actualmente, no haces parte de ningún círculo
+646	Actualmente, no tienes ningún amigo
+647	Actualmente, no participas en los campos de batalla o en eventos clasificatorios
+648	Actualmente, no te uniste a ninguna organización para proteger las 12 Casas
+649	Actualmente, no te uniste a ninguna alianza del ejército.
+650	Se produjo un cambio en los artículos del inventario, causando un error en el link. Por favor, inténtelo de nuevo.
+651	[General]
+652	[Mundo]
+653	[Grupo]
+654	[Ejército]
+655	[MP]
+656	[Daño]
+657	[Batalla]
+658	[Comercio]
+659	[Sistema]
+660	[Otros]
+661	[Familia]
+662	[Colegas]
+663	[Anuncio]
+664	[Multiservidor]
+665	[Amigos]
+666	[Facción]
+667	[Guardián]
+668	[Registro]
+669	[Evento]
+670	[Alianza]
+671	(Respuesta Automática)
+672	¿Quieres abrir una ventana de conversación fuera de la ventana de juego?
+673	Has enviado demasiadas mensajes de voz, por favor, espere %d segundos
+674	%s
+675	Facci.
+676	Guard.
+677	Alian.
+678	Comando no válido: Comando con demasiados caracteres
+679	Demasiados eventos elegidos
+680	Lista de envío:
+681	Lista de aceptación
+682	Por favor, haz click en el botón de evento a la izquierda de la barra de inserción del chat y elija el evento
+683	Inserción rápida: #%d#
+684	Compañero de equipo %s recogió %s unidades %s
+685	Tu ROLL es demasiado rápido, para hacer ROLL dos veces es necesario un intervalo de 1 segundo
+686	El canal actual no puede hacer ROLL
+687	Configuración
+688	¿Se restaurará al status de la última vez que se guardó, ¿Deseas deshacer?
+689	Esto borrará los datos de Combo, ¿Deseas limpiar?
+690	El tipo no coincide, no se puede utilizar en el Combo.
+691	¿Deseas guardar los cambios hechos al salir?
+692	Guardado con éxito.
+693	Actualmente la habilidad de Macro está siendo liberada, ¡no es posible guardar!
+694	El icono actual puede ser arrastrado hasta el slot de habilidad de la parte superior, después, la habilidad de ese slot será liberada en ciclos
+695	A partir de este ciclo
+696	El icono de habilidad puede ser arrastrado hasta el slot de habilidad actual para editar la habilidad Macro
+697	Modo Ventana
+698	Pantalla Completa
+699	ON
+700	OFF
+701	Personalizado
+702	En la ventana personalizada de tamaño no-estándar, no se puede cambiar al modo de pantalla completa.
+703	En el modo ventana, no se puede elegir una resolución mayor de que la pantalla actual.
+704	Introduzca un nombre para el canal:
+705	Pequeño
+706	Medio
+707	Grande
+708	Inferior
+709	Bajo
+710	Alto
+711	Superior
+712	10
+713	20
+714	40
+715	80
+716	OFF
+717	Simple
+718	Medio
+719	Máximo
+720	OFF
+721	Yo
+722	Todos
+723	Programación del Día
+724	En la fila
+725	Actividad: %d
+726	Haz click aquí para encontrar detalles de sus compañeros de equipo,
+727	Estás en el equipo, puedes seguir reclutando a otros compañeros de equipo
+728	Puedes hacer click en el botón a la izquierda para encontrar compañeros de equipo
+729	Buscar en la tropa, abrir plataforma de entrenamiento del equipo para buscar detalles
+730	Ahora no se puede utilizar la plataforma de entrenamiento del equipo
+731	El nivel de dificultad de ese desafío es menor, no es necesario la ayuda de otras personas
+732	(Individual)
+733	Únete al grupo
+734	Fila indisponible
+735	En la fila
+736	No se puede formar fila
+737	No eres el capitán
+738	No eres el boss
+739	(%d personas)
+740	(%d-%d personas)
+741	%s-%s
+742	(En progreso)
+743	Entrar
+744	Confirmando local
+745	Batalla en progreso...
+746	Cuando estés en el campo de batalla, es temporalmente imposible utilizar la función de fila
+747	Actividad: %s
+748	Nivel 15 y superior obtuvo hoy %s puntos de nivel de actividad pueden ser abiertos.
+749	h
+750	min
+751	s
+752	Comenzará en %s
+753	Cerrará en %s
+754	Muerto
+755	Power: %s
+756	^e12500%d días incompletos, la liquidación de EXP aumentó a %d%%^N
+757	^e12500más de 2 días incompletos, la liquidación de EXP aumentó a %d%%^N
+758	^e12500Compensación de EXP: %d días incompletos, la liquidación de EXP aumentó a %d%%^N
+759	^e12500Compensación de EXP: más de 2 días incompletos, la liquidación de EXP aumentó a %d%%^N
+760	Hoy participaste en los eventos %s y puedes obtener el premio %d%%
+761	Este premio sólo se puede recibir mañana.
+762	¡Continúa esforzándote y aumenta tu nivel!
+763	Actividades recomendadas:
+764	Complete los objetivos y reciba ^00ff00EXP y Gem^ffffff.
+765	Puedes entrar en los eventos de auto-caza:
+766	${npc(33799, "Haga click aquí para buscar")}
+767	${jump(63, "Haga click aquí")}
+768	Puedes obtener mucha EXP y Silver
+769	Puedes obtener mucho Astro EXP y Silver
+770	%d %s · %s
+771	Todos los problemas encontrados en el día de hoy pueden tener sus resoluciones alcanzadas en la EXP del pasado. Debemos dejar a un lado la actitud tímida, entonces, un cambio positivo puede ocurrir.
+772	Hoy puedes estar ocupado con algunos asuntos banales y también puede ser um momento díficil para empezar, pero cree que con esfuerzo vas a conseguir buenos resultados, te vas a esforzar.
+773	Hoy es difícil descansar lo suficiente, de todos modos, la salud viene en primer lugar. ¡No dejes que la presión acumulada del día a día influya en tu salud!
+774	Si eres capaz de actuar conforme los planos originales, es posible que le traigan beneficios inesperados. Cada vez hay más partes de cambios temporales, la necesidad de resolver los nuevos problemas también aumentarán.
+775	Si ni a ti te convence tus propias cosas, entonces, no esperes usarlas para convencer a nadie. Si puedes ajustar su comunicación contigo mismo, es posible que consiga resoluciones incluso mejores para los problemas interpersonales del día a día.
+776	Hoy es posible que pienses mucho en los asuntos de su trabajo, quizás hasta haga hora extra. Estar ocupado es muy agotador, pero no por estar ocupado de los pies a la cabeza que debes descuidar a su familia.
+777	Hacer una llamada telefónica es una buena manera de atraer a la suerte, intenta llamar a un viejo amigo tuyo, a quien no ha contactado por mucho tiempo porque has estado demasiado ocupado, durante su conversación, puedes recibir nuevas inspiraciones.
+778	El descuido es algo con lo que tienes que estar en alerta, sólamente si hace una preparación lo suficientemente buena, dejando el tiempo lo bastante, es que se puede evitar la pérdida innecesaria de las cosas.
+779	Es hora de ordenar la habitación, echa un vistazo en aquellos artículos que están en la plataforma y que nunca fueron utilizados. Un montón de buenos recuerdos pueden haber sido olvidados por ti.
+780	Si estás libre, tome un café con un amigo, conversen sobre las cosas actualmente populares. Además del sentimiento de poder entrar en contacto con alguien, puede ser que esto sea de alguna ayuda para ti.
+781	No importa cuál sea el tipo, todo consejo tiene dos lados. Deje de lado el exceso de emociones, analisa cuidadosamente tus propios errores; estos son exactamente la causa que te ponen en tu situación actual.
+782	Una actitud pasiva en el día de hoy te puede ayudar a escapar de una serie de obstáculos, a veces bajar a tu tono de voz es algo bueno. Definitivamente, no se trata de una doctrina de no esforzarse para nada, pero si de aprovechar una oportunidad y completarla.
+783	Ahora, si tienes la oportunidad de enviar un mensaje, es probable que obtenga la confianza de aquella persona. Debes expresar su punto de vista aún con más fuerza, y hablar con franqueza acerca de sus sentimientos.
+784	Si tienes condiciones, vete a la cocina y prepara esa refección. Una buena comida puede hacer a las personas brillar con una nueva vitalidad y obtener emociones positivas.
+785	Hoy es necesario un descanso tranquilo, puedes jugar o comer con entusiasmo con tus amigos. O sea, recuperar el bienestar físico y mental es el tema de hoy.
+786	Es hora de planear el próximo viaje, no espere que las otras personas viajen para ver opciones. Ahorra dinero para el viaje y trata de elegir rutas para el día a día.
+787	Obtener información acerca de la última película, sobre el último juego lanzado, permita que su propia actitud se convierta joven. No crea que su día a día es aburrido y sin gracia.
+788	Este es un día para relajarse, cada cosa que te preocupaba antes, puede estar llegando a su fin o un nuevo cambio ocurrirá en esa vida tranquila. En resumen, la persona completa también estará más relajada.
+789	Hoy en día, tiendes a absorber excesivamente ciertas cosas, olvidar el trabajo y el descanso cotidiano. En particular, tenga cuidado para no quedarse toda la noche despierto, y no dejes que los consejos que su familia le da entren y salgan por un oído.
+790	Haga las cosas actuales con los pies en el suelo, piensa en la larga distancia que todavía hay de su objetivo original. De vez en cuando, mira al cielo estrellado y recuerda un poco de la belleza que vale la pena recordar.
+791	Hoy en día, la eficiencia en el trabajo es difícil de desarrollar, hay muchas cosas que nadan contra la corriente. Tal vez sólo duplicando los esfuerzos es que se podrá mantener las circunstancias para no retroceder, ¡Fuerza!
+792	Si deseas esforzarte y tratar de alcanzar el progreso de todos, no tenga miedo de subirte las mangas y empezar a hacer el trabajo, incluso sin experiencia. ¡Sólamente con determinación podrás entrar en una abundancia financiera!
+793	Cuida tu billetera, el dinero ganado con sangre y sudor no es para que lo malgastes y despúes, quedarte sin nada. A pesar de haber un pequeño ingreso, no es suficiente para las emergencias.
+794	Haz un plan de ahorro, no te mantengas preocupado por no tener dinero en el momento en que necesitas. Así ahorrando en el día a día, no necesitas actuar con perturbación ni desesperación.
+795	Puede ser que algo que deseas tanto pase desapercibido por ti; piensa cuidadosamente ¿Será que estás descuidando las conexiones importantes? Ten en mente ¡Antes tarde que nunca!
+796	No digas palabras que no deberían ser dichas por un momento de entusiasmo, el impulso es terrible, eso es cierto. Además, cuidar de las emociones de otra persona no es necesariamente algo malo.
+797	Recientemente puede ser que encuentres un oponente formidable en los negocios; luchando varias veces brazo a brazo, la victoria o derrota serán difíciles de disntinguir. De hecho, enfrentarse cara a cara también es una forma de mejorar una vez más, de estudiar el proceso de aprendizaje una vez más, ¡empéñate!
+798	Recientemente con el dinero en baja eficiencia, si por un acaso empiezas a invertir, las perspectivas todavía no acalmarán nada, entonces, temporalmente no es apropiado comprometerse con cosas demasiadas grandes, o cosas en las que apuestes grandes cosas.
+799	Compruebe las cuentas de la casa, tales como electricidad, agua, internet y teléfono para ver si las cuotas ya se han agotado y se tienen que ser pagadas, evitando problemas causados si el servicio es interrumpido de repente.
+800	La vida es llena de días que van contra el viento, así que para encarar la tormenta que está por venir es necesario un poco de tenacidad. Es necesario creer que la esperanza está delante y no preocuparse demasiado.
+801	En los negocios, hay avanzos e retrocesos, hay victorias y derrotas, hay todo estilo de cosas. No te desgastes mucho con pierdas y ganancias, por lo contrario, será difícil para tus emociones enfrentar negaciones y frustraciones.
+802	En este momento, un vencedor inesperado crece potencialmente. Hay numerosas oportunidades para corregir los errores del pasado. Para prevenir contra la gripe, evita ser golpeado por los resfriados.
+803	Hay esperanza de que las injusticias sufridas puedan encontrar resolución dentro de ese periodo de tiempo y puede ser que ganes otra vez un juício correcto del mundo externo y de si mismo. No te rindas de tus esfuerzos actuales.
+804	Los negocios están causando una tempestad, así que, pasar la noche en claro trabajando puede hacerse rutina. Necesitas correr urgentemente atrás del progreso de las cosas, si continuas insistiendo antes de la meta, tendrás la oportunidad de pasar.
+805	Está a punto de que llegue un periodo que las compras serán hechas sin dudas; A veces, tienes que cuidar de su billetera un poco, de lo contrario, tus economias van a vaciarse, lo que no es nada bueno.
+806	Puedes estar con una crisis de incorporar el descuido. Por ejemplo, salir y no llevar el bolso de llaves, olvidarte de llevar el paraguas, después de claramente haber visto la previsión del tiempo que llovería ¡Todo esto demuestra que necesita relajarte un poco!
+807	Retira el peso del fardo de estos dias y aumenta tus capacidades. En este periodo, también podras recibir muchas noticias negativas para tu estrella de la suerte, pero que se pueden vencer. ¡Fuerza!
+808	Recientemente, has estado en medio de cosas que necesitan de un gran esfuerzo para que sean realizadas lo más rápido posible, no apenas puede responder un cambio rápido y substancial de las circunstancias del objetivo principal, como también puede ser que domine la cabeza de playa o el castillo, convirtiéndose el señor de todo.
+809	Acuerdate un poco de tu propio deseo inicial de empezar algo desde cero, de la idea de tener una familia independiente. Como un viejo dicho dice, "Roma no fue construida en un día", mira: ¿Qué es lo que te bloquea?
+810	¿Hay uno no hay un cumpleaños de la familia descuidada, fechar conmemorativas? Si no puedes invitarlos a una comida, coge el teléfono ahora y llámalos.¡No os distancieis unos de los otros!
+811	Ser ambicioso es bueno, pero ten en mente que ser demasiado ambicioso no es algo bueno. ¡Persevera, esfuérzate, esfuérzate en doble; al final vas a notar que las cosas por las cuales ansias fluirán como el agua del río!
+812	Tal vez, en un futuro venga una secuencia de buena suerte. Todo el mundo ha sido testigo de la persistencia e insistencia antes mostrada por determinado asunto; el potencial explosivo es la expectativa de todos ¡Pero ten cuidado para no adelantarte!
+813	El tiempo releva la verdadera naturaleza de las cosas: cuando una cosa acaba de empezar, no se debe sacar conclusiones precipitadas. Lidiar tranquilamente a cada situación hará con que las personas te vean con una espiritualidad extraordinaria.
+814	A veces es importante salir ileso, pero la lección más importante de tu vida es trabajar por el beneficio general. Si quieres establecer buenas relaciones cooperativas, empieza a partir de aquí
+815	No trabajes arduamente solo por la economía, también tienes que dar prioridad a las riquezas de vivir. Una gestión financiera inteligente, con control rigoroso del presupuesto, será tu próxima meta de conducta! Pronto aprenderás que aparecerán destaques financieros, ¿No?
+816	No te dejes afectar por las emociones negativas de otras personas, ni siempre te cuestiones "por qué ciertos beneficios no me pertenecen". Como hacerte fuerte por dentro es una lección obligatoria.
+817	Cuando estés despierto hasta tarde, primero acuérdate que la salud es la mayor de las riquezas. ¿Las personas no tienen el costumbre de decir "mientras hay vida, hay esperanza”? ¡No esperes quedarte enfermo para lamentarte diciendo "si lo supiera antes..."!
+818	En el futuro, puede ser que notes que ni todas las cosas son obvias. Es bueno ser una persona que pregunta por todo cuando se refiere a aprendizaje, pero en la vida es bueno hacerse el bobo para evitar tristezas sin necesidad.
+819	Aún se debe pensar ¿cuándo fue la última vez que leiste un libro? No haces mal en querer tener un libro en tus manos para leer, esta es también la única manera de conseguir la suerte, el conocimiento siempre te traerá una buena energía
+820	Al mirar el uniforme y la bicicleta de los tiempos dorados de la juventud ¿No sientes un peso en la conciencia por ese tiempo que se ha ido? De hecho, no es necesario. ¡Mira, todos los Caballeros siempre de sangre caliente y dispuestos a explotar, la fe te hará eternamente jóven!
+821	Definitivamente, no son todos los dioses que tienen Caballeros para protegerlos, ni todos los Caballeros son inmortales. ¡Tu vida está llena de cambios constantes, necesitas creer que todo va a estar bien!
+822	La caja de Pandora selló todos los males, pero debes entender que en la vida esperanza y desespeanza existen al mismo tiempo. ¡Hoy no hay problemas en ajustar tu propia situación!
+823	Cuando el objetivo que has establecido no consigue elevarse hasta su esencia, acuérdate de Seiya y de su Cosmos. Descubrirás que las dificultades de hoy no son nada además de eso, desde que tengas la voluntad de un guerrero y cuanto más fuerte sea, su fuerza también crecerá.
+824	En la Guerra Santa, los Caballeros de Bronce siempre despertaban su propio potencial. Ya se dijo "conoce al enemigo y conócete a ti mismo", debes intentar comprenderse mejor para que la próxima vez que explote, pueda estar prevenido.
+825	Los Caballeros Dorado del Santuario son los Caballeros de nivel más alto. Mas allá de que muchas cosas en tu vida son infinitas, mira si tu mismo tiene o no un conocimiento profundo del trabajo que tienes en manos.
+826	Mientras el cuerpo sea de carne y sangre, tendras que enfrentar el ataque de enfermedades, lo mismo es verdad para ti, no vuelvas a enfermarte porque te fuiste a dormir y no te cubriste bien, etc .; Pero ese es el menor de los errores.
+827	Durante los 100 billones de años de transformación del universo, a fin de dejar la decoración del mapa estelar aún mas bella, las estrellas también se combinan mutuamente y cambian de posición. Lo mismo es verdad para ti, no negligencies el poder del trabajo en equipo.
+828	Si decimos que todas las personas nacen y mueren de acuerdo con la predestinación de las estrellas, tal vez eso te lleve a pensar que no hay posibilidad de elección. ¡Sin embago, la autentica elección parte de tu corazón, escuchala!
+829	Saori Kido como diosa, cuando era pequeña era mandona e indulgente, pero desde sus 9 años, ese mal temperamento fue gradualmente extinto, también puedes intentar extinguir estos errores fatales.
+830	La diosa levantó una bandera para el Santuario que es la Justicia, la palabra no tiene sentido, pero para ti que ya has pasado por todos los males del mundo, ¿Cuánto de ese sentimiento justiciero te resta todavía? ¡Piensa en eso hoy!
+831	El perdón y la confianza son tus temas de hoy, con una mente abierta es mejor oír la opinión de los demás y perdonar el odio contra los antiguos enemigos. Esta es también la base para el establecimiento de una nueva orden del Santuario.
+832	Persistir en los propios errores es el punto principal de la derrota de muchas personas; usar las propias fuerzas para luchar por las cosas que quieres no está mal, pero no debes olvidarte de que todo tiene sus reglas.
+833	Seiya no se convirtió en el corazón de los Caballeros de Bronce por acaso, su modo entusiasmado y caluroso hizo con que los Caballeros de Bronce uniesen sus fuerzas. Puedes mirar a los personajes centrales de su equipo; todos ellos tienen el espíritu de auto-sacrificio.
+834	Hoy podrás recordar todas las infelicidades y críticas que hayas recibido, pero debes acordarte que aunque hayas dejado cicatrices a lo largo de tu vida, estos momentos existen para favorecer un crecimiento mejor aún. ¡Refuérzate!
+835	Seiya dijo, la esperanza es algo de lo cual no podemos renunciar en ningún momento. ¡Esta es tu frase de hoy; avanza por cualquier ambiente de dificultad o inlcuso hasta la maldad, y después produce esperanza!
+836	A pesar de que las cicatrices sean un trofeo de masculinidad, tu família estaría dispuesta a dar su vida a cambio de tu bienestar. No dudes más, valora las personas que están a tu lado, ese es el secreto para atraer la suerte de hoy.
+837	Con el fin de visitar a su madre en descanso eterno en el fondo del mal, Hyoga entrenó incasablemente. ¿Cuál es el significado de tu lucha? Renuncia a una pelea sin sentido; eso te destinará a la ilusión.
+838	Shiryu es uno de los que cree que en cualquier momento puede ocurrir un milagro y para esperar este milagro es una persona incansable. Que tu yo de hoy no se rinda, tal vez un milagro está a punto de suceder en el siguiente segundo!
+839	Aunque en el camino del sufrimiento, cardos y espinas detrás de la Puerta del Infierno, Shun todavía es capaz de tener misericordia. En cualquier momento mantén tus principios; eso es un código importante de que debes acordarte.
+840	Hoy tienes que aprender la fuerza de la determinación de Ikki de la Fénix, no te tornes dudoso por preocupaciones excepcionales. ¡No dejes escapar la oportunidad para después lamentarte!
+841	El tú de hoy necesita recuperar el poder de la amistad, tal vez pienses que no hay nada ni nadie de confianza en el mundo, pero si desistes de las amistades y las lágrimas, no habrá esperanza de victoria.
+842	El tú de hoy creerá que todos los días son repeticiones del pasado, sin embargo, el Caballero Shiryu me ha dejado contarte que para luchar con valentía, es necesario pagar un precio y eso definitivamente no es para el presente y sí para el futuro.
+843	El tú de hoy está demasiado serio, es preciso saber que la verdad de este mundo es inconstante, no existe el mal pleno ni la justicia plena, no seas excesivamente correcto.
+844	El tú de hoy tiene que acordarse que soñar no es imposible. Lo que has empezado a entender que el sueño es imposible de alcanzar, ya ha llegado al fin de la vida. ¡Por favor, deja tu Cosmos quemarse!
+845	Tener compasión apropiadamente no es, de ningún modo, algo malo; dedicarse a la compasión es tu guía de viajes para atraer la buena suerte del tú de hoy. Muchas personas, através de Dohko, comprenden que la vida es única, y que por eso, puede generar una luz preciosa e inestimable.
+846	Valorar el tiempo es lo que tienes que hacer hoy, tal vez pienses que nada tiene significado. Sin embargo, necesitas entender que la civilización de hoy que la humanindad ha establecido, esá repleta de incontables sacrificios e inversiones.
+847	Hoy estarás cercado de ansiedad, siempre preocupado si el despertador va a tocar o no, o ansioso de lo que vaya a pasar. De hecho, solo necesitas de un vaso de leche caliente y dormir antes de las doce de la noche.
+848	El tú de hoy emite una luz incomparable; esa luz viene de tu interior para tu propia seguridad. No tengas miedo de lo que te aterroriza, creer firmemente en tu autoconfianza hará con que te hagas más fuerte.
+849	La rueda de la fortuna gira constantemente; ese es un dicho de sabiduría. Aunque estés lleno de ti, es necesario llevar en consideración los sentimientos de los demás. Acuérdate de que las estrellas no giran a tu alrededor.
+850	¿Te has sentido desanimado últimamente? Eso es exactamente una señal de tu cuerpo que te está enviando, diciendo que necesitas cuidar más de tu salúd. Comprueba si haces 3 comidas en horarios adecuados, si estás durmiendo suficientemente.
+851	El tú de hoy presenta complicaciones gastrointestinales; eso es causa de cúmulos de estrés. ¡Para cambiar eso debes a partir de ese instante comenzar a cuidar mejor de tu salúd!
+852	Hoy debes aprender a derrotar la energía negativa, y no pensar siempre que otra persona tiene algo y yo no, o pensar que yo soy de este modo y no de ese. Todo eso hará con que tu interior empiece a debilitarse.
+853	La gratitud es tu palabra de orden de hoy. No te olvides de la bondad de las personas a tu alrededor para contigo; una sonrisa de vez en cuando puede hacer con que los demás se sientan bien. ¿Por qué no lo haces?
+854	El tú de hoy puede sentirse incomodo por ciertas responsabilidades que son más desafiadoras. ¡Si eliges un trabajo flexible, no te olvides de las promesas que haces!
+855	Una elección involuntaria puede dejarte infinitamente animado hoy, aunque eso signifique un cambio en los planes que necesitas seguir. ¡Acuérdate de evitar trastornos cuando algo bueno esté por venir!
+856	Tienes tanta suerte, una lluvia de pétalos cae sobre tu suerte en el amor. Si tuviese mitad de ti, sería hora de discutir con un amigo sobre mudarse de casa, hacer un viaje o algún cambio, ¡Si estás soltero, en breve conocerás a tu otra mitad!
+857	Hoy en sus eventos sociales o culturales aparecerá un hecho inesperado. Si es una invitación de un amigo, vale la pena considerar y aceptar, eso podrá traerte buenas notícias.
+858	Mejorar la vida amorosa es muy simple, eso quiere decir que vas a tener que buscar lo que más quieres. La honestidad generalmente lleva a las personas a que se tornen más íntimas, pero cuidado para no hacer promesas fácilmente.
+859	Si recientemente no tengas compras a hacer, ver TV o alguna de esas actividades más relajadas, no hay problema en planearse para eso. De vez en cuando, aumentar un poco el nivel de conforto de la vida es importante.
+860	El tú de hoy se tiene que acordar del valor del propio descanso. Aunque te esfuerces mucho, es necesario que asegures el tiempo de sosiego ¡Ciertamente, planear un viaje sería fantástico!
+861	Cuanto estés esforzandote para aumentar tu renta, no te olvides del apoyo que viene de tu família. No importa cuanto apoyo tu família te dé, es inestimable. ¡Cuentáles sobre tu progreso ahora mismo!
+862	Si quieres cambiar el día de una cita, entonces, que sea hoy. Las estrellas de hoy agregan cosas imprevisibles a su relación. ¡Por otro lado, presta atención a la seguridad en el tránsito!
+863	Las estrellas de hoy influirán en tu área de especialización, lo que indica que tus habilidades de trabajo dejarán a otros impresionados. Además, asegúrese de que no tienes ninguno de tus perteneces desaparecidos.
+864	Es más adecuado para el tú de hoy finalizar el trabajo sólo; eso hará con que seas más productivo. Si es posible, intenta apagar las aplicaciones de conversación o otras cosas que te puedan distraer.
+865	¿El tú de hoy en día no insiste en problemas que no tienen salida? Intentar cambiar el punto de vista sobre el problema hará con que la cuestión que tienes en manos avance más. No te ates a un mismo problema.
+866	Es apropiado que hables con los ancianos. Tal vez encuentres en las generaciones mayores una manera de resolver los problemas que le han plagado durante mucho tiempo. Sepa que la experiencia de los ancianos es mucho mayor que los caminos que has recorrido, ¡escucha sus consejos!
+867	Tendrás una oportunidad única para desarollar el camino de tu vida, la inovación te traerá una nueva libertad. Aunque no te sientas tan fuerte como te gustaría sentirte, no se compara a investigar, primero, tus problemas de sueño.
+868	Ir atrás de cosas innecesarias te dejará mas desgastado físicamente y mentalmente. Intenta cambiar un poco los objetivos presupuestos; si eres muy rigoroso contigo mismo, te sentirás cansado y derrotado.
+869	Su cuestión de hoy es separar los puntos importantes que no están muy claros; no pierdas tus energías en cosas sin fundamento. Ten cuidado para no invertir demasiado, gastando tu esfuerzo para nada.
+870	Recientemente, su encanto tiene tendencia a aumentar, es mejor ejercitarse y arreglarte el pelo, después ponte esa ropa que tanto te gusta, ¡Tal vez alguien secretamente se importe con su cambio!
+871	<Cambiar>
+872	<Astrología>
+873	<Despertar de Espíritus Celestiales> Búsqueda del Elemento Estelar
+874	<Coliseo del Héroe> Premios diarios
+875	Star %d
+876	Gem %d
+877	Star insuficiente, no es posible recibir
+878	Gem insuficiente, no es posible recibir
+879	Total de %d veces
+880	El contenido de compensación se limpiará en %d mes %d día %d hora
+881	Nivel VIP actual: %d
+882	Límite actual de recompensas: %d veces
+883	%s\r^33ffccPuede revivir en ^ffffff%dseg
+884	^33ffcc¡El cosmos ascenderá!
+885	^33ffccEl destino es mutable.
+886	^33ffccLa vida es como flores en el verano.
+887	^33ffccLa margen del río Aqueronte.
+888	^33ffccLos soldados se fueron.
+889	x%d
+890	^FF0000x%d
+891	Recibirá %d de EXP
+892	Tipo no coincide, no es posible clavetearlo
+893	Error de datos de la Joya Espiritual
+894	El nivel de la Joya es demasiado alta, no es possible clavetear
+895	Ya se ha claveteado el mismo tipo de Joya
+896	No es posible clavetear en esta armadura espiritual
+897	Inventario lleno, no se puede proceder con la división.
+898	Inventario lleno, no se puede remover la Gema.
+899	Fragmentos existentes: %d
+900	La operación es demasiado frecuente
+901	Cuando %s alcance el nivel %d se liberará
+902	%s se liberará después de la activación
+903	Joya dividida con éxito.
+904	Error al dividir la Joya
+905	La joya sólo se puede intercambiar con joyas de la misma armadura
+906	Error al mover la Joya
+907	El número de Joyas permitido ya ha alcanzado su límite máximo
+908	El nivel de la Joya es demasiado alto
+909	Tipo de Joya no corresponde a los requisitos de claveteo
+910	ID de Joya inválido
+911	Esta joya está prohibida para mejoras
+912	La joya ha llegado al nivel más alto
+913	Error en la cantidad de artículos auxiliares requeridos
+914	Nivel de la Joya ha superado el valor máximo permitido por la armadura
+915	Error en el ID de la armadura
+916	La armadura ha alcanzado el nivel máximo
+917	Nivel del jugador insuficiente
+918	Star Insuficiente
+919	EXP Insuficiente
+920	Experiencia Insuficiente
+921	Error de paramentro del artículo solicitado
+922	Perfeccionamiento de armadura realizada con éxito.
+923	%s subió al nivel %d
+924	%s obtuvo %d puntos de EXP
+925	Alcanzaste el nivel máximo
+926	El componente no está activo, sólo se puede mejorar después de la activación.
+927	Consumirá %dun. herramientas
+928	Nivel total de todas las Gemas: Nv %d
+929	Próx. Aura requiere Nv%d
+930	Una gema debe ser insertada en la Coraza.
+931	Espíritu de Armadura
+932	Após o Nv. Power atigiu
+933	Antes do Nv. Power atingiu
+934	^00FF00Por favor, inserte
+935	No es permitido usar esa tecla, por favor, sustitúyela por otra.
+936	Esta tecla ya está en uso. Seleciona "Confirmar" para sustituir la definición original, selecciona "Cancelar" para volver a introducir la nueva tecla.
+937	Restaurar la configuración estándar hará con que todas las configuraciones de tecla sean perdidas, ¿Confirmar cambios?
+938	Inserta el número de serie
+939	El número de serie no tiene 20 caracteres, por favor, verifique.
+940	Sólo después de (%s) es que el personaje creado puede utilizar esa tarjeta.
+941	${npc(39771,"buscar el camino hasta Hyoga")}
+942	${npc(39802,"buscar el camino hasta Shiryu")}
+943	Dorada e inferi.^ffffff
+944	Naranja e inferi.^ffffff
+945	Morado e inferi.^ffffff
+946	Azul e inferi.^ffffff
+947	Verde e inferi.^ffffff
+948	¿Deseas desmontar todas %s?\rAl desmontar, obtendrás %d de EXP de Alma
+949	Al desmontar, obtendrás %d de EXP de Alma Estelar, ¿Confirmar desmonte?
+950	^ff0000No hay %s en el inventario
+951	^ff0000No hay Alma Estelar en el inventario a ser mejorada.
+952	Virtud del Alma
+953	Invent. del Cosmos
+954	^ff0000El nivel del Alma Estelar ya está completo
+955	^ff0000El nivel del Alma Estelar ya ha alcanzado el límite máximo. Personajes que llegan al nivel %d pueden mejorar el Alma Estelar al nivel máximo
+956	El nivel de Alma Estelar ya ha alcanzado el límite máximo. Personajes que llegan al nivel %d pueden mejorar el Alma Estelar al nivel máximo.
+957	EXP de Alma necesaria es insuficiente.
+958	No hay Alma
+959	%s subió al nivel %d
+960	Al desmontar %s Nv%d obtuviste %d de EXP de Alma
+961	Obtuvo %d de EXP de Alma al desmontar
+962	Requisitos de perfeccionamiento
+963	^ff0000
+964	Arma. de %s Nv%d\r
+965	Zodiaco de %s Nv%d\r
+966	Nivel de Oro
+967	Nivel Divino
+968	Al activar la explosión dorada, podrás obtener 1 punto de energía divina. Fuera del status de lucha, a cada 30 segundos será recuperado 1 punto de energía divina. El límite máximo de energía es 2, después de fortalecerse, puede llegar a 3
+969	Retirar los artículos adquiridos en el Item Mall Web
+970	Retirar los artículos adquiridos en el Item Mall Arc
+971	Perdió
+972	Energía: %d
+973	Nv%d
+974	Energía: %d
+975	Nv. actual: %d
+976	Siguiente Nv.: %d
+977	^ffffffDespués de liberar y alcanzar un determinado nivel de Divinidad, se desbloqueará una nueva posición para sustituir la ^ff0000Posición de Pie, durante el status de no-lucha\r^ffffffLa posición se divide en 4, cuando se activa la divinidad de Divino·Géminis, Divino·Sagitario, Poseidón y Hades, obtendrá la Posición correspondiente a cada Divinidad\r^0184ffSeleccione la posición de divinidad y la posición de pie del jugador, mientras esté en status de no-lucha se cambiará por la posición de divinidad.
+978	Avanzar
+979	Regresar
+980	Desplazarse Izquierda
+981	Desplazarse Derecha
+982	Salto/Subida
+983	Bajar
+984	Avanzo automático
+985	Seguir
+986	Zoom +
+987	Zoom -
+988	Responder MP
+989	Auto-cast
+990	Elegir a sí mismo
+991	Enfocar miembro equipo 1
+992	Enfocar miembro equipo 2
+993	Enfocar miembro equipo 3
+994	Enfocar miembro equipo 4
+995	Enfocar miembro equipo 5
+996	Enfocar alvo reciente
+997	Alvo de Asistencia
+998	Personaje
+999	Item Mall
+1000	Inventario
+1001	Quests
+1002	Habilidades
+1003	Mapa
+1004	Cosmos
+1005	Armadura
+1006	Amigos
+1007	Ejército
+1008	Ranking
+1009	Ataques
+1010	Producción
+1011	Escudero
+1012	Sistema
+1013	Calendario
+1014	Grupo
+1015	Colegas
+1016	Pet
+1017	Ilustración
+1018	Logros
+1019	Reputación
+1020	Hab. de Armadura
+1021	Cámara
+1022	Tesoro de la Diosa
+1023	VIP
+1024	Proceso
+1025	Tutela
+1026	Astromancia
+1027	Espiritú de Arm.
+1028	Interfaz
+1029	Música
+1030	Sonido
+1031	Subir Volumen
+1032	Bajar Volumen
+1033	Modo Vent./Pantalla
+1034	Tecla Boss
+1035	Quemar Cosmos
+1036	Defender
+1037	Recoger
+1038	Barra de Atajos 1
+1039	Barra de Atajos 2
+1040	Barra de Atajos 3
+1041	Barra de Atajos 4
+1042	Barra de Atajos 5
+1043	Barra de Atajos 6
+1044	Barra de Atajos 7
+1045	Barra de Atajos 8
+1046	Barra de Atajos 9
+1047	Barra de Atajos 0
+1048	Barra de Atajos 1_1
+1049	Barra de Atajos 1_2
+1050	Barra de Atajos 1_3
+1051	Barra de Atajos 1_4
+1052	Barra de Atajos 1_5
+1053	Barra de Atajos 1_6
+1054	Barra de Atajos 1_7
+1055	Barra de Atajos 1_8
+1056	Barra de Atajos 1_9
+1057	Barra de Atajos 1_0
+1058	Barra de Atajos 2_1
+1059	Barra de Atajos 2_2
+1060	Barra de Atajos 2_3
+1061	Barra de Atajos 2_4
+1062	Barra de Atajos 2_5
+1063	Barra de Atajos 2_6
+1064	Barra de Atajos 2_7
+1065	Barra de Atajos 2_8
+1066	Barra de Atajos 2_9
+1067	Barra de Atajos 2_0
+1068	Barra de Atajos 10
+1069	Barra de Atajos 11
+1070	Barra de Atajos 1_10
+1071	Barra de Atajos 1_11
+1072	Barra de Atajos 2_10
+1073	Barra de Atajos 2_11
+1074	Barra de Atajos 3_1
+1075	Barra de Atajos 3_2
+1076	Barra de Atajos 3_3
+1077	Barra de Atajos 3_4
+1078	Barra de Atajos 3_5
+1079	Barra de Atajos 3_6
+1080	Barra de Atajos 3_7
+1081	Barra de Atajos 3_8
+1082	Barra de Atajos 3_9
+1083	Barra de Atajos 3_0
+1084	Barra de Atajos 3_10
+1085	Barra de Atajos 3_11
+1086	Hab. Armadura
+1087	Hab. Armadura 2
+1088	Hab. Armadura 3
+1089	Hab. Escudero 1
+1090	Hab. Escudero 2
+1091	Consagración
+1092	Interacción
+1093	Nombre de otros Pets
+1094	Nombre de monstruos
+1095	Otros jugadores
+1096	Efectos de Luz
+1097	Otros Pets
+1098	Monstruos
+1099	Usar el chat
+1100	Seleccionar alvo
+1101	Screenshot
+1102	Forzar tecla de ataque
+1103	Prueba
+1104	Elegir a sí mismo
+1105	Modo Vídeo
+1106	
+1107	学习和提升战斗技能可以提升觉悟值人物在19，29，39，49，59级升级时需要达到一定的觉悟值
+1108	获得经验：
+1109	获得历练：
+1110	${npc(33799,\"点此寻径\")}
+1111	${jump(63,\"点击查看详情\")}
+1112	今日最多可获%s点经验和%s金券
+1113	今日最多可获%s点历练和%s金券
+1114	<商城>每周礼包
+1115	${npc(39771,\"寻径至冰河\")}
+1116	${npc(39802,\"寻径至紫龙\")}
+1117	主快捷栏12
+1118	主扩展快捷栏1_12
+1119	主扩展快捷栏2_12
+1120	主扩展快捷栏3_12

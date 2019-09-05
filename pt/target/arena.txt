@@ -1,0 +1,13 @@
+0	Arena Galáctica
+1	^ff3339Chegada! Tirania Galáctica!
+2	^ff3339Cruel! Terrível Deus da Morte
+3	^ff3339Resoluto! Entusiasmo do Deus da Guerra
+4	^ff3339Cosmo Brilhante
+5	^ff3339Especialista em Batalhas
+6	^ff3339Nada
+7	Após a recompensa da competição atingir 3000, pode consumi-la para trocar por um título exclusivo da Arena Galáctica de "Justiceiro da Arena Galáctica"\rPode ser trocado apenas uma única vez
+8	Após a recompensa da competição atingir 5000, pode consumi-la para trocar por um kit exclusivo da Arena Galáctica de moda, por tempo limitado, do "Ataque Violento"\rPode ser trocado apenas uma vez por mês.
+9	Após a recompensa da competição atingir 5000, pode consumi-la para trocar por uma montaria exclusiva da Arena Galáctica, por tempo limitado, do  "Dragão Azul Escuro"\rPode ser trocado apenas uma vez por mês.
+10	Desafio da Arena Galáctica
+11	Coliseu de Gelo
+12	Este modo não concede prêmios ou pontuação.

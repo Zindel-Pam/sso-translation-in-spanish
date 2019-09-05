@@ -1,0 +1,474 @@
+0	Éxito sin errores
+1	Alvo Incorrecto
+2	Alvo demasiado lejos
+3	Error grave: instrucción incorrecta
+4	Cuando el personaje muere, no es posible recibir ese comando
+5	Artículo específico no fue encontrado en el paquete
+6	No se puede recoger este artículo.
+7	Inventario lleno
+8	No se puede equipar este artículo.
+9	No se puede atacar ahora.
+10	No se puede invitar ahora.
+11	Falla al unirse a raid
+12	El jugador está procesando la invitación que enviaste, intente de nuevo después de 30 segundos.
+13	Solicitud para unirse a raid expirada
+14	Falla al utilizar el servicio
+15	Solicitación de función de servicio incorrecta
+16	Material requerido para cambio o fondos insuficientes
+17	Primero, debes salir de la Lucha
+18	No se puede usar el artículo.
+19	Quest no disponible
+20	No se puede liberar habilidad
+21	No se puede fortalecer o clavetear
+22	Durante la lucha, no se puede utilizar Circular de esa manera
+23	No se puede complementar el tiempo de Espada Voladora
+24	Materia prima Insuficiente
+25	Error al Poducir
+26	Error al Desmontar
+27	Ahora no es posible sentarse
+28	Ahora no es posible sustituir el equipamiento
+29	Este material está siendo utilizado
+30	Su herramienta de colecta no corresponde
+31	No se ha podido abrir el objeto
+32	Otras operaciones en progreso
+33	La contraseña contiene caracteres no permitidos
+34	Contraseña incorrecta
+35	El almacén aún no ha sido abierto, no es posible accederlo
+36	Moneda en el almacén insuficiente
+37	Solicitud para formar grupo rechazada
+38	Ser rechazado junto con la expresión del rostro
+39	Barra de equipamiento bloqueada, no es posible ejecutar esta operación
+40	No se puede abrir la tienda
+41	Artículo incorrecto
+42	Actualmente se encuentra en status de retirada
+43	No se puede descartar artículos
+44	Permiso ilegal
+45	Jugador Inexistente
+46	No es posible cancelar en el status de PVP
+47	No es posible olvidar las habilidades designadas
+48	Bajo el status de inconsciencia, no se puede ejecutar ese comando
+49	Bajo el status de sellado, no se puede ejecutar ese comando
+50	Nivel insuficiente, no se puede realizar esta operación
+51	No se puede entrar en la Zona de Instancia
+52	La habilidad aún no fue restaurada
+53	El artículo aún no fue restaurado
+54	Ahora no es posible volar
+55	Para restablecer la Zona de Instancia es necesario esperar por lo menos 5 minutos
+56	El paquete está siendo bloqueado
+57	El número de personas en la Zona de Instancia ha alcanzado el límite máximo
+58	El número de Zonas de Instancia ha alcanzado el límite máximo
+59	La base del clan actualmente cierra las puertas para visitas educadamente
+60	Esta base de clan sólo está abierta para el paso de los miembros afiliados al local
+61	No es posible teletransportarse para el mismo tipo de Zona Instancia
+62	Tiempo de descanso insuficiente
+63	No es posible repetir la operación de duelo
+64	No es posible establecer duelo, por favor, inténtelo nuevamente
+65	No es posible hacer esto durante la pelea
+66	Sexo no corresponde a las condiciones
+67	No se puede abrazar de esa manera
+68	No es posible hacer esto ahora
+69	El pet ya está en status de invocación
+70	El pet no está en la barra de Pets
+71	El pet aún no salió para la expedición
+72	El pet no come este tipo de cosa
+73	El campo de batalla aún no fue abierto
+74	La unidad a la que pertenece el clan no puede entrar en el campo de batalla aquí
+75	No se puede obtener informaciones sobre el enemigo
+76	El NPC está ocupado
+77	Aquí no es posible invocar la montura
+78	No es posible reiniciar puntos
+79	Las luchas terminaron, no es posible entrar
+80	No es posible hacer un duelo aquí
+81	No es posible salir para una expedición aquí
+82	No es posible operar más armas de asedio
+83	Primero, es necesario resucitar su Pet.
+84	El pet aún está vivo
+85	No es apropiado hacer eso aquí
+86	La Constelación Protectora no corresponde
+87	Efecto del amuleto de optimización aún está en vigor
+88	No es posible continuar con la operación de mejoramiento de este equipamiento
+89	Yo no puedo aprender esta fómula
+90	No es posible proseguir con el mejoramiento de este equipamiento
+91	Error al remover claveteo
+92	Error en la operación
+93	Su conjugue y tú no están en la misma línea, o la otra parte está offline
+94	Actualmente no hay puntos que puedan ser reiniciados
+95	Error al restablecer artículo en destrucción
+96	Error al utilizar artículo
+97	La habilidad de magia aún no fue restablecida
+98	La ubicación del alvo está fuera del alcance del teletransporte mágico
+99	Su ubicación está fuera del alcance del teletransporte mágico
+100	Aún no te has unido a ningún clan
+101	El tiempo que tienes para unirse al clan no es lo suficientemente largo
+102	Este artículo sólo puede ser reincorporado para uso después de entrar en el campo de batalla
+103	Error al refinar Artefacto Mágico
+104	Error al mejorar Artefacto Mágico
+105	Error al reiniciar Artefacto Mágico
+106	Error al fundir Artefacto Mágico
+107	Error al encantar Artefacto Mágico
+108	El status de bloqueo de seguridad aún no fue activado, todavía no puedes hacer eso
+109	No es posible cultivar equipamientos
+110	La calidad ya alcanzó el nivel más alto
+111	No hay Fuerza Mágica lo suficiente para proseguir con el cultivo del equipamiento
+112	Se necesita de un Pet para completar esta operación
+113	Eres dueño de un Pet
+114	No eres dueño de ese Pet, no puede invocarlo
+115	Sólo es posible invocar un Pet para ayudarte
+116	Necesitas invocar un Pet para finalizar esta operación
+117	Error al fundir Alma
+118	El pet fue evaluado
+119	El pet no está en status de expedición
+120	Tiempo de recarga de habilidad del Pet
+121	Su capacidad actual es insuficiente para mejorar el equipamiento
+122	Relación empleada removida con éxito
+123	Evaluado con éxito
+124	El pet está siendo recuperado, temporalmente, no es posible invocar
+125	Su nivel es más bajo que del Pet que has traído
+126	El destino inmortal del alvo alcanzó el límite máximo
+127	Fuerza Mágica insuficiente
+128	No puedes hacer una crítica a otra persona
+129	No puedes hacer un elogio a otra persona
+130	Tú ya has votado
+131	El nivel de la otra parte no es suficiente
+132	Su nivel es insuficiente
+133	Este artículo no puede ser consumido por el Pet
+134	Nivel del Pet insuficiente, no se puede equipar.
+135	El HP del alvo es demasiado alto, no se puede colectar el alma
+136	Necesitas un equipamiento de Pet para finalizar esta operación
+137	La calidad del equipamiento no es suficiente, error al sintetizar
+138	Nivel de don del Pet insuficiente, error al fundir alma
+139	Nivel del equipamiento auxiliar es demasiado alto, no se ha podido derretir el equipamiento principal
+140	Actualmente el HP del Pet no necesita ser completado
+141	El pet no puede comer más alimentos
+142	Renacimiento del Pet realizado con éxito
+143	Su reputación es insuficiente, no es posible invocar el Pet para participar de la lucha.
+144	El nivel del Pet es superior al tuyo, error al invocar
+145	El Pet necesita primero obtener habilidades de Pet
+146	La barra de Pet está llena
+147	El paquete está lleno, no es posible recibir el Pet
+148	Nivel de saciedad del Pet esta demasiado bajo
+149	No eres el dueño actual de ese Pet, no tienes derecho de cambiar su nombre
+150	Pet del héroe no puede hacer eso
+151	El nivel del Pet es demasiado alto, el nivel actual del personaje no es lo suficiente para invocarlo
+152	Número de victorias del Pet insuficiente, no es posible desafiar al templo
+153	El pet ya posee habilidades
+154	La raza del Pet no se ajusta a las condiciones para comprender esta habilidad innata
+155	El nivel del Pet no se ajusta a las condiciones para comprender esta habilidad innata
+156	La naturaleza del Pet no se ajusta a las condiciones para comprender esta habilidad innata
+157	El nivel de puntuación del Pet y de la herramienta utilizada no se ajustan a los requisitos
+158	El precio del producto es superior al valor máximo permitido, es necesario repetir la operación
+159	El inventario del jugador está lleno, error al vender
+160	La cantidad de dinero que llevas ha excedido el límite permitido, temporalmente, no es posible proceder con este tipo de negociación
+161	La cantidad de compras excedió la cantidad de envíos, error al comprar
+162	Solicitud de montura com muchas personas Incorrecta
+163	No es posible continuar con la montura con muchas personas
+164	La montura ya está completa
+165	Ya has invitado a la montura a muchas personas
+166	Vigor Insuficiente
+167	Potencia Insuficiente
+168	Este monstruo no puede ser capturado
+169	El HP del mosntruo es mayor que los requisitos para captura
+170	No eres un domador, no es posible capturar ese monstruo
+171	Nivel de domador insuficiente, no es posible capturar ese mosntruo
+172	Error al Capturar
+173	Barra de fortalecimiento llena
+174	Cantidad de Coin alcanzó el limite máximo
+175	El poder mágico del Pet esta lleno, no es necesario complementar
+176	Error al delegar misión del libro
+177	Libro coleccionado
+178	Índice de vigor insuficiente
+179	No es posible clavetear más joyas del mismo tipo
+180	Estás demasiado cerca del alvo
+181	La habilidad no puede ser liberada por cuenta propia
+182	Error al reparar equipamiento
+183	No es posible recoger
+184	Recogiendo otros paquetes dropados, no es posible recoger el paquete dropado actual
+185	No es posible retomar la mochila con el Pet en lucha
+186	Longitud del nombre del Pet inválido
+187	El alvo no puede ser capturado para ser un Pet
+188	Alvo de captura demasiado lejos
+189	Alvo de captura demasiado fuerte
+190	Error al capturar el Pet, por favor, intente algunas veces más
+191	El índice de HP del alvo de captura es demasiado alto
+192	Iniciar "modo doble de EXP" en el tiempo de recarga
+193	Tu EXP almacenada está llena
+194	El nombre del Pet contiene caracteres no permitidos
+195	Error al absorber Piedra Protectora
+196	Facción no corresponde, no es posible recoger
+197	La caja de premio de esta Zona de Instancia ya ha sido abierta por otro jugador
+198	Premio de la Zona de Instancia ya ha sido abierto
+199	Error de parámetro al abrir premio de la Zona de Instancia
+200	Actualmente está bajo el status de transformación, no se puede invocar Pet
+201	Número de veces ya alcanzó el límite máximo
+202	Error al teletransportar, la línea correspondiente no existe
+203	Servicio de Zona de Instancia inexistente
+204	No es una área de tienda, no es posible abrir una tienda
+205	¡Abre la tienda solamente en áreas de seguridad!
+206	No es posible abrir la tienda en status de lucha
+207	¡No se puede abrir la tienda cuando estás en movimiento!
+208	Muy cerca de la tienda de otra persona, no se puede abrir la tienda
+209	Inventario de productos insuficiente, error al comprar
+210	Conflicto al embutir Alma Estelar
+211	Cuando el cosmos está quemando, no es permitido realizar operaciones
+212	Error al activar Habilidad de la Amadura
+213	Error al distribuir puntos de ciencia y tecnología
+214	No es posible reemplazar Habilidad de la Armadura durente la lucha
+215	Punto para volver de la ciudad no configurado
+216	El nivel del personaje es demasiado alto
+217	Actualmente, no hay premio para el recomendador
+218	Actualmente, la EXP almacenada ya alcanzó el límite máximo
+219	Hoy el tiempo total del Baño de Gloria ya alcanzó el límite máximo, continue mañana nuevamente
+220	Error desconocido
+221	Tarjeta de regalo inactiva
+222	Este personaje ya ha usado una tarjeta del mismo tipo
+223	Esta tarjeta ha sido utilizada por este personaje
+224	Esta tarjeta ha sido utilizada, y también no es un personaje de la aplicación
+225	Tarjeta de regalo inválido
+226	Tarjeta de regalo ha expirado
+227	La tarjeta de regalo fue utilizada por esa cuenta en otro servidor
+228	Error de comunicación de red
+229	Esta cuenta no vinculó esta tarjeta, no es posible recibir el premio
+230	El status actual del jugador no permite el recibimiento de la tarjeta de regalo
+231	Golpe de cuerpo ha fallado
+232	Contenido inscrito demasiado largo
+233	No hay premio de recomendador
+234	Explorar Ciudad Estelar, Ciudad Estelar Incorrecta
+235	Explorar Ciudad Estelar, cantidad de artículos no es suficiente
+236	Síntesis de partículas   Partícula incorrecta
+237	Síntesis de partículas   Cantidad de partículas insuficiente
+238	Partículas de luz de la corriente    Parámentros incorrectos
+239	Fondos, artículo y prestigio necesarios para la compra insuficientes
+240	El paquete del otro jugador está lleno, no es posible venderle artículos
+241	El nivel de exploración de la Ciudad Estelar no es suficiente
+242	Cultivo de la Ciudad Estelar no dominado
+243	Cultivo de la Ciudad Estelar incorrecto
+244	Cultivando Ciudad Estelar
+245	Error de uso de habilidad, no está en el suelo
+246	En status de inconsciencia, no es posible utilizar habilidad
+247	En esta semana, hay competición en las dos rondas, no es posible recibir el premio de W.O.
+248	En esta semana, la ronda de la competición hubo W.O, no es necesario que entres en el campo de batalla, por favor, vaya directamente a recibir su premio de W.O
+249	Este servicio para la Competición del Universo aún no fue abierto
+250	No llegaste al campo de batalla hasta el momento de la apertura, no es posible entrar. Por favor, intenta entrar nuevamente después de las 19:55 pm del sábado
+251	El tiempo de creación del personaje (%s) está más adelantado que el tiempo en que este tipo de tarjeta de regalo está disponible.
+252	Misión para entrenar la vista ya fue hecha
+253	Número de preguntas incorrectas
+254	No se puede completar la misión
+255	No es posible bloquear el Alma Estelar púpura y arriba
+256	No se puede ver la batalla en el horario actual
+257	Calificación renovada para %d, es inferior al índice actual, mantener el índice actual
+258	Parámetro Incorrecto
+259	Status Incorrecto
+260	Hora Incorrecta
+261	Ya apostado
+262	Artículo Incorrecto
+263	Este artículo no te pertenece, no es posible recogerlo
+264	Este artículo no pertenece a tu ejército, no es posible recogerlo
+265	Movimiento Existente
+266	Todavía no aprendiste este movimiento
+267	Número restante de veces para recibir el paquete de regalo insuficiente
+268	El número de veces para recibir hoy alcanzó el límite máximo
+269	Nivel de aprendizaje de habilidad incorrecta o hiciste clic demasiado rápido
+270	No hay esa habilidad
+271	Habilidad no se puede aprender
+272	No es posible aprender esa habilidad
+273	Nivel de habilidad alcanzó el límite máximo
+274	Sexo para aprender la habilidad no coincide
+275	Constelación para aprender habilidad no coincide
+276	Condiciones para aprender habilidad no coincide
+277	Nivel del jugador para aprender habilidad insuficiente
+278	Nivel del cosmos para aprender habilidad insuficiente
+279	Nivel de habilidad predefinido para aprender habilidad insuficiente
+280	Reputación para aprender habilidad insuficiente
+281	EXP para aprender habilidad insuficiente
+282	Coin para aprender habilidad insuficiente
+283	Dinero vinculado para aprender habilidad insuficiente
+284	Nivel de contribución del ejército para aprender habilidad insuficiente
+285	Reputación consumida para aprender habilidad insuficiente
+286	Artículo consumido para aprender habilidad insuficiente
+287	Índice de conciencia para aprender habilidades suficiente
+288	Es necesario estar en avanzado para tener Constelación de Oro
+289	No hay suficientes puntos de habilidad
+290	Éxito
+291	Usuario inexistentes
+292	Nombre de usuario y la contraseña no coinciden
+293	Excedió el tiempo
+294	Error de parámetro
+295	Link - las mensajes de amigos no se pueden sincronizar cuando se guardan en la base de datos
+296	LINK - el servidor no admite esa solicitud
+297	Error de comunicación de red entre los servidores
+298	LINK - repite el login, actualmente, la cuenta está bloqueada, por favor, espere 5 minutos
+299	LINK - repite el login, actualmente la cuenta está bloqueada, por favor, comprueba el forzar inicio de sesión
+300	LINK - Índice nonce invalido
+301	LINK - Error al cerrar sesión
+302	LINK - Error en el intento del servidor del juego de obtener información del personaje del jugador
+303	Error al acceder a la cuenta en el servidor del juego, por favor, intente acceder nuevamente más tarde.
+304	LINK - El número de personas en el servidor del juego ha alcanzado el límite máximo
+305	LINK - Este personaje ya está en el juego
+306	LINK - El número en esta línea ha alcanzado el límite máximo
+307	LINK - No hay ese número de línea
+308	LINK - Actualmente no hay ninguna línea disponible
+309	LINK - Error al transmitir
+310	LINK - Tiempo de transmisión excedido
+311	LINK - El sueldo de esta cuenta es insuficiente
+312	LINK - Esta cuenta fue cerrada, error al inciar sesión
+313	LINK - No se puede utilizar este nombre
+314	LINK - IP bloqueado, no es posible acceder al juego. Por favor, intenta acceder nuevamente despúes de 10 minutos
+315	LINK - Hiciste 3 intentos consecutivos de uso incorrectos con la tarjeta de seguridad.  Para tu seguridad, el sistema suspenderá tu cuenta temporalmente Puedes intentar realizar el acceso nuevamente despúes de 10 minutos.
+316	LINK - Error en la autenticación de seguridad
+317	LINK - Error al crear personaje, código de divulgación inválido o usado
+318	LINK - Error en el acceso multiservidor
+319	LINK - Error al iniciar sesión en el juego
+320	LINK - La cuenta fue expulsada de la línea
+321	LINK - Error al crear personaje
+322	LINK  - Error al eliminar el personaje
+323	LINK - Error al obtener lista de personajes
+324	LINK - Error al deshacer la exclusión del personaje
+325	LINK - El servidor está en manutención, error al iniciar sesión
+326	LINK - Este personaje fue encerrado, error al inciar sesión
+327	LINK - Número de personas en el servidor completo
+328	LINK - El servidor se ha desconectado espontaneamente
+329	LINK - Duplicar el nombre del personaje
+330	LINK - El número de personajes completos
+331	LINK - Solicitar pedido de amistad
+332	LINK - Rechazar solicitud de amistad
+333	LINK - Agregar como amigo
+334	LINK - Este personaje está en venta en xunbao178.com, no es posible entrar en el juego
+335	LINK - Actualmente existen cuentas pendientes de cambio de lingote, o mensaje de lingote no recibido; no se puede eliminar el personaje
+336	LINK - actualmente tien aprendices, no es posible eliminar el personaje
+337	LINK - datos inexistentes
+338	Por favor, primero salga del ejército y luego elimine el personaje.
+339	LINK - el tiempo de acceso al servidor superado, por favor acceda de nuevo y vuelve a intentarlo
+340	Tienes un conjugue en el juego, por favor, deshaz el matrimonio primero para intentar eliminar el personaje otra vez
+341	Este personaje ha sido autenticada por Atenea, no se puede eliminar.
+342	LINK - la otra parte ya no está en línea
+343	LINK - la otra parte se negó a negociar
+344	LINK - la otra parte está ocupada
+345	LINK - Falla al llenar la base de datos
+346	LINK - Falla al entrar en la negociación, los dos lados de la negociación ya existen
+347	LINK - negociador invalido
+348	LINK - falla al aumentar artículos de negociación
+349	LINK - falla al disminuir artículos de negociación
+350	LINK - envío por la mitad, espera que la otra parte envie
+351	LINK - envío concluido
+352	LINK - falla al enviar
+353	LINK - falla al confirmar
+354	LINK - negociación realizada con exito
+355	LINK - negociación por la mitad, espera la otra parte confirmar
+356	LINK - falla al cancelar negociación
+357	LINK - falla al mover los artículos
+358	LINK - el espacio libre en la barra de artículos de esta parte de la negociación es insuficiente
+359	LINK - falla al definir propiedades
+360	LINK - la adición de cada negociador se ha realizado con éxito
+361	LINK - la adición de dos negociadores realizada con éxito
+362	LINK - la autorización para negociar la otra parte es ilegal
+363	Servicio de clan no está disponible temporalmente
+364	Tipo de operación no válida
+365	Operación superó el límite de tiempo
+366	Actualmente, usted es un miembro de un clan, no puede crear clanes
+367	Este nombre está siendo utilizado por otra persona
+368	Falla en la base de datos
+369	Sin permiso para esta operación
+370	El largo del nombre no corresponde o contiene caracteres no permitidos
+371	Número de personas ha alcanzado el límite máximo
+372	Primero, tiene que abandonar el clan en el que se encuentra actualmente
+373	Ya te has unido al clan
+374	La otra parte agradece, pero rechaza su invitación
+375	La otra parte se han unido al clan
+376	Clan inexistente, o el jugador no ha solicitado la entrada en este clan
+377	El jugador no es un miembro de este clan
+378	No cumple con las condiciones de la operación
+379	Tipo de parámetro de funcionamiento incorrecto
+380	Jugador no está en línea
+381	Servicio no disponible
+382	El nivel de la otra parte no es suficiente, no es posible unirse al clan
+383	Disolviendo
+384	La otra parte no puede ser invitada a unirse al clan
+385	Aquellos que fueron invitados y dejarón el clan en menos de 1 día no puede unirse a un nuevo clan
+386	Usted ha vinculado un teléfono de seguridad Por favor, después de llamar al 010-5885-8566 para continuar con el desbloqueo, intente acceder de nuevo
+387	Este servidor debe ser activado antes de iniciar la sesión, esta cuenta no ha sido activada
+388	Si la cuenta Zongheng Chinese Website no está activada, no puede iniciar sesión en el juego
+389	Para optimizar la carga del servidor  Como la cuento no ha accedido al juego por un largo período de tiempo, fue bloqueada Por favor, póngase en contacto con el servicio de atención al cliente
+390	Esta contraseña electrónica está en uso
+391	La cuenta está bajo sospecha de entrada maliciosa, entrada prohibida en 10 minutos. Si no eres tú quien está intentando conectarse, por favor, entre en contacto con el servicio de atención al cliente
+392	Su cuenta ha sido bloqueada, por favor, espera un instante e intenta acceder a tu cuenta más tarde
+393	Ya has introducido la contraseña del código de seguridad errónea por tres veces consecutivas Para mantener tu cuenta segura, el sistema suspenderá tu cuenta temporalmente Puedes intentar acceder a tu cuenta en 10 minutos
+394	El billete ha expirado en el salto, error al acceder a la cuenta
+395	Fallo en la comprobación de las informaciones ID usadas en el salto, error al acceder a la cuenta
+396	Error en la comprobación de las informaciones ID del servidor en el santo, error al acceder a la cuenta
+397	Eres un usuario de registro rápido, las informaciones de la cuenta todavía son imperfectas. Hay graves riesgos de seguridad, por favor conectarse correctamente para autenticar  Intenta acceder de nuevo después de completar la información de la cuenta
+398	Restricción del nivel de propiedad
+399	Gold de la otra parte ha superado el límite máximo
+400	La otra parte no está conectado o no existe el personaje
+401	La otra parte ya es discípulo de un maestro
+402	Número de discípulos han alcanzado el límite máximo
+403	El sistema está ocupado, intente más tarde
+404	La otra parte lo agradece, pero rechaza tu invitación para aceptarte como discípulo
+405	El nivel de la otra parte no atiende a los requisitos
+406	Sólo es posible reclutar un discípulo por día
+407	Sin Aprendiz
+408	Sin Maestro
+409	Sin índice de patrimonio
+410	Las operaciones del maestro son demasiado frecuentes
+411	Las operaciones del discípulo son frecuentes
+412	Ya está registrado
+413	Declaración demasiado larga
+414	Cuando estés en multiservidor, no es permitido realizar operación de maestro y discípulo
+415	Falla en el nivel del maestro
+416	Falla en el nivel del discipulo
+417	Falla en el Poder de Lucha del maestro
+418	Ya una relación de maestro y discípulo
+419	Ya soy discípulo
+420	La otra parte ya es discípulo
+421	Indicación aún no registrada
+422	Maestro no puede excluir el personaje
+423	Falla de comunicación multiservidor
+424	Falla en la etapa de autenticidad multiservidor
+425	Tiempo para comprobación de indentidad multiservidor agotado
+426	Comprobación de identidad multiservidor no corresponde
+427	Multiservidor tiene algunos protocolos que no deben ser aceptados
+428	Tiempo agotado para datos multiservidor
+429	Falla al guardar datos multiservidor
+430	Número de personas en la tropa completo
+431	El jugador ya se ha juntado a la tropa
+432	La otra parte rechazó tu invitación para formación de un equipo
+433	Tropa inexistenete
+434	Capitán Desconectado
+435	Intentalo de nuevo, por favor.
+436	No concordar con la modificación en la distribución de la formación de equipos
+437	Votación en curso
+438	No tienes el derecho de hacer eso
+439	Modificación en la distribución de equipos
+440	Invitación para entrar en el equipo, sin respuesta de otra parte
+441	Solicitación para entrar en el equipo, sin respuesta de la otra parte
+442	Ninguna Zona de Instancia de la tropa actualmente
+443	La tropa tiene miembros que están el la Zona de Instancia
+444	La operación escogida por el personaje ha excedido el límite de tiempo
+445	Este nombre ya se utiliza
+446	Has alcanzado el número máximo de personajes
+447	Falla en la practica del Pet
+448	El jugador no es el capitán
+449	Práctica en curso...
+450	Cambio de status de la tropa
+451	Miembro del equipo no atiende a las condiciones iniciales
+452	Espacio del paquete del miembro del equipo insuficiente
+453	El uso del servicio ha excedido el límite de tiempo
+454	Status de miembro del equipo insuficiente
+455	Error de contraseña
+456	Es necesario introducir la contraseña original
+457	Con Timelock en status de bloqueo, no es posible proseguir con esa operación
+458	Falla al crear personaje, falla en el cumpleaños del personaje
+459	Falla al crear personaje, el largo del nombre del personaje no corresponde a los requisitos
+460	Falla al crear personaje, Nombre del personaje contiene caracteres no permitidos
+461	Has rellenado un código de invitación inválido
+462	El código de invitación de oro que has rellenado no puede ser usado en el servidor actual
+463	El código de invitación de oro que has rellenado no puede ser usado porque otro personaje de jugador no existe
+464	El código de la invitación de oro no puede ser usado para invitar otros personajes de la misma cuenta
+465	El código de la invitación que has rellenado ya está en uso
+466	No es posible entrar en el servicio de flujo reverso
+467	No es posible usar el código promocional de oro en el servicio de flujo reverso
+468	LINK - 您已经连续三次使用密保卡登陆失败，为了您的帐号安全，系统已将您的帐号暂时封停。您可以在10分钟后再次尝试登录。
+469	您已绑定电话密保，请致电010-5885-8566进行解锁后登录
+470	为了优化服务器负载，因该帐号长时间未登录游戏，已被封禁，请与客服联系
+471	账号存在恶意登录的嫌疑，10分钟内禁止登录，如果不是本人登录，请与客服联系。
+472	您已连续三次输入令牌密码错误，为了您的账号安全，系统已将您的账号暂时封停。您可以在10分钟后再次尝试登录。
+473	您是快速注册用户，账号信息尚不完善，存在严重安全隐患，请您及时登录完美通行证补填账号信息后再尝试登录。

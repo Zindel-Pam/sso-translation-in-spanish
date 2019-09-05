@@ -1,0 +1,4 @@
+0	¡Lo lograste!
+1	¡No fue esta vez!
+2	 pájaros
+3	¿No deseas participar de las actividades de ahora?

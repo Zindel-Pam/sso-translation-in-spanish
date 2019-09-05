@@ -1,0 +1,1753 @@
+0	^009933Cavaleiro da Esperança
+1	Compreenda o poder do Cosmo e se torne um Cavaleiro de Athena, guardião do amor e da justiça.
+2	^ffff00Ataque +20\rHP +200\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+3	Conclua a Quest Principal "Saga do Santuário", Cap I: "Lendas de uma Nova Era!" para obter o título
+4	^009933Herdeiro das Estrelas
+5	Cavaleiros que dedicam sua vidas e mortes ao Santuário e são herdeiros das Constelações que os protegem!
+6	^ffff00Defesa +50\rHP +600\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+7	Conclua a Quest Principal "Saga do Santuário", Cap II: "Cavaleiros do Amor e da Justiça!" para obter o título
+8	^009933Guerreiro Sob a Via Láctea
+9	Lute sob a Via Láctea, jovem!
+10	^ffff00Defesa +60\rHP +750\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+11	Conclua a Quest Principal "Saga do Santuário", Cap III: "Guerreiro sob a Via Láctea" para obter o título
+12	^009933Jovem Destinado
+13	Você é o predestinado!
+14	^ffff00Defesa +70\rHP +900\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+15	Conclua a Quest Principal "Saga do Santuário", Cap IV: "Os Cavaleiros da Deusa!" para obter o título
+16	^009933Benfeitor de Rozan
+17	Aquele que ajudou a Vila do Dragão Oculto a superar a crise.
+18	^ffff00Defesa +80\rHP +1000\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+19	Conclua a Quest Principal "Saga do Santuário", Cap V: "Homem que Conhece a Verdade!" para obter o título
+20	^009933Abençoado pelo Dragão
+21	Aquele que salvou Rozan e obteve a bênção do Dragão.
+22	^ffff00Defesa +90\rHP +1200\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+23	Conclua a Quest Principal "Saga do Santuário", Cap VI: "Fé Milenar Intacta!" para obter o título
+24	^009933Testemunha de 13 Anos Atrás
+25	Aquele que é favorecido pelo destino conheceu a verdade sob orientação da Deusa do Destino.
+26	^ffff00Defesa +100\rHP +1350\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+27	Conclua a Quest Principal "Saga do Santuário", Cap VII: "O Cavaleiro de Ouro de Sagitário!" para obter o título
+28	^009933Pecado e Castigo de Deus
+29	Viu o pecado e castigo na Prisão de Deus.
+30	^ffff00Defesa +120\rHP +1500\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+31	Conclua a Quest Principal "Saga do Santuário", Cap VIII: "O Domínio Sangrento dos Sete Mares!" para obter o título
+32	^009933Canção da Batalha
+33	Lutou contra os Cavaleiros Negros na Ilha da Rainha da Morte e acabou com as ambições deles.
+34	^ffff00Defesa +135\rHP +1650\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+35	Conclua a Quest Principal "Saga do Santuário", Cap IX: "A Ambição de Dominar o Mundo!" para obter o título
+36	^009933Regressado do Inferno
+37	Aquele que encontrou seu fim na Ilha da Rainha da Morte e retornou do Inferno.
+38	^ffff00Defesa +150\rHP +1800\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+39	Conclua a Quest Principal "Saga do Santuário", Cap X: "As Chamas da Ilha da Rainha da Morte!" para obter o título
+40	^009933Andarilho do Campo de Gelo
+41	Aquele que se tornou um guardião da Sibéria Oriental.
+42	^ffff00Defesa +175\rHP +1950\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+43	Conclua a Quest Principal "Saga de Poseidon", Cap I: "O Poder de Poseidon!" para obter o título
+44	^009933Testemunha do Crepúsculo
+45	No fim dos tempos, previso pelas lendas nórdicas, lute pela Terra, pela justiça e pelo amor.
+46	^ffff00Defesa +200\rHP +2100\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+47	Conclua a Quest Principal "Saga de Poseidon", Cap II: "A Glória do Extremo Norte!" para obter o título
+48	^009933Bravura das Profundezas
+49	Aquele que desafiou corajosamente todos os Marinas em Atlântida.
+50	^ffff00Defesa +225\rHP +2250\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+51	Conclua a Quest Principal "Saga de Poseidon", Cap III: "A Ira de Poseidon!" para obter o título
+52	^009933Exterminador de Marinas
+53	A fim de salvar a Deusa, derrotou os Marinas e provou a sua poderosa força e fé inabalável.
+54	^ffff00Defesa +250\rHP +2400\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+55	Conclua a Quest Principal "Saga de Poseidon", Cap IV: "O Azul da Fortaleza Submarina!" para obter o título
+56	^009933Bênção de Andrômeda
+57	Testemunhou o sacrifício de Andrômeda para proteger a sua cidade natal e, consequentemente, obteve sua bênção.
+58	^ffff00Defesa +275\rHP +2550\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+59	Conclua a Quest Principal "Saga de Hades: Cruzada ao Submundo", Cap I: "Destruidor Dourado!" para obter o título
+60	^009933Selador do Inferno
+61	Acabou com a conspiração do Submundo no Vulcão Tártaro, considerado o Portal do Inferno, selando-o.
+62	^ffff00Defesa +300\rHP +2700\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+63	Conclua a Quest Principal "Saga de Hades: Cruzada ao Submundo", Cap II: "O Prólogo da Grande Guerra Santa!" para obter o título
+64	^009933Hino de Sangue e Lágrimas
+65	Chocado e entusiasmado pela determinação do Cavaleiro ressuscitado.
+66	^ffff00Defesa +325\rHP +2850\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+67	Conclua a Quest Principal "Saga de Hades: Cruzada ao Submundo", Cap III: "A Traição dos Cavaleiros de Ouro!" para obter o título
+68	^009933A Pessoa Mais Próxima de Deus
+69	Através das lutas, ultrapasse o Sétimo Sentido, compreendendo o Oitavo. Torne-se a pessoa mais próxima de Deus.
+70	^ffff00Defesa +350\rHP +3000\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+71	Conclua a Quest Principal "Saga de Hades: Cruzada ao Submundo", Cap IV: "Portal que leva ao Submundo!" para obter o título
+72	^009933Lenda das Doze Casas de Ouro
+73	Passou pelas Doze Casas guardadas pelos Cavaleiros de Ouro e resgatou a Deusa.
+74	^ffff00Ataque +1%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+75	Conclua a Quest Principal "Saga do Santuário", Cap Final: "As Doze Casas de Ouro" para obter o título
+76	^009933Aventureiro do Oriente
+77	Seja um aventureiro cheio de esperança e brilho no Coliseu Graad.
+78	^ffff00Ataque +70\rHP +900\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+79	Conclua 30 Quests secundárias no Coliseu Graad para obter o título
+80	^009933Dragão de Rozan
+81	Aquele de coração justo protege Rozan como o Dragão.
+82	^ffff00Ataque +90\rHP +1200\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+83	Conclua 30 Quests secundárias em Rozan para obter o título
+84	^009933Aquele Que Foi Esquecido
+85	Desperte as pessoas que estavam perdidas durante anos.
+86	^ffff00Ataque +120\rHP +1500\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+87	Conclua 30 Quests secundárias na Estrada Esquecida para obter o título
+88	^009933Fênix das Chamas
+89	Incinere o mundo imundo, você é a Fênix das Chamas!
+90	^ffff00Ataque +150\rHP +1800\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+91	Conclua 30 Quests secundárias na Ilha da Rainha da Morte para obter o título
+92	^009933Coração de Gelo
+93	Dissolveu corações congelados da Terra como a primavera.
+94	^ffff00Ataque +180\rHP +2100\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+95	Conclua 30 Quests secundárias na Sibéria Oriental para obter o título
+96	^009933Filho do Mar
+97	Entrou no território de Poseidon e testemunhou o segredo do mar.
+98	^ffff00Ataque +210\rHP +2400\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+99	Conclua 30 Quests secundárias em Atlântida para obter o título
+100	^009933Herdeiro da Constelação
+101	Vivenciou a vida de Andrômeda, brilhante e cheia de sacrifícios.
+102	^ffff00Ataque +240\rHP +2700\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+103	Conclua 30 Quests secundárias na Ilha de Andrômeda para obter o título
+104	^009933A Lenda do Caçador Noturno
+105	Tornou-se a lenda do Castelo de Hades.
+106	^ffff00Ataque +270\rHP +3000\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+107	Conclua 30 Quests secundárias no Castelo de Hades para obter o título
+108	^009933Sobrevivente do Aqueronte
+109	Quantas almas corajosas afundaram no Aqueronte? Apenas um verdadeiro guerreiro pode sobreviver a este rio de sangue.
+110	^ffff00Defesa +375\rHP +3150\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+111	Conclua a Quest Principal "Saga de Hades: Inferno", Cap I: "Raios Solares do Inferno!" para obter o título
+112	^009933Não Lamente Jamais
+113	Chegou enfim às profundezas do Submundo; não pode desistir, mesmo em frente ao Muro das Lamentações. Pelo amor e paz na Terra!
+114	^ffff00Defesa +400\rHP +3300\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+115	Conclua a Quest Principal "Saga de Hades: Inferno", Cap II: "Cavaleiros de Ouro!" para obter o título
+116	^009933Mundo Cheio de Esperança
+117	Não recuou mesmo diante de um inimigo poderoso, protegendo a Terra com a própria vida. Por fim, o Cosmo de amor e de justiça acabou com as ambições de Hades e o mundo voltou a brilhar.
+118	^ffff00Defesa +425\rHP +3450\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+119	Conclua a Quest Principal "Saga de Hades: Inferno", Cap Elísios, "Final do Capítulo Paraíso! Retorno ao mundo esperançoso!" para obter o título
+120	^009933Poder de Compreensão
+121	Compreendeu algumas das histórias do mundo.
+122	^ffff00Penetração contra resistência à todos os elementos +1\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+123	Acumule 40 Pontos de Ilustração para obter o título
+124	^009933Super Poder de Compreensão
+125	Compreendeu várias histórias do mundo.
+126	^ffff00Penetração contra resistência à todos os elementos +2\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+127	Acumule 100 Pontos de Ilustração para obter o título
+128	^0099ccMega Poder de Compreensão
+129	Compreendeu muitas histórias do mundo.
+130	^ffff00Penetração contra resistência à todos os elementos +3\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+131	Acumule 400 Pontos de Ilustração para obter o título
+132	^0099ccSr. Sabe Tudo
+133	Você sabe tudo!
+134	^ffff00Penetração contra resistência à todos os elementos +4\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+135	Acumule 1000 Pontos de Ilustração para obter o título
+136	^009933Nome nas Histórias
+137	Suas conquistas serão contadas como uma história.
+138	^ffff00Evasão +30\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+139	Acumule 120 Pontos de Conquistas para obter o título
+140	^009933Nome na Lenda
+141	Suas conquistas serão transmitidas como uma lenda.
+142	^ffff00Evasão +60\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+143	Acumule 350 Pontos de Conquistas para obter o título
+144	^0099ccNome na Epopeia
+145	Suas conquistas são suficientes para serem inscritas na Epopeia.
+146	^ffff00Evasão +90\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+147	Acumule 600 Pontos de Conquistas para obter o título
+148	^0099ccNome na Mitologia
+149	Suas conquistas podem se tornar um mito e serão eternas como as estrelas.
+150	^ffff00Evasão +120^\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+151	Acumule 900 Pontos de Conquistas para obter o título
+152	^0099ccPelo Amor e Justiça!
+153	Manteve-se firme à sua missão do amor e da justiça, desafiando o mal.
+154	^ffff00HP +300\rEvasão +15\r^NDepois de obter o título, o ^ffff00efeito é permanente
+155	Conclua a coleção I do título "Pelo Amor e Justiça!" para obter o título
+156	^0099ccProtetor da Paz
+157	Participou de batalhas ferozes só para proteger a paz da Terra.
+158	Conclua a coleção II do título "Protetor da Paz" para obter o título
+159	^0099ccHerdeiro do Destino
+160	Apesar das dificuldades, optou por ficar ao lado de Athena e lutar contra o mal.
+161	Conclua a coleção III do título "Herdeiro do Destino" para obter o título
+162	^0099ccFé Inabalável
+163	Cavaleiro que, mesmo depois de uma longa batalha, manteve a fé inabalada.
+164	Conclua a coleção IV do título "Fé Inabalável" para obter o título
+165	^0099ccTeste Divino
+166	Foi submetido a inúmeros testes, tornando-se um dos mais fortes Cavaleiros.
+167	Conclua a coleção V do título "Teste Divino" para obter o título
+168	^0099ccPoder Inigualável
+169	Seu poder avançou rapidamente e se tornou um dos mais poderosos Cavaleiros.
+170	Conclua a coleção VI do título "Poder Inigualável" para obter o título
+171	^0099ccCavaleiro Fantástico
+172	Fantástico Cavaleiro que luta pela Terra.
+173	Conclua a coleção VII do título "Cavaleiro Fantástico" para obter o título
+174	^0099ccCavaleiro de Athena
+175	Cavaleiro que luta firmemente pela Deusa Athena.
+176	Conclua a coleção VIII do título "Cavaleiro de Athena" para obter o título
+177	^0099ccCavaleiro Lendário
+178	O seu nome virou uma lenda na Terra.
+179	Conclua a coleção IX do título "Cavaleiro Lendário" para obter o título
+180	^0099ccGuardião do Santuário
+181	Em reconhecimento às suas notáveis contribuições ao Santuário, a Deusa lhe concede esse título.
+182	^ffff00Todas as Resistências +1\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+183	Atinja Reputação do Santuário Nível Zelo para obter o título
+184	^0099ccGuardião do Coliseu Graad
+185	Em reconhecimento às suas notáveis contribuições ao Coliseu Graad, a Deusa lhe concede esse título.
+186	^ffff00Todas as Resistências +2\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+187	Atinja Reputação do Coliseu Graad Nível Zelo para obter o título
+188	^0099ccGuardião de Rozan
+189	Em reconhecimento às suas notáveis contribuições ao Rozan, a Deusa lhe concede esse título.
+190	^ffff00Todas as Resistências +3\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+191	Atinja Reputação de Rozan Nível Zelo para obter o título
+192	^0099ccGuardião da Estrada Esquecida
+193	Em reconhecimento às suas notáveis contribuições à Estrada Esquecida, a Deusa lhe concede esse título.
+194	^ffff00Todas as Resistências +4\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+195	Atinja Reputação da Estrada Esquecida Nível Zelo para obter o título
+196	^0099ccGuardião da Ilha da Rainha da Morte
+197	Em reconhecimento às suas notáveis contribuições à Ilha da Rainha da Morte, a Deusa lhe concede esse título.
+198	^ffff00Todas as Resistências +5\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+199	Atinja Reputação da Ilha da Rainha da Morte Nível Zelo para obter o título
+200	^0099ccGuardião da Sibéria Oriental
+201	Em reconhecimento às suas notáveis contribuições à Sibéria Oriental, a Deusa lhe concede esse título.
+202	^ffff00Todas as Resistências +6\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+203	Atinja Reputação da Sibéria Oriental Nível Zelo para obter o título
+204	^0099ccGuardião de Atlântida
+205	Em reconhecimento às suas notáveis contribuições à Atlântida, a Deusa lhe concede esse título.
+206	^ffff00Todas as Resistências +7\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+207	Atinja Reputação de Atlântida Nível Zelo para obter o título
+208	^0099ccGuardião da Ilha de Andrômeda
+209	Em reconhecimento às suas notáveis contribuições à Ilha de Andrômeda, a Deusa lhe concede esse título.
+210	^ffff00Todas as Resistências +8\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+211	Atinja Reputação da Ilha de Andrômeda Nível Zelo para obter o título
+212	^0099ccGuardião do Castelo de Hades
+213	Em reconhecimento às suas notáveis contribuições ao Castelo de Hades, a Deusa lhe concede esse título.
+214	^ffff00Todas as Resistências +9\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+215	Atinja Reputação do Castelo de Hades Nível Zelo para obter o título
+216	^0099ccConquistador do Inferno do Submundo
+217	Em reconhecimento às suas notáveis contribuições ao Inferno do Submundo, a Deusa lhe concede esse título.
+218	^ffff00Todas as Resistências +10\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+219	Atinja Reputação do Inferno do Submundo Nível Zelo para obter o título
+220	^0099ccExterminador do Eclipse Eterno
+221	Em reconhecimento às suas notáveis contribuições aos Campos Elísios, a Deusa lhe concede esse título.
+222	^ffff00Todas as Resistências +11 \r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+223	Atinja Reputação dos Campos Elísios Nível Zelo para obter o título
+224	^009933Amigo de Seiya
+225	Tornou-se amigo de Seiya ao longo do tempo que lutaram juntos.
+226	^ffff00Ataque de Vento +120\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+227	Atinja Reputação Nível Amigo com Seiya para obter o título
+228	^0099ccCompanheiro de Seiya
+229	Ganhou a confiança de Seiya ao longo do tempo que lutaram juntos.
+230	^ffff00Ataque de Vento +240\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+231	Atinja Reputação Nível Estima com Seiya para obter o título
+232	^009933Amigo de Hyoga
+233	Tornou-se amigo de Hyoga ao longo do tempo que lutaram juntos.
+234	^ffff00Ataque de Água +120\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+235	Atinja Reputação Nível Amigo com Hyoga para obter o título
+236	^0099ccCompanheiro de Hyoga
+237	Ganhou a confiança de Hyoga ao longo do tempo que lutaram juntos.
+238	^ffff00Ataque de Água +240\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+239	Atinja Reputação Nível Estima com Hyoga para obter o título
+240	^009933Amigo de Shiryu
+241	Tornou-se amigo de Shiryu ao longo do tempo que lutaram juntos.
+242	^ffff00Ataque de Terra +120\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+243	Atinja Reputação Nível Amigo com Shiryu para obter o título
+244	^0099ccCompanheiro de Shiryu
+245	Ganhou a confiança de Shiryu ao longo do tempo que lutaram juntos.
+246	^ffff00Ataque de Terra +240\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+247	Atinja Reputação Nível Estima com Shiryu para obter o título
+248	^009933Amigo de Shun
+249	Tornou-se amigo de Shun ao longo do tempo que lutaram juntos.
+250	^ffff00Ataque de Trovão +120\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+251	Atinja Reputação Nível Amigo com Shun para obter o título
+252	^0099ccCompanheiro de Shun
+253	Ganhou a confiança de Shun ao longo do tempo que lutaram juntos.
+254	^ffff00Ataque de Trovão +240\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+255	Atinja Reputação Nível Estima com Shun para obter o título
+256	^009933Amigo de Ikki
+257	Tornou-se amigo de Ikki ao longo do tempo que lutaram juntos.
+258	^ffff00Ataque de Fogo +120\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+259	Atinja Reputação Nível Amigo com Ikki para obter o título
+260	^0099ccCompanheiro de Ikki
+261	Ganhou a confiança de Ikki ao longo do tempo que lutaram juntos.
+262	^ffff00Ataque de Fogo +240\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+263	Atinja Reputação Nível Estima com Ikki para obter o título
+264	^009933Amigo de Marin
+265	Tornou-se amigo de Marin ao longo do tempo que lutaram juntos.
+266	^ffff00Defesa +200\rResistência à Água +1\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+267	Atinja Reputação Nível Amigo com Marin para obter o título
+268	^0099ccCompanheiro de Marin
+269	Ganhou a confiança de Marin ao longo do tempo que lutaram juntos.
+270	^ffff00Defesa +400\rResistência à Água +2\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+271	Atinja Reputação Nível Estima com Marin para obter o título
+272	^009933Amigo de Shina
+273	Tornou-se amigo de Shina ao longo do tempo que lutaram juntos.
+274	^ffff00Ataque +150\rResistência ao Fogo +1\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+275	Atinja Reputação Nível Amigo com Shina para obter o título
+276	^0099ccCompanheiro de Shina
+277	Ganhou a confiança de Shina ao longo do tempo que lutaram juntos.
+278	^ffff00Ataque +300\rResistência ao Fogo +1\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+279	Atinja Reputação Nível Estima com Shina para obter o título
+280	^009933Amigo de Mu
+281	Tornou-se amigo de Mu ao longo do tempo que lutaram juntos.
+282	^ffff00Resistência contra todos os status anormais +1\rEfeito de Cura +2%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+283	Atinja Reputação Nível Amigo com Mu para obter o título
+284	^0099ccCompanheiro de Mu
+285	Ganhou a confiança de Mu ao longo do tempo que lutaram juntos.
+286	^ffff00Resistência contra todos os status anormais +2\rEfeito de Cura +5%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+287	Atinja Reputação Nível Estima com Mu para obter o título
+288	^009933Amigo de Aldebaran
+289	Tornou-se amigo de Aldebaran ao longo do tempo que lutaram juntos.
+290	^ffff00Resistência contra todos os status anormais +1\rDefesa +2%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+291	Atinja Reputação Nível Amigo com Aldebaran para obter o título
+292	^0099ccCompanheiro de Aldebaran
+293	Ganhou a confiança de Aldebaran ao longo do tempo que lutaram juntos.
+294	^ffff00Resistência contra todos os status anormais +2\rDefesa + 4%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+295	Atinja Reputação Nível Estima com Aldebaran para obter o título
+296	^009933Amigo de Saga
+297	Tornou-se amigo de Saga ao longo do tempo que lutaram juntos.
+298	^ffff00Ignora resistência contra todos os status anormais +1\rAtaque +1%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+299	Atinja Reputação Nível Amigo com Saga para obter o título
+300	^0099ccCompanheiro de Saga
+301	Ganhou a confiança de Saga ao longo do tempo que lutaram juntos.
+302	^ffff00Ignora resistência contra todos os status anormais +2\rAtaque +2%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+303	Atinja Reputação Nível Estima com Saga para obter o título
+304	^009933Amigo de Máscara da Morte
+305	Tornou-se amigo de Máscara da Morte ao longo do tempo que lutaram juntos.
+306	^ffff00Ignora resistência contra todos os status anormais +1\rResistência à prejuízo +5\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+307	Atinja Reputação Nível Amigo com Máscara da Morte para obter o título
+308	^0099ccCompanheiro de Máscara da Morte
+309	Ganhou a confiança de Máscara da Morte ao longo do tempo que lutaram juntos.
+310	^ffff00Ignora resistência contra todos os status anormais +2\rResistência à prejuízo +10\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+311	Atinja Reputação Nível Estima com Máscara da Morte para obter o título
+312	^009933Amigo de Aioria
+313	Tornou-se amigo de Aioria ao longo do tempo que lutaram juntos.
+314	^ffff00Resistência contra todos os status anormais +1\rAtaque Crítico 1%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+315	Atinja Reputação Nível Amigo com Aioria para obter o título
+316	^0099ccCompanheiro de Aioria
+317	Ganhou a confiança de Aioria ao longo do tempo que lutaram juntos.
+318	^ffff00Resistência contra todos os status anormais +2\rAtaque Crítico 2%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+319	Atinja Reputação Nível Estima com Aioria para obter o título
+320	^009933Amigo de Shaka
+321	Tornou-se amigo de Shaka ao longo do tempo que lutaram juntos.
+322	^ffff00Resistência contra todos os status anormais +2\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+323	Atinja Reputação Nível Amigo com Shaka para obter o título
+324	^0099ccCompanheiro de Shaka
+325	Ganhou a confiança de Shaka ao longo do tempo que lutaram juntos.
+326	^ffff00Resistência contra todos os status anormais +4\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+327	Atinja Reputação Nível Estima com Shaka para obter o título
+328	^009933Amigo de Miro
+329	Tornou-se amigo de Miro ao longo do tempo que lutaram juntos.
+330	^ffff00Ignora resistência contra todos os status anormais +1\rResistência à maldição +5\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+331	Atinja Reputação Nível Amigo com Miro para obter o título
+332	^0099ccCompanheiro de Miro
+333	Ganhou a confiança de Miro ao longo do tempo que lutaram juntos.
+334	^ffff00Ignora resistência contra todos os status anormais +2\rResistência à maldição +10\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+335	Atinja Reputação Nível Estima com Miro para obter o título
+336	^009933Amigo de Dohko
+337	Tornou-se amigo de Dohko ao longo do tempo que lutaram juntos.
+338	^ffff00Resistência contra todos os status anormais +1\rResistência à crítico 2%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+339	Atinja Reputação Nível Amigo com Dohko para obter o título
+340	^0099ccCompanheiro de Dohko
+341	Ganhou a confiança de Dohko ao longo do tempo que lutaram juntos.
+342	^ffff00Resistência contra todos os status anormais +2\rResistência à crítico 4%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+343	Atinja Reputação Nível Estima com Dohko para obter o título
+344	^009933Amigo de Aioros
+345	Tornou-se amigo de Aioros ao longo do tempo que lutaram juntos.
+346	^ffff00Resistência contra todos os status anormais +1\rHP +2%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+347	Atinja Reputação Nível Amigo com Aioros para obter o título
+348	^0099ccCompanheiro de Aioros
+349	Ganhou a confiança de Aioros ao longo do tempo que lutaram juntos.
+350	^ffff00Resistência contra todos os status anormais +2\rHP +4%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+351	Atinja Reputação Nível Estima com Aioros para obter o título
+352	^009933Amigo de Shura
+353	Tornou-se amigo de Shura ao longo do tempo que lutaram juntos.
+354	^ffff00Ignora resistência contra todos os status anormais +1\rResistência contra todos os status anormais +1\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+355	Atinja Reputação Nível Amigo com Shura para obter o título
+356	^0099ccCompanheiro de Shura
+357	Ganhou a confiança de Shura ao longo do tempo que lutaram juntos.
+358	^ffff00Ignora resistência contra todos os status anormais +2\rResistência contra todos os status anormais +2\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+359	Atinja Reputação Nível Estima com Shura para obter o título
+360	^009933Amigo de Camus
+361	Tornou-se amigo de Camus ao longo do tempo que lutaram juntos.
+362	^ffff00Ignora resistência contra todos os status anormais +2\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+363	Atinja Reputação Nível Amigo com Camus para obter o título
+364	^0099ccCompanheiro de Camus
+365	Ganhou a confiança de Camus ao longo do tempo que lutaram juntos.
+366	^ffff00Ignora resistência contra todos os status anormais +4\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+367	Atinja Reputação Nível Estima com Camus para obter o título
+368	^009933Amigo de Afrodite
+369	Tornou-se amigo de Afrodite ao longo do tempo que lutaram juntos.
+370	^ffff00Ignora resistência contra todos os status anormais +1\rResistência à sangramento +5\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+371	Atinja Reputação Nível Amigo com Afrodite para obter o título
+372	^0099ccCompanheiro de Afrodite
+373	Ganhou a confiança de Afrodite ao longo do tempo que lutaram juntos.
+374	^ffff00Ignora resistência contra todos os status anormais +2\rResistência à sangramento +10\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+375	Atinja Reputação Nível Estima com Afrodite para obter o título
+376	^009933Sou Trapézio Voador
+377	Você vai voar mais alto e mais longe!
+378	^ffff00Ataque de Vento +20\rEvasão +10\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+379	Conclua uma das Quests: "Obra-prima mais alta", "Feito Divino mais alto" ou "Feito mais alto" no Santuário para obter o título
+380	^009933Mestre das Doze Casas
+381	Você é o Mestre dos jogos das Doze Casas!
+382	^ffff00Ataque +40\rDefesa +40\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+383	Conclua a Quest "Doze Casas" no Santuário para obter o título
+384	^009933Cambista
+385	Com uma técnica dessas, pode-se viver bem.
+386	^ffff00Ataque +80\rDefesa +80\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+387	Conclua a Quest "Guerra Galáctica" no Coliseu Graad para obter o título
+388	^009933Maior! Mais Veloz! Mais Forte!
+389	Você treinou junto com Nix, praticante da Vila Xintoísta, e passou no teste.
+390	^ffff00Precisão +20\rEvasão +20\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+391	Conclua a série de Quests "Praticante" no Coliseu Graad para obter o título
+392	^009933Mestre Yin Yang
+393	Você fez uma boa comunicação com os espíritos.
+394	^ffff00Ataque de Trovão +50\rEvasão +20\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+395	Conclua a Quest "Boneca Fantasma da Joanna" no Coliseu Graad para obter o título
+396	^009933Rápido Como o Vento
+397	Pelos Deuses, você corre mais rápido que Kiki!
+398	^ffff00Precisão +25\rEvasão +25\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+399	Conclua as série de Quests "Rápido como o vento" em Rozan para obter o título
+400	^009933Quem Sou Eu?
+401	Sua visão e julgamento vão além dos de uma pessoa normal.
+402	^ffff00Ataque de Terra +60\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+403	Conclua a série de Quests "Adivinha quem eu sou" em Rozan para obter o título
+404	^009933Bambu Louco
+405	Bambu louco floresce por quem?
+406	^ffff00Todas as Resistências +1\rPrecisão +20\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+407	Conclua a série de Quests "Florescer dos Bambus" em Rozan para obter o título
+408	^009933Esferas do Dragão
+409	Você deve ser o fanático das Sete Esferas do Dragão.
+410	^ffff00Defesa +100\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+411	Conclua a série de Quests "O Mistério das Esferas do Dragão" em Rozan para obter o título
+412	^009933Caçador de Sirene
+413	Você protegeu a Vila Esquecida derrotando Sirene.
+414	^ffff00Ataque de Trovão +40\rPrecisão +30\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+415	Conclua a Quest “O grande monstro marinho" na Estrada Esquecida para obter o título
+416	^009933Espaço do Sonho
+417	Encontre seu verdadeiro eu no Sonho Sem Fim, ultrapassando seus limites.
+418	^ffff00Ataque de Fogo +50\rEvasão +35\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+419	Conclua a Quest "Espaço do Sonho" na Ilha da Rainha da Morte para obter o título
+420	^6699ffA Um Passo de Distância
+421	Não importa se é "recipiente", "corrente" ou "prisão", todos são provas de existência.
+422	^ffff00Ataque de Água +50\rPrecisão +35\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+423	Conclua a Quest “Espírito da Armadura Vazia" na Ilusão de Jamiel das Doze Casas para obter o título
+424	Sirene
+425	Nenhum
+426	^a800ffCampeão
+427	Reconhecimento pelo Ranking de Nível Pessoal
+428	Atingiu a 1ª colocação no ranking de nível pessoal da semana passada
+429	^a800ffSegundo Lugar
+430	Atingiu a 2ª-3ª colocação no ranking de nível pessoal da semana passada
+431	^a800ffTerceiro Lugar
+432	Atingiu a 4ª-10ª colocação no ranking de nível pessoal da semana passada
+433	^a800ffRico do Mundo
+434	Reconhecimento pelo Ranking de Gold Pessoal
+435	Atingiu a 1ª colocação no ranking de Gold pessoal da semana passada
+436	^a800ffRico do País
+437	Atingiu a 2ª-3ª colocação no ranking de Gold pessoal da semana passada
+438	^a800ffRico da Região
+439	Atingiu a 4ª-10ª colocação no ranking de Gold pessoal da semana passada
+440	^a800ffAlto Grau de Perfeição
+441	Reconhecimento pelo Ranking de Pontos de Conquista Pessoal
+442	Atingiu a 1ª colocação no ranking de Pontos de Conquista Pessoal da semana passada
+443	^a800ffAlto Grau de Excelência
+444	Atingiu a 2ª-3ª colocação no ranking de Pontos de Conquista Pessoal da semana passada
+445	^a800ffAlto Grau de Sucesso
+446	Atingiu a 4ª-10ª colocação no ranking de Pontos de Conquista Pessoal da semana passada
+447	^a800ffDeus da Guerra
+448	Reconhecimento pelo Ranking de Resultado do Desafio Pessoal da Zona de Instância
+449	Atingiu a 1ª colocação no ranking de Resultado do Desafio Pessoal da Zona de Instância da semana passada
+450	^a800ffRei da Guerra
+451	Atingiu a 2ª-3ª colocação no ranking de Resultado do Desafio Pessoal da Zona de Instância da semana passada
+452	^a800ffSenhor da Guerra
+453	Atingiu a 4ª-10ª colocação no ranking de Resultado do Desafio Pessoal da Zona de Instância da semana passada
+454	^a800ffAtitude de Imperador
+455	Reconhecimento pelo Ranking de Power Individual
+456	^ff0000Obtenha a chance de liderar o esquadrão ao entrar na zona do BOSS multiservidor, diariamente
+457	Atingiu a 1ª colocação no ranking de Power Individual da semana passada
+458	^a800ffAtitude de Tirano
+459	Atingiu a 2ª-3ª colocação no ranking de Power Individual da semana passada
+460	^a800ffAtitude de Príncipe
+461	Atingiu a 4ª-20ª colocação no ranking de Power Individual na semana passada
+462	^a800ffCampo Divino
+463	Reconhecimento pelo ranking de Cosmo Individual
+464	Atingiu a 1ª colocação no ranking de Cosmo Individual da semana passada
+465	^a800ffCoração do Cosmo
+466	Atingiu a 2ª-3ª colocação no ranking de Cosmo Individual da semana passada
+467	^a800ffArayashiki
+468	Atingiu a 4ª-10ª colocação no ranking de Cosmo Individual da semana passada
+469	^a800ffArmadura do Deus
+470	Reconhecimento pelo ranking de Power da Armadura Individual
+471	Atingiu a 1ª colocação no ranking de Power da Armadura Individual da semana passada
+472	^a800ffArmadura do Demônio
+473	Atingiu a 2ª-3ª colocação no ranking de Power da Armadura Individual da semana passada
+474	^a800ffArmadura do Herói
+475	Atingiu a 4ª-10ª colocação no ranking de Power da Armadura Individual da semana passada
+476	^a800ffPlaca Simbólica do Deus
+477	Reconhecimento pelo ranking de Power do Tesouro Individual
+478	Atingiu a 1ª colocação no ranking de Power do Tesouro Individual da semana passada
+479	^a800ffPlaca Simbólica do Demônio
+480	Atingiu a 2ª-3ª colocação no ranking de Power do Tesouro Individual da semana passada
+481	^a800ffPlaca Simbólica do Herói
+482	Atingiu a 4ª-10ª colocação no ranking de Power do Tesouro Individual da semana passada
+483	^a800ffPacto do Deus
+484	Reconhecimento pelo ranking de Power do Equipamento Individual
+485	Atingiu a 1ª colocação no ranking de Power do Equipamento Individual da semana passada
+486	^a800ffPacto do Demônio
+487	Atingiu a 2ª-3ª colocação no ranking de Power do Equipamento Individual da semana passada
+488	^a800ffPacto do Herói
+489	Atingiu a 4ª-10ª colocação no ranking de Power do Equipamento Individual da semana passada
+490	^a800ffPapa
+491	Reconhecimento pelo ranking de Grau de Atividade Individual
+492	^a800ffPresbítero
+493	Atingiu a 2ª-10ª colocação no ranking de Grau de Atividade Individual da semana passada
+494	^a800ffSacerdote
+495	Atingiu a 11ª-100ª colocação no ranking de Grau de Atividade Individual da semana passada
+496	^a800ffSeguidor
+497	Atingiu a 101ª-200ª colocação no ranking de Grau de Atividade Individual da semana passada
+498	^a800ffMedalha Divino do Exército Épico
+499	O seu Exército obteve a primeira colocação no ranking do Grau de Atividade da semana passada!\rCom esse título, o Marechal do Exército pode receber prêmios generosos com o Administrador da Base! Além disso, pode invocar a Sacerdotisa da Deusa para recompensar os membros do Exército! (O período para a retirada do prêmio é da 0h desta terça até às 23h de domingo. A Sacerdotisa da Deusa permanecerá 12h)
+500	Primeira colocação no Ranking do Grau de Atividade do Exército da semana passada
+501	^a800ffMedalha do Exército Lendário
+502	O seu Exército obteve a segunda colocação no ranking do Grau de Atividade da semana passada!\rCom esse título, o Marechal de Exército pode receber prêmios generosos com o Administrador da Base!  Além disso, pode invocar a Sacerdotisa da Deusa para recompensar os membros do Exército! (O período para a retirada do prêmio é da 0h desta terça até às 23h de domingo. A Sacerdotisa da Deusa permanecerá 12h)
+503	Segunda colocação no Ranking do Grau de Atividade do Exército da semana passada
+504	^a800ffMedalha do Exército Supremo
+505	O seu Exército obteve a terceira colocação no ranking do Grau de Atividade da semana passada!\rCom esse título, o Marechal de Exército pode receber prêmios generosos com o Administrador da Base! Além disso, pode invocar a Sacerdotisa da Deusa para recompensar os membros do Exército! (O período para a retirada do prêmio é da 0h desta terça até às 23h de domingo. A Sacerdotisa da Deusa permanecerá 12h)
+506	Terceira colocação no Ranking do Grau de Atividade do Exército da semana passada
+507	^a800ffMedalha do Exército Magnífico
+508	O seu Exército obteve uma boa colocação no ranking do Grau de Atividade da semana passada!\rCom esse título, o Marechal de Exército pode receber prêmios generosos com o Administrador da Base! Além disso, pode invocar a Sacerdotisa da Deusa para recompensar os membros do Exército! (O período para a retirada do prêmio é da 0h desta terça até às 23h de domingo. A Sacerdotisa da Deusa permanecerá 12h)
+509	4ª até 10ª colocação no Ranking do Grau de Atividade do Exército da semana passada
+510	^a800ffMedalha do Exército Glorioso
+511	11ª até 20ª colocação no Ranking do Grau de Atividade do Exército da semana passada
+512	^a800ffMedalha do Exército Resplandescente
+513	21ª até 30ª colocação no Ranking do Grau de Atividade do Exército da semana passada
+514	^a800ffMedalha do Exército Brilhante
+515	31ª até 40ª colocação no Ranking do Grau de Atividade do Exército da semana passada
+516	^a800ffMedalha do Exército Encorajador
+517	41ª até 50ª colocação no Ranking do Grau de Atividade do Exército da semana passada
+518	^a800ffPioneiro de Prata
+519	Aquele que derrotou o Espírito Ressentido de Poseidon e iniciou a Era de Prata da Guerra Santa.
+520	No Evento Mundial——participou da Era de Contra-ataque de Poseidon, derrotou o Espírito Ressentido de Poseidon e iniciou a Era de Prata da Guerra Santa
+521	^a800ffPioneiro de Ouro
+522	Aquele que derrotou a Ilusão de Deus do Sono e iniciou a Era de Ouro da Guerra Santa.
+523	No Evento Mundial——participou da Era do Colapso da Torre da Estrela Demoníaca, derrotou a Ilusão de Deus do Sono e iniciou a Era de Ouro da Guerra Santa.
+524	^a800ffCavaleiro Despertado do Teste Beta
+525	Lute pela Deusa! Lute pela paz da Terra!
+526	Obtido através do Teste de Prata.
+527	^a800ffBrilho da Noite Eterna
+528	O primeiro a derrotar a Imperatriz do Submundo, Perséfone que deu início à Era da Grande Noite Eterna!
+529	No Evento Mundial——Terror! Eclipse Solar Eterno, participe do golpe final na Imperatriz do Submundo, Perséfone, e permita que o servidor avance na Era da Noite Eterna para obter o título
+530	^a800ffPioneiro no Assassinato de Deuses
+531	O primeiro a derrotar a Determinação do Imperador do Submundo e que deu início à Abertura do Grande Assassinato de Deuses!
+532	No Evento Mundial——Ataque Surpresa! Portões do Submundo, participou do golpe final na Determinação do Imperador do Submundo, e permitiu que o servidor avançasse na Abertura do Grande Assassinato de Deuses
+533	^0099ccEstrela da Sorte da 17Y
+534	Parabéns! Você é a Estrela da Sorte da 17Y!
+535	Retirar na Caixa da Sorte obtida ao participar do Evento na Comunidade 17Y.
+536	^0099ccCavaleiro da YY
+537	Honra suprema da YY!
+538	Sorteado no Pacote de presente do Evento YY.
+539	^0099ccCavaleiro da Duowan
+540	Honra suprema da Duowan!
+541	Retirar no Pacote de Presente das Doze Casas de Ouro da Duowan.
+542	^0099ccCavaleiro 17173
+543	Honra suprema da 17173!
+544	Retirar no Pacote de Presente dos 5 protagonistas de Bronze da 17173.
+545	^0099ccCavaleiro Sina
+546	Honra suprema da Sina!
+547	Sortear no Pacote de Presente Supremo de Iniciante da Sina.
+548	^0099ccCavaleiro Tencent
+549	Honra suprema da Tencent!
+550	Sortear no Pacote de Presente Supremo de Iniciante da Tencent.
+551	^0099ccCavaleiro NetEase
+552	Honra suprema da NetEase!
+553	Sortear no Pacote de Presente Supremo de Iniciante da NetEase.
+554	^0099ccCavaleiro PConline
+555	Honra suprema da PConline!
+556	Sortear no Pacote de Presente Supremo de Iniciante da PConline.
+557	^0099ccCavaleiro Yzz
+558	Honra suprema da Yzz!
+559	Sortear no Pacote de Presente Supremo de Iniciante da Yzz.
+560	^0099ccCavaleiro 178
+561	Honra suprema da 178!
+562	Sortear no Pacote de Presente Supremo de Iniciante da 178.
+563	^0099ccEstrela Brilhante
+564	Honra suprema do clã!
+565	Sorteie no Pacote de Presente de Luxo do Clã para obter o título
+566	^0099ccA Chegada da Deusa
+567	Honra suprema da Deusa!
+568	Retire no Pacote de presente de acontecimentos da Deusa para obter o título
+569	Honra suprema da Guarda da Deusa!
+570	Retire no Pacote de de presente de Cavaleiros da Deusa para obter o título
+571	^0099ccA Chegada de Athena
+572	Retire no Pacote de presente de Ouro da Deusa para obter o título
+573	^0099ccCavaleiro de Ouro de Athena
+574	Retire no Pacote de presente da Armadura de Ouro para obter o título
+575	^0099ccExclamação de Athena
+576	^ffff00HP +1200\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+577	Retire no Pacote de presente da Armadura de Ouro V para obter o título
+578	^0099ccEmissário de Bronze Júnior
+579	Obrigado pelo seu apoio ao Cavaleiros do Zodíaco online!
+580	Retire no Pacote de presente Bronze nível básico para obter o título
+581	^0099ccEmissário de Bronze Sênior
+582	Retire no Pacote de presente Bronze nível avançado para obter o título
+583	^0099ccEmissário de Prata Júnior
+584	Retire no Pacote de presente Prata nível básico para obter o título
+585	^0099ccEmissário de Prata Sênior
+586	Retire no Pacote de presente Prata nível avançado para obter o título
+587	^0099ccEmissário de Ouro Júnior
+588	Retire no Pacote de presente Ouro nível básico para obter o título
+589	^0099ccEmissário de Ouro Sênior
+590	Retire no Pacote de presente Ouro nível avançado para obter o título
+591	^ffd700Carteira Cheia
+592	Muito feliz com a carteira cheia!
+593	^ffff00Defesa +200\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+594	Título de honra exclusivo para VIP nível 5
+595	^ffd700Dançando com Ouro
+596	Nadando livremente no oceano de Ouro!
+597	^ffff00Defesa +300\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+598	Título de honra exclusivo para VIP nível 6
+599	^ffd700Garimpo Incansável
+600	Grande esforço em direção ao Ouro!
+601	^ffff00Defesa +400\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+602	Título de honra exclusivo para VIP nível 7
+603	^ffd700Doce Fortuna
+604	Com dinheiro no bolso, eu estou feliz!
+605	^ffff00Defesa +500\rTaxa de Resistência à Crítico +1%\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+606	Título de honra exclusivo para VIP nível 8
+607	^ffd700Riqueza Fanática
+608	Loucura por dinheiro!
+609	^ffff00Defesa +600\rTaxa de Resistência à Crítico +1%\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+610	Título de honra exclusivo para VIP nível 9
+611	^ffd700Riqueza Incessante
+612	Para uma vida feliz é preciso se esforçar!
+613	^ffff00Defesa +700\rTaxa de Resistência à Crítico +1%\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+614	Título de honra exclusivo para VIP nível 10
+615	^ffd700Magnata Reluzente
+616	Resplandecendo, coberto com pequenos diamantes!
+617	^ffff00Defesa +800\rTaxa de Resistência à Crítico +1%\rResistência à Status Anormais +5\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+618	Título de honra exclusivo para VIP nível 11
+619	^ffd700Monopólio Global
+620	Quem seria rival da pessoa mais rica do mundo?
+621	^ffff00Defesa +900\rTaxa de Resistência à Crítico +1%\rResistência à Status Anormais +5\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+622	Título de honra exclusivo para VIP nível 12
+623	^0099ccRadiante
+624	Honra suprema da Perfect World!
+625	Sortear no Pacote de presente de Diamante de Perfect World.
+626	^ffd700Deusa Athena
+627	Deusa Athena autenticada pelo Servidor!
+628	^ffff00Ataque +150\r^ffff00Defesa +300\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+629	Deusa Athena gloriosa!
+630	^ffd700Guardião Áries de Ouro
+631	Guarda de Áries de Ouro da Deusa Athena autenticada pelo Servidor!
+632	^ffff00Ataque +50\r^ffff00Defesa +100\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+633	Guarda de Áries de Ouro das Doze Casas da Glória da Deusa!
+634	^ffd700Guardião Touro de Ouro
+635	Guarda de Touro de Ouro da Deusa Athena autenticada pelo Servidor!
+636	Guarda de Touro de Ouro das Doze Casas da Glória da Deusa!
+637	^ffd700Guardião Gêmeos de Ouro
+638	Guarda de Gêmeos de Ouro da Deusa Athena autenticada pelo Servidor!
+639	Guarda de Gêmeos de Ouro das Doze Casas da Glória da Deusa!
+640	^ffd700Guardião Câncer de Ouro
+641	Guarda de Câncer de Ouro da Deusa Athena autenticada pelo Servidor!
+642	Guarda de Câncer de Ouro das Doze Casas da Glória da Deusa!
+643	^ffd700Guardião Leão de Ouro
+644	Guarda de Leão de Ouro da Deusa Athena autenticada pelo Servidor!
+645	Guarda de Leão de Ouro das Doze Casas da Glória da Deusa!
+646	^ffd700Guardião Virgem de Ouro
+647	Guarda de Virgem de Ouro da Deusa Athena autenticada pelo Servidor!
+648	Guarda de Virgem de Ouro das Doze Casas da Glória da Deusa!
+649	^ffd700Guardião Libra de Ouro
+650	Guarda de Libra de Ouro da Deusa Athena autenticada pelo Servidor!
+651	Guarda de Libra de Ouro das Doze Casas da Glória da Deusa!
+652	^ffd700Guardião Escorpião de Ouro
+653	Guarda de Escorpião de Ouro da Deusa Athena autenticada pelo Servidor!
+654	Guarda de Escorpião de Ouro das Doze Casas da Glória da Deusa!
+655	^ffd700Guardião Sagitário de Ouro
+656	Guarda de Sagitário de Ouro da Deusa Athena autenticada pelo Servidor!
+657	Guarda de Sagitário de Ouro das Doze Casas da Glória da Deusa!
+658	^ffd700Guardião Capricórnio de Ouro
+659	Guarda de Capricórnio de Ouro da Deusa Athena autenticada pelo Servidor!
+660	Guarda de Capricórnio de Ouro das Doze Casas da Glória da Deusa!
+661	^ffd700Guardião Aquário de Ouro
+662	Guarda de Aquário de Ouro da Deusa Athena autenticada pelo Servidor!
+663	Guarda de Aquário de Ouro das Doze Casas da Glória da Deusa!
+664	^ffd700Guardião Peixes de Ouro
+665	Guarda de Peixes de Ouro da Deusa Athena autenticada pelo Servidor!
+666	Guarda de Peixes de Ouro das Doze Casas da Glória da Deusa!
+667	^0099ccGlória de Athena
+668	Obteve a glória suprema!
+669	^ffff00Ataque +50\rDefesa +50\r ^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+670	Prêmio pela participação do Evento "Criação de Personagem Antecipada"
+671	^0099ccMito da Armadura
+672	^ffff00Ataque +80\rDefesa +80\rAtaque crítico +3%\r ^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+673	Prêmio pela participação do Evento "Colecione Armaduras, eleve o seu Power"
+674	^0099ccCavaleiro do Ataque
+675	^ffff00Taxa de crítico +2%\rRedução de resistência da propriedade total +1\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+676	Prêmio pela participação do Evento "Recompensas pelas Conquistas"
+677	^0099ccLenda de Ouro
+678	^ffff00HP +1000\rPrecisão +100\rEvasão +100\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+679	Prêmio pela participação do Evento "Bônus pela Recarga"
+680	^5acbccEstrela do Santuário
+681	Participe do evento do fórum oficial! Títulos raros exclusivos!
+682	^5acbccGlória da Deusa
+683	^5acbccExterminador da Escuridão
+684	^5acbccPorta-Voz de Deus
+685	^5acbccCoragem Para Ser Autêntico
+686	^0099ccLutador Divino · Família Demoníaca
+687	Em [Heroico]Dez Cavernas, derrote todos os Bosses de dificuldade Lutador Divino para obter o título
+688	^ffff00Ataque +250\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+689	Certificação de força e coragem
+690	^a800ffSemideus · Família Demoníaca
+691	Em [Heroico]Dez Cavernas, derrote todos os Bosses de dificuldade Semideus para obter o título
+692	^ffff00Ataque +350\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+693	^0099ccLutador Divino · Flecha da Justiça
+694	Em [Heroico]Coração de Sagitário, derrote todos os Bosses de dificuldade Lutador Divino para obter o título
+695	^a800ffSemideus · Flecha da Justiça
+696	Em [Heroico]Coração de Sagitário, derrote todos os Bosses de dificuldade Semideus para obter o título
+697	^ffd700Flor e Vinho Para o Eremita
+698	Prove a você mesmo! Presença do rei!
+699	^ffff00HP +1%\rAtaque +1%\rDefesa +1%\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+700	Encontro dos jogadores, exclusivo para elite.
+701	^ffd700Eliminar todos vocês
+702	^ffd700Espírito Fantasmagórico de Hades
+703	^ffd700Lendário Fulano
+704	^ffd700É Ele! O Assassino de Deuses!
+705	^ffd700╰ ☆ ╮Reflexo da Flor no Espelho
+706	Título 7 personalizado do jogador
+707	Título 8 personalizado do jogador
+708	^ff4ca4Retorno dos Guerreiros
+709	Bem-vindo de volta, Cavaleiro!
+710	^ff4ca4Juntos, de Mãos Dadas
+711	Uma antiga aliança que nos afeta profundamente. Como irmãos, juntos para sempre!
+712	^0099ccSoldado Divino · Flecha da Justiça
+713	Em [Heroico]Coração de Sagitário, derrote todos os Bosses de dificuldade Soldado Divino para obter o título
+714	^ffff00Ataque +300\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+715	^0099ccSoldado Divino · Família Demoníaca
+716	Em [Heroico]Dez Cavernas, derrote todos os Bosses de dificuldade Soldado Divino para obter o título
+717	^5acbccReunião dos Emissários no Santuário
+718	Participe do encontro de jogadores do Cavaleiros do Zodíaco online em Pequim e receba títulos exclusivos!
+719	^5acbccSurpresa no Baú do Tesouro
+720	Participe do encontro de jogadores do Cavaleiros do Zodíaco online em Pequim. Você é a Estrela da Sorte!
+721	^ff4ca4Soldado Raso do Santuário
+722	Título raro obtido com o Cavaleiro ao redor do Santuário!
+723	^ff4ca4Cavaleiro Melancólico
+724	Título exclusivo obtido com o Cavaleiro ao redor do Santuário!
+725	^ff4ca4Cavaleiros Também Devem Amar
+726	Título único obtido com o Cavaleiro ao redor do Santuário!
+727	^ff4ca4Vendedor do Mall
+728	Título honrado obtido no Item Mall dos Cavaleiros!
+729	^ffff00Defesa +200\rHP +2000\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+730	^ff4ca4Cavaleiro do Ataque
+731	^ffff00Defesa +300\rHP +3000\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+732	^ff6c00Conquista! Domínio Galáctico
+733	Campeão da Tabela de Classificação dos Deuses do Torneio Galáctico
+734	^ff6c00Frieza! O Aterrorizante Deus da Morte
+735	2º-3º lugar da Tabela de Classificação dos Deuses do Torneio Galáctico
+736	^ff6c00Resoluto! Euforia do Deus da Guerra
+737	4º-30º lugar da Tabela de Classificação dos Deuses do Torneio Galáctico
+738	^ff6c00Cosmo Reluzente
+739	31º-100º lugar da Tabela de Classificação dos Deuses do Torneio Galáctico
+740	^ff6c00Platina! Especialista Galáctico
+741	1º-40º lugar da Tabela de Classificação de Platina do Torneio Galáctico
+742	^ff6c00Ouro! Habilidade de Armadura
+743	1º-30º lugar da Tabela de Classificação de Ouro do Torneio Galáctico
+744	^ff6c00Prata! Desafio Assíduo
+745	1º-20º lugar da Tabela de Classificação de Prata do Torneio Galáctico
+746	^ff6c00Bronze! Cavaleiro Imortal
+747	1º-10º lugar da Tabela de Classificação de Bronze do Torneio Galáctico
+748	^ff8000Teste do Coliseu 3
+749	Completou Teste do Coliseu 3
+750	^ff8000Teste do Coliseu 4
+751	Completou Teste do Coliseu 4
+752	^ff8000Teste do Coliseu 5
+753	Completou Teste do Coliseu 5
+754	^ff8000Teste do Coliseu 6
+755	Completou Teste do Coliseu 6
+756	^ff8000Teste do Coliseu 7
+757	Completou Teste do Coliseu 7
+758	^009933Garimpeiro
+759	Você é um transportador profissional de minério de ouro!
+760	^ffff00Ataque de Fogo +80\rPrecisão +55\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+761	Conclua a Quest "Minerador" na Ilha da Rainha da Morte para obter o título
+762	^009933Filho do Vento, Chuva e Raio
+763	Então é você quem traz a neve pura e branca para a Sibéria Oriental!
+764	^ffff00Ataque de Água +80\rEvasão +55\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+765	Conclua a Quest "Filho do Vento, Chuva e Raio" na Sibéria Oriental para obter o título
+766	^009933Era de Hyoga
+767	A perseguição do esquilo a uma noz também é um tipo de treinamento!
+768	^ffff00Precisão +40\rEvasão +40\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+769	Conclua a Quest "Era de Hyoga" na Sibéria Oriental para obter o título
+770	^009933Das Mãos do Próprio Mestre
+771	Obteve o conhecimento do conserto de Armaduras com o próprio Mu de Áries!
+772	^ffff00Ataque de Vento +100\rPrecisão +60\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+773	Conclua a Quest "Avenida das Estrelas" em Atlântida para obter o título
+774	^009933Canção de Guerra da Bandeira
+775	Você espalhou Bandeiras de Luta de Athena em Atlântida, acabando com a determinação dos Marinas.
+776	^ffff00Ataque de Terra +100\rEvasão +60\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+777	Conclua a Quest "Bandeira das Estrelas" em Atlântida para obter o título
+778	^009933Especialista da Constelação
+779	As Doze Casas do Zodíaco são como o quintal da sua casa!
+780	^ffff00Ataque de Trovão +120\rPrecisão +75\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+781	Conclua a Quest "Lenda das Doze Casas" na Ilha de Andrômeda para obter o título
+782	^009933Um Mundo Sem Ladrões
+783	Eliminou todos os ladrões do Castelo de Hades, deixando-os apavorados!
+784	^ffff00Ataque de Fogo +120\rEvasão +75\r ^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+785	Conclua a Quest "Um Mundo Sem Ladrões" no Castelo de Hades para obter o título
+786	^009933O Extremamente Honrado de Bronze
+787	Obteve a Honra de Bronze na Quest de Desafio Extremo!
+788	Conclua todas as 8 "Missões Extremas" da Estrela 1 para obter o título
+789	^009933O Extremamente Honrado de Prata
+790	Obteve a Honra de Prata na Quest de Desafio Extremo!
+791	Conclua todas as 8 "Missões Extremas" da Estrela 2 para obter o título
+792	^009933O Extremamente Honrado de Ouro
+793	Obteve a Honra de Ouro na Quest de Desafio Extremo!
+794	Conclua todas as 8 "Missões Extremas" da Estrela 3 para obter o título
+795	^ff7800Amado
+796	1º Lugar da Lista de Flor Fresca.
+797	^ff52bcAdmirado
+798	2º Lugar da Lista de Flor Fresca.
+799	^9763eeAdorado
+800	3º Lugar da Lista de Flor Fresca.
+801	^14b427Querido
+802	4º-10º Lugar da Lista de Flor Fresca.
+803	^5acbcc【Fruto Proibido】·Competidor Multiservidor
+804	Como elite do Exército【Fruto Proibido】, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+805	Qualificação para participar da Competição Multiservidor PK de Exércitos
+806	^5acbccClã dos Solitários·Competidor Multiservidor
+807	Como elite do Exército Clã dos Solitários, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+808	^5acbccCriação·Competidor Multiservidor
+809	Como elite do Exército da Criação, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+810	^5acbcc一Templo dos Deuses一·Competidor Multiservidor
+811	Como elite do Exército Templo dos Deuses, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+812	^5acbccCidade dos Deuses KOG·Competidor Multiservidor
+813	Como elite do Exército Cidade dos Deuses KOG, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+814	^5acbccSomente o Paraíso·Competidor Multiservidor
+815	Como elite do Exército Somente o Paraíso, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+816	^5acbccAliança de Guerra das Sombras·Competidor Multiservidor
+817	Como elite do Exército da Aliança de Guerra das Sombras, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+818	^5acbccCefeu, Deuses·Competidor Multiservidor
+819	Como elite do Exército Cefeu, Deuses, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+820	^5acbccExército dos Deuses·Competidor Multiservidor
+821	Como elite do Exército dos Deuses, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+822	^5acbcc【Imperador】·Competidor Multiservidor
+823	Como elite do Exército【Imperador】, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+824	^5acbccMassacre do Duelo·Competidor Multiservidor
+825	Como elite do Exército Massacre do Duelo, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+826	^5acbccSigo o Meu Caminho·Competidor Multiservidor
+827	Como elite do Exército Sigo o Meu Caminho, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+828	^5acbccSorria, Apesar de Tudo·Competidor Multiservidor
+829	Como elite do Exército Sorria, Apesar de Tudo obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+830	^5acbccCampanha Militar·Competidor Multiservidor
+831	Como elite do Exército Campanha Militar, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+832	^5acbccPantheon·Competidor Multiservidor
+833	Como elite do Exército Pantheon, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+834	^5acbccEspaço da Segunda Dimensão·Competidor Multiservidor
+835	Como elite do Exército Espaço da Segunda Dimensão, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+836	^5acbccOndas Raivosas·Competidor Multiservidor
+837	Como elite do Exército Ondas Raivosas·, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+838	^5acbccTime que Ousa Matar A★S·Competidor Multiservidor
+839	Como elite do Exército Time que Ousa Matar A★S, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+840	^5acbccPico, Cume da Montanha·Competidor Multiservidor
+841	Como elite do Exército Pico, Cume da Montanha, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+842	^5acbccBeleza Real·Competidor Multiservidor
+843	Como elite do Exército Beleza Real, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+844	^5acbccRei de Toda a Terra·Competidor Multiservidor
+845	Como elite do Exército Rei de Toda a Terra, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+846	^5acbccO Topo da Cidade Proibida·Competidor Multiservidor
+847	Como elite do Exército O Topo da Cidade Proibida, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+848	^5acbccIra dos Deuses·Competidor Multiservidor
+849	Como elite do Exército Ira dos Deuses, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+850	^5acbcc★灬Glória灬★·Competidor Multiservidor
+851	Como elite do Exército ★灬Glória灬★, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+852	^5acbccPamirs·Competidor Multiservidor
+853	Como elite do Exército Pamirs, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+854	^5acbcc〓Primeira Força〓·Competidor Multiservidor
+855	Como elite do Exército 〓Primeira Força〓 obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+856	^5acbcc[Templo do Assassino de Deuses]Competidor Multiservidor
+857	Como elite do Exército [Templo do Assassino de Deuses], obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+858	^5acbcc⑧Zero⑨Zero·Competidor Multiservidor
+859	Como elite do Exército ⑧Zero⑨Zero, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+860	^5acbccQue Mundo·Competidor Multiservidor
+861	Como elite do Exército Que Mundo, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+862	^5acbccDeus da Guerra DM·Competidor Multiservidor
+863	Como elite do Exército Deus da Guerra DM, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+864	^5acbccClube Internacional·Competidor Multiservidor
+865	Como elite do Exército Clube Internacional, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+866	^5acbccExército Salão Sagrado·Competidor Multiservidor
+867	Como elite do Exército Salão Sagrado, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+868	^5acbccLolu da Vida Eterna·Competidor Multiservidor
+869	Como elite do Exército Lolu da Vida Eterna, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+870	^5acbccDomínio灬Escondido·Competidor Multiservidor
+871	Como elite do Exército Domínio灬Escondido, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+872	^5acbccMundo da Matança·Competidor Multiservidor
+873	Como elite do Exército Mundo da Matança, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+874	^5acbcc〖Canal de Notícias〗·Competidor Multiservidor
+875	Como elite do Exército 〖Canal de Notícias〗, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+876	^5acbcc『Família Real』·Competidor Multiservidor
+877	Como elite do Exército『Família Real』, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+878	^5acbccAmor Perdido·Competidor Multiservidor
+879	Como elite do Exército Amor Perdido, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+880	^5acbccConstruções Elegantes·Competidor Multiservidor
+881	Como elite do Exército Construções Elegantes, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+882	^5acbcc灬Sinal de Fumaça灬·Competidor Multiservidor
+883	Como elite do Exército 灬Sinal de Fumaça灬, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+884	^5acbcc灬Do Sonho para a Realidade灬·Competidor Multiservidor
+885	Como elite do Exército 灬Do Sonho para a Realidade灬, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+886	^5acbccBatalha丶Livre·Competidor Multiservidor
+887	Como elite do Exército Batalha丶Livre, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+888	^5acbccCidade dos Deuses Livre·Competidor Multiservidor
+889	Como elite do Exército Cidade dos Deuses Livre, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+890	^5acbccPilotos·Competidor Multiservidor
+891	Como elite do Exército Pilotos, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+892	^5acbcc【Esconder a Verdade】·Competidor Multiservidor
+893	Como elite do Exército 【Esconder a Verdade】, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+894	^5acbccYin, Liderar a Moda·Competidor Multiservidor
+895	Como elite do Exército Yin, Liderar a Moda, obteve a qualificação para participar da Competição Multiservidor PK de Exércitos!
+896	^5acbccCompetição Multiservidor PK de Exércitos·Marechal de Exército
+897	Como Marechal do Exército Sementes da Competição Multiservidor PK de Exércitos, obteve este título!
+898	Como prova, pode receber certificado de entrada e distribuir aos membros do Exército!
+899	^ff4ca4O Deus do Amor Chegou
+900	Durante o festival Tanabata, fique em primeiro lugar na lista do Ranking de Flor Fresca para ter um título magnífico e permanente!
+901	^ff4ca4Eu e Meus Pets
+902	Durante o festival Tanabata, os 10 primeiros jogadores da lista do Raking de Flor Fresca enviaram as bênçãos para você~!
+903	^5acbcc13Participante da Batalha Amistosa Mult.
+904	Obrigado por apoiar Cavaleiros do Zodíaco Online! Participe da Competição PK Multiservidor para obter títulos!
+905	^5acbcc13Top 24 da Batalha Amistosa
+906	^5acbcc13Top 12 da Batalha Amistosa
+907	^5acbcc13Top 6 da Batalha Amistosa dos servs.
+908	^5acbcc13·Honrado Grupo de Luta de Bronze
+909	^5acbcc13·Líder do Grupo de Luta de Bronze
+910	^5acbcc13·Honrado Grupo de Luta de Prata
+911	^5acbcc13·Líder do Grupo de Luta de Prata
+912	^5acbcc13·Grupo de Luta de Ouro
+913	^5acbcc13·Líder do Grupo de Luta de Ouro
+914	^ff6c00Cavaleiro da Guerra Santa de Teste
+915	^ffff00Ataque +100\rDefesa +100\r^NO efeito é ativado quando o título é ^ffff01selecionado^N
+916	^0099ccTítulo de Casal-H
+917	^ffff00Ataque +100\rHP +1000\r^NO efeito é ativado quando o título é ^ffff02selecionado^N
+918	^0099ccTítulo de Casal-M
+919	^ffff00Defesa +100\rHP +1000\r^NO efeito é ativado quando o título é ^ffff03selecionado^N
+920	^009933Cavalaria de Prata do Teste
+921	^ffff00Ataque +300\rDefesa +100\r^NO efeito é ativado quando o título é ^ffff04selecionado^N
+922	^ff6c00Sou Cavaleiro, Força!
+923	^ffff00Ataque +500\r^NO efeito é ativado quando o título é ^ffff05selecionado^N
+924	^ff4ca4O Deus do Amor no Comando
+925	^a800ffSD · Guarda da Deusa
+926	Em "Proteja Athena", se transformou em Seiya, Shiryu, Hyoga, Shun e Ikki, um de cada vez!
+927	O verdadeiro guardião da Deusa!
+928	^0099ccLutador Divino · Anjo Demoníaco
+929	Em [Heroico]Elegia da Deusa I, derrote todos os Bosses de dificuldade Lutador Divino
+930	^0099ccSoldado Divino · Anjo Demoníaco
+931	Em [Heroico]Elegia da Deusa I, derrote todos os Bosses de dificuldade Soldado Divino
+932	^a800ffSemideus · Anjo Demoníaco da Morte
+933	Em [Heroico]Elegia da Deusa I, derrote todos os Bosses de dificuldade Semideus
+934	^0099ccLutador Divino · Anjo Divino
+935	Em [Heroico]Elegia da Deusa II, derrote todos os Bosses de dificuldade Lutador Divino
+936	^0099ccSoldado Divino · Anjo Divino
+937	Em [Heroico]Elegia da Deusa II, derrote todos os Bosses de dificuldade Soldado Divino
+938	^a800ffSemideus · Anjo Divino da Morte
+939	Em [Heroico]Elegia da Deusa II, derrote todos os Bosses de dificuldade Semideus
+940	^ff4ca4Memória de Um Cavaleiro
+941	Bem vindo de volta, Cavaleiro da Deusa! Com este Título, poderá receber Quest especial com Emissário do Festival, do dia 16 até dia 30 de setembro
+942	^5acbcc17173·VIP
+943	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da 17173!
+944	^5acbccCavaleiro de Ouro da Duowan
+945	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da Duowan!
+946	^5acbccExpert do Jogo Tencent
+947	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da Tecent!
+948	^5acbccCofrinho de porco da Yzz
+949	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da Yzz!
+950	^5acbccViajante do PConline
+951	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da PConline!
+952	^5acbcc 360Viajar Juntos por muito Tempo
+953	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da 360!
+954	^5acbccCavaleiro do Santuário da Tgbus
+955	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da Tgbus!
+956	^5acbccHerói da JD
+957	Título Especial obtido ao abrir o Pacote de Presente Exclusivo da JD!
+958	^5acbccEu adoro o Taobao!
+959	Título Especial obtido ao abrir o Pacote de Presente Exclusivo do Taobao!
+960	^be2ae3Aprendiz Estudioso
+961	Título de aprendizagem obtido quando o Aprendiz se torna Mestre!
+962	Sob a orientação cuidadosa do Mestre, finalmente pôde se tornar independente. Se torne Mestre para obter o título
+963	^12ff00Por Favor, Me Chame de Mestre
+964	Por favor, me chame de Mestre!
+965	Forme um aprendiz com sucesso para obter o título
+966	^0065feO Mestre Deve Se Comportar Como Tal
+967	Um Mestre precisa se comportar como tal.
+968	Forme três aprendizes com sucesso para obter o título
+969	^be2ae3Aprendiz e Mestre Modelos
+970	Mestre e aprendiz devem ser modelos para outros, não é?
+971	Forme cinco aprendizes com sucesso para obter o título
+972	^ff6c00Um Bom Mestre Não Poupa Esforços
+973	Um Mestre deve se arriscar pelos aprendizes!
+974	Forme 10 aprendizes com sucesso para obter o título
+975	^ff7800Marido da ${spouse}
+976	Título exclusivo de casamento
+977	^ff7800Esposa do ${spouse}
+978	^ff7800Dom Divino
+979	Título com efeitos especiais DIY exclusivo
+980	^ffff00Ataque +150\rHP +2000\rResistência à todos os elementos +5\rPrecisão +50\rEvasão +50\rDano crítico +50 Ataque a todas as propriedades +20\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+981	^a800ffImperador do Submundo Naraku
+982	^ffff00Ataque +150\rHP +2000\rResistência à todos os elementos +5\rPrecisão +50\rEvasão +50\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+983	^0099ccGuerreiro Que Amedronta os Deuses
+984	11-100 do ranking de pontos acumulados de recarga
+985	^ffff00Ataque +150\rHP +2000\rResistência à todos os elementos +5\rPrecisão +50\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+986	^009933Feiticeiro
+987	101-500 do ranking de pontos acumulados de recarga
+988	^ffff00Ataque +150\rHP +2000\rResistência à todos os elementos +5\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+989	^5acbccAumente o ataque crítico para me desejar felicidade
+990	Recarga cumulativa para satisfazer as condições do usuário
+991	^a800ffCavaleiro Associado de Prata
+992	^ff7800Cavaleiro Associado de Ouro
+993	^ffd700Cavaleiro Associado de Platina
+994	^a800ffGalã da Ilha de Andrômeda
+995	^a800ffEstiloso
+996	^a800ffControlador Espiritual
+997	^a800ffCruel e Recluso
+998	^a800ffBênção Budista
+999	^a800ffOlá, Chefe. Tchau, Chefe.
+1000	^a800ffEncarnação
+1001	^a800ffMedo de Faca
+1002	^5acbccAgente Perfeito
+1003	Título de comemoração do evento da Guerra Galáctica de Cosplay de 《Cavaleiros do Zodíaco》
+1004	^5acbccAnjo Perfeito
+1005	^ff7800Escolha da Deusa Athena
+1006	Você é aquele escolhido de Athena!
+1007	^ffff00Ataque +100\rHP +1500\rTaxa de crítico +3\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+1008	^5acbccConfidente da Deusa
+1009	Você é digno de confiança da Deusa!
+1010	^a800ffAssassino de Deuses · Anjo Demoníaco
+1011	Em [Heroico]Elegia da Deusa I, derrote todos os Bosses na dificuldade Assassino de Deuses para obter o título
+1012	^ffff00Ataque +400\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+1013	^a800ffAssassino de Deuses · Anjo Divino
+1014	Em [Heroico]Elegia da Deusa II, derrote todos os Bosses na dificuldade Assassino de Deuses para obter o título
+1015	^5acbccCapitão na 1ª Competição Multiserv.1
+1016	Como um competidor entre os 30 primeiros colocados da lista de ranking de Power desse servidor, obteve qualificação para guiar um grupo para participar da Competição Multiservidor!
+1017	Como prova, além do título, poderá guiar o grupo como Capitão a se inscrever com ${npc(36528)} para participar da Fase de Preparação da Primeira Competição Multiservidor
+1018	^5acbccCapitão na 1ª Competição Multiserv.2
+1019	^5acbccCapitão na 1ª Competição Multiserv.3
+1020	^5acbccCapitão na 1ª Competição Multiserv.4
+1021	^5acbccCapitão na 1ª Competição Multiserv.5
+1022	^5acbccCapitão na 1ª Competição Multiserv.6
+1023	^5acbccCapitão na 1ª Competição Multiserv.7
+1024	^5acbccCapitão na 1ª Competição Multiserv.8
+1025	^5acbccCapitão na 1ª Competição Multiserv.9
+1026	^5acbccCapitão na 1ª Competição Multiserv.10
+1027	^5acbccCapitão na 1ª Competição Multiserv.11
+1028	^5acbccCapitão na 1ª Competição Multiserv.12
+1029	^5acbccCapitão na 1ª Competição Multiserv.13
+1030	^5acbccCapitão na 1ª Competição Multiserv.14
+1031	^5acbccCapitão na 1ª Competição Multiserv.15
+1032	^5acbccCapitão na 1ª Competição Multiserv.16
+1033	^5acbccCapitão na 1ª Competição Multiserv.17
+1034	^5acbccCapitão na 1ª Competição Multiserv.18
+1035	^5acbccCapitão na 1ª Competição Multiserv.19
+1036	^5acbccCapitão na 1ª Competição Multiserv.20
+1037	^5acbccCapitão na 1ª Competição Multiserv.21
+1038	^5acbccCapitão na 1ª Competição Multiserv.22
+1039	^5acbccCapitão na 1ª Competição Multiserv.23
+1040	^5acbccCapitão na 1ª Competição Multiserv.24
+1041	^5acbccCapitão na 1ª Competição Multiserv.25
+1042	^5acbccCapitão na 1ª Competição Multiserv.26
+1043	^5acbccCapitão na 1ª Competição Multiserv.27
+1044	^5acbccCapitão na 1ª Competição Multiserv.28
+1045	^5acbccCapitão na 1ª Competição Multiserv.29
+1046	^5acbccCapitão na 1ª Competição Multiserv.30
+1047	^5acbccLembro de Você
+1048	Bem-vindo de volta, Cavaleiro!
+1049	^5acbccCosplayer
+1050	^5acbccMisteriosas Mil Faces
+1051	^5acbccPessoa Oculta
+1052	^a800ffServidor de Teste nº1·Grupo Cavalaria Troy
+1053	Como um dos 10 primeiros grupos no Ranking de Power dos que se inscreveram na Primeira Competição Multiservidor, obterá a qualificação para participar de competição internacional.
+1054	^a800ffServidor de Teste nº2·Grupo Não Vem Nem Vai
+1055	^a800ffServidor de Teste nº3·Grupo Colina Vick
+1056	^a800ffServidor de Teste nº4·Grupo Kardia
+1057	^a800ffServidor de Teste nº5·Grupo Fábula
+1058	^a800ffServidor de Teste nº6·Grupo A Outra do Pólo Sul
+1059	^a800ffServidor de Teste nº7·Grupo zZ_Ano
+1060	^a800ffServidor de Teste nº8·Grupo Preguiçoso Intoxicado
+1061	^a800ffServidor de Teste nº9·Grupo Ulisses
+1062	^a800ffServidor de Teste nº10·Grupo Arrumar um Tempo na Correria
+1063	^a800ffCefeu nº1·Grupo Frederick
+1064	^a800ffCefeu nº2·Grupo Azul Celeste Andy
+1065	^a800ffCefeu nº3·Grupo Desmemoriado
+1066	^a800ffCefeu nº4·Grupo Taça de Vinho Tinto YD Luxuoso
+1067	^a800ffCefeu nº5·Grupo Toshiro
+1068	^a800ffCefeu nº6·Grupo Dificuldades e Apenas Isso
+1069	^a800ffCefeu nº7·Grupo Irmão Tolo
+1070	^a800ffCefeu nº8·Grupo Espíritos, Artista Próspero
+1071	^a800ffCefeu nº9·Grupo Hipocrisia do Mundo
+1072	^a800ffCefeu nº10·Grupo Cidade Proibida... Sentimento profundo
+1073	^a800ffÓrion nº1·Grupo... Céu Misterioso
+1074	^a800ffÓrion nº2·Grupo Amor Predestinado do Jogo
+1075	^a800ffÓrion nº3·Grupo Mana
+1076	^a800ffÓrion nº4·Grupo Sombra do Demônio
+1077	^a800ffÓrion nº5·Grupo Z@rk
+1078	^a800ffÓrion nº6·Grupo Querida Relíquia
+1079	^a800ffÓrion nº7·Grupo do Patrocínio Exclusivo
+1080	^a800ffÓrion nº8·Grupo Eu Comprei Oito Ano Passado
+1081	^a800ffÓrion nº9·Grupo Cantor Iluminado
+1082	^a800ffÓrion nº10·Grupo Gato de Sagitário
+1083	^a800ffPerseu nº1·Grupo Estrela de Peixes
+1084	^a800ffPerseu nº2·Grupo do Galã
+1085	^a800ffPerseu nº3·Grupo E daí que sou feio?
+1086	^a800ffPerseu nº4·Grupo Presunto e Queijo
+1087	^a800ffPerseu nº5·Grupo Branco de Neve
+1088	^a800ffPerseu nº6·Grupo Samurai Maluco
+1089	^a800ffPerseu nº7·Grupo João Bobo
+1090	^a800ffPerseu nº8·Grupo Inocência Melancólica
+1091	^a800ffPerseu nº9·Caminho da Bela Jade
+1092	^a800ffPerseu nº10·Grupo Lobo Contra O Demônio
+1093	^a800ffHércules nº1·Grupo Amor Puro
+1094	^a800ffHércules nº2·Grupo Veterano Experiente
+1095	^a800ffHércules nº3·Grupo Sombra da Infância
+1096	^a800ffHércules nº4·Grupo Espírito Sagrado das Neves
+1097	^a800ffHércules nº5·Grupo Amor Enterrado
+1098	^a800ffHércules nº6·Grupo Craque de Futebol
+1099	^a800ffHércules nº7·Grupo da Sasá
+1100	^a800ffHércules nº8·Grupo Amo os Cavaleiros
+1101	^a800ffHércules nº9·Grupo Mitsumasa Tsukimoto
+1102	^a800ffPilar Principal nº1·Grupo Imperador do Mundo Caótico
+1103	^a800ffPilar Principal nº2·Grupo Noite Confusa
+1104	^a800ffPilar Principal nº3·Grupo da Hegemonia
+1105	^a800ffPilar Principal nº4·Grupo A Morte Leva ao Conhecimento
+1106	^a800ffPilar Principal nº5·Grupo Dragão Esquecido
+1107	^a800ffPilar Principal nº6·Grupo Amantes de Livros
+1108	^a800ffPilar Principal nº7·Grupo Repolho Raivoso
+1109	^a800ffPilar Principal nº8·Grupo Vendo Cavaleiros nas Férias
+1110	^a800ffPilar Principal nº9·Tá Olhando O Quê? Seu Pai É Macho
+1111	^a800ffPilar Principal nº10·Grupo Porco Feliz Exibido
+1112	^a800ffLira nº1·Grupo Cavaleiro Heroico
+1113	^a800ffLira nº2·Grupo Nuvem de Neve
+1114	^a800ffLira nº3·Grupo Chamas Geladas do Assassino
+1115	^a800ffLira nº4·Grupo Ruído★Metálico
+1116	^a800ffLira nº5·Grupo da Pouca Prosperidade, MAX
+1117	^a800ffLira nº6·Grupo Excalibur de Ouro
+1118	^a800ffLira nº7·Grupo do Rogério
+1119	^a800ffLira nº8·Grupo do Vazio
+1120	^a800ffLira nº9·Grupo do Porco do Rio Abaixo
+1121	^a800ffLira nº10·Grupo do Demônio Mitológico
+1122	^a800ffÁguia nº1·Grupo Noite de Naraku
+1123	^a800ffÁguia nº2·Grupo Jack Frost
+1124	^a800ffÁguia nº3·Grupo☆Cavaleiro※Kouga
+1125	^a800ffÁguia nº4·Grupo Neblina Invernal
+1126	^a800ffÁguia nº5·Grupo do Pequeno e Virtuoso
+1127	^a800ffÁguia nº6·Grupo Guerra Violenta e Demoníaca
+1128	^a800ffÁguia nº7·Grupo Bom Garoto Corajoso
+1129	^a800ffÁguia nº8·Grupo Pétalas Caídas
+1130	^a800ffÁguia nº9·Grupo Saia Lunar
+1131	^a800ffUnicórnio nº1·Grupo Nuvem de Trovão
+1132	^a800ffUnicórnio nº2·Grupo Sombra do Espírito de Luta
+1133	^a800ffUnicórnio nº3·Grupo Dragão de Coração Azul
+1134	^a800ffUnicórnio nº4·Grupo Aqueles 36℃Perfeitos
+1135	^a800ffUnicórnio nº5·Grupo Joias de Sagitário
+1136	^a800ffUnicórnio nº6·Grupo Noite Odiosa
+1137	^a800ffUnicórnio nº7·Grupo Imperador Azul
+1138	^a800ffUnicórnio nº8·Grupo Poeira da Estrada Roxa
+1139	^a800ffUnicórnio nº9·Grupo O Deus É Que Governa
+1140	^a800ffUnicórnio nº10·Grupo Ishino
+1141	^a800ffAuriga nº1·Grupo o Irmão do Herdeiro Veio
+1142	^a800ffAuriga nº2·Grupo DKSL
+1143	^a800ffAuriga nº3·Grupo Música Mais Perfeita do Mundo
+1144	^a800ffAuriga nº4·Grupo Irmão Chun-Ho
+1145	^a800ffAuriga nº5·Grupo Dragão de Coração Frio
+1146	^a800ffAuriga nº6·Grupo Cinzeiro
+1147	^a800ffAuriga nº7·Grupo Mo sete noites oM
+1148	^a800ffAuriga nº8·Grupo Boneca Mágica
+1149	^a800ffAuriga nº9·Grupo Horda dos Pedidos
+1150	^a800ffAuriga nº10·Grupo Noite〖Longa Demais〗
+1151	^a800ff Lionetnº1·Grupo Belo Sobre o Mar
+1152	^a800ff Lionetnº2·Grupo A Arrogância Neva na Terra
+1153	^a800ff Lionetnº3·● Grupo Jimmy Star
+1154	^a800ff Lionetnº4·● Grupo Planta Star
+1155	^a800ff Lionetnº5·Grupo Quero Explodir a Terra
+1156	^a800ff Lionetnº6·Grupo Pégasus  Atraente
+1157	^a800ff Lionetnº7·Grupo da Modelo Famosa
+1158	^a800ff Lionetnº8·● Grupo Caminho Empoeirado
+1159	^a800ffIlha de Andrômeda nº1·Grupo Touro
+1160	^a800ffIlha de Andrômeda nº2·Grupo Lafite 98℃
+1161	^a800ffIlha de Andrômeda nº3·Grupo A Lenda do Assassino dos Deuses
+1162	^a800ffIlha de Andrômeda nº4·Grupo Caçadores de Cervos
+1163	^a800ffIlha de Andrômeda nº5·Grupo Explosão de Relance
+1164	^a800ffIlha de Andrômeda nº6·Grupo Puro Preto
+1165	^a800ffIlha de Andrômeda nº7·Grupo Os Loucos Se Seguem
+1166	^a800ffIlha de Andrômeda nº8·Grupo A Tristeza É Psicológica
+1167	^a800ffIlha de Andrômeda nº9·Grupo ◆Aleluia
+1168	^a800ffIlha de Andrômeda nº10·Grupo do Deus do Sono Hypnos
+1169	^a800ffContinente de Gelo nº1·Grupo Dino
+1170	^a800ffContinente de Gelo nº2·Grupo ┦Tempestade┢
+1171	^a800ffContinente de Gelo nº3·Grupo Barca
+1172	^a800ffContinente de Gelo nº4·Grupo Pequena Diana
+1173	^a800ffContinente de Gelo nº5·Grupo Louco de Raiva
+1174	^a800ffContinente de Gelo nº6·Grupo Abominável
+1175	^a800ffContinente de Gelo nº7·Grupo Uma Pílula Para Dormir
+1176	^a800ffContinente de Gelo nº8·Grupo = Pic. = Rossi
+1177	^a800ffContinente de Gelo nº9·Grupo City Hunter
+1178	^a800ffContinente de Gelo nº10·Grupo Peixinho Sorridente
+1179	^a800ffCinco Picos Antigos nº1·Grupo da Cultura
+1180	^a800ffCinco Picos Antigos nº2·Grupo Shaka da Noite Escura
+1181	^a800ffCinco Picos Antigos nº3·Grupo Funeral de Albafica
+1182	^a800ffCinco Picos Antigos nº4·Grupo αLeonis
+1183	^a800ffCinco Picos Antigos nº5·Grupo Homens de Leo
+1184	^a800ffCinco Picos Antigos nº6·Grupo Felicidade e Alegria
+1185	^a800ffCinco Picos Antigos nº7·Grupo Pequeno Espírito de Fogo
+1186	^a800ffCinco Picos Antigos nº8·Grupo dos Lindos e Cheirosos
+1187	^a800ffCinco Picos Antigos nº9·Grupo Nuvenzinha Grande
+1188	^a800ffCinco Picos Antigos nº10·Grupo Noite Estrelada
+1189	^a800ffEncosta Bi Longtan nº1·Grupo Atenção Global
+1190	^a800ffEncosta Bi Longtan nº2·Grupo Cheiro Heroico
+1191	^a800ffEncosta Bi Longtan nº3·Grupo Resoluto
+1192	^a800ffEncosta Bi Longtan nº4·Grupo Deus do Sono
+1193	^a800ffEncosta Bi Longtan nº5·Grupo Força do Amor Cor-de-rosa
+1194	^a800ffEncosta Bi Longtan nº6·Grupo Filho Pródigo Sem Arrependimentos
+1195	^a800ffEncosta Bi Longtan nº7·Grupo Kouga
+1196	^a800ffEncosta Bi Longtan nº8·Grupo Cor de Mel
+1197	^a800ffEncosta Bi Longtan nº9·Grupo Força, Irmão!
+1198	^a800ffEncosta Bi Longtan nº10·Grupo Zardoz
+1199	^a800ffColiseu Graad nº1·Grupo VIVA
+1200	^a800ffColiseu Graad nº2·Grupo Grupo Deusa①Verdadeira
+1201	^a800ffColiseu Graad nº3·Grupo Era da Tempestade
+1202	^a800ffColiseu Graad nº4·Grupo Porta do Mestre
+1203	^a800ffColiseu Graad nº5·Grupo Ufcc
+1204	^a800ffColiseu Graad nº6·Grupo Sussurros do Vento
+1205	^a800ffColiseu Graad nº7·Grupo Assassinar@Sem@Perdão
+1206	^a800ffColiseu Graad nº8·Grupo Alma Fascinada
+1207	^a800ffColiseu Graad nº9·Grupo Oliver Twist
+1208	^a800ffColiseu Graad nº10·Condado de Sorte
+1209	^a800ffCentauro nº1·Grupo Deus
+1210	^a800ffCentauro nº2·Grupo Pioneiros
+1211	^a800ffCentauro nº3·Grupo W.O. dos Tolos
+1212	^a800ffCentauro nº4·Grupo Beleza Tocante
+1213	^a800ffCentauro nº5·Grupo Peixe│Sem Sombra de Lágrimas
+1214	^a800ffCentauro nº6·Grupo Dragão MIX℃
+1215	^a800ffCentauro nº7·Grupo Irmãozinho℃Sinistro
+1216	^a800ffCentauro nº8·GrupolVento Explosivo
+1217	^a800ffCentauro nº9·Grupo O Sábio Não Sabe de Nada
+1218	^a800ffCentauro nº10·Grupo 丨o Senhor Deus Abre os Céus丨
+1219	^a800ffLobo nº1·Grupo Senhor Deus Abre os Céus
+1220	^a800ffLobo nº2·Grupo 24K Caídos do Céu
+1221	^a800ffLobo nº3·Grupo Filho Θ do Vento
+1222	^a800ffLobo nº4·Grupo Xerath Capricórnio
+1223	^a800ffLobo nº5·Grupo Lágrimas de Bambu
+1224	^a800ffLobo nº6·Grupo Destruição do Mundo de Lúcifer
+1225	^a800ffLobo nº7·Grupo 【Shakespeare】
+1226	^a800ffLobo nº8·Grupo Violeta b
+1227	^a800ffLobo nº9·Grupo Princesinha dos Olhos Apaixonados
+1228	^a800ffLobo nº10·Grupo Bênção Celestial
+1229	^a800ffCamaleão nº1·Grupo Noite de Hermes
+1230	^a800ffCamaleão nº2·Grupo A Menos que Seja Eu
+1231	^a800ffCamaleão nº3·Grupo Alma Besta Sempre Tão Estúpida
+1232	^a800ffCamaleão nº4·Grupo Vento Deus
+1233	^a800ffCamaleão nº5·Grupo Perden
+1234	^a800ffCamaleão nº6·Grupo Beijo Interrompido
+1235	^a800ffCamaleão nº7·Grupo Dominique
+1236	^a800ffCamaleão nº8·Grupo Amor de Hermes
+1237	^a800ffCamaleão nº9·Grupo Os Três Dourados
+1238	^a800ffCamaleão nº10·Grupo Peixe Tranquilo
+1239	^a800ffCérbero nº1·Grupo Irmão do Império Celestial
+1240	^a800ffCérbero nº2·Grupo Fogo da Cimitarra
+1241	^a800ffCérbero nº3·Grupo Rei Leão Coração de Ferro
+1242	^a800ffCérbero nº4·Grupo Mocinha Bonita
+1243	^a800ffCérbero nº5·Grupo Aprendiz de Chefe
+1244	^a800ffCérbero nº6·Grupo Palheiro
+1245	^a800ffCérbero nº7·Grupo O Mitológico★ Pégasus
+1246	^a800ffCérbero nº8·Grupo Molho de Simon
+1247	^a800ffCérbero nº9·Grupo Mocinha Adorável
+1248	^a800ffCérbero nº10·Grupo Barão do Inferno
+1249	^a800ffTouro nº1·Grupo Vem, Vem, Winnie
+1250	^a800ffTouro nº2·Grupo Diva dos Palcos
+1251	^a800ffTouro nº3·Grupo Cobrir o Titã
+1252	^a800ffTouro nº4·Grupo Inimigo do Reino Unido
+1253	^a800ffTouro nº5·Grupo 【Raposa】
+1254	^a800ffTouro nº6·Grupo Desaparecido da Humanidade
+1255	^a800ffTouro nº7·Grupo Nossa Cidade do Leste
+1256	^a800ffTouro nº8·Grupo Vento Top, Cheguei
+1257	^a800ffTouro nº9·Grupo Só Vai Ter Tom D
+1258	^a800ffTouro nº10·Grupo Olhe Para Trás
+1259	^a800ffÁries nº1·Grupo Imperador Ladrão Decadente
+1260	^a800ffÁries nº2·Grupo★Chamas Deslumbrantes★
+1261	^a800ffÁries nº3·Grupo Noite Escura e Insana
+1262	^a800ffÁries nº4·Grupo Frio Insuportável
+1263	^a800ffÁries nº5·Grupo Saga
+1264	^a800ffÁries nº6·Grupo Aquário
+1265	^a800ffÁries nº7·Grupo Jade Negra
+1266	^a800ffÁries nº8·Grupo Garato Impaciente
+1267	^a800ffÁries nº9·Grupo Dragãozinho do Mar
+1268	^a800ffÁries nº10·Grupo Lutador Explosivo
+1269	^a800ffVirgem nº1·Grupo Sem frio, sem gelo
+1270	^a800ffVirgem nº2·Grupo Ciclo das Seis Existências - Nyma
+1271	^a800ffVirgem nº3·Grupo Contra a Vontade de Deus
+1272	^a800ffVirgem nº4·Grupo Técnica do Meteoro
+1273	^a800ffVirgem nº5·Grupo ...Prato Velho I...
+1274	^a800ffVirgem nº6·Grupo Gelo Invernal 丨 Vermelho Sangue
+1275	^a800ffVirgem nº7·Grupo Minha Nuvem Negra
+1276	^a800ffVirgem nº8·Grupo Bambu Confuso
+1277	^ff7800${companion} Amigo Próximo
+1278	Título da parceria
+1279	^ff4ca4Enquanto Você Dormia
+1280	É preciso que duas pessoas se esforcem em conjunto para um casamento feliz.
+1281	^ff4ca4Como o Primeiro Amor
+1282	^ff4ca4Amor Matrimonial Suave e Gentil
+1283	^ff4ca4 Só Você Para Me Acompanhar na Vida
+1284	^a800ffAmo Você
+1285	^a800ffVocê É Minha Luz
+1286	^ff4ca4Amor Eterno
+1287	^5acbccHá o Natal da Deusa
+1288	O pacote de presente "Noite de Natal e Ano Novo" supremo é especialmente dado
+1289	Retirar no pacote de presente "Noite de Natal e Ano Novo" supremo
+1290	^ffdf00Rei de Seis Asas
+1291	Presente especial; medalha da Raide de Ouro
+1292	^ffdf00*Aliança dos Assassinos de Deuses*
+1293	Presente especial; medalha da Raide de Prata
+1294	^ffdf00Etéreos do Submundo
+1295	Presente especial; medalha da Raide de Bronze
+1296	^ffdf00Eu Vou X Deus Vem
+1297	^ffdf00Lobo de Luz
+1298	^ff6c00Fanart Ouro
+1299	Primeiro lugar no concurso de fanarts
+1300	^ff6c00Fanart Prata
+1301	Segundo lugar no concurso de fanart
+1302	^ff6c00Fanart Bronze
+1303	Terceiro lugar no concurso de fanart
+1304	^ff6c00Top 3 · Multiservidor
+1305	Top 3 do Torneio Multiservidor
+1306	^ff6c00Top 5 · Multiservidor
+1307	Top 5 do Torneio Multiservidor
+1308	^ff6c00Top 10 · Multiservidor
+1309	Top 10 do Torneio Multiservidor
+1310	^ff6c00Top 20 · Multiservidor
+1311	Top 20 do Torneio Multiservidor
+1312	^ff6c00Primeiro Dragão
+1313	1º Dragão
+1314	^5acbccAo se divertir com 17y, não vai ficar sozinho
+1315	Venha 17y, vamos nos divertir juntos, não fique sozinho
+1316	Obter 17Y no Pacote de presente entusiasmado
+1317	^0099ccSonho de Uma Noite de Verão
+1318	Guerreiro animado da noite de verão, a sua imagem já ficou gravada no coração de todos.
+1319	^ffff00Ataque Crítico+1%\r^Ndepois de obter o título, a propriedade ^ffff00terá efeito permanente
+1320	Depois de colecionar 8 Folhas Frescas, procure o Emissário dos Festivais, Auge, para trocar.
+1321	^0099ccFilho do Amor
+1322	Receber a bênção do amor indica que terá sorte no amor nesse mês.
+1323	Obter no evento do Festival Tanabata
+1324	^ffdf00Emissário do Ano do Cavalo dos Cavaleiros do Zodíaco
+1325	Emissário do Ano do Cavalo dos Cavaleiros do Zodíaco
+1326	^5acbccVem, Dinheiro, Quero Ficar Rico!
+1327	Prêmio do bilhete de loteria do Ano Novo Chinês.
+1328	^5acbccSeus Desejos Vão Se Realizar
+1329	^5acbccTenha Um Próspero Ano Novo
+1330	^5acbccGalope do Cavalo
+1331	Título prêmio do retorno do velho jogador
+1332	^5acbccCorrer Para Te Abraçar
+1333	Título especial que o velho jogador que voltou te presenteou
+1334	^5acbccNova Geração
+1335	Título esgotado do aniversário de 10 anos da Perfect World. Dizem que colocá-lo sobre a cabeça aumenta enormemente o Índice de Sorte.
+1336	^a800ffPunição Divina
+1337	Maior número de vezes que matou na Competição Multiservidor 2013
+1338	^a800ffAres
+1339	Menor número de vezes que matou na Competição Multiservidor 2013
+1340	^ffdf00Fale Agora ou Suma Daqui
+1341	Título Único e Incomparável
+1342	^61f2ffEstrela GT Brilhante
+1343	Título único por GT ficar online
+1344	Título único por GT ficar online obtido no Pacote de presente grande do Cristal Verde do Cavaleiro
+1345	^5acbcc Cavaleiro Tencent que ama aventuras
+1346	Obter Pacote de Presente de meio de comunicação de Tecent
+1347	^5acbccCavaleiro Sina Brilhante
+1348	Obter pacote de Presente de meio de comunicação Sina
+1349	^5acbccCavaleiro 17173 Imbatível
+1350	Obter pacote de Presente de meio de comunicação 17373
+1351	^5acbccCavaleiro DuoWan de posição firme
+1352	Obter pacote de Presente de meio de comunicação Duowan
+1353	^5acbccCavaleiro DuoWan Obstinado
+1354	^a800ffPrivilegiado DuoWan brilhante
+1355	^5acbccCavaleiro NetEase
+1356	Obter pacote de Presente de meio de comunicação NetEase
+1357	^fff600Fim das Lamentações
+1358	O primeiro que derrotou a substituta de Hades e tomou os Campos Elísios.
+1359	No Evento Mundial——Fim! Muro das Lamentações, participe do golpe final na substituta de Hades, Pandora, e permita que o servidor avance na Era da Guerra do Imperador do Submundo para obter o título
+1360	^0099ccLutador Divino · Quebra-Gelo
+1361	Em [Heroico]Castelo do Graad Azul, derrote todos os Bosses na dificuldade Lutador Divino para obter o título
+1362	^0099ccSoldado Divino · Quebra-Gelo
+1363	Em [Heroico]Castelo do Graad Azul, derrote todos os Bosses na dificuldade Soldado Divino para obter o título
+1364	^a800ffSemideus · Quebra-Gelo
+1365	Em [Heroico]Castelo do Graad Azul, derrote todos os Bosses na dificuldade Semideus para obter o título
+1366	^a800ffAssassino de Deuses · Quebra-Gelo
+1367	Em [Heroico]Castelo do Graad Azul, derrote todos os Bosses na dificuldade Assassino de Deuses para obter o título
+1368	^0099ccLutador Divino
+1369	Em [Heroico]Castelo de Hades, derrote todos os Bosses na dificuldade Lutador Divino para obter o título
+1370	^0099ccSoldado Divino
+1371	Em [Heroico]Castelo de Hades, derrote todos os Bosses na dificuldade Soldado Divino para obter o título
+1372	^a800ffSemideus
+1373	Em [Heroico]Castelo de Hades, derrote todos os Bosses na dificuldade Semideus para obter o título
+1374	^a800ffMatador de Deuses
+1375	Em [Heroico]Castelo de Hades, derrote todos os Bosses na dificuldade Assassino de Deuses para obter o título
+1376	^a800ffO Venereável Deus Dragão
+1377	1º Lugar da Lista de Ranking do evento de recarga
+1378	^a800ffGautama
+1379	2º Lugar da Lista de Ranking do evento de recarga
+1380	^a800ffDeus Bondoso
+1381	3º Lugar da Lista de Ranking do evento de recarga
+1382	^a800ffO Grande Eclipse · Chegada de Hades
+1383	Título exclusivo de material para celebração do aniversário
+1384	^5acbccGuerreiro Aventureiro
+1385	Título exclusivo do clã
+1386	^a800ffGuerreiro Que Vivenciou a Batalha
+1387	^a800ffJustiça de Athena
+1388	Título da Divisão de Athena da Guerra de Domínios
+1389	^a800ffHonra de Poseidon
+1390	Título da Divisão de Poseidon da Guerra de Domínios
+1391	^a800ffMaldade de Hades
+1392	Título da Divisão de Hades da Guerra de Domínios
+1393	^a800ffDragão Guerreiro
+1394	Colecione os 4 Dragões para obter o título
+1395	^a800ffOlhos de Águia
+1396	Junte 8x Asas de Pássaro para obter o título
+1397	^a800ffExército Supremo
+1398	Título prêmio do evento das Ruínas do Deus da Guerra
+1399	^a800ffExército do Cume
+1400	^a800ffExército Galáctico
+1401	^a800ffExército Animado
+1402	^a800ffCavaleiro de Bronze
+1403	Título de primeira categoria do ranking de recarga
+1404	^a800ffDeus do Extermínio
+1405	Título de segunda categoria do ranking de recarga
+1406	^a800ffDeus Supremo
+1407	^a800ffJuíz Espiritual
+1408	Título de terceira categoria do ranking de recarga
+1409	^a800ffPoder de Libra
+1410	Favor da Deusa Athena
+1411	^ffff00Resistência ao elemento Terra +3\r^NEfeito permanente
+1412	Prêmio do evento
+1413	^a800ffPoder de Libra de Ouro
+1414	^ffff00Resistência ao elemento Terra +6\r^NEfeito permanente
+1415	Prêmio do evento precioso
+1416	^a800ffPoder de Aquário
+1417	^ffff00Resistência ao elemento Água +3\r^NEfeito permanente
+1418	^a800ffPoder de Aquário de Ouro
+1419	^ffff00Resistência ao elemento Água +6\r^NEfeito permanente
+1420	^a800ffPoder de Leão
+1421	^ffff00Resistência ao elemento Fogo +3\r^NEfeito permanente
+1422	^a800ffPoder de Leão de Ouro
+1423	^ffff00Resistência ao elemento Fogo +6\r^NEfeito permanente
+1424	^a800ffPoder de Sagitário
+1425	^ffff00Resistência ao elemento Vento +3\r^NEfeito permanente
+1426	^a800ffPoder de Sagitário de Ouro
+1427	^ffff00Resistência ao elemento Vento +6\r^NEfeito permanente
+1428	^a800ffPoder de Virgem
+1429	^ffff00Resistência ao elemento Trovão +3\r^NEfeito permanente
+1430	^a800ffPoder de Virgem de Ouro
+1431	^ffff00Resistência ao elemento Trovão +6\r^NEfeito permanente
+1432	^a800ffPoder Onipotente de Prata
+1433	^ffff00Resistência à todos os elementos +3\r^NEfeito permanente
+1434	^a800ffPoder Frenético
+1435	^ffff00Taxa de crítico +1%\r^NEfeito permanente
+1436	^a800ffPoder Frenético de Ouro
+1437	^ffff00Taxa de crític o+2%\r^NEfeito permanente
+1438	^a800ffPoder Frenético da Deusa
+1439	^ffff00Taxa de crítico +3%\r^NEfeito permanente
+1440	^a800ffMonitor da Escola do Santuário
+1441	Recompensa do professor esforçado
+1442	^a800ffProfessor da Escola do Santuário
+1443	^a800ffLíder do Santuário
+1444	^a800ffCaçador de Bug
+1445	Título de honra da Competição Multiservidor
+1446	^a800ffPrimeiro Pégasus
+1447	^a800ffCosplay Bronze
+1448	^a800ffCosplay Prata
+1449	^a800ffCosplay Ouro
+1450	^a800ffPeixes Soberano
+1451	Título exclusivo customizado pessoal de efeito especial
+1452	^a800ffLinhas da Marionete
+1453	^a800ffTestemunha da Batalha dos Deuses
+1454	Título exclusivo do encontro
+1455	^ff7800Grande Mestre
+1456	O Grande Mestre do Santuário, de sagrada e solene existência, é o porta-voz da Deusa Athena.
+1457	Depois da eleição de todos os servidores, transforme-se com o título exclusivo de Grande Mestre
+1458	^a800ffInvocador de Ares
+1459	Título exclusivo do evento de recarga de todo o Outono
+1460	^a800ffCavaleiro Sagrado
+1461	Prêmio do Marechal do Exército da Disputa Multiservidor do novo servidor
+1462	^a800ffCavaleiro Justiceiro
+1463	^a800ffCavaleiro Encantado
+1464	^5acbccAmigos Babacas
+1465	Expansão do Festival do Renascimento exclusiva
+1466	^a800ffExpedição Estelar
+1467	Título de prêmio do evento da Competição de Todas as Estrelas
+1468	^a800ffRei Estelar
+1469	Título de nível alto do evento da Competição de Todas as Estrelas
+1470	Título de nível alto do evento de Competição Rápida da Zona de Instância do Herói
+1471	Título de nível médio do evento de Competição Rápida da Zona de Instância do Herói
+1472	^a800ffSoldado Divino
+1473	Título de prêmio do evento de Competição Rápida da Zona de Instância do Herói
+1474	^a800ffAnjo Sagrado! Guarda da Deusa
+1475	Grupo de Emissários oficiais do Santuário, prêmio exclusivo do melhor Emissário da Contribuição!
+1476	^a800ffChamas Ardentes! Fúria dos Deuses
+1477	Título de nível alto do evento da Lista de Ranking de Recarga
+1478	^a800ffBatalha Desafiadora
+1479	Título exclusivo do evento da Lista de Ranking de Recarga
+1480	^5acbccDoador de Sangue
+1481	Título exclusivo do evento do Dia dos Solteiros
+1482	^a800ffPróximo de Deus
+1483	Título de nível especial do evento da Lista de Ranking de Recarga
+1484	^5acbccGostosuras ou Travessuras
+1485	Título exclusivo do evento do Dia das Bruxas
+1486	^a800ffMembro da Guerra
+1487	Título de honra da Guerra Galáctica
+1488	Título de evento da Guerra Galáctica
+1489	^a800ff3º Lugar · Guerra Galáctica
+1490	^a800ff2º Lugar · Guerra Galáctica
+1491	^a800ff1º Lugar · Guerra Galáctica
+1492	^5acbccProteção! Lar da Deusa
+1493	Título de Conquistas do Santuário
+1494	^5acbccAo Além! Glória Eterna
+1495	^5acbccRevolta Contra o Céu! Ira Celestial
+1496	^0099ccLutador Divino · A Guerra Santa Acaba
+1497	Em [Heroico]Fim de Hades, derrote todos os Bosses na dificuldade Lutador Divino
+1498	Incrível! Concluiu todos os desafios de dificuldade Lutador Divino!
+1499	^a800ffSoldado Divino · A Guerra Santa Acaba
+1500	Em [Heroico]Fim de Hades, derrote todos os Bosses na dificuldade Soldado Divino
+1501	Incrível! Concluiu todos os desafios de dificuldade Soldado Divino!
+1502	^ff6c00Semideus · O Fim de Hades
+1503	Em [Heroico]Fim de Hades, derrote todos os Bosses na dificuldade Semideus
+1504	Incrível! Concluiu todos os desafios de dificuldade Semideus!
+1505	^ff6c00Assassino de Deuses·Suspiro de Hades
+1506	Em [Heroico]Fim de Hades, derrote todos os Bosses na dificuldade Assassino de Deuses
+1507	Nada pode te deter! Concluiu todos os desafios de dificuldade Assassino de Deuses!
+1508	^ff6c00Punidor Galáctico
+1509	Título de recompensa da Arena Galáctica
+1510	Invista sangue e suor no retorno na Arena Galáctica para obter o título
+1511	^ff0000Soberano dos Deuses
+1512	Derrote todos os oponentes para ser o Governante da Cidade dos Deuses. Título único e exclusivo ao matar o Boss Multiservidor.
+1513	^ffdf00Terá validade de 3 dias após a obtenção do título; depois desaparecerá automaticamente
+1514	O título temporário pode ser obtido ao matar o Boss Mundial Multiservidor
+1515	^a800ffAssassino da Guerra
+1516	^a801ffGuerra de Ares
+1517	^a802ffSofredor da Guerra
+1518	^ff6c00Fantasma
+1519	Título personalizado do Evento de Recarga do Dia das Bruxas
+1520	^ff6c00Brilho Estelar
+1521	Título exclusivo dos Seguranças de Saori
+1522	^ff6c00Violador Dimensional
+1523	Título de prêmio do evento do Ranking de Recarga
+1524	^ff6c00Lenda Imortal
+1525	^ff6c00Onipresente
+1526	^ff6c00Ore Por Mim
+1527	Prêmio de título pré-definido da Disputa Multiservidor
+1528	^ff6c00Marido Exemplar
+1529	^ff6c00Certificação de troca de benefício do Santuário da semana passada
+1530	^ff6c00Convidado da Guerra
+1531	^5acbccCavaleiro 5173 Eterno
+1532	Obter no Cartão de Privilégio do serviço do Ano da Cabra 5173
+1533	^a800ffEm Mil Vidas, Só Quero Você
+1534	^ff0000Paixão Marcante
+1535	^ff0000Sempre ao Seu Lado
+1536	Sob a vontade divina, o amor encontra seu caminho.
+1537	Estrela Popular da Lista de Flores do Dia dos Solteiros de 2014
+1538	^ff0000Eros Chegou
+1539	^ff52bcBeleza Deslumbrante
+1540	^9763eeBeleza Florescente
+1541	^ff0000Beleza Brilhante
+1542	^14b427Beleza Encantadora
+1543	^ff52bcInseparáveis
+1544	Título especial do Dia do Branco
+1545	^ff52bcPromessa Ardente
+1546	^a800ffCerimônia de honra do retorno do Nirvana
+1547	Título especial de celebração da glória do Nirvana
+1548	^5acbccCavaleiro vindo de 5173
+1549	5173Título do pacote de presente do Cartão de Privilégios do Iniciante do Campo de Batalha das Cinzas
+1550	^ff0000Batalha Sangrenta
+1551	Título Especial de Celebração do Nirvana
+1552	^ff6c00Alma Dourada Imortal
+1553	Título especial da Lista de Ranking do evento de recarga
+1554	^ff6c00Alma Destemida
+1555	Título de honra do Torneio Galáctico
+1556	^a800ffBatalha do Rei Letal
+1557	^a800ffPassos de Ares
+1558	^a800ffFiel ao Exército!
+1559	^ff6c003º Lugar · Aspirante da Alma de Ouro
+1560	^ff6c002º Lugar · Guerreiro da Alma de Ouro
+1561	^ff6c001º Lugar · Rei da Alma de Ouro
+1562	^ff52bcBeleza Discreta
+1563	Cruzada!Título raro de quantidade limitada do BOSS Mundial
+1564	^9763eeAmo Te Atacar
+1565	^5acbccVamos Passear
+1566	^7acbccEntre Nos Campos Elísios
+1567	Título comemorativo da festa de aniversário de dois anos
+1568	^5acbccSou Divino
+1569	^ff0000Esmagador Imortal
+1570	Título especial da Lista de Ranking de Recarga
+1571	^5acbccAniversário!
+1572	Prêmio Especial do Embaixador da Propaganda
+1573	^6acbccAniversário! Vamos Aproveitar
+1574	^7acbccAniversário! Memórias Antigas
+1575	^ff6c00Árvores Salas Gêmeas
+1576	Título de Recarga Cumulativa Super VIP da História
+1577	^ffff00Ignora resistência contra todos os status anormais +2\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+1578	^ff6c00Está Tudo Bem
+1579	^ffff00Resistência à crítico +3%\rIgnora resistência contra todos os status anormais +3\r^NApós obter o título, o atributo terá efeito ^ffff00permanente^N
+1580	^ff6c00Desafie o Deus
+1581	^ff6c00Arayashiki
+1582	^5acbccBeleza Fria
+1583	Título personalizado especial da Lista de Ranking de Recarga
+1584	^ff6c00Top 10 · Exército de Ouro
+1585	Título de honra do Torneio de Ouro
+1586	^ff6c00Primeiro Lira
+1587	^ff6c00Shakete
+1588	^ff6c00Saguete
+1589	^5acbccSacerdote
+1590	Sacerdote do Imperador Dos Mares, de sagrada e solene existência, é o porta-voz do Imperador Poseidon.
+1591	^ff6c00Oficial Divino
+1592	Oficial Divino do Submundo, de sagrada e solene existência, é o porta-voz do Imperador Hades.
+1593	^ff6c00Crux
+1594	Título Exclusivo de uso acumulado de 30 dias do client arc para fazer login
+1595	^ff6c00Corra, Cavaleiro
+1596	Título comemorativo do evento Corrida Legal de 2015.
+1597	^ffff00Velocidade de movimento da montaria +20%\r^NAtiva os atributos ao selecionar o ^ffff00efeito^N
+1598	^ff6c00Glória Subestimada
+1599	^ff0000Devoção Total
+1600	Título do Irmãozinho do Dia dos Solteiros 2015
+1601	^ff6c00Primeira Vitória
+1602	Título de honra do Campeão da Competição Mundial 2015
+1603	^ff6c00Feliz Com Você
+1604	Título comemorativo do 2º-10º lugar da lista de recarga do 'Movimento Sinfônico Divino' de 2015
+1605	^ff4ca4Sentimento Intrínseco
+1606	Título de honra do 1º lugar de Flor Fresca do Dia dos Solteiros 2015
+1607	^ff4ca4Sempre Em Mente
+1608	Título de honra do 2º-3º lugar de Flor Fresca do Dia dos Solteiros 2015
+1609	^ffd700Cavaleiro Altruísta
+1610	A Lei da Natureza é não causar danos aos outros; ser um Santo é não disputar nada com ninguém.
+1611	Somente aquele que não compete com os demais não terá ninguém competindo consigo
+1612	^5acbccPrimeiro Fênix
+1613	Título de Participação das Competições do Soberano Galáctico 2015
+1614	^5acbccPrimeiro Wyrm
+1615	Título de Soberano das Competições do Soberano Galáctico 2015
+1616	^ff6c00Árvore Divina
+1617	Título exclusivo da árvore de dinheiro da deusa
+1618	^5acbccMarechal · Rei Galáctico
+1619	Título de honra de Chefe do Exército Campeão das Competições do Soberano Galáctico 2015
+1620	^5acbccMembro · Rei Galáctico
+1621	Título de honra de membro do Exército Campeão das Competições do Soberano Galáctico 2015
+1622	^0099ccLutador Divino · Lenda de Ouro
+1623	Mate todos os Bosses na dificuldade Lutador Divino no [Heroico]Doze Casas Divinas I para obter o título
+1624	^a800ffSoldado Divino · Lenda de Ouro
+1625	Mate todos os Bosses na dificuldade Soldado Divino no [Heroico]Doze Casas Divinas I para obter o título
+1626	^ff6c00Semideus · Lenda de Ouro
+1627	Mate todos os Bosses na dificuldade Semideus em [Heroico]Doze Casas Divinas I para obter o título
+1628	^ff6c00Assassino de Deuses · Lenda de Ouro
+1629	Mate todos os Bosses na dificuldade Assassino de Deuses no [Heroico]Doze Casas Divinas I para obter o título
+1630	^ff0000Brecha do Buraco Negro
+1631	Descobridor da brecha do buraco negro infinito
+1632	^ff0000Seja Vencedor
+1633	Título especial da lista de recarga de 03/2016
+1634	^ff0000Incidente da Névoa Vermelha
+1635	Comemoração pela participação no Incidente da Névoa Vermelha.
+1636	^ff0000Dominador Supremo
+1637	Título especial da lista de recarga de 05/2016
+1638	^5acbccPrimeiro Andrômeda
+1639	Título de Participação da Segunda Competição do Soberano Galáctico 2016
+1640	^5acbccPrimeiro Cisne
+1641	Título de Soberano da Segunda Competição do Soberano Galáctico 2016
+1642	^ff6c00Rei do Santuário
+1643	Título de Chefe Soberano da Segunda Competição do Soberano Galáctico 2016
+1644	^0099ccLutador Divino · Lenda de Ouro II
+1645	Mate todos os Bosses na dificuldade Lutador Divino no [Heroico]Doze Casas Divinas II para obter o título
+1646	^a800ffSoldado Divino · Lenda de Ouro II
+1647	Mate todos os Bosses na dificuldade Soldado Divino no [Heroico]Doze Casas Divinas II para obter o título
+1648	^ff6c00Semideus · Lenda de Ouro II
+1649	Mate todos os Bosses na dificuldade Semideus no [Heroico]Doze Casas Divinas II para obter o título
+1650	^ff6c00Assassino de Deuses · Lenda de Ouro II
+1651	Mate todos os Bosses na dificuldade Assassino de Deuses no [Heroico]Doze Casas Divinas II para obter o título
+1652	^ff4ca4Aniversário CdZ · 30 Anos!
+1653	Título de edição comemorativa do 30º aniversário de Cavaleiros do Zodíaco
+1654	^5acbccPrimeiro Dragão Marinho
+1655	Título de Participação da Disputa Multiservidor da Batalha dos Deuses
+1656	^ff6c00Campeão da Disputa Divina
+1657	Título de Campeão da Disputa Multiservidor da [Batalha dos Deuses]de 2016
+1658	^ff0000Adeus Ano Velho
+1659	Título comemorativo do [Encontro de Jogadores]de 2016
+1660	^ff0000Comandante do Mundo
+1661	Título especial da lista de recarga de 08/2016
+1662	^a800ffCavalheiro Único
+1663	Meu título é de mestre
+1664	Título exclusivo customizado pessoal do Encontro de Jogadores de 2016
+1665	^a800ffBeldade
+1666	^a800ffDemônio Lendário
+1667	^a800ffLenda do Submundo
+1668	^a800ffIndependente
+1669	^a800ffMassacre Total
+1670	^a800ffCavaleiro Eterno
+1671	^a800ffFeliz Ano Novo
+1672	Reunião em Novembro
+1673	^ffff00Ataque Elemento Principal +500\r^NQuando selecionado ^ffff00atributos^N entram em efeito
+1674	^ff6c00Não posso perder
+1675	Título de Recarga
+1676	^a800ffVontade Divina
+1677	Título de Recarga Especial
+1678	^a800ffRaio de Sol^
+1679	^a800ffBrilho Lunar
+1680	^a800ffVenha Comigo!
+1681	^ff0000Estrela Demoníaca
+1682	Título de Recarga Supremo
+1683	^a800ffGlória Dourada
+1684	Reunião em Abril
+1685	^a800ffDominação Eterna
+1686	Reunião em Maio
+1687	^a800ffManto do Rei
+1688	Título Exclusivo
+1689	^a800ffImperatriz Poderosa
+1690	^a800ffZero Absoluto
+1691	^a800fPalácio do Sul
+1692	^a800ffProtetor
+1693	^a800ffFiel aos Deuses
+1694	^a800ffSuperação
+1695	^a800ffRuína Divina
+1696	^a800ffOpen Bar
+1697	Título Exclusivo Especial
+1698	^ff0000Aprenda a ser um homem, aprenda a comer o pão
+1699	Pacote de título de ranking de maio de 2017
+1700	^ff0000Grandes irmãos não conversam muito
+1701	Pacote de título de ranking de Agosto de 2017
+1702	^9763eeMistério Feminino do Santuário
+1703	Pacote de título de ranking de Setembro de 2017
+1704	^ff0000Mestre de Tudo
+1705	^ffff00+10 pontos para ignorar resistências anormais\r+10 pontos para resistências anormais\rDepois de obter o título, os atributos são ^ffff00permanentementes.
+1706	^ff0000Olhar ~ Rio Luo ~ Guardião
+1707	Primeiro Pacote de título de ranking de Agosto de 2017
+1708	^ff0000Uma flor, um mundo
+1709	Primeiro Pacote de título de ranking de Setembro de 2017
+1710	^ff0000Verdade incerta, coma melões
+1711	^0099ccGuerreiro da Deusa do Destino
+1712	Pacote de Título exclusivo de presente de mídia
+1713	^0099ccO Mensageiro da Deusa do Crepúsculo
+1714	^0099ccGuerreiro da mitologia Nórdica
+1715	^0099ccGuerreiro lendário do Santuário
+1716	^0099ccO Mensageiro sagrado de Poseidon
+1717	^0099ccGuerreiro de Hades
+1718	^0099ccO Queridinho da Deusa
+1719	^ffffffDuração de Efeito
+1720	^ffffffLenda
+1721	^ffffffPrincipal
+1722	^ffffffSecundária
+1723	^ffffffAventura
+1724	^ffffffExploração
+1725	^ffffffReputação
+1726	^ffffffComunidade
+1727	^ffffffEpopeia
+1728	^ffffffExército
+1729	^ffffffPVP
+1730	^ffffffEvento
+1731	^ffffffFestival
+1732	^ffffffFórum
+1733	^ffffffRei
+1734	I · Pelo Amor e Justiça!
+1735	Efeito: ^ffff00HP +300/Evasão +15
+1736	Obtenha os títulos para completar a coleção
+1737	II · Protetor da Paz
+1738	III · Herdeiro do Destino
+1739	IV · Fé Inabalável
+1740	V · Teste Divino
+1741	VI · Poder Inigualável
+1742	VII · Cavaleiro Fantástico
+1743	VIII · Cavaleiro de Athena
+1744	IX · Cavaleiro Lendário
+1745	
+1746	尊贵速成礼包中获得
+1747	至尊新手礼包中获得
+1748	17173成长礼包中获得
+1749	媒体速成礼包中获得
+1750	闪耀前程礼包中获得
+1751	多玩豪华闪耀礼包中获得
+1752	网易至尊礼包中获得

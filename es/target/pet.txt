@@ -1,0 +1,359 @@
+0	Cerca
+1	Lejos
+2	Invocar
+3	Descanso
+4	Barra del Pet: %d /%d
+5	Etapa %d
+6	Ninguna Evolución
+7	Evolucionado %d veces
+8	Pets pueden evolucionar ahora
+9	Alterar
+10	Confirmar
+11	Calificación de ataque
+12	Calificación de defensa
+13	Calificaciones de vida
+14	Tasa de aumento de ataque
+15	Tasa de aumento de defensa
+16	Tasa de aumento de vida
+17	Aumento de ataque
+18	Aumento de defensa
+19	Aumento de vida
+20	Hacer eso hará que su pet %s se olvide de la habilidad %s nivel %d. ¿Estás seguro que quiere continuar?
+21	Ocurrió un error al utilizar Pet
+22	Nivel del Pet no cumple con requerimientos
+23	Oro insuficiente
+24	El nivel de carga del Pet es muy alto.
+25	El nivel de carga del Pet es muy bajo .
+26	Tasa de aumento del Pet ha alcanzado, no es posible continuar la mejora
+27	Aprendizaje
+28	Mejoras
+29	Para aprender esas habilidades el nivel de aprendizaje debe ser por lo menos %d
+30	Nivel necesario para aprendizaje de habilidades %d
+31	Tipo necesario de pet para aprendizaje de habilidad %s
+32	¡Pet aprendió nuevas habilidades!
+33	Pet no ha aprendido nuevas habilidades, inténtalo nuevamente más tarde.
+34	El Pet ya aprendió suficientes habilidades; en el caso que aprende más, no conseguirá acordarse >_<
+35	El Pet ya aprendió esa habilidad y no necesita aprenderla nuevamente.
+36	El número de habilidades activas de pet alcanzó el límite
+37	El número de habilidades pasivas del pet alcanzó el límite
+38	Tipo de pet incorrecto, usted no puede aprender esta habilidad
+39	El nivel de evolución de habilidades del pet no puede ser menor que %d
+40	Habilidades mejoradas requieren que el nivel del Pet alcanze %d
+41	¡El nivel de habilidad del Pet subió!
+42	No hubo cambio en el nivel de habilidad del Pet, aprenda más algunas veces y tente de nuevo
+43	Nivel de habilidad del Pet ya alcanzó el nivel máximo
+44	Pet aún no aprendió la habilidad correspondiente, no es posible proseguir con la mejora de habilidad
+45	Piedra de mejora de Pet y la habilidad del Pet elegida no corresponden
+46	Nivel de Habilidad del Pet no corresponde a los pre requisitos requeridos de la piedra de mejora
+47	Por favor, ponga primer el Pet que necesita ser evolucionado en la interfaz de evolución
+48	Nivel de Pet necesario para evolución: nivel %d
+49	Artículo necesario para evolución: %s
+50	%s evolucionado para el %d estágio con éxito
+51	No se ha podido evolucionar el Pet
+52	Pet ya evolucionó a la forma de estágio más alto
+53	Material utilizado para evolución
+54	¡Pet %s mejorado con éxito!
+55	Fracaso al mejorar Pet %S
+56	%s Pet ha alcanzado el límite máximo, no se puede seguir fortaleciendo
+57	Nivel mas alto que el Pet carga es %d
+58	Aumentar %s del Pet en %d puntos
+59	¡Fusión de Almas de Pet realizada con éxito!
+60	El estágio de los dos Pets ^ff0000 no son iguales, no se puede proseguir con la fusión de Almas
+61	La tasa de crecimiento inicial del Pet auxiliar ^ff0000 es relativamente más baja que la del Pet pricipal, no se puede proseguir con la fusión de Almas
+62	Alma del Pet movida con éxito 1
+63	La discrepancia entre los estágios de los dos Pets ^ff0000 solo puede llegar a 1, en el máximo
+64	Pet auxiliar ^ff0000 no tiene ninguna ayuda para el crecimiento del Pet principal
+65	Siamés
+66	Persa
+67	Pelo corto
+68	Scottish Fold
+69	Gato de Bengala
+70	Gatito
+71	Sharpei
+72	Madame
+73	Golden
+74	Pastor
+75	Mastín
+76	Perrito
+77	Loro
+78	Cacatúa
+79	Loro Corona Azul
+80	Loro Gris
+81	Guacamayo
+82	Águila
+83	Águila calva
+84	Otro
+85	Gato
+86	Perro
+87	Loro
+88	Águila
+89	Heroico
+90	Tranquilo
+91	Brillante
+92	Entusiasmo
+93	Huésped
+94	Dueño ~ Dueño ~
+95	Yo quiero [%s] ...
+96	Yo quiero %s para <%s> ...
+97	...Abrazo ~
+98	Muy feliz ~
+99	¿Está seguro que desea liberar el <% s>?
+100	Mensaje en la botella
+101	Iniciar procreación
+102	Finalizar procreación
+103	Falla en la procreación
+104	El contenido no puede estar vacío
+105	Ah... [%s] es mejor!
+106	Crecimiento menor de 500 no se puede hacer la procreación
+107	Crecimiento menor de 1500 no se puede hacer la procreación
+108	Crecimiento menor de 3000 no se puede hacer la procreación
+109	Crecimiento menor de 5000 no se puede hacer la procreación
+110	Crecimiento menor de 7500 no se puede hacer la procreación
+111	Nombre inválido
+112	Mensaje en la botella
+113	El contenido no puede estar vacío
+114	Imposible responder el mensaje por falta de fondos.
+115	<Pet de %s>
+116	Cuenta regresiva para la Operación: %ds
+117	Operación expiró, imposible hacer la procreación
+118	El Pet necesita ser invocado
+119	Artículos que faltan
+120	Muy Lejos del Pet
+121	Expirado
+122	Pet inválido
+123	No hay el artículo %s deseado!
+124	<%s> quedó satisfecho su deseo, está muy feliz
+125	No es posible invocar en el agua
+126	Pet ausente no está en el status de invocación
+127	Dueño del Pet ausente no está Online
+128	Pet está explorando, no es posible invocar
+129	No es posible invocar Pet bajo ese status
+130	Explorar
+131	Explorar
+132	¡Unirse a la exploración! <%s> de %s ya se han ido!
+133	¡La tropa de exploración salió oficialmente!
+134	Su Pet <%s> volvió de la exploración!
+135	Este Pet está explorando
+136	Este Pet ya exploró hoy
+137	Explorado
+138	%d minutos
+139	No es posible explorar si el grado de intimidad no llega a 200
+140	Explorar juntos, <%s> siguió <%s> de %s y salió ~
+141	<%s> salió!
+142	Error de Exploración ...
+143	Pet ya está explorando
+144	In amigos online, no es posible concluir
+145	Ya exploró hoy
+146	Índice de Stamina de <%s> no es suficiente, no es posible explorar
+147	Grado de intimidad de <%s> no es suficiente, no es posible explorar
+148	¡<%s> Entró para la tropa de exploración con éxito!
+149	Error al unirse a la exploración ...
+150	Ya tiene un Pet en exploración, sólo es posible tener 1 Pet participando al mismo tiempo
+151	Capitán Offline
+152	Este Pet ha explorado hoy
+153	Falla al unirse a la exploración, no es una relación de amistad
+154	No es posible localizar a la tropa
+155	Falla al unirse a la exploración, la tropa ya salió
+156	¡Adicionado con éxito!
+157	Error al adicionar
+158	El Pet no puede realizar la procreación
+159	La Procreación superó el límite máximo de veces
+160	No es posible realizar procreación en razas diferentes
+161	La relación de sangre entre los diferentes niveles no puede realizar la procreación
+162	En el status de liberación no es posible la procreación
+163	No es posible realizar la procreación en sexos iguales
+164	¡Procreación confirmada con éxito!
+165	Error en la confirmación de la procreación
+166	La otra parte no ha añadido el Pet
+167	¡Bebé procreado recibido con éxito!
+168	Ningún Pet en procreación
+169	El tiempo no ha terminado todavía, por favor, espere un poco
+170	Barra de Pet llena , es necesario al menos 2 espacios vacíos en la barra
+171	Entrenamiento del Pet en progreso ...
+172	Índice de Stamina del Pet no es suficiente, no es posible entrenar
+173	E Pet no está en status de invocación, no es posible entrenar
+174	Haga click para invocar al Pet
+175	Haga click para retirar al Pet
+176	Ningún Pet, no es posible realizar procreación
+177	No está en ninguna tropa, no es posible realizar procreación
+178	Si el número de personas en la tropa no fuera 2, no es posible realizar la procreación
+179	Compañero de tropa no está cerca, no es posible realizar procreación
+180	No es el capitán, no es posible realizar la procreación
+181	La procreación en progreso ...
+182	Compañero de tropa está con procreación en progreso
+183	Compañero de tropas sin Pet
+184	1 El pequeño compañero encontró un conejo en el camino arriba de la montaña, él se encariño y pasó un lindo período de tiempo con el conejito.El esfuerzo incansable del Pequeño Compañero resultó en 10000 metros de entrenamiento completo.
+185	2 El pequeño compañero encontró un oso negro en el camino de adelante y, despúes de una lucha intensa, el pequeño compañero acabó derrotándolo. El pequeño compañero corre alegremente de aquí para allá.
+186	3 El pequeño compañero organizó una fiesta nocturna en la fogata. Aquel día fue el mejor día de su vida; el Pequeño compañero lo guardará en su corazón. Por supuesto, todo eso es secreto, el dueño nunca lo descubrirá.
+187	4 Dicen que en el interior de un bosque distante hay un castillo misterioso y que, quien lo encuentre, podrá realizar sus deseos.Después de un esfuerzo incansable, el Pequeño Compañero acabó encontrando ese castillo misterioso e hizo su deseo realidad: quedarse para siempre a lado de su dueño.
+188	5 Cruzando un río cristalino, encontró una majestosa cascada a su frente. El Pequeño Compañero sintió la imponencia de la cascada y la reverenció en su corazón.
+189	6 ¡Información!Alvo encontrado adelante, está aproximándose paso a paso.....¡Parece que tiene algo brillante, cave para verlo! Realmente es un tesoro, llévelo secretamente al dueño.
+190	7 En la bifurcación de adelante está escrito un aviso: en el bosque de la montaña de más delante hay lobos que asombran, por favor, ¡Tenga cuidado! Pero el Pequeño Compañero se quedó en la línea de delante del equipo formado tranquilamente, simplemente no aparecieron lobos, pero sí una falsa alarma y nada más.
+191	8 De repente, una fuerte lluvia cayó de los cielos y tuvo que abrigarse temporalmente en una cueva.Sin embargo, descubrió inesperadamente un pote del tesoro y la lámpara mágica de Aladino, igualmente maravillosa. Así, el Pequeño Compañero hizo un deseo —— quiero comida, quiero mucha pero mucha comida.
+192	9 ¡Información! Alvo encontrado adelante, se está aproximando paso a paso..... Inicialmente,era un conejo, se encariño con el Pequeño Compañero y pasó un lindo período de tiempo con el conejo.
+193	10 ¡Información! Alvo encontrado delante, se está aproximando paso a paso..... El Pequeño Compañero encontró un oso negro en la carretera y, después de una lucha intensa, el Pequeño Compañero acabó derrotándolo.
+194	Opción 1
+195	Opción 2
+196	Opción 1
+197	Opción 2
+198	Opción 3
+199	Opción 4
+200	Opción 5
+201	Opción 6
+202	Opción 1
+203	Opción 2
+204	Opción 3
+205	Opción 4
+206	Opción 5
+207	Opción 6
+208	Opción 1
+209	Opción 2
+210	Opción 4
+211	Opción 5
+212	Opción 6
+213	Opción 1
+214	Opción 2
+215	Opción 3
+216	Opción 4
+217	Opción 5
+218	Opción 6
+219	Opción 1
+220	Opción 2
+221	Opción 3
+222	Opción 4
+223	Opción 5
+224	Opción 6
+225	Opción 1
+226	Opción 3
+227	Opción 4
+228	Opción 5
+229	Opción 6
+230	Opción 1
+231	Opción 2
+232	Opción 3
+233	Opción 4
+234	Opción 5
+235	Opción 6
+236	Opción 1
+237	Opción 2
+238	Opción 3
+239	Opción 4
+240	Opción 5
+241	Opción 6
+242	Opción 1
+243	Opción 2
+244	Opción 3
+245	Opción 4
+246	Opción 5
+247	Opción 6
+248	¡Idioma enseñado con éxito!
+249	Amigo no está en línea
+250	No es una relación de amistad
+251	Amigo actualmente sin Pet
+252	Grado de amistad no es suficiente
+253	¡Botella de mensaje usada con éxito!
+254	A cada día, solo se puede jugar 3 veces máximo, has excedido el límite
+255	Filtro de palabras sensibles, error
+256	Clan de escuderos completos
+257	El escudero no está invocado
+258	Retirar
+259	Sexo diferente, no es posible equipar
+260	Localización difeente, no es posible equipar
+261	¿Quieres reemplazar esta habilidad?
+262	Habilidad completa, por favor, considere expandir o substituir
+263	Falta el artículo 【%s】, no es posible expandir la formación de lucha
+264	Por favor, activa la formación de la lucha de delante
+265	Por favor, active la habilidad de delante
+266	Falta el artículo 【%s】, no es posible expandir el campo de la habilidad
+267	Falta el artículo 【%s】, no es posible renovar la clasificación
+268	La clasificación ha alcanzado el nivel máximo
+269	Gold insuficiente, no es posible renovar la clasificación
+270	No se puede colocar aqui
+271	No es posible invocar debajo del agua
+272	En status de vuelo no es posible invocar
+273	El jugador debe llegar a %s
+274	Este artículo no es el Libro de Habilidades
+275	Esta habilidad no puede ser colocada en este campo
+276	Campo de habilidad disponible no corresponde
+277	Este artículo no puede ser usado para expandir
+278	El campo ha sobrepasado el límite máximo
+279	GOld suficiente
+280	<Escudero de %s>
+281	Poseyendo [%s], puede abrir la tienda.\rReputación de Escudero ofrecerá ese artículo
+282	%d%% de la clasificación de la Escudero de esta posición será agregada a la Escudero que salió para luchar
+283	Escudero
+284	Por favor, quitale el equipamiento a la Escudero primero para poder seguir con la operación de nuevo
+285	Nivel del jugador insuficiente
+286	ya hay Escudero que sale a la lucha
+287	Escudero de la localización actual no puede salir a la lucha
+288	Haga click para invocar el Escudero
+289	Haga click aquí para el Escudero esperar
+290	Nivel de personaje muy bajo, no es posible equipar
+291	Grado de Afecto: %d
+292	Nivel Estelar insuficiente, no es posible equipar esa habilidad
+293	Práctica actualizada para %d. Abajo del valor actual no es alterado.
+294	No es posible invocar el Escudero bajo el status actual
+295	Arrastra el Escudero aqui para equipalo\r
+296	Abrir artículo requerido ^%06x%s\r
+297	^ff0000Power adicional %.f%%
+298	Arrastra el Escudero hasta aquí para equipalo, después de equipado, no es posible desvestir la habilidad, puede usar una nueva habilidad para sustituir la original
+299	^ff0000Power adicional %.f%%^ffffff\r
+300	El nivel influencia en los atributos adicionales
+301	Práctica influencia en los atributos adicionales
+302	Al aumentar el Nivel Estelar, la Práctica y el límite de Práctica serán elevados
+303	Falta el artículo [%s], no es posible elevar
+304	Arrastra el equipamiento del Escudero aquí para equipalo
+305	Posición: Botas\r
+306	Posición: Yelmo\r
+307	Posición: Armadura\r
+308	^ff0000Lv %d
+309	Nv. Máx.
+310	Escudero bloqueado, no es posible renovar Práctica
+311	Libro de habilidades bloqueado, no es posible equipar
+312	Escudero bloqueado, no es posible sustituir la habilidad que ya posee
+313	Escudero bloqueado, no es posible sustituir el equipamiento que posee
+314	Atributo
+315	Don
+316	Práctica Atual
+317	Práctica Máxima
+318	Nv. Máximo
+319	Ataque
+320	Hit
+321	Ataque elemental
+322	Ataque crítico
+323	Nivel del Escudero
+324	Práctica adicional
+325	Colección de Escuderos
+326	Nv Estelar
+327	Aumentar Práctica
+328	Subir
+329	%d
+330	Práctica
+331	Parar
+332	Esta Escudero ha alcanzado su fase máxima
+333	^ff0000 sólo puede recoger una Escudero conforme el misma ID
+334	Es necesario que la barra de favoritos anterior esté completa para poder activar la próxima barra
+335	Escudero auxiliar está vinculada, después de la absorción, la Escudero se quedará en status vinculado, ¿Desea absorver?
+336	Después del consumo de la futa de Poder Mágico vinculada, la Escudero cambiará para status vinculado, ¿Desea continuar con el crecimiento?
+337	^ff0000Práctica de %s completa
+338	★Power %d
+339	^ffff00★Power %d ^ff0000(%.f%%)
+340	Power de colección: %d ^ff0000(1%%)
+341	Próx. Nv.
+342	Agotar
+343	Elevar
+344	^ff0000%s alcanzó nivel máximo
+345	^ff0000 Nivel de la Escudero no puede superar el nivel del personaje
+346	^ff0000Por favor, aumente el nivel del personaje
+347	^ff0000Lv %d
+348	Nivel máximo del Escudero
+349	El nivel de la Escudero es más alto que el del personaje
+350	^ff0000Primeiro retirar el equipamiento del Escudero
+351	^ff0000%s necesira que la calificación alcance %d, solamente así podra aumentar la fase
+352	^ff0000Para el Escudero evolucionar, necesita alcanzar %d de Práctica.
+353	^ff0000Evolución de %s completa
+354	^ff0000Evolución de equipamiento del Escudero completa
+355	^ff0000Material insuficiente
+356	守护星级别过低，无法装备
+357	携带等级
+358	同一个ID的守护星只能收藏一个

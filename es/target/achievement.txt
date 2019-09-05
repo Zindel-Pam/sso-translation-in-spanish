@@ -1,0 +1,1176 @@
+0	Tristeza Inevitable
+1	Muerte accidental del personaje
+2	Nv 10
+3	Alcanzó Nv 10
+4	Nv 20
+5	Alcanzó Nv 20
+6	Nivel 30
+7	Alcanzó Nv 30
+8	Trabajo Duro
+9	Cumplir la misión del anillo 2 veces dentro de 4 días.
+10	Cauteloso y conscientemente
+11	Cumplir la misión de la libreria 1 vez dentro de una semana
+12	Aumentar el nivel de la Armadura
+13	Realización registrada
+14	Mejoramiento del equipamiento
+15	Desmontar equipamiento a través de la Caja Mágica.
+16	Fusionar artículos a través de la Caja Mágica
+17	Producir habilidades
+18	Aries comanda la misión
+19	Tauro comanda la misión
+20	Géminis comanda la misión
+21	Cáncer comanda la misión
+22	Cáncer comanda la misión (realización registrada)
+23	Virgo comanda la misión
+24	Leo comanda la misión
+25	Libra comanda la misión
+26	Escorpio comanda la misión
+27	Sagitario comanda la misión
+28	Capricornio comanda la misión
+29	Acuario comanda la misión
+30	Piscis comanda la misión
+31	Arena de Ática
+32	Agregar Amigo
+33	Agregar ejército
+34	Subasta
+35	Subasta realizada con éxito
+36	Montar Tienda
+37	Sonido de montaje del tiempo
+38	Sonido del ejército
+39	Editor de golpes continuos
+40	Embutir amuleto
+41	PVP en ritmo lento
+42	Astrología del Cosmos
+43	Formar equipo
+44	Bañado por la gloria (Ganar experiencia)
+45	Alcanzó el nivel 5
+46	Orientaciones Logros premisa
+47	Alcanzó el nivel 11
+48	Alcanzó el nivel 12
+49	Alcanzó el nivel 15
+50	Alcanzó el nivel 25
+51	Alcanzó el nivel 35
+52	Alcanzó el nivel 40
+53	Alcanzó el nivel 45
+54	Alcanzó el nivel 50
+55	Alcanzó el nivel 59
+56	Cumplir con la misión de aumentar el nivel
+57	Cumplir con la misión de fusionar el equipamiento con la Caja Mágica.
+58	Ganar el título 21301
+59	Complete 1x el Cuestionario de Kiki
+60	En ${dynamic_dir(55, "Programación del Día")}, complete Cuestionario de Kiki.
+61	Complete 1x Crisis de las Doce Casas
+62	En ${dynamic_dir(55, "Programación del Día”)}, complete Crisis de las Doce Casas.
+63	Complete 1x Tempestad Atlantis
+64	En ${dynamic_dir(55, "Programación del Día")}, complete Tempestad en Atlantis.
+65	Complete 1x Diez Cuevas
+66	En ${dynamic_dir(55, "Programación del Día")}, complete Diez Cuevas.
+67	Sea victorioso en [Arena]Ruínas de Atica
+68	En ${dynamic_dir(55, "Programación del Día")}, complete Ruinas de Ática.
+69	Complete 1x Exterminar el Mal
+70	En ${dynamic_dir(55, "Programación del Día")}, complete Erradicar el Mal.
+71	Participa de las Memórias de la Guerra Santa y vista la Armadura Dorada
+72	Después del Nv 15, ve a la Interfaz de Recomendaciones en el Calendario y participa de [Instancia] Memórias de la Guerra Santa y prueba el poder de la Armadura Dorada
+73	Refinar cualquer Armadura hasta el Nv 2
+74	Usa ${dynamic_dir(5, “Refinar")} para refinar cualquier Armadura hasta el Nv2
+75	Crear o participar de un Ejército
+76	Ve hacia ${npc(14799)} para crear o participar de un Ejército
+77	Participar de la Arena de Duelo
+78	Ve al interfaz de la ${dynamic_dir(26, "Arena de Duelo")} y conquiste 10 victorias.
+79	Cambie de Signo 1x
+80	Ve hacia ${npc(18405)} y cambia de Signo 1x
+81	Realiza una compra con Gem en Item Mall
+82	Ve al ${dynamic_dir(44, "Item Mall")} y realice una compra con Gem
+83	Fortalecer el Cosmos 1x
+84	Ve al ${dynamic_dir(1, "Cosmos")} y realice 1x la Astromancia, insertando el Alma para que el Índice de Poder Estelar alcanze 500
+85	Conclua la Quest de Cosmos
+86	Obtener la 2ª Armadura de Bronce
+87	Ve hacia ${npc(17439)} para obtener la 2ª Armadura de Bronce
+88	Realizar una División por la Caja Mágica
+89	Usa ${dynamic_dir(3, "Caja Mágica")} para dividir un Equipamiento
+90	Refinar 1x el Equipamiento
+91	Ve hacia ${npc(11576)} para Refinar cualquier Equipamiento 1x
+92	Elevar 1x el Nv por la Caja Mágica
+93	Usa ${dynamic_dir(4, "Caja Mágica")} para elevar el Nv de un Equipamiento
+94	Aprender 1 Habilidad de Producción
+95	Ve con ${npc(17542)} y aprenda alguna habilidad de Producción.
+96	Ofrecer una oferta de un artículo en la Subasta
+97	Ve hacia ${npc(11575)} y haga una oferta en un artículo de la Subasta
+98	Clavetear Runa 1x
+99	Ve hacia ${npc(17850)} y clavetea una runa en cualquier Equipamiento
+100	Activar un Título
+101	Activar cualquier ${dynamic_dir(56, "Título")} obtenido
+102	Activar 2x EXP
+103	Ve hacia ${npc(14838)} para recibir 2x EXP y activalo en ${dynamic_dir(6, "2x EXP")}
+104	Alcanzar Nv 18
+105	Alcanzar Nv 18
+106	Usa 1x el Almacén
+107	Ve hacia ${npc(11565)} para activar el Almacén y guardar los itens 1x
+108	Refinar el Equipamiento hasta que el Power alcanze 2000
+109	Con ${npc(11576)} Perfeccione el Power a 2000 ${jump(1)}
+110	Comprar 1x suministros
+111	Ve hacia ${npc(11303)} y ${npc(17282)} para comprar 50 Panes Dinamarqueses y 50 Pociones Potentes de HP
+112	Complete 1x Caballeros de la Diosa
+113	En ${dynamic_dir(55, "Programación del Día")}, complete Caballeros de la Diosa.
+114	Complete 1x Desafío del Destiino
+115	En ${dynamic_dir(55, "Programación del Día")}, complete Desafío del Destino.
+116	Power alcanzó 5000 y Nv 25
+117	Orientaciones Logros
+118	Poder de combate de 9000 y 35
+119	Poder de combate de 15.000 y 45
+120	Poder de combate de 28.000 y 55
+121	Poder de combate de 50.000 y 65
+122	Poder de combate de 80.000 y 75
+123	Poder de combate alcanzó 115.000 y 85
+124	Poder de combate alcanzó 150.000 y 95
+125	Vincular Tarjeta de Seguridad
+126	Ve hacia ${npc(29306)} para vincular la Tarjeta de Seguridad
+127	Refinar cualquier Armadura hasta Nv 5
+128	Usa ${dynamic_dir(5, "Refinar")} y refine cualquier Armadura hasta Nv 5
+129	Obtener 5 Armaduras
+130	Ve hacia ${npc(17439)}, ${npc(17440)} o ${npc(28252)} para obtener otra Armadura
+131	Índice de Poder Estelar del Cosmos alcanzar 1000
+132	En ${dynamic_dir(1, "Cosmos")} hacer el Índice de Poder Estelar alcanzar 1000
+133	Obtener 2 Armaduras de Plata
+134	Ve hacia ${npc(17440)} para conseguir pistas y obtener más de 2 Armaduras de Plata
+135	Obtener 1 Armadura Dorada
+136	Ve con ${npc(28252)} para conseguir pistas y obtener 1 Armadura Dorada.
+137	Los Caballeros del Zodíaco OL Introducción del Divulgador
+138	Ve hacia ${npc(32159)} para leer la Introducción del Divulgador de Los Caballeros del Zodíaco OL
+139	Obterner 1 Pet
+140	Ve con el ${npc(1240)} y pregúntale cómo se obtiene 1 Pet.
+141	Realice 1x la Procriación de Pet
+142	Ve hacia ${npc(17340)} y realice 1x la Procriación de Pet
+143	Complete 3x la Quest Desafío del Jardin de la Ilusión
+144	Ve hacia ${npc(33799)} para complete 3x la Quest Desafío del Jardin de la Ilusión
+145	Obtener 10 Armaduras de Bronce
+146	Refinar 14 Armaduras de Bronce Comum hasta Nv Máx
+147	Refinar 14 Armaduras de Bronce hasta Nv Máx
+148	Paño de cualquier líder elenco de estrellas a 17
+149	Obtener 10 de plata paño
+150	Básico para plata intermedia paño tiene una estrella asignado para el nivel máximo
+151	Paño de alto nivel estrella de plata fundida para tener un nivel máximo
+152	Obtener 6 Armadura Dorada
+153	Cualquier estrella paño de oro fundido a 20
+154	Cualquier estrella elenco paño de oro de 12 a 20
+155	Equipamiento de cualquier agujero en 100% de forma
+156	Equipamientos para cualquier agujero en 100% de forma, si hubierá 100% de polietileno, se pueden reunir una vez.
+157	Equipamiento de todas los tres agujeros en forma para 100%
+158	Equipamiento de todos los tres agujeros en forma de 100%,100%, 3 agujeros necesitan estar en el mismo equipamiento
+159	Índice de Poder Estelar del Cosmos alcanzar 5000
+160	Índice de Poder Estelar del Cosmos alcanzar 5000, consulta el Sistema de Cosmos para más detalles
+161	Pequeño universo de poder de estrella alcanzó 8000
+162	Pequeno universo de poder de estrella alcanzó 13.500
+163	Pequeño universo de poder de estrella alcanzó 19000
+164	Alcance 1500 de power con el Escudero.
+165	Escudero de energía de práctica de combate de 1500 , consulte el carácter específico del poder de combate de la práctica propiedad regla
+166	Alcance 4000 de power con el Escudero.
+167	Alcance 6000 de power con el Escudero.
+168	Perfeccione el Equipamiento hasta que el Power alcance 6000.
+169	Perfeccione el Equipamiento hasta que el Power bono alcance 6000.
+170	Equipamiento de poder de combate en forma alcanzó 8000
+171	Equipamiento de poder de combate en formas alcanzó 12.000
+172	Equipamiento de poder de combate en forma alcanzó 15000
+173	Cualquiera de un elenco oscuro para protagonizar paño 16
+174	Ler las instrucciones del sistema sobre Tutela
+175	Ve hacia ${npc(34575)} para leer las instrucciones sobre los requisitos para tornarse un aprendiz
+176	Obtener 20 Armaduras de Plata
+177	Obtener 12 Armadura Dorada
+178	Hay tres amigos amistad alcanzó 1w
+179	Reputación cualquier valor total de un alcance geográfico
+180	Reputación cualquier personaje que alcance un valor total
+181	Grado de alcance grado de observación de estrellas 5
+182	Stargazing alcance de grado 5, completa 5 constelación
+183	Nivel Stargazing alcanzó 24
+184	Nivel Stargazing alcanzó 48
+185	Jugadores de la actividad personal dia llega a 200
+186	Completa cult 1 Estrella
+187	En Estrella a partir de un interfaz de rituales de culto
+188	Tornarse el Divulgador Dorado de Los Caballeros del Zodíaco
+189	Ve hacia ${npc(32159)} para leer las orientaciones detalladas sobre el Divulgador Dorado, motivando otros jugadores a alcanzaren Nv 10
+190	Obtener el legendario cinco Xiaoqiang paño
+191	En la misión principal al subir a 9, enseguida, puede ser colocado sobre la leyenda de los cinco Xiaoqiang paño
+192	Nv 10 Paquete de Acelerador de Nv
+193	En ${jump(88)} Star-Más vendido, compre y abra Nv 10 Paquete de Progreso de Nv
+194	Convocar a los Caballeros del Dragón
+195	¡Felicidades, recogiste los cuatro dragones! Tal vez en un futuro próximo pueda satisfacer su deseo.
+196	Complete el Desafío de la Instancia
+197	Ve a la ${npc(212333)} para completar la dungeon "Meteoro Negro"
+198	Ve a la ${npc(212333)} para completar la dungeon "Huracán de las Tinieblas"
+199	Ve a la ${npc(212333)} para completar la dungeon "Explosión Galáct."
+200	Ve a la ${npc(212333)} para completar la dungeon "Sinfonía Final"
+201	Ve a la ${npc(212333)} para completar la dungeon "Destr. Máxima"
+202	Ve a la ${npc(212333)} para completar la dungeon "Agujero Negro"
+203	Certificado de Aprendiz
+204	Alcance el Nv. 10
+205	Certificado de Novato
+206	Alcance el Nv. 20
+207	Certificado de Luchador
+208	Alcance el Nv. 30
+209	Certificado de Guerrero
+210	Alcance el Nv. 40
+211	Certificado de Élite
+212	Alcance el Nv. 50
+213	Certificado de Héroe
+214	Alcance el Nv. 60
+215	Certificado de Guardián
+216	Alcance el Nv. 70
+217	Certificado de Superación
+218	Alcance el Nv. 80
+219	Certificado de Gran Maestro
+220	Alcance el Nv. 90
+221	Certificado de Dios
+222	Alcance el Nv. 100
+223	Leyenda del Masacre
+224	Obtenga 10000 de Power
+225	Masacre de los Demonios
+226	Obtenga 50000 de Power
+227	Leyenda Inmortal
+228	Obtenga 100000 de Power
+229	Leyenda del Asesino de Dioses
+230	Obtenga 150000 de Power
+231	Camino a la Riqueza
+232	Obtenga 100000 Gold
+233	Bien de Vida
+234	Obtenga 500000 Gold
+235	Persona Rica
+236	Obtenga 1000000 Gold
+237	Capitalista
+238	Obtenga 5000000 Gold
+239	Acumulador
+240	Obtenga 100000 Silver
+241	Ahorrador
+242	Obtenga 500000 Silver
+243	Magnate
+244	Obtenga 1000000 Silver
+245	Millonario
+246	Obtenga 5000000 Silver
+247	Trabajo Duro
+248	Abre la 4º Caja de Actividad 1x
+249	Abeja Trabajadora
+250	Abre la 4º Caja de Activ. por 7 días consecutivos
+251	Trabajo Arduo
+252	Abre la 4º Caja de Actividad 120x
+253	Del Este a Oeste
+254	Obtenga 400pts de Actividad en 1 día
+255	De Arriba a Abajo
+256	Obtenga 800pts de Actividad en 1 día
+257	En Todos Lados
+258	Obtenga 1500ptos de Actividad en 1 día
+259	1ª Gota de Sangre
+260	Complete la Quest Erradicar el Mal 1x
+261	Perro de Caza
+262	Complete la Quest Erradicar el Mal 8x
+263	El Cazador
+264	Complete la Quest Erradicar el Mal 20x
+265	5º Sentido
+266	Alcance el Nv. 1 del Cosmos
+267	6º Sentido
+268	Alcance el Nv. 2 del Cosmos
+269	7º Sentido
+270	Alcance el Nv. 3 del Cosmos
+271	8º Sentido
+272	Alcance el Nv. 4 del Cosmos
+273	9º Sentido
+274	Alcance el Nv. 5 del Cosmos
+275	Destinado al Santuario
+276	Obtenga 5 Armaduras
+277	Destinado a la Constelación
+278	Obtenga 12 Armaduras
+279	Espíritu de Caballero
+280	Obtenga una Montaría
+281	Compañero de Marin
+282	Alcance Reputación Nv. Estima con ella
+283	Compañero de Shina
+284	Alcance Reputación Nv. Estima con ella
+285	Compañero de Mu
+286	Alcance Reputación Nv. Estima con él
+287	Compañero de Aldebarán
+288	Alcance Reputación Nv. Estima con él
+289	Compañero de Saga
+290	Alcance Reputación Nv. Estima con él
+291	Compañero del Máscara de la Muerte
+292	Alcance Reputación Nv. Estima con él
+293	Compañero de Aioria
+294	Alcance Reputación Nv. Estima con él
+295	Compañero de Shaka
+296	Alcance Reputación Nv. Estima con él
+297	Compañero de Milo
+298	Alcance Reputación Nv. Estima con él
+299	Compañero de Dohko
+300	Alcance Reputación Nv. Estima con él
+301	Compañero de Aioros
+302	Alcance Reputación Nv. Estima con él
+303	Compañero de Shura
+304	Alcance Reputación Nv. Estima con él
+305	Compañero de Camus
+306	Alcance Reputación Nv. Estima con él
+307	Compañero de Afrodita
+308	Alcance Reputación Nv. Estima con él
+309	Compañero de Seiya
+310	Alcance Reputación Nv. Estima con él
+311	Compañero de Hyoga
+312	Alcance Reputación Nv. Estima con él
+313	Compañero de Shiryu
+314	Alcance Reputación Nv. Estima con él
+315	Compañero de Shun
+316	Alcance Reputación Nv. Estima con él
+317	Compañero de Ikki
+318	Alcance Reputación Nv. Estima con él
+319	Guardián del Santuario
+320	Alcance Reputación Nv. Zelo en esta región
+321	Guardián del Coliseo Graad
+322	Alcance Reputación Nv. Zelo en esta región
+323	Guardián de Rozan
+324	Alcance Reputación Nv. Zelo en esta región
+325	Guardián del Camino Olvidado
+326	Alcance Reputación Nv. Zelo en esta región
+327	Guardián de la Isla de la Reina Muerte
+328	Alcance Reputación Nv. Zelo en esta región
+329	Guardián de la Siberia Oriental
+330	Alcance Reputación Nv. Zelo en esta región
+331	Guardián de Atlantis
+332	Alcance Reputación Nv. Zelo en esta región
+333	Guardián de la Isla de Andrómeda
+334	Alcance Reputación Nv. Zelo en esta región
+335	Guardián del Castillo de Hades
+336	Alcance Reputación Nv. Zelo en esta región
+337	¡La Leyenda de los Caballeros!
+338	Complete "Saga de las Doce Casas Doradas", Cap.1
+339	¡Caballero del Amor y de la Justicia!
+340	Complete "Saga de las Doce Casas Doradas", Cap.2
+341	¡Guerrero bajo la Via Láctea!
+342	Complete "Saga de las Doce Casas Doradas", Cap.3
+343	¡Joven Destinado!
+344	Complete "Saga de las Doce Casas Doradas", Cap.4
+345	¡Hombre que conoce la verdad!
+346	Complete "Saga de las Doce Casas Doradas", Cap.5
+347	¡Fe Milenar Intacta!
+348	Complete "Saga de las Doce Casas Doradas", Cap.6
+349	¡El Caballero Dorado de Sagitario!
+350	Complete "Saga de las Doce Casas Doradas", Cap.7
+351	¡El Dominio Sangriento de los Siete Mares!
+352	Complete "Saga de las Doce Casas Doradas", Cap.8
+353	¡La Ambición de Dominar el Mundo!
+354	Complete "Saga de las Doce Casas Doradas", Cap.9
+355	¡Las Llamas de la Isla de la Reina Muerte!
+356	Complete "Saga de las Doce Casas Doradas", Cap.10
+357	¡El Poder de Poseidón!
+358	Complete "Episodio Lucha de Poseidón", Cap.1
+359	¡La Gloria del Extremo Norte!
+360	Complete "Episodio Lucha de Poseidón", Cap.2
+361	¡La Ira de Poseidón!
+362	Complete "Episodio Lucha de Poseidón", Cap.3
+363	¡El Azul de la Fortaleza Submarina!
+364	Complete "Episodio Lucha de Poseidón", Cap.4
+365	¡Destructor Dorado!
+366	Complete "Episodio Cruzada del Inframundo", Cap.1
+367	¡El Prólogo de la Gran Guerra Santa!
+368	Complete "Episodio Cruzada del Inframundo", Cap.2
+369	¡La Traición de los Caballeros Dorados!
+370	Complete "Episodio Cruzada del Inframundo", Cap.3
+371	¡Portal que lleva al Inframundo!
+372	Complete "Episodio Cruzada del Inframundo", Cap.4
+373	Fuga ¡Otra Dimensión!
+374	Complete esta Quest de enredo
+375	¡Melodía Sofocante!
+376	Complete esta Quest de enredo
+377	Urgente ¡La Situación del León!
+378	Complete esta Quest de enredo
+379	Batalla ¡Las Doce Casas!
+380	Complete esta Quest de enredo
+381	Torneo Galáctico
+382	Luche en el Torneo Galáctico
+383	¡Batalla mortal de las Diez Cuevas!
+384	Complete esta Quest de enredo
+385	Ruptura ¡Dragón y Tigre!
+386	Complete esta Quest de enredo
+387	Fuga ¡Yomotsu Hirasaka!
+388	Complete esta Quest de enredo
+389	Recuerdos ¡La Verdad de Hace Trece Años!
+390	Complete esta Quest de enredo
+391	Conspiración ¡El Hombre que Engañó a Dios!
+392	Complete esta Quest de enredo
+393	Confrontación ¡Regreso al Monte de las Estrellas!
+394	Complete esta Quest de enredo
+395	Puño Fantasma[Oscuridad]
+396	¡Completa esta Quest de [Enredo]!
+397	Recuerdos ¡El Renacimiento de Fénix!
+398	Complete esta Quest de enredo
+399	Recuerdos ¡La Justicia de la Aurora!
+400	Complete esta Quest de enredo
+401	Azul Profundo ¡La Batalla de los Siete Mares!
+402	Complete esta Quest de enredo
+403	¡Carmesí! ¡Sombra de Otro Mundo!
+404	En ${npc(212687)} complete Sombra Trascendente.
+405	Leyenda del Coliseo Graad
+406	Complete 30 Quests secundarias en esta región
+407	Leyenda de Rozan
+408	Complete 30 Quests secundarias en esta región
+409	Leyenda del Camino Olvidado
+410	Complete 30 Quests secundarias en esta región
+411	Leyenda de la Isla de la Reina Muerte
+412	Complete 30 Quests secundarias en esta región
+413	Leyenda de la Siberia Oriental
+414	Complete 30 Quests secundarias en esta región
+415	Leyenda de Atlantis
+416	Complete 30 Quests secundarias en esta región
+417	Leyenda de la Isla de Andrómeda
+418	Complete 30 Quests secundarias en esta región
+419	Leyenda del Castillo de Hades
+420	Complete 30 Quests secundarias en esta región
+421	Pequeño Matemático
+422	Complete "Doce Casas" y "Héroe del Destino"
+423	Bardo
+424	Complete la Quest 5x
+425	Bardo Viajero
+426	Complete la Quest 25x
+427	Escritor de Epopeyas
+428	Complete la Quest 50x
+429	Colector de Rumores
+430	Complete la Quest diariamente durante 5 días
+431	Habilidoso
+432	Complete la Quest 1x
+433	Vencer los Enemigos
+434	Complete la Quest 10x
+435	Indomable
+436	Complete la Quest 25x
+437	Astro EXP concentrado
+438	Complete la Quest diariamente durante 5 días
+439	Pasión Extrema
+440	Complete 1x la "Quest Extrema" de la Estrella 1
+441	Desafío Extremo
+442	Complete 1x la "Quest Extrema" de la Estrella 2
+443	Honor Extremo
+444	Complete 1x la "Quest Extrema" de la Estrella 3
+445	¡Límite de los Caballeros!
+446	Complete en total 50x la "Quest Extrema"
+447	Crisis de las Doce Casas
+448	Complete esta Quest de evento
+449	Proteja Saori
+450	Complete esta Quest de evento
+451	Tempestad en Atlantis
+452	Complete esta Quest de evento
+453	Desafío de Piscis
+454	Complete esta Quest de evento
+455	Desafío de Libra
+456	Complete esta Quest de evento
+457	Desafío de Leo
+458	Complete esta Quest de evento
+459	Réquiem del Santuario
+460	Complete esta Quest de evento
+461	Proteja Atenea
+462	Complete esta Quest de evento
+463	¡Contraataque(1)! Abismo del Fuego y Hielo
+464	Concluir “¡Contra.(1)! Abis. Fuego Hielo”
+465	¡Contraataque(2)! Lobo Gigante de la Montaña de Nieve
+466	Concluir “¡Contra.(2)! Lobo Montaña Nieve”
+467	¡Contraataque(3)! Dios Demoníaco del País de Hielo
+468	Concluir “¡Contra.(3)! Dios del País Hielo”
+469	Apocalipsis Demoníaco
+470	Complete esta Quest de evento
+471	Invasión ¡Los Vengadores!
+472	Complete esta Quest de evento
+473	Sonata Infernal
+474	Complete esta Quest de evento
+475	Mariposas del Inframundo
+476	Complete esta Quest de evento
+477	Sueño de la Diosa
+478	Complete esta Quest de evento
+479	¡Contracorriente! Desafío de Piscis
+480	Concluir “¡Contracorriente! Desafío Piscis”
+481	¡Contracorriente! Desafío de Libra
+482	Concluir “¡Contracorriente! Desafío Libra”
+483	¡Contracorriente! Desafío de Leo
+484	Concluir “¡Contracorriente! Desafío Leo”
+485	Tsunami en Atlantis
+486	Complete esta Quest de evento
+487	Conflicto de las Doce Casas
+488	Complete esta Quest de evento
+489	Recuerdos de la Guerra Santa
+490	Complete esta dungeon
+491	Diez Cuevas
+492	Complete esta dungeon
+493	Corazón de Sagitario
+494	Complete esta dungeon
+495	Doce Casas I
+496	Complete esta dungeon
+497	Doce Casas II
+498	Complete esta dungeon
+499	Doce Casas III
+500	Complete esta dungeon
+501	Doce Casas IV
+502	Complete esta dungeon
+503	Santuario de Hielo
+504	Complete esta dungeon
+505	Siete Pilares I
+506	Complete esta dungeon
+507	Siete Pilares II
+508	Complete esta dungeon
+509	Elegía de la Diosa I
+510	Complete esta Quest heroica
+511	Elegía de la Diosa II
+512	Complete esta Quest heroica
+513	Recuerdos Eternos
+514	Complete 100x “Recuerdos de la Guerra Santa”
+515	[Heroico]Diez Cuevas
+516	Complete esta Quest heroica
+517	[Heroico]Corazón de Sagitario
+518	Complete esta Quest heroica
+519	[Heroico]Castillo del Graad Azul
+520	Complete esta Quest heroica
+521	[Heroico]Castillo de Hades
+522	Concluir “[Héroe]Castillo Hades”
+523	[Epopeya]El Fin de Hades
+524	Complete esta Quest heroica
+525	Héroe_Doce Casas Divinas I
+526	Complete esta Quest heroica
+527	[Heroico]Doce Casas Divinas II
+528	Complete esta Quest heroica
+529	[Heroico]Doce Casas Divinas III
+530	Concluir [Heroico]Doze Casas Divinas III
+531	[Heroico]Doze Casas Divinas IV
+532	Concluir [Heroico]Doze Casas Divinas IV
+533	Victorioso
+534	Pase por la 1ª fase de la "Epopeya Estelar"
+535	Victorioso Constante
+536	Pase por la 10ª fase de la "Epopeya Estelar"
+537	Romper la Línea Enemiga
+538	Pase por la 20ª fase de la "Epopeya Estelar"
+539	Ganador
+540	Pase por la 30ª fase de la "Epopeya Estelar"
+541	Valiente
+542	Pase por la 40ª fase de la "Epopeya Estelar"
+543	Alma de Batalla
+544	Pase por la 50ª fase de la "Epopeya Estelar"
+545	Posicionado para Batalla
+546	Pase por la 60ª fase de la "Epopeya Estelar"
+547	Destruidor de Enemigos
+548	Pase por la 70ª fase de la "Epopeya Estelar"
+549	Actitud Heroica
+550	Pase por la 80ª fase de la "Epopeya Estelar"
+551	Bravura Inmortal
+552	Pase por la 90ª fase de la "Epopeya Estelar"
+553	Invencible
+554	Pase por la 100ª fase de la "Epopeya Estelar"
+555	Enemigo del Pueblo
+556	Pase por la 110ª fase de la "Epopeya Estelar"
+557	Feroz del Mundo
+558	Pase por la 120ª fase de la "Epopeya Estelar"
+559	Leyenda del Campo de Batalla
+560	Pase por la 130ª fase de la "Epopeya Estelar"
+561	Estrella del Ejército
+562	Pase por la 140ª fase de la "Epopeya Estelar"
+563	Héroe Invicto
+564	Pase por la 150ª fase de la "Epopeya Estelar"
+565	Actitud de Conquista
+566	Pase por la 160ª fase de la "Epopeya Estelar"
+567	Incomparable
+568	Pase por la 170ª fase de la "Epopeya Estelar"
+569	Romper el Cielo
+570	Pase por la 180ª fase de la "Epopeya Estelar"
+571	Reencarnación de Ares
+572	Pase por la 190ª fase de la "Epopeya Estelar"
+573	Déspota del Cielo
+574	Pase por la 200ª fase de la "Epopeya Estelar"
+575	Eternidad
+576	Pase por la 210ª fase de la "Epopeya Estelar"
+577	Viniendo del Cielo
+578	Pase por la 220ª fase de la "Epopeya Estelar"
+579	Poder del Asesino de Dioses
+580	Pase por la 230ª fase de la "Epopeya Estelar"
+581	Masacre de los Dioses
+582	Pase por la 240ª fase de la "Epopeya Estelar"
+583	Crepúsculo de los Dioses
+584	Complete la "Epopeya Estelar"
+585	Carrera Contra el Tiempo
+586	Concluir [Ayu. Relojero] en [¡Uni.! Cri. 12Casas]
+587	Sabio que se parece Tonto
+588	Derrotar Thetis en [¡Tempestad! Atlantis]
+589	Las Cosas Lindas Perdidas
+590	Concluir [Conse. Niña Mis.] en [Here. De. Piscis]
+591	¡Es un Espectro!
+592	Derrota Líder Ocul. Espectros en [Here. De. Leo]
+593	Acompañarte en los momentos tristes
+594	Derrota Somb. Espec. Sueñ. en [Cris. Gua. Saori]
+595	Acompañarte en los momentos felices
+596	Leer Diário Alegría en [Crisis Guardián de Saori]
+597	Siempre acompañarte en los momentos tristes
+598	Derrota Somb. Espec. Sueñ. en [Cris. Gua. Diosa]
+599	Siempre acompañarte en los momentos felices
+600	Leer Diário Alegría en [Cris. Guar. Diosa]
+601	Sombras en el Oscuro
+602	Derrota Gigan. Tartaro en [Abis. Apoc. Est. Dem.]
+603	Enterrador
+604	Derrota Cerbero en [Renac. Réquiem del Santua.]
+605	No Deje Pasar Nada
+606	Derrota Bado en [Contra.(2)Lobo Gigan. Mon. Nie.]
+607	Sexto Artefacto del Alma
+608	Derrota Naska, Serpiente Rey N. en [Diez Cuevas]
+609	Danza Furiosa de la Serpiente Negra
+610	Derrota 100 Cobras N. o Huevos en [Diez Cuevas]
+611	Retirada del Espíritu Maligno
+612	Derrota Mons. delan. Buda en [12Cas. Do.(con.)]
+613	Viaje en el Tiempo
+614	Obtener/abrir [Caja Rega. Prince.] en Santu. Hie.
+615	Luchador Divino · Pegaso Negro
+616	Derrota Pegaso N. en [[Héroe] 10Cue.] Dif. Lu.Di.
+617	Luchador Divino · Cisne Negro
+618	Derrota Cisne N. en [[Héroe] 10Cue.] Dif. Lu.Di.
+619	Luchador Divino · Dragón Negro
+620	Derrota Dragón N. en [[Héroe] 10Cue.] Dif. Lu.Di.
+621	Luchador Divino · Ikki de Fénix
+622	Derrota Ikki en [[Héroe] 10Cue.] Dificultad Lu.Di.
+623	Semidios · Pegaso Negro
+624	Derrota Pegaso N. en [[Héroe] 10Cue.] Dif.Sem.
+625	Semidios · Cisne Negro
+626	Derrota Cisne N. en [[Héroe] 10Cue.] Dif.Sem.
+627	Semidios · Dragón Negro
+628	Derrota Dragón N. en [[Héroe] 10Cue.] Dif.Sem.
+629	Semidios · Ikki de Fénix
+630	Derrota Ikki en [[Héroe] 10Cue.] Dif.Sem.
+631	Luchador Divino· Centauro
+632	Derrota Centauro en [[Héroe] Cor. Sag.]Dif.Lu.Di
+633	Luchador Divino· Sagita
+634	Derrota Sagita en [[Héroe] Cor. Sag.]Dif.Lu.Di
+635	Luchador Divino· Ballena
+636	Derrota Ballena en [[Héroe] Cor. Sag.]Dif.Lu.Di
+637	Luchador Divino· Capricornio
+638	Derrota Capricor. en [[Héroe] Cor. Sag.]Dif.Lu.Di
+639	Semidios· Centauro
+640	Derrota Centauro en [[Héroe] Cor. Sag.]Dif.Semi.
+641	Semidios· Sagita
+642	Derrota Sagita en [[Héroe] Cor. Sag.]Dif.Semi.
+643	Semidios· Ballena
+644	Derrota Ballena en [[Héroe] Cor. Sag.]Dif.Semi.
+645	Semidios· Capricórnio
+646	Derrota Capricor. en [[Héroe] Cor. Sag.]Dif.Semi.
+647	Soldado Divino · Pegaso Negro
+648	Derrota Pegaso N. en [[Héroe] 10Cue.]Dif.So.Di.
+649	Soldado Divino · Cisne Negro
+650	Derrota Cisne N. en [[Héroe] 10Cue.]Dif.So.Di.
+651	Soldado Divino · Dragón Negro
+652	Derrota Dragón N. en [[Héroe] 10Cue.]Dif.So.Di.
+653	Soldado Divino · Ikki de Fénix
+654	Derrota Ikki en [[Héroe] 10Cue.]Dific.Solda.Divino
+655	Soldado Divino · Centauro
+656	Derrota Centauro en [[Héroe] Cor. Sag.]Dif.So.Di.
+657	Soldado Divino · Sagita
+658	Derrota Sagita en [[Héroe] Cor. Sag.]Dif.So.Di.
+659	Soldado Divino · Ballena
+660	Derrota Ballena en [[Héroe] Cor. Sag.]Dif.So.Di.
+661	Soldado Divino · Capricornio
+662	Derrota Capricor. en [[Héroe] Cor. Sag.]Dif.So.Di.
+663	Pegaso Inflexible
+664	Sea Seiya SD en el Evento [Crisis Guar. de Diosa]
+665	Dragón Fuerte
+666	Sea Shiryu SD en el Evento [Crisis Guar. de Diosa]
+667	Cisne Severo
+668	Sea Hyoga SD en el Evento [Crisis Guar. de Diosa]
+669	Fénix en Llamas
+670	Sea Ikki SD en el Evento [Crisis Guar. de Diosa]
+671	Andrómeda Benevolente
+672	Sea Shun SD en el Evento [Crisis Guar. de Diosa]
+673	Luchador Divino · Aries
+674	Derrota Aries en [[Héroe] Eleg. Dio.(I)] Dif. Lu.Di.
+675	Luchador Divino · Deep
+676	Derrota Deep en [[Héroe] Eleg. Dio.(I)] Dif. Lu.Di.
+677	Luchador Divino · Papillón
+678	Derrota Papil. en [[Héroe] Eleg. Dio.(I)] Dif. Lu.Di.
+679	Soldado Divino · Aries
+680	Derrota Aries en [[Héroe] Eleg. Dio.(I)] Dif. So.Di.
+681	Soldado Divino · Deep
+682	Derrota Deep en [[Héroe] Eleg. Dio.(I)] Dif. So.Di.
+683	Soldado Divino · Papillón
+684	Derrota Papil. en [[Héroe] Eleg. Dio.(I)] Dif. So.Di.
+685	Semidios · Aries
+686	Derrota Aries en [[Héroe] Eleg. Dio.(I)] Dif. Semi.
+687	Semidios · Deep
+688	Derrota Deep en [[Héroe] Eleg. Dio.(I)] Dif. Semi.
+689	Semidios · Papillón
+690	Derrota Papil. en [[Héroe] Eleg. Dio.(I)] Dif. Semi.
+691	Luchador Divino · Laimi
+692	Derrota Laimi en [[Héroe] Eleg. Dio.(I)] Dif. Lu.Di.
+693	Luchador Divino · Giganto
+694	Derrota Gigan. en [[Héroe] Eleg. Dio.(I)] Dif. Lu.Di.
+695	Luchador Divino · Trinidad
+696	Derrota Trini. en [[Héroe] Eleg. Dio.(I)] Dif. Lu.Di.
+697	Soldado Divino · Laimi
+698	Derrota Laimi en [[Héroe] Eleg. Dio.(I)] Dif. So.Di.
+699	Soldado Divino · Giganto
+700	Derrota Gigan. en [[Héroe] Eleg. Dio.(I)] Dif. So.Di.
+701	Soldado Divino · Trinidad
+702	Derrota Trini. en [[Héroe] Eleg. Dio.(I)] Dif. So.Di.
+703	Semidios · Laimi
+704	Derrota Laimi. en [[Héroe] Eleg. Dio.(I)] Dif. Semi.
+705	Semidios · Giganto
+706	Derrota Gigan. en [[Héroe] Eleg. Dio.(I)] Dif. Semi.
+707	Semidios · Trinidad
+708	Derrota Trini. en [[Héroe] Eleg. Dio.(I)] Dif. Semi.
+709	Asesino de Dioses · Aries
+710	Derrota Aries en [[Héroe] Eleg. Dio.(I)] Dif. As.Di.
+711	Asesino de Dioses · Deep
+712	Derrota Deep en [[Héroe] Eleg. Dio.(I)] Dif. As.Di.
+713	Asesino de Dioses · Papillón
+714	Derrota Papil. en [[Héroe] Eleg. Dio.(I)] Dif. As.Di.
+715	Asesino de Dioses · Laimi
+716	Derrota Laimi en [[Héroe] Eleg. Dio.(F)] Dif. As.Di.
+717	Asesino de Dioses · Giganto
+718	Derrota Laimi en [[Héroe] Eleg. Dio.(F)] Dif. As.Di.
+719	Asesino de Dioses · Trinidad
+720	Derrota Trini. en [[Héroe] Eleg. Dio.(F)] Dif. As.Di.
+721	Luchador Divino · Estrella Beta
+722	Derrota Es.Be. en [[Héroe] Ca. Gr. Az.] Dif. Lu.Di.
+723	Luchador Divino · Estrella Épsilon
+724	Derrota Es.Ép. en [[Héroe] Ca. Gr. Az.] Dif. Lu.Di.
+725	Luchador Divino · Estrella Delta
+726	Derrota Es.De. en [[Héroe] Ca. Gr. Az.] Dif. Lu.Di.
+727	Luchador Divino · Estrella Zeta
+728	Derrota Es.Ze. en [[Héroe] Ca. Gr. Az.] Dif. Lu.Di.
+729	Soldado Divino · Estrella Beta
+730	Derrota Es.Be. en [[Héroe] Ca. Gr. Az.] Dif. So.Di.
+731	Soldado Divino · Estrella Épsilon
+732	Derrota Es.Ép. en [[Héroe] Ca. Gr. Az.] Dif. So.Di.
+733	Soldado Divino · Estrella Delta
+734	Derrota Es.De. en [[Héroe] Ca. Gr. Az.] Dif. So.Di.
+735	Soldado Divino · Estrella Zeta
+736	Derrota Es.Ze. en [[Héroe] Ca. Gr. Az.] Dif. So.Di.
+737	Semidios · Estrella Beta
+738	Derrota Es.Be. en [[Héroe] Ca. Gr. Az.] Dif. Semi.
+739	Semidios · Estrella Épsilon
+740	Derrota Es.Ép. en [[Héroe] Ca. Gr. Az.] Dif. Semi.
+741	Semidios · Estrella Delta
+742	Derrota Es.De. en [[Héroe] Ca. Gr. Az.] Dif. Semi.
+743	Semidios · Estrella Zeta
+744	Derrota Es.Ze. en [[Héroe] Ca. Gr. Az.] Dif. Semi.
+745	Asesino de Dioses · Estrella Beta
+746	Derrota Es.Be. en [[Héroe] Ca. Gr. Az.] Dif. As.Di.
+747	Asesino de Dioses · Estrella Épsilon
+748	Derrota Es.Ée. en [[Héroe] Ca. Gr. Az.] Dif. As.Di.
+749	Asesino de Dioses · Estrella Delta
+750	Derrota Es.De. en [[Héroe] Ca. Gr. Az.] Dif. As.Di.
+751	Asesino de Dioses · Estrella Zeta
+752	Derrota Es.Ze. en [[Héroe] Ca. Gr. Az.] Dif. As.Di.
+753	Lutador Divino · Alraune
+754	Derrota Alrau. en [[Héroe] Cas. Hades] Dif. Lu.Di.
+755	Lutador Divino · Harpía
+756	Derrota Harpía en [[Héroe] Ca. Hades] Dif. Lu.Di.
+757	Lutador Divino · Frog
+758	Derrota Frog en [[Héroe] Cas. Hades] Dif. Lu.Di.
+759	Lutador Divino · Wyvern
+760	Derrota Wyv. en [[Héroe] Cas. Hades] Dif. Lu.Di.
+761	Soldado Divino · Alraune
+762	Derrota Alrau. en [[Héroe] Cas. Hades] Dif. So.Di.
+763	Soldado Divino · Harpía
+764	Derrota Harpía en [[Héroe] Ca. Hades] Dif. So.Di.
+765	Soldado Divino · Frog
+766	Derrota Frog en [[Héroe] Cas. Hades] Dif. So.Di.
+767	Soldado Divino · Wyvern
+768	Derrota Wyv. en [[Héroe] Cas. Hades] Dif. Lu.So.
+769	Semidios · Alraune
+770	Derrota Alrau. en [[Héroe] Cas. Hades] Dif. Semi.
+771	Semidios · Harpía
+772	Derrota Harpía en [[Héroe] Ca. Hades] Dif. Semi.
+773	Semidios · Frog
+774	Derrota Frog en [[Héroe] Cas. Hades] Dif. Semi.
+775	Semidios · Wyvern
+776	Derrota Wyv. en [[Héroe] Cas. Hades] Dif. Semi.
+777	Asesino de Dioses · Alraune
+778	Derrota Alrau. en [[Héroe] Cas. Hades] Dif. As.Di.
+779	Asesino de Dioses · Harpía
+780	Derrota Harpía en [[Héroe] Cas. Hades] Dif. As.Di.
+781	Asesino de Dioses · Frog
+782	Derrota Frog en [[Héroe] Cas. Hades] Dif. As.Di.
+783	Asesino de Dioses · Wyvern
+784	Derrota Wyv. en [[Héroe] Cas. Hades] Dif. As.Di.
+785	Sueño ¡La Vida Corta!
+786	Complete esta Quest de evento
+787	Ilusión ¡Montaña del Precipicio Destruido!
+788	Complete esta Quest de evento
+789	Despertar ¡La Cascada!
+790	Complete esta Quest de evento
+791	Rozan ¡El Sueño se volvió Polvo!
+792	Complete esta Quest de evento
+793	Dragón Mortal de Rozan
+794	Derrote el Boss oculto en esta Quest de evento
+795	Luchador Divino · Thanatos
+796	Derrota Tha. en [[Epo.] Fin Hades] Dif. Lu.Di.
+797	Luchador Divino · Hypnos
+798	Derrota Hyp. en [[Epo.] Fin Hades] Dif. Lu.Di.
+799	Luchador Divino · Morfeu
+800	Derrota Mor. en [[Epo.] Fin Hades] Dif. Lu.Di.
+801	Luchador Divino · Perséfone
+802	Derrota Pers. en [[Epo.] Fin Hades] Dif. Lu.Di.
+803	Luchador Divino · Hades
+804	Derrota Hades en [[Epo.] Fin Hades] Dif. Lu.Di.
+805	Soldado Divino · Thanatos
+806	Derrota Tha. en [[Epo.] Fin Hades] Dif. So.Di.
+807	Soldado Divino · Hypnos
+808	Derrota Hyp. en [[Epo.] Fin Hades] Dif. So.Di.
+809	Soldado Divino · Morfeu
+810	Derrota Mor. en [[Epo.] Fin Hades] Dif. So.Di.
+811	Soldado Divino · Perséfone
+812	Derrota Pers. en [[Epo.] Fin Hades] Dif. So.Di.
+813	Soldado Divino · Hades
+814	Derrota Hades en [[Epo.] Fin Hades] Dif. So.Di.
+815	Semidios · Thanatos
+816	Derrota Tha. en [[Epo.] Fin Hades] Dif. Semi.
+817	Semidios · Hypnos
+818	Derrota Hyp. en [[Epo.] Fin Hades] Dif. Semi.
+819	Semidios · Morfeu
+820	Derrota Mor. en [[Epo.] Fin Hades] Dif. Semi.
+821	Semidios · Perséfone
+822	Derrota Pers. en [[Epo.] Fin Hades] Dif. Semi.
+823	Semidios · Hades
+824	Derrota Hades en [[Epo.] Fin Hades] Dif. Semi.
+825	Asesino de Dioses · Thanatos
+826	Derrota Tha. en [[Epo.] Fin Hades] Dif. As.Di.
+827	Asesino de Dioses · Hypnos
+828	Derrota Hyp. en [[Epo.] Fin Hades] Dif. As.Di.
+829	Asesino de Dioses · Morfeu
+830	Derrota Mor. en [[Epo.] Fin Hades] Dif. As.Di.
+831	Asesino de Dioses · Perséfone
+832	Derrota Per. en [[Epo.] Fin Hades] Dif. As.Di.
+833	Asesino de Dioses · Hades
+834	Derrota Hades en [[Epo.] Fin Hades] Dif. As.Di.
+835	Estrella Negra
+836	Complete la dungeon "[Evento]MAX ¡Meteoro Negro!"
+837	Nebulosa de Plata
+838	Complete la dungeon "MAX ¡Huracán de las Tinieblas"
+839	Galaxia de Oro
+840	Complete la dungeon "MAX ¡Explosión Galáctica!"
+841	Estrella Marina
+842	Complete la dungeon "MAX ¡Sinfonía Final!"
+843	Agujero de Lombriz de Hades
+844	Complete la dungeon "MAX ¡Destrucción Máxima!"
+845	¡Guerra Santa! ¡Presos en la estrella!
+846	¡Ve al ${npc(200359)} y concluya la Guerra Santa! ¡Estrella Terrestre Prisionera! Obtenga y vista 3 equipamientos de nivel verde
+847	¡Guerra Santa! ¡Para la estrellla del mal!
+848	¡Ve al ${npc(200438)} y concluya la Guerra Santa! ¡Estrella Celeste del Mal! Obtenga y vista cuatro equipamientos del nivel verde
+849	Joven y Peligroso
+850	Complete la dungeon "MAX ¡Agujero Negro!"
+851	Luchador Divino · Aries Divino
+852	Derrota Ar.Di. en [[Héroe] 12Ca.Di.(I)] Dif. Lu.Di.
+853	Luchador Divino · Tauro Divino
+854	Derrota Ta.Di. en [[Héroe] 12Ca.Di..(I)] Dif. Lu.Di.
+855	Luchador Divino · Géminis Divino
+856	Derrota Ge.Di. en [[Héroe] 12Ca.Di.(I)] Dif. Lu.Di.
+857	Soldado Divino · Aries Divino
+858	Soldado Divino · Tauro Divino
+859	Soldado Divino · Géminis Divino
+860	Semidios · Aries Divino
+861	Semidios · Tauro Divino
+862	Semidios · Géminis Divino
+863	Asesino de Dioses · Aries Divino
+864	Asesino de Dioses · Tauro Divino
+865	Asesino de Dioses · Géminis Divino
+866	Luchador Divino · Cáncer Divino
+867	Derrota Cá.Di. en [[Héroe] 12Ca.Di.(II)] Dif. Lu.Di.
+868	Luchador Divino · Leo Divino
+869	Derrota Le.Di. en [[Héroe] 12Ca.Di.(II)] Dif. Lu.Di.
+870	Luchador Divino · Virgo Divino
+871	Derrota Vi.Di. en [[Héroe] 12Ca.Di.(II)] Dif. Lu.Di.
+872	Soldado Divino · Cáncer Divino
+873	Derrota Cá.Di. en [[Héroe] 12Ca.Di.(II)] Dif. So.Di.
+874	Soldado Divino · Leo Divino
+875	Derrota Le.Di. en [[Héroe] 12Ca.Di.(II)] Dif. So.Di.
+876	Soldado Divino · Virgo Divino
+877	Derrota Vi.Di. en [[Héroe] 12Ca.Di.(II)] Dif. So.Di.
+878	Semidios · Cáncer Divino
+879	Derrota Cá.Di. en [[Héroe] 12Ca.Di.(II)] Dif. Semi.
+880	Semidios · Leo Divino
+881	Derrota Le.Di. en [[Héroe] 12Ca.Di.(II)] Dif. Semi.
+882	Semidios · Virgo Divino
+883	Derrota Vi.Di. en [[Héroe] 12Ca.Di.(II)] Dif. Semi.
+884	Asesino de Dioses · Cáncer Divino
+885	Derrota Cá.Di. en [[Héroe] 12Ca.Di.(II)] Dif. As.Di.
+886	Asesino de Dioses · Leo Divino
+887	Derrota Le.Di. en [[Héroe] 12Ca.Di.(II)] Dif. As.Di.
+888	Asesino de Dioses · Virgo Divino
+889	Derrota Vi.Di. en [[Héroe] 12Ca.Di.(II)] Dif. As.Di.
+890	Luchador Divino · Libra Divino
+891	Derrota Li.Di. en [[Héroe] 12Ca.Di.(III)] Dif. Lu.Di.
+892	Luchador Divino · Escorpio Divino
+893	Derrota Es.Di. en [[Héroe] 12Ca.Di.(III)] Dif. Lu.Di.
+894	Luchador Divino · Sagitario Divino
+895	Derrota Sa.Di. en [[Héroe] 12Ca.Di.(III)] Dif. Lu.Di.
+896	Soldado Divino · Libra Divino
+897	Derrota Li.Di. en [[Héroe] 12Ca.Di.(III)] Dif. So.Di.
+898	Soldado Divino · Escorpo Divino
+899	Derrota Es.Di. en [[Héroe] 12Ca.Di.(III)] Dif. So.Di.
+900	Soldado Divino · Sagitario Divino
+901	Derrota Sa.Di. en [[Héroe] 12Ca.Di.(III)] Dif. So.Di.
+902	Semidios · Libra Divino
+903	Derrota Li.Di. en [[Héroe] 12Ca.Di.(III)] Dif. Semi.
+904	Semidios · Escorpio Divino
+905	Derrota Es.Di. en [[Héroe] 12Ca.Di.(III)] Dif. Semi.
+906	Semidios · Sagitario Divino
+907	Derrota Sa.Di. en [[Héroe] 12Ca.Di.(III)] Dif. Semi.
+908	Asesino de Dioses · Libra Divino
+909	Derrota Li.Di. en [[Héroe] 12Ca.Di.(III)] Dif. As.Di.
+910	Asesino de Dioses · Escorpio Divino
+911	Derrota Es.Di. en [[Héroe] 12Ca.Di.(III)] Dif. As.Di.
+912	Asesino de Dioses · Sagitario Divino
+913	Derrota Sa.Di. en [[Héroe] 12Ca.Di.(III)] Dif. As.Di.
+914	Le gusto a alguién
+915	Añade 5 amigos
+916	Le gusto a muchas personas
+917	Añade 20 amigos
+918	Le gusto a todos
+919	Obtenga 50 amigos
+920	Mejor Amigo
+921	Consiga 1000 de Amistad con un amigo
+922	Trabajador
+923	Complete "Elegía del Renacido" 1x con el Ejército
+924	Trabajador Talentoso
+925	Complete "Elegía del Renacido" 10x con el Ejército
+926	Piedra Base de la Raid
+927	Complete "Elegía del Renacido" 50x con el Ejército
+928	Trabajar Sin Parar
+929	Complete "Elegía del Renacido" durante 5 días
+930	Batalla Famosa
+931	Gane 1x en el Campo de Batalla de Ática
+932	El Camino de la Conquista
+933	Gane 25x en el Campo de Batalla de Ática
+934	Rey Sin Corona
+935	Gane 50x en el Campo de Batalla de Ática
+936	Gloria del Caos
+937	Gane 1x en el Campo de Batalla Caótico
+938	General Vencedor
+939	Gane 25x en el Campo de Batalla Caótico
+940	Invencible
+941	Gane 50x en el Campo de Batalla Caótico
+942	Prueba del Campo de Batalla Caótico
+943	Vencer 1x Prueba Campo de Batalla Caótico
+944	Victoria Inmediata
+945	Gane 1x en el Campo de Batalla de Lava
+946	Un Pequeño Éxito
+947	Gane 25x en el Campo de Batalla de Lava
+948	Maestro de las Batallas
+949	Gane 50x en el Campo de Batalla de Lava
+950	Guardia del Cielo
+951	Gane 1x en el Campo de Batalla del Cielo
+952	Viaje en el Horizonte
+953	Gane 25x en el Campo de Batalla del Cielo
+954	Soberano del Cielo
+955	Gane 50x en el Campo de Batalla del Cielo
+956	Sueño de una Noche de Verano
+957	Complete la Quest temática de Verano 1x
+958	Diosa ¡Oración de Verano!
+959	Complete la Quest de evento
+960	Suertudo del Verano
+961	Abre 5x la Caja de la Suerte de Verano
+962	Orador del Verano
+963	Ore bajo la fase final del Árbol de Fertilidad
+964	Festival de la Luna ¡Explosión de Torta Lunar!
+965	Complete la Quest de evento
+966	Día de las Brujas ¡Calabaza Loca!
+967	Complete la Quest de evento
+968	Administrador de la Ciudad
+969	Derrote 1x el Monstruo Ladrón
+970	Administrador Especialista de la Ciudad
+971	Derrote 25x el Monstruo Ladrón
+972	Administrador Maestro de la Ciudad
+973	Derrote 100x el Monstruo Ladrón
+974	Equipo de Trabajo Directrices
+975	Las directrices de la tarea Amigos
+976	Bronce
+977	Plata
+978	Dorado
+979	Mito
+980	Individual
+981	Astro EXP
+982	Cosmos
+983	Armadura
+984	Reputación
+985	Quest
+986	Quest Principal
+987	Quest Secundaria
+988	Enredo
+989	Caballeros de Diosa
+990	Desafío del Destino
+991	Límite de Caballeros
+992	Dungeon
+993	Evento
+994	Desafío
+995	Epopeya Estelar
+996	Aventura
+997	Comunidad
+998	Relación
+999	Ejército
+1000	Ruinas de Ática
+1001	CdB Caótico
+1002	CdB de Lava
+1003	CdB del Cielo
+1004	Mundo
+1005	Festival
+1006	Monstruo Raro
+1007	Crecimiento del Ejército
+1008	Nivel Ejército
+1009	Número Ejército
+1010	Construcción del cuerpo del ejército
+1011	Misión Cuerpo del ejército
+1012	Edificio Legión
+1013	Legión PVE
+1014	Copia Legión
+1015	Nivel 1
+1016	Nivel Legión al Nivel 1
+1017	Nivel 2
+1018	Nivel Legión para el Nivel 2
+1019	Nivel 3
+1020	Nivel Legión alcanza el Nivel 3
+1021	Diez pública
+1022	Legión del peaje alcanzó 10 personas
+1023	Cincuenta personas de
+1024	Legión del peaje alcanzó 50 personas
+1025	Público cien
+1026	Legión del peaje alcanzó 100 personas
+1027	Diario: 5 veces
+1028	Completa 5 veces Legión diaria
+1029	Diario: 10 veces
+1030	10 veces al día para completar la Legión
+1031	Chang Zhou: 5 veces
+1032	Chang completó Legión Semana 5
+1033	Chang Zhou: 10 veces
+1034	Muchas veces 10 semanas para completar la Legión
+1035	El edificio principal: Nivel 1
+1036	Edificio Legión para alcanzar el nivel principal 1
+1037	El edificio principal: Nivel 2
+1038	Edificio Legión para alcanzar el nivel principal 2
+1039	El edificio principal: Nivel 3
+1040	Legión alcanzar el nivel 3 edificio principal
+1041	Legión: Atlantis
+1042	Cuatro o más miembros del equipo Legión para completar una copia de Atlantis
+1043	Legión: Juicio de oro
+1044	Cuatro o más miembros del equipo Legión para completar una copia de oro juicio
+1045	Legión: cables de defensa
+1046	Cuatro o más miembros del equipo para completar los cables de defensa 5º Cuerpo
+1047	Legión: Recuerdos de la Guerra Santa
+1048	Cuatro o más miembros del equipo para completar los recuerods de la Guerra Santa 5º Cuerpo
+1049	Día(s)
+1050	Semana
+1051	Mes
+1052	Primera muerte
+1053	Los primeros matrimonios
+1054	Primer aprendiz
+1055	Primera Grito
+1056	Xinghun primera inyección
+1057	Xinghun primera precipitación
+1058	Primera estrella - Fusión del alma
+1059	Para las habilidades de equitación por primera vez
+1060	Primero activar el papel de la comunidad
+1061	El primer equipo en usar la voz
+1062	Primero agregue a amigos
+1063	Primer equipo
+1064	Primera actualización de forma manual
+1065	Primero entró en el discurso de la Legión
+1066	Equipamiento de transferencia en forma de , por primera vez
+1067	Primer desembarque portátil
+1068	El primer sistema para recibir doble experiencia
+1069	Primero debes aprender habilidades naturales
+1070	Despacio Primer gancho Victoria
+1071	Una primera subasta artículos
+1072	Por primera vez, una subasta de artículos de éxito
+1073	Transacciones primer oro
+1074	Primera cambia de Signo
+1075	Primera tienda
+1076	Comprar algo de alguien primera tienda otra
+1077	Puesto primeras cosas vendidas con éxito
+1078	Las primeras cosas para la adquisición
+1079	El primer conjunto , éxito en el bloqueo de tiempo
+1080	Por primera vez se establecieron con éxito cerraduras
+1081	Primera elección de Signo
+1082	Habilidades de aprendizaje
+1083	Pequeño brote del universo por primera vez
+1084	El primer uso de la astrología
+1085	Primer Rune mosaico
+1086	Primer equipamiento en forma
+1087	Primera caja sintetizada
+1088	Primera caja de división
+1089	Primero comprar un boleto de Gem
+1090	Montado en un primer título
+1091	Primer almacén abierto
+1092	Alcanzó un logro
+1093	Personajes alcanzaron el nivel
+1094	Nivel alcanzó pequeño universo
+1095	Para completar una tarea
+1096	Para matar a un monstruo ID
+1097	Alcanzó valor prestigio
+1098	Alcanzó reputación incremental
+1099	copia Victoria del desafío
+1100	Completar un campo de batalla
+1101	Alcanzó Gem
+1102	Alcanzó dinero
+1103	La lucha llegó
+1104	El título número obtenido
+1105	Existe un título específico
+1106	Obtener el número de ilustraciones
+1107	El número obtenido de paño
+1108	Obtener el número de ciertos tipos de paños
+1109	El número de amigos
+1110	Simpatía llegar a cualquier amigo
+1111	ladrón extraño muerto
+1112	VIP
+1113	Equipamiento o Victoria copia inactiva
+1114	Obtener un Xinghun calidad
+1115	Número Xinghun de nivel máximo
+1116	Obtener el número de montajes
+1117	También aplastará a sus amigos, es algo tuyo
+1118	Un mapa para el número de identificación de un lugar para matar al jugador alcanzó B
+1119	Alcanzar un nivel de habilidades de producción
+1120	En la victoria PVP ritmo lento sobre el número de compañeros de equipo alcanzó (Desafío)
+1121	En el número de ritmo lento PVP consecutiva logró la victoria (Knockout)
+1122	Nivel alcanzado (Knockout) en el PVP , despacio
+1123	Habilidades de producción para alcanzar cualquier nivel 1
+1124	Clasificación paño estrellas a cualquier elenco
+1125	Pequeño universo alcanzó el poder de las estrellas
+1126	Alcanzó forma de perfección
+1127	El número de artículos de la compra ID
+1128	Finalización de una serie de misiones
+1129	Número de veces para ejecutar ciertas tareas
+1130	Un período de tiempo para cada período de tiempo para completar ciertos momentos tareas B
+1131	Veces consecutivas para completar ciertas tareas
+1132	Matar a los monstruos por el número de identificación
+1133	Aprender habilidades para un determinado número de niveles
+1134	El número de aprendices aprendizaje
+1135	El número de copias de una victoria
+1136	Una serie de victorias en el campo de batalla
+1137	Matar una colección mosntruo ID frecuencia
+1138	Número de identificación para obtener un conjunto de ilustraciones
+1139	Ganó el logro
+1140	Logro puntuación para alcanzar el valor de X
+1141	Legión alcanza el nivel
+1142	Alcanzó un número de cuerpo del ejército
+1143	Alcanzar reputación
+1144	Completar la tarea
+1145	Matar a la criatura
+1146	Por copia
+1147	Insignificante
+1148	Aprendiz
+1149	Como hay poca
+1150	Triturador de pequeña escala
+1151	Que viene
+1152	Habilidad
+1153	Astilla
+1154	Aniquilación total
+1155	Fama
+1156	0
+1157	
+1158	去${dynamic_dir(55, "\日程表"\)}推荐界面下寻找[活动]贵鬼辞典并完成一次
+1159	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]集结！十二宫危机并完成一次
+1160	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]风暴！亚特兰蒂斯并完成一次
+1161	去${dynamic_dir(55, "\日程表"\)}界面寻找[副本]十风穴并完成一次
+1162	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[战场]阿提卡遗迹并获得胜利
+1163	去${dynamic_dir(55, "\日程表"\)}周常界面寻找[活动]诛杀邪恶并完成一次
+1164	使用${dynamic_dir(5, "\星铸系统"\)}并星铸任意一件圣衣到2级
+1165	去${dynamic_dir(26, "\英雄竞技场"\)}界面参加一次竞技场
+1166	去${dynamic_dir(44, "\星券商城"\)}消费一次
+1167	在${dynamic_dir(1, "\小宇宙系统"\)}中进行一次占星，装上一个星魂，并星力值达到500
+1168	使用${dynamic_dir(3, "\魔盒系统"\)}拆分一件装备
+1169	使用${dynamic_dir(4, "\魔盒系统"\)}升阶一件装备
+1170	在${dynamic_dir(56, "\称号系统"\)}中装备任意一个称号
+1171	去${npc(14838)}处领取双倍经验并在${dynamic_dir(6, "\双倍经验系统"\)}中开启一次
+1172	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]女神的圣斗士并完成一次
+1173	去${dynamic_dir(55, "\日程表"\)}推荐界面寻找[活动]命运的试炼并完成一次
+1174	使用${dynamic_dir(5, "\星铸系统"\)}再星铸其他任意一件圣衣到5级
+1175	在${dynamic_dir(1, "\小宇宙系统"\)}中使星力值达到1000

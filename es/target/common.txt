@@ -1,0 +1,2111 @@
+0	Despreciar
+1	Carcajadas
+2	Jaja
+3	Mandar un beso
+4	Fuerza
+5	Da lo mejor de ti
+6	Llorar
+7	Llorar a los llantos
+8	Aplaudir
+9	Clap clap
+10	Bravo
+11	Furioso
+12	Estoy enojado
+13	Dormir
+14	Estar somnoliento
+15	Buenas noches
+16	No
+17	No quiero
+18	¡No!
+19	No hagas eso
+20	Yo no
+21	No lo es
+22	Quedarse mareado y desmayarse
+23	Desmayarse
+24	Me desmayé
+25	Hasta luego
+26	Bye bye
+27	Sentarse
+28	Leer
+29	Leer un libro
+30	Fue atacado con tanta fuerza que voló
+31	Fue golpeado con tanta fuerza que voló
+32	Explotar
+33	Huir
+34	Correr
+35	Corre
+36	Dar latigazos
+37	Azotarte
+38	Mareo
+39	Patear
+40	Patearte
+41	Darte una patada
+42	Danza de calle
+43	Pierna de huracán
+44	Exclamación de Atenea 1
+45	Exclamación de Atenea 2
+46	Exclamación de Atenea 3
+47	Salto Mortal
+48	Murió y cayó
+49	Murió
+50	Arrodillarse
+51	Reverenciar de rodillas
+52	Morir de miedo
+53	Resistir
+54	Ganar un besito
+55	:%)
+56	Hacer cariño\r(usado por aquel que abraza)
+57	Hacer cariño
+58	Besar
+59	Resistir\r(usado por el alvo)
+60	¡No quiero!
+61	Radio de Aries
+62	Comando no válido
+63	^fff600“Batalla de los Dioses" Competición del Universo. Cuando llegue el momento de la competición, puede utilizar el Billete de Entrada para entrar en el campo.\rCada equipo puede tener un máximo de 18 participantes
+64	↑
+65	↓
+66	Otros
+67	Temporalmente sin
+68	La nueva Guerra Santa está a punto de llegar y solamente guerreros calificados podrán convertirse en Caballeros protectores de la Diosa. ¡Jugadores de nivel 40 o superior, luchen!
+69	Especificación:
+70	Reput. máx.:
+71	Guía:
+72	Después de obtener la reputación del campo de batalla podrás ir a ${pos(351, 333, 337, 20, 'Sherlock')} cambiar premios.
+73	Reputación de batalla
+74	${name} obtenidos: ${point}
+75	${name} consumido: ${point}
+76	Desmonte para receber 10 de exp
+77	Sagitario
+78	Leo
+79	Géminis
+80	Acuario
+81	Libra
+82	Áries
+83	Escorpião
+84	Capricórnio
+85	Piscis
+86	Wyvern
+87	Garuda
+88	Harpia
+89	Aqueronte
+90	Alraune
+91	Basilisk
+92	Minotauro
+93	★ Sagrada
+94	Tipo 0
+95	Tipo de Energía
+96	Tipo de HP
+97	Tipo de Defensa
+98	Tipo de Ataque
+99	Tipo de Supervivencia
+100	Tipo de Protección
+101	Tipo de Elemento
+102	Tipo 8
+103	Tipo 9
+104	Nivel 1
+105	Nivel 2
+106	Nivel 3
+107	Nivel 4
+108	Nivel 5
+109	Nivel 6
+110	Nivel 7
+111	Nivel 8
+112	Nivel 9
+113	Nivel 10
+114	Anuncio (Sistema)
+115	ON/OFF Invencible
+116	ON/OFF Invisible
+117	Traer jugador
+118	Ir al lado del jugador
+119	Block/Unblock chat
+120	Block/Unblock login
+121	Teletransportar
+122	Cos. Reg.
+123	Res. Div.
+124	Cos. Res.
+125	Aux. Div.
+126	Cos. Vig.
+127	Pod. Div.
+128	Cos. Ené.
+129	Gra. Div.
+130	Cos. Val.
+131	Ala Div.
+132	Cos. Ete.
+133	Cap. Div
+134	Cos. Imp.
+135	Pod. Div.
+136	Cos. Vas.
+137	Gol. Div.
+138	Cos. Ag.Ne.
+139	Esp. Div.
+140	Bronce
+141	Plata
+142	Oro
+143	Divino
+144	General
+145	Individual
+146	Hoy
+147	Nivel
+148	Mi rank:
+149	Signo
+150	Nivel
+151	Los jugadores reciben los títulos:\r1º lugar: Campeón\r2º - 3º lugares: Último a perder\r4º - 10º lugares: Penúltimo a Perder
+152	Riqueza
+153	Riqueza (Gold)
+154	Los jugadores reciben los títulos:\r1º lugar: Rico del Mundo\r2º - 3º lugares: Rico del País\r4º - 10º lugares: Rico de la Ciudad
+155	Inversor de la semana
+156	Recarga (Star)
+157	     Dentro de esta semana (lunes a domingo) el ranking de carga acumulada de todos los jugadores, sólo para recargar arriba de 10000 Star es que irá para la lista esta lista se actualizará una vez cada día a las 00:00, y la cantidad de recarga de este día será contabilizada todos los días, a las 00:00, los datos de esta lista serán grabados en la lista de reputación del beneficio de la semana anterior, y los datos de esta semana serán eliminados.
+158	Inversor semanal
+159	¡Este domingo, a las 00:00 horas, los datos de recarga acumulados de la semana pasada de todos los jugadores serán contabilizados y cerrados\rtomando en cuenta está lista como base, después de la manutención del martes, será concedido al jugador, que obtuviera el primer lugar (por cargas arriba de 10000 Star), la Moda de las Alas de Efecto Especial de la Perla Negra por un periodo de 1 semana.\rDespués de la manutención del martes, la Zona Sacerdotal del Santuario levantará una estatua para el jugador del primer lugar de esa semana y, en su nombre, concederá el beneficio para los jugadores de ese servidor!
+160	Logros
+161	Puntos
+162	Los jugadores reciben los títulos:\r1º lugar: Perfeccionista\r2º - 3º lugares: Extraordinario\r4º - 10º lugares: Notáble
+163	Pericia
+164	Pericia
+165	Epopeya estelar
+166	Número de camadas
+167	Jugador obtuvo el título de Encarnación del Dios de la Guerra. Si en la lista del ranking de Epopeya estelar individual, obtuvo el primer lugar Rey de la Guerra Si en la lista de ranking de Epopeya estelar individual, obtuvo 2°-3° lugaresSemillador de la Gloria Militar. Si en la lista del ranking de Epopeya estelar individual, obtuvo del 4° al 10° lugar
+168	Rosas
+169	Todo mes la lista general será actualizada y, en el día 01 de cada vez, la lista será borrada. Al mismo tiempo, serán concedidos los títulos de la lista de ranking del mes pasado.\rLos jugadores reciben los títulos:\r1º lugar: Belleza Deslumbrante\r2º lugar: Beleza Florescente\r3º lugar: Beleza Brillante\r4º - 10º lugares: Beleza Encantadora
+170	Power total
+171	Power
+172	Los jugadores reciben los títulos:\r1º lugar: Emperador\r2º - 5º lugares: Rey\r6º -20º lugares: Príncipe
+173	Cosmos
+174	Los jugadores reciben los títulos:\r1º lugar: Campo Divino\r2º - 3º lugares: Corazón del Cosmos\r4º - 10º lugares: Arayashiki
+175	Armadura
+176	Los jugadores reciben los títulos:\r1º lugar: Asesino\r2º - 3º lugares: Aniquilador\r4º - 10º lugares: Héroe
+177	Accesorio
+178	Los jugadores reciben los títulos:\r1º lugar: Placa Simbólica del Dios del Asesino\r2º - 3º lugares: Placa Simbólica de Matanza\r4º - 10º lugares: Placa Simbólica del Héroe
+179	Equipamiento
+180	Los jugadores reciben los títulos:\r1º lugar: Pacto del Dios del Asesino\r2º - 3º lugares: Pacto de Matanza\r4º - 10º lugares: Pacto de Héroe
+181	Escudero
+182	Nivel de Ruinas de Marte
+183	Nivel
+184	Power de Competición
+185	Actividad semanal
+186	Actividades
+187	Los jugadores reciben los títulos:\r1º lugar: Presbíterio\r2º - 10º lugares: Corazón del Cosmos\r11º - 100º lugares: Sacerdote\r101º - 200º lugar: Aprendiz
+188	Lista de flores frescas del Día de los Solteros
+189	Nivel
+190	Mi ejército:
+191	Nivel
+192	Power
+193	Estadísticas del Power
+194	  El Poder de Lucha del Ejército se tornará la suma del Poder de Lucha más alto de la historia del Ejército, de los 60 jugadores con el Poder de Lucha más alto dentro de la historia del ejército Los dos primeros Ejércitos con el mayor Poder de Lucha no podrán hacer alianzas con los demás
+195	Ejército General
+196	Actividad
+197	Guerra de Saqueo
+198	Mi ejército:
+199	Total de Guerras
+200	Victorias
+201	Riqueza de Saqueo
+202	Espíritu de Lucha
+203	Actividad
+204	Jefes del ejército obtienen los títulios:Medalla del Ejército Divino Épico. Si obtuvo el 1° Lugar en la lista del ranking del Grado de Actividad Semanal del Ejército Gold obtenido: 144000000 Medalla de contribución obtenida: 25Medalla del Ejército Lendário. Si obtuvo el 2° lugar en la lista del ranking de Nivel de Actividad Semanal del Ejército Gold obtenido: 12800000 Medalla de Contribución obtenida: 20 Medalla del Ejército Supremo. Si obtuvo el 3° lugar en la lista del ranking del Nivel de Actividad Semanal del Ejército Gold Obtenido: 12800000 Medalla de Contribución obtenida: 15 Medalla del Ejército Magnífico. Si obtuvo 4°-10° lugar en la lista del ranking del grado de Actividad Semanal del ejército Gold obtenido: 9600000 Medalla de Contribuición obtenida: 10 Medalla del ejército Resplandeciente. Si obtuvo del 21°-30° lugar en la lista del ranking del Nivel de Actividad Semanal del Ejército Brillante. Si obtuvo del 31°-41° lugar en la lista del ranking de Nivel de Actividad Semanal del Ejército Moralizador Si obtuvo del 41°-51° lugar en la lista de ranking del Nivel de Actividad Semanal del Ejército Gold obtenido: 1600000
+205	Multiservidor
+206	Terminada la Calificación para participar de la Disputa Multiservidor, el plazo de la estadística es el día 01 de agosto, por favor visitar la Página oficial para confirmar.
+207	Riqueza del Ejército
+208	Alianzas
+209	Dominios
+210	Riqueza
+211	Competición Multiservidor
+212	Los jugadores en los 30 primeros lugares obtendrán la calificación de Capitán multiservidor, pudiendo conducir el grupo para participar de la inscripción de la competición multiservidor
+213	Power
+214	Inversor
+215	Recarga
+216	El ranking de recarga acumulada de todos los jugadores de esa semana (de lunes a domingo).\rTodos los domingos, a las 00:00 horas, los datos de esta lista serán registrados en la lista de reputación de beneficio de la semana anterior y se limpiarán los datos de esa semana.
+217	Rosas recibidas
+218	Envío de Rosas
+219	La estadística de calificación para participar de la Disputa Multiservidor está a punto de ser contabilizada. Por favor, visite la página oficial para confirmar
+220	Rosas
+221	En las 24 horas del último día de ese mes, los dados de este mes de todos los jugadores serán contabilizados tomando esta lista como base\rMartes de la primera semana del próximo mes, depués de la manutención, será concedido al jugador el título de Flor Fresca
+222	Nulo
+223	Nv.
+224	Persona
+225	Cien Millones
+226	Diez mil
+227	pts.
+228	un.
+229	x
+230	^ff0000 directrices de premio aún no han sido determinadas ^ffffff actualmente, el contenido de la mejora está siendo ajustada.
+231	Mundo
+232	Personaje
+233	Batalla
+234	Imponente y solemne, esa es la principal zona de reunión de los Caballeros. En el centro están distribuidas algunas organizaciones que están relacionadas al Santuario.
+235	Localización:
+236	Como obtener:
+237	Santuario
+238	Quests principales
+239	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (-234,351,311,2,’Vicente’)}
+240	Una construcción de la Fundación Graad, una de las mayores empresas del mundo. Fue creada para la realización del Torneo Galáctico.
+241	Coliseo Graad
+242	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(443,317,209,20,'Imai Sokyu')}
+243	El lugar donde Shiryu, Shunrei y el Maestro Anciano viven juntos. Lugar de los Cinco Antiguos Picos, todavía conserva las características de las casas de la China Antigua.
+244	Rozan
+245	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (-228,319,-116,3,'Richard')}
+246	El lugar donde Aioros fue muerto por Shura al salvar al bebé Atenea. Es también el único camino que conduce a la Mansión de la familia Solo.
+247	Camino Olvidado
+248	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (0,308,-165,5,'Glicerio')}
+249	Al igual que su nombre, esta isla es un lugar cruel. Conocida como "El Infierno en la Tierra", es la base de los Caballeros Negros y donde Ikki recibió su entrenamiento para convertirse en el Caballero de Fénix.
+250	Isla de la Reina Muerte
+251	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (-133,365,-143,6,'Zigurat')}
+252	Un vasto continente cubierto de capas de hielo hace milenios. La Armadura de Cisne se encuentra enterrada en las profundidades de su Muralla de Hielo Eterno. Aquí fue donde Camus entrenó a Hyoga e Isaak.
+253	Siberia Oriental
+254	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (-235,297,336,7,’Alisha')}
+255	La fortaleza submarina del Rey de los Mares, Poseidón, sostenida por los Siete Pilares del Océano. Fue hundida en la primera Guerra Santa por los Caballeros de Atenea.
+256	Atlantis
+257	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (-316,357,-100,8,'Gibel')}
+258	El lugar donde Shun entrenó y, a través de la Ceremonia de Sacrificio, obtuvo la Armadura de Andrómeda. Allá la vegetación es escasa, el ambiente es pobre y la variación de temperatura entre el día y la noche es muy alta.
+259	Isla Andrómeda
+260	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (-319,316,-144,9,’Avdol')}
+261	La tierra natal de Pandora, originalmente tranquila y pacífica. Cuando el alma de Hades renació, todas las formas de vida alrededor se extinguieron. Actualmente está envuelto en un encantamiento de Hades.
+262	Fortín de Heinstein
+263	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos (144,299,329,10,'Kleindienst')}
+264	Amazona de Águila y Maestra de Seiya de Pegaso. Su percepción es extraordinaria y es una de las más excelentes guerreras, de personalidad tranquila y serena.
+265	Hab. Única:
+266	Destello del Águila
+267	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(463,317,182,20,’Dalila')}
+268	Amazona de Ofiuco y maestra de Cassios. Esconde un rostro hermoso y angelical detrás de su máscara, a pesar de su actitud agresiva e imponente.
+269	Garras de Trueno
+270	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(463,317,182,20,'Dalila')}
+271	El Caballero de Aries posee una telequinesis muy fuerte, y también es una de las únicas personas con capacidad de reparar Armaduras. Tiene justicia y sabiduría abundantes.
+272	Extinción Estelar
+273	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(464,318,162,20,'Horácio')}
+274	Caballero que protege a la Casa de Tauro, conocido como “Tauro Dorado”. A pesar de su porte físico gigante y su defensa muy fuerte, su agilidad no es afectada.
+275	Gran Cuerno
+276	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(464,318,158,20,'Golias')}
+277	Caballero que protege a la Casa de Géminis. Tiene doble personalidad, variando entre el bien y el mal – lo que le llevó a asesinar al Gran Maestro y actuar en su lugar.
+278	Satán Imperial
+279	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(464,318,154,20,'Griveous')}
+280	Caballero que protege a la Casa de Cáncer. Es extremadamente sádico y violento, cree que sacrificios son inevitables para un objetivo mayor.
+281	Ondas Infernales
+282	Cuando la reputación alcanza un cierto nivel, podrás comprar artículos con ${pos(464,318,150,20,'Agaris')}
+283	Caballero que protege a la Casa de Leo, también llamado “Leo Dorado”. Es conocido por su firmeza y bravura, y es extremadamente justo y valiente.
+284	Plasma Relámpago
+285	Caballero que protege a la Casa de Virgo. Es la reencarnación de Buda y es conocido como “El hombre más cercano a Dios”.
+286	Tesoro del Cielo
+287	Caballero de Libra. Recibió el orden de Atenea para vigilar el sello de los 108 Espectros de Hades y por años seguidos se quedó sentado en los Cinco Antiguos Picos de Rozan para protegerlo.
+288	Cien Dragones de Rozan
+289	El Caballero de Escorpio es el segundo más joven entre los Caballeros Dorados. Es muy calmo y controlado en batalla, a pesar de su personalidad apasionada.
+290	Aguja Escarlata
+291	Antiguo Caballero de Sagitario y hermano mayor del Caballero de Leo, Aioria. Su figura heroica, honesta y de buen grado era respetada por todos.
+292	Flecha Dorada
+293	Caballero de Capricornio. Fue quién dejó a Aioros al borde de la muerte durante su fuga con Atenea hace trece años. Tiene el título de “el Caballero más leal”.
+294	Espada Excalibur
+295	Caballero que protege a la Casa de Acuario. Es frío, prudente y decidido. Tiene el título de “El Mago de Hielo”. Su conducta es controlada, honesta y tiene un coraje genuino.
+296	Ejecución Aurora
+297	Caballero de Piscis. Es dicho que no hay nadie más bello entre los 88 Caballeros, tiene el título de “Guerrero cuyo brillo de la belleza compite con el Sol y la Luna”.
+298	Rosas Diabólicas Reales
+299	Luz de la Fe puede ser obtenida a través de ciertos artículos obtenidos en las dungeons y usada para cambiar por Rosario.
+300	Uso:
+301	NPC:
+302	Comprar Rosario
+303	Cuando la reputación alcanza un cierto nivel, podrás comprar rosarios con ${pos(403,317,179,20,'Severo')}
+304	Después que el índice de Rayos de Luz del Signo alcanza un determinado grado de Luminosidad, puede invocar el Escudero Altair o Escudero Vega para auxiliar en las batallas. 
+305	Quest diaria: 
+306	Podrá comprar con ${pos(310,317,179,20,'Intendente de Escudero')}  
+307	Puntos de Favor pueden ser obtenidos en Modo Discípulo para jugadores superiores al nivel 60 y usados para cambiar por diversos artículos. 
+308	Comprar paquete de favor  
+309	El paquete de regalo puede ser comprado en la ${pos(365,317,172,20,'Tienda de Favor')}  
+310	Semanalmente la Diosa entrega 105 Puntos de Ares a los Caballeros. Los puntos pueden ser usados para participar de algunas actividades y acceder quests del campo de batalla. 
+311	Actualiza: 
+312	Todos los sábados a las 06 horas 
+313	Los Puntos de Ares pueden ser usados con ${pos(222,317,238,20,'Amanda')}  
+314	Al subir de fase en [Dungeon] Siete Pilares del Océano I, [Dungeon] Siete Pilares del Océano II y en [Heroica] en la dungeon, en el modo difícil, podrás obtener Puntos de Héroe.
+315	Libera en: 
+316	Nivel 80  
+317	Al alcanzar cierto nivel, podrá participar de la dungeon correspondiente a [Heroica] 
+318	Al usar la Bendición de la Diosa, podrás obtener su reputación.
+319	Podrá cambiar con ${pos(364,317,190,20, 'Cristina')}  
+320	Premio de tutela; cuando el Aprendiz se gradúe, podrás recibir tu premio con el NPC.
+321	Puede ser cambiado con ${npc (34576)}
+322	Puntos de Romance son premios de reputación específicos para jugadores que sean esposo y esposa. Pueden ser acumulados a través de Quests diarias. Si se divorcian, los puntos son borrados, pero los títulos no.
+323	El título especifico de esposo y esposa puede ser cambiado con ${npc (38333)}
+324	Área gobernada por Hades donde las personas van al morirse. Además del Muro de los Lamentos, se encuentra el camino para los Campos Elíseos. Para entrar vivo en el Mundo de los Muertos hay que despertar el 8º Sentido.
+325	Inframundo
+326	Cuando la reputación alcanza cierto nivel, podrás comprar artículos con ${pos (-93.74,271.53,-785.2,11,'Greed')}
+327	El paraíso del Mundo de los Muertos donde apenas las personas elegidas pueden entrar. Es un lugar libre de todos los sufrimientos y tristezas. El cuerpo real de Hades está guardado en este lugar.
+328	Campos Elíseos
+329	Cuando la reputación alcance cierto nivel, podrás cambiar títulos con ${pos (-172,343,279,2,'Gilgamesh')}
+330	Caballero Dorado
+331	Caballero de Plata
+332	Zona
+333	Individual
+334	Reputación de ${name} obtenida: ${point} puntos
+335	Reputación de ${name} perdida: ${point} puntos
+336	Obtuvo ${name}${point/100} puntos
+337	La producción consumió ${name}${point/100} puntos
+338	Actualizar la narrativa <Los Caballeros de la Diosa> consumió ${point} puntos de la cantidad de actualización diaria
+339	Hoy aún puedes recibir la Quest <Desafío del Destino> ${total} veces
+340	${name} consumido: ${point}
+341	Hoy aún puedes recibir la quest <Camino de los Caballeros> ${50-total} veces
+342	Actualizar la narrativa <Caballeros de la Diosa> consumió ${point} puntos de la cantidad de actualización del destino
+343	Obtener ${point} puntos de puntuación acumulada de recarga
+344	Consumir ${point} puntos de puntuación acumulada de recarga
+345	${name} del Ejército aumentó en ${point}pts.
+346	${name} del Ejército redució en ${point}pts.
+347	Aumento de los daños de las propiedades de Aire %d%%
+348	Aumento de los daños de las propiedades de Fuego %d%%
+349	Aumento de los daños de las propiedades de Agua %d%%
+350	Aumento de los daños de las propiedades de Tierra %d%%
+351	Aumento de los daños de las propiedades de Trueno %d%%
+352	Aumento de los daños de las propiedades de Luz %d%%
+353	^ff0000Nv5 hay un bono mayor^f2f3f2  
+354	^ff0000Nv11 cambia para Plata^f2f3f2  
+355	^ff0000Nv17 cambia para Oro^f2f3f2  
+356	^ff0000Nv33 hay un bono mayor^f2f3f2  
+357	^ff0000Nv40 cambia para Divina^f2f3f2  
+358	^ff0000Nv48 alcanza la Divina final^f2f3f2  
+359	^ff0000Nv11 hay un bono mayor^f2f3f2 
+360	^ff0000Nv17 hay un bono mayor^f2f3f2 
+361	^ff0000Nv24 hay un bono mayor^f2f3f2 
+362	^ff0000Nv40 hay un bono mayor^f2f3f2 
+363	^ff0000Nv20 recibe Alas Divinas^f2f3f2 
+364	^ff0000Nv34 hay un bono mayor^f2f3f2 
+365	^ff0000Nv48 hay un bono mayor^f2f3f2 
+366	• Marca del Rey (Resistencia a la Tierra):\rJúpiter + Venus + Sol + Luna + Urano\rJúpiter + Venus + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rJúpiter + Venus + Sol + Luna + Neptuno\rJúpiter + Venus + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rJúpiter + Venus + Sol + Luna + Plutón\rJúpiter + Venus + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rJúpiter + Venus + Sol + Urano + Neptuno\rJúpiter + Venus + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rJúpiter + Venus + Sol + Urano + Plutón\rJúpiter + Venus + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rJúpiter + Venus + Sol + Luna + Polaris\rJúpiter + Venus + Sol + Urano + Polaris
+367	• Marca del Rey (Resistencia a la Tierra):\rMercurio + Júpiter + Sol + Luna + Urano\rMercurio + Júpiter + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rMercurio + Júpiter + Sol + Luna + Neptuno\rMercurio + Júpiter + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rMercurio + Júpiter + Sol + Luna + Plutón\rMercurio + Júpiter + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rMercurio + Júpiter + Sol + Urano + Neptuno\rMercurio + Júpiter + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rMercurio + Júpiter + Sol + Urano + Plutón\rMercurio + Júpiter + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rMercurio + Júpiter + Sol + Luna + Polaris\rMercurio + Júpiter + Sol + Urano + Polaris
+368	• Marca del Rey (Resistencia a la Tierra):\rSaturno + Mercurio + Sol + Luna + Urano\rSaturno + Mercurio + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rSaturno + Mercurio + Sol + Luna + Neptuno\rSaturno + Mercurio + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rSaturno + Mercurio + Sol + Luna + Plutón\rSaturno + Mercurio + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rSaturno + Mercurio + Sol + Urano + Neptuno\rSaturno + Mercurio + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rSaturno + Mercurio + Sol + Urano + Plutón\rSaturno + Mercurio + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rSaturno + Mercurio + Sol + Luna + Polaris\rSaturno + Mercurio + Sol + Urano + Polaris
+369	• Marca del Rey (Resistencia a la Tierra):\rVenus + Marte + Sol + Luna + Urano\rVenus + Marte + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rVenus + Marte + Sol + Luna + Neptuno\rVenus + Marte + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rVenus + Marte + Sol + Luna + Plutón\rVenus + Marte + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rVenus + Marte + Sol + Urano + Neptuno\rVenus + Marte + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rVenus + Marte + Sol + Urano + Plutón\rVenus + Marte + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rVenus + Marte + Sol + Luna + Polaris\rVenus + Marte + Sol + Urano + Polaris
+370	• Marca del Rey (Resistencia a la Tierra):\rMarte + Saturno + Sol + Luna + Urano\rMarte + Saturno + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rMarte + Saturno + Sol + Luna + Neptuno\rMarte + Saturno + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rMarte + Saturno + Sol + Luna + Plutón\rMarte + Saturno + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rMarte + Saturno + Sol + Urano + Neptuno\rMarte + Saturno + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno)\rMarte + Saturno + Sol + Urano + Plutón\rMarte + Saturno + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rMarte + Saturno + Sol + Luna + Polaris\rMarte + Saturno + Sol + Urano + Polaris
+371	• Marca del Rey (Resistencia a la Tierra):\rMercurio + Venus + Sol + Luna + Urano\rMercurio + Venus + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rMercurio + Venus + Sol + Luna + Neptuno\rMercurio + Venus + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rMercurio + Venus + Sol + Luna + Plutón\rMercurio + Venus + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rMercurio + Venus + Sol + Urano + Neptuno\rMercurio + Venus + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rMercurio + Venus + Sol + Urano + Plutón\rMercurio + Venus + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rMercurio + Venus + Sol + Luna + Polaris\rMercurio + Venus + Sol + Urano + Polaris
+372	• Marca del Rey (Resistencia a la Tierra):\rSaturno + Marte + Sol + Luna + Urano\rSaturno + Marte + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rSaturno + Marte + Sol + Luna + Neptuno\rSaturno + Marte + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rSaturno + Marte + Sol + Luna + Plutón\rSaturno + Marte + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rSaturno + Marte + Sol + Urano + Neptuno\rSaturno + Marte + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rSaturno + Marte + Sol + Urano + Plutón\rSaturno + Marte + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rSaturno + Marte + Sol + Luna + Polaris\rSaturno + Marte + Sol + Urano + Polaris
+373	• Marca del Rey (Resistencia a la Tierra):\rBenetnasch + Júpiter + Sol + Luna + Urano\rBenetnasch + Júpiter + Sol + Neptuno + Plutón\r• Marca de Ballena (Resistencia al Agua):\rBenetnasch + Júpiter + Sol + Luna + Neptuno\rBenetnasch + Júpiter + Luna + Urano + Neptuno\r• Marca de Fénix (Resistencia al Fuego):\rBenetnasch + Júpiter + Sol + Luna + Plutón\rBenetnasch + Júpiter + Luna + Urano + Plutón\r• Marca de Pegaso (Resistencia al Viento):\rBenetnasch + Júpiter + Sol + Urano + Neptuno\rBenetnasch + Júpiter + Luna + Neptuno + Plutón\r• Marca del Titán (Resistencia al Trueno):\rBenetnasch + Júpiter + Sol + Urano + Plutón\rBenetnasch + Júpiter + Urano + Neptuno + Plutón\r• Marca Sagrada (Resistencia a la Luz):\rBenetnasch + Júpiter +Sol + Luna + Polaris\rBenetnasch + Júpiter + Sol + Urano + Polaris
+374	• Marca do Rei (Resistência à Terra):\rJúpiter + Benetnasch + Sol + Lua + Urano\rJúpiter + Benetnasch + Sol + Netuno + Plutão\r• Marca de Baleia (Resistência à Água):\rJúpiter + Benetnasch + Sol + Lua + Netuno\rJúpiter + Benetnasch + Lua + Urano + Netuno\r• Marca de Fênix (Resistência à Fogo):\rJúpiter + Benetnasch + Sol + Lua + Plutão\rJúpiter + Benetnasch + Lua + Urano + Plutão\r• Marca de Pégasus (Resistência à Vento):\rJúpiter + Benetnasch + Sol + Urano + Netuno\rJúpiter + Benetnasch + Lua + Netuno + Plutão\r• Marca do Titã (Resistência à Trovão):\rJúpiter + Benetnasch + Sol + Urano + Plutão\rJúpiter + Benetnasch + Urano + Netuno + Plutão\r• Marca Sagrada (Resistência à Luz):\rJúpiter + Benetnasch + Sol + Lua + Polaris\rJúpiter + Benetnasch + Sol + Urano + Polaris
+375	Personaje
+376	Artículos
+377	Habilidades
+378	Quests
+379	Social
+380	Ejército
+381	Tutela
+382	Pet
+383	Ítem Mall
+384	Sistema
+385	Armadura
+386	Escudero
+387	Cosmos
+388	Astrología
+389	Reliquia
+390	Alma
+391	Desarrollo Divino
+392	Divinidad
+393	Espelho Quebrado
+394	Universo
+395	Habilidad de Armadura
+396	Caja Mágica
+397	Tienda Personal
+398	Combo
+399	Producir
+400	Grupo
+401	Misión
+402	Ranking
+403	Logro
+404	Álbum
+405	Reputación
+406	Tesoro
+407	Bloqueo de Seguridad
+408	Examen Físico
+409	Enciclopedia
+410	Sacar fotos
+411	Guardia
+412	Proceso
+413	Chat
+414	Ocultar 1
+415	Ocultar 2
+416	Competición
+417	Casa del Tesoro
+418	Doce Casas
+419	Estación de Radio
+420	Atenea
+421	Star
+422	Ocultar 3
+423	Artículos bloqueados
+424	Clan
+425	Gran Maestro
+426	Cambiar
+427	Comprando cualquier valor de Star, ¡Serás promovido al nivel VIP 1!
+428	1. Almacén portátil\r2. Perfeccionamiento portátil\r3. Sistema "Recompensa", el premio de recompensa acumula por máximo 1 día
+429	1. Claveteado de Runa portátil\r2. Almacén portátil\r3. Perfeccionamiento portátil
+430	1. Correo portátil\r2. Ítem Mall VIP\r3. Claveteado de Runa portátil\r4. Almacén portátil\r5. Perfeccionamiento portátil
+431	1. Casa de Subasta portátil\r2. Correo portátil\r3. Claveteado de Runa portátil\r4. Almacén portátil\r5. Perfeccionamiento portátil e Ítem Mall VIP
+432	1. Recibe el título de efecto permanente "Cartera Llena"\r2. Mantiene los privilegios de VIP Nv4\r3. Aumenta el límite actual del sistema "Recompensa" en 2 días.
+433	1. Recibe el íitulo de efecto permanente "Bailando con Oro"\r2. Mantiene los privilegios de VIP Nv4
+434	1. Recibe el título de efecto permanente "Minero Implacable"\r2. Habilita el uso del chat VIP\r3. Mantiene los privilegios de VIP Nv4\r4. Aumenta el límite actual del sistema "Recompensa" en 3 días.
+435	1. Recibe el título de efecto permanente "Dulce Fortuna"\r2. Habilita el uso del chat VIP\r3. Mantiene los privilegios de VIP Nv4
+436	1. Recibe el título de efecto permanente "Riqueza Fanática"\r2. Habilita el uso del chat VIP\r3. Mantiene los privilegios de VIP Nv4\r4. Aumenta el límite actual del sistema "Recompensa" en 4 días.
+437	1. Recibe el título de efecto permanente "Riqueza Incesante"\r2. Habilita el uso del chat VIP\r3. Mantiene los privilegios de VIP Nv4
+438	1. Recibe el título de efecto permanente "Magnate Reluciente"\r2. Habilita el uso del chat VIP\r3. Mantiene los privilegios de VIP Nv4\r4. Aumenta el límite actual del sistema "Recompensa" en 5 días.
+439	1. Recibe el título de efecto permanente "Monopolio Global"\r2. Habilita el uso del chat VIP\r3. Mantiene los privilegios de VIP Nv4
+440	¡Gracias por apoyar a CDZ Online!
+441	Comprando cualquier valor de Star en ese mes, ¡En el próximo mes serás promovido al VIPM Nv1!
+442	Restitución mensual de 400 Gem
+443	Restitución mensual de 800 Gem
+444	Restitución mensual de 1200 Gem
+445	Restitución mensual de 2400 Gem
+446	Restitución mensual de 3200 Gem
+447	1. Restitución mensual de 4200 Gem\r2. Disfrute de la distinta marca VIPM.
+448	1. Restitución mensual de 5200 Gem\r2. Disfrute de la distinta marca VIPM.
+449	1. Restitución mensual de 8800 Gem\r2. Disfrute de la distinta marca VIPM.
+450	1. Restitución mensual de 14000 Gem\r2. Disfrute de la distinta marca VIPM.
+451	1. Restitución mensual de 21000 Gem\r2. Disfrute de la distinta marca VIPM.
+452	1. Restitución mensual de 24000 Gem\r2. Disfrute de la distinta marca VIPM.
+453	1. Restitución mensual de 28500 Gem\r2. Disfrute de la distinta marca VIPM.
+454	1. Restitución mensual de 36500 Gem\r2. Disfrute de la distinta marca VIPM.
+455	1. Restitución mensual de 48000 Gem\r2. Disfrute de la distinta marca VIPM.
+456	1. Restitución mensual de 70000 Gem\r2. Disfrute de la distinta marca VIPM.
+457	1. Restitución mensual de 100000 Gem\r2. Disfrute de la distinta marca VIPM.
+458	1. Restitución mensual de 145000 Gem\r2. Disfrute de la distinta marca VIPM.
+459	1. Restitución mensual de 210000 Gem\r2. Disfrute de la distinta marca VIPM.
+460	Obtenga el producto indicado por 880 Star para recibir 30 veces el beneficio. El número de compras puede ser acumulado.\rTodos los días podrás recibir 667 Gem. El número de veces de uso puede ser acumulado. La acumulación total es de 20000 Gem.
+461	Obtenga el producto indicado por 1980 Star para recibir 30 veces el beneficio. El número de compras puede ser acumulado.\rTodos los días podrás recibir 1167 Gem. El número de veces de uso puede ser acumulado. La acumulación total es de 35000 Gem.
+462	Obtenga el producto indicado por 5000 Star para recibir 30 veces el beneficio. El número de compras puede ser acumulado.\rTodos los días podrás recibir 2667 Gem. El número de veces de uso puede ser acumulado. La acumulación total es de 80000 Gem.
+463	Pacote Primeira Compra
+464	Pacote Primeira Compra
+465	Pacote Primeira Compra
+466	Pacote Primeira Compra
+467	Pacote Primeira Compra
+468	Pacote Primeira Compra
+469	Pacote Primeira Compra
+470	Pacote Primeira Compra
+471	Pacote Primeira Compra
+472	Pacote Primeira Compra
+473	Pacote Primeira Compra
+474	Pacote Primeira Compra
+475	Pacote Primeira Compra
+476	Evento Proteja Saori
+477	Evento limitado del mediodía
+478	Evento de los dos grandes arcos
+479	Evento de los tres arcos
+480	Evento Gran Coliseo
+481	Evento Ánfora Sellada
+482	Caballeros del Zodiaco
+483	Caballeros del Zodiaco -%s
+484	Caballeros del Zodiaco -%s-%s
+485	Advertencia
+486	Error
+487	La última actualización del cliente no ha sido concluida, eso causará problemas graves, no siendo posible entrar en el juego. ¡Por favor, inicie el programa de actualización automática para verificar!
+488	¡Lo sentimos, debido a problemas con el hardware de su sistema o software del sistema, no es posible ejecutar este juego!
+489	¡No se ha podido crear el directorio del cache, el juego no puede ser ejecutado!¡Verifique si hay espacio suficiente en el disco rígido entes de ejecutar este juego!
+490	¡No se puede crear el directorio de screenshots, el juego no puede ser ejecutado! ¡Verifique si hay espacio suficiente en el disco rígido entes de ejecutar este juego!
+491	¡No se puede crear el directorio de RoleSettings, el juego no puede ser ejecutado!¡Verifique si hay espacio suficiente en el disco rígido antes de ejecutar este juego!
+492	¡No es posible crear el directorio GameSave, el juego no puede ser ejecutado!¡Verifique si hay espacio suficiente en el disco rígido entes de ejecutar este juego!
+493	¡No se puede crear el directorio de logs, el juego no puede ser ejecutado!¡Verifique si hay espacio suficiente en el disco rígido entes de ejecutar este juego!
+494	NetMeeting está siendo ejecutado! Cierre el NetMeeting antes de ejecutar el juego!
+495	¡Lo sentimos, debido a la falta de un archivo importante en los recursos de juego instalados en su máquina, el juego no puede ser ejecutado!¡Por favor, reinstale al cliente del juego!
+496	Error al cargar construcción ¡El programa se cerrará!
+497	¡Error de lectura de datos de recursos, el programa se cerrará!
+498	Paquete de archivos [%s] dañado, no es posible abrir. Por favor, reinstale al cliente del juego
+499	Error al abrir el paquete de archivos
+500	Error desconocido
+501	No se puede crear alvos Direct3D, por favor, verifique la versión DirectX actual
+502	¡La placa de vídeo necesita de, en el mínimo, un soporte de dos grupos de textura de mapa de textura de múltiples grupos. Por favor verifique el driver del dispositivo y la ejecución del comando dxdiang de su placa de vídeo para detectar si la aceleración Direct3d de la placa de vídeo está funcionando regularmente!
+503	No es posible obtener el formato de exhibición de 16 bits, verifique el driver de dispositivo de su placa de vídeo, así como la versión DirectX actual
+504	No se pueden crear alvos DirectDraw2, por favor, verifique la versión DirectX actual
+505	No se puede obtener el tamaño de la memoria de vídeo, verifique la versión DirectX actual
+506	La memoria de vídeo restante del sistema disponible para gráfico es menor del que %dMB, el usuario canceló la ejecución del juego
+507	Alto
+508	Medio
+509	Bajo
+510	Alta Resolución de Imagen
+511	¡La memoria de vídeo restante de su sistema disponible para gráfico es menor del que %dMB, durante el juego, es posible que aparezcan pantalla distorsionada, error en el sistema y otros errores graves! ¿Está seguro de que desea entrar en el juego?
+512	¡Error al cargar guion %s!
+513	¡No se puede cargar los archivos de datos de juego! ¡Este error puede ser resultado de una actualización incompleta, por favor realice de nuevo la actualización o verifique la versión actual!
+514	¡No se puede cargar los archivos de datos del juego! Este error puede ser resultado de una actualización incompleta. Haga click en 'Sí' para: actualizar esta versión y verificar. (Nota: Este proceso puede tardar algún tiempo) Haga click en 'No' para: actualizar manualmente más tarde o verificar esta versión.
+515	Advertencia: el programa se cerrará irregularmente
+516	Memoria interna baja
+517	La memoria física disponible restante de su sistema es menor que 512MB, eso influirá en la fluidez del juego, te aconsejamos a cerrar algunos programas y, después, entrar de nuevo en el juego.¿Está seguro de que desea entrar en el juego?
+518	La memoria física disponible es menor que %dMB, el usuario canceló la ejecución del juego.
+519	Módulo peligroso
+520	Señal de Peligro
+521	Señal de Seguridad
+522	Por favor, utilice el patcher oficial para iniciar el juego.
+523	Esta versión del sistema operacional utilizado actualmente (incluyendo WinXP 64 bits) no soportan. Sistemas de 64 bits en el Vista, Win7 y Win8, el juego utilizando ejecución compatible con XP también podrá presentar problemas similares .
+524	Por favor, espere que el juego sea iniciado por completo para intentar nuevamente
+525	Por favor, asegúrese de que el juego no es prohibido por programas antivirus o firewall, y asegúrese de iniciar el juego en la cuenta del administrador. Si el problema persiste, intente los siguientes métodos: 1, Si el sistema Windows estuviera actualizado, por favor, intente reiniciar el ordenador. 2, Intente utilizar el programa antivirus más reciente para encontrar y eliminar Caballos de Troya y virus .
+526	La llamada del proceso remoto del Windows falló y aún no ha sido ejecutada, por favor, reinicie su computadora
+527	Por favor, espere que el juego sea finalizado por completo para intentar nuevamente.
+528	Tiempo de apertura demasiadamente largo, cierre todos los clients de juego e intente nuevamente.
+529	El número máximo de clientes que son permitidos para ser ejecutados simultáneamente es 3
+530	Como el sistema operacional tiene operaciones incompletas, caso actualice automáticamente, por favor, concluya estas operaciones y reinicie su ordenador para, después, intentar abrir el juego nuevamente
+531	Memoria interna del sistema insuficiente, por favor, apague o reinicie su ordenador y, después, intente denuevo
+532	Nv %d
+533	Práctica concentrada %d
+534	^66ff00 Práctica Concentrada %d
+535	^66FF00%d
+536	%d
+537	Nv %d(Práctica Concentrada%d)
+538	Nv %d^66FF00(Práctica Concentrada%d)
+539	Nv %d(%d)
+540	Nv %d^66FF00(%d)
+541	%d(%d)
+542	%d^66FF00(%d)
+543	¡Sangre!
+544	¡Azul!
+545	Offline
+546	EXP: %I64d / %I64d
+547	Astro EXP: %I64d / %I64d
+548	EXP Acumulada: %I64d
+549	Astro EXP Acumulada: %I64d
+550	『%s』
+551	『%s +%d』
+552	Nivel %d
+553	Nivel de Práctica Concentrada
+554	Nivel de Práctica Concentrada:
+555	Base de la Fundación
+556	EXP
+557	EXP
+558	%s...
+559	Grecia
+560	Siberia
+561	Pacote da Primeira Compra
+562	Signo
+563	Todos los Signos
+564	Signo Desconocido
+565	Aprendiz
+566	Pegaso
+567	Cisne
+568	Dragón
+569	Andrómeda
+570	Fénix
+571	Dragón del Mar
+572	Wyrm
+573	Lira
+574	Tornado
+575	Mejora de constelación desconocida
+576	Mejora de constelación de Cadete
+577	Virgo
+578	Sagitario★Divino
+579	Acuario★Divino
+580	Libra★Divino
+581	Virgo★Divino
+582	Leo★Divino
+583	Géminis★Divino
+584	Wyvern★Divino
+585	Piscis★Divino
+586	Áries★Divino
+587	Sexo
+588	Sexo:
+589	Tierra
+590	Fuego
+591	Agua
+592	Viento
+593	Trueno
+594	Ataque Pegaso
+595	Ataque Cisne
+596	Ataque Dragón
+597	Ataque Andrómeda
+598	Ataque Fénix
+599	Ataque Dragón del Mar
+600	año %Y mes %m día %d %H:%M:%S
+601	%sdetrás
+602	%dd 
+603	%dh 
+604	%dmin 
+605	%dmin 
+606	%ds 
+607	%dmin %ds
+608	%dh %dmin
+609	%dd %dh
+610	Tiempo restante:
+611	Cont: 
+612	%s x%d
+613	año %04d mes %02d día %02d %02d:%02d
+614	Domingo
+615	Lunes
+616	Martes
+617	Miércoles
+618	Jueves
+619	Viernes
+620	Sábado
+621	%d año
+622	%d mes 
+623	%0.1f seg
+624	%sdespués
+625	Mañana
+626	Mediodía
+627	Tarde
+628	Noche
+629	Madrugada
+630	%s o %s
+631	Enero
+632	Febrero
+633	Marzo
+634	Abril
+635	Mayo
+636	Junio
+637	Julio
+638	Agosto
+639	Septiembre
+640	Octubre
+641	Noviembre
+642	Diciembre
+643	Lunes
+644	Martes
+645	Miércoles
+646	Jueves
+647	Viernes
+648	Sábado
+649	Domingo
+650	Sí
+651	No
+652	%d millones
+653	Tú
+654	, 
+655	Masculino
+656	Femenino
+657	(Grupo %s)
+658	Silver
+659	Gem
+660	%s Silver obtenido
+661	%s Gold obtenido
+662	%s Star obtenido
+663	%s Silver reducido
+664	%s Gold reducido
+665	%s%d Star obtenido
+666	%s%d Star reducido
+667	%s%d Gem obtenido
+668	%s%d Gem reducido
+669	%d Gem
+670	%d/%d Gem
+671	Debido a muerte con el nombre rojo, perdió %s Gold
+672	Debido a muerte con el nombre rojo, perdió %d%% de la durabilidad del equipamiento y de la Armadura
+673	Índice de EXP perdida %I64d
+674	Índice EXP obtenida %I64d
+675	Índice de Astro EXP perdida %I64d
+676	Índice de Astro EXP obtenida %I64d
+677	Obtener EXP acumulada %I64d
+678	Obtener Astro EXP acumulada %I64d
+679	EXP acumulada liberada %I64d
+680	Astro EXP acumulada liberada %I64d
+681	Obtuvo %d Furia
+682	Ya alcanzó el nivel más alto
+683	Alcanzó el nivel máximo permitido por la Era, por favor, únete a las otras tropas para derrotar al BOSS y abrir las nuevas Eras, pulsa Y para más detalles.
+684	Ya alcanzó el nivel más alto permitido por la Era en el multiservidor, por favor, retorne al servicio inicial para intentar.
+685	No es necesario actualizar manualmente en el nivel actual
+686	^ffffff Índice de Conciencia demasiado bajo (en ${jump(6)} mejora de interfaz ^00ff00 Lucha ^ffffff podrá aumentar), no es posible aumentar el nivel
+687	Índice de EXP insuficiente, no es imposible mejorar
+688	Índice de Astro EXP insuficiente, no es posible mejorar
+689	EXP actual:%I64d\ry EXP para subir de nivel:%I64d
+690	Pericia actual: %I64d\rPericia para subir de nivel: %I64d
+691	[%s]
+692	[%s Nv%d]
+693	[%s Nv %d]
+694	???
+695	Buscando ruta para: %s
+696	^ffffff→%s^N
+697	^999999 %s^N
+698	Ir para %s
+699	Ir para [%s] %s
+700	Teletransporte para [%s]
+701	Cambiar para [%s]
+702	%s: %s
+703	Yendo para [%s]
+704	Cambiando para [%s]
+705	Ir ahora
+706	Teletransportar inmediatamente para [%s]
+707	Cancelar
+708	Cambiar ahora
+709	Cambiar inmediatamente para [%s]
+710	Cancelar
+711	No es posible buscar ruta bajo el status actual
+712	No es posible buscar ruta en el mapa actual
+713	Necesitas buscar una localización de partida adecuada
+714	No es posible buscar el camino automáticamente para el destino que has seleccionado
+715	Una ruta adecuada para ir al destino aún no ha sido encontrada
+716	Yendo hacia el destino
+717	Ruta original cancelada
+718	Llegaste al destino
+719	Llegaste al punto de teletransporte, por favor, teletransporta hacia [%s]
+720	Nivel Requerido: %s
+721	^ff0000Nivel requerido: %s^N
+722	Sin gracia
+723	Enseñar y sacar dudas
+724	Educación para Todos
+725	Formar talentos
+726	Sermón de la luz del Buda
+727	Estudiantes por todas partes
+728	Una buena educación requiere tiempo
+729	El Maestro de la Generación
+730	Un maestro ejemplar para todas las edades
+731	Santo del Universo
+732	Moviendo
+733	Montaría
+734	Volver a la base del ejército
+735	Teletransporte
+736	Volar
+737	Volver al servicio original
+738	Ya está en montaría
+739	No hay montaría equipada
+740	No es posible montar en el estado actual
+741	No es posible montar durante el estado de lucha
+742	No es posible montar en la zona actual
+743	En el nivel actual, no es posible usar la montaría equipada
+744	La montaría equipada es inválida en esta zona
+745	%s te invita a juntarse a la montaría..
+746	%s: Tío, nosotros no salimos ..
+747	Montaría
+748	Durante la transformación, no se puede añadir más personas a la montaría
+749	Durante la negociación en tienda personal no se puede añadir más personas a la montaría
+750	Durante la montaría multijugador, no se puede enviar mensajes
+751	Durante la montaría multijugador, no se puede subastar
+752	Durante la montaría multijugador, no se puede negociar en el Xunbao 178
+753	Durante la montaría multijugador, no se puede unir a un ejército
+754	Durante la montaría multijugador, no se puede abrir la tienda para negociar
+755	Empezar el Baño de Gloria
+756	Suspender el Bãno de Gloria
+757	En este momento estás en el medio del Baño de Gloria, si continúa, Interrumpirá el progreso actual, ¿Quieres continuar?
+758	Durante la práctica, se produjo un error desconocido
+759	Sólo puedes practicar en el lugar de nacimiento
+760	Tu tiempo de práctica hoy ha alcanzado el límite máximo
+761	Tu EXP acumulada ha alcanzado el límite máximo del nivel actual: %I64d, no se puede seguir practicando.
+762	Hoy has pasado 8 horas en el Baño de Gloria, continúa mañana.
+763	Ya estás en status de práctica
+764	No se puede empezar a practicar en tu status actual
+765	La oración empezó
+766	La oración fue interrumpida
+767	Rezando no puede comenzar
+768	No puede rezar
+769	Escudero alcanzó el nivel más alto
+770	Índice máximo que cada Piedra Protectora puede absorber: %d
+771	Piedra Protectora aún no fue colocada
+772	No se puede absorber esta Piedra Protectora con el nivel de lo Escudero
+773	Se ha producido un error durante la absorción de la Piedra protectora
+774	El jugador %s está usando contenido adicional ilegal
+775	El intervalo de tiempo entre la reclamación anterior no puede ser inferior a 5 minutos
+776	Denunciar
+777	Solicitud de ayuda común
+778	Estoy atascado
+779	Denunciar anuncio informativo fraudulento
+780	Denunciar anuncio de Gold falso
+781	Denunciar anuncio de compartimiento de cuentas
+782	El jugador %s está realizando anuncio informativo fraudulento
+783	El jugador %s está realizando anuncio de Gold falso
+784	El jugador %s está realizando anuncio de compartimiento de cuentas
+785	La denuncia fue realizada con éxito, espere pacientemente para que nos ocupemos del caso. Gracias por tus esfuerzos para mantener un ambiente saludable en el juego Los Caballeros del Zodiaco
+786	La hora del servidor actual es:
+787	Sólo por encima del nivel 30 es posible convertirse en maestro.
+788	Con 10 niveles o más abajo que el tuyo , podrá convertirse en tu alumno
+789	La solicitud para reclutar el alumno ya ha sido enviada, por favor, espere la respuesta.
+790	¡Recibiste la bendición de Atenea! Haga click en el botón para recibir. tiempo restante: %d segundos
+791	¡Recibiste la bendición de Atenea! Haga click en el botón para recibir. tiempo restante: %d minutos %d segundos
+792	El screenshot se ha guardado en la carpeta de screenshots.
+793	No podrás atacar y moverse dentro de los próximos 10 segundos, luego se teletransportará al punto de renacimiento más cercano (no se puede usar de nuevo en 2 minutos)
+794	El campo de batalla actual no permite el uso de la función 'congelación' del personaje, si realmente te quedas congelado, por favor, haga click en informar BUG
+795	Nueva área descubierta: %s
+796	No existe datos de logros
+797	Completado
+798	Incompleto
+799	Fase %s
+800	1
+801	2
+802	3
+803	4
+804	5
+805	6
+806	7
+807	8
+808	9
+809	10
+810	Visión general de los logros
+811	Total de logros
+812	Ira
+813	Beso
+814	Asustar
+815	Descansar
+816	Alegre
+817	Travieso
+818	Tierno
+819	Saludo
+820	Solicitación
+821	Asalto
+822	Considerar
+823	Llorar
+824	Alargarse
+825	Timidez
+826	Ataque 1
+827	Ataque 2
+828	Ataque 3
+829	Ataque 4
+830	Defensa
+831	Caer
+832	Caer al suelo
+833	Mirar a tu alrededor
+834	Danza
+835	Renacer
+836	Defender
+837	Explotar
+838	Meteorito
+839	Petrificación
+840	Radiación
+841	Tótem
+842	Quemadura
+843	Petrificación Fuerte
+844	Congelamiento Fuerte
+845	Parálisis Fuerte
+846	Quemadura Fuerte
+847	Recuperación
+848	Furioso
+849	Mercenario
+850	Autodestructivo
+851	Separación
+852	La cantidad de NPC visibles en todo el mapa es superior a 30, por favor, borre apropiadamente los NPC visibles en todo el mapa
+853	Cantidad de NPC es superior a 100, borre el NPC apropiado
+854	Silver insuficiente, ¿Completar con Gold?
+855	Ilimitado
+856	Alcanzó
+857	^FF0000 la diosa Atenea ——%s visita este servidor, ¡Caballeros que la protegen, quemen sus cosmos, quemen con furia!
+858	¡Felicidades, autenticación de Atenea fue realizada con éxito!¡Ahora puedes crear tu propia protección de las Doce Casas con el testimonio de la diosa!
+859	¡Falla en la autenticación de Atenea!
+860	¡Felicidades, tuvieron éxito al crear las 12 Casas! Puede abrir: haga click en el botón "Doce Casas" abajo del botón de contacto social para comprobar
+861	Falla al crear las 12 Casas
+862	¡Nominación de %s realizada con éxito!
+863	¡Error en la nominación de %s!
+864	Falla al nombrar %s, este jugador no fue encontrado
+865	¡Falla al nombrar %s, usted no fue autenticado por Atenea!
+866	¡Falla al nombrar, %s ya fue autenticado por Atenea o ya es otro guardián de Atenea!
+867	¡Falla al nombrar, %s ya es guardián!
+868	¡Falla al nombrar, %s rechazó convertirse en tu guardián!
+869	¡Falla al nombrar %s, la respuesta excedió el tiempo!
+870	¡Falla al nombrar %s, este jugador no está online!
+871	¡La otra parte no está online ahora!
+872	¡Eliminación realizada con éxito!
+873	¡Falla al eliminar!
+874	¡Renuncia realizada con éxito!
+875	¡Falla al renunciar!
+876	%s i renunció al puesto de guardián %s de oro!
+877	¡Usted fue exento por la diosa Atenea %s de las obligaciones de Guardián!
+878	¡Declaración modificada con éxito!
+879	¡Falla al modificar declaración!
+880	¡La diosa Atenea %s te invita a convertirte en guardián %s de Oro!
+881	^FF0000 la Diosa Atenea %s promoverá %s para su propio guardián %s de Oro!
+882	El amor y la paz, el Equipo Rocket, que cruza la Vía Láctea, por el amor y la paz, el Equipo Rocket, que cruza la Vía Láctea, por el amor y la paz, el Equipo Rocket, que cruza la Vía Láctea,
+883	Declaración %s de Atenea:
+884	Haga doble click para modificar la Declaración de Atenea, despúes ENTER para confirmar
+885	Jugadores del sexo masculino no pueden autenticar para convertirse en Atenea
+886	¡Tú eres Atenea!
+887	¡Fuiste nominado para convertirse en Guardián de las 12 Casas de Atenea! Para crear Atenea, por favor, separase primero de las 12 Casas de Atenea actuales
+888	¡Falta de herramientas para autenticar!
+889	(Libre)
+890	Conexión
+891	Ítem: %s %dun.
+892	Pulverizaciones: %d/%d
+893	Silver: %d
+894	Gold: %d
+895	Astrología Nv%d
+896	Moneda necesaria para Astrología insuficiente
+897	Silver necesario para Astrología insuficiente
+898	Ítem %s necesario para Astrología insuficiente
+899	%s necesario para conexión insuficiente
+900	Necesario: %s %dun.
+901	Iluminado
+902	Iluminar\r%s
+903	No iluminado\r%s
+904	Astrología realizada con éxito
+905	¡¡¡Número de veces de Astrología fue recalculado y volvió para la Astrología de la primera ronda!!!
+906	Ataque crítico (¡sorpresa!)
+907	Obtuvo %s %dun.
+908	Consumió %s %dun.
+909	Evolucionar
+910	Parar
+911	Evolución realizada con éxito
+912	Qué pena, falla al evolucionar
+913	Felicitaciones, conexión estelar iluminada con éxito
+914	Felicitaciones, has recibido la pulverización procedente de %s
+915	%s insuficiente
+916	^FF0000Silver insuficiente
+917	^FF0000Gold insuficiente
+918	^FF0000%s insuficiente
+919	Después de usar %s el índice de éxito aumenta considerablemente, ¿deseas usar?
+920	%02d:%02d:%02d
+921	Entregar ofrenda
+922	Recibir
+923	Moneda insuficiente para Ritual
+924	Su Silver es insuficiente, participe de eventos para ganar Silver
+925	%s insuficiente
+926	La conclusión de esta Conexión Estelar activará la pulverización de Muón\rEn el momento de la pulverización de Muón, podrás reunir los miembros del grupo para obtener Muóns\rEl miembro del grupo tiene probabilidad de obtener Muón de nivel 4 o superior
+927	La conclusión de esta Conexión Estelar abrirá el Ritual.\rDespués de obtener, todos los días podrás entrar en la interfaz del Ritual y proseguir\rEl dios responderá a su sinceridad y todos los días obtendrás una recompensa
+928	Para activar ese Ritual Estelar es necesario alcanzar el nivel de Astrología %d\rConcluir la conexión de constelación, puede aumentar el nivel de Astrología
+929	¡Aún queda la última estrella que no fue iluminada! ¡La conclusión de esta Conexión Estelar activará la pulverización para los miembros del grupo que estén en los alrededores!
+930	¡Es recomendado iluminar la última estrella sólo después de reunir a los miembros del grupo!
+931	La conclusión de esta Conexión Estelar activará la pulverización de Muóns. En el momento de la pulverización, los miembros del grupo que estén dentro de un límite de 15 metros, podrán obtener Muóns de nivel avanzado. ¿Deseas proseguir?
+932	Proseguir
+933	Llamar Grupo
+934	Tendrás un lucro mayor en la 2ª ronda
+935	Tendrás un lucro mayor en la 3ª ronda
+936	Índice de éxito: %.01f%%
+937	Iniciar
+938	Parar
+939	^FF0000Muón insuficiente
+940	Silver: %I64d
+941	Astrología Nv%d
+942	Libera ofrenda en Astrología Nv%d.
+943	Cuando la Astrología llegue al nivel 24, un aura fuerte brillará en el cuerpo
+944	Cuando la Astrología llegue al nivel 48, un aura aún más fuerte brillará en el cuerpo
+945	Cuando la Astrología llegue al nivel 64, un aura súper fuerte brillará en el cuerpo
+946	Cuando la Astrología alcanzar el nivel 88, un aura extremadamente fuerte brillará en el cuerpo
+947	Todas las ofrendas
+948	Recibir todo
+949	Sus Múons son insuficientes, vaya rápido a recoger algunas Llaves Cósmicas
+950	El Ritual Estelar fue iniciado, por favor, aguarde la conclusión
+951	Cuando la Astrología llegue al nivel 24, un aura fuerte brillará, haga click en previsualizar
+952	Cuando la Astrología llegue al nivel 48, un aura fuerte brillará, haga click en previsualizar
+953	Cuando la Astrología llegue al nivel 64, un aura fuerte brillará, haga click en previsualizar
+954	Cuando la Astrología llegue al nivel 88, un aura fuerte brillará, haga click en previsualizar
+955	No utilizar el %s ^N consumirá una gran cantidad de materiales, ¿confirmar evolución?
+956	Ahora, estás sintetizando Múons de nivel avanzado\r No utilizar el %s^N consumirá una gran cantidad de materiales, ¿confirmar evolución?
+957	Aura nivel 24
+958	Aura nivel 48
+959	Aura nivel 64
+960	Aura nivel 88
+961	Reliquias activas
+962	Almacén de Reliquia
+963	Sin combinación
+964	Falla al equipar Reliquia
+965	Falla al eliminar Reliquia
+966	Falla al sustituir Reliquia
+967	Falla al cambiar la posición del artefacto divino en la barra de equipamento
+968	El inventario de reliquia está lleno.
+969	Mineral: Bronce
+970	Mineral: Plata
+971	Mineral: Oro
+972	Mineral: Sagrado
+973	Mineral: Perfecto
+974	Aura insuficiente, no es posible bañar
+975	Perfeccionamiento de Reliquia realizada con éxito
+976	Mineral bañado con éxito
+977	La Reliquia ya está en el estado original, no es posible restaurar
+978	Éxito al restaurar la Reliquia para el estado original
+979	Falla al restaurar la Reliquia para el estado original
+980	Inventario lleno, por favor, deje algún espacio vacío y, luego, intente eliminar la Reliquia nuevamente
+981	Sólo Reliquias sin Minerales pueden ser devueltas al Inventario del personaje\rLos niveles de los Minerales pueden eliminarse o transferirse a otras Reliquias 
+982	Por favor, restaure el número de Encantamientos de la Reliquia para la forma original, y después intente proseguir con la devolución
+983	Reliquia eliminada con éxito
+984	Falla al eliminar Reliquia
+985	Power: %d
+986	Poder Divino necesario: %d\rNivel: %d\r
+987	Nv. actual: %d/%d\r
+988	Nv. actual: ^ff0000%d^ffffff/%d\r
+989	Sig. Nv.: %d\r
+990	Al seleccionar, aumenta la eficiencia en %0.2fx
+991	Al limpiar todos los niveles de los Minerales, la Reliquia cambiará para su estado inicial\rEs recomendable transferir el nivel para otra Reliquia, ¿deseas proseguir?
+992	^NLa opción de uso de %s^N no fue seleccionada. Seleccionando a la opción, la eficiencia al Bañar el Mineral será mayor, ¿deseas seleccionar la opción?
+993	¿Deseas bañar automáticamente hasta que el Mineral suba de nivel?\r(Cuando el Aura es insuficiente, el proceso será interrumpido)
+994	¿Proseguir con el Encantamiento?
+995	¿Deseas restaurar los encantamientos?\r(Tras restaurar al estado original, todas las Jades Divinas serán reintegradas. Por favor, asegúrate de que hay suficiente espacio en el inventario)
+996	Reliquias que aún no han sido Encantadas no necesitan ser restauradas al estado original
+997	%s insuficiente
+998	Encantamiento: %d\r
+999	Todos los atributos de los Minerales de la Reliquia aumentaron en %d%%\r
+1000	Nv. máx del Mineral +%d^ffffff\r
+1001	Artículos requeridos: %s x%d^ffffff
+1002	Haz click en el botón izquierdo para proseguir con el Encantamiento
+1003	Poder Divino: %d
+1004	Efecto
+1005	Atributos
+1006	Mineral de Bronce: Nv. %d/%d
+1007	Mineral de Plata: Nv. %d/%d
+1008	Mineral de Oro: Nv. %d/%d
+1009	Mineral Sagrado: Nv. %d/%d
+1010	Mineral Perfecto: Nv. %d/%d
+1011	(Activa despúes del Poder Divino alcanzar %d)
+1012	Efecto
+1013	Nv. máx de Minerales: %d
+1014	Tras usar, la Reliquia será transferida al Almacén de Reliquias, ¿deseas proseguir?
+1015	Reliquia origen
+1016	Reliquia alvo
+1017	Seleccione a la Reliquia origen
+1018	Nv. del Mineral de Reliquia origen insuficiente
+1019	Seleccione a la Reliquia alvo
+1020	La Reliquia alvo y Reliquia origen se convirtieron en una sola
+1021	La Reliquia alvo ya ha sido fortalecida
+1022	El nivel actual de ciertos Minerales de la Reliquia origen sobrepasa el nivel máximo de la Reliquia alvo, no es posible cambiar
+1023	Marque la opción que deseas transferir
+1024	La Reliquia alvo aún no ha sido Encantada, no es posible transferir
+1025	Reliquia origen no puede tener encantamiento nulo
+1026	Encantos de la Reliquia origen es mayor que el objetivo
+1027	Éxito al modificar perfeccionamiento de la Reliquia
+1028	Falla al modificar perfeccionamiento de la Reliquia
+1029	Aura:
+1030	El nivel máximo de los Minerales de la Reliquia objetivo es menor que la Reliquia origen, ¿estás seguro que deseas proseguir con el cambio? (El nivel del Mineral cambiará completamente)
+1031	El nivel máximo de los Minerales de la Reliquia objetivo es relativamente bajo, después de cambiar, el nivel del Mineral será completamente conservado, pero el nivel excedente no será añadido al Atributo, Poder Divino, etc. ¿Confirmar cambio?
+1032	Encantamiento realizado con éxito
+1033	Encantamiento falló
+1034	Encantamiento eliminado con éxito
+1035	Espacio insuficiente en el inventario, por favor, inténtelo nuevamente después de liberar espacio
+1036	%s\t Power +%d
+1037	Activar %d unidades de \t Power: %d
+1038	%s Nv%d
+1039	Definir Contraseña
+1040	Modificar Contraseña
+1041	Puede desbloquear
+1042	Desbloqueo en: %s
+1043	Candado de artículos desbloqueado con éxito
+1044	Contraseña del Candado de artículos definida con éxito
+1045	Falla al definir/modificar contraseña, averigue si introdujo correctamente
+1046	Bloqueado con éxito
+1047	La cuenta regresiva para el bloqueo del candado de artículos empezó, después de 7 días, será bloqueado
+1048	El desbloqueo forzado del candado de artículos empezó, después de 15 días, será desbloqueado
+1049	Contraseña incorrecta, falla al desbloquear
+1050	Desbloqueo cancelado, el status de bloqueo fue restaurado
+1051	Cuenta regresiva iniciada. Después que el plazo expire, el ítem podrá ser completamente desbloqueado.
+1052	Desbloqueado con éxito
+1053	ítem ya está bloqueado, si necesitas desbloquear, por favor, abra la operación en la interfaz del candado de seguridad
+1054	La contraseña aún no fue activada, por favor, defina una contraseña primero
+1055	Actualmente, se encuentra en el periodo para ser desbloqueado, si es necesario proteger un ítem, por favor, cancele el desbloqueo primero
+1056	Tras bloquear un ítem, es necesario esperar 7 días, ¿deseas bloquear %s?
+1057	%s sólo puede completar el desbloqueo de %dun.\rPrimero,  separe la cantidad correcta y después, haga click nuevamente para completar el desbloqueo
+1058	%sTiempo de desbloqueo en progreso
+1059	Cantidad de desbloqueos
+1060	%s desbloqueables: %d
+1061	Virtud: %d
+1062	Requisitos:\rPersonaje %s^FFFFFF\rPericia %s^FFFFFF
+1063	EXP %s^FFFFFF
+1064	Astro EXP %s
+1065	Nivel actual: %d\r
+1066	Virtud aumentada con éxito
+1067	Falla al aumentar Virtud
+1068	Claveteado del Alma en la Virtud realizada con éxito
+1069	Falla en el claveteado del Alma en la Virtud
+1070	Separación del Alma en la Virtud realizada con éxito
+1071	Falla en la separación del Alma en la Virtud
+1072	%s rodó los datos y cayó el %d (0 - 100)
+1073	En el caso de que no firmes un día, aún podrás seguir firmando.\r^FFB90FFirmastes presencia en %d días en este mes.\rLa Presencia Premiada es renovada mensualmente.
+1074	Firmado
+1075	Firmar
+1076	Reponer (%d)
+1077	No firmado
+1078	No tienes Tarjeta de Reposición de Presencia
+1079	Falla al firmar presencia
+1080	Presencia firmada con éxito
+1081	La prevención coreana a la adicción al juego superó %dh
+1082	Tras clavetear, el equipamiento será vinculado, ¿Desea continuar?
+1083	Confirmar desmontaje:\r
+1084	%s(Nv%d)\r
+1085	Núcleo de Energía completó el nivel
+1086	EXP insuficiente para subir de nivel
+1087	El mismo tipo de joya ya fue claveteado.
+1088	Clavetear en el lugar equivocado
+1089	EXP de desmontaje alcanzo el límite, no puede desmontar
+1090	Este equipamiento no puede clavetear en la joya
+1091	El inventario de desmontaje está lleno.
+1092	Mosaico perdida
+1093	Mosaico montado com sucesso
+1094	Substituição realizada com sucesso
+1095	Erro de posição de Mosaico
+1096	Mosaico de Experiência, impossível equipar
+1097	Não é um Mosaico, impossível utilizar
+1098	Após equipar, mosaico será vinculado. Continuar?
+1099	Remoção realizada com sucesso
+1100	Inventário cheio. Libere espaço primeiro.
+1101	Aprimorado com sucesso!
+1102	Nível Máximo
+1103	Mosaico de Experiência, impossível aprimorar
+1104	Exp Insuficiente
+1105	Silver Insuficiente
+1106	Faltam Materiais
+1107	Mosaicos congelados, não podem ser aprimorados
+1108	Após aprimorar, mosaico será vinculado. Continuar?
+1109	Se o Silver for insuficiente, substituir por Gold?
+1110	Desmontado com sucesso!
+1111	Valor de experiência no máximo
+1112	Inventário cheio, necessário liberar espaço
+1113	Este item não pode ser desmontado
+1114	Este item está bloqueado e não pode ser desmontado
+1115	Este item está congelado e não pode ser desmontado
+1116	Espaço para desmontar cheio
+1117	Mosaico indestrutível
+1118	Contém mosaico bloqueado, não pode ser desmontado
+1119	Contém mosaico congelado, não pode ser desmontado
+1120	%s (Nv%d  x%d)\r
+1121	Atualizado com sucesso
+1122	O número máximo de atualizações do período foi atingido
+1123	Stars Insuficientes
+1124	Gems Insuficientes
+1125	Itens Insuficientes
+1126	Compra realizada com sucesso
+1127	Comprado anteriormente. Não pode ser comprado novamente até próxima atualização.
+1128	Tem certeza que deseja comprar %s*%d ?
+1129	Nieve
+1130	Rubí
+1131	Ámbar
+1132	Lima
+1133	Azul
+1134	Morado
+1135	Negro
+1136	Rosa
+1137	Naval
+1138	Verde
+1139	Lino
+1140	Oro
+1141	Café
+1142	Plata
+1143	Rojo
+1144	Trufa
+1145	Crema
+1146	Beige
+1147	Gris
+1148	Coral
+1149	Suerte %s de hoy
+1150	Falla al abrir la Suerte Estelar para un amigo
+1151	Gastar el doble, resultados muy pequeños
+1152	%s dice: %s hoy, en el amor, necesita gastar el doble de paciencia e, incluso,complacer, pero recibirá resultados muy pequeños.
+1153	Negociación del Amor
+1154	%s dijo para %s: El amor no es algo que deseas comprar, lo que deseas comprar puede ser comprado
+1155	Crisis del sentimiento escondido
+1156	%s dijo en voz baja: el soltero %s está secretamente enamorado. Incluso que tenga compañero, aún asi se hundirá en la crisis del sentimiento escondido.
+1157	No es posible renunciar de la cura.
+1158	%s dijo para %s: incluso que nadie te ame, aún así, no es posible renunciar de la cura.
+1159	No es posible saltar para afuera de las ataduras del viejo amor.
+1160	%s Recordó %s: El viejo amor es difícil de olvidar. Primero, porque el tiempo no fue lo bastante largo y, segundo, porque el nuevo amor no es lo suficientemente bueno. Cualquiera de los dos sólo puede ser encontrado en el futuro, no en el pasado.
+1161	Distanciarse de una situación acogedora hace que la visión del amor se haga más objetiva, y que todo camine en una buena dirección.
+1162	%s visto, satisfecho, %s distanciarse de una situación acogedora hace que la visión del amor se haga más objetiva, y que todo camine en una buena dirección.
+1163	La niebla comenzó a subir. Cuanto menos es reconocido, más se siente reprimido, más fácil es hundirse.
+1164	%s indica que la niebla comenzó a subir. Cuanto menos es reconocido, más se siente reprimido, más fácil es hundirse
+1165	Expectativas sobre la realidad, pueden generar ideas poco realistas.
+1166	%s Si esa realidad es considerada como un motivo de expectativa, se crean %s sentimientos que pueden generar ideas poco realistas.
+1167	Amor hundido en la imaginación
+1168	%s siempre en una espera persistente, pero antes que perciba %s ya se siente conectado a la persona de su imaginación.
+1169	Los cambios en la mente traen cambios en las emociones
+1170	Los cambios que %s trajo están comenzando a aparecer.La intervención de la realidad comienza a disolverse, %s se producen cambios en los sentimientos causadas ​​por los pensamientos de nivel espiritual.
+1171	Cuando los sentimientos aún no revelados son traídos a la luz del día, los resultados no siempre son tan malos
+1172	%s Ha sido testigo del monodrama de %s, sentimientos nunca aclarados antes, hoy, se traerá a la luz del día, el desarrollo de la situación generalmente no se imagina como algo malo.
+1173	Hoy en día, en el camino de las emociones, es necesario ir sin carga alguna
+1174	%s dijo: Como %s preguntó con toda su sinceridad, te lo digo con gran piedad - Hoy en día, hay que ir sin ninguna carga en el camino de las emociones.
+1175	Tener paciencia para resolver pequeños conflictos hará que sea más fácil la convivencia
+1176	%s dijo: %s hoy en día quizas encuentre pequeños conflictos de amor pero, después de resolverlos con paciencia, la convivencia se hará más fácil
+1177	Amores fueron rotos, pero, a pesar de eso, aparecerá alguien próximo y querido
+1178	Todo el amor ha sido desperdiciado por %s. La soledad alrededor de %s no es poca, pero aparecerá un amor que te hará sentirte muy amado.
+1179	El camino está lleno de espinas
+1180	%s está en %s en la carretera del amor de hoy, llena de espinas.
+1181	Avanzar abriendo camino entre las dificultades
+1182	%s dijo a %s: por amor, se puede romper cualquier barrera.
+1183	La ayuda de otra persona puede ayudarte a navegar suavemente en los mares de amor
+1184	%s puede ayudar %s a navegar suavemente en los mares en búsqueda del amor
+1185	A veces ... ser valiente y sin miedo
+1186	%s puede ayudar %s a tener grandes ambiciones en los mares en búsqueda del amor.
+1187	¿Asearse cuidadosamente puede o no tracer el amor?
+1188	%s preparó cuidadosamente en nuevo visual para %s, ¿será que el amor llegará más rápido?
+1189	Me dá un abrazo
+1190	%s dijo para %s: ¿Puede darme un abrazo?
+1191	Los amores se abren, ¿Dónde está la persona para mí?
+1192	%s Dice: Los amores de %s florecen, ¿Pero dónde estará la persona para mí?
+1193	Apoyarse en su hombro
+1194	%s dijo para %s: Si usted esté cansado, puede apoyarse en mi hombro.
+1195	Vaya a buscar la persona para confesarse
+1196	%s dijo el bajito para %s, hoy, vaya a buscar a la persona para que se confiese
+1197	Mejor imposible
+1198	%s se quiere declarar a %s, pero no sabe como empezar a hablar.
+1199	Una mente determinada trae acciones audaces
+1200	%s a través de un largo período de esfuerzos, con la mente determinada de %s, las acciones se convertirán aún más atrevidas.
+1201	Soy el viento, usted es la arena
+1202	%s es el viento, %s es arena, soplando continuamente para el infinito.
+1203	El amor que se revela creativo sólo puede traer felicidad
+1204	%s tener una actitud amorosa que se revela creativa hará que el enamorado %s sienta una dulce felicidad.
+1205	Coge la iniciativa de aproximarte al sexo opuesto
+1206	%s oyó respetuosamente el oráculo de la Diosa: si hubiera iniciativa de aproximación del sexo opuesto de %s, es necesario coger bien tal oportunidad
+1207	¡Cuántos amores, no tenga vergüenza de declararse!
+1208	%s trajo para %s mucha suerte en el amor, hoy, al declararse para la otra persona, no habrá errores en el resultado, no tenga vergüenza
+1209	¡Nos vamos a casar!
+1210	%s dijo a %s: ¡Nos vamos a casar!
+1211	Afortunado en el amor
+1212	%s se abrió la suerte en el Amor de hoy para %s
+1213	Suerte financiera desmoronándose a mil millas
+1214	%s dijo: la suerte financiera de %s está desmoronándose a mil millas, la vida está extremedamente difícil.
+1215	Gastos excesivos en diversión pueden llevar a la miseria
+1216	%s dijo: %s hoy, gastos excesivos en diversión pueden llevar a la miseria
+1217	El dinero y las riquezas dispersadas retornarán
+1218	%s aconsejó el ya pobre y miserable %s: el dinero y las riquezas dispersadas retornarán.
+1219	La presión de tener una gran cantidad de dinero requiere que cuides de tu billetera
+1220	%s dijo: %s hoy, la presión del dinero es muy grande, por favor, cuida de tu billetera
+1221	Ahora, la suerte con el dinero no está favorable, pero puede ser que una riqueza inesperada esté en la espera
+1222	Si bien la suerte con el dinero en el día de hoy está débil, %s le dijo a %s que puede ser que una riqueza inesperada esté en la espera
+1223	¿Es para pedir dinero prestado?¿O es para pedir dinero prestado? ¿O es para pedir dinero prestado?
+1224	%s pretende pedir dinero prestado para %s, ¿Usted presta? ¿O presta?¿O presta?
+1225	Gastos inesperados por causa de la diversión y por pagar la cuenta para el sexo opuesto
+1226	%s predijo que, hoy en día , los gastos inesperados de %s serán principalmente por diversión y para pagar la cuenta del sexo opuesto.
+1227	Ganar dinero no es fácil, es necesario saber controlar los gastos
+1228	%s está sorprendido que las ganancias de %s de hoy hayan sido todos obtenidos a través de un trabajo duro, pero, aún así, todavía no ha aprendido a controlar los gastos.
+1229	Ganancias y pérdidas son inesperadas, es sólo no dar lugar a las finanzas hoy
+1230	Ganancias y pérdidas son inesperadas, %s recomienda %s
+1231	El descubrimiento de la riqueza interior está en una buena amistad
+1232	%s descubrió la riqueza interior, pero no contó la %s, tiene un fuerte desprecio +1
+1233	La ayuda de un amigo tal vez traiga nuevas fuentes de ingresos
+1234	Hoy en día, puede ser que las fuentes habituales de ingreso presenten variables, %s tal vez leve %s para encontrar nuevos caminos
+1235	Si hoy compras tierras en el Santuario, vas a ganar un gran cantidad de dinero.
+1236	%s contó para %s: Si hoy compras tierras en el Santuario, vas a ganar una gran cantidad de dinero.
+1237	Respetar la tabla de planeamiento de gastos es ventajoso para el enriquecimiento.
+1238	%s se designó una tabla de planeamiento de gastos para %s, caso sea respetado, será ventajoso para el enriquecimiento.
+1239	Guardar bien el dinero es el camino para la seguridad
+1240	%s mira con envidia para el bolsillo lleno de dinero de %s
+1241	El camino para hacer dinero en la vida tranquilamente
+1242	%s recordó que para aumentar la suerte financiera %s, no se puede actuar impulsivamente.
+1243	Apenas conservar los hechos de los antepasados y desperdiciar la suerte financiera favorable de hoy.
+1244	%s Es una pena, pues hoy la suerte financiera está muy buena, pero %s decidió sólo mantener su capital.
+1245	Suerte financiera que nadie puede detener
+1246	%s mira la suerte financiera que nadie puede detener de %s con envidia
+1247	La clave de la suerte financiera de hoy es estar sobre buenas influencias
+1248	%s puede hacer que la clave de la suerte financiera de %s de ahora sea estar sobre buenas influencias.
+1249	Con control emocional, es posible tener control financiero
+1250	%s no consigue soportar las adulaciones de %s, es dijo en voz baja: el control del humor es la clave para la suerte financiera de ahora.
+1251	Suerte financiera frenética
+1252	%s está asombrado con la suerte financiera frenética de %s.
+1253	Confiar en su equipo es la clave de la fortuna de hoy
+1254	%s no consigue soportar las adulaciones de %s, y dijo en voz baja: confiar en su equipo es la clave de la suerte financiera de hoy.
+1255	Si tuviera un patrocinador rico y bonito,¡Aproveche la oportunidad!
+1256	Él rico y bonito %s dice, ¿Hay alguién que necesita de patrocinio? %s ¡Aproveche ya la oportunidad!
+1257	Liberarse un poco es una forma aún más fácil de obtener beneficios
+1258	%s aconseja %s liberar nuestros propios bolsillos , porque,a veces, correr un poco de riesgos hace que se obtenga beneficios más fácilmente.
+1259	Suerte financiera exuberante
+1260	%s para que %s trae una suerte financiera exuberante, ahora la forma de obtener aún más ventajas es ganar dinero paso a paso.
+1261	Suerte financiera divina
+1262	%s observando la suerte financiera divina de %s, babeó al suelo.
+1263	Fortuna más allá de lo divino
+1264	La suerte financiera de %s, que nadie puede evitar, en comparación con la de %s, supera la suerte financiera de los dioses y sigue creciendo; Al salir, uno debe tener cuidado de no ser aplastado entre las barras de oro.
+1265	Suerte financiera
+1266	%s abrió la Suerte Financiera de hoy para %s
+1267	El amigo te acompañó silenciosamente en la soledad
+1268	%s silenciosamente acompañó %s en la soledad
+1269	Tarjeta de Amigos
+1270	%s dije para %s: Siempre te tendré como amigo.
+1271	Hoy en día, puede ser que ocurra una pelea con el amigo
+1272	Hoy en día, puede ser que ocurra una pelea entre %s y %s.
+1273	La discusión también aumentará el afecto
+1274	Después de la discusión entre %s y %s, ellos están aún más firmes.
+1275	La fiesta es una manera de conocer gente nueva
+1276	%s e %s necesitan una fiesta para conocer nuevos amigos.
+1277	Ser reservado inecesariamente va a obstaculizar el cuidados de los amigos
+1278	%s expresó mucho cuidado para con %s, pero el último no ha sido reservado.
+1279	No es necesario ser reservado entre amigos
+1280	%s expresó gran cuidado con %s, para qué reservas, pongan eso a un lado pronto.
+1281	La frialdad afecta el humor de las dos partes, reconciliate lo más rápido posible y vuelve a conversar con todos
+1282	%s demuestras frialdad a %s y esto afectará el status de ánimo del día de ambos, esperamos que se concilien pronto.
+1283	Yo y mis pequeños compañeros
+1284	%s si su Pequeño Compañero %s necesitan correr riesgos juntos.
+1285	para la armonía ser priorizada, es necesario resolver la fricción
+1286	Puede haber fricción en la lucha de %s con %s de hoy, pero la armonía debe ser valorada para que se pase por eso en paz
+1287	La amistad que tiene fricción puede volverse aún más sólida
+1288	Hubo una fricción entre %s y %s, pero no influyó en la amistad de ellos.
+1289	Tu felicidad es la expectativa sincera de los amigos
+1290	%s ha asumido un pose extraño, y dibuja que %s consiga ser todavía más feliz
+1291	Amistad sin arrepentimientos
+1292	%s Dije para %s: con lo tanto que estés feliz, estoy dispuesto a pagar cualquier precio
+1293	Solo llama a su novio y olvida los amigos
+1294	%s demostra tristeza, pues %s solo se importa con el novio y olvida los amigos.
+1295	En general, quién más puede entenderte son los malos amigos
+1296	%s dijo para %s, ¡Hacer una mala amistad es un error para toda la vida, hay que tener responsabilidad!
+1297	Amistad que crece día a día
+1298	La amistad de %s y %s crecerá a cada día
+1299	Amistad que avanza rápido
+1300	%s La amistad de %s y avanzará rápidamente.
+1301	Invitar a un amigo para jugar juntos es la mejor forma de aumentar una amistad
+1302	%s desea invitar %s a participar en el evento, pero no saben cómo empezar a hablar.
+1303	Para invitar, es necesario hablar en voz alta
+1304	%s dijo para %s: ¡Vamos a jugar juntos !
+1305	Para invitar, es necesario hablar en voz alta · alterar
+1306	%s dijo para %s: ¡Vamos a jugar juntos !¡De lo contrario, moriría para que veas!
+1307	La ayuda de un amigo te saca de la sombra
+1308	La ayuda de %s trae %s para fuera de las sombras, TA demuestra gratitud.
+1309	Amigos caminan juntos por la vida entera
+1310	%s demostrar para %s que es un amigo para toda la vida
+1311	Buen amigo, una vida
+1312	%s dijo para %s: bueno ami (ji-) ir, toda la vida
+1313	Hoy en día, ayudar en el amor es amistad, no hay mal en buscar la ayuda de amigos.
+1314	La amistad de %s es la ayuda en el amor de %s, la ayuda de un amigo puede aliviar las preocupaciones.
+1315	Suerte en la Amistad
+1316	%s abrió la Suerte en la Amistad de hoy para %s
+1317	No tenga miedo de los puntos flacos de sus colegas de equipo, luche con su esfuerzo para obtener buenos resultados finales
+1318	%s dijo: Encontrar puntos flacos quizás torne la lucha de %s de hoy difícil, pero los resultados son siempre buenos.
+1319	Aprender con los puntos fuertes de los otros a superar los propios puntos flas es el camino para el equilibrio
+1320	%s dijo para %s: No tenga vergüenza de sus puntos flacos, aprenda a superarlos a través de puntos flacos de los otros
+1321	La fatiga también no puede detener el impulso de luchar
+1322	Aunque esté agotado, aún %s así quiere dar su mejor para concluir %s esta lucha interminable.
+1323	Ir hasta el final, sin retorno
+1324	%s dijo para %s: Muestra el valor de ir hasta el final, sin regreso. No hay nada que pueda detener sus pasos.
+1325	Responder de forma inesperada es la realización básica de la lucha
+1326	%s dijo: la presión de la cucha de hoy es grande, y surgieron cosas fuera del que era aguardado, haciendo con que %s no sepa que camino tomar.
+1327	Él es fuerte, permite que sea
+1328	%s animó %s: El enemigo es formidable, él es fuerte, permita que sea
+1329	Encontrar puede hacer la lucha de hoy todavía más realista
+1330	Hoy en día, si encuentras%s en el evento, causará que %s se sienta muy realista.
+1331	Comportamiento heroico de lucha
+1332	El comportamiento heroico de lucha de %s deja %s extremadamente fascinado.
+1333	La lucha tal vez traiga enormes ganancias, y sólamente teniendo el corazón común es que se le puede enfrentar.
+1334	%s dijo: La lucha de poder tal vez traiga enormes ganancias, ¿%s Aún conseguirás mantener tu corazón sencillo?
+1335	Avanzar con convicción
+1336	%s recordó %s que solamente andando paso a paso con convicción es que se puede hacer el camino de la victoria; la batalla de hoy depende de eso
+1337	Saber como utilizar bien las estrategias traerá éxitos aún mejores
+1338	%s recomienda %s a que utilice bien las estrategias en la lucha de hoy ya que puede traer aún más logros perfectos.
+1339	Levar un flechazo en la rodilla
+1340	%s oyó %s decir: me acuerdo que, cuando era un jefe, tenía un poder de lucha de más de 5 millones de competidores, hasta que me llevé una flechada en la rodilla
+1341	Deseo de guerra 100%
+1342	Testimonió todo el %s del evento y dijo: El %s de hoy lucha motivado
+1343	No camine en el camino común
+1344	%s aconseja %s a romper las convenciones en la lucha de hoy,
+1345	El compañero de lucha tal vez se haga tu nuevo amigo
+1346	Es necesario prestar atención a los compañeros que luchan juntos hoy, ya que, en medio de ellos puede ser que %s traiga un nuevo amigo para %s.
+1347	Instintos de bestia
+1348	¡%s mostró un instinto y rugió en forma de bestia para %s durante la lucha!Si consigues asegurarte hoy, la lucha será exitosa en cada emprendimiento
+1349	Los lazos de amistad hacen con que la lucha sea bien sucedida en cada emprendimiento
+1350	La comprensión mutua de %s y %s está cada vez mejor, luchen juntos
+1351	Locura a veces, ¡choquen!
+1352	%s aconsejó %s: hoy, no piense en las consecuencias, respaldase en la intuición para luchar, la locura, a veces, será una nueva experiencia para su racionalidad
+1353	Hoy hay una buena suerte contínua en la guerra, es apropiado intentar luchas nuevas
+1354	%s ha previsto que la lucha de hoy de %s será particularmente sin molestias, y será especialmente apropiada para intentar nuevas luchas
+1355	Cooperar con más amigos en el combate torna la lucha aún mas tranquila
+1356	Si %s puede cooperar con %s, puedes obtener muchas buenas respuestas en la lucha de hoy y podrás pasar ese día relajados.
+1357	Suerte en la victoria de la batalla
+1358	%s abrió la Suerte en la Lucha de hoy para %s
+1359	Ataque: representa la capacidad de daños, cuanto mayor sea el valor, mayor la velocidad de derrotar el enemigo
+1360	Defensa: representa la capacidad de supervivencia, cuanto mayor sea el valor, más dificil en ser derrotado
+1361	Soporte: representa la capacidad de soporte en grupo, permitiendo que los compañeros de grupo tengan una capacidad de supervivencia más alta
+1362	Explosión: representa la capacidad de generar una gran cantidad de daños en un corto periodo de tiempo
+1363	Control: representa la capacidad de dejar los enemigos en status anormales
+1364	Alcance: representa el alcance de los ataques
+1365	Alcance: corto\rEspecialidad: generar explosión.\rTácticas: explosión, soporte al grupo,\rvelocidad y lucha corporal
+1366	Breve introducción a la Signo 1 lalala ¥%​​...... * (( ......@....
+1367	^ffffffAlcance: corto\rEspecialidad: generar explosión.\rTácticas: explosión, soporte al grupo,\rvelocidad y lucha corporal
+1368	^O021^c0d9d9Características de Pegaso:\rPegaso es un gran guerrero y de fuerzas sin límites que aterroriza a los enemigos. Con su fuerza, es capaz de derrotar a cualquiera.
+1369	^ffffffAlcance: largo\rEspecialidad: congelamiento.\rTácticas: congelamiento en grupo y área\rexplosión de hielo. Dificulta control.
+1370	^O021^0099ccCaracterísticas de Cisne:\rEl Cisne es capaz de usar el hielo para controlar al enemigo y causar un inmenso daño. Es excelente en manipular viento y trueno.
+1371	^ffffffAlcance: corto\rEspecialidad: supervivencia.\rTácticas: aumentar recuperación, control\rde multitudes, soporte al grupo.
+1372	^O021^33ff99Características de Dragón:\rEl Dragón tiene una fuerza poderosa y incomparable, capaz de soportar muchos daños. Concentra energía y destruye tropas enemigas.
+1373	Restauración
+1374	Ataque
+1375	^ffffffAlcance: medio\rEspecialidad: soporte.\rTácticas: alternar entre ataque y\rrecuperación. Soporte y reunir alvos.
+1376	^O021^ff3366Características de Andrómeda:\rAndrómeda es capaz de alternar entre dos dominios. Uno aumenta la recuperación y el otro usa la fuerza para dar golpes potentes a los enemigos.
+1377	^ffffffAlcance: largo\rEspecialidad: daño continuo.\rTácticas: evocar los Caballeros Negros,\rdaño continuo de llamas. Resucitar.
+1378	^O021^cd7f32Características de Fénix:\rEl Fénix es la encarnación de la muerte y de una personalidad brutal. Manipula el poder de las llamas contra enemigos y puede renacer de las cenizas.
+1379	Santo
+1380	Demonio
+1381	^ffffffAlcance: largo\rEspecialidad: ilusión y personalidades.\rTácticas: alterna entre soporte o ataque,\rusa ilusión para confundir enemigos.
+1382	^O021^CD00CDCaracterísticas de Dragón del Mar:\rPosee personalidades Santo y Demonio: La personalidad de ^FFFF00Santo^CD00CD trae soporte al grupo, y la del ^FFFF00Demonio^CD00CD trae daños terribles. La ilusión es su característica especial.
+1383	^ffffffAlcance: corto\rEspecialidad: encarnación, explosión,\rauto-recuperación.\rTácticas: destruye la formación enemiga.
+1384	^O021^FFFFFFCaracterísticas especiales de Wyrm:\rDefensa y auto-recuperación increíbles, mostra una fuerza poderosa para destruir formaciones enemigas, además de transformarse en un enorme dragón.
+1385	^ffffffAlcance: largo\rEspecialidad: control y explosión.\rTácticas: usa maldiciones para agotar al enemigo, explosión poderosa.
+1386	^O021^FFFFFFCaracterísticas de Lira:\rControla el poder de la maldición y de fortalecimiento, es un asesino mortal que vaga por el campo de batalla, provocando temor en los enemigos.
+1387	^ffffffAlcance: médio\rEspecialidade: controle, investida, erupção\rTáticas: Usar forças poderosas para atacar inimigos, liberar energia imensa em curto período
+1388	^O021^FFFFFFCaracterísticas do Tornado:\rTornado detém uma força estrondosa que lhe permite avançar no campo de batalha. Seu poder explosivo é ideal para ceifar a vida dos inimigos. 
+1389	Constelación
+1390	Personaje de nivel 37, después de alcanzar el nivel 10, es necesario aumentar el nivel del personaje manualmente.
+1391	Dominio
+1392	Secuencia solar
+1393	Enviaste una solicitud para formar grupo, por favor, espera hasta que la otra parte conteste...
+1394	No puedes expulsar a ti mismo en el grupo.
+1395	La formación del grupo está completa, antes de disolver no es posible modificar el modo de distribución de los artículos.
+1396	&%s&: %s
+1397	Has dicho para &%s&: %s
+1398	No es posible enviar MP vacía.
+1399	Vas a dejar la quest seleccionada ¿Confirmar?
+1400	Tiempo límite de efecto: %d:%02d:%02d
+1401	　
+1402	Las contraseñas introducidas en las dos veces anteriores no coinciden, por favor ingréselo nuevamente.
+1403	Muertos: %s(%d)
+1404	Objeto protegido: %s
+1405	Período de preservación: %d:%02d:%02d
+1406	la otra parte aún está en su lista negra.
+1407	La otra parte no está online o el personaje %s es inexistente
+1408	Su lista negra ya está llena.
+1409	&%s& respuesta automática: %s
+1410	Elementos verdaderos necesarios para aprender esta habilidad insuficientes.
+1411	No ha aprendido esta habilidad requerida en el Libro de Habilidades.
+1412	Enviaste tu mensaje de voz demasiado rápido, para enviar dos veces es necesario un intervalo de 1 segundo
+1413	Por favor, no hables demasiado rápido al repetir tu mensaje de voz, para reenviar dos veces es necesario un intervalo de tiempo de 6 segundos.
+1414	Usted sufrió graves daños.
+1415	^FFFF00 equipamiento listo a ser dañado
+1416	^FF0000 equipamiento ha sido dañado
+1417	Modo Ventana
+1418	Pantalla Completa
+1419	Obtenido: %s(%d)
+1420	Stamina
+1421	Nivel de saciedad
+1422	Nivel de buena impresión
+1423	Vida útil
+1424	Canal común
+1425	%s Configuración
+1426	Evaluación concluida con éxito
+1427	Error en la evaluación, por favor, tente de nuevo.
+1428	Fundos requeridos para aprender esta habilidad insuficientes
+1429	%dm
+1430	%s te envió una solicitud de amistad.
+1431	Mis amigos
+1432	¿Está seguro de que quiere excluir este amigo?
+1433	Excluir este subgrupo irá hacer con que amigos que estén en ellos sean transferidos para el subgrupo estándar, ¿Desea confirmar la exclusión?
+1434	No ha alcanzado el nivel requerido de Comprensión.
+1435	En conversación con ^F6C95E%s^FFFFFF
+1436	%s aceptó tu solicitud de amistad.
+1437	Nivel de destreza para aprender esta habilidad insuficiente.
+1438	Respuesta automática: Lo sentimos, en el momento estoy ocupado/a, entraré en contacto con usted luego.
+1439	El precio individual del producto/ el precio total no pueden traspasar 2000000000
+1440	El -precio individual del producto/ el precio total no pueden ser inferiores que 1.
+1441	La cantidad de productos no puede traspasar la cantidad existente/límite máximo de productos apilados.
+1442	%s ya es su amigo.
+1443	Su pregunta ha sido enviada, por favor, espere para que sea procesada.
+1444	Canal: %s\rNivel: %s\rLocalización: %s
+1445	%s de %s(%d,%d) está pidiendo noticias de usted, vaya a mirar.
+1446	La lucha terminó, está pronto a dejar el campo de batalla: %d
+1447	La invitación para unirse al Clan ya ha sido enviada, por favor, espere la respuesta.
+1448	%s invita usted para unirse al clan %s. ¿Aceptas unirte a este clan?
+1449	El intervalo del servicio de apoyo al cliente desde la última vez no puede ser menor de 3 minutos, por favor, espere un rato e intente nuevamente.
+1450	La otra parte no tiene ejército o ya se juntó a un clan, no es posible invitarlo para el clan.
+1451	Error al producir %s
+1452	La invitación a la sala de chat ha sido enviada, por favor espere la respuesta.
+1453	La cantidad de moneda en el inventario es insuficiente.
+1454	%s le envió una invitación para un duelo, ¿usted acepta el duelo?
+1455	%s agradece, pero recusa entrar en duelo con usted.
+1456	%s extiende ambos los brazos graciosamente para abrazarle, ¿está de acuerdo?
+1457	%s extiende ambos los brazos de manera cortés para abrazarle, ¿está de acuerdo?
+1458	Es una pena, %s agradece pero recusa su abrazo.
+1459	^50210f completar Quest: %s %s
+1460	%s pidió para unirse al grupo, ¿Esta de acuerdo?
+1461	No se puede establecer un duelo.
+1462	%s está pidiendo noticias suyas, vaya a mira, quizás hayan ganancias inesperados.
+1463	Costo de construcción: %d
+1464	%s Tiempo de Construcción: %d segundos Costo de Construcción: %d Artículos necesários: %s
+1465	Error al enviar mensaje de voz, usted necesita del soporte de la "Flauta de Adivinación" para permitir que todas las personas escuchen su voz.
+1466	Enviar el mensaje de voz ahora consumirá una "Flauta de Adivinación", ¿desea enviar mensaje de voz?
+1467	%dX Ampliar capura de pantalla
+1468	[Nv%d]%s
+1469	Tiempo en doble para premio del sistema
+1470	Tiempo en doble para premio del jugador
+1471	Ningún
+1472	mes %d día %d %d:%02d
+1473	Invocar Pet
+1474	Retomar Pet
+1475	%d días
+1476	Combo (%d)
+1477	Ataque común
+1478	Ciclo de modo posterior
+1479	No se puede completar la Quest.
+1480	Página actual: %d /%d
+1481	¿Quieres gastar %s para comprar "%s"?
+1482	No está online
+1483	Horario en que ha sido muerto: %d año %d mes %d día %d:%02d
+1484	La pareja -%s está online.
+1485	La pareja -%s está offline.
+1486	Comprar
+1487	Vender
+1488	Autorizando
+1489	El clan "%s" envió una carta de duelo a su clan, ¿Aceptas el desafío?
+1490	Comprar
+1491	Vender
+1492	%dun.
+1493	El sistema de cambio de Monedas aún no está abierto
+1494	La cuenta relacionada está en proceso de negociación, por favor, augarde
+1495	Error de inserción
+1496	Se ha excedido el límite máximo del montante
+1497	El gerente del banco está ocupado en el momento, por favor, aguarde
+1498	El sueldo de la cuenta bancaria de la transacción es insuficiente, por favor, deposite primero fundos suficientes.
+1499	¿Confirmar el valor unitario de %s^ffffff para la compra de %d de diamantes?
+1500	¿Confirmar el valor unitario de %s^ffffff para la vente de %d de diamantes?
+1501	¿Desea deshacer la autorización de la negociación número "%d"? Después de deshacer, se le devolverá su comisión.
+1502	Deshecho
+1503	Tiempo de autorización excedido
+1504	Descompactar
+1505	Alta definición
+1506	Media definición
+1507	Baja definición
+1508	x%d por grupo = %dun.
+1509	Felicitaciones por obtener %d premios:
+1510	Después de equipar, usted se tornará el dueño de este Artefacto Mágico, ¿desea equipar?
+1511	¿Seguro que deseas descartar %s ^ffffff?
+1512	Etapa %d
+1513	%s ha fusionado los Artefactos Mágicos "%s" y "%s", y produjo "%s".
+1514	Las contraseñas inseridas en las dos veces no corresponden, por favor, insiera de nuevo.
+1515	Error de contraseña.
+1516	Error al cambiar la contraseña.
+1517	El número de cuenta de negociación de 元宝 ha sido bloqueado, por favor, tente de nuevo realizar la operación de 元宝 después de desbloquear
+1518	Error al unirse, esta facción no puede acomodar más personas.
+1519	Las facciones de los dos lados del campo de batalla no pueden acomodar más personas, ¡no es posible ser reclutado!
+1520	Solo restó vaga en la Facción Toca del Dragón, ¿usted desea entrar en la cola para participar?
+1521	Solo restó vaga en la Facción Toca del Dios, ¿usted desea entrar en la fila para participar?
+1522	¡La lucha de %s ha comenzado! ¿Usted está listo para entrar en campo de batalla?
+1523	El campo de batalla aquí aún no ha sido abierto.
+1524	Anteriormente, usted ya era inscrito en otros campos de batalla.
+1525	Su conclusión de campo de batalla anterior aún no alcanzó 1 minutos, no es posible inscribirse en un nuevo campo de batalla, por favor, descanse un poco.
+1526	El campo de batalla aquí es muy peligroso y su nivel actual no permite que usted se inscriba.
+1527	Inscripción en el campo de batalla realizada, por favor, preparase .
+1528	Aquí, la batalla ya se inició hace mucho tiempo, no se puede intervenir en el medio de su andamiento, por favor, tente inscribirse en otros campos de batalla.
+1529	Ilimitado
+1530	Departamento %s
+1531	(Ninguno)
+1532	^ffcb4a número de veces restante: ^ff0000%s^ffffff
+1533	^ffcb4a número de veces restante: ^00ff00%s^ffffff
+1534	No es permitido usar esta tecla, por favor, substituyela por otra.
+1535	Esta tecla ya está en uso. seleccione "confirmar" para sustituir la definición original, seleccione "cancelar" para insertar de nuevo la tecla.
+1536	Ya dominas esta habilidad completamente, no es posible continuar la mejora.
+1537	%s desea aceptarlo como discípulo.
+1538	^ffcb4a Ataque de Pet (^00ff00 E ^ffcb4a) (Ataque total de Pet: ^00ff00 Alt + E ^ffcb4a)
+1539	^ffcb4a Cancelar ataque de Pet (^00ff00 R ^ffcb4a) (Cancelar ataque total de Pet: ^00ff00 Alt+R ^ffcb4a)
+1540	Seguir
+1541	Detener Temporalmente
+1542	Activo
+1543	Pasivo
+1544	El equipamiento no puede ser evaluado de nuevo.
+1545	^ffcb4a Barra de habilidades de Pet %d^ffffff Es posible arrastrar de la barra de Pet hasta esta columna
+1546	Ningún Pet seleccionado
+1547	¿Deseas utilizar "%s" en el Pet %s"%s"?
+1548	No tienes "%s", no se puede olvidar la habilidad del Pet
+1549	¿Deseas olvidar la habilidad "%s" del Pet "%s"?
+1550	¿Deseas alimentar el Pet "%s" con "%s"?
+1551	Todos los Pets de la barra de Pet están en uso, este Pet no puede ser cargado.
+1552	Seleccione una habilidad de Pet en la barra de Pet, haga click en el botón "olvidar habilidad" para poder utilizar este artículo"
+1553	Este artículo está vinculado, no se puede dejar el Pet devorarlo
+1554	^00ff00 Descolgar automáticamente ^ffffff puede ^ffcb4a hacer click con el botón derecho ^ffffff para configurar para descolgar manualmente
+1555	Descolgar manualmente puede ^ffcb4a hacer click con el botón derecho ^ffffff para configurar para ^00ff00 descolgar automáticamente ^ffffff
+1556	Numero de veces que el Pet ha sido llamado: %d Límite máximo que se puede llamar los Pets: %d
+1557	Nivel del Pet %s insuficiente, no es posible utilizar este artículo.
+1558	En enste momento, no se puede dar artículos para el Pet devorar
+1559	El tipo de personalidad del Pet "%s" no corresponde, no es posible utilizar este artículo
+1560	Artículo incorrecto, el Pet no puede utilizar
+1561	El Pet está muerto.Por favor, primero, reviva el Pet para proseguir con la operación
+1562	Paquete lleno, no es posible transferir el Pet "%s" para la barra del paquete
+1563	No se puede transferir el Pet "%s" para la barra del paqueteEl espacio libre en el paquete es insuficiente para acompañar el Pet "%s" y el equipamiento "%s"
+1564	El Pet está descansando
+1565	En status de llamada, el Pet puede ayudarle a atacar los enemigos
+1566	En status de fusión, el Pet puede dividir los daños sufridos por usted
+1567	Barra de Pet
+1568	Inventario del Personaje
+1569	Muertes
+1570	No Evaluado
+1571	¿Quieres %s utilizar %s en el "%s" Pet %s"%s"?
+1572	No se puede utilizar esta herramienta Pet
+1573	Pergamino del Renacimiento
+1574	Pergamino de Evaluación
+1575	Pergamino de Habilidad
+1576	No se puede equipar
+1577	No se puede alimentar
+1578	No se puede utilizar el pergamino de habilidad
+1579	El Pet de esta raza no puede utilizar este equipamiento.
+1580	Nivel del Pet no es suficiente.
+1581	Título del Pet no cumple con los requisitos.
+1582	Tiempo de recarga de la habilidad del Pet
+1583	^ffff00 Habilidad adicional: ^ffffff
+1584	^ffff00 Propiedad adicional: ^ffffff
+1585	^ff0000 del Pet %s es demasiado bajo ^ffffff
+1586	No hay Pet válido seleccionado
+1587	Razón inmortal de este jugador: %d
+1588	%d ^ffdc50 Diamante de Oro ^ffffff
+1589	%d ^b1b1b1 Diamante de Plata ^ffffff
+1590	%d ^ffdc50 Diamante de Oro ^ffffff %d ^b1b1b1 Diamante de Plata ^ffffff
+1591	Precio: %s
+1592	Plazo: %s
+1593	Cant.: %d
+1594	^ffffff Nivel de la Signo requerido: %s%d
+1595	^ffffff Habilidad previa requerida
+1596	^ffffff Reputación requerida:
+1597	^ffffff artículo requerido: %s%s %s%d
+1598	No enseñar esta habilidad.
+1599	Sin límites
+1600	6360 Todos los niveles
+1601	6361 nivel 01 ~ 20
+1602	6363 nivel 41 ~ 50
+1603	6363 nivel 41 ~ 50
+1604	6364 nivel 51 ~ 60
+1605	6365 Nivel 60 o superior
+1606	La batalla de %s ya empezó, ¿te has preparado para entrar en el campo de batalla?
+1607	Falta el artículo %s^ff2828
+1608	Solo puedes inscribirse en los campos de batalla de la línea en que está.
+1609	El número de personas inscritas en este campo de batalla ya es suficiente, no es posible entrar.
+1610	(Número de personas completo)
+1611	Victoria
+1612	Derrota
+1613	Empate
+1614	Cada Equipo
+1615	%d Oro
+1616	%d Plata
+1617	La otra parte no está en el campo de batalla.
+1618	Hoy usted participó de muchas luchas, no se puede inscibirse más, por favor, descanse un poco.
+1619	Es necesario unirse a un grupo que se inscribió en este campo de batalla, solo así podrá inscribirse.
+1620	Error en la operación
+1621	Sólo como Capitán es posible conducir un grupo para la inscripción.
+1622	error en el status del campo de batalla
+1623	Todas las Habilidades
+1624	Habilidades Disponibles
+1625	Dabilidades No Disponibles
+1626	^123d45 Coin ^123d45 %s
+1627	^123d45 EXP ^123d45 %d
+1628	^123d45 Elemento Verdadero ^123d45 %d
+1629	^123d45Art.: ^123d45???
+1630	^123d45 Caballerosidad: ^123d45 %d
+1631	^123d45 Moneda espiritual ^123d45 %s
+1632	Actualizando artículos de la lista de subasta de "%s", por favor, espere...
+1633	Todos los Artículos
+1634	Sistema de Mensajes: %s usted se divorció.
+1635	En el campo de batalla %s (línea %s), %s mató %s, y obtuvo la primera gota de sangre
+1636	En al campo de batallla %s (línea %s), ¡ %s ya mató y se tornó un demonio!¿Hay alguna guerrero le impedirá de llevar a cabo esta matanza?
+1637	En el campo de batalla %s (línea %s), ¡%s impidió el masacre de %s!
+1638	%d Nivel %s %d/%d
+1639	Formula General
+1640	%s (ID del personaje=%I64d)
+1641	Por favor, introduzca las razones.
+1642	Hay una caja de diálogo abierta relacionada a "mensaje del procesamiento de usuario"
+1643	Hay una caja de diálogo abierta de "mensaje del proceso de usuario", por favor, primero, finalice el procesamiento de esta caja de diálogo.
+1644	- No hay runas -
+1645	No ha sido seleccionada la runa a ser eliminada.
+1646	%d mes %d día
+1647	Falta uns %s, no se puede continuar a grabar el nombre.
+1648	El potencial oculto del fortalecimiento de este equipamiento ya exhibió su límite máximo, el maestro fortalecedor no tiene más fuerzas para continuar a fortalecer.
+1649	Este equipamiento no consigue encontrar un orificio para utilizar en el claveteo de runas.
+1650	Este equipamiento no consigue encontrar un orificio adecuado para clavetear a la runa actual .
+1651	Equipamientos de nivel aún más alto solo pueden clavetear esta runa.
+1652	El grado de fortalecimiento de equipamiento y el nivel de la piedra necesaria para el cambio no corresponden.
+1653	Entre los equipamientos de diferentes partes de la vestimenta, no se puede fortalecer el cambio de calidad.
+1654	Este equipamiento no consigue encontrar ninguna calidad de fortalecimiento.
+1655	Falta un %s, no se puede fortalecer el cambio de calidad.
+1656	Este equipamiento no consigue encontrar un orificio para utilizar en el claveteo de Joyas
+1657	El equipamiento de este nivel no consigue sustentar el potencial oculto de esta joya, no es posible concluir el claveteo
+1658	El equipamiento de esta posición no puede iniciar el potencial oculto de esta Joya, no es posible completar el claveteo
+1659	Ha cambiado el área de estudio.
+1660	^000000 Método de Magia contra Dios: %s ^000000 Brillo del radiante y estavel, mantiene la astrología como %s
+1661	^000000 Método de Magia contra Dios: %s ^000000 Los rayos de luz del inundaron el crepúsculo de %s ^000000, astrología revertida para %s
+1662	^000000 Astrología: en el futuro, %d horas hasta %d, aparecerá %s con aspecto de un cuerpo celeste
+1663	Error de ID
+1664	^ffae00%s^ffffff Habilidad no es el suficiente, no es posible proseguir
+1665	Este sistema exige Puntos de Don: %d puntos
+1666	Alguien
+1667	¡ %s sembró la discordia contra su Pet!
+1668	Usted sembró la discordia contra el Pet de %s.
+1669	Exhibir ataque actual: %d%%
+1670	%s empezó un combo, pero fue defendido por %s
+1671	%s furia extrema, empezó un ataque con todas las fuerzas, %s ha sido derrotado.
+1672	En determinada altura, %s ha comprendido algunos trucos de batalla, y ejecutó un golpe refinado, derrotando %s.
+1673	%s hizo %s tropezar con éxito, y aprovechó la oportunidad para empezar un ataque mortal, %s ha sido derrotado
+1674	El duelo de %s con %s no está muy fácil, las dos partes aún no decidieron el vencedor y el perdedor.
+1675	Propiedad del Personaje
+1676	Batalla del Boss
+1677	Inventario
+1678	Lista de Misiones
+1679	Habilidades de lucha
+1680	Mapa
+1681	Cámara de vídeo
+1682	Pequeño Compañero
+1683	Configuración del sistema
+1684	Calendario (click aquí)
+1685	Círculo
+1686	Coliseo de los Héroes
+1687	Editor Macro
+1688	Título
+1689	Configuración PK
+1690	Ventana de IE
+1691	Ayudar
+1692	Habilidad Básica
+1693	Servicio Pertátil
+1694	Foto
+1695	Ocultar jugador
+1696	Ocultar Compañía
+1697	Auto-caza
+1698	Reducir LAG
+1699	Prácticar
+1700	Nivel del Artículo
+1701	Buscar automáticamente el camino para el npc para clavetear runa
+1702	Diccionario de Kiki
+1703	Casa de Tesoro de la Diosa
+1704	Misiones disponibles:
+1705	Poder de combate físico
+1706	Arena Galáctica
+1707	Astromancia
+1708	Buscar automáticamente el camino para el Intendente de lo Escudero
+1709	Buscar automáticamente el camino para Masami Kurumada
+1710	Desmontar la Caja Mágica
+1711	Haga click para más detalles
+1712	Buscar automáticamente el camino para Altai
+1713	Guardia de las Doce Casas
+1714	Buscar automáticamente el camino para el Maestro Entrenador de Oficio
+1715	Buscar automácticamente el camino para el Artesano
+1716	Cambio de Star
+1717	Ocultar Efecto
+1718	Ocultar interfaz
+1719	Ocultar Monstruo
+1720	Exhibir pantalla de control
+1721	Exhibir pantalla de GM
+1722	Entrar en el Chat
+1723	respuesta de la barra de Chat
+1724	Buscar automáticamente el camino para el Emisario de Artefacto Divino
+1725	Armadura del Espíritu
+1726	Tienda de Star
+1727	Bosque Aokigahara
+1728	Gran Maestro del Servidor
+1729	Buscar automáticamente el camino para Monique
+1730	buscar automácticamente el camino para Kaizen
+1731	Buscar automácticamente el camino para Elisa
+1732	Buscar automácticamente el camino para Severo
+1733	Buscar automácticamente el camino para el Subastador
+1734	Buscar automáticamente el camino para la Caja de Mensajes
+1735	Flor del Amor Verdadero
+1736	Presencia Diaria
+1737	Ocultar nombre de la compañía
+1738	Ocultar nombre del monstruo
+1739	Seleccione a usted mismo
+1740	Lista de Ranking del Agujero Negro Infinito
+1741	Buscar camino automático de Mejoramiento de Atenea
+1742	Buscar camino automático para los Recuerdos de la Guerra Santa
+1743	Buscar camino automático para los Recuerdos de la Guerra Santa 2
+1744	Modo Vídeo
+1745	......
+1746	Hombre de Máscara
+1747	　　Superar a sí mismo, refinar la esencia del cuerpo y de la mente hasta convertirse en un mito, es el objetivo que todos los Caballeros persiguen en el Santuario. Hace poco, una chica llamada Láquesis apareció en el Santuario, alegando ser capaz de invocar una persona fuerte que cada guerrero encontrará durante toda su vida. Después de oír ese rumor, todos los guerreros del Santuario se quedaron ansiosos para intentar...
+1748	Caballero Misterioso
+1749	Hombre Torpe
+1750	Dios del Inframundo
+1751	Monstruo Distorcionado
+1752	El hombre que se hundió en la oscuridad
+1753	Cerbero Misterioso
+1754	Rey de los Zombis
+1755	Bestia Feroz
+1756	Reina Sirena
+1757	Valquirias
+1758	Golem de Fuego
+1759	Espectro Misterioso
+1760	Marina Misterioso
+1761	^9400D3Aldebarán
+1762	　　　　Caballero Dorado que protege la Casa de Tauro, conocido como "Tauro Dorado". A pesar de su gigante porte físico y su fuerte defensa, su agilidad no es afectada, siendo bueno también en esquivarse. Además de luchar como un toro feroz, todavía tiene su famoso golpe mortal, el Gran Cuerno - cuya postura, normalmente, es poner las dos manos en el pecho y liberar rápidamente los dos brazos, formando olas de electrochoque y doblando su poder. Esa técnica de lucha también es parecida con la espada de "Iaido".\rLa personalidad de Aldebarán es la de una persona desinhibida, honesta y de gran corazón, que no se limita a la apariencia exterior y a los grandes principios, confiando sólo en su propia determinación. Mientras la batalla de las Doce Casas, facilitó intencionalmente para que Seiya y los demás pudieran pasar en seguridad, teniendo como resultado uno de sus cuernos cortado fuera. En la batalla en que los Espectros invadieron el Santuario, Aldebarán resistió bravamente contra Níobe, la Estrella Terrestre de la Oscuridad, y se sacrificó heroicamente. Antes de morir, sin embargo, destruyó completamente el cuerpo de su adversario.
+1763	^00BFFFOrfeo
+1764	　　Cuando jóvenes, Orfeo y Eurídice se enamoraron - pero, inesperadamente, Eurídice acaba muriendo. Sufriendo, buscando revivir a su amada, él va al Inframundo pedir a Hades que la reviva. La bella música de Orfeo termina convenciendo a Hades, que la revive; sin embargo, en la salida del Inframundo, Pandora lo engaña junto a Pharaoh para convertir Eurídice en piedra, para que Orfeo continue atascado por allá. Cuando Seiya y los demás vienen, Orfeo los ayuda, pero acaba no participando de la Guerra Santa de inmediato. Al final, por causa de Seiya y Shun, Orfeo descubre que la trampa que Pharaoh había planeado es la que transformó Eurídice en piedra. Eso ha hecho con que Orfeo entendiera la razón de la vida y enfrentase a Pharaoh. En el momento en que Orfeo conduce a Seiya y a Shun para matar Hades, es sorprendido por el ataque de Radamanthys, quedándose gravemente herido. Posteriormente, el mayor golpe que Orfeo asesta es, en realidad, una ilusión de Hades, haciendo con que su movimiento falle. Orfeo muere en batalla en el Templo de Hades. Siguiendo su amada que también se había ido, Orfeo se convierte en polvo estelar y, en el cielo, toca su canción de amor.
+1765	^00BFFFDragón Negro
+1766	　　　　Uno de los Cuatro Caballeros del Apocalipsis, su fuerza parece ser la mayor de los cuatro. En la Isla de la Reina Muerte, ikki lucha por la Armadura de Fénix y el Caballero se convierte en su subordinado. Para ayudar a ikki, él se queda responsable por el pecho de la Armadura Dorada de Sagitario y enfrenta a Shiryu, que había perdido gran cantidad de sangre debido a la reparación de su Armadura. Al principio estaba ganando, pero Shiryu usa el Dragón Naciente de Rozan, derramando mucha sangre y venciéndolo con dificultad. Shinadekuro, a punto de morir, fue conmovido por la amistad entre los Caballeros de Bronce y alcanzó el punto vital de Shiryu para detener su hemorragia.\rEl Dragón Negro tiene un hermano gemelo ciego, Fukuryu - que, en la lucha de la oscuridad, le indicaba la posición del enemigo para que tuviera ventaja sobre los demás.
+1767	^00BFFFCassios
+1768	　　　　El discípulo de Shina de Ofiuco, una Amazona de Plata, y el candidato a la Armadura de Pegaso. Desde pequeño, Cassios vivió en el Santuario, en Grecia, y aceptó el rigoroso y trabajoso entrenamiento de Caballero. Su cuerpo es robusto, fuerte como un toro, y con sólo una mano puede agarrar el cuerpo entero de Seiya. Lamentablemente, el destino de Cassios era solamente ser un personaje de apoyo, y, por eso, el autor dejó que perdiese para Seiya durante la competición por la Armadura de Pegaso, además de haber perdido también una oreja.\rEs una persona de respeto por su grandiosidad de sacrificarse por el amor. Cuando los Caballeros de Bronce estaban en la carrera de las Doce Casas, Seiya encontró una lucha amarga en la Casa de Leo: el Caballero Dorado de Leo, Aioria, es atacado disimuladamente por el Gran Maestro, y bajo el Satán Imperial, con su sentido de justicia confuso, ataca a Seiya. La única forma de librarse del Satán Imperial sería ver al enemigo morir delante de él. Al oír eso, Shina corrió prontamente a Casa de Leo - pero, para que no hiriesen a Shina, Cassios murió en su lugar, salvando también a Seiya, su antiguo enemigo.
+1769	^00BFFF Miho
+1770	　　　　Ella es huérfana desde pequeña y siempre vivió en el Orfanato Niños de las Estrellas, creciendo junto con Seiya. Le gustan mucho los niños y, después que creció, continuó en el Orfanato, trabajando como cuidadora. Ella es una chica gentil, tierna y pura. El amor entre ella y Seiya es tema de conversación de muchas personas. En primer lugar, cuando Seiya volvió de su entrenamiento en el Santuario, ella se quedó muy feliz. Enseguida, después de que Seiya y los demás hubieran pasado por innumerables batallas, ella decidió tratar de impedir a Seiya de ir al Santuario para batallar con el Gran Maestro.
+1771	^00BFFFMarin de Águila
+1772	　　　　Amazona de Plata de Águila y maestra de Seiya de Pegaso. Su percepción es extraordinaria y es una de las más excelentes guerreras, de personalidad calma y tranquila. Aunque su fuerza física deje un poco a desear cuando comparada con la de los Caballeros, su extrema agilidad es aún más veloz en lucha. Si el oponente muestra una debilidad, un ataque certero y fatal será dado en un destello.\rEstá siempre buscando a su hermano pequeño, que cree todavía estar vivo - y Seiya ya creyó, erroneamente, que ella era su hermana mayor. En la Saga de Hades, encuentra a la hermana mayor de Seiya, Seika.
+1773	^9400D3Mu
+1774	　　　　Caballero Dorado de Aries, con justicia y sabiduría abundantes. Cuando empezó a desconfiar del Gran Maestro, pasó a vivir en la región de Jamir, negándose a recibir sus órdenes. La telequinesis de Mu es muy fuerte y es también una de las únicas personas con la capacidad de reparar Armaduras. Durante la carrera en la batalla de las Doce Casas, ayudó a Seiya y a los demás a comprender el Séptimo Sentido. Durante la batalla del Inframundo, derrotó al poderoso Espectro de Hades: la Estrella Terrestre del Encantamiento, Papillón. Después, en la derribada del Muro de los Lamentos, se sacrificó junto con los demás Caballeros Dorados.
+1775	^00BFFFShina
+1776	　　　　Amazona de Plata de Ofiuco, la maestra de Cassios oculta un rostro bello y angelical por detrás de su máscara, a pesar de su actitud agresiva e imponente. Indignada por Seiya ganar la Armadura de Pegaso en el lugar de su discípulo, ella lo ataca mientras él intentaba dejar el Santuario. Sin embargo, durante la lucha, tuvo su máscara rota por Seiya, y para una Amazona, dejar que su rostro sea visto por un hombre es la mayor de las vergüenzas; según las reglas, hay que matarlo o amarlo. Por eso, fue atrás de Seiya e intentó matarlo varias veces, pero, se une a los Caballeros de Bronce al saber que la Diosa Atenea estaba al lado de ellos y, poco a poco, termina enamorándose por el Caballero de Pegaso, llegando hasta a sacrificarse por él en algunas batallas. Participó de luchas importantes en la Saga del Santuario, Asgard y Poseidón.
+1777	^00BFFFIchi
+1778	　　　　Caballero de Bronce de Hidra, tiene una naturaleza melancólica y es muy difícil para los demás comprender lo que piensa. Es especialista en golpes con presas venenosas y tiene movimientos sutiles en batalla, como una serpiente. En el Torneo Galáctico, perdió para Hyoga y tuvo su Armadura destruida. Aunque tenga una apariencia extraña, en la verdad, Ichi es una buena persona, que ayuda a proteger a Saori durante la Saga del Santuario.
+1779	^9400D3Dohko
+1780	　　　　Caballero Dorado que protege a la Casa de Libra y el maestro de Shiryu. Recibió la orden de Atenea para vigilar a los 108 Espectros de Hades; por años se sentó en los Cinco Antiguos Picos de Rozan para proteger el sello y, para eso, le concedieron la técnica del envejecimiento retardado. Es el Caballero de mayor confianza de la Diosa y uno de los más poderosos, conocido por todos los Caballeros como "Maestro". Así como Mu, él desconfió del antiguo Gran Maestro y se negó a recibir órdenes del Santuario - y, tras la derrota de Saga, asume el puesto. Es uno de los Caballeros con mayor longevidad, con 261 años. Se sacrifica, por fin, en la derribada del Muro de los Lamentos, junto con los demás Caballeros Dorados.
+1781	^00BFFFGeki
+1782	　　　　El Caballero de Oso es el de mayor estatura y fuerza física entre los Caballeros de Bronce. Su única habilidad es el Abrazo de Oso, que aprendió tras un entrenamiento extenuante en las Montañas Rocosas de Canadá, donde enfrentaba osos. Mismo siendo muy seguro, es derrotado por Seiya en las eliminatorias del Torneo Galáctico y su Armadura acaba siendo destruida en la batalla. Dicen que carga el sueño de volverse un entrenador. A pesar de su aparencia más bruta, es lleno de compasión y le encantan los niños.
+1783	^00BFFFJabu
+1784	　　　　Caballero de Bronce de Unicornio que posee una riña eterna con Seiya. Es enamorado por Saori desde niño y es extremadamente leal a ella. Posee telequinesis básica y lucha usando principalmente las piernas para asestar sus golpes. Derrota Ban en el Torneo Galáctico, y después, en la segunda ronda, enfrenta la Cadena de Andrómeda de Shun y es derrotado. En la Saga de las Doce Casas, después de un nuevo entrenamiento en Argelia, vuelve para estar cerca de Atenea, para protegerla y ayudar a repeler la invasión de los Soldados Rasos.
+1785	^00BFFFSeiya
+1786	　　　　Personaje principal y el Caballero de Bronce de Pegaso. Normalmente, actúa como un niño y tiene una personalidad inocente e impulsiva. Sin embargo, a la hora de luchar, especialmente cuándo Atenea encuentra algún peligro, emplea todas sus fuerzas y se muestra un Caballero muy hábil. Es el espíritu que lidera a los demás, con un gran sentido de justicia y siempre corriendo hacia delante de la batalla. Su lugar de entrenamiento es el Santuario de Grecia, donde fue discípulo de Marin.
+1787	^00BFFFShiryu
+1788	　　　　Caballero de Bronce de Dragón. Estuvo bajo los cuidados de Dohko de Libra para entrenar en los Cinco Antiguos Picos, en China. Mientras su entrenamiento, ha logrado revertir el flujo de la Gran Cascada de Rozan y, así, mereció ganar su Armadura.\rDe personalidad franca, da mucho valor a la amistad y cree en el poder que esta tiene, estando siempre dispuesto a morir por sus amigos; es aquel que sacrifica su propia vida por los demás. Shiryu participó en muchas luchas en las que estuvo cerca de la muerte, ya que, generalmente, necesitó no hesitar para explotar su Cosmos y, al final, poder derrotar un enemigo que no tenía oportunidades de ganar.
+1789	^9400D3Aioria
+1790	　　　　Caballero Dorado que protege a la Casa de Leo, también es llamado de "Leo Dorado". Es conocido por su firmeza y bravura, es extremadamente justo y valiente. Desea ardientemente limpiar el estigma de su hermano mayor, Aiorios de Sagitario, que fue muerto por ser considerado un traidor del Santuario. En una lucha en el Inframundo, resistió solo a los seis Espectros, usando su Plasma Relámpago para derrotar a la Estrella Terrestre del Ocultamiento, Laimi. Al final, debido al encantamiento del Inframundo que lo estaba debilitando, fue derrotado por uno de los Tres Jueces - La Estrella Celeste de la Furia, Radamanthys. En el Inframundo, con finalidad de derribar al Muro de los Lamentos, también se sacrifica en devoción a Atenea.
+1791	^00BFFFEsmeralda
+1792	　　　　Joven gentil de una belleza pura, obstinada como flores frescas que florecen en el medio del Infierno. Habitante de la Isla de la Reina Muerte, conoció a Ikki mientras su entrenamiento, y le dio consuelo y cuidados. En la lucha de Ikki para obtener la Armadura de Fénix, ella acaba recibiendo accidentalmente el golpe de Guilty y muere. Así, ikki encarna en odio, despierta su Cosmos, mata a su maestro y obtiene la Armadura.
+1793	^00BFFFCisne Negro
+1794	　　　　Uno de los cuatro Caballeros del Apocalipsis, responsable por las hombreras de la Armadura Dorada de Sagitario tras Ikki robarla en el Torneo Galáctico. Jido luchó contra Shun y, más tarde, fue derrotado por Hyoga en el Valle de la Muerte. Pero, antes de morir, memorizó la técnica de Hyoga y, a través de una habilidad única, grabó los golpes en su globo ocular y los envió a Ikki por teleporte.
+1795	^00BFFFPegaso Negro
+1796	　　　　Uno de los cuatro Caballeros del Apocalipsis, se quedó responsable por la cintura de la Armadura Dorada de Sagitario después de Ikki robarla en el Torneo Galáctico. Kenuma utiliza el Meteoro Negro: esa técnica es capaz de partir la armadura y dañar el cuerpo, haciendo con que aparezcan puntos negros en la piel que no paran de aumentar de tamaño, y causan envenenamiento en la sangre del enemigo y, por fin, la muerte. Fue derrotado por Seiya, pero, antes de morir, logra asestar sus golpes y casi lo mata también; Seiya sobrevive gracias a Shiryu, que alcanzó sus puntos vitales y logró purificar a su sangre.
+1797	^00BFFFAndrómeda Negro
+1798	　　　　Uno de los cuatro Caballeros del Apocalipsis, era el responsable por el cuerpo de la Armadura Dorada de Sagitario, después de que Ikki la robó en el Torneo Galáctico. Sus Corrientes Negras drenan la vida y crean ilusiones, haciendo al enemigo creer que se convirtió en serpiente. Fue derrotado por Shun, que fue tomado por la ira por ser atacado cobardemente al intentar salvar a Seiya y lo venció fácilmente.
+1799	^00BFFFGuilty
+1800	　　　　Maestro de Ikki en la Isla de la Reina Muerte y llamado "Caballero del Diablo", responsable por usar la máscara que sella el mal de la isla. Cree que su discípulo es demasiado benevolente, siempre le dice que es débil y le falta odio. Durante la batalla por la Armadura de Fénix, accidentalmente mató a Esmeralda - lo que hizo con que Ikki despertara su más profundo odio y lo matase.
+1801	^00BFFFJango
+1802	　　　　Un guerrero que cree sólo en la fuerza bruta. Se convertió en el líder de los Caballeros Negros tras Ikki ser derrotado por los otros Caballeros de Bronce. Intentó en vano tomar la Armadura de Fénix a la fuerza, pero la Armadura no lo aprobó. Al final, Ikki, que vestía la Armadura de Fénix, lo mató.
+1803	^9400D3Saga
+1804	　　　　Caballero Dorado de Géminis que tiene doble personalidad, oscilando entre el bien y el mal; cuando el lado bueno prevalece, recibe admiración como un dios; cuando el lado malo prevalece, era como si fuera el propio demonio. Hace 13 años aprisionó a Kanon, su hermano gemelo, en el Cabo Sunión por su extrema maldad. Sin embargo, no logró controlar las ambiciones de su lado sombrío y asesinó al Gran Maestro anterior, actuando como un impostor en su lugar. En términos de combate, Saga posee, al mismo tiempo, la capacidad de controlar la mente y la capacidad de destrucción material.\rSolamente cuando Seiya llega a la Sala del Gran Maestro, el lado maligno de Saga desaparece junto a la flecha en el pecho de Saori. Por último, se suicidó delante de Atenea, con finalidad de redimirse.
+1805	^9400D3 Shaka
+1806	　　　　Caballero Dorado que protege la Casa de Virgo - que, bajo su protección, es el punto de defensa más fuerte de las Doce Casas. Él es la reencarnación de Buda y es conocido como "El hombre más cercano de Dios". Fue el primero a comprender el Octavo Sentido, y normalmente cierra los ojos para afinar sus sentidos y aumentar su Cosmos, que tiene semejanza al de un Dios.
+1807	^9400D3Shura
+1808	　　　　Caballero Dorado que protege la Casa de Capricornio. Fue quien dejó a Aioros casi muerto durante su huída con Atenea, hace trece años. La mano en forma de espada de Shura posee el mismo poder de la legendaria espada Excalibur, capaz de derribar cualquier obstáculo, cortando con la palma de la mano hasta mismo el sólido escudo del Dragón, partiéndolo en dos. Posee el título de "el Caballero más leal", pero su lealtad es tanta que llega a ciegarlo y termina engañado por el Gran Maestro debido a ella. Pero, cuando estaba a punto de morir, cayó en sí y salvó la vida de Shiryu vistiéndolo con su Armadura Dorada, demostrando ser un Caballero honrado.
+1809	^00BFFFIkki
+1810	　　　　El hermano mayor de Shun de Andrómeda, su maestro fue el misterioso Caballero de la Isla de la Reina Muerte, Guilty. Es el Caballero de Bronce más fuerte, además de también ser bueno en ataques que manipulan la mente del oponente. Una persona desbordando odio, llama a sí mismo de "el hombre que desistió de todo", pero es descrito por Saga como aquel estilo de hombre "cuyo sentido de justicia está escondido en el interior de su corazón". Es de naturaleza fría, pero esconde emociones sobre su personalidad - y la más difícil de esconder es el cuidado y la preocupación que tiene por su hermano. Nunca dice que los amigos le dan esperanza, confianza y fe, pero siempre aparece en el momento en que Seiya y los demás están en mayor peligro.
+1811	^00BFFFHyoga
+1812	　　　　Caballero de Bronce de Cisne y discípulo de Camus de Acuario. Posee una personalidad discreta, siempre en conflicto con sus propias emociones, a pesar de intentar ser racional ante todo. Mientras su entrenamiento en la Siberia Oriental, recibió órdenes que venían del Santuario para ir hasta el Torneo Galáctico para castigar a los Caballeros de Bronce que luchaban por fines personales, pero acaba metiéndose en las luchas por la Armadura Dorada al ver que no era verdad. En ese medio tiempo, Hyoga desarrolla una profunda y sólida amistad con los otros Caballeros de Bronce. Después de eso, como Caballero Protector de Atenea, lucha juntamente con los demás con la finalidad de defender la paz en la Tierra.
+1813	^9400D3Máscara de la Muerte
+1814	　　　　Caballero Dorado de Cáncer. Es extremadamente sádico y violento, creyendo que sacrificios son inevitables para un objetivo mayor. Las cuatro paredes de la Casa de Cáncer están cubiertas con los rostros de sus víctimas, con la finalidad de exhibir sus victorias; por ese motivo, obtuvo el título de "Máscara de la Muerte". Su golpe mortal son las Ondas Infernales, en el cual emite una aura blanca de su dedo indicador, enviando al espíritu de su oponente para la entrada del Inframundo. En la lucha contra Shiryu, es abandonado por su Armadura y acaba derrotado y muerto. Durante la Saga de Hades, revive gracias a Hades y es enviado al Santuario para ejecutar la misión de asesinar a la Diosa, pero otra vez es derrotado y enviado al Inframundo, por Radamanthys. En el capítulo Elíseos, participa como Caballero Dorado en la derribada del Muro de los Lamentos, sacrificándose.
+1815	^9400D3Aioros
+1816	　　　　Antiguo Caballero Dorado de Sagitario y hermano mayor del Caballero Dorado de Leo, Aioria. Su figura heroica, honesta y de buen corazón era respetada por todos, y él sería el sucesor del Gran Maestro Shion. Hace trece años, para proteger a la joven Diosa del peligro del Gran Maestro impostor, decidió huir del Santuario, pero fue gravemente herido por Shura de Capricornio. Así, cogió a su Armadura Dorada y a la pequeña Diosa y las confió a un turista que viajaba por Grecia, Mitsumasa Kido, y murió luego en enseguida. Incluso después de su muerte, su espíritu heroico permaneció en la Armadura Dorada, y varias veces cuando Seiya y los demás estaban en gran peligro, aparecia a su lado, ayudándoles a vencer poderosos enemigos. En la pared de la Casa de Sagitario está clavado su testamento: "A los jóvenes que aquí lleguen, confío Atenea a sus cuidados".
+1817	^00BFFFKrishna
+1818	　　　　El General Marina de Crisaor. El interior del cuerpo de Krishna posee un lado místico capaz de activar a los siete chakras, y la energía cósmica liberada es casi equivalente a la de un Caballero Dorado. Su principal arma es la Lanza Dorada, cuyo poder es impresionante, siendo capaz de cortar al oponente sólo con el aire impulsado por ella. Derrotado por la Excalibur de Shiryu, Krishna demostró un espíritu honrado como el de un samurai, respetando al adversario que considera digno, mismo siendo un enemigo.
+1819	^9400D3Kanon
+1820	　　　　Hermano gemelo de Saga, aunque nadie en el Santuario supiera de su existencia. Tiene una personalidad mucho más maléfica que la de su hermano, siendo este el motivo de haber sido aprisionado en el Cabo Sunión. Allá, terminó despertando el alma de Poseidón y se pasó por General Marina de Dragón del Mar, deseando usar el nombre del Dios de los Océanos para derrotar a Atenea, con la finalidad de conquistar toda la Tierra; este es el motivo de su título de "El hombre que se atrevió a engañar incluso a los dioses". Después de la Guerra del Mundo Submarino, Kanon se arrepintió sinceramente de sus hechos y heredó la aspiración dejada por su hermano, convirtiéndose en el nuevo Caballero Dorado de Géminis, luchando por la Diosa. Su fuerza, en realidad, no es inferior a la de Saga, tanto es, que luchó al mismo tiempo y de igual para igual con los Tres Jueces del Inframundo.
+1821	^9400D3 Camus de Acuario
+1822	　　　　Caballero Dorado que protege la Casa de Acuario. Es frío, prudente y decidido. Tiene el título de "El Mago del Hielo". Su conducta es controlada, honesta y posee un coraje genuino. Fue el maestro del Caballero de Cisne, Hyoga, y del Marina Isaak de Kraken, y siempre les instruyó que "frente al enemigo, hay que mantenerse indiferente" - pero él mismo deja tal enseñanza de lado cuando, en las Doce Casas, lucha contra su amado discípulo, Hyoga, y le sonríe al morir.
+1823	^9400D3Milo
+1824	　　　　Protector de la octava de las Doce Casas del Santuario, el Caballero de Escorpio tiene la personalidad más tranquila entre los Caballeros Dorados. Es conocido en el Santuario como "El Rayo de Sol de la Grecia". Es muy seguro de sí y tiene una naturaleza orgullosa y apasionada, pero es siempre muy calmo y controlado en batalla. Al final, Milo y los otros Caballeros Dorados usaron sus vidas para que los Caballeros de Bronce pudiesen abrir el camino que llevaba hasta los Campos Elíseos. La lealtad de Milo para con la Diosa y el amor que tenía por la Tierra se transformaron en un rayo de luz brillante, que permanecerá eternamente en la Armadura de Escorpio.
+1825	^9400D3Afrodita
+1826	　　　　Caballero Dorado de Piscis, es dicho que no hay nadie más hermoso entre los 88 Caballeros, teniendo el título de "Guerrero cuyo brillo de la belleza compite con el Sol y la Luna". Él tiene un gran sentido de justicia, pero cree piadosamente en la ley del más fuerte y que sólo un poder supremo puede mantener la paz en el mundo. Sus golpes transforman a las rosas en armas: entre las cuales está la rosa roja, que hace con que el oponente pierda sus cinco sentidos; la negra, capaz de derribar cualquier obstáculo; y la blanca, que absorbe la sangre de su adversario. Sus Rosas Diabólicas Reales están entre los más grandiosos ataques mortales de todos los tipos de los Caballeros.
+1827	^00BFFFKiki
+1828	　　　　Kiki es discípulo de Mu. Cada Caballero de Aries tiene un asistente, y Kiki fue adoptado por Mu como tal cuando se encontraron en Jamir. Las cejas, en forma de puntos circulares, son una característica de la raza de Jamir. Es un niño travieso pero de buen corazón, que ayuda a los Caballeros siempre que puede. Las habilidades más importantes de Kiki son la telequinesis, con la cual consigue mover el cuerpo de personas o animales por un breve período de tiempo, y su rapidez, que puede alcanzar la velocidad de la luz.
+1829	^00BFFFShunrei
+1830	　　　　Fue abandonada aún bebé en una aldea en Rozan y, desde entonces, fue creada por el Maestro. Los bellos ríos y montañas de la China le dieron un espíritu gentil, humilde y una fuerte determinación. Sus oraciones y cuidados siempre le dieron apoyo a Shiryu, su amigo de infancia por quién es enamorada.
+1831	^9400D3Sorrento
+1832	　　　　Uno de los Siete Generales Marinas sobre el mandato del Rey de los Mares, Poseidón. Con sinceridad en su corazón, Sorrento realmente cree que Poseidón puede limpiar el mal de la Tierra para establecer un mundo ideal. Sorrento es especialista en usar el sonido de su flauta, cuyo formidable poder ya dejó a Aldebarán en desespero. En la lucha para proteger el Pilar del Océano Atlántico Sur, es derrotado por Shun.
+1833	^9400D3Rhadamanthys
+1834	　　　　Estrella Celeste de la Furia, el Espectro de Wyvern es conocido como "el más fuerte de los Tres Jueces del Inframundo" entre los 108 Espectros. Cuando la historia empieza, contradiciendo las órdenes de Pandora, envía por sí mismo una tropa de Espectros para avanzar contra el Inframundo; después de eso, se convierte en un oponente formidable de Seiya y los demás. Él no tiene sólo la confianza de Hades, como también es querido y respetado por sus subordinados. En la lucha contra Kanon, en el Inframundo, fue golpeado por el ataque suicida de su oponente y termina desapareciendo en el cielo del Inframundo.
+1835	^9400D3Minos
+1836	　　　　Estrella Celeste de la Nobleza, el Espectro de Grifo es uno de los Tres Jueces del Inframundo, y su fuerza casi se equipara a la de los otros dos. La personalidad de Minos es calma; durante una batalla, espera hasta el momento perfecto para dar un golpe decisivo. Como el último de los Tres Jueces a ser derrotado, con la finalidad de impedir la ida de Seiya y los demás, tuvo una lucha intensa contra Hyoga. Sin embargo, al adentrarse en la Hiperdimensión, como no tenía protección divina, su cuerpo acabó volviéndose en polvo.
+1837	Power para obtener Alas %s: %s
+1838	Artículos auxiliares:
+1839	Recomendaciones:
+1840	Agr grupo
+1841	Enviar MP
+1842	Agr amigo
+1843	Visualizar
+1844	Negociar
+1845	Agr ejército
+1846	Duelar
+1847	Copiar nombre
+1848	Bloquear
+1849	Power
+1850	Logros
+1851	Agr contacto
+1852	Agr aprendiz
+1853	Agr Maestro
+1854	Nombrar sustituto
+1855	Prohibido el envío de mensajes de voz
+1856	Abrazo mutuo
+1857	Maestro y aprendiz
+1858	Abrazar
+1859	Responder
+1860	Excluir
+1861	Reservar
+1862	Cancelar Reserva
+1863	Dejar Grupo
+1864	Deshacer
+1865	Reunir Grupo
+1866	Reiniciar DG
+1867	Deshacer Raide
+1868	Cancelar Abrazo
+1869	Cambiar Líder
+1870	Expulsar
+1871	Negociar
+1872	Seguir Alvo
+1873	Mover hasta
+1874	Auxiliar
+1875	Desafiar
+1876	Nivel: %s
+1877	Cambiar Líder
+1878	Ajustar grupo
+1879	Definir Líder
+1880	Expulsar
+1881	Cambiar Regente
+1882	Abrir chat
+1883	Mover amigo
+1884	Excluir
+1885	Pet Loro
+1886	Enviar rosas
+1887	Añadir contraseña del código de desbloqueo
+1888	Configurar Permisos
+1889	Expulsar del campo de batalla
+1890	─────────────────────────
+1891	.
+1892	(Vacío)
+1893	(Vacío) \ t
+1894	Características fuertes
+1895	Características débiles
+1896	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.38\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce x15
+1897	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Pez Volador\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce ×60
+1898	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Sextans\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce ×60
+1899	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.38\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×40
+1900	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Casiopea\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1901	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Serpiente\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce ×60
+1902	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Delfín\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1903	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Cuervo\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1904	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Brújula\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1905	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Ballena\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1906	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Retículo\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1907	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla [1]:\rCambie con el Emisario de la Luz Sagrada de Oro en la Ciudad Plata\rArtículos necesarios:\rCambie - Armadura Dorada x1\rLuz Sagrada de Oro x100\rCómo obtenerla [2]:\rAbrir el álbum de la Armadura y juntar todas las piezas\rLas piezas pueden cambiarse con Jonathan por Autorización de Armadura[Oro]\rLas piezas dropam de Bosses Mundiales
+1908	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo de ^0184ffPegaso\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1909	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffDragón.\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1910	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo corrrespondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffCisne.\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1911	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffAndrómeda.\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1912	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffFénix\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1913	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Centauro\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1914	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Sagita\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1915	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Auriga\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1916	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Águila\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1917	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Reno\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce ×60
+1918	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Heracles\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1919	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Triángulo\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1920	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Berenice\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1921	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Perseo\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1922	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Pavo\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1923	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Cefeus\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1924	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Paloma\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1925	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Fornax\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1926	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.65\rNecesario poseer la Armadura de Espadarte\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×160\rAutorización de Armadura[Plata] ×2
+1927	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Perros de Caza\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1928	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.75\rNecesario poseer la Armadura de Atrio\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×200\rAutorización de Armadura[Plata] ×3
+1929	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Emperatriz\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1930	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Popa\r^ffffffBusque a Joseph en la Cidade Prata\rArtículos necesarios:\rFragmento de Bronce ×60
+1931	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Escudo\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce ×60
+1932	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Corona Austral\r^ffffffBusque a Joseph en la Ciudad Plata\rArtículos necesarios:\rFragmento de Bronce ×60
+1933	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Liebre\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1934	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\rBusque a Céfiro en la Ciudad Plata para el cambio\rArtículos necesarios:\rAutorización de Armadura[Negra] ×1\rPuede obtener la Autorización de Armadura[Negra] a través del cambio con Céfiro\rArtículos necesarios:\rInsignia Negra ×30
+1935	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rFragmento de Surplice ×90\rFragmento de Plata ×100\rFragmento de Bronce ×100\rEs posible obtener Fragmento de Surplice con Pandora.\rArtículos necesarios:\rFragmento de Oro\ro\rLágrima de Atenea
+1936	^ff0000Aún no obtuvo la Escama.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Julián en la Ciudad Plata\rArtículos necesarios:\rFragmento de Oro ×50\rFragmento de Plata ×100\rFragmento de Bronce ×100
+1937	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.92\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×240\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1938	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffDragón del Mar.\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1939	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.50\rNecesario poseer la Armadura de Mosca\r^ffffffBusque a Altai en la Ciudad Plata\rArtículos necesarios:\rFragmento de Plata ×120
+1940	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffWyrm.\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1941	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Aqueronte\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1942	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Alraune\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1943	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Harpía\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1944	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Balrog\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1945	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Basilisco\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1946	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Minotauro\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1947	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Esfinge\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1948	^ff0000Aún no obtuvo la Escama.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Julián en la Ciudad Plata\rArtículos necesarios:\rFragmento de Oro ×100\rFragmento de Plata ×100\rFragmento de Bronce ×100
+1949	^ff0000Aún no obtuvo la Escama.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Julián en la Ciudad Plata\rArtículos necesarios:\rFragmento de Oro ×125\rFragmento de Plata ×100\rFragmento de Bronce ×100
+1950	^ff0000Aún no obtuvo la Escama.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Julián en la Ciudad Plata\rArtículos necesarios:\rFragmento de Oro ×150\rFragmento de Plata ×100\rFragmento de Bronce ×100
+1951	^ff0000Aún no obtuvo la Escama.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Julián en la Ciudad Plata\rArtículos necesarios:\rFragmento de Oro ×175\rFragmento de Plata ×100\rFragmento de Bronce ×100
+1952	^ff0000Aún no obtuvo la Escama.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.80\r^ffffffBusque a Julián en la Ciudad Plata\rArtículos necesarios:\rFragmento de Oro ×200\rFragmento de Plata ×100\rFragmento de Bronce ×100
+1953	^ff0000Aún no obtuvo la Armadura.\r^ffffffObtenida a través de la quest principal del Signo correspondiente.\rPuede obtenerse por cambio de Signo en el Nv.59.\rHable con Clyde en la Ciudad Plata y cámbiate al signo ^0184ffLira.\r^ffffffHable nuevamente con Clyde y realice la Quest de Predestinación.
+1954	^ff0000Aún no obtuvo la Surplice.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Surplice de Licaón\r^ffffffBusque a Pandora en la Ciudad Plata\rArtículos necesarios:\rMetal del Inframundo ×280\rEs posible obtener Metal del Inframundo con Pandora.\rArtículo necesario:\rFragmento de Plata
+1955	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Armadura de Tauro\r^ffffffCambie con el Emisario de la Luz Sagrada de Oro en la Ciudad Plata\rArtículos necesarios:\rPieza Sagrada 1[Tauro] ×16\rPieza Sagrada 2[Tauro] ×16\rPieza Sagrada 3[Tauro] ×16\rLas piezas dropam de Bosses Mundiales
+1956	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Armadura de Piscis\r^ffffffCambie con el Emisario de la Luz Sagrada de Oro en la Ciudad Plata\rArtículos necesarios:\rInsignia de Oro ×120\rLas insignias pueden obtenerse en los grandes eventos
+1957	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Armadura de Cáncer\r^ffffffCambie con el Emisario de la Luz Sagrada de Oro en la Ciudad Plata\rArtículos necesarios:\rPieza Sagrada 1[Cáncer] ×16\rPieza Sagrada 2[Cáncer] ×16\rPieza Sagrada 3[Cáncer] ×16\rLas piezas dropam de Bosses Mundiales
+1958	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Armadura de Leo\r^ffffffCambie con el Emisario de la Luz Sagrada de Oro en la Ciudad Plata\rArtículos necesarios:\rInsignia Sagrada[Leão] ×32\rLas insignia pueden ser dropadas en el Boss Mundial Heilong
+1959	^ff0000Aún no obtuvo la Armadura.\r^ffffffCómo obtenerla:\r^0184ffNecesario Nv.97\rNecesario poseer la Armadura de Escorpio\r^ffffffCambie con el Emisario de la Luz Sagrada de Oro en la Ciudad Plata\rArtículos necesarios:\rInsignia de Oro ×120\rLas insignias pueden obtenerse en los grandes eventos
+1960	^ff0000Aún no obtuvo la Armadura\r^ffffffCómo obtenerla:\r^ff0000Requiere nivel 92\rNecesario obtener primero ^fff600Armadura de ^ff0000Géminis\r^72fe00con ^0184ffEmisario de la Luz Sagrada de Oro ^72fe00para el cambio\r^ffffffPara el cambio es necesario juntar ^fff600Cincuenta Insignias Sagradas de Géminis\r^ffffffModo para obtener insignias:\r^72fe00Zona de Instancia ^0184ffDentro de las 12 Casas de Oro I ^72fe00Derrotar ^0184ffGéminis de grado de dificultad Asesino de Dioses ^72fe00
+1961	^0184ffCompeticiones de los Ejércitos por la Soberanía Galáctica ^fff600Premio del Ejército Vencedor
+1962	^ffffffPuede obtenerse en eventos oficiales
+1963	^ff0000Não disponível no momento\r^fff600Disponível apenas através de quest.\r^ffffffComo obter(Futuramente):\r^ff0000Necessário Nv.59\rProcure ^0184ffAllen^72fe00 e mude o signo para ^0184ffTornado^72fe00, depois complete a quest:\r^0184ffTroca! Signo Predestinado (Tornado)
+1964	^ff0000Ainda não obteve a Armadura\r^ffffffComo obter:\r^ff0000Necessário Nv.50\rNecessário possuir Armadura de Tsunami\r^ffffffProcure ^fff600Altai ^ffffffna Cidade Prata\r^fff600Itens necessários:\r^ffffffFragmento de Prata x120
+1965	^ff0000Ainda não obteve a Armadura\r^ffffffComo obter:\r^ff0000Necessário Nv.65\rNecessário possuir Armadura de Deserto\r^ffffffProcure ^fff600Altai ^ffffffna Cidade Prata\r^fff600Itens necessários:\r^ffffffFragmento de Prata x160\rAutorização de Armadura[Prata] x2
+1966	^ff0000Ainda não obteve a Armadura\r^ffffffComo obter:\r^ff0000Necessário Nv.75\rNecessário possuir Armadura de Aurora\r^ffffffProcure ^fff600Altai ^ffffffna Cidade Prata\r^fff600Itens necessários:\r^ffffffFragmento de Prata x200\rAutorização de Armadura[Prata] x3
+1967	^ff0000Ainda não obteve a Armadura\r^ffffffComo obter:\r^ff0000Necessário Nv.97\rNecessário possuir a Sapuris de ★ Matéria\r^ffffffProcure ^fff600Pandora ^ffffffna Cidade Prata\rItens necessários:\rMetal do Submundo x280\rÉ possível obter Metal do Submundo com Pandora\r^fff600Item necessário:\r^ffffffFragmento de Prata
+1968	(Personalizar)
+1969	Primer capítulo
+1970	Prueba de sangre y fuego
+1971	社交
+1972	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+1973	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+1974	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+1975	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600箭鱼座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+1976	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+1977	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600六分仪座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+1978	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600仙后座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200^72fe00\r^0184ff白银圣衣委托书×3
+1979	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600巨蛇座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+1980	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600乌鸦座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+1981	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600南鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+1982	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600罗盘座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+1983	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600白鲸座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要:\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+1984	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600网罟座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+1985	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600银莺座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+1986	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1987	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1988	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1989	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1990	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1991	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1992	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1993	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1994	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1995	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1996	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1997	^ff0000未获得圣衣\r^ffffff获得方法1：\r^72fe00在^0184ff黄金圣光使者^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣兑换券×1\r^fff600圣光金币×100\r^ffffff获得方法2：\r^72fe00开启黄金圣衣图鉴后\r收集满^fff600黄金圣衣组件\r^ffffff组件获取方式：\r^0184ff乔纳森^72fe00处使用^fff600黄金圣衣委托书^72fe00购买\r^0184ff世界boss^72fe00掉落
+1998	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天马^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天马）
+1999	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天龙^72fe00座\r并完成任务^0184ff转换！宿命之守护星（天龙）
+2000	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff白鸟^72fe00座\r并完成任务^0184ff转换！宿命之守护星（白鸟）
+2001	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff仙女^72fe00座\r并完成任务^0184ff转换！宿命之守护星（仙女）
+2002	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff凤凰^72fe00座\r并完成任务^0184ff转换！宿命之守护星（凤凰）
+2003	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600半人马座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2004	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600天箭座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2005	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600御夫座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2006	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600天鹰座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2007	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600鹿豹座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2008	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600武仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2009	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600三角座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2010	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600后发座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2011	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600英仙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2012	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600孔雀座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2013	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600仙王座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2014	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600天琴座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2015	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600变色龙座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+2016	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600天炉座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2017	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+2018	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+2019	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600海蛇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+2020	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级84\r需要先获得^fff600剑鱼座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×160\r^0184ff白银圣衣委托书×2
+2021	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600南十字座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+2022	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600北冕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+2023	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级94\r需要先获得^fff600天幕座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×200\r^0184ff白银圣衣委托书×3
+2024	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600皇女座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2025	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600船尾座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2026	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级60\r要求战力39960\r需要先获得^fff600波江座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×40
+2027	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600盾牌座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2028	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级50\r要求战力5140\r需要先获得^fff600南冕座^ff0000圣衣\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×60\r^0184ff青铜圣衣委托书×1
+2029	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级30\r要求战力5140\r^72fe00在青铜匠师^0184ff约瑟夫^72fe00处兑换\r^ffffff兑换需要：\r^0184ff青铜圣衣碎片×15
+2030	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2031	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2032	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2033	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2034	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2035	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
+2036	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×50\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2037	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
+2038	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff潘多拉^72fe00处兑换：\r^ffffff兑换需要：\r^a800ff冥衣碎片×90\r^0184ff白银圣衣碎片×100\r^72fe00青铜圣衣碎片×100\r^a800ff冥衣碎片^72fe00可使用^fff600黄金圣衣碎片^72fe00或^fff600雅典娜之泪^72fe00兑换
+2039	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2040	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2041	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2042	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2043	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2044	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff海飞龙\r^72fe00并完成任务^0184ff转换！宿命之守护星（海龙）
+2045	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2046	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2047	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级75\r要求战力39960\r需要先获得^fff600银蝇座^ff0000圣衣\r^72fe00在白银匠师^0184ff阿尔泰^72fe00处兑换\r^ffffff兑换需要：\r^0184ff白银圣衣碎片×120\r^0184ff白银圣衣委托书×1
+2048	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修2\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×240\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2049	^ff0000未获得圣衣\r^fff600本职业圣衣通过主线任务获得\r^ffffff非本职业圣衣获得方法：\r^ff0000要求等级59\r^0184ff阿伦^72fe00处切换守护星座为^0184ff天威^72fe00星\r并完成任务^0184ff转换！宿命之守护星（天威）
+2050	^ff0000未获得圣衣\r^ffffff获得方法：\r^72fe00在黑暗匠师^0184ff萨菲罗斯^72fe00处兑换\r^ffffff兑换需要：\r^0184ff黑暗圣衣委托书\r^72fe00该委托书可使用^0184ff黑暗徽记×30^72fe00兑换
+2051	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天间星^ff0000冥衣\r^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2052	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天魔星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2053	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天哭星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2054	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天英星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2055	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天捷星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2056	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天牢星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2057	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级 潜修7\r需要先获得^fff600天兽星^ff0000冥衣\r^0184ff^72fe00在^0184ff潘多拉^72fe00处兑换\r^ffffff兑换需要：\r^0184ff冥界金属碎片×280\r^0184ff冥界金属碎片^72fe00可在^0184ff潘多拉^72fe00处\r使用^0184ff白银圣衣碎片^72fe00兑换
+2058	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×100\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2059	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×125\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2060	^ff0000未获得圣衣\r^ffffff获得方法：\r^ff0000要求等级80\r^72fe00在^0184ff朱利安^72fe00处兑换\r^ffffff兑换需要：\r^fff600黄金圣衣碎片×150\r^0184ff白银圣衣碎片×100\r青铜圣衣碎片×100
+2061	2333
+2062	55555
+2063	888
+2064	获得足够战场声望点数之后可到${pos(-182,339,402,2,'夏洛克')}处兑换奖励
+2065	个人战力
+2066	个人即时
+2067	军团内
+2068	军团间
+2069	     本周日24时结算的所有玩家上周累积充值数据\r     以该榜单为依据，周二维护后将给第一名玩家发放时效1周黑珍珠特效翅膀时装\r     周二维护后，圣域神职区将在本周为第一名玩家竖立雕像，并以其名义为本服玩家发放福利！
+2070	
+2071	 每月会进行一次总榜刷新，并在每月1号重置上月榜单显示本月榜单，每个月第一周周二维护后发放上月排行榜称号。\r 玩家获得称号\r     傲视寒霜的绚烂    个人鲜花排行榜获得第1名\r   绽放那一瞬的美丽   个人鲜花排行榜获得第2名\r     万花丛中的闪耀    个人鲜花排行榜获得第3名\r     生如夏花的温暖    个人鲜花排行榜获得第4-10名
+2072	参赛资格的统计已经结束，该积分将在8月1日自动失效。请登陆官方网站确认最终入围军团名单，也请入围军团长注意接收参赛门票。
+2073	声望达到一定级别可在${pos(203,317,292,4,'今井宗久')}处购买物品
+2074	声望达到一定级别可在${pos(-236,350,352,2,'荷拉斯')}处购买物品
+2075	声望达到一定级别可在${pos(-236,350,356,2,'古利亚斯')}处购买物品
+2076	声望达到一定级别可在${pos(-236,350,360,2,'克西弗斯')}处购买物品
+2077	声望达到一定级别可在${pos(-236,350,364,2,'阿高迪约')}处购买物品
+2078	声望达到一定级别可在${pos(-239,358,306,2,'西弗勒斯')}处购买珠链
+2079	声望达到一定级别可在${pos(-278,343,220,2,'守护星军需官')}处购买物品
+2080	可在${pos(-264,356,309,2,'传承商店')}处购买礼包
+2081	可在${pos(-204,337,16,2,'神战使者安迪娜')}处使用神战点
+2082	可在${pos(-227,337,66,2, '女神恩赐使者柯蒂丝')}处兑换
+2083	1.  开启随身仓库服务\r2.  开启随身聚能服务
+2084	拥有永久生效属性称号“钱包鼓鼓的”\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
+2085	拥有永久生效属性称号“勇往直前的淘金者”\r开启VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
+2086	拥有永久生效属性称号“疯狂敛财者”\r尊享VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
+2087	拥有永久生效属性称号“璀璨钻石大亨”\r尊享VIP频道使用权限\r尊享随身邮件、符文、仓库、聚能、VIP特权商城服务
+2088	月度返还福利200星券
+2089	月度返还福利600星券
+2090	月度返还福利2000星券
+2091	1.  月度返还福利4000星券\r2.  尊享MVIP尊贵标识
+2092	1.  月度返还福利5000星券\r2.  尊享MVIP尊贵标识
+2093	1.  月度返还福利8500星券\r2.  尊享MVIP尊贵标识
+2094	1.  月度返还福利32000星券\r2.  尊享MVIP尊贵标识
+2095	1.  月度返还福利40000星券\r2.  尊享MVIP尊贵标识
+2096	1.  月度返还福利60000星券\r2.  尊享MVIP尊贵标识
+2097	1.  月度返还福利80000星券\r2.  尊享MVIP尊贵标识
+2098	1.  月度返还福利126000星券\r2.  尊享MVIP尊贵标识
+2099	1.  月度返还福利180000星券\r2.  尊享MVIP尊贵标识
+2100	1.  月度返还福利280000星券\r2.  尊享MVIP尊贵标识
+2101	1.  月度返还福利415000星券\r2.  尊享MVIP尊贵标识
+2102	无法加载游戏数据文件！此错误可能是更新不完全所致！\n点击\"是\"：进行版本更新和验证。(注：可能需要花费较长时间)\n点击\"否\"：稍后手动更新或版本验证。
+2103	守护星座8
+2104	守护星座8升阶星座
+2105	前
+2106	第%d次神铸\r
+2107	^00ff00左键点击进行神铸\r
+2108	目标神器已经神铸，无法转移神铸次数
+2109	待转移神器神铸次数高于目标神器神铸次数上限
+2110	举报骗子

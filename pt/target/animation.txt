@@ -1,0 +1,1606 @@
+0	Teste de filme
+1	Demonstração de Pégasus_temp
+2	Demonstração Signo de Pégasus_temp
+3	Vila dos Principiantes - Coliseu
+4	Terra dos Novatos
+5	Vila dos Principiantes - Chamando Águia
+6	Vila dos Principiantes - Ilusão da batalha de ouro
+7	Vila dos Principiantes - Mu ajuda os jogadores
+8	Vila dos Principiantes - Explicação das armaduras
+9	Vila dos Principiantes - Entrando na pequena e obscura arena
+10	Vila dos Principiantes - Pequeno capítulo para vestir a armadura
+11	Vila dos Principiantes - Antes da Grande Guerra
+12	Terra das Constelações - A animação de abertura
+13	Terra das Constelações - Animação de abertura: O dia feroz
+14	Terra das Constelações - A animação de abertura: Poseidon
+15	Terra das Constelações - Pandora explica o cosmo
+16	Terra das Constelações - O espírito do Dragão Marinho explica o cosmo
+17	Terra das Constelações - A visão do grande Mestre
+18	Terra das Constelações - O campo de batalha de Hades
+19	Terra das Constelações - O campo de batalha de Poseidon
+20	Terra das Constelações - O Santuário
+21	Terra das Constelações - Explicação da armadura de Lira
+22	Santuário - Uma audiência com o Grande Mestre
+23	Santuário - O primeiro cavaleiro de Pégasus contra o deus da Morte
+24	Santuário - Batalha dos três cavaleiros de ouro e deuses gêmeos
+25	Santuário - A aparição de Shaka
+26	Santuário - A aparição de Aldebaran
+27	Santuário - Orientações no telhado de cerâmica
+28	Santuário - Passagem forçada pelas 12 casas
+29	Santuário - Orientações no telhado de pérola
+30	Santuário - Apresentação dos níveis de armaduras
+31	Santuário - Obter o martelo de Prometeu
+32	Santuário - O relógio de fogo acende suas chamas
+33	Santuário - O relógio de fogo se apaga
+34	Santuário - O fogo do relógio se apaga_ Aries
+35	Santuário - O fogo do relógio se apaga _Touro
+36	Santuário - O fogo do relógio se apaga_Gêmeos
+37	Santuário - O fogdo relógio se apaga_Câncer
+38	Santuário - O fogo do relógio se apaga_Leão
+39	Santuário - O fogo do relógio se apaga_Virgem
+40	Santuário - O fogo do relógio se apaga_Libra
+41	Santuário - O fogo do relógio se apaga_Escorpião
+42	Santuário - O fogo do relógio se apaga_Sagitário
+43	Santuário - O fogo do relógio se apaga_Capricórnio
+44	Santuário - O fogo do relógio se apaga_Aquário
+45	Santuário - O fogo do relógio se apaga_Peixes
+46	Santuário - Chamas na vila de Roderic
+47	Santuário - Encontrou o fogo .anm
+48	Santuário - O mistério do sangue do deus Hades
+49	Santuário - Rumores de treze anos atrás
+50	Santuário -  Conseguir Armadura de ouro
+51	Santuário - A Conspiração de Hades
+52	Deus das Doze Casas de Ouro--Prelúdio
+53	Deus das Doze Casas de Ouro--Aparição de Touro
+54	Deus das Doze Casas de Ouro--Aparição de Saga
+55	Deus das Doze Casas de Ouro--Aparição de Mu
+56	Coliseu Graad - O ataque de Leão
+57	Coliseu Graad- O cativeiro de Saori
+58	Coliseu Graad- Mu salva a todos
+59	Coliseu Graad- Saori Entra em campo
+60	Exibição Regional - Coliseu Graad- Floresta Aokigahara_ Entrar
+61	Exibição regional - Coliseu Graad - Floresta Aokigahara_Sair
+62	Coliseu Graad- Saori queima o seu cosmo
+63	Coliseu Graad- Memórias de Hades
+64	Coliseu Graad- Seiya veste a armadura
+65	Coliseu Graad - Olhar para a Dez Cavernas do Vento
+66	Coliseu Graad- Surge Hyoga
+67	Coliseu Graad- Surge Shiryu
+68	Coliseu Graad- Surge Shun
+69	Coliseu Graad- Surge Seiya
+70	Coliseu Graad- Surge Saori
+71	Coliseu Graad- A vida de Saori
+72	Coliseu Graad- Surge Shiryu 2
+73	Coliseu Graad- Surge Seiya 2
+74	Arena Galática- Surge Saori 2
+75	Coliseu Graad- A vida de Saori 2
+76	Rozan - Shiryu salva Shunrei
+77	Rozan - Lei-Hu salva Shiryu
+78	Rozan - Lei-Hu vs. Shiryu
+79	Rozan - Batalha na colina de Yomotsu
+80	Rozan - Surge o dragão branco
+81	Três anéis de Rozan - O deus do sonho
+82	A terra esquecida - A batalha do Santuário
+83	O caminho do esquecimento - O chamado do destino
+84	O caminho do esquecimento - Surge o rei que estava exilado
+85	O caminho do esquecimento - A prisão de água
+86	Ilha da Rainha da Morte - A batalha do vulcão adormecido
+87	Ilha da Rainha da Morte - Batalha com Fênix negro
+88	Ilha da Rainha da Morte - A batalha de Ikki e Shaka
+89	Ilha da Rainha da Morte - Selar a Ilha da Rainha da Morte
+90	Sibéria Oriental - Hyoga vs Alexer
+91	Sibéria Oriental - Hyoga vs Kanon
+92	Sibéria Oriental - Surge Isaac
+93	Sibéria Oriental - Montanhas de gelo desabam
+94	Sibéria Oriental - O patricídio de Alexer
+95	Sibéria Oriental -  O discurso das Valquírias
+96	Sibéria Oriental - Satã imperial de Kanon
+97	Sibéria Oriental  - Hyoga Capturado
+98	Coliseu Graad- Ataque de Leão 2
+99	Coliseu Graad- Segundo cativeiro de Saori
+100	Coliseu Graad- Saori entra em campo segunda vez
+101	Atlântida - Shuya vs Dragão Marinho
+102	Atlântida - Os vestígios de Saori
+103	Atlântida - Jogadores VS Cavalo Marinho
+104	Cidade de Hades - Jogadores VS Radamanthys
+105	Submundo - Atravessar o Aqueronte
+106	Submundo - Eurídice
+107	Submundo - Banhado pelo poder do Titã
+108	Submundo - Shaka entra em campo
+109	Submundo - Star pico seis dias
+110	Submundo - Pandora prende Ikki
+111	Submundo - Jogadores invadem Giudecca
+112	Submundo - As memórias de Shun
+113	Submundo - O som da Guerra  .anm
+114	Submundo - Iniciar prática concentrada
+115	Campos Elíseos - O suspiro na hiper-dimensão espaço.anm
+116	Campos Elíseos - De volta ao mundo de luz .anm
+117	Exibição de cenário - Terra das Constelações
+118	Exibição de cenário - Santuário
+119	Exibição de Cenário - Arena Galática
+120	Exibição de Cenário - Rozan
+121	Exibição de Cenário - O caminho do esquecimento
+122	Exibição de Cenário - Ilha da Rainha da Morte
+123	Exibição de Cenário - Sibéria Oriental
+124	Exibição de Cenário - Atlântida
+125	Exibição de Cenário - Ilha de Andrômeda
+126	Exibição de Cenário - Cidade de Hades
+127	Exibição de Cenário - As doze casas
+128	Exibição de Cenário - Submundo
+129	A Batalha dos deuses - Surge a tempestade de Estrelas
+130	A Batalha dos Deuses - Nascem os jogadores_O poder do santuário
+131	A Batalha dos deuses - Surge o deus do Sono
+132	A Batalha dos Deuses - Surge o menor soldado
+133	A Batalha dos Deuses - O início da estrada_O poder do santuário
+134	A Batalha dos Deuses - O deus do Sono destrói a ponte
+135	A Batalha dos Deuses - Aries VS Hypnos
+136	A Batalha dos Deuses - O funeral de peixes
+137	A Batalha dos Deuses - Capricórnio vs.Griffon
+138	A Batalha dos Deuses - O juramento dos Cavaleiros
+139	A Batalha dos Deuses - O confronto final
+140	 A Batalha dos Deuses - Nascem os jogadores_O poder de Poseidon
+141	A Batalha dos Deuses - Surge Saga
+142	A Batalha dos deuses - Nascem os jogadores_O poder de Hades
+143	A Batalha dos Deuses - O início da estrada_O poder de Hades
+144	Batalha dos Deuses - Virgem vs Wyvern
+145	A Batalha dos Deuses - Surge Sagitário
+146	A Batalha dos Deuses - Surge Shaka
+147	A Batalha dos Deuses - O início da estrada_O poder de Poseidon
+148	A Batalha dos Deuses - Sirene vs. Gêmeos
+149	A Batalha dos Deuses - Surge o cavaleiro de Baleia_O poder de Poseidon
+150	Exibição de Cenário - Coliseu Graad2
+151	Exibição Regional - Rozan_LagoTianchi
+152	Exibição Regional - Santuário_Yomotsu
+153	Exibição Regional - O caminho do esquecimento_O destino do Templo
+154	Exibição Regional - Sibéria Oriental_O forte de gelo azul
+155	Exibição Regional - Sibéria Oriental_Árvore do Mundo
+156	Exibição Regional - Atlântida_Poseidonia
+157	Três Arcos de Leão - Brincar com fogo
+158	Três Arcos de Leão - Surge Aioria
+159	Evento - Vila de Saori1
+160	Evento - Vila de Saori2
+161	Evento - Vila de Saori3
+162	Três Arcos de Peixes - Aparição de Afrodite
+163	Três Arcos de Libra - Portal de Sugestões
+164	Três Arcos de Libra - Surge Dohko
+165	Dois Arcos - Atlântida Afunda 1
+166	Dois Arcos - Atlântida Afunda 2
+167	Dois Arcos - Atlântida Afunda 3
+168	Evento - O relógio de Fogo 1
+169	Evento - O relógio de fogo 2
+170	Evento - O relógio de fogo 3
+171	Evento - As Dez Cavernas_Surge Ikki
+172	Memórias da Guerra Santa - Troll
+173	Dois Arcos - Atlântida Afunda  4
+174	Evento - Dez Cavernas_Shun salva Seiya
+175	Evento - Dez Cavernas_Surge Andrômeda Negro
+176	Evento - Sagitário escapa
+177	Evento - Sagitário escapa 2
+178	Evento - Sagitário escapa 3
+179	Evento - Sagitário escapa 4
+180	Dois Novos Arcos - Tártaro_Mecanismo de apresentação de cenário 1
+181	Dois Novos Arcos - Tártaro_Mecanismo de apresentação de cenário 2
+182	Dois Novos Arcos - Tártaro_associação de sala
+183	Dois Novos Arcos - Tártaro_Surge a sombra do Deus da Morte
+184	Cemitério - Os jogadores se transfiguram
+185	Memórias da guerra santa - O escudo de Athena
+186	Três Novos Arcos - Serpente_transferência
+187	Três Novos Arcos - Serpente_Surge Loki
+188	Dois Novos Arcos - O abismo_ Surge Hagen
+189	Dois Novos Arcos - Tártaro_Surge a imperatriz do Submundo
+190	Dois Novos Arcos - Tártaro_Transfiguração do corpo da rainha do Submundo
+191	Cemitério -- boss surge
+192	Três Novos Arcos_ cidade do norte_Praça da Cidade
+193	Três Novos Arcos - Cidade do norte _Surge Boss
+194	Santuário de gelo - Sirene e Kraken
+195	Santuário de gelo - As Valquírias
+196	Dois Novos Arcos - Tártaro_Mecanismo de apresentação de cenário 3
+197	Dois Novos Arcos - Tártaro_Surge a sombra do deus do Sono
+198	Pilares dos sete mares - Surge Poseidon
+199	Evento -- edição Q da Vila de Saori 1
+200	Evento --edição Q da Vila de Saori 2
+201	Pilares dos sete mares - Pilar Principal quebrado
+202	Submundo e Doze Casas - Invasão do Submundo
+203	Submundo e Doze Casas - O destino da batalha
+204	Submundo e Doze Casas - A morte de Shaka
+205	Submundo e Doze Casas - Morte da deusa
+206	Dois Novos Arcos - Tártaro_Transfiguração do corpo da rainha do submundo 2
+207	Contracorrente - Aparição de Kiew
+208	Contracorrente - Aparição de Zelos
+209	Contracorrente - Aparição de Niobi
+210	As doze casas de ouro - Casa de Áries_Mu concerta as armaduras
+211	As doze casas de ouro - Saori atingida por flecha
+212	As doze casas de ouro - Touro_O começo da batalha
+213	As doze casas de ouro - A supernova titânica do cavaleiro de Touro
+214	As doze casas de ouro- Sagitário_As setas de ouro voam
+215	As doze casas de ouro - Virgem_Compreender o sétimo sentido
+216	As doze casas de ouro - Leão_ Cássios salva os jogadores
+217	A história - As doze casas de ouro_A seta de Saori
+218	A história - As doze casas de ouro_A ressurreição da deusa
+219	A geração anterior da guerra
+220	Vila dos iniciantes- Seiya VS Cássios
+221	Vila dos Iniciantes - Seiya VS Shina
+222	Santuário - Orfeu vs. Cérbero
+223	Coliseu Graad_ Ikki pega a armadura
+224	Coliseu Graad_ Shiryu vs. O cavaleiro de Perseu
+225	Rozan_Shiryu vs. Máscara da Morte
+226	Aioros vs. Shura
+227	Ikki vs. Guilty
+228	Cavaleiros de Bronze VS Poseidon
+229	Shion vs. Dohko
+230	Mar de Istambul
+231	Templo de Athena
+232	Infanticídio do Grande Mestre
+233	Memórias de Hyoga _ O naufrágio do navio da mãe
+234	Capítulo I
+235	A Lenda dos Cavaleiros!
+236	Capítulo I: Lendas de uma Nova Era
+237	Episódio 1: Armaduras! Combate Mortal!
+238	Rápido! Clique no botão para queimar o seu cosmo!
+239	Episódio 2: Queime! Explosão do Cosmo!
+240	Seiya
+241	Eu espero que você encontre sua irmã
+242	Infelizmente, eu ainda não posso deixar o santuário
+243	A nova guerra santa está próxima
+244	O submundo já está agindo
+245	Eu tenho que permanecer no santuário para lutar
+246	Também lutarei por Hadaward
+247	Vá lutar
+248	Comece! A luta das armaduras!
+249	Que lugar é este?
+250	Sinto como se o tempo tivesse parado...
+251	Episódio 3: Fuga! Outra Dimensão!
+252	Rápido! Alcancem o Carro de Combate e protejam-no até a arena!
+253	Atenção, equipe! A missão falhará caso se distanciem demais do Carro de Combate.
+254	Rápido! Com os tanques, estará seguro no Muro das Lamentações! ! !
+255	A memória do Mestre Ancião, Dohko
+256	Você vai voltar para aquela noite da Guerra Santa de 200 anos atrás
+257	Não posso sair daqui ainda
+258	Eu espero que você possa se reunir a sua irmã
+259	Você encontrou um Cavaleiro de Ouro
+260	Ele te empurrou para outra dimensão
+261	Neste momento a armadura ressoa em você
+262	Escapar da Hiper-Dimensão
+263	Volume II
+264	Guardião! Cavaleiro do amor e da justiça!
+265	No sono sem fim, ouvi o chamado de Athena
+266	Seu Cosmo quente e poderoso me acordou
+267	A situação é urgente, é preciso encontrar Orfeu!
+268	Depois de retornar a Vila Rodório
+269	Não muito tempo atrás...
+270	Grande Vale de Ridge
+271	A investigação de Aioria continua...
+272	Capítulo II - Guardião! Cavaleiros do amor e da justiça!
+273	Urgente! A situação do Leão!
+274	Não há notícias do senhor Aioria
+275	Espero que ele não econtre nenhum perigo
+276	Para encontrar um outro pedaço da pedra de Prometeu
+277	Eu vim mais uma vez ao templo do Titã procurando pistas
+278	Aioria caiu no sono sem fim
+279	O orgulhoso leão também deve baixar a cabeça?
+280	A Vila Rodório é o meu lar
+281	Estou disposta a protegê-la com a vida!
+282	               ——Eudora
+283	Jovem Corajoso!
+284	Por favor, siga o que o seu coração acredita!
+285	Campo das Flores Douradas
+286	Orfeu e Eurídice
+287	Melodia Sufocante!
+288	A morte de Eurídice deixou Orfeu em uma tristeza sem fim
+289	Sejam pessoas, pássaros ou insetos,
+290	só se pode viver uma vez.
+291	Mesmo as estrelas mais brilhantes não são exceção.
+292	As flores que já murcharam não podem desabrochar novamente.
+293	                        - Orfeu
+294	Batalha! As Doze Casas!
+295	A força dos Cavaleiros de Ouro está muito além da minha imaginação
+296	O potente soco de Aldebaran me jogou para fora das Doze Casas
+297	Quando eu acordei, já estava na Vila Rodório
+298	Capítulo 3 - Batalha! Morte e Sono!
+299	Então a menina de preto é Pandora do submundo
+300	Ela conseguiu obter o Sangue de Hades
+301	Hades reviveu a sapuris do submundo
+302	Como um cavaleiro de Athena
+303	Não vou permitir que o poder do submundo polua o santuário
+304	Episódio 2 - Batalha! As Doze Casas!
+305	As tropas do exército do Submundo recuaram.
+306	Independentemente se seus planos foram sucedidos ou não,
+307	a nova Guerra Santa se aproxima!
+308	Neste momento, que tipo de preparação secreta estará acontecendo no Coliseu Graad?
+309	Por que a desaparecida Armadura de Sagitário apareceu ali?
+310	O que aconteceu no Santuário treze anos atrás?
+311	Após a garota de branco acordar
+312	Você foi expulso por Jamian!
+313	Rápido! Encontre a relíquia perdida de Sagitário antes que Jamian volte!
+314	Proteja a garota e leve-a de volta a aldeia, atenção não deixe que ela fique muito longe de você
+315	Entrada do Coliseu Graad
+316	Nachi de Lobo foi nocauteado!
+317	A Armadura de Sagitário foi levada para longe por Ikki
+318	A Guerra Galáctica foi interrompida
+319	Para retomar a Armadura de Sagitário, Seiya e Hyoga correram para fora
+320	Neste momento, Shun...
+321	A Guerra Galáctica começou!!
+322	Guerra Galáctica
+323	Seiya de Pégasus VS Geki de Urso
+324	O vencedor
+325	Seiya de Pégasus!
+326	Em seguida, Hyoga de Cisne contra Ichi de Hidra!
+327	Hyoga de Cisne VS Ichi de Hidra
+328	Hyoga de Cisne!
+329	A Guerra Galáctica continua!
+330	Seiya de Pégasus VS Shiryu de Dragão
+331	O vencedor é Seiya de Pégasus!
+332	Seiya conquista com dificuldade a vitória contra Shiryu!
+333	Volume III
+334	Batalha! Soldados sob o Coliseu Graad!
+335	Capítulo III - Batalha! Soldados sob o Coliseu Graad!
+336	Início! Guerra Galáctica!
+337	Capítulo 2 - Ikki! O guerreiro que voltou do inferno!
+338	Capítulo 3 - Em Guarda! O Punho da Fúria!
+339	Volume IV
+340	Partida! O Destino dos Jovens!
+341	Capítulo IV - Partida! O Destino dos Jovens!
+342	Em frente! A Batalha das Dez Cavernas!
+343	Capítulo 2 - Assassino! As sombras do Santuário!
+344	Capítulo 3 - Leão! As Corajosas Presas!
+345	Shiryu finalmente trouxe de volta de Jamiel a amadura revivida de Dragão
+346	Na escuridão das Dez Cavernas, os jovens companheiros arriscam suas vidas na batalha
+347	Voe, Dragão renascido! Lute junto de seus companheiros!
+348	Batalha! Confronto mortal!
+349	Seguimos em direção
+350	ao rastro do corvo
+351	e encontramos um velho amigo
+352	O cavaleiro de prata, Jamian de Corvo
+353	Devemos ficar ao lado de Athena!
+354	O aviso de Marin, antes dela partir, me causou confusão
+355	Athena não deveria estar no Santuário?
+356	De volta à mansão Kido
+357	As Dez Cavernas entraram em colapso?!
+358	Espero que Seiya e os outros estejam seguros
+359	Devido as dúvidas e suspeitas de Aioria
+360	Fui à Rozan para buscar a verdade
+361	Eu recuperei os braços direito e esquerdo da armadura de Sagitário das mãos do Fênix Negro
+362	Na próxima batalha
+363	É preciso recuperar toda as partes da Armadura de Ouro de Sagitário!
+364	Após o mal entendido
+365	Pai e filho separados há muito tempo finalmente se despedem.....
+366	O nível da água subiu um pouco, continue colocando pedrinhas dentro.
+367	O nível de água aumentou mais um pouco, continue a colocar pedrinhas
+368	A água já está perto da boca do jarro, coloque mais uma pedrinha!
+369	A água saiu do jarro! O Corvo já pode beber a água.
+370	Dragão nas Trevas?
+371	De repente você não pode se mover, quem está escondido nas trevas? !
+372	Leve o Tianyi de volta ao Orfanato Filhos das Estelas, cuidado para que ele não se perca de você
+373	Lana fez sinal para você acompanhá-la
+374	Lana acenou para você
+375	Hyoga! Hyoga! Hyoga ......
+376	Shiryu gritou, mas o Cisne não ouviu os gritos de Shiryu
+377	Agora os olhos ardentes do Cisne apenas veem o Fênix
+378	Agora
+379	A batalha entre os pássaros mais fortes está para começar!
+380	Seiya...... Seiya ...... Seiya
+381	A vida de Cisne queimou com seu último grito, e, em seguida, caiu em chamas
+382	Pégasus! Pégasus! Pégasus!
+383	A tarefa de destruir Fênix recai sobre os seus ombros!
+384	Episódio 2 - Fênix! Batalha mortal das Dez Cavernas!
+385	Capítulo IV - Fé! Os Cavaleiros da Deusa!
+386	Punição! Os Cavaleiros de Prata!
+387	Episódio 2 - Presas! Os Punhos de Ouro do Leão!
+388	O cavaleiro de prata de Corvo Jamian surgiu à frente
+389	Dois anos atrás
+390	Na Floresta de Bambu de Rozan
+391	Volume V - Perseguição! Conhecendo a verdade dos homens!
+392	Ruptura! Dragão e Tigre!
+393	Eu voltarei com certeza, Shiryu
+394	Quando chegar a hora, eu vou lutar com você!
+395	A crise de Rozan foi resolvida
+396	Rápido, retorne à cachoeira para encontrar Dohko!
+397	Li-Yun bebeu a água da Encosta Bi Longtan
+398	Shiryu retornou neste exato momento
+399	Acompanhar Yuanyuan até o Pico do Dragão
+400	Você leva Aldo até Tata
+401	No dia seguinte
+402	Volte com Xiao Fang para o túmulo de Lei-Hu
+403	Ele ofereceu um buquê de flores
+404	Um poder miraculoso vai cercá-lo
+405	Em apenas um momento você estará no topo de Rozan
+406	Poder do sangue é inquieto
+407	Talvez no futuro próximo
+408	Você realmente possa se igualar a um cavaleiro de ouro!
+409	A força de Shenlong te envolveu novamente
+410	Li-Yun sacrificou a própria vida em troca da esperança de Rozan
+411	Você tem que levar o remédio de volta para a aldeia rápido...
+412	Parece que tem alguém te chamando
+413	Kanon estava em um misterioso salão subaquático
+414	Qual será o destino que espera por ele?
+415	Volume VIII - O despertar! O Domínio Sangrento dos Sete Mares!
+416	Conspiração! O Tolo homem de Deus!
+417	Parece que tudo voltou ao passado
+418	Lava e morte
+419	Sobre o renascimento de Fênix
+420	Volume X - Queime! As chamas da Ilha da Rainha da Morte!
+421	Memórias! O renascimento de Fênix!
+422	Recompor as forças no observatório de estrelas, distante do restante do mundo
+423	Batalha! Voltar para o observatório de estrelas!
+424	O tempo parece voltar para o período de aprendiz de Hyoga
+425	O frio siberiano, o treino em conjunto dos dois aspirantes a cavaleiros
+426	Claro que ainda há coragem e justiça em Isaak
+427	Volume I - Selo! O poder do imperador dos Mares!
+428	Memórias! A justiça da Aurora!
+429	Frio, frio, frio
+430	Aqui a morte entrou como um frio severo!
+431	Aqui é Yomotsu Hirasaka?
+432	Volume VI - Herança! Fé Milenar Intacta!
+433	Fuga! Yomotsu Hirasaka!
+434	A terceira jarra acabou
+435	Você começa a se sentir um pouco estranho
+436	Tonturas e mal estar......
+437	Volume V
+438	Perseguição! Conhecendo a verdade dos homens!
+439	Nuvens sombrias! Crise em Rozan!
+440	Capítulo 2 - Espanto! Câncer abandona a justiça!
+441	Capítulo 3 - Destruição! A mais bela morte!
+442	Volume VI
+443	Herança! Fé Milenar Intacta!
+444	Lute! Pelo orgulho de Rozan!
+445	Capítulo 2 - A alma do Dragão! O segredo do pico de Rozan!
+446	Capítulo 3 - Queime! O verdadeiro poder dos Cavaleiros!
+447	Treze anos atrás
+448	Estrada Esquecida
+449	Noite
+450	Capítulo VII: O Cavaleiro de Ouro de Sagitário!
+451	Memórias! A verdade de treze anos atrás!
+452	Onde estou?
+453	Deusa do passado: 'Esta é a Estrada Esquecida, 13 anos atrás. Você deve procurar Aioros, ele aparecerá logo'
+454	Deusa do presente: 'Acorde, Jovem.'
+455	Você não conseguiu obter a verdade antes que Shura matasse Aioros
+456	Shura derrotou Aioros depois que lhe bateu, você não obteve a verdade.
+457	Essa pessoa possui um Cosmo muito poderoso.
+458	A atitude dos outros ao seu redor...
+459	Seria ele... o Rei Exilado?
+460	Junto com uma explosão violenta do cosmo,
+461	A caverna já foi completamente submersa pelas ondas,
+462	Eu não sei porque aquele homem emite um cosmo misterioso...
+463	O cavaleiro de gêmeos, Saga, assassina o antigo grande mestre Shion e consegue usurpar o trono
+464	Ele ainda queria matar a bebê Athena, mas foi impedido por Aioros
+465	Saga ordenou que Aioros fosse morto, que fugiu do santuário carregando Athena em seus braços
+466	No meio do caminho foi perseguido e ferido mortalmente por Shura
+467	Antes de morrer, ele entregou Athena a Mitsumasa Kido
+468	                              ——História Secreta do Santuário
+469	A Guerra Santa é iminente
+470	Seiya, Shiryu, Hyoga e eu estaremos ao lado da Athena
+471	Prontos para acabar com a ambinção do Grande Mestre
+472	Mas ainda precisamos de ajuda de duas pessoas
+473	Ikki e Shun
+474	Agora, a aventura na Ilha da Rainha da Morte oficialmente começou!
+475	Capítulo VII
+476	O Cavaleiro de Ouro de Sagitário!
+477	Episódio 1: Exílio! Pecadores do Santuário!
+478	Capítulo 2 - Templo! Aniquilação da justiça!
+479	Capítulo 3 - O épico do traidor!
+480	Volume VIII
+481	O despertar! O Domínio Sangrento dos Sete Mares!
+482	Poseidon! A Reencarnação do Deus!
+483	Capítulo 2 - Prisão do Deus! O prisioneiro de treze anos atrás!
+484	Capítulo 3 - Sagitário! Sob as Bandeiras das Estrelas!
+485	Ikki, afinal qual é o seu eu verdadeiro?
+486	Ou é tudo apenas ilusão?
+487	Se for, então eu vou destruir tudo!
+488	Volume IX - Recuperação! A Ambição de dominar o mundo!
+489	Aniquilação! O Golpe Fantasma da Escuridão
+490	finalmente
+491	Você e Ikki chegam ao campo de batalha mais brutal
+492	A cauda de Fênix
+493	Ikki: Haha, o pavor do golpe fantasma de fênix!
+494	Ikki: Ha ha ha! Vocês estão no caminho errado!
+495	Volume IX
+496	Recuperação! A Ambição de dominar o mundo!
+497	Combustão! Batalha na Ilha da Rainha da Morte!
+498	Capítulo 2 - Verdadeiro ou falso! Ikki caído mais uma vez?
+499	Capítulo 3 - Cuidado! A verdadeira por trás das mãos negras!
+500	Volume X
+501	Explosão! As chamas da Ilha da Rainha da Morte
+502	Tawana! A dor do alquimista!
+503	Capítulo 2 - Selo! A máscara de Guilty!
+504	Capítulo 3 - Matança! A aproximação da armadilha mortal!
+505	Kanon desapareceu na Estrada Esquecida...
+506	Surpreendentemente, um homem foi capaz de enganar até os deuses
+507	contudo, quando ele aparecer novamente neste mundo
+508	uma chuva sangrenta irá cair
+509	Volume I
+510	Selo! O Poder de Poseidon!
+511	Isaak! O Homem Morto!
+512	Capítulo 2 - Ruptura! A parede de gelo eterno!
+513	O continente azul! Após 100 anos de aliança!
+514	Volume II
+515	Sangue e fogo! A glória do Extremo Norte!
+516	Volume II - Sangue e fogo! A glória do Extremo Norte!
+517	Nórdicos! Os Guerreiros Lendários!
+518	Capítulo 2 - Kraken! O General Marina do Oceano Ártico!
+519	Capítulo 3 - O Dragão Marinho? O outro lado de Gêmeos!
+520	Alexer: Eu preciso da sua força, Hyoga, seja nosso aliado!
+521	Hyoga: Vocês querem invadir o sul e ainda me querem como cúmplice? Não se iludam!
+522	Alexer: Hunf, que seja, é perda de tempo dar mais explicações
+523	Hyoga: Pó de Diamante! O ...... O quê?! Não acredito! O Pó de diamante não funcionou!
+524	Alexer: Impulso azul!
+525	Fui atingido por uma enorme vertigem
+526	Antes de cair no chão, eu vi vagamente a sombra de Kanon se distanciando......
+527	O que aconteceu?
+528	Kiki já está levando a Armadura de Libra para Seiya
+529	Seiya, Shiryu, Shun, Hyoga, vocês têm que destruir os Sete Pilares do Oceano
+530	Athena confiou a vocês essa missão!
+531	Volume IV - Combate mortal! A Fortaleza Submarina Azul!
+532	Colapso! Os Sete Pilares do Oceano
+533	Shun de Andrômeda está indo para o Pilar do Oceano Pacífico Sul
+534	Fênix voltou mais uma vez do extremo do Submundo
+535	E agora trava uma brava luta com alguém,
+536	Além do Pilar do Atlântico Norte, os seis outros Pilares foram esmigalhados, um a um
+537	Com a ajuda de Hyoga, Shiryu, Shun e Shina, Seiya derrotou Poseidon
+538	Um grupo de pessoas foi até o Pilar Principal
+539	Seiya se transformou em um meteoro e esmagou o Pilar Principal, resgatando Athena
+540	e Poseidon foi selado na Ânfora de Athena mais uma vez
+541	Esta é a memória que Hyoga tem de Isaak
+542	Coragem
+543	Força
+544	Justiça
+545	Descobriram que tudo era uma conspiração de Kasa de Lymnades!
+546	Marin e os cavaleiros de ouro eram todos falsos
+547	Ele lentamente foi induzindo você
+548	Sem perceber, para uma armadilha de morte
+549	A passagem para o templo de Poseidon foi aberta
+550	Volte rápido pra achar Seiya e os outros!
+551	Que comece a batalha final!
+552	Tsunami! A ira de Poseidon!
+553	Volume III - Tsunami! A ira de Poseidon!
+554	Crise! Athena foi capturada!
+555	Capítulo 2 - Revelação! A geração anterior de Poseidon, Nereu!
+556	Capítulo 3 - Dragão Marinho! A Verdade sobre Poseidon!
+557	Batalha Mortal! O Azul da Fortaleza Submarina!
+558	Ressurreição! O Renascimento da Armadura!
+559	Capítulo 2 - Descoberta! A fortaleza de Poseidon
+560	Capítulo 3 - Colapso! Os Sete Pilares!
+561	Canção da Morte! Destruidor Dourado!
+562	Volume I - Canção da Morte! Destruidor Dourado!
+563	Mito! A Lenda de Andrômeda
+564	Capítulo 2  - Caminho de Sangue! Ilha Massacrada!
+565	Portal do Inferno! O Prólogo da Grande Guerra Santa!
+566	Volume II - Portal do Inferno! O Prólogo da Grande Guerra Santa!
+567	Ressurreição! O cavaleiro que se tornou uma lenda!
+568	Capítulo 2 - Estrelas Malignas! Batalha Decisiva no Portal do Inferno!
+569	Saga, Camus, Shura ......
+570	O cosmo deles está prestes a desaparecer!
+571	Rápido! Vá depressa!
+572	Lamentos! A Traição dos Cavaleiros de Ouro!
+573	Volume III - Lamentos! A Traição dos Cavaleiros de Ouro!
+574	Arayashiki! A última mensagem!
+575	Capítulo 2 - Morrer! Pelo dever de Cavaleiro!
+576	Avante! Porta que leva ao submundo!
+577	Volume IV - Avante! Porta que leva ao submundo!
+578	Maldição! Mundo adormecido por treze anos!
+579	Capítulo 2 - Em frente! Batalha mortal no Castelo de Hades!
+580	Você é cercado por uma força
+581	Diante de seus olhos só há escuridão!
+582	O encantamento da floresta foi quebrado
+583	Volte rápido pra o Inferno do Deserto Escaldante!
+584	Muro das lamentações
+585	Pandora morreu
+586	Carregando insatisfação e remorso
+587	Há ...... Rezar!
+588	Ela rezou ————
+589	Vocês podem chegar aos Campos Elíseos
+590	Vocês podem matar o Imperador Hades!!!
+591	Foi perseguindo o cosmo de Lune, avançando para o mais profundo submundo de Hades!
+592	Sob o grande cosmo da música, os cavaleiros de bronze perdem os sentidos....
+593	Shiryu e Hyoga andam juntos, avançando em direção às profundezas do inferno, rapidamente eles chegam a parte mais escura do inferno do Pântano das Trevas.
+594	Orfeu de fato lançou um ataque na direção deles! Como isso aconteceu?
+595	Quando você acorda com dúvidas, presencia uma cena......
+596	Reunião! Cavaleiros de Ouro!
+597	Volume II -  Reunião! Cavaleiros de Ouro!
+598	Crime e castigo! Destino das Almas
+599	Capítulo 2 - Orientações! A Tentativa de Pandora?!
+600	Nunca olhe para trás! Raios solares do inferno!
+601	Volume I -  Nunca olhe para trás! Raios solares no inferno!
+602	Interrupção!  A voz do silêncio!
+603	Capítulo 2 - Amor eterno! Melodia do Jardim!
+604	Finalmente a ilusão de Morfeu foi quebrada
+605	Deve-se achar rapidamente Shiryu e Hyoga.....
+606	As armaduras de ouro ressoaram....
+607	Infelizmente na presença de um Deus, a armadura é vulnerável......
+608	Então ...... tudo isso acabou?
+609	Ah! -
+610	Eu, um Deus
+611	Como fui derrotado por um mero mortal ......
+612	Eu não acredito!
+613	Cansei de brincar com você!
+614	Esteja pronto pra morrer! Cavaleiro!
+615	Estúpido!!
+616	————Hades
+617	A batalha já começou ......
+618	Mantendo amor e a justiça de um cavaleiro! Reúnam-se rápido!
+619	Uma trovoada veio do templo de Hades
+620	Em um momento a nuvem negra envolveu o céu vazio ......
+621	Capítulo Final Paraíso! Retorno ao mundo esperançoso!
+622	Flores! O plano de Morfeu
+623	Thanatos! O Chamado da Morte
+624	Hypnos! O Sono eterno!
+625	Hyoga e Shiryu também colocaram as armaduras divinas!
+626	Intercepção! Em Busca do Poder Divino
+627	Shina não vai deixar Seiya se safar dessa
+628	Avise logo para ele sair daqui!
+629	Volte rápido para se arrumar
+630	É preciso sair imediatamente da Terra das Constelações!
+631	Você foi em busca de Seiya
+632	Sua visão fica turva e então, você perde a consciência
+633	Episódio 1: Renascimento! O Cair da Escuridão!
+634	Episódio 1: Poseidon! Escolha do Destino!
+635	O Poço da entrada do Submundo foi selado novamente
+636	Mas o perigo sobre o Santuário ainda não acabou
+637	Pandora rouba o Sangue Divino de Hades pra uma conspiração ainda maior!
+638	Tudo isso acabou
+639	Ou é apenas o começo...?
+640	Segure a tecla Q, para anular 'Abraço do Urso' de Geki
+641	Segure a tecla Q, para anular 'Presas Venenosas' de Ichi
+642	Segure a tecla Q, para anular 'Bombardeio do Leão Menor' de Ban
+643	Segure a tecla Q, para anular 'Galope de Unicórnio' de Jabu
+644	Segure a tecla Q, para anular 'Uivo Mortal' de Nachi
+645	Desespero! A Deusa toma uma flechada!
+646	Mu conserta as armaduras de Seiya e dos outros.
+647	Seiya e os outros começam a avançar para a segunda Casa, Touro.
+648	Batalha! Grande Chifre!
+649	Horror! Fantasmas da Casa de Câncer!
+650	Não!!! Não machuque Shunrei!!!
+651	Shiryu rugiu!
+652	A armadura de Dragão já não pode mais aguentar o poder de Shiryu
+653	Shaka! O homem mais próximo de Deus!
+654	Seiya, Shiryu e Shun são derrotados facilmente por Shaka de Virgem.
+655	Neste momento, direto da Ilha da Rainha da Morte, Ikki aparece na casa de Virgem.
+656	Ikki queima o seu cosmo até o máximo, na tentativa de explodir junto com Shaka
+657	Ikki: Shun, se realmente existir vida após a morte, vamos ser irmãos de novo....
+658	Shun: Irmão ......
+659	Ártico! Casa de Libra Congelada!
+660	Pouco tempo atrás, na outra dimensão
+661	Shun: Hyoga!!!
+662	Camus: Meu amado discípulo, Hyoga,
+663	Se você continuar a avançar,
+664	certamente vai morrer nas mãos dos outros cavaleiros de ouro,
+665	Com isso,
+666	Shiryu usa a espada de libra pra cortar o Esquife de Gelo,
+667	Mas Hyoga ainda não acorda.
+668	Shun: Hyoga, eu vou queimar o meu cosmo ao máximo para aquecer você,
+669	No entanto, ou você acordará,
+670	ou minha vida será consumida antes.....
+671	Provação! Pedido do Sagitário!
+672	A armadura de Sagitário atira a flecha dourada no sentido do muro,
+673	No muro aparecem algumas palavras:
+674	Aos jovens que aqui chegaram! Eu lhes confio Athena.....
+675	——Aioros”
+676	Shura! O Detentor da Excalibur!
+677	Shiryu usa o golpe Ultimo Dragão
+678	Sacrificando-se junto de Shura de Capricórnio
+679	Shura: Shiryu, você deve continuar a viver, para proteger Athena até o fim.
+680	E eu, me tornarei uma estrela, e protegerei Athena aqui do céu....
+681	Eu deixarei que a armadura de Capricórnio o proteja para que volte em segurança, .
+682	Rosas Fúnebres! Batalha Decisiva com o Grande Mestre!
+683	Shun derrotou Afrodite de Peixes,
+684	Pétalas por toda parte, como em um grandioso funeral de rosas.
+685	Contudo, Shun foi atingido pela Rosa Sangrenta do Afrodite, ficando à beira da morte.
+686	Ao mesmo tempo, Marin chega na casa de Peixes
+687	Marin tira a própria máscara e a coloca no rosto de Seiya,
+688	E acaba desmaiando pelo veneno das rosas demoníacas do caminho.
+689	Seiya lentamente se recupera......
+690	Ikki impede o golpe fatal que Seiya ia receber de Saga, todos concentram o cosmo em Seiya.
+691	Seiya lança o cometa de Pégasus, acertando e derrotanod Saga
+692	Em seguida, Seiya sai cambaleando em direção à estátua de Athena.
+693	Bem e Mal! A Confusão de Gêmeos!
+694	Desperte! O pesadelo do Leão!
+695	Antes da flecha dourada atingir o corpo de Saori Kido
+696	Aioria invadiu o palácio do Grande Mestre
+697	Preparado para questionar o Grande Mestre, que sempre se escondia atrás da máscara da conspiração
+698	O justo Leão de ouro
+699	Já tomado pelo Satã Imperial
+700	Teve tirado de seu coração o último vestígio de luz
+701	Leão finalmente retorna a consciência, mas Cássios pagou com sua jovem vida
+702	Inimigos ainda mais poderosos os aguardam à frente, cavaleiros de bronze
+703	A armadura de ouro de Sagitário
+704	Desaparecida há muito tempo, de repente surge na casa de leão
+705	Em seguida, se veste no corpo de Seiya
+706	Restrição! A Picada Letal do Escorpião!
+707	A agulha letal do escorpião atinge o coração de Dragão e Pégasus
+708	Andrômeda também se sacrificou...
+709	Apenas para dar a seus amigos
+710	uma última esperança de vitória.
+711	Hyoga finalmente desperta em meio a suavidade do cosmo de Shun
+712	Porém Shun estava exausto e caiu no caminho para a Casa de Escorpião
+713	Finalmente foi possível passar pela Casa de Escorpião, mas à frente havia um inimigo ainda mais terrível
+714	Mas de qualquer forma, não pode desistir de sua fé
+715	Mesmo que você seja derrubado cem vezes, você também pode se erguer cem vezes
+716	Esta a fé dos cavaleiros!
+717	Ar Frio! O Zero Absoluto!
+718	Hyoga que estava selado em um grande caixão de gelo
+719	Relembrou dos dias de treinamento com o mestre Camus
+720	E pedaço por pedaço, o esquife de gelo foi se despedaçando
+721	Acorde, Hyoga, acorde
+722	O mestre Camus de suas memórias repetia essa frase
+723	Finalmente, Hyoga sob o treinamento de Camus conseguiu dominar o zero absoluto
+724	Arduamente, Hyoga finalmente pereceu com Camus na casa de Aquário
+725	Uma neve incessante começou a cair do céu, parecendo uma nevasca
+726	Uma gentil despedida
+727	Você foi teletransportado para o campo de batalha da Guerra Santa
+728	Testemunhando essa batalha, você entenderá melhor a missão de um Cavaleiro
+729	Hades ressuscitou e controla os Cavaleiros de Ouro mortos
+730	Espectros sob a liderança de Saga, Shura e Camus atacam as Doze Casas!
+731	Mesmo o antigo Grande Mestre, Shion de Áries ficou contra Athena, os cavaleiros enfrentam uma crise nunca vista antes
+732	Ressuscitar os Cavaleiros de Ouro para que os cavaleiros lutem entre si
+733	Tudo isso era conspiração do Imperador Hades
+734	Para evitar mais derramamento de sangue, a deusa decidiu sacrificar-se para descer sozinha ao Submundo e encarar Hades!
+735	Guerreiro Invencível
+736	Escute! O básico para destruir objetos
+737	é esmagar os seus átomos.
+738	Concentre a sua força
+739	Parece que você já está qualificado para participar da competição pela armadura
+740	A Armadura de Pégasus será minha
+741	Você já está qualificado para participar da competição pela armadura no santuário.
+742	Armadura de Cisne
+743	será minha
+744	Força bruta por si só não é suficiente
+745	As lutas da competição no Santuário estão prestes a começar
+746	Se você quer a armadura,
+747	precisa primeiro compreender a força do cosmo
+748	Mestre Ancião, eu conquistarei a Armadura de Dragão
+749	Não imaginava que em seu corpo houvesse tal poder
+750	Conseguirei a Armadura de Andrômeda, Mestre.
+751	Agora que entrou aqui, será impossível escapar
+752	Faça, Radamanthys!
+753	Ah!
+754	Pessoas que buscam poder, ah! Parecem ser os fantoches perfeitos.
+755	Sim, ele sempre acatará nossas ordens após completarmos a cerimônia.
+756	Ahhh! Dói tanto!
+757	Daqui a pouco você vai se sentir muito melhor
+758	O que? É Athena! Droga!
+759	Infelizmente apenas a memória foi apagada, mas ele ainda pode ser útil
+760	Eu me tornarei o seu guia
+761	e mostrarei os caminhos para completar nossos objetivos
+762	Odeie
+763	Odeie seus inimigos, odeie tudo nesse mundo
+764	Você não precisa de compaixão, nem de fraqueza! Use o poder do ódio...
+765	e destrua tudo que encontrar diante de seus olhos!
+766	Ninguém pode me impedir de ir ao Santuário
+767	A armadura de Fênix será minha
+768	Por que ele desapareceu?
+769	O que está acontecendo?
+770	As respostas serão dadas no futuro.
+771	Por ora, apenas saia daqui.
+772	O que foi isso?
+773	Ah, que decepção!
+774	É essa a velocidade de seus golpes?
+775	Idiota!
+776	Cavaleiro de Bronze insignificante!
+777	Muito lento!
+778	Antes que morra, te levarei para ver uma pessoa.
+779	Aqui é...
+780	o Santuário?
+781	Por que me trouxe até aqui?
+782	Marin!
+783	Isso é...
+784	Acredito que conheça esta pessoa.
+785	Solte-a!
+786	Eu não a aprisionei.
+787	Serei sempre fiel ao Senhor.
+788	Isso... Isso é impossível!
+789	Marin escolheu ser fiel a mim, não lute contra isso.
+790	Ahn?
+791	Como você...?
+792	Os Cavaleiros devem prezar pelo amor e pela justiça.
+793	Poupe-me dessa sua conspiração!
+794	É uma surpresa você ter percebido a ilusão que criei, mas não se anime demais.
+795	Relâmpago de Plasma!
+796	Que imbecil! Você nunca teve uma chance contra mim!
+797	Mesmo que arrisque minha vida, eu vou te derrotar!
+798	Não me faça rir!
+799	Está apenas cavando seu próprio túmulo!
+800	Tch, tch.
+801	Detesto esses vermes imprudentes!
+802	Ondas do Inferno!
+803	Vá para o Inferno e encontre seu destino!
+804	Deixe que aqueles que eu matei te atormentem.
+805	Eles não podem morrer e sofrem eternamente, odiando cada criatura viva!
+806	Aproveite!
+807	Você está brincando!? Não quero morrer num lugar como este!
+808	Já que insistem em resistir...
+809	Vou mandá-los pessoalmente lá para baixo!
+810	Ei, irmão!
+811	Ei, irmã!
+812	Quem é você? Por que está aqui?
+813	Eu morri?
+814	Posso sentir um Cosmo agradável...
+815	A Armadura está me dando forças...!
+816	Queime, Cosmo!
+817	Cólera do Dragão!
+818	Eu não vou ficar neste lugar!
+819	Mesmo que eu morra, não será aqui!
+820	Eu voltei do inferno, Máscara da Morte.
+821	Não conte vantagem!
+822	Você apenas veio aqui para morrer.
+823	Mergulhe direto para o Inferno!
+824	Ciclo das Seis Existências!
+825	Ohm!
+826	O que é isso?
+827	É um Cosmo esmagador!
+828	Rendição Divina!
+829	Mesmo após receber minha Rendição Divina,
+830	você ainda consegue ficar de pé?
+831	Isso é tudo que você tem?
+832	Admiro a sua perseverança,
+833	Eu lhe subestimei.
+834	Como compensação, lhe mostrarei a minha verdadeira força!
+835	Tesouro do Céu!
+836	O quê?
+837	Privação do primeiro sentido!
+838	Você perdeu o seu tato! Agora é um incapaz!
+839	O... O quê?
+840	Está incapaz de utilizar seus punhos!
+841	Não brinque comigo, eu ainda vou te derrotar!
+842	Hunf! Parece que estou pegando leve com você.
+843	O próximo será...
+844	Olfato
+845	Eliminado!
+846	Paladar
+847	Visão
+848	Quais são as suas últimas palavras antes que perca seus cinco sentidos?
+849	Eu... Ainda vou... Te...
+850	Hunf!
+851	Que o desespero se torne seu último eco aqui neste mundo!
+852	Invocação dos Espíritos Malignos
+853	Demônios e monstros,
+854	Dispersem-se!
+855	Torne-se cinzas em meio a esse fogo ardente do Inferno!
+856	O quê!? Que sensação é essa?
+857	Que Cosmo ameaçador é esse?
+858	Não importa quantas vezes me derrube; enquanto meu Cosmo queimar, a Fênix não será extinta!
+859	O cheiro das rosas misturado com sangue é fascinante!
+860	Que frio! Será que eu morri?
+861	Que lugar é esse?
+862	Aqui é a terra das almas esquecidas.
+863	Então esqueça as almas, e venha lutar!
+864	Mas que pessoa presunçosa!
+865	Você realmente me envergonha.
+866	Traindo meus ensinamentos, contrariando os Cavaleiros de Ouro...!
+867	Mestre, não é isso! Eles estão ocultando a verdade!
+868	Mestre!
+869	Pecador, passará por meu julgamento por trair o Santuário!
+870	Não, eu não traí!
+871	Ah, que inútil!
+872	Como um Cavaleiro, é um absurdo que você não tenha nem a capacidade de proteger a Deusa!
+873	Você é tão inútil!
+874	Hunf! Isso está mesmo um tédio....
+875	O quê?! Como isso é possível?
+876	Você foi descuidado!
+877	Na hora em que me senti mais confuso,
+878	eu senti o espírito de luta da Armadura.
+879	Foi a Armadura que me despertou!
+880	Já está à beira da morte e ainda não quer dar o braço a torcer.
+881	O que são essas pétalas?
+882	Hmm, começou a ficar interessante.
+883	Mestre, não é isso! Eles estão ocultando a verdade!
+884	Mestre!
+885	Os seus ataques definitivamente não me atingem!
+886	Afinal, todas as suas habilidades de luta
+887	foram ensinadas por mim!
+888	Não fique se achando, você é apenas uma ilusão!
+889	Hunf, o que acha que está vendo?
+890	Pare de falar besteiras!
+891	Que teimosia! Parece que você precisa ver e experienciar um pouco o verdadeiro ar frio!
+892	Realmente é um discípulo de Camus, identificou o meu corpo falso!
+893	Mas, infelizmente,
+894	você ficará aqui pra sempre.
+895	Eu me lembrei...
+896	Eu fui preso no esquife de gelo!
+897	Droga! E agora?
+898	Isso é tudo? Você realmente me envergonha!
+899	Parece que você esqueceu de todos os meus ensinamentos!
+900	Então é assim? Você pretende desistir?
+901	O que você está olhando? Desperte o seu cosmo, estraçalhe esse esquife de gelo!
+902	Estraçalhar... Mas... A minha força...
+903	Se você se diz discípulo de Camus, então prove para que eu veja!
+904	Eu o farei!
+905	Athena...
+906	Por favor, me dê forças,
+907	Mesmo que por uma fração de segundo!
+908	Estou de volta!
+909	Você não apreciou o esquife de gelo que lhe foi dado? Voltou apenas para morrer!
+910	Como... Como é possível?
+911	O ar frio é surpreendente, estão de igual para igual!
+912	Errado. O grande poder de seu ar frio está enfraquecendo!
+913	Errado. O grande poder de seu ar frio está enfraquecendo!
+914	Você apenas adiou o seu destino!
+915	Vá para o inferno!
+916	Parece que eu preciso levar um pouco mais a sério.
+917	Ainda não acabou!
+918	Nada mal, nada mal
+919	Parece mesmo que você não é de todo inútil
+920	É uma pena
+921	Mas a sua força ainda não chega nem perto da dos cavaleiros de ouro
+922	Sinta o terror do meu poder!
+923	Jovem cavaleiro, o caminho adiante está cheio de espinhos
+924	Você consegue suportá-lo?
+925	A força pode conquistar tudo
+926	Para conseguir um poder inesgotável, você terá que seguir pelo caminho do mal
+927	Está preparado?
+928	Ele ainda tem um pouco de energia
+929	Colocarei ele sob meu controle, aposto que terá alguma utilidade
+930	Voltaremos a nos ver
+931	Mas... Que sensação é essa?
+932	Eu não aceitarei seu controle
+933	Não me diga que...
+934	Exato
+935	Suas tentativas de me enganar
+936	são inúteis
+937	No meu interior, eu já havia decidido há muito tempo meus objetivos
+938	A Escama decidiu me apoiar
+939	Prepare-se
+940	Então
+941	você já não tem mais utilidade
+942	Você mal consegue ficar em pé! Vou te mandar para o inferno!
+943	Eu não esperava que escondesse esse poder
+944	Depois da explosão de seu cosmo, a intensidade de sua força aumentou
+945	No entanto, minha força ainda está acima da sua
+946	Bom, que poder!
+947	Mesmo que você seja chamado de gênio, não perderei para você
+948	Ah, é essa sensação de novo
+949	Eu venci, Eide!
+950	Veja só, bem na hora, como eu poderia perder?
+951	Bem, esse cosmo
+952	se tornou tão estranho...
+953	Eide
+954	Que rápido!
+955	O cosmo de Eide desapareceu
+956	Como é possível?
+957	Eide, acorde!
+958	&name& esse cosmo é muito perigoso. Impeça-o agora!
+959	Escute...
+960	O universo...
+961	Nasceu há 15 bilhões de anos atrás, no Big Bang.
+962	Na verdade...
+963	Seu próprio corpo é um microuniverso resultante dessa explosão.
+964	Cavaleiros manifestam sua energia explodindo seu universo interior.
+965	Com essa energia, rasgam o céu e abrem fendas na terra.
+966	Essa energia é chamada de Cosmo.
+967	Além do Cosmo...
+968	Cada Cavaleiro tem sua própria Constelação Protetora e uma Armadura
+969	Se a Constelação de Cisne é seu signo guardião,
+970	então sua Armadura deve ser a de Cisne.
+971	Você deve saber...
+972	A Armadura de Cisne tem uma energia gélida extrema. Ao usá-la, terá o ar frio mais intenso
+973	Se a Constelação de Fênix é seu signo guardião,
+974	então sua Armadura deve ser a de Fênix.
+975	A Armadura de Fênix tem a capacidade de se regenerar. Ao usá-la, você terá a imortalidade.
+976	Se a constelação de Dragão é seu signo guardião,
+977	então sua armadura deve ser a de Dragão.
+978	A Armadura de Dragão tem o maior poder espiritual. Seus punhos e escudo serão mais fortes.
+979	Se a constelação de Pégasus é seu signo guardião,
+980	então sua armadura deve ser a de Pégasus.
+981	A Armadura de Pégasus lhe dará velocidade extrema. Ao usá-la, terá os socos mais velozes.
+982	Se a constelação de Andrômeda é seu signo guardião,
+983	então sua armadura deve ser a de Andrômeda.
+984	A armadura de Andrômeda é a única que usa armas. Ao usá-la, terá máxima defesa e ataque.
+985	O fogo das Doze Casas se acendeu. Esse é o sinal do Santuário para repelir os intrusos.
+986	Entrar no Santuário sem permissão é realmente divertido...
+987	A chama da Casa de Áries se extinguiu. Já se passou 1 hora
+988	A chama da Casa de Touro se extinguiu. Já se passaram 2 horas
+989	A chama da Casa de Gêmeos se extinguiu. Já se passaram 3 horas
+990	A chama da Casa de Câncer se extinguiu. Já se passaram 4 horas
+991	A chama da Casa de Leão se extinguiu. Já se passaram 5 horas
+992	A chama da Casa de Virgem se extinguiu. Já se passaram 6 horas
+993	A chama da Casa de Libra se extinguiu. Já se passaram 7 horas
+994	A chama da Casa de Escorpião se extinguiu. Já se passaram 8 horas
+995	A chama da Casa de Sagitário se extinguiu. Já se passaram 9 horas
+996	A chama da Casa de Capricórnio se extinguiu. Já se passaram 10 horas
+997	A chama da Casa de Aquário se extinguiu. Já se passaram 11 horas
+998	A chama da Casa de Peixes se extinguiu. Já se passaram 12 horas
+999	Dica: Correr + pulo duplo pode aumentar a distância e altura do salto ^_^
+1000	Agora você está usando apenas a Armadura Inicial.
+1001	Existem 88 Armaduras de Constelações,
+1002	Você pode se esforçar para juntar todas.
+1003	Junto com o uso do seu Cosmo, a Armadura pode avançar para um novo estado.
+1004	Se trabalhar duro, sua Armadura pode até atingir o nível das Armaduras de Ouro!
+1005	Armadura de Ouro...!
+1006	Vou me esforçar para aumentar meu Cosmo e me tornar um Cavaleiro mais forte!
+1007	Sinto meu corpo cheio de energia...!
+1008	Não podemos mais perder tempo!
+1009	Vocês são mesmo persistentes, ha ha ha ha!
+1010	Quem é?
+1011	Agradeço pelo sangue do Imperador do Submundo.
+1012	Agora vão para o Inferno!
+1013	Saia rápido daqui!
+1014	Mas Rodório...!
+1015	Apresse-se! Eu irei detê-lo.
+1016	Não adianta fugir!
+1017	Hunf! Presunçoso!
+1018	Ainda falta um...
+1019	Pare!
+1020	Seu oponente sou eu!
+1021	O que você acha que pode fazer com esse corpo vazio?
+1022	Enquanto o fogo da minha alma ainda estiver ardendo
+1023	Eu o impedirei!
+1024	Me impedir?
+1025	Ha ha ha ha!
+1026	Então vamos ver!
+1027	Séculos de ressentimentos...
+1028	é hora de acabar com isso!
+1029	Vamos nos transformar em poeira cósmica juntos, Thanatos!
+1030	Este é o orgulho do cavaleiro de Pégasus!
+1031	Este cosmo... é Rodório!
+1032	A alma do primeiro Cavaleiro de Pégasus logo chegará ao seu fim.
+1033	Você! Por que está aqui?
+1034	Apenas atraí um grupo de alquimistas e aprendizes para a floresta...
+1035	O medo deles fez com que entregassem o segredo do sangue do Imperador do Submundo.
+1036	Contudo, quero te agradecer. Pensei que conseguiria a confiança de Alex
+1037	Mas, obviamente, você é mais adequado
+1038	Maldita!
+1039	Fique à vontade, você não vai conseguir fugir mesmo!
+1040	Seja obediente e entregue o sangue do Imperador do Submundo.
+1041	Não vou te entregar!
+1042	Você fala demais, Pandora.
+1043	Senhor Hypnos...!
+1044	Meu corpo... Não consigo me mexer!
+1045	Pegue o sangue e vamos!
+1046	Sim, senhor.
+1047	Fique tranquilo, eu não gosto de matar.
+1048	Sono eterno!
+1049	Jovem justiceiro, cavaleiro das estrelas!
+1050	Este cosmo suave... Será que é...?
+1051	Jamais ceda ao mal! Acorde, meu cavaleiro!
+1052	Athena!
+1053	Cavaleiro da Esperança, entrego-lhe a bênção do Monte Olimpo, representando a Deusa.
+1054	Hunf! Satã...
+1055	...Imperial!
+1056	Bem-vindo ao Santuário.
+1057	Não se preocupe, Isto o enviará para o inferno.
+1058	Relâmpago de plasma!
+1059	Grande chifre!
+1060	Conseguimos!
+1061	Claro que não. Parece que eu preciso dar uma amostra do meu poder a vocês.
+1062	Isso é ruim...
+1063	Nada bom! Se continuar desse jeito...
+1064	Meros mortais ousam ferir a mim, Thanatos!
+1065	Isso é imperdoável!
+1066	É inevitável que o fogo do mal se apague.
+1067	Proteger Athena, o amor e a justiça é a missão de todos nós, Cavaleiros de Ouro,
+1068	Mesmo que percamos a honra ou a vida.
+1069	Shaka...!
+1070	Não importa o quão poderoso seja o inimigo,
+1071	devemos lutar até o fim.
+1072	É só isso que podemos fazer.
+1073	Protegeremos o santuário de Athena por meio da
+1074	Exclamação de Athena!
+1075	O golpe proibido!?
+1076	Apresse-se, nós cuidaremos disso!
+1077	Imagino que a Casa de Áries esteja sem proteção. O quão fácil foi passar por ela?
+1078	No futuro poderá se gabar por ter chegado na casa de Touro, mas não passará daqui.
+1079	Fuja enquanto ainda há tempo!
+1080	Você está procurando problemas...
+1081	Essa pessoa... Não acredito que seja capaz de...
+1082	É, sua habilidade é boa, contudo...
+1083	Se esqueceu de algo importante:
+1084	O seu adversário...
+1085	Sou eu, Aldebaran!
+1086	Mas...
+1087	...você foi muito bem. Hahahaha!
+1088	Lembre-se que a Guerra Santa ocorre desde a era de mitológica
+1089	O desastre aconteceu de repente
+1090	Hades invadiu o santuário
+1091	Athena, a Guardiã da Terra e da paz
+1092	Liderou um contra-ataque feroz contra Hades
+1093	Naquela época, o cavaleiro de ouro de sagitário entregou a sua vida
+1094	em troca da arma de Prometeus
+1095	Quando o mal se aproximou novamente
+1096	Athena utilizou da força do Martelo de Prometeus
+1097	E junto com seus cavaleiros, impediram o ataque do Hades
+1098	E fizeram com que Hades derramasse uma gota de sangue
+1099	Durante milhares de anos, para recuperar o seu poder, Hades está atrás do paradeiro do sangue perdido
+1100	Deixe me lembrar... A história aconteceu há treze anos
+1101	O irmão do Cavaleiro de Leão, Aioria
+1102	era o Cavaleiro de Ouro de Sagitário, Aioros
+1103	Aioros era o cavaleiro mais corajoso e justo
+1104	Porém, treze anos atrás, atraído pela força da escuridão, Aioros traiu Athena
+1105	Aioros tentou matar Athena e foi descoberto pelo Grande Mestre
+1106	Então, ele fugiu do santuário
+1107	O Grande Mestre enviou Shura de Capricórnio para matar Aioros, que morreu na Estrada Esquecida
+1108	Durante todos esses anos, Aioria foi tachado como o 'irmão do traidor'
+1109	Durante a longa batalha
+1110	Sua força foi despertada
+1111	Agora,
+1112	chegou a hora de assumir essa nova força
+1113	Este é o poder da Armadura de Ouro
+1114	Fui derrotado! Terei que lhe entregar o controle
+1115	Mas, lembre-se! No momento que a justiça vacilar no interior de seu coração,
+1116	aproveitarei para dominar o seu corpo novamente
+1117	Como pode existir alguém que possui o cosmo tão poderoso?
+1118	Com a atenção do mundo inteiro,
+1119	Este dia finalmente chegou!
+1120	Vamos partir para ação! Saia da minha frente!
+1121	Nem pensar!
+1122	Parece que ainda não ficou claro a diferença entre a força de um cavaleiro de ouro e a sua
+1123	Como é possível?? Não consigo ver o golpe dele!
+1124	Não adianta resistir! Você não é páreo para mim
+1125	Eu nunca vou deixar você levar a armadura
+1126	Que forte!
+1127	Mesmo que perca a vida,
+1128	vou te impedir!
+1129	Meteoro de Pégasus!
+1130	Hunf! Isso é tudo?
+1131	Vou te mostrar o que é velocidade
+1132	Ah, Seiya
+1133	A Armadura de Sagitário?
+1134	Por quê?
+1135	Armadura...
+1136	Naquela direção está o Santuário
+1137	Aioria, você ainda não entende?
+1138	Esse cosmo é tão forte e suave
+1139	Será que ela realmente é Athena
+1140	Senhorita Saori
+1141	Seiya, você ganhou
+1142	A armadura é sua
+1143	A montanha vai desmoronar. Vão embora!
+1144	Vão embora!
+1145	Venha com a gente!
+1146	Não, talvez, esse seja o meu destino
+1147	Adeus, meu irmão
+1148	Aqui é muito perigoso. Deixe eu levá-los para longe
+1149	Finalmente, saí dessa floresta de pesadelos
+1150	Está acabado, Athena
+1151	Isto... Parece ter acontecido há muito tempo...
+1152	É um sonho ...?
+1153	Esta nova armadura foi obtida a custo do sangue de Shiryu
+1154	Vou usá-la para alcançar a vitória
+1155	Eles estão chegando
+1156	Isso foi há treze anos
+1157	Meu avô, Mitsumasa Kido, encontrou um guerreiro muito ferido enquanto viajava pela Grécia
+1158	Era o Cavaleiro de Ouro de Sagitário, Aioros
+1159	Aioros disse a meu avô
+1160	que o bebê nos seus braços era a reencarnação da deusa Athena, e que forças do mal queriam matá-la
+1161	Antes de morrer, Aioros confiou a armadura de Sagitário e Athena ao vovô
+1162	Por favor, a proteja! Athena é a única esperança desse mundo, disse ele
+1163	Aquele bebê
+1164	era eu
+1165	Shiryu, eu te dou cobertura!
+1166	Está bem!
+1167	Receba o meu golpe, Máscara da Morte!
+1168	Só isso? Esse é o seu máximo?
+1169	Shiryu, agora!
+1170	Dragão Voador!
+1171	Muito bem, Shiryu!
+1172	Vocês são só Cavaleiros de Bronze...!
+1173	Shiryu, cuidado!
+1174	Quem? Ahn?
+1175	Máscara da Morte...
+1176	O quê? Mestre Ancião...!
+1177	Você!
+1178	Pouparei suas cabeças por enquanto.
+1179	Espero vocês no Santuário!
+1180	Shiryu, vamos ver quem é o melhor!
+1181	Vamos, amigo!
+1182	Cólera do Dragão!
+1183	O que aconteceu com você, amigo? Acorde logo!
+1184	Aqui é onde nós praticávamos...
+1185	Temos que nos tornar mais fortes, Shiryu!
+1186	Shiryu, não desista!
+1187	Lei-Hu, por que você ficou assim?
+1188	Você não se lembra do Mestre Ancião, de Rozan...?
+1189	Acorde!
+1190	Me... Mestre Ancião...
+1191	Idiota! Para escapar de meu controle, apenas com a
+1192	MORTE!
+1193	Morra, Shiryu!
+1194	Me desculpe, amigo...!
+1195	Eu perdi... Você finalmente se tornou o mais forte, Shiryu...
+1196	Lei-Hu...!
+1197	Agora vou mandá-los para o inferno!
+1198	Tch, tch...
+1199	Deixem isso comigo! Vocês dois, não fiquem aqui atrapalhando!
+1200	Vão embora!
+1201	O que é isso? Não posso nem me distrair que aparece
+1202	mais um rato?
+1203	Então,
+1204	Que venham todos!
+1205	Droga!
+1206	Lei-Hu!
+1207	Fracotes!
+1208	Maldito!
+1209	Ninguém vai embora!
+1210	Não vou morrer antes de te derrotar, Shiryu.
+1211	Vão embora, rápido!
+1212	Shunrei!
+1213	O único jeito de salvar Shunrei é revertendo o fluxo da Grande Cachoeira...
+1214	Eu prometo que vou conseguir, Shunrei!
+1215	Ele compreendeu o golpe...!
+1216	Diga o seu desejo, irei realizá-lo
+1217	Bondade
+1218	Entendido. Realizarei o seu desejo.
+1219	Dragão
+1220	Você acha que pode nos derrotar assim?
+1221	Mostraremos o verdadeiro poder do Deus dos Sonhos para você
+1222	Isso é tudo?
+1223	Esse cosmo...
+1224	será....
+1225	Todos os que conhecem a verdade devem morrer
+1226	Explosão Galáctica
+1227	Fuja... Rápido...
+1228	Sher Khan...
+1229	Vamos ver quem vai salvá-lo desta vez
+1230	Não! Não perturbe! Estou perdendo o cosmo dele
+1231	Cavaleiros, protejam a Deusa!
+1232	O destino muda constantemente, assim como as fases da lua
+1233	A experiência de vida tem altos e baixos, alegria e tristeza, união e separação
+1234	Enfim, tudo se resume em um sono tranquilo, desaparecendo como gelo e neve
+1235	E a roda do destino gira constantemente, de forma incansável
+1236	A felicidade é passageira, restando apenas sofrimento e tortura
+1237	A sua deusa traz ódio e medo às pessoas
+1238	Ao mesmo tempo faz com que as pessoas a venerem por medo da punição divina
+1239	No momento eu toco as cordas e invoco as palavras de Deus
+1240	Permita-me ouvir o triste destino, seja ele de vida ou de morte
+1241	Ele derrotou a Treva do Oceano, não podemos perdoá-lo!
+1242	Espere
+1243	Eu ainda tenho algo para lhe perguntar
+1244	Salve-me
+1245	Eu posso torná-lo o rei desse mundo
+1246	Onde quer que haja pedras
+1247	Elas podem ser esmagadas
+1248	Haha, finalmente, estou livre
+1249	É a hora!
+1250	Despertem, oh, ressentimentos adormecidos nas profundezas da Ilha da Rainha da Morte
+1251	Seiya, vocês são guerreiros escolhidos por Deus, os cavaleiros da esperança
+1252	Não podem morrer
+1253	Esse cosmo é....
+1254	Parece que as coisas não são tão simples assim. Vou poupá-los por enquanto
+1255	Ótimo, é só derrotá-lo e meu irmão acordará
+1256	Vocês realmente acham que podem me derrotar?
+1257	No mundo da ilusão criado por mim, sou o Deus todo-poderoso
+1258	Ninguém pode me matar.
+1259	Shun
+1260	Boa defesa. Mas deixe-me mostrá-los a força que Guilty me deu.
+1261	Ir...Irmão....
+1262	Acha que esta ilusão é capaz de me deter?
+1263	Ave Fênix!
+1264	Criatura ignorante!
+1265	Já que você quer tanto morrer
+1266	Tesouro do Céu!
+1267	Deus lançou sua punição
+1268	O vulcão entrou em erupção!
+1269	Mesmo que eu não faça nada
+1270	Você não escapará da morte
+1271	Ikki
+1272	Não diga mais nada
+1273	Mas...
+1274	Vocês têm coisas mais importantes a fazer
+1275	E a Ilha da Rainha da Morte é a minha casa
+1276	portanto, tenho que defendê-la
+1277	Acer
+1278	Parece que você decidiu ser meu inimigo
+1279	Hyoga
+1280	Dou-lhe mais uma última chance
+1281	Se não aceitar, não me culpe depois...
+1282	Esqueça, Alexer!
+1283	Eu vou deter a sua conspiração e conseguir o oricalco
+1284	É realmente... Uma pena
+1285	Mas esta é a resistência que eu esperava!
+1286	Impulso azul!
+1287	Ataquem!
+1288	O Cavaleiro de Cisne jamais cederá!
+1289	Pó de Diamante!
+1290	Hunf... Desta vez vou deixar passar!
+1291	Mas em um futuro não muito distante, o poder de Cisne será usado por mim
+1292	Kanon, por quê?
+1293	Eu abandonei a identidade de substituto do Cavaleiro de Ouro de Gêmeos há muito tempo
+1294	agora...
+1295	Eu sou o General Dragão Marinho
+1296	Vou mostrá-los o verdadeiro poder de um
+1297	dos 7 Generais Marinas
+1298	Triângulo de Ouro!
+1299	O Oricalco...
+1300	Você não vai conseguir!
+1301	Que ingênuo
+1302	vocês
+1303	vão pagar por isso!
+1304	Isaak
+1305	Ele não morreu, ainda está vivo!
+1306	Alexer, você chegou a alguma conclusão?
+1307	Guerreiros de Asgard
+1308	Não desejamos guerra
+1309	Mas quando a invasão ocorre
+1310	Usamos nossos próprios corpos para defender nossa pátria
+1311	Muitos irmãos se sacrificaram pela vitória
+1312	Mas, enquanto ainda estamos de pé aqui, ninguém...
+1313	Poderá nos derrotar
+1314	Levantem-se, guerreiros!
+1315	Lutem por Asgard!
+1316	Kanon
+1317	Não deixe que ele estrague o meu plano
+1318	Parece ser o único jeito
+1319	Satã Imperial!
+1320	Quanto tempo...
+1321	eu dormi?
+1322	Preciso da sua força, Hyoga
+1323	Venha para nosso lado
+1324	Nem pensar! Não serei cúmplice na sua invasão ao sul
+1325	Pó de Diamante!
+1326	O quê? Meu golpe não surgiu efeito?
+1327	Hunf, Impulso Azul!
+1328	Levem-no!
+1329	Ah?
+1330	Esta é uma luta entre mim e ele! Não interfira!
+1331	Hunf, não acredito que você se aliaria aos cavaleiros de Athena
+1332	Não importa!
+1333	Chega de bobagem!
+1334	Para onde você está olhando?
+1335	Ventos de Furacão!
+1336	Destruam o pilar principal
+1337	Ataquem!
+1338	Impossível!
+1339	Vocês... Não os perdoarei!
+1340	Você falhou, Poseidon
+1341	O que você está segurando?
+1342	A Ânfora da Athena
+1343	Desculpe, Athena
+1344	Despertar nessa era nunca foi a sua intenção mesmo. Volte a dormir, Poseidon
+1345	Pare, Athena! Você vai se arrepender!
+1346	Manter a paz no mundo é a minha missão!
+1347	Essa sua fraqueza, nem merece ser morto por mim
+1348	Mas eu ficaria feliz em mandá-lo para o outro mundo
+1349	Mais desesperado do que imaginei
+1350	Assim como você deseja...
+1351	Aioria
+1352	Sem pressa! Daqui a pouco é a vez de vocês
+1353	Não pode terminar assim
+1354	&name& você é a última esperança
+1355	Athena está contigo
+1356	Como se atreva a entrar no Sagrado Submundo?
+1357	Enquanto ainda não o encontrarem,
+1358	mate-o!
+1359	Golpe final
+1360	É Athena! Segurem ela!
+1361	Fantasmas esfomeadas e imprudentes, venham
+1362	Suas cotas já se tornaram negras
+1363	Procurem o destino de vocês na reencarnação
+1364	Kanon, acertaremos as contas mais tarde
+1365	Senhor, deixe esse Cavaleiro conosco, por favor!
+1366	Idiota, mesmo centenas de vocês, não seriam páreo para ele!
+1367	Que amor aos subordinados! Vocês podem ir!
+1368	Quê? Idiota! Não seja arrogante!
+1369	Você vai sentir o nosso poder!
+1370	Gostariam de ver o que é o verdadeiro 'poder'?
+1371	Que falta de emoção!
+1372	De... Desapareceu?
+1373	Pandora
+1374	Vocês nunca passarão por aqui!
+1375	Meteoro de Pégasus
+1376	Detenham-nos!
+1377	Vamos!
+1378	Se quer me matar, terá que impedir o eclipse, caso contrário, não permitirei que ninguém morra
+1379	Então, Athena? Não estava disposta a entregar sua vida voluntariamente?
+1380	Acorde logo!
+1381	O que aconteceu?
+1382	O sangue de Athena... Está muito quente!
+1383	Consigo sentir...
+1384	Consigo sentir o cosmo do Shun
+1385	Enquanto eu viver, tenho a obrigação de proteger todas as vidas e é por isso que reencarnei nessa era. Saia do corpo do Shun, Hades!
+1386	Você já deve entender agora que não tem sentido continuar lutando. Interrompa o eclipse, Hades.
+1387	Eu quero que você seja como eu
+1388	Eu vou te destruir
+1389	Suas únicas cordas que podem emitir as notas de ataque já foram cortadas por mim
+1390	Agora, morra!
+1391	Sua cara de desespero me deixa feliz
+1392	Desde que você veio aqui, eu nunca mias pude tocar para o Senhor Hades
+1393	Vou te dizer a verdade antes da sua morte .
+1394	O sol que estão vendo é a minha obra-prima
+1395	Maldito Orfeu!
+1396	Balança da Maldição!
+1397	Você...
+1398	Usou seus dentes para segurar as cordas?
+1399	Arayashiki
+1400	A Guerra Santa está prestes a começar. Eu posso sentir seu cosmo
+1401	Vocês devem despertar o Arayashiki
+1402	Suas experiências anteriores já não podem ajudar
+1403	É necessário novas experiências para esta batalha
+1404	Novas experiências
+1405	Sim...
+1406	Para derrotar os Cavaleiros de Ouro, vocês deverão queimar seu cosmo até o nível mais alto
+1407	ou seja,
+1408	Despertar seu sétimo sentido
+1409	Sétimo sentido?
+1410	Isso!
+1411	Sétimo sentido é uma existência que ultrapassa os seis sentidos comuns
+1412	Vocês devem compreendê-lo
+1413	Suas Armaduras também devem ser reparadas
+1414	Parece que a armadura está carregada de energia
+1415	Vamos! Não temos muito tempo!
+1416	Você não é meu adversário
+1417	Vá embora daqui!
+1418	Como posso ser derrotado aqui?
+1419	Saori, vou te salvar!
+1420	Queime, meu cosmo!
+1421	Meteor de Pégasus!
+1422	É uma força completamente diferente da anterior
+1423	Terei que levar isso a sério.
+1424	Supernova Titânica!
+1425	Irei levá-los para encontrar o Grande Mestre
+1426	Mas...
+1427	... em forma de cadáveres!
+1428	Receba meu golpe!
+1429	Flechas Fantasmas!
+1430	Hehehehe
+1431	Vocês não podem salvar esta mulher
+1432	Aos jovens que aqui chegaram, eu lhes confio Athena   ---- Aioros
+1433	Cássios
+1434	Apenas desta forma ele despertará
+1435	Apresse-se!
+1436	Parece que meu acervo de coleções vai ganhar um novo espécime
+1437	Mergulhe nesse sono sem fim
+1438	Desista
+1439	Vocês definitivamente não conseguirão escapar
+1440	Foi por coisas insignificantes
+1441	que veio perturbar o meu sono?
+1442	Oras,...
+1443	Quer morrer?
+1444	Vamos nos divertir um pouco!
+1445	Não tente atravessar lá em vão
+1446	Está morto?
+1447	Levante-se
+1448	Pare, Shura
+1449	Não adiantar tentar explicar
+1450	Já que é assim, eu também não tenho escolha senão usar toda minha força e por nossas vidas em risco
+1451	Trovão atômico
+1452	Flecha dourada
+1453	Hunf, vá para o inferno!
+1454	Receba
+1455	Shura
+1456	Tome! Morra!
+1457	Alcancei
+1458	Antes de salvá-lo, salvem-se a si mesmos
+1459	Eu não posso envolver vocês nisso
+1460	Venha aqui, por favor
+1461	Pegue
+1462	Belo golpe
+1463	Como eu queria conhecer a verdade
+1464	Apenas venha comigo
+1465	Socorro... Salve-me!
+1466	Até que enfim você descobriu
+1467	Quem é?
+1468	Não fique nervoso
+1469	O que acontecerá em seguida será ainda mais interessante
+1470	O escolhido precisa selecionar uma Escama para aceitar o desafio
+1471	Desejo que você
+1472	encontre uma resposta o mais breve possível
+1473	Boa sorte
+1474	Chegando só agora? Que lento!
+1475	Parece que vocês precisam treinar mais um pouco
+1476	Coragem! Passem pelo teste de Fogo do Leão
+1477	^ff0000(ao atrair o examinador do teste do Leão para as chamas poderá dar o golpe final)
+1478	Protejam o caminho para o Santuário
+1479	Não deixe nenhum inimigo passar! Se não, o resultado vai ser desastroso!
+1480	Avante! Pelo Senhor Hades! Destruam o santuário!
+1481	Eu realmente não esperava que vocês derrotassem um Espectro
+1482	Surgiu um cosmo sinistro perto da estátua de Athena
+1483	Vá logo proteger a estátua de Athena
+1484	Me siga
+1485	Não demore mais
+1486	Como o Imperador do Submundo permitiu minha reencarnação, lutarei por ele
+1487	Seus canalhas! Lutando em meio a esse sofrimento
+1488	Bem-vindo à ilusão de Peixes
+1489	Eu sou Afrodite, o guerreiro da beleza
+1490	Me derrote
+1491	E lhe admitirei como um cavaleiro
+1492	Capture Saori Kido
+1493	Vamos, meu bebê
+1494	Capture-a para mim
+1495	Saori Kido
+1496	Chegou sua hora
+1497	Vamos parar por aqui
+1498	Mesmo que pudesse salvá-la, isso não teria sentido algum
+1499	porque
+1500	O Senhor Poseidon
+1501	já despertou
+1502	Além disso,
+1503	preparei uma agradável surpresa para você
+1504	Espero que você goste
+1505	Para proteger esse povo das terras gélidas
+1506	Mesmo que me torne seu inimigo
+1507	Eu não vou hesitar
+1508	Dohko
+1509	Imperdoável
+1510	Venha comigo, Saga. Eu mesmo vou com você dar um fim nisso
+1511	Saga
+1512	Por que você ainda hesita?
+1513	Veremos por quanto tempo você ainda vai aguentar.
+1514	Esta batalha é desnecessária...
+1515	Logo vocês entrarão em um sono profundo e eterno.
+1516	Ele fugiu!
+1517	Deixe, ele não é prioridade.
+1518	Temos coisas mais importantes para tratar.
+1519	Que pressão forte!
+1520	Meu corpo e a armadura parecem estar sendo esmagados
+1521	Se continuar desse jeito, talvez eu morra aqui
+1522	Será que
+1523	é verdade que só um deus pode chegar aos Campos Elíseos?
+1524	Será que é esse o poder de um cavaleiro de ouro?
+1525	É tolice demais
+1526	Fazer com que eu, o Imperador do Submundo, venha pessoalmente te executar é uma honra
+1527	Morra, Pégasus!
+1528	Vamos acabar com essa guerra
+1529	Concordo plenamente
+1530	Hades, com certeza, farei com que você seja punido
+1531	Athena, você está aqui apenas para ver sua humanidade mesquinha morrer
+1532	Sinta o poder da justiça
+1533	Isso não é possível
+1534	Eu sou o Imperador do Submundo! Eu não acredito! Não poso acreditar!
+1535	Cada um de nós vai voltar para o mundo da luz
+1536	Contanto que seu poder desapareça, Athena, eu conseguirei dominar todo o universo
+1537	Parem!
+1538	Muitas pessoas já foram sacrificadas!
+1539	Devemos parar agora com essa guerra!
+1540	Por amor e paz...
+1541	Pela salvação eterna...
+1542	Pela purificação de toda terra manchada de sangue...
+1543	Lute ao meu lado!
+1544	Não
+1545	Foi apenas um sonho?
+1546	O que está acontecendo?
+1547	Farei com que os remanescentes do Submundo sintam a punição divina!
+1548	Este é o poder do Cavaleiro de Virgem? Incrível!
+1549	Vai fugir, é?
+1550	Venha comigo, depressa!
+1551	Hunf...
+1552	Não ligue para ele
+1553	Vamos logo
+1554	Onde... Eu estou?
+1555	Finalmente acordou!
+1556	Você dormiu por um bom tempo...
+1557	Uh...
+1558	Onde estou?
+1559	Oh, é uma Sereia...
+1560	Responda-me, por que o mar te trouxe?
+1561	Se a Estrela da Fúria é seu signo guardião,
+1562	então sua armadura deve ser a de Wyrm.
+1563	Ao vestir a Armadura de Wyrm, você terá o poder das trevas.
+1564	Se o místico Dragão Marinho é seu signo guardião,
+1565	então sua escama deve ser a de Dragão Marinho
+1566	A Escama de Dragão Marinho tem a força sagrada do oceano. Ao usá-la, controlará os mares
+1567	Isso é tudo que você tem?
+1568	Deixe-me ver a sua verdadeira força...
+1569	Isso mesmo...
+1570	Só mais um pouco...
+1571	Viu?
+1572	Este é o seu verdadeiro poder.
+1573	No final, eu estava certo sobre você.
+1574	Ha ha ha!
+1575	Oh, você quase alcança a velocidade da luz! Os ataques vêm de todas direções
+1576	Mas, infelizmente...
+1577	Comecei a te achar entediante
+1578	Veja
+1579	O verdadeiro poder
+1580	Interessante!
+1581	Ahhhh!!!!
+1582	Acabou?
+1583	Você deveria ficar feliz por eu ter mudado de ideia temporariamente
+1584	Mas lembre-se: para regenerar o corpo é preciso uma nova explosão do cosmo
+1585	Ainda vamos nos encontrar de novo
+1586	Parece que o cosmo está fluindo no meu corpo
+1587	Eu sou o vencedor
+1588	Oh, Cássios perdeu!
+1589	Não consegue nem ficar em pé
+1590	Seu nível...
+1591	Não é suficiente para mim.
+1592	Este Cosmo...
+1593	Esta força
+1594	Eu não consigo controlar
+1595	Que... Que força incrível
+1596	O que é aquilo?
+1597	Tem alguma coisa errada
+1598	Se a constelação de Lira é seu signo guardião,
+1599	então sua armadura deve ser a de Lira.
+1600	A Armadura de Lira possui uma bela afinação musical. Ao usá-la, você terá o poder da música
+1601	希望的少年啊！
+1602	聚集到雅典娜的身边吧！
+1603	测试动画
+1604	章节封面
+1605	

@@ -1,0 +1,474 @@
+0	Sucesso sem erros
+1	Alvo Incorreto
+2	Alvo distante demais
+3	Erro grave: instrução incorreta
+4	Quando o personagem morre, não é possível receber esse comando
+5	Item específico não foi encontrado no pacote
+6	Não é possível recolher este item
+7	Inventário cheio
+8	Não é possível equipar esse item
+9	Não é possível atacar agora
+10	Não é possível convidar agora
+11	Falha ao juntar-se à raide
+12	O jogador está processando o convite que você enviou previamente, por favor, tente novamente após 30 segundos
+13	Solicitação para juntar-se à raide expirada
+14	Falha ao utilizar serviço
+15	Solicitação de função de serviço incorreta
+16	Material requerido para troca ou fundos insuficiente
+17	Primeiro, você precisa sair da Luta
+18	Item não pode ser utilizado
+19	Quest indisponível
+20	Não é possível liberar habilidade
+21	Não é possível fortalecer ou cravejar
+22	Durante a luta, não é possível usar Circular assim
+23	Não é possível complementar tempo da Espada Voadora
+24	Ingrediente insuficiente
+25	Falha ao produzir
+26	Falha ao desmontar
+27	Agora não é possível sentar-se
+28	Agora não é possível substituir o equipamento
+29	Este material está sendo usado
+30	Sua ferramenta de coleta não corresponde
+31	Falha ao abrir objeto
+32	Outras operações em progresso
+33	A senha contém caracteres não permitidos
+34	Senha Incorreta
+35	Armazém não foi aberto, não é possível acessá-lo
+36	Moeda no armazém insuficiente
+37	Solicitação para formar grupo recusada
+38	Ser rejeitado junto com expressão da face
+39	Barra de equipamento bloqueada, não é possível executar essa operação
+40	Não é possível abrir loja
+41	Item Incorreto
+42	Atualmente, está sob status de retirada
+43	Não é possível descartar itens
+44	Permissão Ilegal
+45	Jogador Inexistente
+46	Não é possível cancelar sob status de PVP
+47	Não é possível esquecer habilidades designadas
+48	Sob status de inconsciência, não é possível executar esse comando
+49	Sob status de selamento, não é possível executar esse comando
+50	Nível insuficiente, não é possível executar essa operação
+51	Não é possível entrar na dungeon
+52	Habilidade ainda não foi restaurada
+53	Item ainda não foi restaurado
+54	Agora não é possível voar
+55	Para repor a dungeon é necessário esperar pelo menos 5 minutos
+56	Pacote está sendo bloqueado
+57	O número de pessoas na dungeon atingiu o limite máximo
+58	O número de dungeons atingiu o limite máximo
+59	A base do clã atualmente fecha as portas para visitas educadamente
+60	Essa base de clã só está aberta à passagem para membros dos afiliados ao local
+61	Não é possível se teletransportar para dentro do mesmo tipo de dungeon
+62	Tempo de repouso insuficiente
+63	Não é possível repetir a operação de duelo
+64	Falha ao estabelecer duelo. Por favor, tente novamente
+65	Não é possível fazer isso durante a luta
+66	Sexo não corresponde às condições
+67	Não é possível abraçar desse jeito
+68	Não é possível fazer isso agora
+69	Pet já está em status de invocação
+70	Pet não está na barra de Pets
+71	Pet ainda não saiu para expedição
+72	Pet não come esse tipo de coisa
+73	Campo de batalha ainda não foi aberto
+74	A unidade à qual o clã pertence não pode entrar no campo de batalha aqui
+75	Não é possível obter informações sobre o inimigo
+76	NPC está ocupado
+77	Aqui não é possível invocar montaria
+78	Não é possível reiniciar pontos
+79	As lutas terminaram, não é possível entrar
+80	Não é possível duelar aqui
+81	Não é possível sair para expedição aqui
+82	Não é possível operar mais armas de cerco
+83	Primeiro, é necessário reviver seu Pet.
+84	Pet ainda está vivo
+85	Não é adequado fazer isso aqui
+86	Signo não corresponde
+87	Efeito do amuleto do otimização ainda está em vigor
+88	Não é possível prosseguir com a operação de melhoramento desse equipamento
+89	Eu não posso aprender essa fórmula
+90	Não é possível prosseguir com o aprimoramento desse equipamento
+91	Falha ao remover cravejamento
+92	Falha na operação
+93	O seu cônjuge e você não estão no mesmo canal, ou a outra parte está offline
+94	Atualmente não há pontos que podem ser reiniciados
+95	Falha ao restaurar item em destruição
+96	Falha ao utilizar item
+97	Habilidade de magia ainda não foi recuperada
+98	A localização do alvo está fora do alcance do teletransporte mágico
+99	Sua localização está fora do alcance do teletransporte mágico
+100	Você ainda não se juntou a nenhum clã
+101	O tempo que você tem para se juntar ao clã não é longo o bastante
+102	Este item só pode ser desarquivado para uso após entrar no campo de batalha
+103	Falha ao refinar Artefato Mágico
+104	Falha ao melhorar Artefato Mágico
+105	Falha ao reiniciar Artefato Mágico
+106	Falha ao fundir Artefato Mágico
+107	Falha ao encantar Artefato Mágico
+108	Bloqueio temporário ainda está ativo, não é possível realizar a ação.
+109	Não é possível cultivar equipamento
+110	Prática já chegou ao nível mais alto
+111	Não há Força Mágica o suficiente para prosseguir com o cultivo do equipamento
+112	Você precisa de um Pet para finalizar essa operação
+113	Você já dono de um Pet
+114	Você não são é o dono desse Pet, não pode invocá-lo
+115	Só é possível invocar um Pet para te ajudar
+116	Você precisa invocar um Pet para finalizar essa operação
+117	Falha ao fundir Alma
+118	Pet já foi avaliado
+119	Pet não está em status de expedição
+120	Tempo de recarga da habilidade do Pet
+121	Sua capacidade atual é insuficiente para melhorar o equipamento
+122	Relação empregada removida com sucesso.
+123	Avaliado com sucesso
+124	Pet está sendo recuperado, temporariamente, não é possível invocar
+125	Seu nível é mais baixo do que o nível desse Pet trazido
+126	O destino imortal do alvo atingiu o limite máximo
+127	Força Mágica insuficiente
+128	Você não pode fazer uma crítica a outra pessoa
+129	Você não pode fazer um elogio a outra pessoa
+130	Você já votou
+131	O nível do jogador não é o suficiente
+132	Seu nível é insuficiente
+133	Este item não pode ser consumido por Pet
+134	Nível do Pet insuficiente, não é possível equipar.
+135	HP do alvo é alto demais, não é possível coletar alma
+136	Você precisa de um equipamento de Pet para finalizar essa operação
+137	Qualidade do equipamento não é suficiente, falha ao sintetizar
+138	Nível de dom do Pet insuficiente, falha ao fundir alma
+139	Nível do equipamento auxiliar é alto demais, falha ao derreter o equipamento principal
+140	Atualmente, HP do Pet não precisa ser completada
+141	Pet não pode comer mais alimentos
+142	Renascimento de Pet realizado com sucesso
+143	Sua reputação é insuficiente, não é possível invocar Pet para participar da luta.
+144	Nível do Pet maior do que o seu nível, falha ao invocar
+145	Pet precisa primeiro obter qualificações de Pet
+146	Sua barra de Pet está cheia
+147	Seu pacote está cheio, não é possível receber Pet
+148	Grau de saciedade do Pet está baixo demais
+149	Você não é o dono atual desse animal, não tem direito de renomeá-lo
+150	Pet de herói não pode fazer isso
+151	Nível do pet é alto demais, o nível atual do personagem não é o suficiente para invocá-lo
+152	Número de vitórias do Pet insuficiente, não é possível desafiar o templo
+153	Pet já possui qualificações
+154	Raça do Pet não corresponde às condições para compreender essa habilidade inata
+155	Nível do Pet não corresponde às condições para compreender essa habilidade inata
+156	Natureza do Pet não corresponde às condições para compreender essa habilidade inata
+157	Nível da pontuação do Pet e da ferramenta usada não correspondem aos requisitos
+158	O preço do produto ultrapassa o valor máximo permitido, é necessário refazer a operação
+159	O inventário do jogador está cheio, falha ao vender
+160	A quantidade de dinheiro que você carrega excedeu o limite permitido, temporariamente, não é possível prosseguir com esse tipo de negociação
+161	A quantidade de compras excedeu a quantidade de remessas, falha ao comprar
+162	Solicitação de montaria com muitas pessoas errada
+163	Não é possível prosseguir com a montaria com muitas pessoas
+164	Montaria já está completa
+165	Já convidou para montaria com muitas pessoas
+166	Vigor Insuficiente
+167	Potência Insuficiente
+168	Este monstro não pode ser capturado
+169	HP do monstro é maior do que os requisitos para captura
+170	Não é um domador, não é possível capturar esse monstro
+171	Nível de domador insuficiente, não é possível capturar esse monstro
+172	Falha ao Capturar
+173	Barra de fortalecimento cheia
+174	Quantidade de Coin atingiu o limite máximo
+175	O poder mágico do pet está cheio, não é necessário complementar.
+176	Falha ao delegar Quest do livro
+177	Livro Colecionado
+178	Índice de Vigor Insuficiente
+179	Não é possível cravejar mais Joias do mesmo tipo
+180	Você está perto demais do alvo
+181	Habilidade não pode ser liberada por conta própria
+182	Falha ao reparar equipamento
+183	Não é possível recolher
+184	Recolhendo outros pacotes dropados, não é possível recolher pacote dropado atualmente
+185	Não é possível retomar mochila com Pet em luta
+186	Comprimento do nome do Pet inválido
+187	Alvo não pode ser capturado para ser um Pet
+188	Alvo de captura distante demais
+189	Alvo de captura forte demais
+190	Falha ao capturar Pet, por favor, tente mais algumas vezes
+191	Índice de HP do alvo de captura alto demais
+192	Iniciar “2x EXP" no tempo de recarga
+193	Sua EXP Reserva está cheia
+194	Nome do Pet contém caracteres não permitidos
+195	Falha ao absorver Pedra Protetora
+196	Facção não corresponde, não é possível recolher
+197	A caixa de prêmio dessa dungeon já foi aberta por outro jogador
+198	Prêmio da dungeon já foi aberto
+199	Erro de parâmetro ao abrir prêmio da dungeon
+200	Atualmente está sob status de transformação, não é possível invocar Pet
+201	Número de vezes já atingiu o limite máximo
+202	Falha ao teletransportar, o canal correspondente não existe
+203	Serviço de dungeon inexistente
+204	Não é área de loja, não é possível abrir loja
+205	Abra a loja somente em áreas de segurança!
+206	Não é possível abrir loja em estado de luta
+207	Não é possível abrir a loja quando estiver em movimento!
+208	Muito próximo da loja de outra pessoa, não é possível abrir loja
+209	Estoque de produto insuficiente, falha na compra
+210	Conflito ao cravejar Alma
+211	Quando o cosmo estiver queimando, não é permitido realizar operação
+212	Falha ao ativar Habilidade da Armadura
+213	Falha ao distribuir pontos de ciência e tecnologia
+214	Não é possível recolocar Habilidade de Armadura durante luta
+215	Ponto para voltar da cidade não configurado
+216	Nível do personagem é alto demais
+217	Atualmente, não há prêmio para recomendador
+218	Atualmente, EXP Reserva já atingiu o limite máximo
+219	Hoje, o tempo total do Banho de Glória já atingiu o limite máximo, continue amanhã novamente
+220	Erro Desconhecido
+221	Cartão de presente inativo
+222	Este personagem já usou um cartão do mesmo tipo
+223	Este cartão já foi usado por este personagem
+224	Este cartão já foi usado, e também não é um personagem da aplicação
+225	Cartão de presente inválido
+226	Cartão de presente expirou
+227	Cartão de presente foi usado por essa conta em outro servidor
+228	Erro de comunicação de rede
+229	Esta conta não vinculou este cartão, não é possível receber o prêmio
+230	O status atual do jogador não permite o recebimento do cartão de presente
+231	Golpe de corpo falhou
+232	Conteúdo inscrito longo demais
+233	Não há prêmio de recomendador
+234	Explorar Domínio, Domínio incorreto
+235	Explorar Domínio, quantidade de itens não é suficiente
+236	Síntese de partículas  Partícula errada
+237	Síntese de partículas  Quantidade de partículas insuficiente
+238	Partículas de luz da corrente   Parâmetros incorretos
+239	Fundos, item e prestígio necessários para a compra insuficientes
+240	O pacote da outra pessoa está cheio, não é possível vender itens para ela
+241	Nível de exploração de Domínio não é suficiente
+242	Cultivo do Domínio não dominado
+243	Cultivo do Domínio incorreto
+244	Cultivando Domínio
+245	Erro de uso de habilidade, não está no chão
+246	Em status de inconsciência, não é possível usar habilidade
+247	Nesta semana, há competição nas duas rodadas, não é possível receber prêmio de W.O.
+248	Nesta semana, nesta rodada da competição houve W.O., não é preciso entrar no campo de batalha, por favor, vá diretamente receber seu prêmio de W.O.
+249	Este serviço para a Competição do Universo ainda não foi aberto
+250	Não chegou ao campo de batalha até a hora de abertura, não é possível entrar. Por favor, tente entrar novamente após às 19:55 de sábado
+251	Tempo de criação do personagem (%s) está mais adiantado do que o tempo em que esse tipo de cartão de presente está disponível
+252	Quest para treinar a vista já foi feita
+253	Número de perguntas incorretas
+254	Não é possível concluir Quest
+255	Só é possível bloquear Alma Roxa e acima
+256	Não é possível assistir batalha no horário atual
+257	Prática renovada para %d, é menor do que o índice atual, manter índice atual
+258	Parâmetro Incorreto
+259	Status Incorreto
+260	Hora Incorreta
+261	Já Apostado
+262	Item Incorreto
+263	Este item não te pertence, não é possível recolher
+264	Este item não pertence ao seu exército, não é possível recolher
+265	Movimento Existente
+266	Você ainda não aprendeu este movimento
+267	Número de vezes restante para receber o pacote de presente insuficiente
+268	O número de vezes para receber hoje atingiu o limite máximo
+269	Nível de aprendizado da habilidade incorreto\rOu você clicou rápido demais
+270	Não há essa habilidade
+271	Habilidade não pode ser aprendida
+272	Não é possível aprender essa habilidade
+273	Nível de habilidade atingiu o limite máximo
+274	Sexo para aprender habilidade não corresponde
+275	Signo para aprender habilidade não corresponde
+276	Condições para aprender habilidade não corresponde
+277	Nível do jogador para aprender habilidade insuficiente
+278	Nível do cosmo para aprender habilidade insuficiente
+279	Nível da habilidade pré-definida para aprender habilidade insuficiente
+280	Reputação para aprender habilidade insuficiente
+281	EXP para aprender habilidade insuficiente
+282	Moeda para aprender habilidade insuficiente
+283	Moeda vinculada para aprender habilidade insuficiente
+284	Ponto de Contribuição do exército para aprender habilidade insuficiente
+285	Reputação consumida para aprender habilidade insuficiente
+286	Item consumido para aprender habilidade insuficiente
+287	Perícia insuficiente para aprender habilidade
+288	É preciso estar no avançado para ter Signo de Ouro
+289	Pontos de habilidade insuficientes
+290	Sucesso
+291	Usuário inexistente
+292	Nome de usuário e senha não correspondem
+293	Tempo excedido
+294	Erro de parâmetro
+295	Mensagens de amigos não podem ser sincronizadas quando salvas no banco de dados
+296	O servidor não suporta essa solicitação
+297	Erro de comunicação de rede entre os servidores
+298	Repita o login. A conta está bloqueada, aguarde 5 minutos.
+299	Repita o login. A conta está bloqueada, tente usar “Forçar Login”.
+300	Índice nonce inválido
+301	Erro ao deslogar conta
+302	Falha na tentativa do servidor do jogo de obter informação do personagem do jogador
+303	Falha ao acessar o servidor do jogo. Por favor, tente acessar novamente mais tarde.
+304	O número de pessoas no servidor do jogo atingiu o limite máximo
+305	Esse personagem já está no jogo
+306	O número neste canal atingiu o limite máximo
+307	Não há esse número de canal
+308	Atualmente não há nenhum canal disponível
+309	Falhar ao transmitir
+310	Tempo de transmissão excedido
+311	O saldo desta conta é insuficiente
+312	Esta conta foi encerrada, falha no login
+313	Não pode usar este nome
+314	IP bloqueado, não é possível fazer login no jogo.Por favor, tente fazer login novamente após 10 minutos.
+315	Você já fez 3 tentativas de uso incorretas consecutivas com o cartão de segurança.\rPara a segurança de sua conta, o sistema suspenderá sua conta temporariamente\rVocê pode tentar realizar o login novamente após 10 minutos.
+316	Falha na autenticação de segurança
+317	Falha ao criar personagem, código de divulgação inválido ou usado
+318	Falha no login multiservidor
+319	Falha ao fazer login no jogo
+320	Conta expulsa do canal
+321	Falha ao criar personagem
+322	Falha ao excluir personagem
+323	Falha ao obter lista de personagens
+324	Falha ao desfazer exclusão de personagem
+325	Servidor em manutenção, falha no login
+326	Este personagem foi encerrado, falha no login
+327	Número de pessoas no servidor completo
+328	Servidor desconectou-se espontaneamente
+329	Duplicar nome do personagem
+330	O número de personagens completo
+331	Solicitar pedido de amizade
+332	Recusar pedido de amizade
+333	concordar com pedido de amizade
+334	Este personagem está à venda em xunbao178.com, não é possível entrar no jogo
+335	Atualmente há contas pendentes de câmbio de lingote, ou mensagem de lingote ainda não recebida; não é possível excluir o personagem
+336	Atualmente tem Aprendizes, não é possível excluir o personagem
+337	Dados inexistentes
+338	Por favor, primeiro desfilie-se do exército e depois exclua o personagem.
+339	Tempo de acesso ao servidor excedido, por favor, faça login novamente e tente mais uma vez
+340	Você tem um cônjuge no jogo, por favor, desfaça o casamento primeiro para depois tentar excluir o personagem novamente.
+341	Este personagem foi autenticado por Athena, não é possível excluir.
+342	O jogador está offline
+343	O jogador recusou a negociação
+344	O jogador está ocupado
+345	Falha ao preencher banco de dados
+346	Falha ao entrar na negociação, os dois lados da negociação já existem
+347	Negociador inválido
+348	Falha ao aumentar itens de negociação
+349	Falha ao diminuir itens de negociação
+350	Envio pela metade, aguarde a outra parte enviar
+351	Envio concluído
+352	Falha ao enviar
+353	Falha ao confirmar
+354	Negociação realizada com sucesso
+355	Negociação pela metade, aguarde a outra parte confirmar
+356	Falha ao cancelar negociação
+357	Falha ao mover itens
+358	O espaço livre na barra de itens dessa parte da negociação é insuficiente
+359	Erro ao definir propriedades do negociador
+360	Adição de cada negociador realizada com sucesso
+361	Adição de dois negociadores realizada com sucesso
+362	A permissão de negociação da outra parte é ilegal
+363	Serviço do clã está temporariamente indisponível
+364	Tipo de operação inválida
+365	Operação excedeu o limite de tempo
+366	Atualmente, você é membro de um clã, não é possível criar clãs
+367	Este nome está sendo usado por outra pessoa
+368	Erro no banco de dados
+369	Sem permissão para tal operação
+370	Comprimento do nome não corresponder ou contém caracteres não permitidos
+371	Número de pessoas atingiu o limite máximo
+372	Primeiro, você precisa sair do clã em que está atualmente
+373	Você se juntou ao clã
+374	O jogador agradeceu, mas recusa seu convite
+375	O jogador já se juntou ao clã
+376	Clã inexistente, ou o jogador não solicitou a entrada neste clã
+377	O jogador não é membro deste clã
+378	Não atende à condição da operação
+379	Tipo de parâmetro da operação incorreto
+380	Jogador não está online
+381	Serviço indisponível
+382	O nível da outra parte é insuficiente, não é possível se unir ao clã
+383	Dissolvendo
+384	O jogador não pode ser convidado para se juntar ao clã
+385	Aqueles que foram convidados e deixarem o clã em menos de 1 dia não poderão se juntar a um clã novo
+386	Você vinculou um telefone de segurança\rPor favor, após ligar para 010-5885-8566 para prosseguir com o desbloqueio, tente efetuar login novamente
+387	Este servidor precisa ser ativado antes de efetuar login, esta conta ainda não foi ativada
+388	Se a conta do Zongheng Chinese Website não estiver ativada, não é possível efetuar login no jogo
+389	Para otimizar o carregamento do servidor, contas que não efetuam login no jogo há muito tempo foram bloqueadas. Por favor, entre em contato com serviço de atendimento ao cliente
+390	Esta senha eletrônica está em uso
+391	Conta suspeita de login mal-intencionado. Acesso proibido por 10min.\rCaso o login não tenha sido efetuado por você, contate o suporte.
+392	Sua conta foi bloqueada, por favor, aguarde um instante e tente efetuar login novamente.
+393	Você já inseriu a senha do token errada por três vezes consecutivas\rPara a segurança de sua conta, o sistema suspenderá sua conta temporariamente\rVocê pode tentar realizar o login novamente após 10 minutos.
+394	Tcket expirou no salto, falha no login
+395	Falha na verificação das informações ID usadas no salto, falha no login
+396	Falha na verificação das informações ID do servidor no santo, falha no login
+397	Você é um usuário de registro rápido, as informações de conta ainda estão imperfeitas\rExistem sérios riscos de segurança, por favor, efetue o login corretamente para autenticar\rTente efetuar login novamente após completar as informações de conta
+398	Restrição de nível de propriedade
+399	O Gold do jogador excedeu o limite máximo
+400	O jogador não está online ou o personagem não existe
+401	O jogador já é aprendiz de um mestre
+402	Número de Aprendizes já atingiu o limite máximo
+403	O sistema está ocupado, tente novamente mais tarde
+404	O jogador agradeceu, mas recusa o convite para te aceitar como aprendiz
+405	O nível do outro jogador não preenche os requisitos
+406	Só é possível recrutar um aprendiz por dia
+407	Sem Aprendiz
+408	Sem Mestre
+409	Sem Ponto de Favor
+410	As operações do mestre são frequentes demais
+411	As operações do Aprendiz são frequentes demais
+412	Já está registado
+413	Declaração longa demais
+414	Quando estiver em multiservidor, não é permitido realizar operação de mestre e aprendiz
+415	Erro no nível de mestre
+416	Erro no nível de Aprendiz
+417	Erro no Power do mestre
+418	Já é um relacionamento de mestre e aprendiz
+419	Já sou Aprendiz
+420	O outro jogador já é Aprendiz
+421	Indicação ainda não registrada
+422	Mestre não pode excluir o personagem
+423	Falha de comunicação multiservidor
+424	Falha na etapa de autenticação multiservidor
+425	Tempo esgotado para verificação de identidade multiservidor
+426	Verificação de identidade multiservidor não corresponder
+427	Multiservidor tem alguns protocolos que não devem ser aceitos
+428	Tempo esgotado para dados multiservidor
+429	Falha ao salvar dados multiservidor
+430	Número de pessoas na raide completo
+431	Jogador já se juntou à raide
+432	O jogador recusou seu convite para formação de grupo
+433	Raide inexistente
+434	Líder offline
+435	Por favor, tente novamente
+436	Não concordar com a modificação na distribuição da formação de times
+437	Votação em progresso
+438	Você não tem o direito de fazer isso
+439	Modificação na distribuição de times
+440	Convite para entrar no grupo, sem resposta do jogador
+441	Solicitação para entrar no grupo, sem resposta do jogador
+442	Nenhuma dungeon da raide atualmente
+443	A raide tem membros que estão na dungeon
+444	A operação escolhida pelo personagem excedeu o limite de tempo
+445	Nome está em uso
+446	Número de personagens atingiu o limite máximo
+447	Falha na prática do Pet
+448	O jogador não é o Líder
+449	Prática em progresso...
+450	Mudança de status da raide
+451	Membro do grupo não atende às condições iniciais
+452	Espaço livre no inventário do membro do grupo insuficiente
+453	Uso do serviço excedeu o limite de tempo
+454	Status do membro do grupo insuficiente
+455	Senha incorreta
+456	É necessário digitar a senha original
+457	A ação não pode ser realizada com o bloqueio temporário ativo.
+458	Erro no aniversário do personagem
+459	Nome do personagem não pode ultrapassar 8 caracteres
+460	Nome do personagem contém caracteres inválidos
+461	Você preencheu um código de convite inválido
+462	O código de convite de ouro que você preencheu não pode ser usado no servidor atual
+463	O código de convite de ouro que você preencheu não pode ser usado porque o personagem do jogador não existe
+464	O código de convite de ouro não pode ser usado para convidar outros personagens da mesma conta
+465	O código de convite de ouro que você preencheu já foi usado
+466	Não é possível entrar no serviço de fluxo reverso
+467	Não é possível usar o código promocional de ouro no serviço de fluxo reverso
+468	LINK - 您已经连续三次使用密保卡登陆失败，为了您的帐号安全，系统已将您的帐号暂时封停。您可以在10分钟后再次尝试登录。
+469	您已绑定电话密保，请致电010-5885-8566进行解锁后登录
+470	为了优化服务器负载，因该帐号长时间未登录游戏，已被封禁，请与客服联系
+471	账号存在恶意登录的嫌疑，10分钟内禁止登录，如果不是本人登录，请与客服联系。
+472	您已连续三次输入令牌密码错误，为了您的账号安全，系统已将您的账号暂时封停。您可以在10分钟后再次尝试登录。
+473	您是快速注册用户，账号信息尚不完善，存在严重安全隐患，请您及时登录完美通行证补填账号信息后再尝试登录。

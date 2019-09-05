@@ -1,0 +1,338 @@
+0	Use um ID válido
+1	Use um ID válido
+2	Use um ID válido
+3	As informações de sua conta não estão completas, pode haver um ^ff0000risco de segurança^N. Atualize seus dados!
+4	Preencher Agora
+5	Mais Tarde
+6	Bem-vindo ao Saint Seiya Online - Reborn!
+7	ID da Conta
+8	Senha
+9	Esqueci
+10	Forçar Login
+11	Confirmar
+12	Cancelar
+13	Login
+14	Sair do Jogo
+15	Animação
+16	Excluir
+17	Criar Personagem
+18	Recuperar
+19	Cancelar a Venda
+20	Retornar
+21	Jogar!
+22	Aleatório
+23	Seleção Aleatória
+24	Verificar trajes do personagem
+25	Selecionar Servidor
+26	Anterior
+27	Próximo
+28	Esqueceu sua informação no servidor?<br /> Pergunte à comunidade!
+29	O próximo personagem será enviado na próxima caça ao tesouro, você pode cancelar o envio de personagem.
+30	Senha do Cartão de Segurança
+31	Servidor Recomendado
+32	Clique abaixo para escolher como acessar
+33	Por favor, insira o token de 6 números que aparece no seu smartphone
+34	Por favor, insira os 6 dígitos
+35	Selecionar Personagem
+36	Entrar na última Instância offline
+37	Entrar no último campo de batalha offline
+38	Entrar no último Multiservidor offline
+39	<span class='normal'>Qianxiu</span>
+40	Gênero do Personagem
+41	M
+42	F
+43	Aniversário Personagem
+44	Nome
+45	Convite
+46	Informação Opcional
+47	Seleção Auto.
+48	Mês
+49	?
+50	Dia
+51	Tipo de corpo
+52	Olhos
+53	Rosto
+54	Detalhes
+55	Cabelo
+56	Provar
+57	Cor da pele
+58	Signo
+59	Selecionar linha %s
+60	Selecionar Servidor
+61	Por favor, selecione o servidor que pretende entrar
+62	Campod de Conta e Senha não podem estar vazios
+63	Entrando... Aguarde!
+64	Entrando, tempo restante %d segundos, tempo decorrido %d segundos.
+65	Conectando-se ao servidor.
+66	Lista de Funções
+67	Lista de Funções obtida
+68	Se o servidor não responder por um longo tempo pode ser que a conexão expirou, por favor tente fazer login novamente.
+69	Para garantir a segurança da sua conta, remova seu Perfect Aegis do slot de USB e o mantenha em segurança.
+70	Cancelar Criação
+71	Próximo
+72	Anterior
+73	Aqui você pode experimentar roupas diferentes
+74	Ocorreu o seguinte erro ao criar personagem:
+75	Uma conta pode criar até oito personagens
+76	Dados incorretos
+77	Nome do personagem não pode estar vazio
+78	Nome do personagem contém caracteres inválidos
+79	Aniversário do personagem não foi selecionado
+80	Falha ao criar personagem
+81	Você usou um código de convite errado, verifique se digitou algum caractere errado
+82	Escolha um Signo
+83	Dias de tesouro à venda
+84	Personagem em estado de exclusão, pode ser cancelado a qualquer momento, dentro do prazo de 7 dias
+85	Personagem excluído
+86	Exclusão em:
+87	%d dias para remover completamente o personagem.
+88	Em %d horas %d minutos %d segundos, o personagem será completamente removido do servidor.
+89	Tem certeza de que deseja excluir esse personagem?
+90	Falha na exclusão do personagem. Tente novamente mais tarde.
+91	Personagem excluído com sucesso. Você tem até 7 dias para desfazer a exclusão.\rNesse meio tempo será possível restaurar o personagem.
+92	Falha na recuperação do personagem. Tente novamente mais tarde.
+93	Recuperação de personagem com sucesso.
+94	%s/%s (Nível %d)
+95	Meteoro de Pégasus
+96	Cólera do Dragão
+97	Pó de Diamante
+98	Nebulosa de Andrômeda
+99	Avê Fênix
+100	Livre
+101	Normal
+102	Cheio
+103	2x EXP
+104	EXP em Triplo
+105	DROP em Dobro
+106	GOLD em Dobro
+107	Grátis
+108	Fileira
+109	Círculo
+110	Por favor, retire o USB, e em seguida selecione "para o jogo"
+111	Essa operação irá aumentar a segurança de sua conta. O sistema irá travar após três falhas consecutivas.\rSua conta terá um curto espaço de tempo.Tem certeza de que quer continuar isso?
+112	Operação expirada. Tente novamente mais tarde.
+113	Carregando dados, aguarde...
+114	Já faz algum tempo que você não altera sua senha, para reforçar a segurança de sua conta, acesse nosso site e altere sua senha imediatamente.
+115	O seu cartão de segurança expirou, para reforçar a segurança de sua conta, acesse nosso site e solicite um novo cartão de segurança, por favor.
+116	Desconhecido
+117	Áries
+118	Touro
+119	Gêmeos
+120	Câncer
+121	Leão
+122	Virgem
+123	Libra
+124	Escorpião
+125	Sagitário
+126	Capricórnio
+127	Aquário
+128	Peixes
+129	Áries
+130	Touro
+131	Gêmeos
+132	Câncer
+133	Leão
+134	Virgem
+135	Libra
+136	Escorpião
+137	Sagitário
+138	Capricórnio
+139	Aquário
+140	Peixes
+141	Áries - Signo do fogo, regido por Marte, o que significa quente e seco.Tem forte senso de justiça, separa com clareza o bem e o mal. Tem um moral extremamente elevado e possui muita coragem.\rFase Galáctica: Leão, Sagitário
+142	Touro - Signo da Terra, governado como um símbolo do amor e da beleza de Vênus. É cauteloso, busca a paz. Tem um temperamento introvertido e um pouco tímido. Extremamente forte para cuidar de companheiros e de seu espírito. Normalmente, não mudará sua decisão tão facilmente.\rFase Galáctica: Virgem, Capricórnio
+143	Gêmeos - Signo do ar, encarregado da sabedoria e eloquência de Mercúrio. Compreensivo e aprende com facilidade, pode se adaptar muito rapidamente a qualquer tipo de alteração no ambiente. Sabe coletar e trabalhar com uma grande quantidade de informações.\rFase Galáctica: Libra, Aquário
+144	Câncer - Signo de água, a lua é patrono, dedicado e de personalidade forte você enfrenta os maiores altos e baixos emocionais. Prefere não entrar em conflito com os outros e tem apreço pela harmonia em sua família. Sua criatividade e imaginação ficam nos primeiros lugares de todas as 12 constelações.\rFase Galáctica: Escorpião, Peixes
+145	Leão - Signo de fogo, o sol é seu patrono. Você tem uma personalidade alegre, mas é preocupado com os outros, sempre é observado como líder pelos demais. Sua coragem e capacidade de cuidar dos demais o faz brilhante em diversas situações.\rFase Galáctica: Áries, Sagitário
+146	Virgem - Signo da Terra, regido por mercúrio e tem como característica dominante sua inteligência. Seus poderes são de observação e meticulosa atenção aos detalhes, fortes habilidades analíticas. Você é da equipe dos estrategistas.\rFase Galáctica: Touro, Capricórnio
+147	Libra - Signo do ar. Concilia e une a todos sob seu regente, Vênus. Você é elegante e generoso, justo, responde de forma adequada, imparcial, muitas vezes você pode resolver os confrontos violentos de forma justa.\rFase Galáctica: Aquário, Gêmeos
+148	Escorpião - Signo de água, regido por Plutão, tem poder explosivo e discernimento. Sua personalidade faz com que a incerteza seja algo sombrio, suspeita de muitos mas tem um bom coração. Depois de ter tomado uma decisão, será difícil convencê-lo do contrário.\rFase Galáctica: Câncer, Peixes
+149	Sagitário - Signo de fogo. Encarregado da liberdade sob seu regente, Júpiter. Otimista, gosta de fazer amigos, anseia por aventura e para conhecer o mundo. Seu maior sonho é ter liberdade para viver a vida sem restrições.\rFase Galáctica: Áries, Leão
+150	Capricórnio - O signo da Terra, seu regente Saturno o faz muito paciente. Seus esforços são práticos, mas podem levar tempo - o que faz sem nenhum problema. Forte disciplina e rigoroso com os demais, apesar de ser sempre bastante razoável em suas cobranças e senso de justiça.\rFase Galáctica: Virgem, Touro
+151	Aquário - Signo de ar, sob o regente de Urano. Você é muito criativo e espiritual, um verdadeiro idealista. Está sendo procurando a situação ideal e embora seja difícil de encontrar, não desanima e segue firme em sua busca.\rFase Galáctica: Libra, Gêmeos
+152	Peixes - Signo de água, regido por Netuno e com completo domínio da compaixão. Você tem um bom sexto sentido inato, como o talento de um artista. Sua compaixão pode fazer com que se sacrifique sem problemas pelo o que acredita.\rFase Galáctica: Escorpião, Câncer
+153	^a4d1ffOrientação de Personagem:\r^fff2c8Combate Corpo a Corpo\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Acúmulo e liberação do Espírito de Luta\r^fff2c8◆ Explosão de dano em alvo único\r^fff2c8◆ Rápida recuperação física\r^fff2c8◆ Movimentação rápida de ataque\r\r^a4d1ffDificuldade:\r^fff2c8Fácil\r\rO guerreiro da constelação de Pégasus é um lutador incansável, perfeito para duelos ou lutas contra bosses. O uso constante de seus golpes permite que ele concentre Espírito de Luta. Este recurso pode ser utilizado para desferir golpes ainda mais poderosos ou recuperar-se fisicamente.
+154	^a4d1ffOrientação de Personagem:\r^fff2c8Dano à Distância\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Domínio do Ar Frio\r^fff2c8◆ Lentidão/Congelamento em área\r^fff2c8◆ Dano em área\r^fff2c8◆ Controle dos inimigos\r\r^a4d1ffDificuldade:\r^fff2c8Média\r\rComo um verdadeiro mestre tático, Cisne pode usar o poder do Ar Frio para controlar completamente alvos inimigos por um longo período, impedindo que alcancem seus aliados e negando o dano que poderiam causar.
+155	^a4d1ffOrientação de Personagem:\r^fff2c8Combate Corpo a Corpo/Defesa\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Absorção de dano\r^fff2c8◆ Atrair Monstros\r^fff2c8◆ Controle de grupos de monstros\r^fff2c8◆ Proteção de grupo\r\r^a4d1ffDificuldade:\r^fff2c8Média\r\rEmpunhando seu escudo, o Cavaleiro de Dragão consegue absorver uma grande quantidade de dano e se manter em pé, atraindo a atenção dos inimigos e permitindo que seus aliados lutem livremente.
+156	^a4d1ffOrientação de Personagem:\r^fff2c8Dano à Distância/ Suporte\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Alternação de postura para Ataque/Restauração\r^fff2c8◆ Suporte poderoso\r^fff2c8◆ Proteção de aliados\r^fff2c8◆ Controle dos inimigos\r\r^a4d1ffDificuldade:\r^fff2c8Fácil\r\rCom suas correntes, Andrômeda pode proteger seus aliados, curando e impedindo que sofram controle, ou impondo controle aos inimigos. Ele também pode alternar suas correntes para uma postura agressiva e lutar bravamente.
+157	^a4d1ffOrientação de Personagem:\r^fff2c8Dano à Distância\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Dano em área\r^fff2c8◆ Auxílio dos Cavaleiros Negros\r^fff2c8◆ Dano contínuo de fogo\r^fff2c8◆ Renasce das cinzas\r\r^a4d1ffDificuldade:\r^fff2c8Fácil\r\rO impiedoso Cavaleiro de Fênix não teme a morte, uma vez derrotado, ele ressurge das cinzas para continuar lutando. Fênix conta com o auxilio dos Cavaleiros Negros, e possui golpes em área poderosos que causam medo por onde ele passa.
+158	^a4d1ffOrientação de Personagem:\r^fff2c8Dano à Distância\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Habilidades versáteis\r^fff2c8◆ Cria ilusões\r^fff2c8◆ Combo de habilidades com clones\r^fff2c8◆ Domínio dimensional\r\r^a4d1ffDificuldade:\r^fff2c8Difícil\r\rAs personalidades de Dragão Marinho influenciam em suas habilidades, o que faz com que elas possuam efeitos diferentes sempre que ele muda sua forma de agir e pensar. É preciso ter um grande controle sobre as personalidades para utilizar todo seu potencial destrutivo ou defensivo.
+159	^a4d1ffOrientação de Personagem:\r^fff2c8Combate Corpo a Corpo/Defesa\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Atrair Monstros\r^fff2c8◆ Transformação em Wyvern\r^fff2c8◆ Absorção de HP\r^fff2c8◆ Controle de grupos de monstros\r\r^a4d1ffDificuldade:\r^fff2c8Médio\r\rAo ser ressuscitado por Pandora, Wyrm passou a possuir os poderes das trevas. Este poderoso guerreiro possui uma grande defesa e uma incrível capacidade regenerativa. Wyrm também pode transformar-se em um poderoso dragão capaz de destruir tudo em sua frente com a batida de suas asas.
+160	^a4d1ffOrientação de Personagem:\r^fff2c8Dano à Distância\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆ Controle de Ritmo\r^fff2c8◆ Maldições em área\r^fff2c8◆ Forte dano em área\r^fff2c8◆ Controle dos inimigos\r\r^a4d1ffDificuldade:\r^fff2c8Fácil\r\rO Cavaleiro de Lira é capaz de submeter grupos de inimigos a status negativos os debilitando e facilitando a luta para seus aliados. Lira pode causar muito dano a alvos amaldiçoados e possui a capacidade de resetar o tempo de recarga de algumas habilidades.
+161	^a4d1ffOrientação de personagem:\r^fff2c8Dano à distância (médio)\r\r^a4d1ffHabilidades Especiais:\r^fff2c8◆Golpes Elementares\r^fff2c8◆Múltiplos Combos\r^fff2c8◆Dano Explosivo\r^fff2c8◆Combos Simples\r\r ^a4d1ffDificuldade:\r^fff2c8Fácil\r\rO guerreiro selvagem de Tornado absorve seu poder do vácuo caótico, para que possa explodir uma enorme energia em um curto espaço de tempo. Qualquer inimigo que se atreva a ficar na frente do vento tempestuoso será destruído por forças tirânicas.
+162	Nenhum
+163	Pégasus
+164	Cisne
+165	Dragão
+166	Andrômeda
+167	Fênix
+168	Dragão Marinho
+169	Wyrm
+170	Lira
+171	Tornado
+172	Pégasus - Descrição de Signo
+173	Cisne - Descrição de Signo
+174	Dragão - Descrição de Signo
+175	Andrômeda - Descrição de Signo
+176	Fênix - Descrição de Signo
+177	Dragão Marinho - Descrição de Signo
+178	Wyrm - Descrição de Signo
+179	Lira - Descrição de Signo
+180	Descrição do Signo de Tornado
+181	1
+182	2
+183	3
+184	4
+185	5
+186	6
+187	7
+188	8
+189	9
+190	10
+191	1
+192	2
+193	3
+194	4
+195	5
+196	6
+197	7
+198	8
+199	9
+200	10
+201	Face 1
+202	Face 2
+203	Face 3
+204	Face 4
+205	Face 5
+206	Face 6
+207	Face 7
+208	Face 8
+209	Face 9
+210	Face 1
+211	Face 2
+212	Face 3
+213	Face 4
+214	Face 5
+215	Face 6
+216	Face 7
+217	Face 8
+218	Face 9
+219	Cor 1
+220	Cor 2
+221	Cor 3
+222	Cor 4
+223	Cor 5
+224	Cor 6
+225	Cor 7
+226	Cor 8
+227	Cor 9
+228	Cor 10
+229	Cor 11
+230	Cor 12
+231	Cor 13
+232	Cor 14
+233	Cor 15
+234	Cor 16
+235	Seiya
+236	Shiryu
+237	Shun
+238	Ikki
+239	Hyoga
+240	Verde
+241	Marrom
+242	Ruivo
+243	Ouro
+244	Prata
+245	Lilás
+246	Gelo
+247	Loiro
+248	Laran
+249	Tipo 1
+250	Tipo 2
+251	Tipo 3
+252	Tipo 4
+253	Tipo 5
+254	Tipo 6
+255	Tipo 7
+256	Tipo 8
+257	Tipo 9
+258	Tipo 10
+259	Tipo 11
+260	Tipo 12
+261	Tipo 13
+262	Tipo 14
+263	Tipo 15
+264	Tipo 16
+265	Tipo 17
+266	Tipo 18
+267	Tipo 19
+268	Tipo 1
+269	Tipo 2
+270	Tipo 3
+271	Tipo 4
+272	Tipo 5
+273	Tipo 6
+274	Tipo 7
+275	Tipo 8
+276	Tipo 9
+277	Tipo 10
+278	Corpo 1
+279	Corpo 2
+280	Corpo 3
+281	Corpo 4
+282	Corpo 5
+283	Corpo 6
+284	Corpo 7
+285	Corpo 8
+286	Corpo 1
+287	Corpo 2
+288	Corpo 3
+289	Corpo 4
+290	Corpo 5
+291	Corpo 6
+292	Corpo 7
+293	Corpo 8
+294	Olhos 1
+295	Olhos 2
+296	Olhos 3
+297	Olhos 4
+298	Olhos 5
+299	Olhos 6
+300	Olhos 7
+301	Olhos 8
+302	Olhos 9
+303	Olhos 10
+304	Olhos 1
+305	Olhos 2
+306	Olhos 3
+307	Olhos 4
+308	Olhos 5
+309	Olhos 6
+310	Olhos 7
+311	Olhos 8
+312	Olhos 9
+313	Olhos 10
+314	Cor 1
+315	Cor 2
+316	Cor 3
+317	Cor 4
+318	Cor 5
+319	Cor 6
+320	Cor 7
+321	Cor 8
+322	Cor 9
+323	Cor 10
+324	Cor 11
+325	Cor 12
+326	Cor 13
+327	Cor 14
+328	Não é possível criar um personagem com este signo. É necessário alterar o signo de um personagem já existente, contanto que ele possua, no mínimo, nível 59
+329	正在登录游戏……请稍候
+330	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆吸血\r  ^fff2c8◆给队友加护盾\r  ^fff2c8◆多人倒地、沉默\r  ^fff2c8◆消耗生命的强力技能\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+331	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8强大的治疗者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆加血\r  ^fff2c8◆复活\r  ^fff2c8◆召唤天使回血加攻\r  ^fff2c8◆召唤星之守护帮你打\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+332	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人超高伤害\r  ^fff2c8◆大范围多人伤害\r  ^fff2c8◆灼烧（持续伤害）\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+333	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人石化、沉默\r  ^fff2c8◆队伍攻防提升\r  ^fff2c8◆单人攻击降低\r  ^fff2c8◆反弹伤害\r\r^a4d1ff出生地：\r  ^fff2c8庐山
+334	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆多人减速、沉默\r  ^fff2c8◆单人攻防降低\r  ^fff2c8◆小范围群攻\r  ^fff2c8◆冰之能量增强技能\r\r^a4d1ff出生地：\r  ^fff2c8庐山
+335	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8攻击很高的伤害者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆单人倒地\r  ^fff2c8◆单人控制解除\r  ^fff2c8◆多人控制免疫\r  ^fff2c8◆小范围群攻\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
+336	守护星座7说明
+337	守护星座8说明

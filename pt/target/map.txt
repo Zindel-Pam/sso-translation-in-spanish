@@ -1,0 +1,493 @@
+0	Vila dos Jogadores Iniciantes
+1	Área de Treino
+2	Praia da Esperança
+3	Coliseu
+4	Muro da Guerra Santa
+5	Cemitério dos Cavaleiros
+6	Star Hill
+7	Porto
+8	Acrópole
+9	Campo de Treinamento
+10	Vila Rodório
+11	Vale da Montanha Selvagem
+12	Floresta Perdida
+13	Campo Florido
+14	Antigo Campo de Batalha
+15	Colina Yomotsu
+16	Vila do Dragão Oculto
+17	Cabana de Bambu
+18	Encosta Bi Longtan
+19	Campos
+20	Templo da Montanha
+21	Cume do Reencontro
+22	Cume do Dragão
+23	Lago Tianchi
+24	Ruínas da Guerra Santa
+25	Cidade Prata
+26	Floresta Aokigahara
+27	Vila Xintoísta
+28	Stonehenge dos Espíritos
+29	Rancho Oshino
+30	Praia do Pôr do Sol
+31	Penhasco Madeira Vermelha
+32	Vale do Exílio
+33	Templo do Destino
+34	Vila Esquecida
+35	Terra Esquecida
+36	Templo de Poseidon
+37	Mansão Solo
+38	Praia Egeu
+39	Prisão do Deus
+40	Praia do Desejo
+41	Floresta de Fósseis
+42	Leito das Cinzas
+43	Vila dos Mineiros
+44	Caminho da Mina
+45	Cauda da Fênix
+46	Ruínas de Tawana
+47	Vulcão Adormecido
+48	Vila Kohoutek
+49	Vila da Neve
+50	Torre Congelada
+51	Recife do Demônio
+52	Yggdrasil
+53	Posto do Gelo Sombrio
+54	Aurora no Campo de Neve
+55	Castelo do Graad Azul
+56	Vila de Nereus
+57	Precipício do Redemoinho
+58	Floresta de Coral
+59	Floresta da Pedra de Sirene
+60	Posto dos Marinas
+61	Floresta Sagrada
+62	Poseidonia
+63	Oráculo de Stonehenge
+64	Acampamento dos Aprendizes
+65	Vulcão do Tártaro
+66	Vila do Golfo
+67	Píer da Ilha de Andrômeda
+68	Lago das Lágrimas
+69	Península da Corrente
+70	Recife do Kraken
+71	Floresta do Crepúsculo
+72	Fazenda Andreas
+73	Vila dos Mortos
+74	Cidade Füssen
+75	Fronteira do Mar
+76	Castelo de Hades
+77	Cemitério da Paz
+78	Igreja
+79	Vale da Ventania Negra
+80	Inferno das Pedras
+81	Morada do Julgamento
+82	Rio Aqueronte
+83	Campo de Execução
+84	Passagem do Barqueiro
+85	Portão do Inferno
+86	Cócito
+87	Abismo dos Deuses
+88	Inferno de Cobras
+89	Deserto Escaldante
+90	Lago de Sangue
+91	Cemitério de Fogo
+92	Pântano das Trevas
+93	Campo Florido
+94	Caina
+95	Antenora
+96	Ptlomea
+97	Giudecca
+98	Muro das Lamentações
+99	Paraíso Perdido
+100	Campo das Flores Adormecidas
+101	Templo de Hades
+102	Templo de Hypnos
+103	Coração do Rio
+104	Templo de Thanatos
+105	Planície Divina
+106	Floresta das Canções Mágicas
+107	Cachoeira da Origem
+108	Rio do Esquecimento
+109	Área de Treino
+110	Mar de Estrelas
+111	Ruínas Antigas
+112	Dez Cavernas
+113	Login Mundial
+114	Terra das Constelações
+115	Armazém
+116	Correio
+117	Ferreiro
+118	Suprimentos
+119	Padeiro
+120	Santuário
+121	Artífice
+122	Farmacêutico
+123	Artesão
+124	Leiloeiro
+125	Teleporte
+126	Troca de Signo
+127	Acessórios
+128	Oficial do Exército
+129	Rozan
+130	Coliseu Graad
+131	Estrada Esquecida
+132	Ilha da Rainha da Morte
+133	Sibéria Oriental
+134	Atlântida
+135	Ilha de Andrômeda
+136	Submundo
+137	Campos Elísios
+138	Batalha dos Deuses
+139	Teste
+140	Teste do Céu Noturno
+141	Mapa Qualificação do Exército
+142	Teste de Mapa
+143	Baía do Mar Egeu
+144	Desafio de Alraune 2 (Nv55)
+145	Desafio de Alraune 3 (Nv65)
+146	Desafio de Alraune 4 (Nv75)
+147	Desafio de Alraune 5 (Nv85)
+148	Desafio de Alraune 6 (Nv95)
+149	Desafio de Alraune 1 (Nv45)
+150	Montanha da Neve Psicodélica
+151	Multiservidor Arena PK
+152	Desafio de Alraune 6 (Submerso Nv5)
+153	Ilusão
+154	Dia das Bruxas! Abóbora da Loucura
+155	Ilusão 3
+156	Templo de Athena
+157	Campo de Treinamento dos Cavaleiros
+158	Ilusão 1
+159	Ilusão 2
+160	Ilusão 4
+161	O Templo da Deusa
+162	Primeira Arena de Competição Multiservidor 1
+163	Primeira Arena de Competição Multiservidor 2
+164	Primeira Arena de Competição Multiservidor 3
+165	Primeira Arena de Competição Multiservidor 4
+166	Primeira Arena de Competição Multiservidor 5
+167	Primeira Arena de Competição Multiservidor 6
+168	Primeira Arena de Competição Multiservidor 7
+169	Primeira Arena de Competição Multiservidor 8
+170	Primeira Arena de Competição Multiservidor 9
+171	Cidade Principal Multiservidor
+172	Ataque ao Submundo
+173	Terra Final
+174	Câncer! Os zumbis estão chegando!
+175	Escolha! Sedução do lado negro
+176	Zona de Proteção da Bandeira
+177	Incidente da Névoa Vermelha II
+178	Vulcão de Silas
+179	Base do Exército
+180	Administrador de Loja de Base
+181	Administrador de Armazém de Base
+182	Milagre de Base
+183	Treinamento do Exército
+184	Campo de Batalha de Exércitos
+185	Salão Azul
+186	Armazém azul
+187	Loja Azul
+188	Área de Treino Azul
+189	Oficina Azul
+190	Altar Azul
+191	Milagre Azul
+192	Porta Azul da Direita
+193	Porta Azul Central
+194	Porta Azul da Esquerda
+195	Salão Vermelho
+196	Armazém Vermelho
+197	Loja Vermelha
+198	Área de Treino Vermelha
+199	Oficina Vermelha
+200	Altar Vermelho
+201	Milagre Vermelho
+202	Porta da Direita Vermelha
+203	Porta Vermelha Central
+204	Porta da Esquerda Vermelha
+205	Coração de Sagitário
+206	As Doze Casas
+207	Santuário de Gelo
+208	Setes Pilares do Oceano
+209	O Poema da Deusa
+210	Herói das Dez Cavernas
+211	Herói do Coração de Sagitário
+212	Herói do Castelo do Graad Azul
+213	Herói da Cidade de Hades
+214	O Fim de Hades
+215	As Estrelas Épicas
+216	Melodia Sufocante!
+217	Batalha! As Doze Casas!
+218	Combate! A Guerra Galáctica!
+219	Batalha mortal das Dez Cavernas!
+220	Ruptura! Dragão e Tigre!
+221	Fuga! Yomotsu Hirasaka!
+222	Memórias! A Verdade de Treze anos Atrás!
+223	Conspiração! O Homem que Enganou Deus!
+224	Confronto! Retorno à Star Hill!
+225	Início! A Competição pela Armadura!
+226	Terror! Outra Dimensão!
+227	Desespero! O Dilema de Leão!
+228	Memórias! O Renascimento de Fênix!
+229	Aniquilação! O Golpe Fantasma da Escuridão
+230	Colapso! Os Sete Pilares do Oceano
+231	Memórias de Hyoga!
+232	Situação Crítica! A Flecha no Coração da Deusa!
+233	Batalha Árdua! O Grande Chifre!
+234	Bem e Mal! A Confusão de Gêmeos!
+235	Horror! A Maldade de Câncer!
+236	Desperte! O Pesadelo do Leão!
+237	Shaka! O Homem Mais Próximo de Deus!
+238	Gelo Ártico! A Casa de Libra Congelada!
+239	Rendição ou Morte! A Força de Escorpião!
+240	Prova de Lealdade! O Pedido de Sagitário!
+241	Shura! O Homem que Empunha a Excalibur!
+242	Frio Extremo! O Zero Absoluto!
+243	Funeral de Rosas! A Batalha na Última Casa!
+244	O Fim! Batalha Decisiva na Sala do Grande Mestre!
+245	A Prece da Deusa!
+246	Proteção! Bênção do Festival de Verão!
+247	Ao Extremo! O Teste da Rendição Divina!
+248	Dia dos Namorados! Shiryu e Shunrei!
+249	O Jardim das Árvores Gêmeas
+250	Memórias de Dohko
+251	Avanço! O Julgamento de Escorpião!
+252	Investida! A Crise de Sagitário!
+253	Nevasca! Defesa da Árvore de Natal
+254	Capricórnio! O Caminho da Espada de Shura
+255	Aquário! O Golpe Mais Poderoso!
+256	Peixes! Rosas do Jardim Mágico!
+257	Áries! Batalha entre Mestre e Discípulo!
+258	Gêmeos! Confronto entre o Bem e o Mal
+259	Mundo dos Encolhidos
+260	Portão do Submundo
+261	Cordas de Flores! Réquiem da Lamentação
+262	Profundezas! O Inferno do Submundo
+263	Fim? Cócito
+264	Atacar! Os Três Juízes do Submundo!
+265	Os Deuses Gêmeos! Morte e Sono Eterno!
+266	Vida e Morte! A Batalha nos Campos Elíseos!
+267	O Festival de Outono! Morte aos Espectros!
+268	Dia Nacional! Salvando Athena!
+269	Dohko VS Shion
+270	Sagitário! Mirando na Maçã Dourada!
+271	Ação de Graças! Quem Mexeu no Peru?
+272	O Problema do Papai Noel!
+273	Mar de Flores! O Truque do Deus dos Sonhos!
+274	Thanatos! O Chamado da Morte!
+275	Hypnos! O Sono Profundo e Eterno!
+276	A Imperatriz do Submundo! Guardião Supremo
+277	Batalha Decisiva! Hades!
+278	Sombra Transcendente!
+279	Montaria! Quimera de Thor
+280	Mansão Kido
+281	Antiga Guerra Santa
+282	Teste de Ouro
+283	Crise das Doze Casas
+284	Tempestade em Atlântida
+285	O Cemitério do Santuário
+286	Tártaros
+287	Inferno de Gelo
+288	Europa Nórdica
+289	Refúgio de Loki
+290	Novos 3 Arcos: Libra
+291	Grande Coliseu
+292	Invasão! Os Vingadores
+293	Borboletas do Submundo
+294	Sonata Infernal
+295	Ressurreição! Os Guerreiros Mortos
+296	A Dimensão da Caixa de Pandora
+297	Contra Fluxo! O Teste de Ouro!
+298	Conflito das Doze Casas
+299	Tsunami em Atlântida
+300	Sonho! Vida Curta
+301	Ilusão! Montanha do Precipício Destruído
+302	Desperte! Voe Cachoeira a Baixo!
+303	Sete Pilares
+304	MAX!! Batalha Infinita
+305	MAX!! Batalha Infinita (Branco)
+306	MAX!! Batalha Infinita (Dourado)
+307	MAX!! Batalha Infinita (Mar)
+308	MAX!! Batalha Infinita (Escuridão)
+309	MAX!! Batalha Infinita (Infinito)
+310	Caminho da Tormenta
+311	Caminho da Tormenta Minerador
+312	Caminho da Tormenta Ladrão
+313	MAX! Buraco Negro (solo)
+314	Doze Casas Divinas I
+315	Doze Casas Divinas II
+316	Doze Casas Divinas III
+317	Doze Casas Divinas IV
+318	Prova de Kyushu
+319	Prova de Li Yingyan
+320	Necessidades Especiais de Animação
+321	Ares! Ruínas de Ática
+322	Campo de Batalha Caótico
+323	Campo de Batalha de Lava
+324	Campo de Batalha do Céu
+325	Batalha Sangrenta! Desgraça Nórdica
+326	Duelo! Eu sou o BOSS
+327	Batalha pela Ilha Flutuante
+328	Primeiro Torneio Galáctico (Equilíbrio)
+329	Multiservidor das Ruínas de Ares
+330	Arena de Equipes Multiservidores
+331	Equipe Multiservidor PK
+332	Nova Arena Individual
+333	Primeira Guerra Galáctica
+334	Segunda Competição Multiservidor do Soberano Galáctico (Equilibrado)
+335	Guerra Galáctica
+336	Prova 1
+337	Prova 2
+338	Prova 3
+339	Prova 4
+340	Prova 5
+341	Prova 6
+342	Teleporte
+343	Salvar Retorno
+344	Administrador da Construção Principal da Base
+345	Administrador da Área de Treino da Base
+346	Administrador do Altar da Base
+347	Administrador da Oficina da Base
+348	Troca da Placa de Contribuição do Exército
+349	Adicionar Graus
+350	Hermes
+351	Teleporte Central
+352	Emissário do Sudeste
+353	Emissário do Sudoeste
+354	Emissário do Nordeste
+355	Emissário do Noroeste
+356	Teleportador do Egeu
+357	Cupido
+358	Organizadora Alegra
+359	Registrador de Presença
+360	Mestre de Cerimônia John
+361	Área de Lojas
+362	Intendente
+363	Teleporte
+364	Ponto de Retorno à Cidade
+365	Curandeiro
+366	Cravejamento de Runas
+367	[Comércio]Artesão das Armaduras
+368	[Comércio]Mensageiro da Luz Dourada
+369	[Comércio]Escamas e Sapuris
+370	[Comércio]Chefe Geral dos Guardas de Prata e Ouro
+371	[Comércio]Mensageiro das Constelações
+372	[Comércio]Troca de Alma
+373	[Comércio]Luz da Esperança - Rosário
+374	[Comércio]Leiloeiro
+375	[Comércio]Estolas e Cinturões
+376	[Comércio]Relíquias
+377	[Comércio]Espírito da Armadura
+378	[Comércio]Acessórios
+379	[Comércio]Padre - Título e Reputação
+380	[Comércio]Sacerdote do Oráculo
+381	[Comércio]Presente da Deusa - Brilho de Athena
+382	[Comércio]Lojas de Herança
+383	[Comércio]Artesão - Aprender Produção
+384	[Comércio]Cavaleiro
+385	[Comércio]Pets
+386	[Comércio]Embaixador da Caça ao Tesouro
+387	[Comércio]Cartão de Segurança
+388	[Alerta]Escudeiro
+389	[Alerta]Exército
+390	[Alerta]Aliança de Exércitos
+391	[Alerta]Guardião da Bandeira
+392	[Alerta]Cruzada! BOSS Mundial
+393	[Alerta]Extermine o Mal
+394	[Alerta]Troca de Equipamentos
+395	[Alerta]Mensageiro de Ataque
+396	[Alerta]Mensageiro da Guerra
+397	[Centro]Marin
+398	[Centro]Embaixador do Carnaval
+399	[Centro]Embaixador de Benefícios
+400	[Centro]Guarda do Santuário
+401	[Centro]Embaixador de Promoções - Fogo fogo
+402	[Centro]Embaixador de Eventos
+403	[Competição]Trocar de Signo
+404	[Competição]Guia do Campo de Batalha - Catalina
+405	[Competição]Recompensa do Campo de Batalha
+406	[Competição]Comerciante de Capas
+407	[Competição]Ilusão
+408	[Competição]Guerra Galáctica - Competição do Universo
+409	[Competição]Área de Competição Multiservidor
+410	[Mansão]Semana de Ouro do Mês
+411	[Mansão]Embaixador do Festival
+412	[Mansão]Testemunha da Deusa
+413	[Mansão]Mensageiro do Carnaval
+414	[Mansão]Embaixador de Materiais de Eventos
+415	[Mansão]Casamento - Divórcio - Melhor amigo
+416	[Mansão]Mentor
+417	[Comércio]Artesão Bronze
+418	[Comércio]Artesão Prata
+419	[Comércio]Artesãos Negros
+420	[Comércio]Artesãos de Ouro
+421	[Comércio]Escamas
+422	[Comércio]Sapuris
+423	[Comércio]Chefe Geral da Guarda de Prata
+424	[Comércio]Chefe Geral da Guarda de Ouro
+425	[Comércio]Estolas
+426	[Comércio]Cinturões
+427	[Alerta]MAX!!Desafio do Buraco Negro
+428	[Alerta]Memórias da Guerra Santa
+429	[Alerta]Crise das Doze Casas - Réquiem do Santuário - Borboletas do Submundo
+430	[Alerta]Atlântida - O Último Dia da Estrela Mágica - Sonata Infernal
+431	[Alerta]Ânfora Selada
+432	[Alerta]Mito do Grande Coliseu
+433	[Alerta]Teste de Ouro - Contra-Ataque - Rozan de Volta à Poeira Como Sonho
+434	[Alerta]Caminho da Tormenta
+435	[Alerta]Cavaleiros da Deusa
+436	[Alerta]Estrada Dos Cavaleiros
+437	[Alerta]O Comandante do Santuário - Aventura
+438	[Centro]Desafio do Destino
+439	[Mansão]Proteja Saori
+440	[Mansão]Proteja Athena
+441	[Mansão]Sonho da Deusa
+442	Benefício do Exército (Sonho da Deusa)
+443	Entrada de Star Hill
+444	Saída de Star Hill
+445	Entrada Traseira da Fenda de Star Hill
+446	Saída Traseira da Fenda de Star Hill
+447	Entrada do Castelo do Graad Azul
+448	Saída do Castelo de Gelo Azul
+449	Saída do Topo do Posto
+450	Ir para Caina
+451	Voltar ao Cócito
+452	Ir para Antenora
+453	Ir para Ptlomea
+454	Ir para Giudecca
+455	Ir para o Muro das Lamentações
+456	Ir para Ilha Flutuante
+457	Saída da Ilha Flutuante
+458	Doze Casas Divinas
+459	大众战场临时
+460	女神！仲夏的神祈！
+461	师徒系统介绍人
+462	银河激斗篇积分兑换NPC
+463	传承！黄金试炼领取人
+464	圣战回忆领取人
+465	集结！十二宫危机领取人
+466	军团管理员泽拉
+467	免费双倍发放
+468	青铜匠师
+469	白银匠师
+470	黑暗匠师
+471	黄金匠师
+472	情缘点兑换
+473	结为密友
+474	离婚登记处
+475	黄金圣光使者
+476	祭祀学徒
+477	战场指引
+478	副本周常
+479	战场军需官
+480	符文镶嵌师
+481	深渊！魔星的末日领取人
+482	重生！圣域镇魂歌领取人
+483	大反攻！冰国邪神领取人
+484	守护星大使
+485	守护星军需官
+486	小伙伴训练师
+487	基加美修
+488	神战使者
+489	扫荡使者
+490	绶带出售 摩尔
+491	试炼幻境传送
+492	潘多拉

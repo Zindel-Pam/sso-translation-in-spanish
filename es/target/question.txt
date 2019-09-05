@@ -1,0 +1,618 @@
+0	Pregunta %d
+1	¡Respuesta correcta!
+2	¡Respuesta incorrecta!\r
+3	La respuesta es: %s
+4	Solución: %s
+5	¡Felicitaciones, completaste el Cuestionario de Kiki, haga click en el botón de abajo para recibir su recompensa y cerrar!
+6	Obtener Premio(s)
+7	¿Cómo cambiar la configuración de video para renderización "3D" o "estilo mangás"?
+8	En las configuraciones del sistema
+9	En una opción del NPC
+10	Al pulsar las teclas ALT+G
+11	Sólo eligiendo al inicio del juego
+12	¿Cómo ocultar temporalmente a otros jugadores?
+13	ALT+P
+14	ALT+V
+15	ALT+H
+16	ALT+E
+17	¿Cuál tecla de atajo debe ser utilizada para recoger artículos en el suelo?
+18	F
+19	H
+20	ALT
+21	SHIFT+M
+22	En el juego, en circunstancias especiales, ¿quien tiene el derecho de pedir su ID y Contraseña?
+23	Nadie tiene el derecho de hacerlo
+24	Otros jugadores
+25	El GM que está online
+26	El servicio de atención y soporte
+27	¿Qué hacer cuando su inventario está lleno?
+28	Mover algunos artículos para almacén
+29	Vender a otros jugadores
+30	Vender en las tiendas
+31	Descartar todo
+32	Cuando no estás seguro acerca de alguna acción de otro jugador, ¿cuál es la mejor acción a tomar?
+33	Hacer una denuncia al soporte
+34	Pulsar arriba, abajo, izquie., dere. ABAB
+35	Cerrar el juego por 1 hora
+36	Ignorar y seguir jugando
+37	Si alguién contar sobre alguna premiación especial en el juego, ¿cómo proceder?
+38	Sólo creer en noticias oficiales
+39	Hacer todo lo que la persona dice
+40	Ignorar
+41	Llamar amigos para ganar los premios
+42	¿Por medio de cual de las siguientes maneras es posible dividir los artículos apilados en el inventario?
+43	ALT + Arrastrar el artículo a otro slot
+44	Arrastrar con el mouse directamente
+45	Doble click en el botón derecho.
+46	Botón derecho del mouse y luego, dividir
+47	Al usar la plataforma para formar el equipo, cuando hay la inscripción de 6 jugadores en el grupo, ¿qué pasará?
+48	Ignora restric. de Signo y se teletransporta
+49	Es necesario llenar las restric. de Signo
+50	No hace fila, necesita de registro individual
+51	El sistema organizará los grupos
+52	Cuando tu personaje está atascado, ¿qué hacer?
+53	En Opciones, use la función "Char Preso”
+54	Relogar
+55	Usar la habilidad "Retornar”
+56	Pedir ayuda a otros jugadores
+57	¿Cómo encontrar un NPC en el juego?
+58	Abra el mapa y mirar la lista de NPCs
+59	Pregunte a otro NPC
+60	Pedir ayuda al GM Online
+61	Salir buscando
+62	¿Cómo activar el modo de correr cuando esté en ruta automática?
+63	Mantenga pulsada la tecla "SHIFT"
+64	Mantenga pulsado el botón izqui. del mouse
+65	Mantenga pulsado el botón dere. del mouse
+66	¡Agitar la pantalla de la computadora!
+67	¿Cómo encontrar jugadores de nivel similar al tuyo y tornarse amigos?
+68	Utilizando el sistema de "Colegas"
+69	Publicando un anuncio en el Santuario
+70	Gritando en el canal del juego
+71	Agregando a los jugadores que estás viendo
+72	¿Cómo recupero la Barra de Energía?
+73	La recuperación es automática
+74	Entrenando al Pet
+75	Quemando el Cosmos
+76	Derrotando otros jugadores
+77	¿Cómo derrotar a un monstruo muy poderoso?
+78	Llame un amigo para ayudarlo
+79	¡Huye!
+80	Burlese del Monstruo
+81	Llame el GM para ayudar
+82	¿En qué situaciones el Guardián de la Astrología puede ser utilizado?
+83	En una Zona de Instancia
+84	En un grupo
+85	En cualquier situación
+86	En horarios específicos del día
+87	¿Cuales de las siguientes no es una ventaja de unirse a un ejercito?
+88	Llamar atención y burlarse de todos
+89	Conocer nuevos amigos
+90	Unirse a otros jugadores en batalla
+91	Obtener recompensas por el ejército
+92	¿Cómo seguir a los otros jugadores?
+93	Usa la opción "Seguir"
+94	Ir inmediatamente atrás de este jugador
+95	Pedir para el jugador dejarte seguirlo
+96	Pedir al NPC para seguir el jugador
+97	Correr rápidamente, bloquear y desviar ¿qué consumen?
+98	Energía
+99	HP
+100	Pericia
+101	Cosmos
+102	¿Cual de las siguientes no es una ventaja de añadir a otros jugadores y hacerlos amigos?
+103	Mejorar su Power
+104	Formar un grupo rápidamente
+105	Contactar facilmente con los amigos
+106	Obtener ayuda de los amigos
+107	¿Cuales teclas de atajo pueden ser pulsadas en el juego para bloquear ataques del enemigo?
+108	Q
+109	N
+110	R
+111	¿Dónde puedo comprar elixires de recuperación comunes y pan?
+112	Con NPCs Panaderos y Farmacéuticos
+113	En el Item Mall
+114	Todos los NPCs venden
+115	Ore para jugadores te regalen
+116	¿Qué debo hacer cuando los atajos de la barra de Habilidades están llenos?
+117	Expandir la tercera barra de atajos
+118	Remover habilidades sin uso de la barra
+119	Comprar un artículo para expandir la barra
+120	Ir al NPC para abrir una nueva barra
+121	¿Se puede utilizar la Caja Mágica para desmontar que tipo de equipamiento?
+122	Equip. no blancos y Nv.req. no sea + que 15
+123	Equipamiento Blanco
+124	No se puede desmontar los equipamientos
+125	Se puede desmontar cualquier equipamiento
+126	¿En cuál lugar de la interfaz se encuentra el icono de calendario?
+127	En la esquina superior derecha
+128	En la esquina superior izquierda
+129	En la esquina inferior izquierda
+130	En la esquina inferior derecha
+131	¿Cómo utilizar el almacén portátil?
+132	Recarga 1 Real para tornarse VIP
+133	Mejorando su almacén
+134	Buscar NPC específico para eso
+135	Solicitando en el Sitio Oficial
+136	¿Qué cambia en una Armadura al refinarla?
+137	Mejoría de atributos y cambio de forma
+138	Aumenta el conforto al vestirla
+139	Aumenta el precio de venta en tienda
+140	Aumenta Pericia
+141	¿Después de formar el equipo, como convocar a los compañeros de equipo para iren a su localización?
+142	Click en "Reunir Grupo"
+143	Grite en el canal del grupo
+144	Encontrando miembros manualmente
+145	Enviando cordinadas
+146	Con relación a los Pets ¿Cuál descripción sobre la función recoger artículos está correcta?
+147	Todos los Pets tienen esta función
+148	No es posible escoger la calidad de artículos
+149	Sólo Pets fuertes tienen esta función
+150	Pets guardados pueden usar esta función
+151	¿Cómo configurar la calidad de los artículos recogidos por el Pet?
+152	Configuraciones de recoger en Pet
+153	Configuraciones del sistema
+154	En la lucha, cuando el pet no es liberado
+155	NPC de procreación de Pets
+156	¿En que horario su grado de actividad es reseteado?
+157	6:00 horas
+158	Media noche
+159	Medio día
+160	14:00 horas
+161	¿Cómo enviar informaciones de artículos en el canal del chat?
+162	SHIFT + click en el icono del artículo
+163	Click en el artículo con el botón izquierdo
+164	Arrastre el artículo en la barra de chat
+165	Haga doble clic en el artículo
+166	¿Cómo bloquear todos los efectos visuales del juego?
+167	Pulsando F12 o ALT+L
+168	Pidiendo al GM
+169	Bajando un Plug-in
+170	Pidiendo a los jugadores de su grupo
+171	¿Cómo enviar informaciones de NPC en el canal del chat?
+172	SHIFT + click en la imagen del NPC
+173	Hablando con el NPC
+174	SHIFT
+175	Escribir el nombre del NPC en el canal
+176	En el evento "Atlantis", ¿la EXP y los drops obtenidos tienen relación con cual atributo del personaje?
+177	Nivel de cada personaje
+178	Nivel medio de la grupo
+179	Power del personaje
+180	Número de personas del grupo
+181	¿Cuáles son las reglas de recuperación automática de la energía de la Caja Mágica?
+182	Dos primeras horas online por día
+183	No se puede recuperar
+184	Cuando esté online, podrá recuperar
+185	Recupera en algunos horários
+186	¿Cuales son los beneficios de mejorar un equipamiento?
+187	Mejorar sus atributos
+188	Mejorar su apariencia
+189	Aumentar el conforto al usarlo
+190	¿En cuáles de las siguientes situaciones no es posible transferir propiedades entre equipamientos?
+191	Nivel Equip. Alvo < Nivel Equip. Origen
+192	Atrib. Equip. Alvo < Atrib. Equip. Origen
+193	Nivel Equip. Alvo > Nivel Equip. Origen
+194	Durabilidad del Equipamiento incompleta
+195	¿La Zona de Instancia de producción de equipamientos es actualizada en cuales de los horarios abajo?
+196	Todos los sábados 06:00 a.m
+197	Todos los martes 06:00 p.m
+198	Todos los días 01:00 a.m
+199	Todos los días 12:00 a.m
+200	¿Después de que el Líder emite una reunión, cuales acciones interrumpen el jugador en la ruta automática del camino?
+201	Moverse o usar habilidades
+202	Enviar mensages
+203	Pulsar SHIFT
+204	No pulsar nada
+205	¿La alteración en la mejora de equipamientos lleva a la pérdida del perfeccionamiento y de la propiedad de la Runa?
+206	No exactamente, sólo hay 1 transformación
+207	Sí, siempre es mejor recomenzar del cero
+208	Hay una pequeña pérdida
+209	No es posible hacer esa alteración
+210	¿A través de cuáles medios se puede obtener la Luz del Alma, que se utiliza en el perfeccionamiento?
+211	Realizando eventos
+212	Orando
+213	A través de Perfeccionamiento de Habilidad
+214	A través del Baño de Gloria
+215	¿A través de cuales medios se puede tener conocimiento de las debilidades del Power del proprio jugador?
+216	Hacer click en el botón "Po"
+217	Preguntando al NPC del Santuario
+218	Buscando estratégias online
+219	Preguntando al GM
+220	¿Cuál de los siguientes no es un medio para aumentar la fuerza del propio jugador?
+221	Pasear por todos los lugares
+222	Refinar equipamientos
+223	Clavetear runas
+224	¿Qué materiales se debe recoger para obtener una Armadura de Bronce Común?
+225	Fragmentos de Bronce
+226	Materiales de producción o Pociones
+227	Materiales de equipamientos
+228	Materiales recogidos en general
+229	¿Cómo alterar las configuraciones del atajo estándar?
+230	Cambiar configuraciones de atajos en Config
+231	Pidiendo al GM
+232	No se pueden cambiar los atajos
+233	La Habilidad de la Armadura mejora las habilidades. ¿Cómo obtener y usar la habilidad de Armadura?
+234	Refinar y uso configurado de Hab. Armadura
+235	Regalo de amigos y uso conf. de Hab. Arma.
+236	Obtener y usar automáticamente
+237	Aumento pericia y uso conf. de Hab. Arma.
+238	Cuando el nivel requerido por la Quest principal no es suficiente, ¿qué puedes hacer?
+239	Quest secundarias, todo tipo de eventos
+240	Quest principal
+241	Zona de Instancia de Enredo
+242	No se puede hacer nada
+243	Cuando haya artículos que necesitan tirar los dados para decidir a quién pertenecen, ¿cuál es el procedimiento correcto?
+244	Esperar el sistema decidir
+245	Salir de la Zona de Instancia
+246	Ir a otros mapas
+247	Cambiar de canal
+248	¿En cuál de los siguientes lugares se puede abrir una tienda privada?
+249	En cualquier lugar en el mapa
+250	En la Arena Galáctica
+251	En el Campo de Batalla
+252	En la base del ejército
+253	¿Cómo enviar las coordinadas del mapa en el canal del chat?
+254	SHIFT + click en el mapa
+255	En el símbolo sobre el mapa
+256	ALT + cllick en el mapa
+257	Doble click en el mapa
+258	¿Cómo interrumpir el lanzamiento de una habilidad del enemigo durante la batalla?
+259	Usar habilidad básica "interrumpir"
+260	Correr lo más lejos posible
+261	Continuar el ataque al enemigo
+262	Cambiar su posición lo más rápido posible
+263	Dentro de la Zona de Instancia, si encuentras el "Ladrón Caballero", ¿cuál es el procedimiento más razonable?
+264	Espera todo el grupo para pegar
+265	A escondidas, deshacerse de él
+266	Atacar primero es vantaja, no avisar a nadie
+267	Fingir que no lo has visto
+268	¿Cómo entrar en el modo de cámara?
+269	ALT + Z
+270	ALT + F
+271	ALT + S
+272	ALT + K
+273	¿Las actividades semanales serán actualizadas en cuáles horarios abajo?
+274	Viernes 09:00 p.m
+275	Lunes 10:00 a.m
+276	Ocultando la interfaz del juego
+277	ALT + Q
+278	¿Cómo evitar un ataque accidental en otro jugador?
+279	Configurar el botón PK
+280	No haga click en otros jugadores
+281	Mantenerse lejos de todos
+282	Configuraciones avanzadas
+283	El Signo de Pegaso tiene un daño adicional de 50%, ¿pero en cuál atributo?
+284	Viento
+285	Agua
+286	Tierra
+287	Trueno
+288	El Signo de Cisne tiene un daño adicional de 50%, ¿pero en cuál atributo?
+289	Durante el proceso de negociación, ¿Cuándo hacer la verificación de los artículos negociados para evitar que la otra parte reduzca furtivamente la cantidad de los mismos?
+290	Después de ambos lados bloqueen
+291	Después de ambos lados pongan los bienes
+292	Después que tú pongas los bienes
+293	Demasiado trabajo, ¡negociar de una vez!
+294	El Signo de Dragón tiene un daño adicional de 50%, ¿pero en cuál atributo?
+295	El Signo de Andrómeda tiene un daño adicional de 50%, ¿pero en cuál atributo?
+296	El Signo de Fénix tiene un daño adicional de 50%, ¿pero en cuál atributo?
+297	Fuego
+298	¿Cómo hacer nacer las alas de la Armadura cuando el nivel es inferior a 66?
+299	Alcanzar 40000 de Power
+300	Implorar a la Diosa 100 veces
+301	Implorar a Kurumada 100 veces
+302	Desvestir y vestir la Armadura 100 veces
+303	¿Cómo hacer nacer las alas de la Armadura cuando el nivel es inferior a 86 y superior a 66?
+304	Alcanzar 100000 de Power
+305	Implorar a la Diosa 200 veces
+306	Implorar a Kurumada 200 veces
+307	Desvestir y vestir la Armadura 200 veces
+308	¿Cómo hacer nacer las alas de la Armadura cuando el nivel es superior a 86?
+309	Alcanzar 180000 de Power
+310	Implorar a la Diosa 300 veces
+311	Implorar a Kurumada 300 veces
+312	Desvestir y vestir la Armadura 300 veces
+313	Despúes de alcanzar un determinado nivel, el Power de las alas de la Armadura requiere un aumento, ¿Qué pasará con las alas originales de bajo nivel?
+314	Todavía será salvada
+315	Desaparecerá después de 3 días
+316	Desaparecerá después de 10 días
+317	Desaparecerá directamente
+318	Después de cambiar de signo, ¿Qué pasará con las alas originales de la Armadura?
+319	Cambia para las alas del nuevo Signo
+320	Mantiene las alas originales de Armadura
+321	Después de 3 días, cambiará las alas
+322	¿Cómo los grupos se transforman en Raid?
+323	El Líder del grupo hace click en "Crear Raid"
+324	Agregar más miembros al grupo
+325	Solicitud de fusión con otro grupo
+326	Escribir "organizar raid" en el chat
+327	¿Cómo montar después de conseguir una montura?
+328	Vestir la montaría y usar la habilidad "Montar"
+329	Montará automáticamente al vestir
+330	Haz clic en herramientas de montaría
+331	Gritar: ¡Quiero montar en un caballo!
+332	¿Cuál de las siguientes parejas no es una pareja romántica?
+333	Milo y Camus
+334	Ikki y Esmeralda
+335	June ​​y Shun
+336	Shiryu y Shunrei
+337	¿Cuál de los siguientes caballeros no es bello?
+338	Jamian de Cuervo
+339	Afrodita de Piscis
+340	Sorento de Sirena
+341	Misty de Lagarto
+342	¿Cuál Caballero Dorado es el más bello?
+343	Dohko de Libra
+344	Camus de Acuario
+345	Máscara de la Muerte de Cáncer
+346	¿Cuál de las siguientes combinaciones no tienen ninguna relación de sangre?
+347	Hyoga y Isaac
+348	Aioria y Aioros
+349	Shun y Ikki
+350	Saga y Kanon
+351	¿Cuál de las siguientes personas no es una mujer?
+352	Marin de Águila
+353	Shina de Ofiuco
+354	Pandora
+355	¿Con quién Cassios tiene una relación más próxima?
+356	Geki de Oso
+357	Ikki de Fénix
+358	¿Dragón Naciente es un gran golpe de cual Caballero?
+359	Shiryu
+360	Seiya
+361	Dohko
+362	Hyoga
+363	¿Muro de Cristal y Extinción Estelar son grandes golpes de cual Caballero Dorado?
+364	Mu de Aries
+365	Shaka de Virgo
+366	Aioria de Leo
+367	¿Quién es el Caballero Dorado de la Casa de Leo?
+368	Aioria
+369	Máscara de la Muerte
+370	Afrodita
+371	Camus
+372	¿Cuál caballero ayudó a Atenea a escapar del Santuario hace 13 años?
+373	Sagitario
+374	Capricornio
+375	Aries
+376	Virgo
+377	Durante la batalla de las Doce Casas, ¿Cuál Caballero Dorado facilitó para Seiya y sus compañeros?
+378	Shura de Capricornio
+379	¿Dónde obtener la Armadura del Cisne?
+380	Siberia Oriental
+381	Rozan
+382	Santuario
+383	Isla de la Reina Muerte
+384	¿Cuál es la tercera de las Doce Casas Doradas?
+385	Casa de Géminis
+386	Casa de Tauro
+387	Casa de Acuario
+388	Casa de Cáncer
+389	En relación a descripción de Andrómeda, ¿Qué artículo no es apropiado?
+390	Adicto en batallas
+391	Armadura representa una mujer
+392	Amor complejo por su hermano mayor
+393	Heterosexualidad
+394	¿Quién de la lista de abajo no es un personaje de "Los Caballeros del Zodiaco"?
+395	Kratos de Esparta
+396	Kiki de Jamir
+397	Shaka del Río Ganges
+398	Dohko de Rozan
+399	¿Cuál es el nombre del Dios del Sueño?
+400	Hypnos
+401	No me acuerdo
+402	Thanatos
+403	Darnasus
+404	¿Cuál de estos no es uno de los Tres Jueces del Inframundo?
+405	Lin, Estrella Celeste de la Valentía
+406	Rhadamanthys Estrella Celeste de la Furia
+407	Aiacos, Estrella Celeste de la Valentía
+408	Minos , Estrella Celeste de la Nobleza
+409	¿De quién es el golpe que puede hacer con qué los nueve grandes planetas no se muevan más, que puede hacer un eclipse eterno, llevando cielo y tierra a la oscuridad?
+410	Hades, Rey del Inframundo
+411	Pegaso Negro
+412	Cassios
+413	Ban de Leo Menor
+414	¿Quién es el Caballero Dorado de la Casa de Capricornio?
+415	Shura
+416	Saga
+417	Aioros
+418	Milo
+419	¿De qué constelación usó un arco el Caballero para herir Saori?
+420	Sagita
+421	Cuervo
+422	Águila
+423	Ofiuco
+424	¿Cuál cuerno Seiya corta del Tauro (Caballero Dorado de Tauro)?
+425	Cuerno izquierdo
+426	Cuerno derecho
+427	Los dos cuernos
+428	No corta
+429	¿Quién es el caballero conocido como el "hombre más cercano de dios"?
+430	Shaka de Virgo
+431	Afrodita de Piscis
+432	Dohko de Libra
+433	Aldebarán de Tauro
+434	¿Con qué mujer Shun, uno de los cinco protagonistas de bronce, más se parece?
+435	La compañera de Ikki, Esmeralda
+436	La compañera de Shiryu, Shunrei
+437	Shina
+438	Marin
+439	¿Qué par de personajes abajo no tienen relación de sangre?
+440	Seiya y Marin
+441	Ikki y Shiryu
+442	Hyoga y Mitsumasa Kido
+443	Seiya y Shiryu
+444	En relación a Seiya, ¿Cuál es la descripción correcta?
+445	Seiya cortó la oreja de Cassios con la mano
+446	Seiya entrenó en Siberia Oriental
+447	El maestro de Seiya es Camus
+448	Uno de los golpes de Seiya es Cero Absoluto
+449	¿Quién es el Caballero Dorado de la Casa de Virgo?
+450	Shaka
+451	¿Cuál es la segunda de las Doce Casas Doradas?
+452	Casa de Piscis
+453	Casa de Leo
+454	¿Cual es la quinta de las Doce Casas Doradas?
+455	Casa de Escorpio
+456	Casa de Libra
+457	¿Quién toma la pequeña Saori de las manos del Gran Maestro?
+458	Aioros
+459	¿De quién es la Armadura Dorada que Seiya viste cuando derrota a Poseidón?
+460	Acuario
+461	Libra
+462	¿Cómo se llama el maestro de Shiryu?
+463	Mu
+464	Entre los Doce Caballeros Dorado, ¿A quién fue concedida la Excalibur?
+465	¿Cual es la séptima de las Doce Casas Doradas?
+466	Casa de Libra
+467	¿Quién es el Caballero Dorado de la Casa de Escorpio?
+468	Entre los Caballeros, ¿Quién participó de 2 Guerras Santas?
+469	¿Cuál habilidad manipula la miente del enemigo creando ilusiones, para destruir su capacidad defensiva y ofensiva?
+470	Golpe Fantasma de Fénix
+471	Ave Fénix
+472	Meteoro de Pegaso
+473	Dragón Naciente
+474	En la casa de Acuario, ¿Cuál es la técnica de congelación más fuerte que Camus enseña a Hyoga?
+475	Ejecución Aurora
+476	Trueno Aurora Ataque
+477	Ataúd de hielo
+478	¿Cuál es la octava de las Doce Casas Doradas?
+479	Cuando las Armaduras se rompen, ¿Quién no deja que Mu las arregle?
+480	Ikki
+481	Shun
+482	En el Santuario, ¿Cuál de las Caballeras se enamora de Seiya?
+483	Saori
+484	¿Cuál es la primera Armadura Dorada que Seiya viste?
+485	De Géminis
+486	Cuando Seiya está en batalla de las Doce Casas, ¿Quién es el primer Caballero Dorado que es derrotado?
+487	Aldebarán
+488	¿La armadura de cual constelación es un arsenal de armas?
+489	Piscis
+490	¿Quién es la persona que sufre de un disturbio de personalidad esquizofrénica?
+491	Hagen
+492	Minos
+493	¿Quién es el Caballero Dorado de la Casa de Géminis?
+494	De los cinco protagonistas de bronce, ¿La armadura de cual constelación posee la capacidad de regenerarse?
+495	Fénix
+496	Dragón
+497	Andrómeda
+498	Cisne
+499	¿Cuántas Constelaciones Doradas son?
+500	De los 12 Dorados, ¿Quién asesinó a Shion para ocupar el lugar del Gran Maestro?
+501	¿A quién llaman "Traidor del Santuario?
+502	Docrates
+503	¿Quién cortó el cuerno de la Armadura Dorada de Tauro?
+504	¿Cuál es la décima de las Doce Casas Doradas?
+505	Casa de Capricornio
+506	Después que Shun usa la cadena para atacar la Ilusión de Géminis, ¿La cadena trae de vuelta qué objeto que estaba en el cuerpo de Saga?
+507	Cuentas
+508	Botón
+509	Broche
+510	Yelmo
+511	¿Qué arma de la Armadura de Libra usa Shiryu para abrir el ataúd de hielo y salvar a Hyoga?
+512	Espada
+513	Nunchaku
+514	Escudo
+515	Lanza
+516	¿Quién es el Caballero Dorado de la Casa de Aries?
+517	¿Quién es el Caballero Dorado de la Casa de Piscis?
+518	¿Máscara de la Muerte habia sido enviado por Saga para matar a quién?
+519	¿Por qué Dohko se queda en posición de meditación en frente a la Cascada de Rozan?
+520	Supervisar las estrellas malignas selladas
+521	Elevar el Cosmos
+522	Observar a los jóvenes Caballeros
+523	Pensar sobre la vida
+524	¿En la lucha de las Doce Casas, Saga comienza a usar el Satán Imperial primero en cual Caballero Dorado?
+525	Cuando los cinco protagonistas de bronce pasan por la primera Casa, durante la batalla de las Doce Casas, ¿Quién es el que los ayuda a arreglar las Armaduras?
+526	Mu
+527	Kiki
+528	Saori Kido
+529	¿Cuál es la undécima de las Doce Casas Doradas?
+530	Durante la Saga de Hades: Capítulo Infierno, ¿Quién perfora el Muro de las Lamentaciones?
+531	Los 12 Caballeros Dorados
+532	Los 5 protagonistas de bronce
+533	108 Espectros de Hades
+534	Poseidón
+535	Durante la Saga de Hades, Capítulo Eliseos, ¿Seiya tiene la espada de Hades defendida por quien?
+536	Atenea
+537	En Los Caballeros del Zodiaco, ¿Dónde entrena Ikki?
+538	Cinco Cumbres Antíguos
+539	Isla de Andrómeda
+540	Europa Nórdica
+541	Durante la Saga de Hades, Capítulo Infierno, ¿Dónde los 12 Caballeros Dorado se reúnen al final?
+542	Muro de las Lamentaciones
+543	Cocito
+544	Giudecca
+545	Templo de Atenea
+546	Durante el episodio Hades, ¿Qué arma de los Caballeros Dorado usan para perforar el Muro de las Lamentaciones?
+547	La Flecha Dorada de Sagitario
+548	Cetro divino de Atenea
+549	Lanza de la Armadura de Libra
+550	Puñal Dorado
+551	Durante la Saga Hades, capítulo Santuario, ¿Dónde Shaka batalla ferozmente con esas tres personas? Saga, Camus y Milo?
+552	Jardín de los Árboles Gemelas
+553	Torre del Reloj
+554	Salón del Gran Maestro
+555	Monte de las Estrellas
+556	¿El ejército que está de acuerdo con cuales condiciones puede solicitar una base?
+557	Todos pueden tener una base
+558	5 primeros lugares en las calificaciones
+559	500 personas en el ejército
+560	Nivel 3 del ejército
+561	¿En qué circunstancias la base del ejército será tomada de vuelta por el sistema?
+562	Fondos insuficientes
+563	Número de personas < 100
+564	Mariscal renúncia de la base
+565	No obtener ranking suficiente
+566	¿Qué acciones pueden aumentar el nivel de amistad de tus amigos?
+567	Formar grupos o usar juegos de adivinación
+568	Enviar Rosas
+569	Formar equipo después de periodo de tiempo
+570	Hablar privadamente
+571	¿Cuál tecla de atajo puede abrir la interfaz de editor Macro del Menú de habilidades?
+572	K
+573	ALT+G
+574	CTRL+Y
+575	¿Cuál de los siguientes no es una función que puede ser implementada en el editor Macro?
+576	Explosión automática del Cosmos
+577	Elegir monstruo automáticamente
+578	Área fija para golpear los monstruos
+579	Usar Elixir automáticamente
+580	¿En el evento "Crisis en las Doce Casas", la EXP obtenida y dropada tiene relación com cuál atributo del personaje?
+581	¿En el evento "Prueba Dorada", la EXP obtenida y dropada tiene relación con cuál atributo del personaje?
+582	
+583	如何快速找到包裹内可用魔盒分解的装备？
+584	打开魔盒分解页，包裹内闪亮的即是
+585	一目十行的快速扫过装备说明
+586	所有装备都可以分解
+587	所有装备都无法分解
+588	当你发现经验涨满却无法升级时，要如何升级？
+589	按C键打开面板，手动升级
+590	继续游戏，等级会自动提升
+591	做活动，自动提升
+592	打副本，自动提升
+593	足够的觉悟才能升级，如何才能提高觉悟值？
+594	学习技能或升级技能
+595	击杀怪物
+596	做任务
+597	组队副本
+598	哪几个部位可以使用魔盒升阶提升属性？
+599	灵石、手环、徽章和珠链
+600	发带，戒指，项链
+601	上衣，裤子
+602	时装
+603	点击雷达左侧战力体检按钮进行查看
+604	处女座 
+605	沙加 
+606	凤翼天翔 
+607	凤凰座 
+608	12
+609	24
+610	48
+611	64
+612	星矢 
+613	艾欧里亚 
+614	朱狄加 
+615	黄金匕首 
+616	上周军团活跃度前200名
+617	上周军团活跃度掉到前200名以后

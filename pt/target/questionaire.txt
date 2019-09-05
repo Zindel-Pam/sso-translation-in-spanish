@@ -1,0 +1,336 @@
+0	Por favor, selecione uma resposta!
+1	A pesquisa não pôde ser concluída, por favor entre novamente!
+2	Obrigado por participar na pesquisa, inserimos uma recompensa em seu inventário.
+3	Você abriu o questionário 1
+4	O que você acha da dificuldade do jogo?
+5	Fácil
+6	Difícil
+7	Muito Difícil
+8	Super Difícil
+9	Você acha que Yao Yao estava bonito?
+10	Credo
+11	Indescritível
+12	Trágico
+13	Maravilhoso
+14	O que você acha do jogo?
+15	Divertido
+16	Particularmente divertido
+17	Muito divertido
+18	Nunca me diverti tanto
+19	Quem você acha melhor que o Seiya?
+20	Shiryu
+21	Hyoga
+22	Shun
+23	Ikki
+24	Se estiver perdendo de 100, o que deve fazer?
+25	Passar direto
+26	Correr
+27	Se a pontuação é 10, não seria melhor ficar um pouco mais?
+28	Que pergunta boba. O que você escolheria?Agora, para te dar uma oportunidade
+29	10 pontos
+30	Questionário 2
+31	O que acha das recompensas?
+32	Bom
+33	Ruim
+34	Insuficiente
+35	Demais
+36	1234567?
+37	Obrigado por participar no primeiro questionário Saint Seiya online, sua resposta vai servir como uma referência importante e nos permitir fornecer um serviço melhor.\r Hoje, por favor, responda à primeira parte - Informações Gerais
+38	Qual é o seu sexo?
+39	Masculino
+40	Feminino
+41	Podemos perguntar quando você nasceu?
+42	Antes de 1970
+43	Entre 1970 e 1979
+44	Entre 1980 e 1989
+45	Entre 1990 e 1999
+46	Após 2000
+47	Qual é o seu nível de escolaridade?
+48	Fundamental
+49	Colegial
+50	Técnico
+51	Faculdade
+52	Pós-graduação ou superior
+53	Qual é a sua ocupação?
+54	Servidor Público
+55	Empregado Estatal
+56	Setor Privado
+57	Agricultura e Indústria
+58	Serviços e Negócios
+59	Autônomo
+60	Freelancer
+61	Estudantes (ensino médio)
+62	Estudantes (faculdade)
+63	Outro
+64	Qual é a renda mensal de sua casa?
+65	Sem renda fixa
+66	1000
+67	1001~3000
+68	3001~5000
+69	5001~8000
+70	Mais de 8000
+71	Onde você viveu por mais tempo?
+72	Região Sul
+73	Região Norte
+74	Região Sudeste
+75	Região Nordeste
+76	Região Centro-Oeste
+77	Não sei dizer
+78	Exterior
+79	Quanto você gasta por mês no jogo?
+80	10 reais
+81	11~25 reais
+82	25~50 reais
+83	51~100 reais
+84	Mais de 100 reais
+85	Qual período do dia você joga?
+86	Das 08h00 às 12h00
+87	Das 12h00 às 14h00
+88	Das 14h00 às 18h00
+89	Das 18h00 às 22h00
+90	Das 22h00 às 08h00
+91	24 horas por dia!
+92	Sem período fixo
+93	Você já leu o mangá ou assistiu o anime do jogo?
+94	Há muito tempo
+95	Já li, mas não assisti
+96	Nunca
+97	Hoje, por favor, responda à segunda parte do questionário, obrigado pela participação na pesquisa novamente.
+98	Quais são as coisas que você mais se preocupa com o jogo?
+99	Se terei amigos por lá
+100	Tema e estilo do jogo
+101	Design e história
+102	Interface atrativa
+103	PVP e conteúdo
+104	Equilíbrio do jogo
+105	Valor dos itens
+106	Qual é o elemento mais importante para que você teste um novo jogo?
+107	Publicidade online
+108	Recomendação de amigo
+109	Notícias relacionadas
+110	Publicidade offline
+111	Banners na internet
+112	Gameplay de outros usuários
+113	Eventos offline
+114	Associações com outros produtos
+115	Se você parou de jogar por muito tempo, o que te faria voltar ao jogo?
+116	Sinto-me melhor jogando outro jogo
+117	Novos contéudos
+118	Amigos chamando de volta
+119	Recompensa para voltar à jogar
+120	Se você retornou a um jogo, o que levou você a ficar novamente?
+121	Novo conteúdo interessante
+122	Ainda tinha amigos antigos jogando
+123	Muitas recompensas de retorno
+124	Após o retorno, evolução mais rápida
+125	Como você convenceria seu amigo a voltar para o jogo?
+126	Falo sobre novos conteúdos
+127	Nostalgia
+128	Recompensas pelo retorno
+129	Novos conteúdos precisam de ajuda dos amigos
+130	Da lista abaixo, com o que você mais se identifica?
+131	História
+132	Desafio de classes
+133	Trabalho em equipe
+134	PVP e confrontos
+135	No jogo, o que é mais interessante para você?
+136	Mitologia grega
+137	Personagens
+138	Armaduras
+139	Cenas e CGs
+140	Aumento do Cosmo
+141	Golpes clássicos
+142	Variações da trama
+143	Música nostálgica
+144	Qual é seu principal objetivo em jogos online?
+145	Novos amigos
+146	Fortalecer laços com amigos da vida real
+147	Ficar mais forte e ser reconhecido
+148	Ficar rico
+149	Apenas diversão
+150	Participar do PVP
+151	Entender tudo do jogo
+152	Ajudar outros jogadores
+153	Apenas matar o tempo
+154	Que tipo de informação secundária é mais importante para você?
+155	Artwork
+156	Paródias/Memes
+157	Ilustrações
+158	COSPLAY
+159	Que tipo de atividades ou eventos você acha que seus amigos gostariam mais para jogar Saint Seiya Online?
+160	Recompensas generosas
+161	Sistema de amigos
+162	Melhores gráficos
+163	Encontro de jogadores
+164	Hoje, por favor, responda à terceira parte do questionário, obrigado pela participação na pesquisa novamente.
+165	Você está mais interessado em qual atividade de jogo?
+166	Disputa (como PVP entre servidores)
+167	Experiência de classes
+168	Ganhar privilégios
+169	Eventos de EXP
+170	Interação Online
+171	Interação Offline
+172	Recompensas
+173	Sorteios
+174	Concursos Culturais
+175	Exposição
+176	De onde você retira informações oficiais do jogo?
+177	Site oficial / Fórum
+178	Fansites
+179	Sites Especializados
+180	Portal de Jogos
+181	Outro site
+182	Youtube
+183	Revistas e Jornais Especializados
+184	Televisão
+185	Campanhas na Internet
+186	Amigos
+187	De que canal você tira suas informações de CDZ?
+188	Tenho interesse em tudo sobre CDZ
+189	Gosto da Temática
+190	Anúncios na TV
+191	Anúncios Online
+192	Cartões Promocionais
+193	Mangá
+194	COSPLAY
+195	Ao ver um vídeo promocional, o que mais te chama atenção?
+196	Tema
+197	Ambientação
+198	Efeitos Visuais
+199	Mecânica de Combate
+200	Possibilidade de Ganhos
+201	Sistemas de Comunidade
+202	Rede Social preferida?
+203	Quase não uso
+204	Facebook
+205	Twitter
+206	Instagram
+207	Hello
+208	Reddit
+209	4Chan
+210	VK
+211	Uso somente para mensagens
+212	Onde você vê vídeos?
+213	Não assisto
+214	Youtube
+215	Instagram
+216	Facebook
+217	Televisão
+218	GameTrailers
+219	Sites Especializados
+220	Sites não relacionados
+221	Outro
+222	Normalmente você vai ler quadrinhos em que sites?
+223	Compro versões físicas
+224	Sites alternativos
+225	Omelete
+226	Dark Horse
+227	DC Comics Online
+228	Marvel Comics Online
+229	Responda por favor a última parte desta pesquisa, obrigado pela sua participação até o momento!
+230	Além do CDZ, você joga outros jogos?
+231	Joguei
+232	apenas CDZ
+233	Qual é o seu tipo favorito de jogo?
+234	MMORPG
+235	Luta Arcade
+236	Jogos Casuais
+237	Jogos Individuais
+238	Cards e Tabuleiro
+239	Webgames
+240	Console e Portáteis
+241	Jogos para Celular
+242	Você presta atenção em anúncios ao ar livre?
+243	Atenção consciente
+244	Somente em informações de interesse
+245	Geralmente não
+246	Deliberadamente evito
+247	Melhores lugares para anúncios ao ar livre?
+248	Elevadores
+249	Ônibus ou Metrô
+250	Quadro de Luz (avenidas)
+251	Cartazes em Mercados
+252	Canal de TV Favorito?
+253	Globo
+254	SBT
+255	Rede TV
+256	TV Brasil
+257	Record
+258	Cultura
+259	Band
+260	Você costuma assistir TV em que momento?
+261	Você gosta do que tipo de propaganda na TV?
+262	Anúncio quente
+263	Anúncio apaixonante
+264	Anúncio com afeto
+265	Anúncio de suspense
+266	Anúncio chocante
+267	Anúncio emocionante
+268	Anúncio direto e eficiente
+269	Obrigado por participar no segundo questionário Saint Seiya online, sua resposta vai servir como uma referência importante e nos permitir fornecer um serviço melhor.
+270	Antes de participar desta pesquisa, o quanto você conhecia de Saint Seiya Online?
+271	Um pouco, acho interessante
+272	Já li sobre, tenho interesse
+273	Um amigo me disse sobre
+274	Nunca ouvi falar
+275	O que você acha de Saint Seiya Online?
+276	Engraçado
+277	Paródia bem feita
+278	Precisa melhorar
+279	Não gosto nem um pouco
+280	Onde você assiste Cavaleiros do Zodíaco?
+281	Portal de Vídeos
+282	Sites de Jogos
+283	Um amigo me apresentou
+284	Não vejo
+285	Através de vocês
+286	Sistemas de Buscas
+287	Sites de Vídeos (pesquisa)
+288	Compartilhamento em redes sociais
+289	Sites de vídeos recomendados
+290	Nunca procurei
+291	Qual é o efeito de Propaganda do desenho Cavaleiros do Zodíaco sobre o Saint Seiya Online
+292	Acho estranho como propaganda
+293	Pode direcionar jogadores a conhecer
+294	Pode estimular interesse
+295	Sem efeito
+296	 Como vc acredita que "Os Cavaleiros do Zodíaco" pode atrair a atenção dos jogadores para "Cavaleiros do Zodíaco Online"?
+297	Combinando eventos de ambos
+298	Com paródias de situações da história
+299	Com paródias de personagens
+300	Explicação da paródia dentro do jogo
+301	Por favor, selecione uma das seguintes opções, como podemos fazer o jogo e a história original ficarem mais próximas?
+302	Sugestões dos usuários
+303	Trazer coisas mais divertidas
+304	Usar cenários do jogo
+305	Adereços originais dentro da paródia
+306	Depois de ler essas informações, você tem interesse em Saint Seiya Online?
+307	Se tivesse data de lançamento fixa
+308	Se a história fosse mais engraçada
+309	Se tivesse um filme
+310	Se fosse mais equilibrado com o original
+311	Como você acha que Saint Seiya Online pode chamar mais atenção?
+312	Combinando pontos engraçados/memes
+313	Reformando a história original
+314	Acrescentando mais elementos
+315	Não sei como recomendar
+316	Você acha que após esse questionário, terá algum interesse em Saint Seiya Online?
+317	Sim
+318	Ocasionalmente acompanharei
+319	Talvez
+320	Não
+321	1
+322	2
+323	3
+324	4
+325	5
+326	6
+327	7
+328	8
+329	9
+330	10
+331	23
+332	45
+333	67
+334	北京\\上海\\广州\\深圳
+335	51
