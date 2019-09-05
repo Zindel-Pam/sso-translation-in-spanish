@@ -386,7 +386,7 @@
 385	energy props
 386	star casting props
 387	equipment synthetic props
-388	production materials
+388	crafting materials
 389	formula
 390	equipment
 391	gold coupon

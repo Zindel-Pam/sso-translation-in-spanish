@@ -15,7 +15,7 @@
 14	Equipment improvement
 15	Disassemble equipment through the Magic Box.
 16	Merge items through the Magic Box.
-17	Production skills
+17	Crafting skills
 18	Aries task guide
 19	Taurus task guide
 20	Gemini task guide
@@ -92,8 +92,8 @@
 91	Go to ${npc(11576)} to Refine any 1x Equipment
 92	Raise 1x the LV through the Magic Box
 93	Use ${dynamic_dir(4, "Magic Box")} to raise the LV of an Equipment
-94	Learning 1 Production Skill
-95	Go with ${npc(17542)} and learn some Production skill.
+94	Learning 1 Crafting Skill
+95	Go with ${npc(17542)} and learn some Crafting skill.
 96	Offer an offer of an item at the Auction
 97	Go to ${npc(11575)} and bid on an auction item
 98	Clave Rune 1x
@@ -109,7 +109,7 @@
 108	Refine the Equipment until the Power reaches 2000
 109	With ${npc(11576)} Perfect the Power at $2000 {jump (1)}
 110	Buy 1x supplies
-111	Go to ${npc(11303)} and ${npc(17282)} to buy 50 Danamarqueses and 50 HP Potions
+111	Go to ${npc(11303)} and ${npc(17282)} to buy 50 Danish Bread and 50 HP Potions
 112	Complete 1x Knights of the Goddess
 113	In ${dynamic_dir(55, "Programming of the Day")}, complete Knights of the Goddess.
 114	Complete 1x Destiny Challenge
@@ -1117,11 +1117,11 @@
 1116	Get the number of mounts
 1117	It will also crush your friends, it's something yours
 1118	A map for the identification number of a place to kill the player reached B
-1119	Reaching a level of production skills
+1119	Reaching a level of crafting skills
 1120	In the victory PVP slow pace over the number of teammates reached (Challenge)
 1121	In the number of slow pace consecutive PVP achieved victory (Knockout)
 1122	Level reached (Knockout) in the PVP, slowly
-1123	Production skills to reach any level 1
+1123	Crafting skills to reach any level 1
 1124	Star cloth classification to any cast
 1125	Cosmo reached the power of the stars
 1126	Reach form of perfection

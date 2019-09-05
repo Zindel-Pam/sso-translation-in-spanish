@@ -902,30 +902,30 @@
 901	Control the dragon in the sky
 902	Control the dragon in the sky
 903	Control the dragon in the sky
-904	Pasi.
-905	Acti.
-906	Pasi.
-907	Acti.
-908	Pasi.
-909	Acti.
-910	Pasi.
-911	Acti.
-912	Pasi.
-913	Acti.
-914	Pasi.
-915	Pasi.
-916	Acti.
-917	Acti.
-918	Pasi.
-919	Acti.
-920	Pasi.
-921	Acti.
-922	Pasi.
-923	Acti.
-924	Pasi.
-925	Acti.
-926	Pasi.
-927	Acti.
+904	PSV
+905	ACV
+906	PSV
+907	ACV
+908	PSV
+909	ACV
+910	PSV
+911	ACV
+912	PSV
+913	ACV
+914	PSV
+915	PSV
+916	ACV
+917	ACV
+918	PSV
+919	ACV
+920	PSV
+921	ACV
+922	PSV
+923	ACV
+924	PSV
+925	ACV
+926	PSV
+927	ACV
 928	Upgrade
 929	Upgrade
 930	Upgrade
@@ -4269,7 +4269,7 @@
 4268	Stupid low school
 4269	Help
 4270	Follow
-4271	Pasi.
+4271	PSV
 4272	Memory
 4273	Strengthening of score
 4274	Pet
@@ -4510,7 +4510,7 @@
 4509	Skill 3 name and level:
 4510	Skill 2 name and level:
 4511	Skill 1 name and level:
-4512	Production of skills
+4512	Crafting of skills
 4513	Learning
 4514	Cancel
 4515	Click to open the suspense menu
@@ -5110,20 +5110,20 @@
 5109	LV 1
 5110	LV 1
 5111	LV 1
-5112	Pasi.
-5113	Pasi.
-5114	Pasi.
-5115	Pasi.
-5116	Pasi.
-5117	Pasi.
-5118	Pasi.
-5119	Acti.
-5120	Acti.
-5121	Acti.
-5122	Acti.
-5123	Acti.
-5124	Acti.
-5125	Acti.
+5112	PSV
+5113	PSV
+5114	PSV
+5115	PSV
+5116	PSV
+5117	PSV
+5118	PSV
+5119	ACV
+5120	ACV
+5121	ACV
+5122	ACV
+5123	ACV
+5124	ACV
+5125	ACV
 5126	Upgrade
 5127	Name of the skill with 8 characters
 5128	Required level:
@@ -5814,7 +5814,7 @@
 5813	Release immediately
 5814	The distance to complete may be running out, there are still 9 seconds left!
 5815	Skills
-5816	Production
+5816	Crafting
 5817	Combo
 5818	Armor
 5819	Passive
@@ -5864,8 +5864,8 @@
 5863	Rhythm \rPerce 1 point per second in battle status and 2 points per second out of battle status \rInstead of 60 points, increases resistance to damage by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
 5864	Rhythm \rProtection of 1 point per second in battle status and 2 points per second outside battle status \rInstead of 60 points, increases resistance to damage by 5 %\rSuperior to 60 points, increases power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
 5865	Rhythm \rIt is 1 point per second in the battle status and 2 points per second out of the battle status \rInstead of 60 points, the resistance to damage increases by 5 %\rSuperior to 60 points, increases the power by 10 %of damage caused \rAl reach 100 points, get effect [Final Music], restoring the recharge time of some skills \rIncrease the power of damage caused by 10 %and for a time, keep the Rhythm at 100 points and then those points will restart.
-5866	Fúria \rLa Furia is the source of Wyrm's power \rSome skills need the Fúria to be used \rOutside combat, two Fúria points per second are reduced
-5867	Fúria \rLa Furia is the source of Wyrm's power \rSome skills need the Fúria to be used \rOutside combat, two Fúria points per second are reduced
+5866	Rage \rRage is the source of Wyvern's power \rSome skills need Rage to be used \rOutside the combat Rage is decreased  by two points per second
+5867	Rage \rRage is the source of Wyvern's power \rSome skills need Rage to be used \rOutside the combat Rage is decreased  by two points per second
 5868	Personality \rThe pointer to the left indicates Holy Personality and to the right indicates Demon Personality \rThe Holy Personality improves your ability to recover HP and support group companions \rThe Demon Personality can increase your power of cause damage \rFacing the power of the good, the pointer moves to the left side and vice-versa \rThe farther from the center is the pointer, the greater the power of some skills. The use of related skills makes the pointer go back to the middle.
 5869	Personality \rThe pointer to the left indicates Holy Personality and to the right indicates Demon Personality \rThe Holy Personality improves your ability to recover HP and support group companions \rThe Demon Personality can increase your power of cause damage \rFacing the power of the good, the pointer moves to the left side and vice-versa \rThe farther from the center is the pointer, the greater the power of some skills. The use of related skills makes the pointer go back to the middle.
 5870	Personality \rThe pointer to the left indicates Holy Personality and to the right indicates Demon Personality \rThe Holy Personality improves your ability to recover HP and support group companions \rThe Demon Personality can increase your power of cause damage \rFacing the power of the good, the pointer moves to the left side and vice-versa \rThe farther from the center is the pointer, the greater the power of some skills. The use of related skills makes the pointer go back to the middle.
@@ -8472,7 +8472,7 @@
 8471	9999999999/9999999999
 8472	1000/1000
 8473	task name task name task
-8474	99999999 point storage experience 1000 vouchers
+8474	...
 8475	20000000000
 8476	2013-04-28 20:02:23
 8477	11111111111
@@ -8574,7 +8574,7 @@
 8573	Current VIP level, you can enjoy the following portable services:
 8574	Friends and circles
 8575	soul
-8576	production
+8576	crafting
 8577	Guide to the Goddess of Wisdom
 8578	Team
 8579	Treasure Hunt

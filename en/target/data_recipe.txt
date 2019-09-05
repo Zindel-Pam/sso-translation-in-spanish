@@ -83,7 +83,7 @@
 82	Treasures
 83	Alchemist Lord of the Rings
 84	Treasures
-85	Precision Treasure Production Pendant
+85	Precision Treasure Crafting Pendant
 86	Treasures
 87	Spiritual Light
 88	Treasures

@@ -193,7 +193,7 @@
 192	Attrib. Equip. target <Atrib. Equip. Origin
 193	Equip level. target> Level Equip. Origin
 194	Durability of incomplete equipment
-195	Is the Instalation Zone for the production of equipment updated in which of the schedules below?
+195	Is the Instalation Zone for the crafting of equipment updated in which of the schedules below?
 196	Every Saturday 06:00 a.m.
 197	Every Tuesday 06:00 p.m
 198	Every day 01:00 a.m.
@@ -224,7 +224,7 @@
 223	Clave Runes
 224	What materials must be collected to obtain a Common Bronze Armor?
 225	Bronze fragments
-226	Production materials or Potions
+226	Crafting materials or Potions
 227	Equipment materials
 228	Materials collected in general
 229	How to alter the settings of the standard shortcut?
@@ -411,7 +411,7 @@
 410	Hades, King of the Underworld
 411	Pegasus Black
 412	Cassios
-413	Ban of Leo Menor
+413	Ban of Leo Cub
 414	Who is the Golden Knight of the House of Capricorn?
 415	Shura
 416	Saga

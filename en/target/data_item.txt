@@ -1444,7 +1444,7 @@
 1443	Tournament supply package
 1444	Pack of 4 elements of 星 华
 1445	Starlight Pack
-1446	Star Arena Pack
+1446	Silver Star Dust Pack
 1447	Tool refining package
 1448	Super Experience Light Pack
 1449	Spiritual Crystal Package
@@ -1885,7 +1885,7 @@
 1884	Spiritual Light + x10
 1885	Soul Light + x10
 1886	Bronze Star Dust x10
-1887	Star Arena x10
+1887	Silver Star Dust x10
 1888	Demonic Blood x3
 1889	Bronze Blood x3
 1890	Soul of War
@@ -1912,7 +1912,7 @@
 1911	Stardust Pack
 1912	Scroll of Protection of Astrology
 1913	Learning
-1914	Star Arena Pack
+1914	Silver Star Dust Pack
 1915	MVIP Win exclusive privilege of gift package level 10
 1916	Use
 1917	VIPM Package LV11
@@ -2912,7 +2912,7 @@
 2911	Leo Fang
 2912	Leo Fang
 2913	Sweet Candy Fashion Gift Pack
-2914	Gift package materials and production
+2914	Gift package materials and crafting
 2915	Aries Gift
 2916	Sacred · Gemini
 2917	Open armor box
@@ -7385,7 +7385,7 @@
 7384	Strength Pill
 7385	Super Strength Pill
 7386	Advanced pet food
-7387	pet food
+7387	Pet Food
 7388	Next pet food test
 7389	Evolved pet food test
 7390	Summon reel members level 10
@@ -7757,7 +7757,7 @@
 7756	Bag of Stars II
 7757	Light of experience
 7758	Book Oracle Silver
-7759	Star Arena
+7759	Silver Star Dust
 7760	Condensed Star Light
 7761	Hyper Potion III
 7762	Destination Data
@@ -11251,7 +11251,7 @@
 11250	White Bread
 11251	Pineapple Bread
 11252	Pan Integral
-11253	Danish bread
+11253	Danish Bread
 11254	Honey Bread
 11255	Dry and Hard Bread
 11256	Rye Bread
@@ -11874,8 +11874,8 @@
 11873	Legendary Mission Self-Hunt Plate B
 11874	Seal of the Land of Fantasy
 11875	Talisman of the King of the Underworld
-11876	Silver Star Arena · Determination of the Gods
-11877	Silver Star Arena · Fountain of Life
+11876	Silver Star Dust · Determination of the Gods
+11877	Silver Star Dust · Fountain of Life
 11878	Battlefield Chapter
 11879	Volume of Chaos (top) page destroyed
 11880	Volume of Chaos (low) page destroyed
@@ -11980,7 +11980,7 @@
 11979	Sacred Splendor
 11980	Holy Splendor +
 11981	Broken Mosaic
-11982	Star Arena Granule
+11982	Silver Star Dust Granule
 11983	Crystal of the Ocean
 11984	Crystal of Hell
 11985	Crystal of the Sky
@@ -12313,7 +12313,7 @@
 12312	Star Jade
 12313	Starlight
 12314	Star Splendor
-12315	Star Arena
+12315	Silver Star Dust
 12316	Goddess of God
 12317	Bronze Star Dust
 12318	Star Splendor (Pegasus)
@@ -12371,7 +12371,7 @@
 12370	Authorization [Gold] (4)
 12371	Fragment of the Golden Armor
 12372	Armor Authorization [Bronze]
-12373	Fragments Bronze
+12373	Bronze Fragment
 12374	Change - Golden Armor
 12375	Fragment of the Golden Armor
 12376	Part 1 Gemini
@@ -13757,7 +13757,7 @@
 13756	Exchange Bên. from Taurus
 13757	Lion (IV) Mos.
 13758	Exchange Bên. of Gem.
-13759	Star Arena Fountain
+13759	Silver Star Dust Fountain
 13760	Source of Fusion
 13761	Fuente de Campo
 13762	Soft Pearl
@@ -14472,7 +14472,7 @@
 14471	Mega Potion VI
 14472	Super Potion VII
 14473	Mega Potion VII
-14474	Precision bezel
+14474	Accuracy Scroll
 14475	War Blessing
 14476	Refuge of war
 14477	Soft blend
@@ -14651,7 +14651,7 @@
 14650	Formula: Decision Cane
 14651	Formula: Extract Crystal
 14652	Formula: Transforming the star
-14653	Formula: Star Arena Granule
+14653	Formula: Silver Star Dust Granule
 14654	Formula: Jade Bangle of Promise
 14655	Formula: Purify space
 14656	Formula: Pink of the Night
@@ -14670,7 +14670,7 @@
 14669	Formula: Star Blessing
 14670	Formula: Hammer of Jamir
 14671	Formula: Stardust
-14672	Formula: Star Arena
+14672	Formula: Silver Star Dust
 14673	Formula: Star Blessing +
 14674	Formula: Shining Star Crystal
 14675	Formula: Starlight Fragment

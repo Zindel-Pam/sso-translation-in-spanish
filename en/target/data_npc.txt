@@ -714,12 +714,12 @@
 713	Shina
 714	Cobra
 715	Ichi
-716	Cobra
+716	Hydra
 717	Shina
 718	Cobra
 719	Mysterious Person
 720	Ichi
-721	Cobra
+721	Hydra
 722	Shina
 723	Cobra
 724	Yuna
@@ -3439,13 +3439,13 @@
 3438	Identities dropped on the ground
 3439	Ian
 3440	Ichi
-3441	Cobra
+3441	Hydra
 3442	Ichi
-3443	Cobra
+3443	Hydra
 3444	Ichi
-3445	Cobra
+3445	Hydra
 3446	Ian
-3447	Cobra
+3447	Hydra
 3448	People Wounded
 3449	Apprentices disguised as knights
 3450	Nya
@@ -4498,7 +4498,7 @@
 4497	Lesser Lion
 4498	Receptionist
 4499	Ichi
-4500	Cobra
+4500	Hydra
 4501	Jabu
 4502	Unicorn
 4503	Hyoga
@@ -4529,7 +4529,7 @@
 4528	Hyoga
 4529	Cygnus
 4530	Ichi
-4531	Cobra
+4531	Hydra
 4532	Seiya
 4533	Pegasus
 4534	Geki
@@ -6243,15 +6243,15 @@
 6242	Orphan Dayue
 6243	Orphan Dayue
 6244	Ichi
-6245	Cobra
+6245	Hydra
 6246	Ichi
-6247	Cobra
+6247	Hydra
 6248	Ichi
-6249	Cobra
+6249	Hydra
 6250	Ichi
-6251	Cobra
+6251	Hydra
 6252	Ichi
-6253	Cobra
+6253	Hydra
 6254	Leopold
 6255	Leopold
 6256	Leopold
@@ -6341,7 +6341,7 @@
 6340	Apprentice
 6341	Andros
 6342	Canyon Guard
-6343	Kate from the Villa del Olvido
+6343	Kate of the Forgotten Village
 6344	Master of swords
 6345	Master of swords
 6346	Shura
@@ -6350,7 +6350,7 @@
 6349	Scorpio
 6350	Mu
 6351	Aries
-6352	Captain of the guard of the road of oblivion
+6352	Forgotten Road Captain
 6353	Jimmy
 6354	Shaka
 6355	Virgo
@@ -6635,12 +6635,12 @@
 6634	Cancer
 6635	Marin
 6636	Eagle
-6637	Almade rich production
-6638	Almade rich production
-6639	Store rich production
-6640	Tree of rich production
-6641	Tree of rich production
-6642	Tree of rich production
+6637	Almade rich crafting
+6638	Almade rich crafting
+6639	Store rich crafting
+6640	Tree of rich crafting
+6641	Tree of rich crafting
+6642	Tree of rich crafting
 6643	Shaka
 6644	Virgo
 6645	Athena
@@ -7541,7 +7541,7 @@
 7540	Saori Kido
 7541	Saori Kido
 7542	Ichi
-7543	Cobra
+7543	Hydra
 7544	Seiya
 7545	Pegasus
 7546	Geki
@@ -10768,7 +10768,7 @@
 10767	Afrodita_02 Aphrodite before the battle
 10768	Afrodita_03 Aphrodite after the battle
 10769	Aphrodite _04 Frozen guard of the house of Pisces
-10770	Mission production guidelines
+10770	Mission crafting guidelines
 10771	Battle of the gods point to change mission
 10772	Battle of the Gods Battle Camp Chaotic distribute mission
 10773	Battle of the Gods mission system
@@ -10944,13 +10944,13 @@
 10943	Fun_08 Divine surrender_zone of Shaka instance
 10944	Fun_09 Divine Surrender_Shaka in the Instance Zone
 10945	Fun_10 Viticulturist of the divine drop grape harvest
-10946	Diversion_Viticulturist of the divine drop collection and production of wine
-10947	Diversion_12 Viticulturist of the divine drop Sign 1 wine production
+10946	Diversion_Viticulturist of the divine drop collection and crafting of wine
+10947	Diversion_12 Viticulturist of the divine drop Sign 1 wine crafting
 10948	Diversion_13 Viticulturist of the divine drop Sign 1 collect wine
-10949	Diversion_14 Viticulturist of the divine drop Sign 2 wine production
+10949	Diversion_14 Viticulturist of the divine drop Sign 2 wine crafting
 10950	Diversion_15 Viticulturist of the divine drop Sign 2 wine production1
 10951	Diversion_16 Viticulturist of the divine drop Sign 2 wine production2
-10952	Fun_17 Viticulturist of the divine drop Sign 3 wine production
+10952	Fun_17 Viticulturist of the divine drop Sign 3 wine crafting
 10953	Fun_18 Viticulturist of the divine drop Sign 3 wine production1
 10954	Fun_19 Viticulturist of the divine drop Sign 3 wine production2
 10955	Fun_20 Viticulturist of the divine drop Sign 3 wine production3
@@ -11116,7 +11116,7 @@
 11115	Reformulation Rosary
 11116	Reformulate
 11117	Tools
-11118	Change: Production Materials
+11118	Change: Crafting Materials
 11119	Feathers
 11120	Elixir
 11121	Alchemy
@@ -13168,7 +13168,7 @@
 13167	Pet06 Girl of the created
 13168	Pet Squire
 13169	The Alma NPC to complete the mission
-13170	Mission production guidelines
+13170	Mission crafting guidelines
 13171	Emissary of the Divine Artifacts
 13172	Distribute NPC titles
 13173	System01 Choice of Atenea_sign
@@ -13731,7 +13731,7 @@
 13730	Collect
 13731	Book Sheets
 13732	Collect
-13733	Dropping bottles
+13733	Dropped Bottle
 13734	Collect
 13735	Earth stone
 13736	Put more energy
@@ -14329,17 +14329,17 @@
 14328	Busy
 14329	Blue team countdown
 14330	Busy
-14331	Production unit of the light war chariot
+14331	Crafting unit of the light war chariot
 14332	Produce demolition of light castles
-14333	Overloaded production realm
+14333	Overloaded crafting realm
 14334	Amount of chego castle demolidor to the limit
-14335	Production unit of the compact war chariot
+14335	Crafting unit of the compact war chariot
 14336	Produce demolition of agglomerated castles
-14337	Production unit of the light war chariot
+14337	Crafting unit of the light war chariot
 14338	Produce light castle demolition
-14339	Overloaded production realm
+14339	Overloaded crafting realm
 14340	The amount of the castle demolition chego the limit
-14341	Realm of production of the compact war chariot
+14341	Realm of crafting of the compact war chariot
 14342	Produce demolition of agglomerated castles
 14343	Fast war car
 14344	Driving the castle demolisher

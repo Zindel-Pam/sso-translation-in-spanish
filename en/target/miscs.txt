@@ -230,7 +230,7 @@
 229	Reserved
 230	Kit
 231	Advanced level kit
-232	%s in the production process unexpectedly received [ %s] * %d!
+232	%s in the crafting process unexpectedly received [ %s] * %d!
 233	You forgot about the auxiliary Protective Constellation %s
 234	Protective Constellation %s dropped to %d level
 235	Astrology appears as %s

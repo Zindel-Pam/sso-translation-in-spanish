@@ -642,7 +642,7 @@
 641	In the copy, teaming up the team can make your customs clearance more efficient, and will not reduce everyone's rewards
 642	Dropped loot will disappear if not picked up in time
 643	Every time a certain time, the wild boss will be brushed out somewhere in the game. After defeating, you will get a lot of rewards. Go and fight for it.
-644	copies of the production equipment and weekly activities will be refreshed at 6 am every week.
+644	copies of the crafting equipment and weekly activities will be refreshed at 6 am every week.
 645	After the team leader clicks on the “Collection Team” button below his avatar, all teammates will be called to automatically find the team leader.
 646	When the main line task level is not enough, you can perform some side tasks and participate in daily activities to upgrade the level.
 647	With the improvement of the rank of the sacred clothing, the player will learn the new fighting spirit skills, and the equipment will take effect in the soul library.

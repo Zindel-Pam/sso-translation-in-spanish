@@ -280,7 +280,7 @@
 279	Mount! Chimera of Thor
 280	The Saori Mansion
 281	The Battlefield of the Old Holy War
-282	Inheritance! The Gold Test
+282	Inheritance! The Gold Trail
 283	Union! The Crisis of the 12 Houses
 284	Storm! Atlantis
 285	The Sanctuary Cemetery
@@ -381,7 +381,7 @@
 380	[Commerce] Father Oracle
 381	[Commerce] Gift of the Goddess - Brilliance of Athena
 382	[Commerce] Heritage Stores
-383	[Commerce] Craftsman - Learning Production
+383	[Commerce] Craftsman - Learning Crafting
 384	[Commerce] Knight
 385	[Commerce] Pets
 386	[Trade] Ambassador of the Treasure Hunt

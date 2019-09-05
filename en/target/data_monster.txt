@@ -535,7 +535,7 @@
 534	Bronze Horseman of Lesser Lion Ban
 535	Bronze Knight Seiya
 536	Trial Bronze Knight Seiya
-537	Bronze Horseman of Sea Dragon Ichi
+537	Bronze Horseman of Hydra Ichi
 538	Bronze Knight of Unicorn Jabú
 539	Bronze Knight Shun
 540	Bronze Horseman Shiryu
@@ -600,7 +600,7 @@
 599	Arrogant Apprentice
 600	Violent Apprentice
 601	Cassios
-602	Crazed Souls of the Knights
+602	Violent Soul of the Knight
 603	Reaper of the Underworld
 604	Resurrected Eide
 605	Silver Tracker
@@ -629,7 +629,7 @@
 628	Created from silver
 629	Created from silver
 630	Apprentice
-631	Crazed Souls of the Knights
+631	Violent Soul of the Knight
 632	Seiya
 633	Pegasus
 634	Aiolia
@@ -693,7 +693,7 @@
 692	Eagle
 693	Arrogant Apprentice
 694	Angry Shrine Guard
-695	Crazed Souls
+695	Violent Soul
 696	Criminoso [Underworld]
 697	Shadow of the Underworld
 698	Silver Tracker
@@ -930,11 +930,11 @@
 929	Hyoga
 930	Cygnus
 931	Ichi
-932	Sea Dragon
+932	Hydra
 933	Shina
 934	Ophiuchus
 935	Ichi
-936	Sea Dragon
+936	Hydra
 937	Geki
 938	Bear
 939	Mysterious Person
@@ -1609,7 +1609,7 @@
 1608	Black Water
 1609	Dominica
 1610	Speed ​​Knife
-1611	Fernand
+1611	Fernan
 1612	Pious
 1613	Leviathan
 1614	Tide
@@ -1659,7 +1659,7 @@
 1658	Black Roar
 1659	Violent Black Knight
 1660	Bloodthirsty Black Knight
-1661	Leo Menor Negro
+1661	Black Leo Cub
 1662	Lord of Slaves
 1663	Black Unicorn
 1664	Jango
@@ -2823,9 +2823,9 @@
 2822	Shady atmosphere
 2823	False Guard of the Sanctuary
 2824	Ichi
-2825	Sea Dragon
+2825	Hydra
 2826	Ichi
-2827	Sea Dragon
+2827	Hydra
 2828	False Apprentice
 2829	Illusion of Nya
 2830	My dark side
@@ -2840,7 +2840,7 @@
 2839	My dark side
 2840	My dark side
 2841	Ichi
-2842	Sea Dragon
+2842	Hydra
 2843	Ian
 2844	My dark side
 2845	Villa by Xiao Ling
@@ -3553,7 +3553,7 @@
 3552	Lieutenant [Santuário]
 3553	Soldier [Shrine]
 3554	wolf
-3555	León Menor
+3555	Lionet
 3556	General control monster
 3557	Marine Horse
 3558	Sirena
@@ -3801,13 +3801,13 @@
 3800	Fire of Heaven
 3801	Pick up dust
 3802	Ban
-3803	León Menor
+3803	Lionet
 3804	Servant of Ban
 3805	Combustion
 3806	Brazier
 3807	Dynamite barrel
 3808	Ichi
-3809	Sea Dragon
+3809	Hydra
 3810	Servant of Ichi
 3811	Shaka
 3812	Virgo
@@ -5902,7 +5902,7 @@
 5901	Tremi
 5902	Sagita
 5903	Ichi
-5904	Sea Dragon
+5904	Hydra
 5905	Warning
 5906	Attack
 5907	Geki
@@ -5914,7 +5914,7 @@
 5913	Dragon
 5914	Saori Kido
 5915	Ban
-5916	León Menor
+5916	Lionet
 5917	Wounded Apprentice
 5918	Full of Blood
 5919	Super Attack
@@ -6843,7 +6843,7 @@
 6842	Bear
 6843	Sacred Urn of the Golden Armor of Sagittarius
 6844	Ichi
-6845	Sea Dragon
+6845	Hydra
 6846	Hyoga
 6847	Cygnus
 6848	Saori
@@ -6865,7 +6865,7 @@
 6864	The complete duplication of the monster
 6865	Place of Resuscitation
 6866	Ichi
-6867	Sea Dragon
+6867	Hydra
 6868	Seiya
 6869	Pegasus
 6870	Grade
@@ -6877,7 +6877,7 @@
 6876	Dragon
 6877	Saori
 6878	Ban
-6879	León Menor
+6879	Lionet
 6880	Tatsumi Tokumaru
 6881	Saori Kido
 6882	Nachi

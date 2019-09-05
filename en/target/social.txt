@@ -1238,9 +1238,9 @@
 1237	Additional benefit of the next level of the base: Store will sell: Tools like Starsand Source, stored EXP potion
 1238	With the miraculous army destroyed, the resources of the Armies will be reduced by 101 points.
 1239	Level 2 Base Prize: Store will sell: Tools like Starsand Source, stored EXP potionQuantity of the Treasure Box of Time, level of Army qualifications and base related
-1240	Additional benefit of the following level of the base: Army warehouse openDouble time: 3 hours per weekTienda will sell: Source of the territory, power production potion, among others
+1240	Additional benefit of the following level of the base: Army warehouse openDouble time: 3 hours per weekTienda will sell: Source of the territory, power crafting potion, among others
 1241	With the miraculous army destroyed, the resources of the Armies will be reduced by 270 points.
-1242	Level 3 Base Prize: Open Army DepotDouble Time: 3 hours per weekTienda will sell: Tools such as Territory Source, energy production potionQuantity of the treasure box of time, level of the qualifiers and the base of the Army related
+1242	Level 3 Base Prize: Open Army DepotDouble Time: 3 hours per weekTienda will sell: Tools such as Territory Source, energy crafting potionQuantity of the treasure box of time, level of the qualifiers and the base of the Army related
 1243	Additional benefit of the next level of the base: Store will sell: Tools like Magic Box of energy supplement
 1244	With the miraculous army destroyed, the resources of the Armies will be reduced by 540 points.
 1245	Level 4 base award: Store will sell: Tools such as Magic Box of energy supplement. Amount of treasure box of time, level of qualifications and Army base related.

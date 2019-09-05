@@ -578,7 +578,7 @@
 577	Material used in exchange for the related items of the ruler.
 578	Change of equipment [Squire]
 579	Collect a certain amount to redeem the ruler equipment.
-580	Fragments Bronze*5
+580	Bronze Fragment*5
 581	After collecting a certain amount, you can exchange for Bronze Holy Armor. Drops in activities above level 20.
 582	Silver Fragment*5
 583	After collecting a certain amount, you can exchange for Silver Holy Armor. Drops in activities above level 60.
@@ -600,7 +600,7 @@
 599	Pegasus Saint Cloth is a 17-32 star cast. There is a large drop in activity above level 70.
 600	Star Dust*5
 601	Used in ordinary bronze sacred clothing. There is a large drop in activity above level 30.
-602	Star Arena*5
+602	Silver Star Dust*5
 603	Used for ordinary silver sacred clothing. There is a large drop in activity above level 50.
 604	Star Brightness [Earth]*5
 605	Used for gold sacred clothing. There is a large drop in activity above level 70.

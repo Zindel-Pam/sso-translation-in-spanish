@@ -1,4 +1,4 @@
-0	^ff0000You have not learned production skills yet.
+0	^ff0000You have not learned crafting skills yet.
 1	Level %d
 2	LV %d ( %d / %d)
 3	%s: LV %d ( %d / %d)
@@ -13,8 +13,8 @@
 12	Skill level required: %d
 13	Vigor: %d
 14	Consumption of Vigor: %d
-15	It is not possible to pay the production learning index.
-16	Production learned: %s
+15	It is not possible to pay the crafting learning index.
+16	Crafting learned: %s
 17	%s increased to %d level
 18	All
 19	Not learned
@@ -26,21 +26,21 @@
 25	^ffffffMedia
 26	^00ff00Alto
 27	^00ff00 Very high
-28	Production of healing potions, strength increase or reduction of enemy strength in the short term.
-29	Production of improvement of equipment, refinement of armor, use of treasures to raise all categories of tools.
-30	Production of various types of runes. Runes can be stuck in equipment.
+28	Crafting of healing potions, strength increase or reduction of enemy strength in the short term.
+29	Crafting of improvement of equipment, refinement of armor, use of treasures to raise all categories of tools.
+30	Crafting of various types of runes. Runes can be stuck in equipment.
 31	Cooking food. The effect is better than normal foods.
-32	This recipe can not be used for production.
+32	This recipe can not be used for crafting.
 33	There is not enough space in the inventory.
 34	There is not enough Gold or Cash.
 35	The character needs to reach %s.
-36	The level of production needs to reach %d.
+36	The level of crafting needs to reach %d.
 37	Needs to approach the NPC " %s".
 38	Insufficient vigor.
 39	Insufficient power
 40	Prescription learned, can not learn again
-41	Insufficient production level
-42	You did not learn the corresponding production skill
+41	Insufficient crafting level
+42	You did not learn the corresponding crafting skill
 43	Common
 44	Blacksmith
 45	Seamstress
@@ -129,7 +129,7 @@
 128	^f2f3f2Attack Power +500\rDefense +1000
 129	Insufficient Cosmo Energy 
 130	You don't have required amount of Cosmo Energy.
-131	Insufficient fury, skill can not be used.
+131	Insufficient Rage, skill can not be used.
 132	Lack of skill requirements, skill can not be used.
 133	Under control status. Skill can not be used
 134	This ability can not be used in the current transformation status.
@@ -142,7 +142,7 @@
 141	Preconditions are missing, this ability can not be used
 142	Power index insufficient, this ability can not be used
 143	In transformation status it is prohibited to use the ability of the protective constellation
-144	Insufficient Restoration Domain
+144	Insufficient Defensive Nature
 145	Inadequate Domain of attack
 146	This ability can not be used in the current situation.
 147	This ability can not be used at this time.
@@ -153,7 +153,7 @@
 152	Can not be activated in combat.
 153	Even in combat, it can not be used
 154	Insufficient Diamond Dust
-155	Insufficient fury
+155	Insufficient Rage
 156	Inadequate strength
 157	^O009Walk / Run
 158	^O009Search target
@@ -188,7 +188,7 @@
 187	Items used canceled.
 188	Insufficient items
 189	Insufficient power, the item can not be used.
-190	Insufficient fury, the item can not be used.
+190	Insufficient Rage, the item can not be used.
 191	Lack of necessary items, the item can not be used.
 192	Low control status. The item can not be used.
 193	The item can not be used during the transformation.
@@ -315,7 +315,7 @@
 314	Unavailable
 315	Weapon error
 316	Insufficient Stamina Index
-317	Insufficient fury
+317	Insufficient Rage
 318	Insufficient rancor rating
 319	Energy 1 Insufficient
 320	Energy 2 Insufficient
@@ -509,8 +509,8 @@
 508	^O021^ffff00 petrifying\r^O009^ffffff petrifying
 509	^O021^ffff00 fall asleep\r^O009^ffffff fall asleep
 510	^O021^ffff00 fall asleep
-511	^O021^ffff00Cosmic Protection\r^O009^ffffffEvery three seconds you get a Fighting Spirit point
-512	^O021^ffff00Cosmic Protection 
+511	^O021^ffff00Star Guard\r^O009^ffffffEvery three seconds you get a Fighting Spirit point
+512	^O021^ffff00Star Guard 
 513	^O021^ffff00 Shiryu - pulling monster
 514	^O021 Leo bow 3 - firing effect
 515	^O021^ffff00 Immobilize\r^O009 ^ffffffYou can not move
@@ -699,12 +699,12 @@
 698	^O021 Saori em pessoa_Teletransporte
 699	^O021 Shun - Status of Trafficking of Comunicações 1
 700	^O021 Shun - Status of Communications Traffic 2
-701	^O021^ffff00 Recovery Light\r\r^O009^ffffff HP Continuous Recovery
-702	^O021^ffff00 Recovery Light
+701	^O021^ffff00 Light of Recovery\r\r^O009^ffffff HP Continuous Recovery
+702	^O021^ffff00 Light of Recovery
 703	^O021^ffff00Domination Restoration\r^O009 ^ffffffIncreases 100 %the effect of Andromeda healing abilities.
-704	^O021^ffff00D Restoration Domain
-705	^O021^ffff00An Attack Dominance\r^O009 ^ffffffIncreases 100% damage from Andromeda's abilities.\rIncreases the effect of Andromeda healing abilities by 20%.
-706	^O021^ffff00 Attack Domain
+704	^O021^ffff00D Defensive Nature
+705	^O021^ffff00An Offensive Nature\r^O009 ^ffffffIncreases 100% damage from Andromeda's abilities.\rIncreases the effect of Andromeda healing abilities by 20%.
+706	^O021^ffff00 Offensive nature
 707	^O021^ffff00 Andromeda Light\r\r^O009^ffffff Andromeda healing abilities receive an 80% bonus.\rEvery time you use Light of Vigor and Light of Recovery, a Nebula Light Curtain will envelop the target, causing the HP be recovered.\rDura 3s.
 708	^O021^ffff00Light of Andromeda
 709	^O021Shun - Status Release from Healing Area 1
@@ -1325,15 +1325,15 @@
 1324	^O021^ffff00 Super Power Magic Potion
 1325	^O021^ffff00 Sepsia Ice Magic Potion\r^O009^ffffff Every second reduction of HP 1000
 1326	^O021^ffff00 Sepsia Ice Magic Potion
-1327	^O021^ffff00 production skills monster invoked change status
-1328	^O021^ffff00 reduce production skills of small cosmic energy status
+1327	^O021^ffff00 crafting skills monster invoked change status
+1328	^O021^ffff00 reduce crafting skills of small cosmic energy status
 1329	^O021^ffff00 Deterioration Mixture ^fffffffffff the defense in 10%
 1330	^O021^ffff00 Deterioration Mix
 1331	Blood Stagnation Mixture Reduction of 10 %HP limit.
 1332	^O021^ffff00 Blood Stagnation Mixture
 1333	^O021^ffff00 Weak Mix\r^O009^ffffff reduce the attack by 10%
 1334	^O021^ffff00 Weak Mix
-1335	^O021^ffff00 production specialty status resurrection
+1335	^O021^ffff00 crafting specialty status resurrection
 1336	^O021^ffff00 Flag of the Union of Forces\r^O009^ffffff increase defense by 10%
 1337	^O021^ffff00 Flag of the Union of Forces
 1338	^O021^ffff00 Flag of Enthusiasm\r^O009^ffffff increase limit of HP 10%
@@ -1782,8 +1782,8 @@
 1781	^O021^ffff00 float\r^O009^ffffff floating
 1782	^O021^ffff00 Shadow Curse\r^O009^ffffff speed of each falling stack of 1 m/s, attack power decreased in motion 5%
 1783	^O021^ffff00 Curse of Shadow
-1784	^O021^ffff00 combustion form\r^O009^ffffff damage Resistance substantial increase
-1785	^O021^ffff00 combustion
+1784	^O021^ffff00 Combustion\r^O009^ffffff Damage reduction increased dramatically
+1785	^O021^ffff00 Combustion
 1786	^O021^ffff00 gold Fai\r^O009^ffffff each lesion stack rate increased by 10%, while able to withstand the Shadow saga lore
 1787	^O021^ffff00 gold Fai
 1788	^O021^ffff00 outrageous shield\r^O009^ffffff improve defense and rebound damage
@@ -1930,7 +1930,7 @@
 1929	^O021^ffff00 dispersed turned special NPC
 1930	^O021 Parry Zi
 1931	^O021^ffff00 silence\r^O009^ffffff to be silenced, and can not release skills.
-1932	^O021^ffff00 spinning flyer\r^O009^ffffff increase the defense, and continue to attack nearby enemies.
+1932	^O021^ffff00 spinning flyer\r^O009^ffffffIncreases defense, and continue to attack nearby enemies.
 1933	^O021^ffff00 spinning wheel
 1934	^O021^ffff00 Original Cepheus_eability 1_Evocar
 1935	The barrier nebula will absorb a large amount of damage.
@@ -2136,7 +2136,7 @@
 2135	^O021^ffff00 spark ion
 2136	^O021^ffff00 Reincarnation\r^O009^ffffff abilities can not be released.
 2137	^O021^ffff00 six reincarnation
-2138	^O021^ffff00 days to increase the defense force considerably.
+2138	^O021^ffff00 days toIncreases defense force considerably.
 2139	^O021^ffff00 days dancing Po Lun
 2140	^O021^ffff00 psychic force stuck\r^O009^ffffff can not move.
 2141	^O021^ffff00 Concept confinement force
@@ -2767,7 +2767,7 @@
 2766	^O021^ffff00 frozen\r^O009^ffffff dreams and trying to break the frozen
 2767	^O021 Ornaments_Tanabata and transform chandelier shared
 2768	^O021 Virgo_Mōryō no call Hako
-2769	^O021^ffff00 Resonance\r^O009^ffffff When the recovery light is treated, \r initial recovery is increased by 300%
+2769	^O021^ffff00 Resonance\r^O009^ffffff When the Light of Recovery is treated, \r initial recovery is increased by 300%
 2770	^O021^ffff00 Resonance
 2771	^O021^ffff00 Chain of Destiny\r^O009^ffffff When you are injured next time, you and a random teammate within 15 meters will return 10% of the life limit.
 2772	^O021^ffff00 Chain of Destiny
@@ -3257,7 +3257,7 @@
 3256	^O021 instant - Talent 2 silenced cooling firing status
 3257	^O021^ffff00 flake\r^O009^ffffff have enough snow, snow elves will be able to upgrade
 3258	^O021 Christmas_disperse logo update
-3259	^O021^ffff00 instantaneous - 2 production talent STATUS
+3259	^O021^ffff00 instantaneous - 2 crafting talent STATUS
 3260	^O021^ffff00 Aioros partner\r^O009^ffffff collect 30 floors Cosmic energy companions can find the sniper attendants receive awards, the team of only one person.Adolescent, efforts to collect Cosmo it!
 3261	^O021^ffff00 partners Aioros
 3262	^O021 League of Extraordinary Knights_Save Physical
@@ -4093,8 +4093,8 @@
 4092	^O021 days Meng - triggered by status attack
 4093	^O021^ffff00 Dark Shadow\r^O009 ^ffffffReduce the damage taken by 20%
 4094	^O021^ffff00 Dark Shadow
-4095	^O021^ffff00 maximum alert\r^O009^ffffff per second to nearby enemies, causing damage to harm people had overlapping shadow
-4096	^O021^ffff00 maximum alert
+4095	^O021^ffff00 Supreme Omen\r^O009^ffffff per second to nearby enemies, causing damage to harm people had overlapping shadow
+4096	^O021^ffff00 Supreme Omen
 4097	^O021^ffff00Shadow Absence\r^O009 ^ffffffThat probability of releasing the shadow
 4098	^O021^ffff00Shadow Absolut
 4099	^O021 days of fierce - attack unleashed shadow CD wave
@@ -4274,7 +4274,7 @@
 4273	^O021^ffff00Dragon of Flames\r^O009 ^ffffffAs you approach the Dragon statue, you receive damage per second
 4274	^O021^ffff00Dragon Flame
 4275	^O021^ffff00Creezing\r^O009 ^ffffffFrozen by the cold
-4276	^O021 Cygnus new fighting spirit crit crit relief
+4276	^O021 Cygnus new Fighting Spirit crit crit relief
 4277	^O021^ffff00 reduce the resistance ^ffffff flames melted the armor, reducing resistance to damage
 4278	^O021^ffff00 reduce the resistance
 4279	^O021 discretion ^O009 see me, no.
@@ -4296,7 +4296,7 @@
 4295	^O021^ffff00 rapid dance\r^O009^ffffff respond physically own attack.
 4296	^O021^ffff00 fast dance
 4297	^O021 Pegasus Bean Consumption Skills Save Meteor Light CD Fast Handle
-4298	^O021 Cygnus Cygnus dance new fighting spirit to reduce physical effects
+4298	^O021 Cygnus Cygnus dance new Fighting Spirit to reduce physical effects
 4299	^O021^ffff00 flag player of skill trigger status
 4300	^O021 Blood Pegasus less than 40% of the damage reduction trigger
 4301	^O021^ffff00Performance ^O009 ^ffffffEvery blow suffered recovers 5% of the maximum HP
@@ -4527,7 +4527,7 @@
 4526	^O021^ffff00 star burst\r^O009^ffffff increase 10% CritChance
 4527	^O021^ffff00 Star Explosion
 4528	^O021 Zi - Spirit effects Genuflection
-4529	^O021^ffff00 occupying career adjustment fighting spirit
+4529	^O021^ffff00 occupying career adjustment Fighting Spirit
 4530	^O021^ffff00Progressively Ⅲ\r^O009 ^ffffffWhen the server reaches an even higher process level, the Army Millagro will obtain the corresponding reinforcement
 4531	^O021^ffff00 times Ⅲ
 4532	^O021^ffff00 Papa\r^O009^ffffff noble Pope, getting guards from the guardian sanctuary.
@@ -5582,7 +5582,7 @@
 5581	^O021^ffff00 weakness\r^O009^ffffff can not move.
 5582	^O021^ffff00 reverberation shock waves speed is reduced.
 5583	^O021^ffff00 seismic reverberation
-5584	^O021 Lyra fighting spirit back to physical generation reverberation Teana
+5584	^O021 Lyra Fighting Spirit back to physical generation reverberation Teana
 5585	^O021 gloomy days of fight spirit Teana piano reverberation recover
 5586	^O021^ffff00 Infinite Melody\r^O009 ^ffffffFree Control
 5587	^O021^ffff00 Infinite Melody
@@ -5596,22 +5596,22 @@
 5595	^O021^ffff00 Mortal Melody
 5596	^O021^ffff00 looking for Sea Pearl\r^O009^ffffff to increase speed.
 5597	^O021^ffff00 looking for Sea Pearl
-5598	^O021 Lyra fighting spirit CD 7 redefining Control
+5598	^O021 Lyra Fighting Spirit CD 7 redefining Control
 5599	^O021^ffff00 Mortal Melody\r^O009 ^ffffffParalized
 5600	^O021^ffff00 Harmonic Tone\r^O009 ^ffffffCreating HP per second
 5601	^O021^ffff00 Harmonic Tone
 5602	^O021 Lyra fight spirit to recover outgoing temperament value 3
-5603	^O021 Lyra fighting spirit status generator output 3
-5604	^O021 Lyra fighting spirit generated 3 secondary status
+5603	^O021 Lyra Fighting Spirit status generator output 3
+5604	^O021 Lyra Fighting Spirit generated 3 secondary status
 5605	^O021 Lyra generation innate temperament
-5606	^O021 Lyra fighting spirit 3 auxiliary redefinition skills
+5606	^O021 Lyra Fighting Spirit 3 auxiliary redefinition skills
 5607	^O021^ffff00 Lunar Blessing\r^O009 ^ffffffLa habili
 5608	^O021^ffff00 Lunar Blessing
 5609	^O021 Adverse Tone
 5610	^O021^ffff00Adverse Side\r\r^O009^ffffff Increases damage reduction
 5611	^O021^ffff00Adverse Tone
 5612	^O021 Adverse Tone\r^O009 Increases resistance to damage
-5613	^O021 Lyra fighting spirit 9 10 seconds to trigger a control
+5613	^O021 Lyra Fighting Spirit 9 10 seconds to trigger a control
 5614	^O021^ffff00 temperament convergence\r^O009^ffffff in this status were determined more abilities
 5615	^O021^ffff00 convergence temperament
 5616	^O021 Convergence temperament
@@ -6654,7 +6654,7 @@
 6653	Target: User
 6654	Armor Effect
 6655	\rskill damage increase by 20%
-6656	^c0c0ff [Meteor Explosion] ^FFFF00 has damage increased by 50 %when the target is HP less than 50 %and applies the Star Discipline status
+6656	^c0c0ff [Meteor Explosion] ^FFFF00 has damage increased by 50 %when the target is HP less than 50 %and applies the Starlight Discipline status
 6657	\rWhen you use ^c0c0ff [Cygnus Dance] ^FFFF00 you will recover HP by 1.7 times relative to Attack.
 6658	and reduces 30 points of consumption of Diamond Dust
 6659	critical rate at 5%
@@ -6683,42 +6683,42 @@
 6682	Switching skills
 6683	Perform - Special
 6684	Evoking Test
-6685	Embesti. from Meteor
+6685	Meteor Assault
 6686	Leave the monsters on the ground and players immobilized for an Additional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00} \t ^00FF00Evolution of Sagittarius ^FFFF00\rAfter releasing, you will enter status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after consuming such status, you will not be able to activate it again \t ^00FF00 Sagittarius Technique ^FFFF00\rEffect of control increases 2s more
 6687	Leave the monsters on the ground and the players immobilized for 2s\rAdditional Attack Power: %d\rBonus Thunder damage: %d\rDamage %d%% \t ^00FF00Evolution Sagittarius ^FFFF00\rAfter cast activates ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after consuming such status, you will not be able to activate it again \t ^00FF00Technology of Sagittarius ^FFFF00\rEffect of control increases 2s more
-6688	Fast forward, hitting the target tightly and nearby enemies.
-6689	After use, gain a little fighting spirit and enter the storm meteor state, and cause serious damage to the monster, reducing the damage resistance of the monster by 10%% for 6 seconds.
+6688	Quickly approach next to the target from a long distance, attacks and knocks down the target and enemies nearby
+6689	After use, gain a little Fighting Spirit and enter the storm meteor state, and cause serious damage to the monster, reducing the damage resistance of the monster by 10%% for 6 seconds.
 6690	The cooldown is reduced by 20%% and the range is increased by 3m.
-6691	Whenever used, it will apply a status to the target, reducing its movement speed by 1m/s for 8s. This ability also applies additional effects based on the Spirit of Struggle (X): Immobilizes the target by X-2s and increases damage taken by 5 * x %%.
-6692	Fist of Meteor
+6691	Inflicts Tracked status, which reduces movement speed by 1 m/s for 8 seconds. When using the finishing skill one the target with this state, it will add an additional effect according to the number of Fighting Spirits: fixed x-2 seconds. Damage increased by 5*x%%
+6692	Meteor Fist
 6693	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rHits 5 times\rDamage: {^FFABFC %d%% ^FFFF00}
 6694	Additional Damage: %d\rBonus Air damage:  %d\rHits 5 times\rDamage: %d %%
 6695	Quick sequence of kicks and punches.
 6696	Eagle Kick
-6697	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rHits 6 times\rDamage: {^FFABFC %d%% ^FFFF00}\rThis ability generates Spirit of Struggle
-6698	Additional Damage: %d\rBonus Air damage:  %d\rHits 6 times\rDamage: %d%%\rThis ability generates Spirit of Struggle
+6697	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rHits 6 times\rDamage: {^FFABFC %d%% ^FFFF00}\rThis ability generates Fighting Spirit
+6698	Additional Damage: %d\rBonus Air damage:  %d\rHits 6 times\rDamage: %d%%\rThis ability generates Fighting Spirit
 6699	Extremely fast sequence of kicks.
-6700	If the target's life is less than 50%% his damage increases by 50%% and the target is left with the Stars Discipline effect.
-6701	Circular Cuff
+6700	If the target HP is less than 50%%, damage increases by 50%% and inflicts Starlight Discipline effect to the target.
+6701	Rolling Crush
 6702	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rImmobilized: 3s Point of Spirit Combat increases by 25%% total damage\r\t ^00FF00 Sagittarius technique\r^FFFF00Increases damage by 10%% Impact area increases by 1m
 6703	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d%%\rBudge Melee: 3s\rEach Spirit Point of Struggle increases 25%% total damage\r\t ^00FF00Technology of Sagittarius ^FFFF00\rIncreases damage by 10%% Impact area increases by 1m
 6704	Pegasus catches the target, throws himself into the sky and hits the ground like a comet, causing great damage to enemies in a circular area around the main target.
-6705	Each Combat Spirit point consumed recovers 15 Energy points.
-6706	Each Spell Spirit point consumed increases by 8%% CritChance
-6707	If the ability kills a player, the cooldown time is reset and you will be immune to control while using this ability.
+6705	Each Fighting Spirit point consumed recovers 15 Stamina points.
+6706	Each Fighting Spirit point consumed increases CritChance by 8%%.
+6707	If player is killed, cooldown time is cleaned and you will be immune to control effects while using this skill.
 6708	Additional attack: {^FFABFC %d ^FFFF00} additional Air Damage attack: {^FFABFC %d ^FFFF00} attack six times, resulting in a total of at least {^FFABFC %d%% ^FFFF00} damage can defeat the monster 4 seconds per moral point raise 25%% of total damage.
 6709	Attack Attack: %d Attack additional Air Damage: %d Attack six times, resulting in a total of at least %d%% damage can be a monster down with 4 seconds per moral point raising 25%% of total damage.
 6710	Finishing movement that consumes all current fighting, more than the speed of continuous attacks of light
-6711	Fist of the Pegasus
-6712	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rAt the enemy 4x\rMin damage: {^FFABFC %d%% ^FFFF00}\rThe last blow Knock down the target for 3s. Each Spirit of Struggle consumed increases damage by 25%%.
-6713	Additional Damage: %d\rBonus Air damage:  %d\rAttack the enemy 4x\rMinor Damage: %d%%\rThe last hit can knock down the target for 3s each Spell Spirit consumed increases damage by 25 %%
-6714	Consume the current Fighting Spirit to advance at high speed on the enemy, attacking it in multiple directions. This ability grants immunity to control status and can also be used under that status.
-6715	Each Spirit of Struggle consumed reduces the cooldown of this ability in 5s.
-6716	Perse. from Pegasus
-6717	The fifth attack of Pegasus generates a point of Spirit of Struggle. Some abilities will consume all the fighting Spirit automatically to extend their power. Spirit of Fighting Limit: 5\rDuration: 30s\rEach 4s out of combat, the fighting spirit will be reduced.
-6718	The constant struggle causes Pegasus to raise his Spirit of Struggle and makes him an increasingly strong fighter.
+6711	Pegasus Wrath
+6712	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rits 4 times\rMinimum Damage: {^FFABFC %d%% ^FFFF00}\rLast hit can knock down the target for 3s. Each Fighting Spirit consumed increases damage by 25 %%
+6713	Additional Damage: %d\rBonus Air damage: %d\rHits 4 times\rMinimum Damage: %d%%\rLast hit can knock down the target for 3s. Each Fighting Spirit consumed increases damage by 25 %%
+6714	Consume the current Fighting Spirit to advance at high speed on the enemy attacking it in multiple directions. This ability grants immunity to control and can also be used under that status.
+6715	Each Fighting Spirit consumed reduces the cooldown of this ability in 5s.
+6716	Pegasus Fury
+6717	Pegasus increase his Fighting Spirit every five combos. Also increase the power of some of his skills. When casting these skills, it will automatically consume all the Fighting Spirits\r Rage limit: 5\r Rage duration: 30 seconds \rIn a non-combat state, every 4 seconds Fighting Spirit will be reduced
+6718	The constant struggle causes Pegasus to raise his Fighting Spirit and makes him an increasingly strong fighter.
 6719	Athena Favor
-6720	Pegasus can prevent monster attacks.\rConsuming the fighting spirit restores 2%% of the maximum HP.
+6720	Pegasus can prevent monster attacks.\rConsuming Fighting Spirit restores 2%% of the maximum HP.
 6721	physical damage caused by 30 %%
 6722	Seiya -dot
 6723	Shadow Fist
@@ -6727,16 +6727,16 @@
 6726	Pegasus hits the target and silences him.
 6727	Increases the silence time in 1s. The target is immobilized by %ds.
 6728	Seiya - ridicule
-6729	Strength of the Union
+6729	Unity
 6730	Damage boost: 20%%\rDuration: %ds Effect Area: 15m
-6731	Increases your damage temporarily and by all your nearby allies.
+6731	Casters and nearby allies damage temporarily increases.
 6732	Duration: 4s
 6733	Pegasus Wings
-6734	Increase the movement speed: 4 m/s \r Damage reduced: %d%% \r Duration: %d seconds
+6734	Increases movement speed: 4 m/s \rDamage reduced: %d%% \rDuration: %d seconds
 6735	Improves its own movement speed and damage reduction in a short period of time. The initial immunization is controlled for 3 seconds. After the duration of the immunization and deceleration\ris in the floating, falling, freezing, Petrifaction, silenced, chaotic state can also be used.
 6736	Increases the duration by 4 seconds and reduces the damage taken by 15%%.
-6737	with 2m acceleration and 15%% reduction effect for the duration
-6738	Responds to 15 Stamina every 2 seconds for the duration
+6737	Increases movement speed by 2m and damage reduction by 5%% for the duration
+6738	Restores 15 Stamina every 2 seconds for the duration
 6739	Seiya - blow back blood
 6740	Seiya - Survival 2
 6741	Seiya-Group pull skills
@@ -6767,24 +6767,24 @@
 6766	selected regional group - Test
 6767	Test - Synthesis treatment
 6768	Burst Kick
-6769	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Attack Power of Wind: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00} \t ^00FF00 Meteor Storm ^FFFF00\rSi the Spirit of Struggle is complete, the status will be activated. In this status, skill damage increases by 50 %%, the range of the attack increases by 100%% and the damage done to nearby enemies is increased to 100 %%. The main target has ability reduced by 6s.
-6770	Additional Damage: %d\rBonus Air damage:  %d\rMinimum Year: %d%% \t ^00FF00 Meteor Storm ^FFFF00\rIf Spirit of Struggle is complete, status will be activated. In this status, skill damage increases by 50 %%, the range of the attack increases by 100%% and the damage done to nearby enemies is increased to 100 %%. The main target has the speed reduced by 6s.
-6771	Extremely fast kick.\r^FFFF00 When combined with armor ability ^c0c0ff [Sudden Attack] ^FFFF00, activate status ^00FF00 Meteor Storm ^A2FFFF
-6772	The target struck during the Meteor Storm status will receive the Meteor of Destruction.
+6769	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Air damage: {^FFABFC %d ^FFFF00}\rMinimum Damage: {^FFABFC %d%% ^FFFF00} \t ^00FF00 Meteor Storm ^FFFF00\rIf Fighting Spirit is complete, status will be activated. In this status, skill damage increases by 50 %%, the range of the attack increases by 100%% and the damage done to nearby enemies is increased to 100 %%. The main target has movement speed reduced for 6s.
+6770	Additional Damage: %d\rBonus Air damage:  %d\rMinimum Damage: %d%% \t ^00FF00 Meteor Storm ^FFFF00\rIf Fighting Spirit is complete, status will be activated. In this status, skill damage increases by 50 %%, the range of the attack increases by 100%% and the damage done to nearby enemies is increased to 100 %%. The main target has movement speed reduced for 6s.
+6771	Use your feet to kick the target quickly. \rIf you are under ^00FF00Storm Meteor ^A2FFFF effect, the power will be greatly enhanced.
+6772	While Meteor Storm additional meteor will appear during attacks.
 6773	atomic destruction
 6774	When switched on, it will consume every 3 seconds the morale of the unit about 4 meters wide and the damage caused by 150%% ^c0c0ff[%s]^FFFF00 ^c0c0ff[%s]^FFFF00 ^c0c0ff[%s]^FFFF00 lesions decreased by 50 %%, around the same time to be able to sputter target 70%% of damage, and increase spray range of 100%% after the use aperture ^c0c0ff [%s] FFFF00 will certainly get a little morale
 6775	A substantial increase in your ability to attack open status groups using the abilities again to turn off the effect.
 6776	Meteor Explosion
-6777	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00} the damage in 25%%\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Atomic Thunder] ^FFFF00\r^c0c0ffDamage increased by 50%%^rc0c0ffPrecision of the target is reduced.
-6778	Additional Damage: %d\rBonus Air damage:  %d Minimum Damage: %d%%\rEach point of Combat Spirit consumed, increases damage by 25%% [Gold Explosion] FFFF00\rbecomes ^fff962 [Atomic Thunder] ^FFFF00\r^c0c0ffDamage increased by 50%% The objective retraction is reduced.
-6779	Final blow that consumes all the Spirit of Struggle and strikes vigorously to the objective of forward.
+6777	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rEach point of Combat Spirit consumed increases damage by 25%% \r[Gold Explosion] ^FFFF00 becomes ^fff962 [Atomic Thunder] ^FFFF00\r^c0c0ffDamage increased by 50%%\rAccuracy of the target is reduced.
+6778	Additional Damage: %d\rBonus Air damage:  %d Minimum Damage: %d%%\rEach point of Combat Spirit consumed increases damage by 25%% \r[Gold Explosion] ^FFFF00\rbecomes ^fff962 [Atomic Thunder] ^FFFF00\r^c0c0ffDamage increased by 50%%\rAccuracy of the target is reduced.
+6779	Final blow that consumes all the Fighting Spirit and targeting linear area.
 6780	Reduces target movement speed by 60%% by 5s.
 6781	Cooldown reduced by 2 seconds. Increases Evasion and CritChance by 10%% for 5s.
 6782	%s
 6783	Summon Test 2
-6784	Cosmic Protection
-6785	Generates 5 points of Spirit of Struggle and grants the status of Cosmic Protection.\rRecover the Spirit of Struggle every 3s for 15s.\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Protection of Sagittarius ] ^FFFF00\r^c0c0ff Increase Energy Recovery\r^c0c0ffReduce Accuracy of Enemies Striking Pegasus
-6786	Raise the Spirit of Struggle.
+6784	Star Guard
+6785	Generates 5 points of Fighting Spirit and grants the status of Star Guard.\rRecover the Fighting Spirit every 3s for 15s.\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Protection of Sagittarius ] ^FFFF00\r^c0c0ff Increase Energy Recovery\r^c0c0ffReduce Accuracy of Enemies Striking Pegasus
+6786	Raises Fighting Spirit.
 6787	Restores 2%% of maximum HP every 3s.
 6788	Zabing Zhuang - Pugong skills
 6789	Transform their lives well__ left the first foreign wave strange strange camp change transparent
@@ -6814,7 +6814,7 @@
 6813	Frost Bomb
 6814	Summoning Skill
 6815	Amount of bombs: %d\rBomb Additional damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rBomb MIN damage: {^FFABFC %d%% ^FFFF00 }\rExplosion area: 3m\rBombs exists for 8s \t ^00FF00Charging the skill, keeping the shortcut pressed during the pipe generates smart bombs: ^FFFF00\rQuantity of bombs: 3 \r {FFABFC %d%% ^FFFF00} \ explosion area: 3m\rbombs speed: 6m/s \ f \ fFFFF00 Aquarius Technique ^FFFF00\rDecreases 10 points of Diamond Dust consumption
-6816	Amount of bombs: %d\rBomb Additional damage: %d\rBonus Water damage: %d\rBomb MIN damage: %d%%\rExplosion area: 3m\rBombs exists for 8s ^00FF00Charging the skill, keeping the shortcut pressed during the pipeline generates intelligent bombs: ^FFFF00\rQuantity of bombs: 3\rMinimum year per bomb: %d%% Explosion area: 3m\rbombs speed: 6m/s\r\t ^00FF00 Aquarius Technique ^FFFF00\rDecreases 10 points of Diamond Dust consumption
+6816	Amount of bombs: %d\rBomb Additional damage: %d\rBonus Water damage: %d\rBomb MIN damage: %d%%\rExplosion area: 3m\rBombs exists for 8s ^00FF00Charging the skill, keeping the shortcut pressed during the pipeline generates intelligent bombs: ^FFFF00\rQuantity of bombs: 3\rMinimum Damage per bomb: %d%% Explosion area: 3m\rbombs speed: 6m/s\r\t ^00FF00 Aquarius Technique ^FFFF00\rDecreases 10 points of Diamond Dust consumption
 6817	Summons bombs ahead to hit incoming enemies.\rCharge this skill for 1 second to summon better bombs.
 6818	Uncharged ability summon 1 extra bomb. Bombs damage increased by 20 %%.
 6819	After use, it will generate ice wall on itself to protect against the next damage. After the ice wall is generated, it will exist for 60 seconds. The effect does not accumulate.
@@ -6845,7 +6845,7 @@
 6844	Fast sequence of punches and kicks.
 6845	Dragon Claws
 6846	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rActivates the state ^c0c0ff [Dragon Healing] ^FFFF00 for 6s. This state reduces the damage received by 10%% and heals 8%% of the maximum HP over time
-6847	Additional Damage: %d\rBonus Water damage: %d\rMinimum Year: %d%%\rActivates status ^c0c0ff [Dragon Healing] ^FFFF00 for 6s. This status reduces the damage received by 10%% and heals 8%% of the maximum HP over time
+6847	Additional Damage: %d\rBonus Water damage: %d\rMinimum Damage: %d%%\rActivates status ^c0c0ff [Dragon Healing] ^FFFF00 for 6s. This status reduces the damage received by 10%% and heals 8%% of the maximum HP over time
 6848	Dragon rips his enemies with a technique that simulates sharp teeth
 6849	Has 50%% chance to reduce the target movement speed for 6 seconds.
 6850	Causes damage over time to the target for 6 sec and reduces hid damage by 10 %%.
@@ -6871,7 +6871,7 @@
 6870	It provokes the enemy, making you to become the target of their attacks (does not work against players).
 6871	It catches the attention of monsters, causing them to stop attacking other targets
 6872	Cry of Rozan
-6873	Reach an area of ​​6m around it hitting all enemies.\rThe number of enemies hit increases skill damage by up to 100 %%.\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage : {^FFABFC %d ^FFFF00}\rCaused damages: {^FFABFC %d%% ^FFFF00}
+6873	Reach an area of ​​6m around it hitting all enemies.\rThe number of enemies hit increases skill damage by up to 100 %%.\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage : {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 6874	Reach an area of ​​6m around it hitting all enemies.\rThe number of enemies hit increases skill damage by up to 100 %%.\rAdditional Attack Power: %d\rBonus Earth damage: %d \ : %d %%
 6875	With a loud roar, Dragon inflicts damage to nearby enemies and draws the attention of their targets
 6876	On each hit dealt adds 2%% damage reduction to caster. This effect accumulates up to 5 times and lasts 10s.
@@ -7384,106 +7384,106 @@
 7383	Rozan-Matar Swallows Secondary Line
 7384	Next on the Houses_Retrato de Cabeza that immobilizes the body with provocation
 7385	Light of Vigor
-7386	Loads the Restore Domain Bar
-7387	HP / s Regeneration: {^FFABFC %d ^FFFF00} HP regeneration increases in accordance with the Andromeda Attack power.
-7388	HP / s Regeneration: %d\rHP regeneration increases in accordance with Andromeda Attack power.
-7389	Andromeda uses divine power to continually restore the target's life.
-7390	It can generate a recovery of 20%% within a range of 3m around the target.
-7391	If the ability is channeled for more than 3 seconds, the target may acquire Resonance status, increasing HP regeneration by 300 %%.
-7392	If the main target has HP less than 50 %%, it gets 30%% damage reduction.
-7393	If Andromeda invokes Ikki and applies the Light of Vigor on him, there will be a 100%% bonus on the cure.
-7394	Recover Light.
-7395	Initial recovery: {^FFABFC %d ^FFFF00} \t ^00FF00 Recovery light ^FFFF00\rHP recovery: {^FFABFC %d ^FFFF00}\rDuration: 8s\rThe recovery increases according to attack power Andromeda\r\t ^00FF00Evolution of Virgo ^FFFF00\rAfter releasing, you will enter status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after consuming such status, you will not be able to activate it again\r^FFFF00\rPasa ser ^fff962 [Treasure Light] ^FFFF00\r^c0c0ffThe initial recovery increases significantly.\r^c0c0ffThere is Restore benefit in the Domain bar if Andromeda is in Restore Domain.
-7396	Initial Recovery: %d ^\t ^00FF00 Recovery Light ^FFFF00\rHP Recovery: %d\rDuration: 8s\rThe recovery increases in accordance with the attack power of Andromeda.\r\t ^00FF00 Virgo ^FFFF00\rAfter releasing, you will enter the status of ^c0c0ff [Flasher of Gold] ^FFFF00\rIn 30s after consuming such status, you will not be able to activate it again\r\t ^c0c0ff\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Treasure Light] ^FFFF00\r^c0c0ffThe initial recovery significantly increases.\rThere is Restore benefit in the Domain bar if Andromeda is in Restore Domain.
-7397	Allies within a 15m radius reclaim part of their HP and receive Recovery Light status, which causes HP to slowly recover.
-7398	Andromeda and her allies receive a 5%% damage reduction.
-7399	When the ability is used, the immobilized allies are freed from the control effect. This effect only occurs once every 12s.
-7400	In Resonance status the initial recovery is amplified by 300 %%.
-7401	Domain
-7402	If you have an attack during the charging ^ff0000 the ability will be interrupted.
-7403	\t ^00FF00 Restoration domain ^FFFF00\rThe healing abilities of Andromeda receive a bonus of 100 %%.\r^00FF00Drive Master ^FFFF00\rThe damage to Andromeda's offensive abilities receives a 100%% The healing abilities of Andromeda receive a 20%% bonus.
-7404	Andromeda alternates between Attack or Restore Domain.
-7405	Light of Androm.
-7406	This skill can only be used in Restore Domain.\rConsume 50%% of the Restore Domain bar.
-7407	\t ^00FF00 Andromeda Light ^FFFF00 \ Andromeda's healing abilities receive an 80%% bonus.\rWhen you use the skills ^00FF00 Vigor Light ^FFFF00 and ^00FF00 Recovery Light ^FFFF00 Andromeda creates a Light Curtain Nebula around the target, retrieving HP from nearby group members. Each member of the group is affected by this effect only once.\rDuration: 15s
-7408	Activates status Andromeda Light
+7386	Increases Defensive Nature
+7387	Regeneration of HP per second: {^FFABFC %d ^FFFF00}\rEffect depends on Andromeda Attack Power.
+7388	Regeneration of HP per second: %d\rEffect depends on Andromeda Attack Power.
+7389	Andromeda uses divine power to continually restore HP of allies.
+7390	Increases healing effect on allied targets by 20%% within a range of 3m around the target.
+7391	If charged for more than 3 seconds, target may acquire Resonance status, increasing HP regeneration by 300 %%.
+7392	Adds 30%% damage reduction for targets with HP less than 50 %%.
+7393	If Andromeda summoned Ikki and applies the Light of Vigor on him, there will be a 100%% heal bonus.
+7394	Light of Recovery
+7395	Initial healing: {^FFABFC %d ^FFFF00} \t ^00FF00 Light of Recovery ^FFFF00\rHP recovery: {^FFABFC %d ^FFFF00}\rDuration: 8s\rEffect depends on Andromeda Attack Power\r\t ^00FF00Evolution of Virgo^FFFF00\rActivates ^c0c0ff[Gold Explosion] ^FFFF00\rIn 30s after consuming such status, you will not be able to activate it again\r^FFFF00\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Treasure Light] ^FFFF00\r^c0c0ffThe initial recovery significantly increases.\rAdditional bonus to healing if Andromeda has Defensive Nature.
+7396	Initial healing: %d ^\t ^00FF00 Light of Recovery ^FFFF00\rHP Recovery: %d\rDuration: 8s\rEffect depends on Andromeda Attack Power.\r\t ^00FF00Evolution of Virgo ^FFFF00\rActivates ^c0c0ff[Gold Explosion] ^FFFF00\rIn 30s after consuming such status, you will not be able to activate it again\r\t ^c0c0ff\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Treasure Light] ^FFFF00\r^c0c0ffThe initial recovery significantly increases.\rAdditional bonus to healing if Andromeda has Defensive Nature.
+7397	Heals allies within 15m radius and grants Light of Recovery status, which slowly heals HP.
+7398	Andromeda and allies receive 5%% damage reduction.
+7399	Removes control effects from allies. This effect only occurs once every 12s.
+7400	Targets in Resonance status have initial heal increased by 300 %%.
+7401	Nature Switch
+7402	If attacked during charging, ^ff0000 the ability will be interrupted.
+7403	\t ^00FF00 Defensive Nature ^FFFF00\rThe healing abilities of Andromeda increased by 100%%.\r^00FF00Offensive Nature^FFFF00\rDamage of Andromeda's offensive abilities increased by 100%%\rThe healing abilities of Andromeda increased by 20%%.
+7404	Andromeda alternates between Offensive and Defensive Natures.
+7405	Light of Glory
+7406	This skill can only be used in Defensive Nature.\rConsumes 50%% of the Defensive Nature.
+7407	\t ^00FF00Light of Andromeda^FFFF00 \rHealing abilities of Andromeda increased by 80%%.\rWhen you use^00FF00Light of Vigor^FFFF00 and ^00FF00Light of Recovery ^FFFF00 Andromeda creates a Light Curtain Nebula around the target, healing HP of nearby party members. Each member of the party is affected only once.\rDuration: 15s
+7408	Activates Light of Andromeda status
 7409	Nebula Light
-7410	HP / s Regeneration: {^FFABFC %d ^FFFF00}\rThe regeneration increases in accordance with the Andromeda Attack power.\rDuration: 18s
-7411	HP / s regeneration: %d\rRenation increases according to Andromeda Attack power.\rDuration: 18s
-7412	Andromeda uses the Nebular Light to retrieve HP from nearby allies.
-7413	Group members who are close to the Nebula Light and suffering damage will receive the Healing Aura status for 5s. This status causes them to recover %d%% from HP.
-7414	Barre. of Light Est.
-7415	HP Regeneration: {^FFABFC %d ^FFFF00} \t ^00FF00Black Starlight ^FFFF00\rResistance to Damage: {^FFABFC %d ^FFFF00}\rDuration time: 8s\rThe regeneration and strength provided increase accordingly with the attack power of Andromeda;\rThis ability can be used even if Andromeda is stunned or silenced.
-7416	HP Regeneration: %d \t ^00FF00Barrier Star Light ^FFFF00\rDamage Resistance: %d\rDuration Maximum: 8s * Regeneration and strength provided increase in accordance with Andromeda's attack power; can be used even if Andromeda is stunned or muted.
-7417	Immediately recovers HP's part of the target that grants it the status of Starlight Barrier. The Starlight Barrier absorbs damage to the target.
+7410	Regeneration of HP per second: {^FFABFC %d ^FFFF00}\rEffect depends on Andromeda Attack Power\rDuration: 18s
+7411	Regeneration of HP per second: %d\rEffect depends on Andromeda Attack Power\rDuration: 18s
+7412	Andromeda uses the Nebula Light to heal HP of nearby allies.
+7413	Party members who are close to the Nebula Light and suffering damage will receive the Healing Aura status for 5s. Aura heals %d%% HP.
+7414	Starlight Barrier
+7415	HP Regeneration: {^FFABFC %d ^FFFF00} \t ^00FF00Starlight Barrier ^FFFF00\rDamage reduction: {^FFABFC %d ^FFFF00}\rMaximum Duration: 8s\rEffect depends on Andromeda Attack Power\rThis ability can be used even if Andromeda is stunned or silenced.
+7416	HP Regeneration: %d \t ^00FF00Starlight Barrier ^FFFF00\rDamage reduction: %d\rMaximum Duration: 8s * Effect depends on Andromeda Attack Power\rThis ability can be used even if Andromeda is stunned or silenced.
+7417	Immediately restore part of target HP and applies Starlight Barrier effect\r. This effect can absorb direct damage from the target.
 7418	%s increases the initial recovery and damage reduction applied to the target by 50 %%.
-7419	Increases the target's movement speed by 60 %%. If the Star Barrier is broken, the target will free itself of the control effects it is suffering.
+7419	Increases the target's movement speed by 60 %%. If the Star Barrier is broken, control effects will be removed.
 7420	Can generate resonance effect on target, increasing initial HP recovery by 300%%
-7421	Bend. from Chain
-7422	Released only in the Restore Domain
+7421	Chain Blessing
+7422	Available only in Defensive Nature
 7423	Increases target damage by 80 %%.
-7424	Andromeda brings her power to the target through the chains. During the charging the target has its damage improved.
-7425	If Andromeda invokes Ikki from Phoenix and applies the ability to him, there will be a 70%% damage bonus, resulting in a total of 150 %%.
+7424	Andromeda boosts power of target through the chains. During the charging the target has its damage improved.
+7425	If Andromeda summons Ikki of Phoenix and applies this ability to him, there will be a 70%% damage bonus, resulting total bonus of 150 %%.
 7426	Light of Sacrifice
-7427	This ability can only be used in the Restore Domain.\rConsume 100%% of the Restore Domain bar.
-7428	\t ^00FF00 Sacrifice Light ^FFFF00 \ HPRegeneration: {^FFABFC %d ^FFFF00} FinalRegeneration: {^FFABFC %d ^FFFF00}\rThe amount of HP recovered increases according to the attack power of Andromeda.\r^00FF00 Sacrifice List ^FFFF00\rGenerates a shield that absorbs damage up to the limit of 50%% maximum HP.
-7429	\t ^00FF00 Sacrifice Light ^FFFF00 \ HP Regeneration: %dRegeneration Final: %d\rThe amount of HP recovered increases according to the attack power of Andromeda.\r^00FF00 Sacrifice List ^FFFF00 \ Creates a shield that absorbs damage up to 50%% of maximum HP.
-7430	^c0c0ff [Sacrifice Light] ^A2FFFF\rRegenerates fellow HP around and increases damage by 80 %%. If the ability is fully channeled, it results in a massive recovery of HP from allies.\rActivates ^c0c0ff [Sacrifice Shield] ^A2FFFF\rDuring the status of Andromeda Sacrifice Shield will be able to absorb direct damage received and avoid control status , but if the shield breaks the pipeline will stop immediately.
-7431	Bend. of the Goddess
-7432	This ability can only be used outside combat.
-7433	Bring the target back to life and recover 30%% of your HP.
-7434	Andromeda uses the power of Athena to resuscitate the target.
+7427	This ability can only be used in the Defensive Nature.\rConsume 100%% of the Defensive Nature.
+7428	\t^00FF00Light of Sacrifice^FFFF00\r HP Regeneration: {^FFABFC %d ^FFFF00}\rFinal Heal: {^FFABFC %d ^FFFF00}\rEffect depends on Andromeda Attack Power\r\t^00FF00Sacrifice Shield^FFFF00\rGenerates a shield that absorbs damage up to the limit of 50%% maximum HP.
+7429	\t^00FF00Light of Sacrifice^FFFF00\r HP Regeneration: %d\rFinal Heal: %d\rEffect depends on Andromeda Attack Power\r\t^00FF00Sacrifice Shield^FFFF00 \rGenerates a shield that absorbs damage up to the limit of 50%% maximum HP.
+7430	^c0c0ff [Light of Sacrifice] ^A2FFFF\rRegenerates HP of allies around and increases damage by 80 %%. If the ability is fully charged, it results in a massive HP healing effect.\rActivates ^c0c0ff [Sacrifice Shield] ^A2FFFF\rDuring this Andromeda will be able to absorb direct damage received and avoid control statuses but if the shield breaks, charging will stop immediately.
+7431	Divine Gift
+7432	This ability can only be used in non-combat state.
+7433	Bring the target back to life with 30%% HP.
+7434	Andromeda uses the power of Athena to resurrect the target.
 7435	Reincarnation of Elysians
 7436	Can be released during combat status
 7437	Raise the target and recover HP by 80 %%
 7438	Make the person who died in combat receive the blessing of the Goddess and be resurrected to continue in combat
-7439	String Dimensi.
-7440	Loads Attack Domain Bar
-7441	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rCaused damages: {^FFABFC %d%% ^FFFF00}
+7439	Dimension Chain
+7440	Increase offensive nature
+7441	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 7442	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d %%
 7443	Attacks the target with the chains and deals damage to the surrounding enemies.\rThis ability has damage increased by 50%% if the Strengthened Dimensional Chain status is activated.
-7444	The attack domain mastery increases by 80%% each attack.
-7445	Year Light Chain
+7444	Offensive nature increases by 80%% on each attack.
+7445	Light Year Chain
 7446	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rThis skill has a 50%% chance to activate the Strengthened Dimensional Chain status.\r\t ^00FF00Strengthening the Dimensional Chain ^FFFF00\rThe next time you use the ^00FF00 Dimensional Chain ^FFFF00 will have its damage increased by 100 %%
 7447	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d%%\rThis ability has a 50%% chance to activate Strengthened Dimensional Chain status.\r\t ^00FF00Strengthening the Dimensional Chain ^FFFF00\rThe next time you use the ^00FF00Dimensional Chain ^FFFF00 will have its damage increased by 100 %%
 7448	Attacks the target and deals damage to nearby enemies.
-7449	Andromeda has her damage increased by 30 %%.
-7450	Whenever this ability is used, there is a 20%% chance of redefining the Nebulous Wind cooldown.
-7451	Dest.
+7449	Damage increased by 30 %%.
+7450	Whenever this ability is used there is a 20%% chance to clean Nebulous Wind cooldown.
+7451	Circle of Destiny
 7452	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rImmobilizes target by: 4s\rReduction speed of movement: 40%%\r\t ^00FF00 Virgo Technique ^FFFF00\rIncreases damage by 30 %%
 7453	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d%%\rSlide the target by: 4s\rReduction of Movement Speed: 40%% Viry Technique ^FFFF00 Increases damage by 30%%
-7454	Fast forward to the target and immobilize him paralyzing his legs. Pull nearby monsters to the target and apply a speed reduction.\rThis ability can cancel the flight.
+7454	Quickly rush to the front of the target paralyzing him and the monster around the target can be quickly pulled, causing damage and deceleration\rThis ability can cancel the flight.
 7455	The cooldown becomes 30 seconds, and the damage and the increase of the value of the gods become 2.5 times. The resulting pull effect is effective for the player and causes the main target to stun for 4 seconds.
-7456	Applies target Resonance status to chains for 15s, increasing damage dealt by Andromeda abilities by %d %%.
-7457	Temp.
-7458	It is necessary that the Attack Domain bar reach at least 25 %%.\rConsume all the Attack Domain.
-7459	Additional damage: {^FFABFC %d ^FFFF00}\rAdditional Attack Power of Thunder: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
+7456	Applies Resonance status to chains for 15s, increasing damage dealt by Andromeda skills by %d %%.
+7457	Storm Chain
+7458	Requires at least 25%% Offensive Nature.\rConsumes all the Offensive Nature.
+7459	Additional damage: {^FFABFC %d ^FFFF00}\rBonus Thunder Damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 7460	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d %%
-7461	Attacks the target violently with the chains.\rThe damage of the ability varies according to the Attack Dominance stored in the bar and reaches 300%% when the bar is complete. Under these conditions, Andromeda will be temporarily immune to control effects.\rThe animation of the skill changes according to the shape of the target.
-7462	Increases damage done by 20 %%.
-7463	If ​​Attack Domain exceeds 80 %%, Attack on Strong Players or Monsters casts the target.
-7464	When the Storm Chain skill is used, there is a 10%% chance to activate the Fiery Chain status, this means that your next skill does not spend Attack Dominance. The skill used in these conditions will have damage equivalent to its use with the full Attack Domination bar.
-7465	Cade. of Hell
-7466	This ability can only be used in Attack Domain.\rLoad the Attack Domain bar.
-7467	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Virgin Technique ^FFFF00\rReduce 5 seconds of cooldown.
+7461	Attacks the target violently with the chains.\rThe damage of the ability varies according to the Offensive Nature stored in the bar and reaches 300%% when the bar is complete. Under these conditions, Andromeda will be temporarily immune to control effects.\rSkill animation changes according to the shape of the target.
+7462	Increases damage caused by 20 %%.
+7463	When Offensive Nature is above 80%%, the action can be switched to a chain attack, which can immediately cause the main target to float.
+7464	10%% chance to activate Fiery Chain status: your next skill does not cost Offensive Nature. Offensive nature skills acts as there is full Offensive Nature.
+7465	Hell Chain
+7466	This ability can only be used in Offensive nature.\rIncreases the Offensive nature.
+7467	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Virgo Technique ^FFFF00\rReduce 5 seconds of cooldown.
 7468	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d%%\r\t ^00FF00 Virgo Technique ^FFFF00\rReduce 5 seconds of cooldown.
-7469	Catch the target on its chain, lifting it and then knocking it down for 4s.
-7470	The Chain of Inferno can activate Nebula Blast status for 10s, increasing the CritChance by 50 %%.
-7471	Laber. from Chain
-7472	This ability has different effects on the Attack Dominance and Restoration Domain.
-7473	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Attack Power of Thunder: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00} \t ^c0c0ff [Gold Explosion] r ^FFFF00Pase to be ^fff962 [Invocation of Spirits] ^FFFF00\r^c0c0ff Damage Increase: 50%% ^r ^c0c0ffThe range becomes 6m.\r^c0c0ff When used, pull your enemies. c0c0ffAndromed is immune to control during launch.
-7474	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d%% \t ^c0c0ff [Gold Explosion]\r^FFFF00Pase to be ^fff962 [Invocation of Spirits] ^FFFF00\r^c0c0ff Damage increase: 50%%\rThe Range becomes 6m.\rWhen used, pulls its enemies.\rAndrometer is immune to control effects during the charging.
-7475	Andromeda's chains enter defensive formation around them, attacking any enemy approaching.\r^00FF00 Restoration Domain ^A2FFFF\rThe chains continually attack enemies within range, causing a small damage and reducing the damage received by Andromeda by 50 %%.\r^00FF00Affinity Mastery ^A2FFFF\rThe cooldown is reduced to 1s. If there is Attack Domain Bar to consume the damage increases by 300 %%.
-7476	Silences enemies %s. This effect has a cooldown of 30s.
-7477	Reduces the use of the Attack Domain bar in half, but continues to do a lot of damage.
-7478	Luz Est. De Libert.
-7479	Duration: 6s \t ^00FF00Fight Starlight of Freedom ^FFFF00\rInmune to the influence of the control effect.\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t ^00FF00 Virgo Technique ^FFFF00\rHace ^c0c0ff [Determination of Hades] ^FFFF00 decrease the cooldown in 5s.
-7480	Andromeda uses the power of her Cosmo, eliminating control effects that the target is suffering. Apply the Starlight effect of Freedom on the target.
-7481	Enemies within 5m range of the target will be interrupted and silenced for 3s.
-7482	Starlight of Freedom increases resistance to target damage by 20%% and grants Andromeda an invisibility of 1.5s.
-7483	Determin. of Hades
-7484	\t ^c0c0ff\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Determination of Athena] ^FFFF00\r^c0c0ff Also recieves the Athena Determination status.
-7485	Instant Fill the Attack or Restore Domain bar.
+7469	Catches up the target with a chain and knocks it down for 4 seconds
+7470	Can activate Nebula Blast status for 10s, increasing the CritChance by 50 %%.
+7471	Chain Labyrinth
+7472	This ability has different effects in the Offensive and Defensive Nature.
+7473	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder Damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00} \r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^fff962 [Invocation of Spirits] ^FFFF00\r^c0c0ff Damage increase: 50%%\rRange becomes 6m.\rPulls enemies.\rAndromeda is immune to control effects during casting.
+7474	Additional Damage: %d\rBonus Thunder damage: %d\rDamage: %d%% \r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^fff962 [Invocation of Spirits] ^FFFF00\r^c0c0ff Damage increase: 50%%\rRange becomes 6m.\rPulls enemies.\rAndromeda is immune to control effects during casting.
+7475	Release Andromeda chain to guard the area.\r^00FF00Defensive Nature ^A2FFFF\rThe chains continually attack enemies within range, causing a small damage and reducing the damage received by Andromeda by 50 %%.\r^00FF00Offensive Nature ^A2FFFF\rThe cooldown is reduced to 1s. If there is Offensive Nature to consume, damage increases by 300 %%.
+7476	Silences enemies for %s seconds. This effect has 30s cooldown.
+7477	Reduces Offensive nature cost by half but damage bonus is preserved.
+7478	Light of Freedom
+7479	Duration: 6s \t ^00FF00Light of Freedom^FFFF00\rGrants immunity to negative control effects.\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t ^00FF00 Virgo Technique ^FFFF00\rHace ^c0c0ff [Determination of Hades] ^FFFF00 decrease the cooldown in 5s.
+7480	Andromeda uses Cosmo to cleanse negative control effects that the target is suffering. Grants Light of Freedom effect to the target.
+7481	Silences for 3 seconds and interrupts casting of enemy skills within 5 meters range.
+7482	Light of Freedom increases damage reduction by 20%% and grants an invisibility to Andromeda for 1.5s.
+7483	Will of Hades
+7484	\t ^c0c0ff\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Determination of Athena] ^FFFF00\r^c0c0ff Also receives Determination of Athena status.
+7485	Instant fills Offensive or Defensive Nature.
 7486	Cooldown reduced by 5s.
 7487	Shun-Decrease Defense
 7488	Shun-Circle of Defense to the Monster
@@ -7672,10 +7672,10 @@
 7671	Attribute Attack Wind Increased by 1%% Additional Combat Warlock 50 Sign Unique Ability: ^00FF00 %sTornado ^FFFF00
 7672	Use
 7673	Increased Struggle
-7674	Whenever you consume a point of Spirit of Struggle, you recover 15 points of Energy\rThe Signal's exclusive power: ^00FF00 %s Pegasus ^FFFF00
+7674	Whenever you consume a point of Fighting Spirit, you recover 15 points of Energy\rThe Signal's exclusive power: ^00FF00 %s Pegasus ^FFFF00
 7675	^c0c0ffNeedings LV.6 of the Eagle Armor ^A2FFFF
 7676	Sudden Attack
-7677	Each time you use ^c0c0ff[%s]^FFFF00 you will get 1 point of the Spirit of Struggle and you will enter the state of ^c0c0ff [Meteor Storm] ^FFFF00 %s\rCauses serious damage to the enemy, decreasing resistance by 10%% to damage, for 6s Exclusive Sign ability of: ^00FF00 %s Pegasus ^FFFF00
+7677	Each time you use ^c0c0ff[%s]^FFFF00 you will get 1 point of the Fighting Spirit and you will enter the state of ^c0c0ff [Meteor Storm] ^FFFF00 %s\rCauses serious damage to the enemy, decreasing resistance by 10%% to damage, for 6s Exclusive Sign ability of: ^00FF00 %s Pegasus ^FFFF00
 7678	^c0c0ffNeq. 3 of the Pegasus Armor ^A2FFFF
 7679	Surprise Coup
 7680	When the enemy is struck by ^c0c0ff[%s]^FFFF00, it will reduce its speed by 60 %%, by 5s * Exclusive sign ability: ^00FF00 %s Pegasus ^FFFF00
@@ -7738,7 +7738,7 @@
 7737	^c0c0ff[%s]^FFFF00 its damage is reduced by 30 %%, instead of the reduction of 15s in the cooldown time and slow application for 8s on the target after cast\rThe Signal's exclusive ability to: 00FF00 %s Dragon ^FFFF00
 7738	^c0c0ff Needed Triangle Armor LV.3 ^A2FFFF
 7739	Safe Area
-7740	^c0c0ff[%s]^FFFF00%s of damage reduction by 10 %%, reduce the cooling time 30 seconds \r Exclusive fighting spirit guard Constellation: ^00FF00%s Dragon^FFFF00
+7740	^c0c0ff[%s]^FFFF00%s of damage reduction by 10 %%, reduce the cooling time 30 seconds \r Exclusive Fighting Spirit guard Constellation: ^00FF00%s Dragon^FFFF00
 7741	^c0c0ffDragon's Armor, the star casting level reaches level 16 and gets ^A2FFFF
 7742	Twin Dragons
 7743	^00FF00%s^FFFF00 state duration, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 damage increased by 30%%\rfighting soul exclusive guardian constellation: ^00FF00%s Dragon^FFFF00
@@ -7880,12 +7880,12 @@
 7879	Each damage will reduce the target's movement speed by 1 m/s, stacking up to 5 layers %s
 7880	While the ability is activated, Dragon Claws and Flying Dragon damage will increase by 30 %%.
 7881	Meteor Shower
-7882	Summons meteorites to attack target and nearby foes\r\ n Additional meteorite year: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rDriver age by meteorite: {^FFABFC %d%% ^FFFF00}\rDuration: %ds\r\t ^c0c0ff\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Rain of Arrows] ^FFFF00\r^c0c0ffInvoca Golden Arrows, increasing damage by 15 %%
-7883	Summons meteorites to attack target and nearby foes\rAdditional adder by meteorite: %d\rBonus Air damage:  %d\rMinimum Damage per meteorite %d%%\rDuration: %ds\r\t ^c0c0ff [Explosion of Gold] ^FFFF00\rbecomes ^fff962 [Rain of Arrows] ^FFFF00\r^c0c0ffInvoca Golden Arrows, increasing damage by 15 %%
+7882	Additional meteorite damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rMinimum Damage per meteorite: {^FFABFC %d%% ^FFFF00}\rDuration: %ds\r\t ^c0c0ff\r[Gold Explosion] ^FFFF00 becomes ^fff962 [Rain of Arrows] ^FFFF00\r^c0c0ffSummons Golden Arrows, increasing damage by 15 %%
+7883	Additional meteorite damage: %d\rBonus Air damage:  %d\rMinimum Damage per meteorite %d%%\rDuration: %ds\r\t ^c0c0ff [Explosion of Gold] ^FFFF00\rbecomes ^fff962 [Rain of Arrows] ^FFFF00\r^c0c0ffSummons Golden Arrows, increasing damage by 15 %%
 7884	Summons meteorites to attack the target and nearby enemies.
 7885	Damage increased by 10%% and duration increased by 3s
-7886	The unit struck by the meteor reduces 60%% of the speed of movement and 10%% of resistance to damage, during 8s.
-7887	Each invoked meteorite has a 20%% chance to become a large meteor, increasing by 1m the area of ​​impact and causing 4x to the original damage.
+7886	Target movement speed reduced by 60%% and resistance to damage reduced by 10%% for 8s.
+7887	Each summoned meteorite has a 20%% chance to become a larger meteor, increasing area of impact by 1m and causing 4x more damage.
 7888	Send all lives to Hell! Final blow that attacks the soul directly, ignoring all defenses!
 7889	Atomic Thunder
 7890	Powerful energy that goes beyond the atomic explosion! Exit with speed of light!
@@ -7976,14 +7976,14 @@
 7975	Increases damage by ^c0c0ff[%s]^FFFF00 by 30%%\rSignal exclusive of: ^00FF00 %s Andromeda ^FFFF00
 7976	^c0c0ffNeed Cepheus Armor LV.3 ^A2FFFF
 7977	Counterattack
-7978	^c0c0ff[%s]^FFFF00 has its attack domain cost reduced by half but it continues to cause a lot of damage\r\ n Exclusive Sign Attribute: ^00FF00 %s Andromeda ^FFFF00
+7978	^c0c0ff[%s]^FFFF00 has its Offensive nature cost reduced by half but it continues to cause a lot of damage\r\ n Exclusive Sign Attribute: ^00FF00 %s Andromeda ^FFFF00
 7979	^c0c0ffNeedles Armor of Heracles ^A2FFFF
 7980	Nebula Force
 7981	^c0c0ff[%s]^FFFF00 activates the status Nebula Force \t ^00FF00Flash Nebula ^FFFF00 \ Critical Chance boost: 50%%\rDuration: 10s\rExclusive Sign Enhance: ^00FF00 %sAndromeda ^FFFF00
 7982	^c0c0ffNeedsite LV.10 of Cefeo Armor ^A2FFFF
-7983	Cloudy
-7984	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rWhen using ^c0c0ff [%s] FFFF00 there is a 20%% chance of resetting the cooldown of Cloudy Wind Exclusive Signability of: ^00FF00 %s Andromeda ^FFFF00
-7985	Additional Damage: %d\rBonus Thunder damage: %d\rMinimum Damage: %d%%\rWhen using ^c0c0ff[%s]^FFFF00 there is a 20%% chance of resetting the Cloudy Wind cooldown. Exclusive sign ability: ^00FF00 %s Andromeda ^FFFF00
+7983	Nebulous Wind
+7984	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rWhen using ^c0c0ff [%s] FFFF00 there is a 20%% chance of resetting the cooldown of Nebulous Wind Exclusive Signability of: ^00FF00 %s Andromeda ^FFFF00
+7985	Additional Damage: %d\rBonus Thunder damage: %d\rMinimum Damage: %d%%\rWhen using ^c0c0ff[%s]^FFFF00 there is a 20%% chance of resetting the Nebulous Wind cooldown. Exclusive sign ability: ^00FF00 %s Andromeda ^FFFF00
 7986	^c0c0ffNeedings Cv.16 of Cefeo Armor ^A2FFFF
 7987	Intense Flame
 7988	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[Phoenix Daystorm]^FFFF00 will add 2 layers of flame burning status each time, and the damage of these skills will increase by 15%%\r Exclusive guardian constellation: ^00FF00%s Phoenix ^FFFF00
@@ -8316,20 +8316,20 @@
 8315	Special Cygnus ability, the icy wind comes from Eastern Siberia
 8316	Diamond Powder
 8317	Special Cygnus ability!
-8318	Freezer Air
-8319	Freezing Cygnus Air can freeze the poison.
+8318	Diamond Dust
+8319	Diamond Dust of Cygnus can freeze the poison.
 8320	Powerful Fist
-8321	Attack: \ {^FFABFC %d ^FFFF00}\rPower: \ {^FFABFC %d ^FFFF00}
+8321	Attack: {^FFABFC %d ^FFFF00}\rPower: {^FFABFC %d ^FFFF00}
 8322	Attack: %d\rPower: %d
 8323	It is necessary to enter an army in order to raise the level
 8324	Powerful Shield
-8325	Defense: \ {^FFABFC %d ^FFFF00}\rPower: \ {^FFABFC %d ^FFFF00}
+8325	Defense: {^FFABFC %d ^FFFF00}\rPower: {^FFABFC %d ^FFFF00}
 8326	Defense: %d\rPower: %d
-8327	Spiritual Blocking
+8327	Mental Lock
 8328	Accuracy: {^FFABFC%d^FFFF00}\r Power: {^FFABFC%d^FFFF00}
 8329	Accuracy: %d\rPower: %d
-8330	Psychokinesia
-8331	Evasion: \ {^FFABFC %d ^FFFF00}\rPower: \ {^FFABFC %d ^FFFF00}
+8330	Mind Flash
+8331	Evasion: {^FFABFC %d ^FFFF00}\rPower: {^FFABFC %d ^FFFF00}
 8332	Evasion: %d\rPower: %d
 8333	Ice Storm
 8334	Hyoga's usual ability can cause certain damage to the front range.
@@ -8550,19 +8550,19 @@
 8549	Libra nunchaku
 8550	Light Murders
 8551	Rain of Meteors
-8552	Additional Air Damage: {^FFABFC%d^FFFF00}\r Increase the defense: {^FFABFC%d^FFFF00}\r Increase the life: {^FFABFC%d^FFFF00}\r Increase the combat power: {^FFABFC %d^FFFF00}
+8552	Additional Air Damage: {^FFABFC%d^FFFF00}\rIncreases defense: {^FFABFC%d^FFFF00}\rIncreases HP: {^FFABFC%d^FFFF00}\rIncreases combat power: {^FFABFC %d^FFFF00}
 8553	Additional Air Damage: %d\rDefense: %d\rHP: %d\rPower: %d
 8554	Aurora Cold
-8555	Additional Water Damage: {^FFABFC%d^FFFF00}\r Increase the defense: {^FFABFC%d^FFFF00}\r Increase the life: {^FFABFC%d^FFFF00}\r Increase the combat power: {^FFABFC %d^FFFF00}
+8555	Additional Water Damage: {^FFABFC%d^FFFF00}\rIncreases defense: {^FFABFC%d^FFFF00}\rIncreases HP: {^FFABFC%d^FFFF00}\rIncreases combat power: {^FFABFC %d^FFFF00}
 8556	Additional Water Damage: %d\rDefense: %d\rHP: %d\rPower: %d
 8557	Sacred Claw
-8558	Additional Earth Damage: {^FFABFC%d^FFFF00}\r Increase the defense: {^FFABFC%d^FFFF00}\r Increase the life: {^FFABFC%d^FFFF00}\r Increase the combat power: {^FFABFC %d^FFFF00}
+8558	Additional Earth Damage: {^FFABFC%d^FFFF00}\rIncreases defense: {^FFABFC%d^FFFF00}\rIncreases HP: {^FFABFC%d^FFFF00}\rIncreases combat power: {^FFABFC %d^FFFF00}
 8559	Additional Earth Damage: %d\rDefense: %d\rHP: %d\rPower: %d
 8560	Cut of Sacrifice
-8561	Additional Thunder Damage: {^FFABFC%d^FFFF00}\r Increase the defense: {^FFABFC%d^FFFF00}\r Increase the life: {^FFABFC%d^FFFF00}\r Increase the combat power: {^FFABFC %d^FFFF00}
+8561	Additional Thunder Damage: {^FFABFC%d^FFFF00}\rIncreases defense: {^FFABFC%d^FFFF00}\rIncreases HP: {^FFABFC%d^FFFF00}\rIncreases combat power: {^FFABFC %d^FFFF00}
 8562	Additional Thunder Damage: %d\rDefense: %d\rHP: %d\rPower: %d
-8563	Prophecy of the Phoenix
-8564	Additional Fire Damage: {^FFABFC%d^FFFF00}\r Increase the defense: {^FFABFC%d^FFFF00}\r Increase the life: {^FFABFC%d^FFFF00}\r Increase the combat power: {^FFABFC %d^FFFF00}
+8563	Phoenix Prophecy
+8564	Additional Fire Damage: {^FFABFC%d^FFFF00}\rIncreases defense: {^FFABFC%d^FFFF00}\rIncreases HP: {^FFABFC%d^FFFF00}\rIncreases combat power: {^FFABFC %d^FFFF00}
 8565	Additional Fire Damage: %d\rDefense: %d\rHP: %d\rPower: %d
 8566	Fertilize
 8567	Watering
@@ -8572,22 +8572,22 @@
 8571	taste
 8572	power deployment
 8573	Surprise reinforcement
-8574	Pegasus makes ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff [%s] ^FFF00 increased damage 20 %%
+8574	Pegasus makes ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff [%s] ^FFF00 increased damage 20 %%
 8575	^c0c0ff Level cast of dark stars Pegasus Armor acquisition reaches level 3 ^A2FFFF
 8576	Strengthen the impact of the cloud
-8577	Pegasus makes ^00FF00 %fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 fixed body time becomes 6 seconds
+8577	Pegasus makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 fixed body time becomes 6 seconds
 8578	^c0c0ff Dark Pegasus Armor obtained when the star launched to reach level 10 ^A2FFFF
 8579	Move to strengthen the same invalid
-8580	Pegasus makes ^00FF00 %fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when they take effect, time control for each immunization increased to 5 seconds
+8580	Pegasus makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when they take effect, time control for each immunization increased to 5 seconds
 8581	^c0c0ff Level cast of dark stars Pegasus Armor acquire reaches 16 ^A2FFFF
 8582	decisive attack reinforcement
 8583	Make ^00FF00%s Pegasus ^FFFF00 fighting soul ^c0c0ff[%s]^FFFF00 effective, make ^c0c0ff[%s]^FFFF00 when the target blood volume is less than 50%%, the damage is also increased by 50%% with starlight Disciplinary effect
 8584	^c0c0ff Level cast of dark stars Pegasus Armor acquire reaches 24 ^A2FFFF
 8585	Strengthen Pegasus star boxing
-8586	Pegasus makes ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 damage increased 30%% increase the proportion of injuries decreased by 10 %%
+8586	Pegasus makes ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 damage increased 30%% increase the proportion of injuries decreased by 10 %%
 8587	^c0c0ff Level cast of dark stars Pegasus Armor acquire reaches 32 ^A2FFFF
 8588	The strengthening of the ice dance
-8589	Then ^00FF00 %s Cygnus fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, release ^c0c0ff[%s]^FFFF00 will respond when its own attack 1.7 times life ( %d)
+8589	Then ^00FF00 %s Cygnus Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, release ^c0c0ff[%s]^FFFF00 will respond when its own attack 1.7 times life ( %d)
 8590	^c0c0ff Level cast of dark stars Cygnus Armor to the level obtained when 3 ^A2FFFF
 8591	Strengthening Cracking
 8592	Then ^00FF00 %s fighting ^FFFF00 Cygnus spirits ^c0c0ff[%s]^FFFF00 when they take effect, the water resistance element target additional reduction of 15 points, 40 points changed to reduce
@@ -8596,10 +8596,10 @@
 8595	Then ^00FF00 %s ^FFFF00 Swift fighting Cygnus ^c0c0ff[%s]^FFFF00 when in force, ^c0c0ff[%s]^FFFF00 release of Diamond Dust when consumed by 30 points
 8596	^c0c0ff Get dark when Armor Cygnus star launched to reach level 16 ^A2FFFF
 8597	Strengthen Tidal Power
-8598	Then ^00FF00 %s ^FFFF00 Cygnus fighting spirit ^c0c0ff[%s]^FFFF00 when in effect, each release abilities Evolve additional CritChance updating 5 %%
+8598	Then ^00FF00 %s ^FFFF00 Cygnus Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, each release abilities Evolve additional CritChance updating 5 %%
 8599	^c0c0ff Dark get level cast of Cygnus Armor stars reaches 24 ^A2FFFF
 8600	Wing to strengthen the frozen sea of ​​flowers
-8601	Then ^00FF00 %s ^FFFF00 Cygnus fighting spirit ^c0c0ff[%s]^FFFF00 Diamond Dust is no longer needed, the cooldown for 2 seconds
+8601	Then ^00FF00 %s ^FFFF00 Cygnus Fighting Spirit ^c0c0ff[%s]^FFFF00 Diamond Dust is no longer needed, the cooldown for 2 seconds
 8602	^c0c0ff dark Armor Cygnus star rating obtained when the cast reaches 32 ^A2FFFF
 8603	Strengthen the cut spirit claw
 8604	Then ^00FF00 %s combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 when in force, the additional substantial increase suffered damage, and associated with its attack power
@@ -8617,34 +8617,34 @@
 8616	Then ^00FF00 %combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 recoverable in blood less than 30 %%, the spilled blood will be fully transferred to the target response
 8617	^c0c0ff Level cast of dark stars Draco Armor acquire reaches 32 ^A2FFFF
 8618	Strengthen the string tag
-8619	Then fairies 00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when in effect, releasing ^c0c0ff[%s]^FFFF00 after the target by an additional to improve the skills of the Andromeda 4%% lesions changed 10 %%
+8619	Then fairies 00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, releasing ^c0c0ff[%s]^FFFF00 after the target by an additional to improve the skills of the Andromeda 4%% lesions changed 10 %%
 8620	^c0c0ff get dark when the cast level of stars Andromeda Armor to level 3 ^A2FFFF
 8621	Rose strengthen the killing matrix
-8622	Then FFF ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when they take effect, in the value domain when there is no deity, ^c0c0ff[%s]^FFFF00 can silence the target for 6 seconds
+8622	Then FFF ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when they take effect, in the value domain when there is no deity, ^c0c0ff[%s]^FFFF00 can silence the target for 6 seconds
 8623	^c0c0ff stay dark when the cast of stars Andromeda Armor level range 10 ^A2FFFF
 8624	Long lasting reinforcement
-8625	Then fates ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when in force, after strengthening ^c0c0ff[%s]^FFFF00 persistent guardian status, and after being attacked response to the additional amount of life for 1%% to 2 %%
+8625	Then fates ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in force, after strengthening ^c0c0ff[%s]^FFFF00 persistent guardian status, and after being attacked response to the additional amount of life for 1%% to 2 %%
 8626	^c0c0ff Level cast stars dark Armor Andromeda acquire reaches 16 ^A2FFFF
 8627	Redemption reinforcement
-8628	Then fates ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when in force, even if the target blood exceeds 50 %%, ^c0c0ff[%s]^FFFF00 initial recovery value and resist damage will increase the value 50 %%
+8628	Then fates ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in force, even if the target blood exceeds 50 %%, ^c0c0ff[%s]^FFFF00 initial recovery value and resist damage will increase the value 50 %%
 8629	^c0c0ff dark get level ^A2FFFF cast of Andromeda Armor stars reaches 24
 8630	Strengthen Pluto Amnesty
-8631	So fairies ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 additional duration of 15 seconds after the life trigger response value increased by 10 %%
+8631	So fairies ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 additional duration of 15 seconds after the life trigger response value increased by 10 %%
 8632	^c0c0ff Level cast stars dark Armor Andromeda acquire reaches 32 ^A2FFFF
 8633	Improved Hell Fire
-8634	Phoenix makes ^00FF00 %fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 cooldown reduced to 15 seconds
+8634	Phoenix makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 cooldown reduced to 15 seconds
 8635	^c0c0ff Armor seats level cast of Phoenix Black Acquire level reaches 3 ^A2FFFF
 8636	Improved Fire Elf
-8637	Phoenix makes ^00FF00 %s ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 in damage reduction becomes 25 %%
+8637	Phoenix makes ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 in damage reduction becomes 25 %%
 8638	^c0c0ff Armor seats Black Phoenix Star obtained when casting to reach level 10 ^A2FFFF
 8639	Really violent fire reinforcement
-8640	Phoenix does ^00FF00 %s fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in force, even if the target does not have the effect of Burn, ^c0c0ff[%s]^FFFF00 stays repelled 3 meters
+8640	Phoenix does ^00FF00 %s Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in force, even if the target does not have the effect of Burn, ^c0c0ff[%s]^FFFF00 stays repelled 3 meters
 8641	^c0c0ff Armor seats level cast of stars Phoenix Black acquire reaches 16 ^A2FFFF
 8642	Strengthen days winin pressure
-8643	Phoenix makes ^00FF00 %fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 CritChance extra lift of 25%% changed 75 %%; the duration of the additional period from 3 seconds to 8 seconds
+8643	Phoenix makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 CritChance extra lift of 25%% changed 75 %%; the duration of the additional period from 3 seconds to 8 seconds
 8644	^c0c0ff Armor seats level cast of stars Phoenix Black acquire reaches 24 ^A2FFFF
 8645	Reinforcement of coronal shock wave
-8646	Phoenix does ^00FF00 %s fighting spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 damage increased 30 %%, fell to ground time in 1 second
+8646	Phoenix does ^00FF00 %s Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 damage increased 30 %%, fell to ground time in 1 second
 8647	^c0c0ff Armor seats Black Phoenix Star obtained when casting to reach the level of 32 ^A2FFFF
 8648	Charged
 8649	You can replenish your energy for the blessing of Athena
@@ -8677,7 +8677,7 @@
 8676	^c0c0ff[%s]^FFFF00 meteorite drop has a 20%% chance of becoming a large meteor, increasing the impact area by 1 m and causing 4x damage Exclusive Sign ability: ^00FF00 %s Pegasus ^FFFF00
 8677	^c0c0ffNeedsario LV. 10 of the Compass Armature ^A2FFFF
 8678	Severity
-8679	Whenever you use ^c0c0ff[%s]^FFFF00, the target will receive a movement speed reduction of 1m/s for 8s. This ability also applies additional effects based on the Spirit of Struggle (X):\rImmobilize the target by X-2s\rRain of damage received: 5 * X%%\rSignal's exclusive ability: ^00FF00 %s Pegasus ^FFFF00
+8679	Whenever you use ^c0c0ff[%s]^FFFF00, the target will receive a movement speed reduction of 1m/s for 8s. This ability also applies additional effects based on the Fighting Spirit (X):\rImmobilize the target by X-2s\rRain of damage received: 5 * X%%\rSignal's exclusive ability: ^00FF00 %s Pegasus ^FFFF00
 8680	^c0c0ff Required LV. 10 of the Lizard Armor ^A2FFFF
 8681	Supernova Force
 8682	Receives Supernova Force protection and 80 %% reduction of damage, lasts for 30s and protection ends after being hit 10x.\rAlso can be used under Float, Demolish, Freeze, Petrification, Silenced or Stun status .\rThe Signature Exclusive Signature of: ^00FF00 %s Pegasus ^FFFF00
@@ -8754,7 +8754,7 @@
 8753	^c0c0ff Required Crane Armor LV.16 ^A2FFFF
 8754	Phoenix Help
 8755	Summons the Ikki Knight of Phoenix to assist in combat \t ^00FF00 Ikki ^FFFF00\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\r Damage: {^FFABFC %d%% ^FFFF00}\rDuration: 60s\rYou can be attacked by enemies\rYou can receive healing and protection from Andromeda.\rWhen defeated Andromeda gets damage equal to 25%% of their maximum HP\r^c0c0ff [Light FFFF00 is 100%% more effective in Ikki\r^c0c0ff [Chain Blessing] ^FFFF00 increases Ikki's damage by 150%% Exclusive Signing ability: ^00FF00 %s Andromeda ^FFFF00
-8756	Summons the Ikki Knight from Phoenix to assist in the combat \t ^00FF00 Ikki ^FFFF00\rAdditional Attack Power: %d\rBonus Thunder damage: %d\rDamage: %d%%\rDuration: 60s\rCan be attacked by enemies can receive healing and protection from Andromeda\rWhen defeated, Andromeda receives damage equal to 25%% of his maximum HP\r^c0c0ff [Recovery Light] ^FFFF00 is 100%% more effective on Ikki\r^c0c0ff [Blessing the Chain] ^FFFF00 increases Ikki's damage by 150%% Exclusive Signing ability: ^00FF00 %s Andromeda ^FFFF00
+8756	Summons the Ikki Knight from Phoenix to assist in the combat \t ^00FF00 Ikki ^FFFF00\rAdditional Attack Power: %d\rBonus Thunder damage: %d\rDamage: %d%%\rDuration: 60s\rCan be attacked by enemies can receive healing and protection from Andromeda\rWhen defeated, Andromeda receives damage equal to 25%% of his maximum HP\r^c0c0ff [Light of Recovery] ^FFFF00 is 100%% more effective on Ikki\r^c0c0ff [Blessing the Chain] ^FFFF00 increases Ikki's damage by 150%% Exclusive Signing ability: ^00FF00 %s Andromeda ^FFFF00
 8757	^c0c0ff Needed Casiopea Armor LV.24 ^A2FFFF
 8758	Land of Lava
 8759	^c0c0ff[%s]^FFFF00 leaves the ground burning, causing damage over time to the enemies that remain in the premises. * The area remains burning for 8s. * Additional Attack Power: {FFABFC %d ^FFFF00} {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rThe exclusive right of the sign: ^00FF00 %s Phoenix ^FFFF00
@@ -8912,7 +8912,7 @@
 8911	Sustained additional damage attack:% of all %d%% damage causes under each enemy once again suffer damage, damage increased 3 %%, accumulating up to 10 stacks
 8912	^ff0000 Little space when you can use ^A2FFFFpossui about 15 meters to inflict massive damage when the release of skills the damage is reduced by 30 %%
 8913	judgment of the dawn
-8914	Long range attacks verified radius 3 meters from the area, causing additional damage attack: %d Bonus Water damage: %ddos %d%% damage caused by the exclusive fighting spirit Guardian Constellation: ^00FF00 %s Cygnus ^FFFF00
+8914	Long range attacks verified radius 3 meters from the area, causing additional damage attack: %d Bonus Water damage: %ddos %d%% damage caused by the exclusive Fighting Spirit Guardian Constellation: ^00FF00 %s Cygnus ^FFFF00
 8915	dancing
 8916	After using the dance start
 8917	%d%% damage caused by the target deceleration of 4 m/s for 6 seconds.
@@ -9512,11 +9512,11 @@
 9511	Doctrine
 9512	^c0c0ff[%s]^FFFF00 has its cooldown reduced by 5s Exclusive Signability of: ^00FF00 %s Dragon of the Sea ^FFFF00
 9513	^c0c0ffNeed 3 of the Sea Dragon Scale ^A2FFFF
-9514	^fff962Flecha Dorada
-9515	^fff962Golden Sagittarius
-9516	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rThis ability can be changed which will increase damage by %d%% \t ^00FF00 Golden Arrow Year ^FFFF00\rThe ability can not be released and at the same time, HP can not be retrieved by skill.\rDuration: 4s\r\t ^00FF00Advanced Clerk ^FFFF00\rAfter being released, it enters status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after consumption of that status, it can not be released again\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Meteor Explosion] ^FFFF00 to be\r^c0c0ff [^fff962 Atomic Explosion] ^FFFF00\r^c0c0ff [Meteor Shower] ^FFFF00 to be\r^c0c0ff [ ^fff962 Meteor Shower] ^FFFF00\r^c0c0ff [Cosmic Protection] ^FFFF00 to be\r^c0c0ff [^fff962 Sagittarius Protection] ^FFFF00
-9517	Additional Damage: %d\rBonus Air damage: %d\rDamage: %d%%\rCharging skill for 1 second increase damage by %d%% \t ^00FF00Day Arrow Golden ^FFFF00\rNo se you can release the ability and at the same time, you can not retrieve the HP by skill.\rDuration: 4s \t ^00FF00Advanced Gladiator ^FFFF00\rAfter being released, enters status of ^c0c0ff [Gold Explosion] ^FFFF00 \ After 30s after consumption of that status, it can not be released again.\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Meteors Explosion] ^FFFF00 to be\r^c0c0ff [^fff962 Atomic Explosion] ^FFFF00\r^c0c0ff [Meteor Explosion] ^FFFF00 to be\r^c0c0ff [^fff962 Meteor Shower] ^FFFF00\r^c0c0ff [Cosmic Protection] ^FFFF00 to be\r^c0c0ff [^fff962 Sagittarius Protection] ^FFFF00
-9518	Hit a distant target with a golden arrow.\rIf the enemy is flying, the flight is automatically canceled.\rIf the ability is charged, it will activate the target's Golden Arrow Wound status on the target.\rThe use of this ability can reset the cooldown of ^c0c0ff [Meteor Strike] ^A2FFFF.
+9514	^fff962Golden Arrow
+9515	^fff962Golden Sagittarius Skill
+9516	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Air damage:  {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rThis ability can be changed which will increase damage by %d%% \t ^00FF00 Golden Arrow Year ^FFFF00\rThe ability can not be released and at the same time, HP can not be retrieved by skill.\rDuration: 4s\r\t ^00FF00Advanced Clerk ^FFFF00\rAfter being released, it enters status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after consumption of that status, it can not be released again\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Meteor Explosion] ^FFFF00 to be\r^c0c0ff [^fff962 Atomic Explosion] ^FFFF00\r^c0c0ff [Meteor Shower] ^FFFF00 to be\r^c0c0ff [ ^fff962 Meteor Shower] ^FFFF00\r^c0c0ff [Star Guard] ^FFFF00 to be\r^c0c0ff [^fff962 Sagittarius Protection] ^FFFF00
+9517	Additional Damage: %d\rBonus Air damage: %d\rDamage: %d%%\rCharging skill for 1 second increase damage by %d%% \t ^00FF00Day Arrow Golden ^FFFF00\rNo se you can release the ability and at the same time, you can not retrieve the HP by skill.\rDuration: 4s \t ^00FF00Advanced Gladiator ^FFFF00\rAfter being released, enters status of ^c0c0ff [Gold Explosion] ^FFFF00 \ After 30s after consumption of that status, it can not be released again.\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Meteors Explosion] ^FFFF00 to be\r^c0c0ff [^fff962 Atomic Explosion] ^FFFF00\r^c0c0ff [Meteor Explosion] ^FFFF00 to be\r^c0c0ff [^fff962 Meteor Shower] ^FFFF00\r^c0c0ff [Star Guard] ^FFFF00 to be\r^c0c0ff [^fff962 Sagittarius Protection] ^FFFF00
+9518	Hit a distant target with a golden arrow.\rIf the enemy is flying, the flight is automatically canceled.\rIf charged, it will activate the Golden Arrow Wound status on the target.\rThe use of this ability can reset the cooldown of ^c0c0ff [Meteor Assault] ^A2FFFF.
 9519	Charging the Force of the Golden Arrow gives an additional attack increase of 50 %%.
 9520	^fff962 fist atomic explosion
 9521	^fff962 Gold Advanced Effect Skills: ^c0c0ff damage increased 50%% significantly reduce target hit rate.
@@ -9533,7 +9533,7 @@
 9532	^fff962 Guardian Sagittarius
 9533	^fff962 Gold Advanced Effect Skills: ^c0c0ffum additional physical responses being hit aggressor aggressed will be reduced.
 9534	Immediate retake of fighting five statuses for 15 seconds, every 3 seconds, during the auto-responder respond that combat strength 07:00 per second attack, the attacker hit significantly lower for 5 seconds, 15 seconds this effect can only be triggered once.
-9535	So you can get more fighting spirit and stamina
+9535	So you can get more Fighting Spirit and stamina
 9536 	^fff962Aquarius Advent
 9537	^fff962Golden Aquarius Skill
 9538	Additional Damage: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rDamage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Frozen Explosive^FFFF00\rIncreases Frost Bomb damage by 100%% for 10s\r\t^00FF00Aquarius Advanced^FFFF00\rEnters ^c0c0ff[Gold Explosion]^FFFF00 effect\rThis status can only be activated once every 30s.\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Frozen Ground]^FFFF00 becomes ^c0c0ff[^fff962Bottle of Light]^FFFF00\r^c0c0ff[Crystal Arc]^FFFF00 becomes ^c0c0ff[^fff962Fury of Aurora]^FFFF00\r^c0c0ff[Aurora Protection]^FFFF00 becomes ^c0c0ff[^fff962Aurora Barrier]^FFFF00
@@ -9572,11 +9572,11 @@
 9571	^fff962 Gold Advanced Effect Skills: ^c0c0ffpired up the front of the beacon while the monster can pull itself to the side, lying on the ground on the target causing additional effect
 9572	The enemy targets around six meters and the unit pulled the front of your body (if you want to pull the enemy players, only if it is to take effect only if you selected targets) and own damage increased 20%% by 3 s main goal fell on time ashore: 3 seconds
 9573	gold chains taking aim, target and monsters within the range of 5 meters around himself pulled his side, lying on the ground, while the main target will cancel the main goal of flight status
-9574	^fff962Bend. of Darkness
+9574	^fff962Flower of Darkness
 9575	^fff962 Virgo Gold Skill
-9576	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00} \ MinimumDream {^FFABFC %d%% ^FFFF00}\rAbsorbe: {^FFABFC %d ^FFFF00} Damage\rDuration: 8s\rThe absorption increases in accordance with Power and Attack.\r\t ^00FF00A Divine Shadow ^FFFF00\rDay Damage: 20%%\rDuration: 5s\r\t ^00FF00Virgo Advanced ^FFFF00\rAfter activating ^c0c0ff [Gold Explosion] ^FFFF00\rThis status can only be activated once every 30s.\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Labyrinth of String] ^FFFF00 becomes ^fff962 [Spirit Invocation] ^FFFF00\r^c0c0ff [Determining Hades] ^FFFF00 becomes ^fff962 [Athena Determination] ^FFFF00\r^c0c0ff [Recovery Light] ^FFFF00 happens to be ^fff962 [Treasure Light] ^FFFF00
-9577	Additional Damage: %Additional Thunder Damage: %d\rDriving Minor: %d%%\r\t ^00FF00Black Starlight ^FFFF00\rAbsorbe: %d damage\rDuration: 8s. Power Accuracy and Attack.\r\t ^00FF00 Divine Accomplishment ^FFFF00\rDownload Damage: 20%%\rDuration: 5s\r\t ^00FF00Virgo Advanced ^FFFF00\rAfter activating ^c0c0ff [Gold Explosion] FFFF00\rThe status can only be activated once every 30s.\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Chain Labyrinth] ^FFFF00 becomes ^fff962 [Spirit Invocation] ^FFFF00\r^c0c0ff [Determination of Hades] ^FFFF00 becomes ^fff962 [Determination of Athena] ^FFFF00\r^c0c0ff [Recovery Light] ^FFFF00 becomes ^fff962 [Treasure Light] ^FFFF00
-9578	Attacks enemies around causing large amounts of damage\rAcciona a star barrier for allies within a radius of 15m\rThe divine power and friends will receive damage condition
+9576	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00} \rMinimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Flower of Darkness ^FFFF00\rAbsorbs: {^FFABFC %d ^FFFF00} damage\rDuration: 8s\rThe absorption effect increases along with Cosmo and Attack Power.\r\t ^00FF00A Divine Shadow ^FFFF00\rDamage: 20%%\rDuration: 5s\r\t ^00FF00Virgo Advanced ^FFFF00\rActivates ^c0c0ff [Gold Explosion] ^FFFF00\rThis status can only be activated once every 30s.\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Chain Labyrinth] ^FFFF00 becomes ^fff962 [Spirit Invocation] ^FFFF00\r^c0c0ff [Will of Hades] ^FFFF00 becomes ^fff962 [Athena Determination] ^FFFF00\r^c0c0ff [Light of Recovery] ^FFFF00 becomes ^fff962 [Treasure Light] ^FFFF00
+9577	Additional Damage: %d\rBonus Thunder Damage: %d\rMinimum Damage: %d%%\r\t ^00FF00Flower of Darkness ^FFFF00\rAbsorbs: %d damage\rDuration: 8s\rThe absorption effect increases along with Cosmo and Attack Power.\r\t ^00FF00 Divine Shadow ^FFFF00\rDamage: 20%%\rDuration: 5s\r\t ^00FF00Virgo Advanced ^FFFF00\rActivates ^c0c0ff [Gold Explosion] FFFF00\rThe status can only be activated once every 30s.\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Chain Labyrinth] ^FFFF00 becomes ^fff962 [Spirit Invocation] ^FFFF00\r^c0c0ff [Will of Hades] ^FFFF00 becomes ^fff962 [Determination of Athena] ^FFFF00\r^c0c0ff [Light of Recovery] ^FFFF00 becomes ^fff962 [Treasure Light] ^FFFF00
+9578	Attacks enemies around causing large amounts of damage\rGrants Starlight Barrier for allies within 15m radius\rIn the state of grace, Andromeda and his allies will be granted a state of injury.
 9579	Increase of 10%% of the amount of damage defended by the Starlight Restriction obtained in the Blessing of Darkness.
 9580	^fff962 demons and monsters
 9581	^fff962 Gold Advanced Effect Skills: ^c0c0ff damage increased by 50 %%. Extending the scope of the 6-meter radius around the enemy will begin to release adsorbed to the center chain array of immune control during cast skills
@@ -9589,7 +9589,7 @@
 9588	Answer charisma all the value of the field or deity, Athena will get status
 9589	^fff962 Light Lun
 9590	^fff962 Gold Advanced Effect Skills: ^c0c0ff dramatically increase the amount of initial response divine status values ​​charisma field
-9591	Initial Re life: {^FFABFC %d ^FFFF00} \t ^00FF00 recovery light ^FFFF00cur per second: {^FFABFC %d ^FFFF00} 8 seconds to respond with increased attack power and attack power and increase property
+9591	Initial Re life: {^FFABFC %d ^FFFF00} \t ^00FF00 Light of Recovery ^FFFF00cur per second: {^FFABFC %d ^FFFF00} 8 seconds to respond with increased attack power and attack power and increase property
 9592	The initial response life: %d \t ^00FF00 recovery of light ^FFFF00 Reply second life: %d for 8 seconds to respond with attack and amount of increase attack power and increase property
 9593	So less than 15 meters of his companions respond immediately to a large number of lives, and to obtain an optical effect of recovery slowly regenerate health
 9594	^fff962Aiolia Aid
@@ -9619,7 +9619,7 @@
 9618	Then ^00FF00 %s combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 when in force, ^c0c0ff[%s]^FFFF00 damage value caused by a 100%% increase
 9619	^c0c0ffDark Star Dragon Armor obtained when casting to level 10 ^A2FFFF
 9620	Strengthening the antimatter dimension
-9621	Then ^00FF00 %s Dragon ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 additional opportunity to add a magic crystal 50%% when in force, call up to 100 %%
+9621	Then ^00FF00 %s Dragon ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 additional opportunity to add a magic crystal 50%% when in force, call up to 100 %%
 9622	^c0c0ffDark Star Dragon Armor obtained when casting to level 16 ^A2FFFF
 9623	Reinforcement killing the heart of God
 9624	Then ^00FF00 %s combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 Reduces cooldown of 24 seconds, 36 seconds to
@@ -9916,67 +9916,67 @@
 9915	Around you produces a series of Lions trapped within 30 yards radius to inflict a series of damage.
 9916	^fff962Vampiric Touch
 9917	^fff962Goldability\rEffect: ^c0c0ffRecover own HP
-9918	Consume {^FFABFC %d ^FFFF00} of Fury\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage:{^FFABFC %d%% ^FFFF00}\rRecover the HP in: {^FFABFC %d ^FFFF00}\r\t ^00FF00 Celestial Star of Ferocity Technique ^FFFF00\rExcess recovery of HP by 10 %%.
-9919	Consume %d of Fury\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d%%\rRecovering HP in: %d\r\t ^00FF00Cooling Star of Ferocity Technique ^FFFF00 Extra HP recovery by 10 %%.
+9918	Consume {^FFABFC %d ^FFFF00} of Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage:{^FFABFC %d%% ^FFFF00}\rRecover the HP in: {^FFABFC %d ^FFFF00}\r\t ^00FF00 Celestial Star of Ferocity Technique ^FFFF00\rExcess recovery of HP by 10 %%.
+9919	Consume %d of Rage\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d%%\rRecovering HP in: %d\r\t ^00FF00Cooling Star of Ferocity Technique ^FFFF00 Extra HP recovery by 10 %%.
 9920	Causes damage to the target. Recover HP
 9921	10 lowest cost rage
 9922	After using the rate increase of 20%% crit for 8 s
 9923	Recovers up to 50%% HP.
 9924	Wings of Death
-9925	You can only use in the form of dragon\rUs wings to advance
-9926	Consume 30 of Fury\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
-9927	Consume 30 Fury\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d %%
-9928	Advances toward the target before it falls and causes damage.
-9929	Reduces Cooldown of the Death Wings in 5s.
+9925	You can only use in the form of dragon\rUse wings to rush
+9926	Consume 30 of Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
+9927	Consume 30 Rage\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d %%
+9928	toward the target before it falls and causes damage.
+9929	Reduces Cooldown of the Wings of Death by 5s.
 9930	Deadly Jump
-9931	Legs gain strength
-9932	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Celestial Star of Fury ^FFFF00\rAfter it is released, it enters the status of ^c0c0ff [Flashing Gold] ^FFFF00\rWithin 30s after consuming such status, you will not be able to re-trigger it\r\t ^00FF00Technique of Wyvern ^FFFF00\rObtains 5 of Extra fury.
-9933	Additional Damage: %d\rAdditional Land Level: %d\rDamage: %d%%\r\t ^00FF00Europeanstrike of Advanced Rage ^FFFF00\rAfter released, enters status of ^c0c0ff [Gold Explosion ] ^FFFF00\rIn 30s after consuming such status, you will not be able to re-trigger it.\r\t ^00FF00 Wyvern Technique ^FFFF00\rObtains 5 extra Fury.
-9934	Jump to the indicated location. Cause damage and knock down nearby enemies. Gets 15 points of Fury
+9931	Legs infused with strength. Can jump very far
+9932	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Celestial Star of Rage ^FFFF00\rAfter it is released, it enters the status of ^c0c0ff [Flashing Gold] ^FFFF00\rWithin 30s after consuming such status, you will not be able to re-trigger it\r\t ^00FF00Technique of Wyvern ^FFFF00\rObtains 5 of Extra Rage.
+9933	Additional Damage: %d\rAdditional Land Level: %d\rDamage: %d%%\r\t ^00FF00Europeanstrike of Advanced Rage ^FFFF00\rAfter released, enters status of ^c0c0ff [Gold Explosion ] ^FFFF00\rIn 30s after consuming such status, you will not be able to re-trigger it.\r\t ^00FF00 Wyvern Technique ^FFFF00\rObtains 5 extra Rage.
+9934	Jump to the indicated location. Cause damage and knock down nearby enemies. Gets 15 points of Rage
 9935	Reduces cooldown time by 3s
 9936	After jumping, releases a shadow.
 9937	Increases range by 5m and area by 1m
 9938	Shadow Attack
-9939	Common attack. When you attack, you get 5 points of Fury
+9939	Common attack. When you attack, you get 5 points of Rage
 9940	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 9941	Additional Damage: %d\rBonus Earth damage: %d\rDamage: %d %%
-9942	Claw of Infra.
+9942	Nether Claw
 9943	Summons a claw from the ground
-9944	Get {^FFABFC%d^FFFF00} Fury\rAdditional Attack Power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rDamage: {^FFABFC%d %%^FFFF00}
-9945	Gain %d Fury\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d %%
-9946	Causes damage to target, decelerates by 2 m/s by 6s
-9947	Gets 10 points of Fury.
+9944	Get {^FFABFC%d^FFFF00} Rage\rAdditional Attack Power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rDamage: {^FFABFC%d %%^FFFF00}
+9945	Gain %d Rage\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d %%
+9946	Causes damage to target and reduces movement sped by 2 m/s for 6s
+9947	Gets 10 points of Rage.
 9948	The effect of the deceleration is increased, besides prolonging its duration in 2s.
 9949	Floating Shadow
 9950	A shadow reflects around your body
-9951	Consume 10 points of Fury\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r
-9952	Consumes 10 points of Fury\rAdditional Attack Power: %d\rBonus Earth damage: d %\rMinimum damage: %d%%\r
+9951	Consume 10 points of Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r
+9952	Consumes 10 points of Rage\rAdditional Attack Power: %d\rBonus Earth damage: d %\rMinimum damage: %d%%\r
 9953	Attaches a shadow to the nearby enemy and causes damage. Each shadow increases damage by 30 %%.
 9954	Absorb Shadow
-9955	Awakens the dark desire of the enemy. Drag him and kill him
+9955	Awakens the dark desire of the enemy. Drags and kills him
 9956	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00 Wyvern Technique ^FFFF00 Increases damage by 10%%
 9957	Additional Damage: %d\rAdditional Earth Age: %d Minimum Damage: %d%%\r\t ^00FF00 Wyvern Technique ^FFFF00\rIncreases damage by 10 %%.
-9958	Pull the enemy that is up to 8m in range and causes damage. If the enemy attacks, it is likely to release the shadows. It can trigger once every 2s.
+9958	Pulls the enemy that is up to 8m and causes damage. If the enemy attacks, theres chance to release the shadows. It can trigger once every 2s.
 9959	Increases damage reduction by 20 %%.
 9960	After pulling, reduces the enemy's movement speed by 2m/s.
 9961	After pulling, summon two shadows to the next enemy.
-9962	^fff962Maximum Alert
-9963	^fff962Goldability\rEffect: ^c0c0ffEnters alert status. Throw the nearby enemies. It takes effect every second
-9964	Additional damage by wave: {^FFABFC %d ^FFFF00}\rDriving Earth: {^FFABFC %d ^FFFF00}\rDriver Minimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Estrellas ^FFFF00\rLibera ^c0c0ff [Gold Explosion] ^FFFF00\rYou can only use it again after 30s\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Lava Explosion] ^FFFF00 becomes ^c0c0ff [ fff962 Lava Fury] ^FFFF00\r^c0c0ff [Bloody Judge] ^FFFF00 becomes ^c0c0ff [^fff962Vampiric Touch] ^FFFF00\r^c0c0ff [Black Judgment] ^FFFF00 becomes ^c0c0ff [Petrifying Wings ^fff962] FFFF00
-9965	Additional Damage per Wave: %dDriver Earth per Wave: %d\rMinimum Wave Age: %d%%\r\t ^00FF00Advanced Streams ^FFFF00\rLibera ^c0c0ff [Gold Explosion] ^FFFF00\rYou can only use again after 30 seconds FFFF00\r^c0c0ff [Lava Explosion] ^FFFF00 happens to be ^c0c0ff [^fff962 Lava Fury] ^FFFF00\r^c0c0ff [Blood Judge] ^FFFF00 happens to be ^c0c0ff [^fff962Vampiric Touch] ^FFFF00\r^c0c0ff [Black Judgment] ^FFFF00 becomes ^c0c0ff [Petrifying Wings ^fff962] ^FFFF00
-9966	Floating Shadow: Shadow deals damage to the enemy. Each shadow increases damage by 30 %%.
+9962	^fff962Supreme Omen
+9963	^fff962Gold skill\rEffect: ^c0c0ffActivates Supreme Omen effect that continuously summons Floating Shadows towards nearby enemies. It takes effect every second
+9964	Additional shadow damage: {^FFABFC %d ^FFFF00}\rShadow bonus Earth damage: {^FFABFC %d ^FFFF00}\rShadow Minimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00EWyvern Advanced^FFFF00\rActivates ^c0c0ff [Gold Explosion] ^FFFF00\rYou can only use this effect again after 30 seconds\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Lava Explosion] ^FFFF00 becomes ^c0c0ff [^fff962 Lava Fury] ^FFFF00\r^c0c0ff[Bloodthirsty Judge] ^FFFF00 becomes ^c0c0ff [^fff962Vampiric Touch] ^FFFF00\r^c0c0ff [Dark Judgment] ^FFFF00 becomes ^c0c0ff [Petrifying Wings ^fff962] ^FFFF00
+9965	Additional shadow damage: %d\rShadow bonus Earth damage: %d\rShadow Minimum Damage: %d%%\r\t ^00FF00Wyvern Advanced^FFFF00\rActivates ^c0c0ff [Gold Explosion] ^FFFF00\rYou can only use this effect again after 30 seconds FFFF00\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Lava Explosion] ^FFFF00 becomes ^c0c0ff [^fff962 Lava Fury] ^FFFF00\r^c0c0ff[Bloodthirsty Judge] ^FFFF00 becomes ^c0c0ff [^fff962Vampiric Touch] ^FFFF00\r^c0c0ff [Dark Judgment] ^FFFF00 becomes ^c0c0ff [Petrifying Wings ^fff962] ^FFFF00
+9966	Floating Shadows: Shadow deals damage to the enemy. Each existing shadow increases damage by 30 %%.
 9967	Increases damage reduction by 10 %%.
 9968	Lava Explosion
 9969	Awakening from the depths of hell
-9970	Consume {^FFABFC %d ^FFFF00} Fury\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d %%^FFFF00}
-9971	Consume %d Fury\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d %%
-9972	Decelerates enemies by 8s and 4s after eruption, deals damage to enemies within range
+9970	Consume {^FFABFC %d ^FFFF00} Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d %%^FFFF00}
+9971	Consume %d Rage\rAdditional Attack Power: %d\rBonus Earth damage: %d\rDamage: %d %%
+9972	Decelerates targets and 4s after eruption deals damage to enemies within range
 9973	Can cause: shedding, demolishing, freezing, petrification, wrestling, silence and confusion. Causes additional damage of 50 %%.
 9974	Increases range by 5m and reduces cooldown by 2s
 9975	The eruption causes the target to float for 3s
 9976	Deathly Hallows
 9977	Throw the target at an indicated area. The furthest is 15 meters. If the area exceeds 15 meters, the target will be thrown in the direction of the specified area. It causes a lot of damage.
-9978	Fatal launch has Reduces cooldown by 5s and costs 10 Fury less.
+9978	Reduces cooldown by 5s and costs 10 Rage less.
 9979	The throwing target will be stunned by 4s.
 9980	Target will receive 100%% extra Fire damage.
 9981	^fff962 Petrifaction handles
@@ -9985,45 +9985,45 @@
 9984	Reduces cooldown time by 10s.
 9985	Can disperse up to 5 shadows, each causing skill damage to increase by 10 %%.
 9986	Wyvern Form
-9987	Instantly acquire 50 points of Fury
+9987	Instantly acquire 50 points of Rage
 9988	Increases the speed of movement slightly. You can attack the enemy at a distance.\rYou can accelerate the run.\rDuration: 20s
 9989	Increases maximum HP by 30%% and recovers a high amount of HP.
 9990	Black Flames
-9991	Can only use in the form of Wyvern\rWyvern launches somber flames
-9992	Deals damage to enemies within 3m radius, reduces damage rate by 4 %%. It can accumulate 5 stacks.\rObtains 10 points of Fury
+9991	Can only use in the Wyvern Form\rWyvern launches somber flames
+9992	Deals damage to enemies within 3m radius, reduces damage reduction by 4 %%. It can accumulate 5 stacks.\rObtains 10 points of Rage
 9993	Summons two shadows, each increasing skill damage by 15 %%.
-9994	Black Judgment
+9994	Dark Judgment
 9995	Summons a dragon to attack the target.
-9996	Causes great damage to enemies in a straight line. Bounce weak enemies.
+9996	Causes great damage to enemies in a straight line. Bounces weak enemies.
 9997	Bloodthirsty Judge
-9998	Fury consumption reduced by 10 and Reduces cooldown by 2s.
-9999	Increases critical chance by 10%% for 8s.
+9998	Rage consumption reduced by 10 and cooldown by 2s.
+9999	Increases CritChance by 10%% for 8s.
 10000	Red Flames
-10001	Can only be used in the form of Wyvern\rWyvern launches red flames
-10002	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r^00FF00Combustion ^FFFF00\rDay per second : {^FFABFC %d ^FFFF00}
-10003	Additional Damage: %d Bonus Earth damage: %d\rDamage: %d%%\r^00FF00Combustion ^FFFF00\rDay per second: %d
-10004	Causes damage to enemy within 3 m radius, adds combustion effect, ^00FF00quoting ^A2FFFF. It can accumulate 5 stacks.\rDuration: 8s\rObtains 10 points of Fury
+10001	Can only be used in the Wyvern Form\rWyvern launches red flames
+10002	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r^00FF00Burning^FFFF00\rDamage per second : {^FFABFC %d ^FFFF00}
+10003	Additional Damage: %d\rBonus Earth damage: %d\rDamage: %d%%\r^00FF00Burning^FFFF00\rDamage per second: %d
+10004	Inflicts damage to the target and nearby enemies within 3 meters, and causes ^00FF00Burning^A2FFFF that inflicts damage over time. It can be stacked up to 5 stacks.\rDuration: 8s\rGenerates 10 points of Rage
 10005	Pale Flames
-10006	Can only be used in the form of Wyvern\rWyvern launches blue flames
-10007	Causes damage to enemies within 3 m radius, has additional slow-to-freeze effect if there are 2 or more freeze stacks.\rDuration: 5s\rObtains 10 points of Fury
+10006	Can only be used in the Wyvern Form\rWyvern launches blue flames
+10007	Causes damage to enemies within 3 m radius, has additional slow-to-freeze effect if there are 2 or more freeze stacks.\rDuration: 5s\rObtains 10 points of Rage
 10008	Wyvern Tail
-10009	Can only be used in the form of Wyvern\rUs the tail to launch nearby enemies
-10010	Consumes 20 points of Fury\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
-10011	Consumes 20 Fury points\rAdditional Attack Power: %d\rAdditional Attack Power: %d\rMinimum damage: %d %%
-10012	Deals damage and launches enemies within 6m radius.
+10009	Can only be used in the Wyvern Form\rUse the tail to attack nearby enemies
+10010	Consumes 20 points of Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
+10011	Consumes 20 Rage points\rAdditional Attack Power: %d\rAdditional Attack Power: %d\rMinimum damage: %d %%
+10012	Deals damage and knocks down enemies within 6m radius.
 10013	Flight of Wyvern
-10014	Can only be used in the form of Wyvern\rUse the wings to repel the enemy.
+10014	Can only be used in the Wyvern Form\rUse the wings to repel the enemy.
 10015	Repels the enemy and causes damage.
 10016	^fff962 Molten Fury
 10017	^fff962 Gold Advanced Effect Skills: ^c0c0ff lava eruption can be three times.
 10018	Consumption {^FFABFC %d ^FFFF00} rages at each additional attack power: {^FFABFC %d ^FFFF00} each eruption additionally attack attributes: {^FFABFC %d ^FFFF00} each eruption killed at least { ^FFABFC %d%% ^FFFF00} damage
 10019	Consumption %d erupting at each additional rabies attack power: %d each eruption additionally attributes attack: %d each eruption killed at least %d%% damage
 10020	enemies slowing within the range, four seconds after the magma fury ejected enemies within range of damage.You can erupt three times
-10021	Armor Frag.
+10021	Holy Sacrifice
 10022	The damage rate increases by 40 %%, decreases resistance against damage by 10 %%.\rDuration: 12s
 10023	Shield of Hades
 10024	Protection of the shield of Hades
-10025	If you are attacked 5 times, the shield is broken. If the damage is less than 10%% of the maximum HP, the damage will become HP recovery, otherwise, the damage suffered decreases by 50 %%.\rDuration: 10s
+10025	If you are attacked 5 times, the shield is broken. If the damage is less than 10%% of the maximum HP it will become HP heal, otherwise the damage suffered decreases by 50 %%.\rDuration: 10s
 10026	When the HP is less than 50%% the cooldown is reduced in 10s.
 10027	Repeat Jump
 10028	^c0c0ff[%s]^FFFF00 has the cooldown reduced by 3s\rThe exclusive ability of the Sign: ^00ff00 %s Wyvern ^ffff00
@@ -10044,7 +10044,7 @@
 10043	^c0c0ff[%s]^FFFF00 hits and throws the target's exclusive Sign of: ^00ff00 %s Wyvern ^ffff00
 10044	^c0c0ffNumber of Fly Armor LV.3 ^A2FFFF
 10045	Brutal Attack
-10046	Reduces recharging time of ^c0c0ff[%s]^FFFF00 in 5s and reduces Fury consumption by 10 * Signal exclusive ability: ^00ff00 %s Wyvern ^ffff00
+10046	Reduces recharging time of ^c0c0ff[%s]^FFFF00 in 5s and reduces Rage consumption by 10 * Signal exclusive ability: ^00ff00 %s Wyvern ^ffff00
 10047	^c0c0ff Needs 10 Minotaur Surplice ^A2FFFF
 10048	Mental Download
 10049	^c0c0ff[%s]^FFFF00 leaves the target unconscious for 4s Exclusive sign's ability: ^00ff00 %s Wyvern ^ffff00
@@ -10062,14 +10062,14 @@
 10061	Use ^c0c0ff[%s]^FFFF00 add two ^c0c0ff [Shadows] ^FFFF00\rSignal exclusive of: ^00ff00 %s Wyvern ^ffff00
 10062	^c0c0ffNeedings LV.10 of the Fly Armature ^A2FFFF
 10063	Shelter
-10064	Immediately obtains 50 Fury points.\rWithin 10s, received attacks restore 3%% of maximum HP\rNo attacks: 5 Exclusive Signal ability: ^00ff00 %s Wyvern ^ffff00
+10064	Immediately obtains 50 Rage points.\rWithin 10s, received attacks restore 3%% of maximum HP\rNo attacks: 5 Exclusive Signal ability: ^00ff00 %s Wyvern ^ffff00
 10065	^c0c0ffNumber of Fly Armor LV.16 ^A2FFFF
 10066	Sinister Area
 10067	In a radius of 7m recover your HP and the Allies by 10 %%. After 15s, it continues to recover the HP / s by 15%% Exclusive Sign of: ^00ff00 %s Wyvern ^ffff00
 10068	^c0c0ff Needs LV.16 Berenice Armor ^A2FFFF
 10069	Sword of Evil
-10070	Throw a sword at the target, ignoring its endurance, causing damage and knocking it down for 4s. The damage increases 10%% each meter between Wyvern and the target\rIf Wyvern recovers the sword, regenerates 10%% of its maximum HP and cooldown of all skills is reduced by 20s\rConsume 25 points of Fury\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rIt's exclusive ability: %s Wyvern ^ffff00
-10071	Throw a sword at the target, ignoring its endurance, causing damage and knocking it down for 4s\rThe damage increases 10%% each meter between Wyvern and the target\rIf Wyvern recovers the sword, regenerates 10%% of its maximum HP and cooldown of all skills is reduced by 20s\rConsume 25 points of Fury\rAdditional Attack Power: %d\rDamage: %d%%\rIt's exclusive ability: ^00ff00 %s Wyvern ^ffff00
+10070	Throw a sword at the target, ignoring its endurance, causing damage and knocking it down for 4s. The damage increases 10%% each meter between Wyvern and the target\rIf Wyvern recovers the sword, regenerates 10%% of its maximum HP and cooldown of all skills is reduced by 20s\rConsume 25 points of Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rIt's exclusive ability: %s Wyvern ^ffff00
+10071	Throw a sword at the target, ignoring its endurance, causing damage and knocking it down for 4s\rThe damage increases 10%% each meter between Wyvern and the target\rIf Wyvern recovers the sword, regenerates 10%% of its maximum HP and cooldown of all skills is reduced by 20s\rConsume 25 points of Rage\rAdditional Attack Power: %d\rDamage: %d%%\rIt's exclusive ability: ^00ff00 %s Wyvern ^ffff00
 10072	^c0c0ff Required Wyvern Armor No. A2FFFF
 10073	Preservation
 10074	A shield will activate when the HP is less than 30%% and will absorb 25%% of damage for 20s. * cooldown: 60s Exclusive Signal ability: ^00ff00 %s Wyvern ^ffff00
@@ -10099,7 +10099,7 @@
 10098	Wyvern form: ^c0c0ff[%s]^FFFF00 has the cooldown reduced by 5s\rHuman Form: ^c0c0ff[%s]^FFFF00 has Reduces cooldown by 10s\rExclusive ability of Sign: ^00FF00 %s Wyvern ^FFFF00
 10099	^c0c0ffNeissario LV.16 of Surplice de Papillon ^A2FFFF
 10100	Strong Dragon
-10101	Use ^c0c0ff[%s]^FFFF00 increases by 30%% max HP and restores HP Human Form: ^c0c0ff[%s]^FFFF00 adds 10 Fury points Exclusive Sign Attribute: ^00FF00 %s Wyvern ^FFFF00
+10101	Use ^c0c0ff[%s]^FFFF00 increases by 30%% max HP and restores HP Human Form: ^c0c0ff[%s]^FFFF00 adds 10 Rage points Exclusive Sign Attribute: ^00FF00 %s Wyvern ^FFFF00
 10102	^c0c0ffNeissario LV.24 de Surplice de Papillon ^A2FFFF
 10103	Ao Lufei moves, causing general damage of the magic flower.
 10104	Termination of Strings
@@ -10234,7 +10234,7 @@
 10233	^c0c0ff[%s]^FFFF00 increases resistance to target damage by 20 %%, but silences it by 1.5s Exclusive Signability of: ^00FF00 %s Andromeda ^FFFF00
 10234	^c0c0ffSuprema Surplice LV.10 ^A2FFFF
 10235	Burning Ties
-10236	^c0c0ff[%s]^FFFF00 has 10%% of activating ^00FF00 Burning Ties ^FFFF00, generating 25%% of Attack Domain and the next use of ^c0c0ff[%s]^FFFF00 consumes 25%% Attack Domain , but it is used as if the bar were full\rThe Signal exclusive of: ^00FF00 %s Andromeda ^FFFF00
+10236	^c0c0ff[%s]^FFFF00 has 10%% of activating ^00FF00 Burning Ties ^FFFF00, generating 25%% of Offensive nature and the next use of ^c0c0ff[%s]^FFFF00 consumes 25%% Offensive nature , but it is used as if the bar were full\rThe Signal exclusive of: ^00FF00 %s Andromeda ^FFFF00
 10237	^c0c0ffNeedular Survice LV.16 of Dullahan ^A2FFFF
 10238	Divine Shield
 10239	If the HP of Andromeda is less than 40 %%, the ^00FF00 Divine Shield ^FFFF00 is activated, rendering it immune to control effects and absorbing damage equal to 80%% of its maximum life\rAndrommeda can not use abilities for 6s\rE effect only occurs once every 90s Signal exclusive ability: ^00FF00 %s Andromeda ^FFFF00
@@ -10268,7 +10268,7 @@
 10267	Each point of the consumed Struggle Spirit can reduce the cooldown time of ^c0c0ff [%s] by 5s. ^FFFF00\rThe exclusive ability of the Sign of: ^00FF00 %s Pegasus ^FFFF00
 10268	^c0c0ff Needs Surveillance LV.24 of E. Hate ^A2FFFF
 10269	Bloodthirsty
-10270	^c0c0ff[%s]^FFFF00 has Fury consumption reduced by 10 points and cooldown by 2s. ^c0c0ff[%s]^FFFF00 reduces Fury consumption by 10 points\rThe Signal's exclusive ability to: ^00FF00 %s Wyvern ^FFFF00
+10270	^c0c0ff[%s]^FFFF00 has Rage consumption reduced by 10 points and cooldown by 2s. ^c0c0ff[%s]^FFFF00 reduces Rage consumption by 10 points\rThe Signal's exclusive ability to: ^00FF00 %s Wyvern ^FFFF00
 10271	^c0c0ff Required Wyvern Armor LV.16 ^A2FFFF
 10272	Bloodthirsty
 10273	Using ^c0c0ff[%s]^FFFF00 will have an increase of 10%% in the Critical Chance for 8s\rUsando ^c0c0ff[%s]^FFFF00 will have a 20%% increase in Critical Chance by 8s Sign exclusive of: ^00FF00 %s Wyvern ^FFFF00
@@ -10277,19 +10277,19 @@
 10276	^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 have the HP recovery increased by 50%% Exclusive Signing ability: ^00FF00 %s Wyvern ^FFFF00
 10277	^c0c0ffNeedings LV.12 Berenice Armor ^A2FFFF
 10278	Strengthen Steed jump
-10279	Then ^00FF00 %s Wyvern ^FFFF00 fighting spirit ^c0c0f f [%s] ^FFFF00 when in force, release ^c0c0ff[%s]^FFFF00 several take down the enemy one second, three seconds down
+10279	Then ^00FF00 %s Wyvern ^FFFF00 Fighting Spirit ^c0c0f f [%s] ^FFFF00 when in force, release ^c0c0ff[%s]^FFFF00 several take down the enemy one second, three seconds down
 10280	^c0c0ffNeed 3 Wyvern Armor ^A2FFFF
 10281	Enhancing Lava Control
-10282	Then ^00FF00 %s Wyvern ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when in effect, release ^c0c0ff[%s]^FFFF00 without consuming anger
+10282	Then ^00FF00 %s Wyvern ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, release ^c0c0ff[%s]^FFFF00 without consuming anger
 10283	^c0c0ff Required Wyvern Armor LV.10 ^A2FFFF
 10284	Reinforcing particleboard
-10285	Then ^00FF00 %s Wyvern ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when they take effect, as it is ^c0c0ff[%s]^FFFF00 play people for additional magma of 150%% damage. subject to an additional 100%% damage)
+10285	Then ^00FF00 %s Wyvern ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when they take effect, as it is ^c0c0ff[%s]^FFFF00 play people for additional magma of 150%% damage. subject to an additional 100%% damage)
 10286	^c0c0ff Required Wyvern Armor LV.16 ^A2FFFF
 10287	Bloodthirsty greedy reinforcement
-10288	Then ^00FF00 %s Wyvern ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 when they take effect, make your fFFF00 [%s] ^FFFF00 and ^c0c0ff[%s]^FFFF00 results blood back lift 100%% (the original is 50 %%)
+10288	Then ^00FF00 %s Wyvern ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when they take effect, make your fFFF00 [%s] ^FFFF00 and ^c0c0ff[%s]^FFFF00 results blood back lift 100%% (the original is 50 %%)
 10289	^c0c0ffNeedded Wyvern Armor ^A2FFFF
 10290	Reinforcement Hades Sword
-10291	Then ^00FF00 %s Wyvern ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 anger is no longer needed
+10291	Then ^00FF00 %s Wyvern ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 anger is no longer needed
 10292	^c0c0ff Required Wyvern Armor LV.10 ^A2FFFF
 10293	500,000 combat skills power switch
 10294	I use this ability you are light and dark shadow
@@ -10298,7 +10298,7 @@
 10297	900,000 combat skills power switch
 10298	You are using this skill Pisces Star
 10299	Guard of Hades
-10300	It is able to dodge hits, increases by 25%% healing effect and maximum HP increases by 5 %%. When it is attacked increases the Fury by 5.
+10300	Allows to be able to block monster's critical hits. Increases heal amount by 25%% and max HP by 5%%. Adds 5 points of Fury when attacked. It takes effect every two seconds.
 10301	Es. Wind
 10302	Improved wind resistance: {^FFABFC %d ^FFFF00}
 10303	Improves wind resistance: %d
@@ -10403,8 +10403,8 @@
 10402	Consumes 15%% of MAX HP to deal a number of hits on the target.\rBonus: Life lost * (1+ difference between resistances)\rDamage: 180%%\rThis ability can not be used if HP is less than 20%%
 10403	Dragon sacrifices much of his HP to cause massive damage to the target.
 10404	Reduces target's resistance to damage by 10%% for 5s
-10405	Cancel Change
-10406	​​Cancels Wyvern form, returns to human form.
+10405	Human Form
+10406	Cancels Wyvern form and returns to human form.
 10407	Statue of Ares
 10408	Staff of life
 10409	Wand slow
@@ -10448,7 +10448,7 @@
 10447	Leo soul
 10448	Use available Leo soul blessing has turned into Leo Santo Gold Armor does not change the original occupation and skills without additional additional attributes
 10449	Cast of stars Leo Pano of 40 to get only get a column of basic skills appears to bless the soul of gold Saint
-10450	Soul Virgin
+10450	Soul Virgo
 10451	Using the available Virgo soul blessing turned into Virgo Santo Gold Armor does not change the original occupation and abilities without additional additional attributes
 10452	Cast of stars of Virgo Armor of 40 to get only get a column of basic skills appears in blessing the soul of gold Saint
 10453	soul Libra
@@ -10783,7 +10783,7 @@
 10782	Magic Emperor Fist
 10783	vampiric touch
 10784	pterosaur impact
-10785	Maximum Alert
+10785	Supreme Omen
 10786	Musical Prelude
 10787	Final Song
 10788	Rhapsody of Lira
@@ -10924,7 +10924,7 @@
 10923	When using ^c0c0ff[%s]^FFFF00 there is the probability of 20%% to increase the damage of ^c0c0ff[%s]^FFFF00 in 50%% * Exclusive sign ability: ^00FF00 %s Lira ^FFFF00
 10924	^c0c0ffNeeds Lira Armor LV.3 ^A2FFFF
 10925	Power of Weakness
-10926	^c0c0ff[%s]^FFFF00 20%% probability ^c0c0ff[%s]^FFFF00 target for 3 seconds exclusive constellation guard fighting spirit: ^00FF00 %s Lyra ^FFFF00
+10926	^c0c0ff[%s]^FFFF00 20%% probability ^c0c0ff[%s]^FFFF00 target for 3 seconds exclusive constellation guard Fighting Spirit: ^00FF00 %s Lyra ^FFFF00
 10927	^c0c0ff star level cast lepus Armor get hit level 6 ^A2FFFF
 10928	Float
 10929	^c0c0ff[%s]^FFFF00 leaves the target floating for 2s and reduces 30 points of energy Exclusive Signability: ^00FF00 %s Lira ^FFFF00
@@ -11006,19 +11006,19 @@
 11005	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 Curse duration increased by 6 seconds\r^c0c0ff[%s]^FFFF00 Duration increased by 3 seconds\r Fighting soul exclusive guardian constellation: ^00FF00%s Lira ^FFFF00
 11006	^c0c0ffNeedular Survice No. 244 of E.Silences for ^A2FFFF
 11007	Strengthen the weak
-11008	Lyra does ^00FF00 %fighting spirit ^FFFF00 when ^c0c0ff[%s]^FFFF00 is in effect, releasing ^c0c0ff[%s]^FFFF00 body effect when administered to stun
+11008	Lyra does ^00FF00 %Fighting Spirit ^FFFF00 when ^c0c0ff[%s]^FFFF00 is in effect, releasing ^c0c0ff[%s]^FFFF00 body effect when administered to stun
 11009	^c0c0ffNeed Lira Armor LV.3 ^A2FFFF
 11010	reverberation seismic reinforcement
-11011	Lyra does ^00FF00 %fighting spirit ^FFFF00 [%s] ^FFFF00 when in force, the release [%s] ^FFFF00 reaches one target every 5 physical recovery
+11011	Lyra does ^00FF00 %Fighting Spirit ^FFFF00 [%s] ^FFFF00 when in force, the release [%s] ^FFFF00 reaches one target every 5 physical recovery
 11012	^c0c0ffNeeds Lira Armor LV.10 ^A2FFFF
 11013	Strengthening blessing months
-11014	Lyra does ^00FF00 %s fighting spirit ^FFFF00 go into ^c0c0ff[%s]^FFFF00 force when the trigger, ^c0c0ff[%s]^FFFF00 extra effect to make your own health recovery 5 %%
+11014	Lyra does ^00FF00 %s Fighting Spirit ^FFFF00 go into ^c0c0ff[%s]^FFFF00 force when the trigger, ^c0c0ff[%s]^FFFF00 extra effect to make your own health recovery 5 %%
 11015	^c0c0ffNeed Lira Armor LV.16 ^A2FFFF
 11016	Strengthening falls Lyra
-11017	Lyra does ^00FF00 %s fighting spirit ^FFFF00 when ^c0c0ff[%s]^FFFF00 take effect, make your ^c0c0ff[%s]^FFFF00 reduction cooldown in 10 seconds
+11017	Lyra does ^00FF00 %s Fighting Spirit ^FFFF00 when ^c0c0ff[%s]^FFFF00 take effect, make your ^c0c0ff[%s]^FFFF00 reduction cooldown in 10 seconds
 11018	^c0c0ffNeedings LV.24 of Lyre Armor ^A2FFFF
 11019	Strengthening sounds Mastermind
-11020	Lyra ^00FF00 %s does ^FFFF00 fighting spirit ^c0c0ff[%s]^FFFF00 ban extended treatment time to 6 seconds, decapitated conditions increased to the target value of life in the following 40 %%
+11020	Lyra ^00FF00 %s does ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 ban extended treatment time to 6 seconds, decapitated conditions increased to the target value of life in the following 40 %%
 11021	^c0c0ff Needs Lira Armor LV.32 ^A2FFFF
 11022	hit the Earth
 11023	From the power of the earth, you can attack the enemy in front of the wide arc oh
@@ -11312,8 +11312,8 @@
 11311	Fatal liter Fist
 11312	Thang Long hit a record one, see trick!
 11313	Sacred Song
-11314	Increase the light attribute attack power: {^FFABFC%d^FFFF00}\r Increase the defense: {^FFABFC%d^FFFF00}\r Increase the life: {^FFABFC%d^FFFF00}\r Increase the combat power: {^FFABFC %d^FFFF00}
-11315	Increase the light attribute attack power: %d\r increases the defense power: %d\r increases the life: %d\r increases the combat power: %d
+11314	Increase the light attribute attack power: {^FFABFC%d^FFFF00}\rIncreases defense: {^FFABFC%d^FFFF00}\rIncreases HP: {^FFABFC%d^FFFF00}\rIncreases combat power: {^FFABFC %d^FFFF00}
+11315	Increase the light attribute attack power: %d\rIncreases defense: %d\rIncreases HP: %d\rIncreases combat power: %d
 11316	Son of Glory
 11317	Increase {^FFABFC%d^FFFF00} point light attribute resistance\r increase {^FFABFC%d^FFFF00} point force
 11318	Increase %d point light attribute resistance\r increase %d point strength
@@ -12047,7 +12047,7 @@
 12046	After its use, you will obtain the blessing of Minos, during the fight, there is probability to activate ^c0c0ff [Puppet Flight] ^A2FFFFo ^c0c0ff [Sacrifice Puppets]
 12047	Technique of Sagittarius
 12048	^fff962Dios · Sagittarius Technique
-12049	^00FF00 Wake of the Technique ^FFFF00\rreconfigures immediately the cooldown of ^c0c0ff [Surprise Meteor] ^FFFF00, ^c0c0ff [Shadow Fist] ^FFFF00y ^c0c0ff [Fist Circular] ^FFFF00 plus that, within the next %ds, after the time of immunity to the control is prolonged by 3s. Reduces damage received by 20%%.\r^00FF00Compression of the technique ^FFFF00\rWhen using ^Survival Meteor ^FFFF00 you will have 2s of immunity effect to the control.\r^c0c0ff [Fist Circular] ^FFFF00increase area dropping by 1m, increases damage by 10%%.\r^c0c0ff [Shadow Fist] ^FFFF00 has an extra fighting spirit, as well as increasing movement speed by 3m; duration of 5s
+12049	^00FF00 Wake of the Technique ^FFFF00\rreconfigures immediately the cooldown of ^c0c0ff [Surprise Meteor] ^FFFF00, ^c0c0ff [Shadow Fist] ^FFFF00y ^c0c0ff [Fist Circular] ^FFFF00 plus that, within the next %ds, after the time of immunity to the control is prolonged by 3s. Reduces damage received by 20%%.\r^00FF00Compression of the technique ^FFFF00\rWhen using ^Survival Meteor ^FFFF00 you will have 2s of immunity effect to the control.\r^c0c0ff [Fist Circular] ^FFFF00increase area dropping by 1m, increases damage by 10%%.\r^c0c0ff [Shadow Fist] ^FFFF00 has an extra Fighting Spirit, as well as increasing movement speed by 3m; duration of 5s
 12050	God · Sagittarius technique strengthens itself; obtains the active ability ^A2FFFF from the awakening of the technique ^00FF00, as well as the passive effect ^A2FFFF from the understanding of the technique ^00FF00.
 12051	<Awakening of the Technique> extends the duration in 10s
 12052	Aquarius Technique
@@ -12860,16 +12860,16 @@
 12859	Start / Cancel Flight with Montaría
 12860	Fly
 12861	Start / Cancel Flight
-12862	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-12863	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-12864	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\rDuration：3 seconds\rIncreases total damage by 25%% per rank
+12862	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12863	Causes the monster to fall to the ground for 2 seconds, players will be paralyzed for 2 seconds instead\rAdditional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12864	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rDuration：3 seconds\rIncreases total damage by 25%% per rank
 12865	Additional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\rDuration：3 seconds\rIncreases total damage by 25%% per rank
 12866	
 12867	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rSilence time: %d seconds
 12868	Additional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\rSilence time: %d seconds
-12869	Damage increase: 20%%\rDuration: 20 seconds\rEffect range:15 meters
+12869	Damage increase: 20%%\rDuration: 20 seconds\rEffect range: 15 meters
 12870	Improve your movement speed, damage reduction for a short time and immune to fixation, deceleration\rfloating, falling, freeze, burn, silence. Can also be used under chaotic status
-12871	Respond 10 points every 2 seconds for the duration
+12871	Restores 10 Stamina every 2 seconds of the duration
 12872	Effect lasts for 15 seconds, automatically gain small amount of Fighting Spirit every 3 seconds\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00\r^c0c0ffAdditional stamina recovery\rWhen attacked, the attacker's Accuracy drops dramatically.
 12873	Every 2 seconds restores 1%% HP for the duration
 12874	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces target movement speed by 60%%, lasts 6 seconds\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Aurora Wrath]^FFFF00\r^c0c0ffDamage increased by 100%%, and 100%% splash damage around the target\rAt the same time, the target can be frozen
@@ -12883,8 +12883,8 @@
 12882	^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00reduces target Defense by {^FFABFC%d^FFFF00} and all Resistances by 10 points
 12883	^c0c0ff[%s]^FFFF00^c0c0ff[%s]^FFFF00reduce target Defense by %d and all Resistances by 10 points
 12884	Pull the enemy and other targets within 6 meters to caster (If you are pulling an enemy player, it will only take effect if he is the target you selected)\r\t^c0c0ff[Gold Explosion]^FFFF00 becomes ^c0c0ff[^fff962Gold Chains]^FFFF00\r^c0c0ffPulling the target to the front of the caster, you can pull the monster around you to the side, causing the main target to fall to the ground
-12885	Consumes %d%% of current HP\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rHits 6 times causing in total {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Libra Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-12886	Consumes %d%% of current HP\rAdditional attack power: %d\rBonus Earth damage: %d\rHits 6 times causing in total %d%% damage\r\t^00FF00Libra Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12885	Consumes %d%% of current HP\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rHits 6 times causing in total {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Libra Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12886	Consumes %d%% of current HP\rAdditional attack power: %d\rBonus Earth damage: %d\rHits 6 times causing in total %d%% damage\r\t^00FF00Libra Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
 12887	Taunts targets within 6 meters.\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage
 12888	Taunts targets within 6 meters.\rAdditional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage
 12889	Protect yourself with a dragon shield, absorbing damage up to 35%% of your max HP, lasts 6 seconds\rWithin 30 seconds ^c0c0ff[%s]^FFFF00 damage will be greatly improved and slows down the target by 60%% for 4 seconds\rCan be used while in floating, falling, frozen, petrified, silenced, chaotic status.
@@ -12897,8 +12897,8 @@
 12896	Additional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\r50%% chance to enter the enhanced Dimension Corner Lock status\r\t^00FF00Enhanced Dimension Lock^FFFF00\rNext ^00FF00Dimension Corner Lock^FFFF00 damage increased by 50%%
 12897	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rParalyzes the target for: 4 seconds\rReduce movement speed by: 40%%
 12898	Additional attack power: %d\rBonus Earth damage: %d\rCauses %d%% damage\rParalyzes the target for: 4 seconds\rReduce movement speed by: 40%%
-12899	Use the chain to roll up the target and slam the ground, and splash around the target\rThe damage of the ability varies according to the Attack Dominance stored in the bar and reaches 300%% when the bar is complete.\rThe animation of the skill changes according to the shape of the target.
-12900	Duration: 6 seconds\t^00FF00Fight Starlight of Freedom^FFFF00\rInmune to the influence of the control effect\rYou can use it when you are: stunned, knocked down, floating and silenced
+12899	Use the chain to roll up the target, slam the ground and splash around\rDamage varies according to the Offensive Nature stored and reaches 300%% when full.\rSkill animation changes according to the shape of the target.
+12900	Duration: 6 seconds\t^00FF00Light of Freedom^FFFF00\rGrants immunity to negative control effects\rYou can use it when you are: stunned, knocked down, floating and silenced
 12901	^c0c0ffSerpent Holy Armor Star Casting 3 LV achieved^A2FFFF
 12902	^c0c0ffCrown Holy Armor Star Casting 3 LV achieved^A2FFFF
 12903	^c0c0ffSerpent Holy Armor Star Casting 10 LV achieved^A2FFFF
@@ -12911,13 +12911,13 @@
 12910	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduce movement speed by: 60%%
 12911	Additional attack power: %d\rBonus Fire damage: %d\rCauses %d%% damage\rReduce movement speed by: 60%%
 12912	Attacks the target and enemies nearby\rImmediately inflicts 5 stacks of Burning to the target\rThe high temperature generated will slow down the opponent for 5 seconds.
-12913	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\t^00FF00Hellfire^FFFF00\rCauses damage over time for 10 seconds\r\t^00FF00Leo Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-12914	Additional attack power: %d\rBonus Fire damage: %d\rMinimum damage: %d%%\t^00FF00Hellfire^FFFF00\rCauses damage over time for 10 seconds\r\t^00FF00Leo Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12913	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\t^00FF00Hellfire^FFFF00\rCauses damage over time for 10 seconds\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12914	Additional attack power: %d\rBonus Fire damage: %d\rMinimum damage: %d%%\t^00FF00Hellfire^FFFF00\rCauses damage over time for 10 seconds\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
 12915	30%% chance to summon Dark Phoenix
 12916	The cooldown becomes 50 seconds, and the last blow can stun the enemy for 5 seconds.
 12917	Sovereignty Force effect increased by 60%%
 12918	A teammate with HP less than 50%% instantaneous return to the max HP by 5%% of HP, and restore 1%% of the lHP limit per second
-12919	Phantom bonus attack power: {^FFABFC%d^FFFF00}\rPhantom bonus Fire damage:  {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\rSummons will exists for 20 seconds
+12919	Phantom bonus attack power: {^FFABFC%d^FFFF00}\rPhantom bonus Fire damage:  {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rSummons will exists for 20 seconds
 12920	Phantom bonus attack power: %d\rPhantom bonus Fire damage: %d\rMinimum damage: %d%%\rSummons will exists for 20 seconds
 12921	The Flame of Rage has a 10%% chance to instantly clear the cooldown of this ability
 12922	10%% chance to summon Phantoms
@@ -12953,13 +12953,13 @@
 12952	^c0c0ff[%s]^FFFF00Increases all Resistance of yourself and teammates by 20 points.\rConstellation exclusive ability: ^00FF00%s Wyvern^FFFF00
 12953	Burning Spirit effect of ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 makes controlled targets not be able to be revived by skills\rConstellation exclusive ability: ^00FF00%s Wyvern^FFFF00
 12954	^c0c0ff[%s]^FFFF00A teammate with HP less than 50%% instantaneous return to the max HP by 5%% of HP, and restore 1%% of the lHP limit per second\rConstellation exclusive ability: ^00FF00%s Phoenix^FFFF00
-12955	Attaches ^c0c0ff[Suffering]^FFFF00 effect. Stack up to 5 layers, each layer on the target causes %d damage per second, lasts 6 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
+12955	Attaches ^c0c0ff[Suffering]^FFFF00 effect. Stack up to 5 layers, each layer on the target causes %d damage per second, lasts 6 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
 12956	Attaches ^c0c0ff[Suffering]^FFFF00 effect. Stack up to 5 layers, each layer on the target causes %d damage per second, lasts 6 seconds\rAdditional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
-12957	Attaches ^c0c0ff[Impediment of the Sea Dragon]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
+12957	Attaches ^c0c0ff[Impediment of the Sea Dragon]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
 12958	Attaches ^c0c0ff[Impediment of the Sea Dragon]^FFFF00 effect. Stack up to 4 layers, slowdown target by 0.5 m/s per layer and reduce his damage reduction by 4%% for 10 seconds\rAdditional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\rCharge for 1 seconds on cast to unlock: Damage increased by 30%%
 12959	50%% chance to add an extra <Good State>/<Evil State>
-12960	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Evil State^FFFF00\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 2 layers and each layer boosts {^FFABFC%d^FFFF00} hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-12961	Additional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\r\t^00FF00Evil State^FFFF00\rAdditional attack power: %d\rBonus Water damage: %d\rCauses %d%% damage\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 2 layers and each layer boosts %d hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12960	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Evil State^FFFF00\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 2 layers and each layer boosts {^FFABFC%d^FFFF00} hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+12961	Additional attack power: %d\rBonus Water damage: %d\rMinimum damage: %d%%\r\t^00FF00Evil State^FFFF00\rAdditional attack power: %d\rBonus Water damage: %d\rCauses %d%% damage\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 2 layers and each layer boosts %d hits. Lasts 4 seconds, after stacking 2 layers you won't be able to receive Good State skills benefits\r\t^00FF00Gemini Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
 12962	Skill HP heal:  {^FFABFC%d^FFFF00}\r\t^00FF00Good State^FFFF00\rHP heal:  {^FFABFC%d^FFFF00}\rThe explosion may find additional targets stacking 3 layers and increasing 3%% CritChance per layer. Lasts 10 seconds, after stacking 3 layers you won't be able to receive Good State skills benefits
 12963	Skill HP heal: %d\r\t^00FF00Good State^FFFF00\rHP heal: %d\rThe explosion may find additional targets stacking 3 layers and increasing 3%% CritChance per layer. Lasts 10 seconds, after stacking 3 layers you won't be able to receive Good State skills benefits
 12964	^00FF00Popular^FFFF00\rFlying speed increased by 3 m/s, Damage Reduction increased by 25%%, lasts 10 seconds
@@ -12969,15 +12969,15 @@
 12968	^c0c0ffEridanus Holy Armor Star Casting 3 LV achieved^A2FFFF
 12969	If you are under control effect (floating, falling, freezing, petrifying, slamming, silent, chaotic), when attacked a shield will be generated for the next 5 seconds reducing damage by 20%%. Repeated attacks will reset Shield time\rAfter shield is over, it takes 15 seconds to trigger this effect again.\rConstellation exclusive ability: ^00FF00%s Sea Dragon^FFFF00
 12970	^c0c0ffCamelopardalis Holy Armor Star Casting 3 LV achieved^A2FFFF
-12971	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Air damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rCharge for 1 seconds to increase damage by 100 %%\t^00FF00Golden Arrow Wound^FFFF00\rCan't cast skills and can't be revived by skills\rLasts 4 seconds\r\t^00FF00Evolution of Sagittarius^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Meteor Explosion]^FFFF00 upgrades to ^c0c0ff[^fff962Atomic Explosion]^FFFF00\r^c0c0ff[Meteor Shower]^FFFF00 upgrades to ^c0c0ff[^fff962Meteor Arrows]^FFFF00\r^c0c0ff[Cosmic Protection]^FFFF00 upgrades to ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00
-12972	Additional attack power: %d\rBonus Air damage: %d\rCauses %d%% damage\rCharge for 1 seconds to increase damage by 100 %%\t^00FF00Golden Arrow Wound^FFFF00\rCan't cast skills and can't be revived by skills\rLasts 4 seconds\r\t^00FF00Evolution of Sagittarius^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Meteor Explosion]^FFFF00 upgrades to ^c0c0ff[^fff962Atomic Explosion]^FFFF00\r^c0c0ff[Meteor Shower]^FFFF00 upgrades to ^c0c0ff[^fff962Meteor Arrows]^FFFF00\r^c0c0ff[Cosmic Protection]^FFFF00 upgrades to ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00
+12971	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Air damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rCharge for 1 seconds to increase damage by 100 %%\t^00FF00Golden Arrow Wound^FFFF00\rCan't cast skills and can't be revived by skills\rLasts 4 seconds\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Meteor Explosion]^FFFF00 upgrades to ^c0c0ff[^fff962Atomic Explosion]^FFFF00\r^c0c0ff[Meteor Shower]^FFFF00 upgrades to ^c0c0ff[^fff962Meteor Arrows]^FFFF00\r^c0c0ff[Star Guard]^FFFF00 upgrades to ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00
+12972	Additional attack power: %d\rBonus Air damage: %d\rCauses %d%% damage\rCharge for 1 seconds to increase damage by 100 %%\t^00FF00Golden Arrow Wound^FFFF00\rCan't cast skills and can't be revived by skills\rLasts 4 seconds\r\t^00FF00Evolution of Sagittarius^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Meteor Explosion]^FFFF00 upgrades to ^c0c0ff[^fff962Atomic Explosion]^FFFF00\r^c0c0ff[Meteor Shower]^FFFF00 upgrades to ^c0c0ff[^fff962Meteor Arrows]^FFFF00\r^c0c0ff[Star Guard]^FFFF00 upgrades to ^c0c0ff[^fff962Sagittarius Guardian]^FFFF00
 12973	Effect lasts for 15 seconds, automatically gain small amount of Fighting Spirit every 3 seconds\rRestore 7 points of Stamina per second\rWhen attacked, attacker Accuracy will be reduced significantly. This effect can only be triggered once for 15 seconds.
 12974	Radius: 4 meters\rFreezing time: 3 seconds\rFreeze duration: 3 seconds\rIce array lasts 10 seconds
 12975	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Water damage: {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\rReduces target movement speed by 60%% for 6 seconds\rFreeze duration: 3 seconds
 12976	Additional attack power: %d\rBonus Water damage: %d\rCauses %d%% damage\rReduces target movement speed by 60%%, lasts 6 seconds\rFreeze duration: 3 seconds
 12977	Pull the enemy and other targets within 6 meters to caster (If you are pulling an enemy player, it will only take effect if he is the target you selected)\rMain target duration: 3 seconds
-12978	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Aiolia Protection^FFFF00\rDamage resistance increased by 40%%\rInstantly recovers 100 Stamina points\rLasts 5 seconds\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t^00FF00Leo Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Phoenix Illusion]^FFFF00 upgrades to ^c0c0ff[^fff962Might of Leo]^FFFF00\r^c0c0ff[Phoenix Fury]^FFFF00 upgrades to ^c0c0ff[^fff962Leo Ragefire]^FFFF00\r^c0c0ff[Shadow Strike]^FFFF00 upgrades to ^c0c0ff[^fff962Shadow of Leo]^FFFF00
-12979	Additional attack power: %d\rBonus Fire damage: %d\rCauses %d%% damage\r\t^00FF00Aiolia Protection^FFFF00\rDamage resistance increased by 40%%\rInstantly recovers 100 Stamina points\rLasts 5 seconds\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t^00FF00Leo Advanced^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Phoenix Illusion]^FFFF00 upgrades to ^c0c0ff[^fff962Might of Leo]^FFFF00\r^c0c0ff[Phoenix Fury]^FFFF00 upgrades to ^c0c0ff[^fff962Leo Ragefire]^FFFF00\r^c0c0ff[Shadow Strike]^FFFF00 upgrades to ^c0c0ff[^fff962Shadow of Leo]^FFFF00
+12978	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Fire damage:  {^FFABFC%d^FFFF00}\rCauses {^FFABFC%d%%^FFFF00} damage\r\t^00FF00Aiolia Protection^FFFF00\rDamage resistance increased by 40%%\rInstantly recovers 100 Stamina points\rLasts 5 seconds\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Phoenix Illusion]^FFFF00 upgrades to ^c0c0ff[^fff962Might of Leo]^FFFF00\r^c0c0ff[Phoenix Fury]^FFFF00 upgrades to ^c0c0ff[^fff962Leo Ragefire]^FFFF00\r^c0c0ff[Shadow Strike]^FFFF00 upgrades to ^c0c0ff[^fff962Shadow of Leo]^FFFF00
+12979	Additional attack power: %d\rBonus Fire damage: %d\rCauses %d%% damage\r\t^00FF00Aiolia Protection^FFFF00\rDamage resistance increased by 40%%\rInstantly recovers 100 Stamina points\rLasts 5 seconds\rYou can use it when you are: stunned, knocked down, floating and silenced\r\t^00FF00Leo Advanced^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds\r^00FF00Gold Explosion^FFFF00\r^c0c0ff[Phoenix Illusion]^FFFF00 upgrades to ^c0c0ff[^fff962Might of Leo]^FFFF00\r^c0c0ff[Phoenix Fury]^FFFF00 upgrades to ^c0c0ff[^fff962Leo Ragefire]^FFFF00\r^c0c0ff[Shadow Strike]^FFFF00 upgrades to ^c0c0ff[^fff962Shadow of Leo]^FFFF00
 12980	Sea Dragon can use the good/evil skill to instantly increase the value of the power of good/evil power, ignoring ^c0c0ff[Devotion]^A2FFFF impact
 12981	Sprint distance: 15 meters\r^00FF00Dragon Fire Sacrifice^FFFF00\rConstantly attack enemies within 5 meters and inflicts ^00FF00Burning^FFFF00 status, lasts 5 seconds\rAdditional attack power: {^FFABFC%d^FFFF00}\rEvery second causes  {^FFABFC%d%%^FFFF00} damage\rReduces Earth damage by 50%%\r^00FF00Burning^FFFF00\rEvery second causes {^FFABFC%d^FFFF00} fire damage, lasts 5 seconds
 12982	Sprint distance: 15 meters\r^00FF00Dragon Fire Sacrifice^FFFF00\rConstantly attack enemies within 5 meters and inflicts ^00FF00Burning^FFFF00 status, lasts 5 seconds\rAdditional attack power: %d\rEvery second causes  %d%% damage\rReduces Earth damage by 50%%\r^00FF00Burning^FFFF00\rEvery second causes %d fire damage, lasts 5 seconds
@@ -13001,13 +13001,13 @@
 13000	 Damage Reduction increased by 40%%\rThunder RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
 13001	 Damage Reduction increased by 40%%\rFire RES increased by 15\rCritNull increased by 75%%\rLasts 6 seconds
 13002	^00FF00White Flame Dance^FFFF00\rIncreased flight speed by 8 m/s, lasts 5 seconds
-13003	Consumes {^FFABFC%d^FFFF00} Rage\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\rHeals HP:  {^FFABFC%d^FFFF00}
+13003	Consumes {^FFABFC%d^FFFF00} Rage\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\rHeals HP:  {^FFABFC%d^FFFF00}
 13004	Consumes %d Rage\rAdditional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\rHeals HP: %d
-13005	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Celestial Star of Fury^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-13006	Additional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\r\t^00FF00Celestial Star of Fury^FFFF00\rAfter cast enters into ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
-13007	Consumes 10 Rage\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinmal damage: {^FFABFC%d%%^FFFF00}
+13005	Additional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}\r\t^00FF00Celestial Star of Fury^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+13006	Additional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\r\t^00FF00Celestial Star of Fury^FFFF00\rActivates ^c0c0ff[Gold Explosion]^FFFF00 status\rThis status will not be triggered again within 30 seconds
+13007	Consumes 10 Rage\rAdditional attack power: {^FFABFC%d^FFFF00}\rBonus Earth damage: {^FFABFC%d^FFFF00}\rMinimal damage: {^FFABFC%d%%^FFFF00}
 13008	Consumes 10 Rage\rAdditional attack power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%
-13009	Removes control effects on cast, damage rate increased by 40%%, increased damage by 20%%. Lasts 12 seconds
+13009	Removes control effects on cast. Damage rate increased by 40%%, decreases damage reduction by 20%%. Lasts 12 seconds
 13010	^c0c0ffCorona Australis Holy Armor Star Casting 3 LV achieved^A2FFFF
 13011	^c0c0ffOrioles Holy Armor Star Casting 3 LV achieved^A2FFFF
 13012	^c0c0ff[%s]^FFFF00: Increased the cast distance by 5 meters\r Constellation exclusive ability: ^00FF00%s Wyvern^FFFF00

@@ -335,7 +335,7 @@
 334	Reputation of ${name} earned: ${point} points
 335	Reputation of ${name} lost: ${point} points
 336	Earned ${name} ${point / 100} points
-337	Production consumed ${name} ${point / 100} points
+337	Crafting consumed ${name} ${point / 100} points
 338	Update the narrative <The Knights of the Goddess> consumed ${point} points of the daily update amount
 339	Today you can still receive the Quest <Destiny Challenge> ${total} times
 340	${name} consumed: ${point}
@@ -671,22 +671,22 @@
 670	%d / %d Emerald
 671	Due to death with the red name, he lost %s Gold
 672	Due to death with the red name, he lost %d % %of the durability of the equipment and of the Armor
-673	Index of lost EXP %I64d
-674	Index EXP obtained %I64d
-675	Index of Astro EXP lost %I64d
-676	Index of Astro EXP obtained %I64d
-677	Get accumulated EXP %I64d
-678	Get Astro EXP Accumulated %I64d
-679	accumulated EXP released %I64d
-680	Astro EXP accumulated released %I64d
+673	EXP lost: %I64d
+674	EXP obtained %I64d
+675	Astro EXP lost %I64d
+676	Astro EXP obtained %I64d
+677	EXP Reserve boosted by %I64d
+678	Astro EXP Reserve boosted by %I64d
+679	EXP reserve released: %I64d
+680	Astro EXP reserve released: %I64d
 681	Earned %d Fury
 682	You have reached the highest level
 683	Reached the maximum level allowed by the Era, please join the other troops to defeat the BOSS and open the new Ages, press Y for more details.
 684	Already reached the highest level allowed by the Era on the multi-server, please return to the initial service to try.
 685	It is not necessary to update manually at the current level
-686	^ffffff Awareness Index too low (in ${jump (6)} interface improvement ^00ff00 Fighting ^ffffff may increase), it is not possible to increase the level
-687	Index of insufficient EXP, it is not impossible to improve
-688	Index of Astro EXP insufficient, it is not possible to improve
+686	^ffffff Awareness amount too low (in ${jump (6)} interface improvement ^00ff00 Fighting ^ffffff may increase), it is not possible to increase the level
+687	Insufficient EXP, not impossible to improve
+688	Astro EXP insufficient, not possible to improve
 689	Current EXP: %.0f \rNeeded: %.0f
 690	Current expertise: %.0f \rNeeded: %.0f
 691	[ %s]
