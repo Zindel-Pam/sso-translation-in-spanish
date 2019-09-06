@@ -1205,7 +1205,7 @@
 1204	Capricorn Gold Reward (667 Emerald)
 1205	Capricorn Gift Pack
 1206	Gold Capricorn Return Point (2667 Emerald)
-1207	Aquarium Reward Gift Pack
+1207	Aquarius Reward Gift Pack
 1208	Gold Reward for Aquarius (667 Emerald)
 1209	Aquarius Gift Pack
 1210	Gold Return Point for Aquarius (2667 Emerald)
@@ -1837,7 +1837,7 @@
 1836	Bright precious stone
 1837	Ancient Porcelain Vase
 1838	Glass of Silver Wine
-1839	Fresco
+1839	Painting
 1840	Diamond
 1841	A pile of cloth
 1842	Pearl
@@ -1952,7 +1952,7 @@
 1951	High Value Member Monthly Gift Pack
 1952	Wealth Divination Tool
 1953	Reward with free weekly gift package
-1954	Piece Pack - Aquarium
+1954	Piece Pack - Aquarius
 1955	Sacred Fragment - Aquarius
 1956	Random Gift Box of Rare Divine Artifacts
 1957	Rare Squire Random Gift Box
@@ -2069,7 +2069,7 @@
 2068	Points Gift Pack 8000 Tickets
 2069	Points Gift Package 90,000 Tickets
 2070	Points Gift Pack 9000 Tickets
-2071	Abrasive Star Powder Gift Pack
+2071	Abrasive Stardust Gift Pack
 2072	Crystal Gift of Death Pack
 2073	Force of Aquarius
 2074	Undulating Crystal Gift Pack
@@ -2652,9 +2652,9 @@
 2651	Gift of Aquarius (II)
 2652	Hip-Hop Fashion Gift Pack
 2653	Empty model to occupy position
-2654	Aquarium Amphora
-2655	Aquarium Amphora
-2656	Aquarium Amphora
+2654	Aquarius Amphora
+2655	Aquarius Amphora
+2656	Aquarius Amphora
 2657	Helmet of Lymnades
 2658	Helmet of Lymnades
 2659	Helmet of Lymnades
@@ -6712,13 +6712,13 @@
 6711	Use
 6712	Cancer Package LV.70
 6713	Use
-6714	Aquarium Package
+6714	Aquarius Package
 6715	Use
 6716	LV.10 Aquarius Pack
 6717	Use
 6718	Pack Aquarius LV.20
 6719	Use
-6720	Aquarium Package LV.30
+6720	Aquarius Package LV.30
 6721	Use
 6722	Aquarius Package LV.50
 6723	Use
@@ -7755,7 +7755,7 @@
 7754	2x Power Center EXP
 7755	Black Star Jade
 7756	Bag of Stars II
-7757	Light of experience
+7757	Light of Experience
 7758	Book Oracle Silver
 7759	Silver Star Dust
 7760	Condensed Star Light
@@ -8070,7 +8070,7 @@
 8069	Burning Soul x1
 8070	Fierce Soul x1
 8071	Black Star Jade x20
-8072	Ben.Diosa ☆ Aquarium (II)
+8072	Ben.Diosa ☆ Aquarius (II)
 8073	^a800ff Mini Tremy x1 (4500 rating limit)
 8074	^e5872f Divine Light of Aries x1
 8075	^e5872f Gema Shape x9999
@@ -8466,7 +8466,7 @@
 8465	Black Star Crystal
 8466	Authorization to extend Backpack
 8467	Authorization to extend Warehouse
-8468	Ben.Diosa ☆ Aquarium (III)
+8468	Ben.Diosa ☆ Aquarius (III)
 8469	^a800ffMini Black Cygnus x1 (4500 maximum qualification limit)
 8470	^e5872f Sphinx Gear x1
 8471	^e5872f Gema Fragment x9999
@@ -9390,7 +9390,7 @@
 9389	Black Star Crystal
 9390	Inventory Expansion
 9391	Warehouse Expansion
-9392	Ben.Diosa ☆ Aquarium (II)
+9392	Ben.Diosa ☆ Aquarius (II)
 9393	^a800ff Mini Algol (4500 rating limit)
 9394	^e5872fGolden Taurus Box x1
 9395	^e5872f Gema Fragment x9999
@@ -10813,21 +10813,21 @@
 10812	Lasting Potion V
 10813	Lasting Potion VI
 10814	Lasting Potion VII
-10815	Fragments of Impact I
-10816	Fragments of Impact II
-10817	Fragments of Impact III
-10818	Fragments of Impact IV
-10819	Impact V Fragments
-10820	Fragments of Impact VI
-10821	Fragment of Sacred Defense I
-10822	Fragment of Sacred Defense II
-10823	Fragment of Sacred Defense III
-10824	Fragment of Sacred Defense IV
-10825	Fragment of Sacred Defense V
-10826	Fragment of Sacred Defense VI
+10815	Attack Shard I
+10816	Attack Shard II
+10817	Attack Shard III
+10818	Attack Shard IV
+10819	Attack Shard V
+10820	Attack Shard VI
+10821	Defense Shard I
+10822	Defense Shard II
+10823	Defense Shard III
+10824	Defense Shard IV
+10825	Defense Shard V
+10826	Defense Shard VI
 10827	Discipline of Athena
 10828	Athena Refuge
-10829	For Sale
+10829	Bandage
 10830	Explosion
 10831	Blood of the wolf
 10832	Wax
@@ -10851,7 +10851,7 @@
 10850	Grass to stop bleeding
 10851	Needle
 10852	Flower of Illusion
-10853	For Sale
+10853	Recovery Ointment
 10854	Fragments of the Cosmo
 10855	Miraculous Water
 10856	String
@@ -10861,7 +10861,7 @@
 10860	Wooden Cane
 10861	Rozan main line 11 Bamboo shoot
 10862	Miraculous Water
-10863	For Sale
+10863	Bandage
 10864	Incentive of the Goddess
 10865	Bucket of Water
 10866	Flower of Phoenix
@@ -10889,26 +10889,26 @@
 10888	Medicinal Herb
 10889	Decoction
 10890	Key of Time
-10891	Medicine of resistance file 10
-10892	Medicine of resistance file 1
-10893	Medicine of resistance file 2
-10894	Medicine of resistance file 3
-10895	Medicine of resistance file 4
-10896	Medicine of resistance file 5
-10897	Medicine of resistance file 6
-10898	Medicine of resistance file 7
-10899	Medicine of resistance file 8
-10900	Medicine of resistance file 9
-10901	Penetration resistance medicine file 10
-10902	Penetration resistance medicine file 1
-10903	Penetration resistance medicine file 2
-10904	Penetration resistance medicine file 3
-10905	Penetration resistance medicine file 4
-10906	Penetration resistance medicine file 5
-10907	Penetration resistance medicine file 6
-10908	Penetration resistance medicine file 7
-10909	Penetration resistance medicine file 8
-10910	Penetration resistance medicine file 9
+10891	Potion of Resistance 10
+10892	Potion of Resistance 1
+10893	Potion of Resistance 2
+10894	Potion of Resistance 3
+10895	Potion of Resistance 4
+10896	Potion of Resistance 5
+10897	Potion of Resistance 6
+10898	Potion of Resistance 7
+10899	Potion of Resistance 8
+10900	Potion of Resistance 9
+10901	Potion of Resistance Debuff 10
+10902	Potion of Resistance Debuff 1
+10903	Potion of Resistance Debuff 2
+10904	Potion of Resistance Debuff 3
+10905	Potion of Resistance Debuff 4
+10906	Potion of Resistance Debuff 5
+10907	Potion of Resistance Debuff 6
+10908	Potion of Resistance Debuff 7
+10909	Potion of Resistance Debuff 8
+10910	Potion of Resistance Debuff 9
 10911	Declare Miraculous War
 10912	Mark of the Red Team Ice Tower
 10913	Brand of Red Flames Tower Team
@@ -10988,8 +10988,8 @@
 10987	Cancer Skin [3 days]
 10988	Capricorn Skin [15 days]
 10989	Skin of Capricorn [3 days]
-10990	Aquarium Skin [15 days]
-10991	Aquarium Skin [3 days]
+10990	Aquarius Skin [15 days]
+10991	Aquarius Skin [3 days]
 10992	Leo Skin [15 days]
 10993	Leo Skin [3 days]
 10994	Aries Skin [15 days]
@@ -11014,7 +11014,7 @@
 11013	Morning dew
 11014	Torch
 11015	Scepter of the Nation
-11016	For sale
+11016	Bandage
 11017	Light of the Massacre
 11018	Light of the Shadow
 11019	Telos Medicine
@@ -11140,7 +11140,7 @@
 11139	Trans. Sagittarius Surplice
 11140	Trans. Surplice Capricorn
 11141	Trans. Surplice Cancer
-11142	Trans. Surplice Aquarium
+11142	Trans. Surplice Aquarius
 11143	Trans. Leo Surplice
 11144	Trans. Surplice Aries
 11145	Trans. Surplice Taurus
@@ -11156,7 +11156,7 @@
 11155	Trans. Capricorn
 11156	Trans. Cancer
 11157	Transformation Box - Palace of the God of Death
-11158	Trans. Aquarium
+11158	Trans. Aquarius
 11159	Trans. Leo
 11160	Trans. Aries
 11161	Personification card of the Grand Master of the previous generation
@@ -11423,7 +11423,7 @@
 11422	Advanced Practice in Tactics
 11423	Bronze Blood
 11424	Blood of Hades
-11425	Specter Blood
+11425	Underworld Blood
 11426	Blood of Mr. Mu
 11427	Bronze Blood
 11428	Blood of Athena
@@ -11813,7 +11813,7 @@
 11812	Soul Encan.
 11813	Metis Determination Light
 11814	Test bathroom skill tool
-11815	Gema - Pluto
+11815	Gema - Hades
 11816	Gema - Polaris
 11817	Gem - Saturn
 11818	Gema - Uranus
@@ -11835,7 +11835,7 @@
 11834	Three stones
 11835	Sweet
 11836	Bottle toppled
-11837	Rustic Bread
+11837	Rough Bread
 11838	Dirty Land
 11839	Destination Data
 11840	Red Flag
@@ -11910,7 +11910,7 @@
 11909	Chestnut
 11910	Anko
 11911	Ham
-11912	Chapter of the faith in the protection of the Goddess
+11912	Chapter of the Faith
 11913	Resources of Raw Material
 11914	Base of the Matter: Kill Mobs
 11915	Mysterious Prize
@@ -11992,10 +11992,10 @@
 11991	Crystal of Zeus
 11992	Stone of Destiny V
 11993	Light of Will V
-11994	Abrasive Star Powder
-11995	Crystal Wave
+11994	Abrasive Stardust
+11995	Corrugated Crystal
 11996	Crystal of Death
-11997	Crystal of Cloud Print
+11997	Crystal of Cloud
 11998	Stone of Destiny I
 11999	Light of Will I
 12000	Star Trail Jewel
@@ -12010,11 +12010,11 @@
 12009	Drilling Glass
 12010	Stone of Destiny III
 12011	Light of Will III
-12012	Star Element Level 1
-12013	Star Element Level 2
-12014	Star Element Level 3
-12015	Star Element Level 4
-12016	Star Element Level 5
+12012	Star Element LV 1
+12013	Star Element LV 2
+12014	Star Element LV 3
+12015	Star Element LV 4
+12016	Star Element LV 5
 12017	Crystal of the Stone Stamp
 12018	Crystal of the Cordillera
 12019	Crystal of the Earth
@@ -12041,7 +12041,7 @@
 12040	Gold
 12041	Secret Treasure of Starlight
 12042	Challenger Badge
-12043	Fragment of Surplice
+12043	Surplice Shard
 12044	Heritage of the Twelve Houses
 12045	Change of security code code of the Twelve Houses individual current
 12046	Fragments of the Gemini Relic
@@ -12075,8 +12075,8 @@
 12074	Light of Venus
 12075	Transferring jewel
 12076	Manuscript of the Myth
-12077	Star-Soul Essence
-12078	Fragments of the aquarium relic
+12077	Star Spirit Essence
+12078	Fragments of the Aquarius relic
 12079	Fragments of the most valuable treasure of Aquarius
 12080	Fragments of the relic of Leo
 12081	Fragments of Leo's most valuable treasure
@@ -12084,7 +12084,7 @@
 12083	Fragments of the Aries Relic
 12084	Fragments of the most valuable treasure of Aries
 12085	Relic Badge
-12086	Fragment of Divine Artifact
+12086	Divine Artifact Fragment
 12087	Crystallization of the Magical Power
 12088	Glory of victory
 12089	Stone of the Spirits of Blood
@@ -12350,7 +12350,7 @@
 12349	Metal from the Underworld
 12350	Surplice Authorization
 12351	Sacred Wreck of Virgo
-12352	Sacred Light of Gold
+12352	Sacred Golden Coin
 12353	Armor Authorization [Silver]
 12354	Silver Fragment
 12355	Holy insignia [Gemini]
@@ -12369,11 +12369,11 @@
 12368	Authorization [Gold] (2)
 12369	Authorization [Gold] (3)
 12370	Authorization [Gold] (4)
-12371	Fragment of the Golden Armor
+12371	Golden Armor Shard
 12372	Armor Authorization [Bronze]
 12373	Bronze Fragment
 12374	Change - Golden Armor
-12375	Fragment of the Golden Armor
+12375	Golden Armor Shard
 12376	Part 1 Gemini
 12377	Part 2 Gemini
 12378	Part 3 Gemini
@@ -12406,10 +12406,10 @@
 12405	Part 2 Capricorn
 12406	Part 3 Capricorn
 12407	Piece 4 Capricorn
-12408	Piece 1 Aquarium
-12409	Piece 2 Aquarium
-12410	Piece 3 Aquarium
-12411	Piece 4 Aquarium
+12408	Piece 1 Aquarius
+12409	Piece 2 Aquarius
+12410	Piece 3 Aquarius
+12411	Piece 4 Aquarius
 12412	Piece 1 Leo
 12413	Part 2 Leo
 12414	Part 3 Leo
@@ -12466,8 +12466,8 @@
 12465	Spectral Power III
 12466	Spectral Power IV
 12467	Condensed Star Light
-12468	Change of ability [Squire]
-12469	Change of equipment [Squire]
+12468	Skill Voucher [Squire]
+12469	Item Voucher [Squire]
 12470	Ecliptic Heart I
 12471	Ecliptic Heart II
 12472	Ecliptic Heart III
@@ -13406,7 +13406,7 @@
 13405	Fragment of the soul of the orange
 13406	Information from Santa Claus
 13407	Christmas decoration
-13408	Mysterious fresco
+13408	Mysterious Painting
 13409	Emblem of protection
 13410	New Year's Emblem II
 13411	Fragment of team of Squire
@@ -14109,11 +14109,11 @@
 14108	Mos. of Test 1
 14109	Mosaic of Experience
 14110	Mos. of test
-14111	Aquarium 1
+14111	Aquarius 1
 14112	Mos. of Test 3
-14113	Aquarium 2
+14113	Aquarius 2
 14114	Mos. of Test 4
-14115	Aquarium 3
+14115	Aquarius 3
 14116	Mos. from Test 5
 14117	Aries 1
 14118	Mos. of Test 6
@@ -14357,7 +14357,7 @@
 14356	Excalibur of Capricorn
 14357	Ring of Wisdom of Crisaor
 14358	Violence of Sea Dragon
-14359	Aquarium Amphora
+14359	Aquarius Amphora
 14360	Hull of Lymnades
 14361	Remo of Acheron
 14362	Cyclops: Artifact of Giganto
@@ -14647,7 +14647,7 @@
 14646	Formula: Blend of the mind Pure advanced level
 14647	Formula: Distort blend
 14648	Formula: Move the sky and the Earth
-14649	Formula: Abrasive Star Powder
+14649	Formula: Abrasive Stardust
 14650	Formula: Decision Cane
 14651	Formula: Extract Crystal
 14652	Formula: Transforming the star
@@ -14664,7 +14664,7 @@
 14663	Formula: Elemeno of the star level 1
 14664	Formula: Soul Light
 14665	Formula: Spiritual Light +
-14666	Formula: Star Element Level 2
+14666	Formula: Star Element LV 2
 14667	Formula: Soul Light +
 14668	Formula: Starlight Discipline
 14669	Formula: Star Blessing

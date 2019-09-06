@@ -3851,7 +3851,7 @@
 3850	success
 3851	task unknown error
 3852	Not a root task
-3853	Already have that same Quest
+3853	This quest is already active
 3854	The Quests list is full
 3855	Already reached the limit of Quests accepted
 3856	Can not be used / finished again
@@ -4165,7 +4165,7 @@
 4164	You go deep into the forest.
 4165	It is you who make my beloved fairies all afraid to sing songs.
 4166	Who? Are you a gladiator?
-4167	Oh, I am Danatos. I have been serving Pluto since the time of mythology, and I have been trusted by him as a left and right hand.
+4167	Oh, I am Danatos. I have been serving Hades since the time of mythology, and I have been trusted by him as a left and right hand.
 4168	Athena? She is permanently sleeping in the sacred porcelain. After a while, her blood will be drained and Athena will be dead!
 4169	Supras! Don't talk nonsense with him, let me solve them quickly!
 4170	Don't accidentally spend too much time, and the Temple of Hades is stained with blood.

@@ -281,8 +281,8 @@
 280	Coffin of the Aurora
 281	Aurora execution
 282	Ice Tornado
-283	$noname$UImidThe Diamond Dust of Camus made it snow inside the Aquarium House
-284	$noname$UImidThe snow is getting stronger and the temperature inside the Aquarium House is decreasing
+283	$noname$UImidThe Diamond Dust of Camus made it snow inside the Aquarius House
+284	$noname$UImidThe snow is getting stronger and the temperature inside the Aquarius House is decreasing
 285	$noname$UImidLa Snowstorm overshadowed vision and members are numb, losing consciousness
 286	$noname$UImid Under a low temperature, movement and defense of people decrease
 287	Restriction

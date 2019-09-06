@@ -2716,7 +2716,7 @@
 2715	Ya obtenido el regalo conmemorativo de la expansión (^ff00009.4-9.25^N Período de validad):
 2716	Entre 4 a 25 de Sept, a cada 1 Star convertido Ticket, gana 1 Ticket extra. Puede obtener al máximo 10000 Tickets extras.
 2717	9999/10000 Gem
-2718	Sigue nuestra tienda oficial ^ff00 la.cdz.ongame.net^N Saint Seiya
+2718	Sigue nuestra tienda oficial ^ff00 seiya.reborngn.com^N Saint Seiya
 2719	¡Coge estos increíbles regalos!
 2720	Cada vez que utilice la versión de Capricornio y el favor de la diosa, tendrá la oportunidad de obtener un premio de Tickets en la misma cantidad del valor da la bendición actual
 2721	Bendición:
@@ -3796,7 +3796,7 @@
 3795	Leer
 3796	Escribir
 3797	Reco. todo
-3798	1 - la.cdz.ongame.net es la única página oficial de Saint Seiya Online.\r2 - Nunca pase tus datos personales. El equipo de GMs nunca pedirá tu contraseña.
+3798	1 - seiya.reborngn.com es la única página oficial de Saint Seiya Online.\r2 - Nunca pase tus datos personales. El equipo de GMs nunca pedirá tu contraseña.
 3799	Recibido
 3800	Recibido
 3801	Recibido

@@ -1576,9 +1576,9 @@
 1575	^O021^ffff00Rescate\r\r^O009^ffffff Send the Aspirantes back as quickly as possible
 1576	^O021^ffff00Rescate
 1577	^O021 Vertigo ^O009969
-1578	^O021^ffff00 souls guardião\r^O009^ffffff souls of a Cosmo paira sobre você.
-1579	^O021^ffff00 Guardian Souls
-1580	^O021^ffff00 Cosmo\r^O009^ffffff seu corpo of energy
+1578	^O021^ffff00 Guardian Spirit\r^O009^ffffff Cosmo of the spirits envelopes you
+1579	^O021^ffff00 Guardian Spirit
+1580	^O021^ffff00 Cosmo\r^O009^ffffffYour body is full of strength
 1581	^O021^ffff00 Cosmo
 1582	^O021 obter pano_Ed invencível
 1583	^O021^ffff00 intoxicação\r^O009^ffffff continuously diminish to life
@@ -1868,9 +1868,9 @@
 1867	^O021^ffff00 Mingdou Shi_QTE fairies career survey
 1868	^O021^ffff00 Mingdou Shi_fadas interrupted career
 1869	^O021^ffff00Optimist with Mini Saori
-1870	^O021^ffff00Optimist with Mini Seiya
-1871	^O021^ffff00Optimist with Mini Hyoga
-1872	^O021^ffff00Optimist with Mini Shiryu
+1870	^O021^ffff00Optimist with Mini Hades
+1871	^O021^ffff00Optimist with Mini Poseidon
+1872	^O021^ffff00Optimist with Mini Pope
 1873	^O021^ffff00Optimist with Mini Ban
 1874	^O021 Play fun_Seiya wins
 1875	^O021 Play fun_Glacier wins
@@ -2429,12 +2429,12 @@
 2428	^O021^ffff00 deep anger after
 2429	^O021^ffff00 after deep spouting called the underworld would lead to an increase of 89 or less holy warriors.
 2430	^O021^ffff00 Persephone peak
-2431	^O021^ffff00 Pluto blood\r^O009^ffffff fast blood return, more than 30 people in order to harm effectively.
-2432	^O021^ffff00 Pluto blood
+2431	^O021^ffff00 Hades blood\r^O009^ffffff fast blood return, more than 30 people in order to harm effectively.
+2432	^O021^ffff00 Hades blood
 2433	The so-called underworld would lead to an increase of 99 or less holy warriors.
 2434	^O021^ffff00 anger Hades
-2435	^O021^ffff00 Pluto called the underworld would lead to an increase of 99 or less holy warriors.
-2436	^O021^ffff00 Pluto peak
+2435	^O021^ffff00 Hades called the underworld would lead to an increase of 99 or less holy warriors.
+2436	^O021^ffff00 Hades peak
 2437	^O021^ffff00 friendship blessing
 2438	^O021 furtive espionage underworld
 2439	^O021^ffff00 disperse underworld of stealthy espionage
@@ -3263,7 +3263,7 @@
 3262	^O021 League of Extraordinary Knights_Save Physical
 3263	^O021 hidden chandelier shrine
 3264	^O021 NOL Hide Chandelier
-3265	^O021 Pluto Hide Chandelier
+3265	^O021 Hades Hide Chandelier
 3266	^O021^ffff00Fact of the Sanctuary\r^O009 ^ffffffLought by the Goddess Athena!
 3267	^O021^ffff00Fact of the Sanctuary
 3268	^O021^ffff00Fact of Atlantis\r\r^O009^ffffff \ Poseidon!
@@ -3306,13 +3306,13 @@
 3305	^O021^ffff00 Silence\rCan not cast skills
 3306	^O021 battlefield Hide chandelier
 3307	^O021^ffff00 Battlestar Galactica disperses chandelier
-3308	^O021^ffff00 Pluto force\r^O009^ffffff virtue of status can break seal seal fighter shrine
-3309	^O021^ffff00 force of Pluto
+3308	^O021^ffff00 Hades force\r^O009^ffffff virtue of status can break seal seal fighter shrine
+3309	^O021^ffff00 force of Hades
 3310	^O021^ffff00 Neptune\r^O009^ffffff power by virtue of status can break the seal of Hades Spirit fighter
 3311	^O021^ffff00 force NOL
 3312	^O021^ffff00 Athena force\r^O009^ffffff can break the seal of status, by virtue of Neptune Spirit fighter
 3313	^O021^ffff00 Athena Power
-3314	^O021 Pluto Camp Chandelier Reward
+3314	^O021 Hades Camp Chandelier Reward
 3315	^O021 Neptune camp reward chandelier
 3316	^O021 Sanctuary camp reward chandelier
 3317	^O021 Damage Reduction Rate
@@ -3686,16 +3686,16 @@
 3685	^O021^ffff00 Petrifaction imprint
 3686	^O021^ffff00 Hades curse\r^O009^ffffff was not successfully kill Hades avatar avatar curse. Continue to decrease the value of life.
 3687	^O021^ffff00 Hades Curse
-3688	^O021^ffff00 darkness falls\r^O009^ffffff Pluto deprived of sight, you can not see the situation.
+3688	^O021^ffff00 darkness falls\r^O009^ffffff Hades deprived of sight, you can not see the situation.
 3689	^O021^ffff00 dark falls
 3690	^O021 Wave repel
-3691	^O021^ffff00 Wounds\r^O009^ffffff was struck Pluto Xuejian, wounds can not be cured, continue to hurt.
+3691	^O021^ffff00 Wounds\r^O009^ffffff was struck Hades Xuejian, wounds can not be cured, continue to hurt.
 3692	^O021^ffff00 wounds
-3693	^O021^ffff00 swamp curse\r^O009^ffffff by Pluto curse, slower.
+3693	^O021^ffff00 swamp curse\r^O009^ffffff by Hades curse, slower.
 3694	^O021^ffff00 curse look
 3695	The eternal eclipse was struck by the curse of the wounds suffered.
 3696	^O021^ffff00 Curse Eclipse
-3697	^O021^ffff00 curse Death Star\r^O009^ffffff because Pluto successfully summon the Death Star and cast a curse, the curse was marked person will die soon.
+3697	^O021^ffff00 curse Death Star\r^O009^ffffff because Hades successfully summon the Death Star and cast a curse, the curse was marked person will die soon.
 3698	^O021^ffff00 Curse Death Star
 3699	^O021Pluto_murder back to the blood
 3700	^O021^ffff00 gold evolution_Phoenix_light bite summon release monster repelled skills
@@ -3761,7 +3761,7 @@
 3760	^O021^ffff00 corrosion Aura II
 3761	^O021^ffff00 corrosion every 2 seconds on the defensive side of the crystal in the range of about 15 meters according to a series of losses.
 3762	^O021^ffff00 corrosion Aura III
-3763	^O021^ffff00 Pluto - scattered curse
+3763	^O021^ffff00 Hades - scattered curse
 3764	^O021 Pluto_Pluto second phase of the camp
 3765	^O021^ffff00 flight speed adjustment
 3766	^O021 Blessings of deep water element ^O009 attack power increased by 1%
@@ -4151,7 +4151,7 @@
 4150	^O021^ffff00 asylum of the sacred lotus can disperse them asylum.
 4151	^O021^ffff00 dark Asylum
 4152	^O021 Rozan tricyclics - disperse invincible monster
-4153	^O021^ffff00Status of Hades\r^O009^ffffff is sheltered by Pluto. If the damage is greater than 10% of the health when attacked.\r Reduces the damage by 50% if the damage is less than 10% of the health value. For treatment
+4153	^O021^ffff00Status of Hades\r^O009^ffffff is sheltered by Hades. If the damage is greater than 10% of the health when attacked.\r Reduces the damage by 50% if the damage is less than 10% of the health value. For treatment
 4154	^O021^ffff00Status of Hades
 4155	^O021^ffff00 jump again\r^O009^ffffff You can also take a jump.
 4156	^O021^ffff00 jump again
@@ -4400,8 +4400,8 @@
 4399	^O021^ffff00 Hades damn\r^O009^ffffff been damned near by Hades, only teammates use the save skills in order to alleviate
 4400	^O021^ffff00 The ability to have quick oracle, God can continue to improve his speed.
 4401	^O021^ffff00 oracle fast
-4402	^O021^ffff00 field Pluto\r^O009^ffffff anywhere near Hardee sacred warriors will be overthrown.
-4403	^O021^ffff00 field Pluto
+4402	^O021^ffff00 field Hades\r^O009^ffffff anywhere near Hardee sacred warriors will be overthrown.
+4403	^O021^ffff00 field Hades
 4404	^O021^ffff00 Hades Hades anger ^ffffff use temporarily prevent divine action holy warriors.
 4405	^O021^ffff00 Hades Wrath
 4406	^O021^ffff00 called goddess\r^O009^ffffff called by Athena, goddess come to the rescue.
@@ -4471,8 +4471,8 @@
 4470	^O021^ffff00 to weaken\r^O009^ffffff after so long after the BOSS little helpless battle.
 4471	^O021^ffff00 to bless mysterious temporarily invincible power.
 4472	^O021^ffff00 indestructible
-4473	^O021^ffff00 Pluto asylum\r^O009^ffffff power mysterious underworld protected
-4474	^O021^ffff00 Pluto asylum
+4473	^O021^ffff00 Hades asylum\r^O009^ffffff power mysterious underworld protected
+4474	^O021^ffff00 Hades asylum
 4475	^O021^ffff00 inter-services sleep God Save Pugong physics
 4476	^O021^ffff00 dreaming hemorrhages\r^O009^ffffff blood coming to lose vaginal.
 4477	^O021^ffff00 dreaming vaginal bleeding
@@ -4523,7 +4523,7 @@
 4522	^O021 Open Controller
 4523	^O021 Controller off
 4524	^O021 end Hades - Death - dispe
-4525	^O021 The End of Pluto - Death - Summon Death
+4525	^O021 The End of Hades - Death - Summon Death
 4526	^O021^ffff00 star burst\r^O009^ffffff increase 10% CritChance
 4527	^O021^ffff00 Star Explosion
 4528	^O021 Zi - Spirit effects Genuflection
@@ -4595,21 +4595,21 @@
 4594	^O021 end Hades - the dream of God - called Rose Rose
 4595	^O021 End Hades - God's dream - strange call control
 4596	^O021 End Hades - The Dream
-4597	^O021^ffff00 Pluto red sword\r^O009^ffffff Pluto red sword hit, every two seconds a certain loss of value of life.Just to be hit in order to get rid of the status sub-Ming Wang Zijian
-4598	^O021^ffff00 Pluto red sword
-4599	^O021^ffff00 Ming Wang Zijian\r^O009^ffffff Ming Wang Zijian was hit, a substantial decline in the attack.Just to be struck in the end to raise Pluto Heijian
+4597	^O021^ffff00 Hades red sword\r^O009^ffffff Hades red sword hit, every two seconds a certain loss of value of life.Just to be hit in order to get rid of the status sub-Ming Wang Zijian
+4598	^O021^ffff00 Hades red sword
+4599	^O021^ffff00 Ming Wang Zijian\r^O009^ffffff Ming Wang Zijian was hit, a substantial decline in the attack.Just to be struck in the end to raise Hades Heijian
 4600	^O021^ffff00 Ming Wang Zijian
 4601	^O021 Finish Hades - Hades - Heijian Hide Chandelier
 4602	^O021 end Hades - Hades - Wrath repel
 4603	^O021 End Hades - Hades - Wrath more physical
 4604	^O021 End Hades - Hades - Convocation days Sword
-4605	^O021^ffff00 Sword\r^O009^ffffff in the sword around, you can escape eternal eclipse damage. If not able to break the sword, will increase the attack power when Pluto return sword
+4605	^O021^ffff00 Sword\r^O009^ffffff in the sword around, you can escape eternal eclipse damage. If not able to break the sword, will increase the attack power when Hades return sword
 4606	^O021^ffff00 Sword
-4607	^O021^ffff00 Sword return\r^O009^ffffff Sword Hades Sword call back, call back each successful, Pluto 10 percent power increase attack.Est for ten seconds.
+4607	^O021^ffff00 Sword return\r^O009^ffffff Sword Hades Sword call back, call back each successful, Hades 10 percent power increase attack.Est for ten seconds.
 4608	^O021^ffff00 Sword Return
 4609	^O021 End Hades - Hades - Summons eclipse
 4610	^O021 End Hades - Hades - Eclipse Murder Chandelier
-4611	^O021^ffff00 meta\r^O009^ffffff make Pluto sword goal, shortly after he was struck by death.The flying Pluto sword broken, he can get rid of this status.
+4611	^O021^ffff00 meta\r^O009^ffffff make Hades sword goal, shortly after he was struck by death.The flying Hades sword broken, he can get rid of this status.
 4612	^O021^ffff00 target
 4613	^O021^ffff00 victory horn :. Blood\r^O009^ffffff, attacks and hits increase considerably
 4614	^O021^ffff00 Win Horn: Blood
@@ -4635,7 +4635,7 @@
 4634	^O021^ffff00 Petrifactions\r^O009^ffffff was hit by a giant flame in Petrifaction status
 4635	^O021 End Hades - Hades - Skill giant half blood
 4636	Feijian, only the target of death will stop once the hit the target, the target die. Feijian can be broken.
-4637	^O021^ffff00 Pluto Feijian
+4637	^O021^ffff00 Hades Feijian
 4638	^O021^ffff00 lower storm\r^O009^ffffff is deep lower after the storm, if the blast was underworld success, then die.
 4639	^O021^ffff00 Nether storm
 4640	^O021 End Hades - Persephone - Storm Peak Chandelier
@@ -5064,7 +5064,7 @@
 5063	^O021^ffff00 Prohibition Demon\r^O009^ffffff you are detained!
 5064	^O021 After 4 Bliss Controller Flower Open Deep Devil Game
 5065	^O021 Transfiguration Bliss 5 Hades Pegasus
-5066	^O021^ffff00 Hades Wrath\r^O009^ffffff bleeding sword struck by Hades, Pluto his sword will bring more evil and dizziness.
+5066	^O021^ffff00 Hades Wrath\r^O009^ffffff bleeding sword struck by Hades, Hades his sword will bring more evil and dizziness.
 5067	^O021^ffff00 God punished light\r^O009^ffffff God punished the light of deceleration impact and silence.
 5068	^O021^ffff00 God light punished
 5069	^O021^ffff00 divine discipline\r^O009^ffffff This unit can not be treated.
@@ -5099,7 +5099,7 @@
 5098	^O021^ffff001
 5099	^O021^ffff002
 5100	^O021^ffff003
-5101	^O021 Transfiguration Bliss 5 Pluto Dragon
+5101	^O021 Transfiguration Bliss 5 Hades Dragon
 5102	^O021 Bliss 5 Hades Fairy Transfiguration
 5103	^O021 Bliss Transfiguration 5 Phoenix Hades
 5104	^O021 Bliss 5 Hades Turned Cygnus
@@ -5500,7 +5500,7 @@
 5499	^O021^ffff00 fell out.
 5500	^O021^ffff00 damn hell ^ffffff reduce the resistance to damage
 5501	^O021^ffff00 hell curse
-5502	^O021 CritChance Pluto
+5502	^O021 CritChance Hades
 5503	^O021^ffff00 avengers\r^O009^ffffff Vertigo
 5504	^O021^ffff00 divine punishment
 5505	^O021 anti NOL Entire property
@@ -8628,7 +8628,7 @@
 8627	Redemption reinforcement
 8628	Then fates ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in force, even if the target blood exceeds 50 %%, ^c0c0ff[%s]^FFFF00 initial recovery value and resist damage will increase the value 50 %%
 8629	^c0c0ff dark get level ^A2FFFF cast of Andromeda Armor stars reaches 24
-8630	Strengthen Pluto Amnesty
+8630	Strengthen Hades Amnesty
 8631	So fairies ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 additional duration of 15 seconds after the life trigger response value increased by 10 %%
 8632	^c0c0ff Level cast stars dark Armor Andromeda acquire reaches 32 ^A2FFFF
 8633	Improved Hell Fire
@@ -9292,7 +9292,7 @@
 9291	Summon the side wall of the lava, block the path of the enemy
 9292	lava field
 9293	Evokes a lava field at the foot of his own blood on the above sped up again and again, the enemy Well, um, you burned
-9294	Pluto Fist
+9294	Hades Fist
 9295	Ming Yue God cut
 9296	Half cut!
 9297	sword death
@@ -11462,7 +11462,7 @@
 11461	hell fire
 11462	Because damage 360 ​​%%+ 4%% * star reduction of 10%% damage reduction for 2.5 seconds (0.5 seconds for each additional star) for lowcontinued 1.25 seconds (0.25 extra seconds for each star )
 11463	Where the straight line within the target range of the enemy, reducing damage reduction, and down the main objectives Level and injuries with the upgrade ascendant squire star
-11464	Pluto to wake up
+11464	Hades to wake up
 11465	Increase CritChance: 1 %%
 11466	Poseidon trick
 11467	Because 320%% + 4%% * Stars hurt dizziness 1.75 seconds (0.25 seconds extra for each star)

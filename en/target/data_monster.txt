@@ -694,7 +694,7 @@
 693	Arrogant Apprentice
 694	Angry Shrine Guard
 695	Violent Soul
-696	Criminoso [Underworld]
+696	Bandit [Underworld]
 697	Shadow of the Underworld
 698	Silver Tracker
 699	Silver Attendant
@@ -771,7 +771,7 @@
 770	Aiolia 2
 771	Marin2
 772	Eudora16
-773	Training of soldiers
+773	Training Soldiers
 774	Created crazy
 775	Crazy Apprentice
 776	Crazy Guard of Commercial Meeting
@@ -872,7 +872,7 @@
 871	Guard - Sanctuary
 872	Soldier [Shrine]
 873	Soldier [Shrine]
-874	Training of soldiers
+874	Training Soldiers
 875	Crazy apprentice
 876	Crazy apprentice
 877	Mysterious shadows
@@ -2123,7 +2123,7 @@
 2122	Saga
 2123	Gemini
 2124	Camus
-2125	Aquarium
+2125	Aquarius
 2126	Shura
 2127	Capricorn
 2128	Rock
@@ -3697,7 +3697,7 @@
 3696	Camus
 3697	Aquarius
 3698	Camus
-3699	Aquarium
+3699	Aquarius
 3700	Leo Armor
 3701	Aiolia
 3702	Leo
@@ -6537,8 +6537,8 @@
 6536	Euridice
 6537	Eudora
 6538	Signaling plate
-6539	Bush
-6540	Bush
+6539	Shrub
+6540	Shrub
 6541	Golden Flower
 6542	Golden Flower
 6543	Well of the Dead
@@ -9673,8 +9673,8 @@
 9672	Greedy person
 9673	Black Rogue
 9674	Slave Superintendent
-9675	Black Hiker
-9676	Shaka_ Nephro Hiker Using Tactics
+9675	Black Guard
+9676	Shaka_Nephro Guard Using Tactics
 9677	Raven
 9678	Mu_Constellation Raven Use of Tactics
 9679	Killer sanctuary

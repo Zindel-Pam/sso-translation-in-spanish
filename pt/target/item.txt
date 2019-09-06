@@ -217,10 +217,10 @@
 216	Gem insuficiente, não é possível comprar, por favor, carregue
 217	Em bloqueio temporário, não é possível comprar itens.
 218	Recarga completa, desejamos um ótimo jogo a você!
-219	O campo do número do Cartão Ongame não pode estar vazio, por favor, insira novamente!
-220	O campo de senha do Cartão Ongame não pode estar vazio, por favor, insira novamente!
-221	O número do Cartão Ongame não existe, por favor, insira novamente!
-222	Senha do Cartão Ongame incorreta, por favor, insira novamente!
+219	O campo do número do Cartão Reborn não pode estar vazio, por favor, insira novamente!
+220	O campo de senha do Cartão Reborn não pode estar vazio, por favor, insira novamente!
+221	O número do Cartão Reborn não existe, por favor, insira novamente!
+222	Senha do Cartão Reborn incorreta, por favor, insira novamente!
 223	O cartão expirou, por favor, insira novamente!
 224	Star = %d Gem
 225	Você não tem Star suficiente para realizar a troca!
@@ -258,8 +258,8 @@
 257	Reenviar
 258	Ir para o site oficial
 259	A quantidade de Star deve estar entre %d~%d,\re ser múltiplo de 10
-260	Sua conta ainda não está vinculada a este mecanismo de pagamento proxy.\rPor favor, visite o site oficial da Ongame para vincular-se
-261	A sua conta não ativou a função de pagamento rápido, nem está vinculada ainda ao mecanismo de proxy correspondente. Deseja ir agora para o site oficial da Ongame para ativar?
+260	Sua conta ainda não está vinculada a este mecanismo de pagamento proxy.\rPor favor, visite o site oficial da Reborn para vincular-se
+261	A sua conta não ativou a função de pagamento rápido, nem está vinculada ainda ao mecanismo de proxy correspondente. Deseja ir agora para o site oficial da Reborn para ativar?
 262	Star
 263	Gem
 264	Cupom de Pontos
@@ -457,7 +457,7 @@
 456	Venda consignada falhou
 457	Número da negociação %I64d\rVenda consignada de “%s%s” falhou.\rItens/Moedas da venda consignada foram devolvidos em anexo.
 458	Número da negociação %I64d\rVenda consignada de “%s%s” expirou.\rItens/Moedas da venda consignada foram devolvidos em anexo.
-459	Número da negociação %I64d\r“%s%s” foi vendido com sucesso.\rPor favor, faça login em br.cdz.ongame.net para fazer a busca.
+459	Número da negociação %I64d\r“%s%s” foi vendido com sucesso.\rPor favor, faça login em seiya.reborngn.com para fazer a busca.
 460	Número da negociação %I64d\r“%s%s” comprado com sucesso.\rOs itens comprados foram enviados em anexo.
 461	Número da negociação %I64d\rVenda consignada de “%s%s” falhou.\rItens restituídos estão em anexo.
 462	Número da negociação %I64d\rVenda consignada de “%s%s” falhou.\rGold restituído em anexo.

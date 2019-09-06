@@ -3796,7 +3796,7 @@
 3795	Ler
 3796	Escrever
 3797	Pegar tudo
-3798	1 - cdz.ongame.net é o único site oficial de CDZ Online.\r2 - Nunca passe os seus dados pessoais. A equipe de GMs nunca solicitará a sua senha.
+3798	1 - seiya.reborngn.com é o único site oficial de CDZ Online.\r2 - Nunca passe os seus dados pessoais. A equipe de GMs nunca solicitará a sua senha.
 3799	Recebido
 3800	Recebido
 3801	Recebido

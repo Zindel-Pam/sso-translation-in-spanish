@@ -61,7 +61,7 @@
 60	Mix
 61	Move Heaven and Earth
 62	Refining
-63	Abrasive Star Powder
+63	Abrasive Stardust
 64	Refining
 65	Fell of Judgment
 66	Refining

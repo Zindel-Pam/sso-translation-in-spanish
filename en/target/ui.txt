@@ -2716,7 +2716,7 @@
 2715	The commemorative gift of expansion has already been obtained (^ff00009.4-9.25 ^N Validity period):
 2716	Between September 4 and 25, at each 1 Star converted Ticket, win 1 extra Ticket. You can get a maximum of 10,000 Extra Tickets.
 2717	9999/10000 Emerald
-2718	Follow our official store ^ff00 la.cdz.ongame.net ^N Saint Seiya
+2718	Follow our official store on ^ff00 seiya.reborngn.com ^N
 2719	Take these incredible gifts!
 2720	​​Each time you use the Capricorn version and the favor of the goddess, you will have the opportunity to get a Ticket prize in the same amount as the current blessing value.
 2721	Blessing:
@@ -3466,7 +3466,7 @@
 3465	Griffon
 3466	Wyvern
 3467	Pisces
-3468	Aquarium
+3468	Aquarius
 3469	Capricorn
 3470	Sagittarius
 3471	Scorpio
@@ -3796,7 +3796,7 @@
 3795	Read
 3796	Write
 3797	Reco. all
-3798	1 - la.cdz.ongame.net is the only official website of Saint Seiya Online. \r2 - Never pass your personal data. The GM team will never ask for your password.
+3798	1 - seiya.reborngn.com is the only official website of Saint Seiya Online. \r2 - Never pass your personal data. The GM team will never ask for your password.
 3799	Received
 3800	Received
 3801	Received
@@ -5921,7 +5921,7 @@
 5920	Description: \rCombinating the gems of the shell correctly and reaching a certain level, the special abilities are activated \r Level 50: Protection LV 1 - elemental protection effect \r Level 100: Protection LV 2 - resistance to element +15
 5921	Sign:
 5922	Recommended combination:
-5923	Earth Resistance + 15: So l + Moon + Mercury + Mars + Pluto
+5923	Earth Resistance + 15: So l + Moon + Mercury + Mars + Hades
 5924	List of Gems
 5925	Breastplate
 5926	Helm

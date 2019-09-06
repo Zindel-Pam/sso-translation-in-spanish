@@ -217,10 +217,10 @@
 216	Gem insuficiente, no se puede comprar, por favor, carga
 217	En el Timelock, no es posible comprar artículos.
 218	¡Recarga completa, te deseamos un buen juego!
-219	¡El campo del número de la Tarjeta Ongame no puede estar vacío, por favor inserta de nuevo!
-220	¡El campo de la contraseña de la Tarjeta Ongame no puede estar vacío, por favor, inserta otra vez!
-221	¡El número de la Tarjeta Ongame no existe, por favor, introduce otra vez!
-222	¡Contraseña de la Tarjeta Ongame incorrecta, por favor, inserta de nuevo!
+219	¡El campo del número de la Tarjeta Reborn no puede estar vacío, por favor inserta de nuevo!
+220	¡El campo de la contraseña de la Tarjeta Reborn no puede estar vacío, por favor, inserta otra vez!
+221	¡El número de la Tarjeta Reborn no existe, por favor, introduce otra vez!
+222	¡Contraseña de la Tarjeta Reborn incorrecta, por favor, inserta de nuevo!
 223	¡La tarjeta ha expirado, por favor inserta otra vez!
 224	Star = %d Gem
 225	¡No tienes Star suficiente para realizar el cambio!
@@ -258,7 +258,7 @@
 257	Reenviar
 258	Ir al Sitio Oficial
 259	La cantidad de Star debe estar entre %d~%d, \ry ser múltiple de 10.
-260	Su cuenta todavía no está vinculada a este mecanismo de pago proxy.\rPor favor, visite la página web oficial de Ongame para vincularse.
+260	Su cuenta todavía no está vinculada a este mecanismo de pago proxy.\rPor favor, visite la página web oficial de Reborn para vincularse.
 261	Su cuenta no se activó a función de pago rápido, ni está vinculada todavía al mecanismo de proxy correspondiente. ¿Deseas ir ahora a la página oficial de Perfect World para activar?
 262	Star
 263	Gem
@@ -457,7 +457,7 @@
 456	Venta consignada fallida
 457	Número de la transación comercial %I64d\rVenta consignada "%s%s" fallida.\rArtículos/ Coins de venta consignada han sido devueltos en anexo.
 458	Número de la transación comercial %I64d\rVenta consignada "%s%s" expirada.\rArtículos/ Coins de venta consignada han sido devueltos en anexo.
-459	Número de la transación comercial %I64d\r"%s%s" se ha vendido con éxito.\rPor favor accede a la.ongame.net para hacer la búsqueda
+459	Número de la transación comercial %I64d\r"%s%s" se ha vendido con éxito.\rPor favor accede a seiya.reborngn.com para hacer la búsqueda
 460	Número de la transación comercial %I64d\r"%s%s" comprados con éxito.\rLos artículos comprados han sido enviados en anexo.
 461	Número de la transación comercial %I64d\r"%s%s" Venta registrada fallida.\rLos artículos restituidos están en anexo
 462	Número de la transación comercial %I64d\r"%s%s" Venta registrada fallida.\rCoin restituida está en anexo

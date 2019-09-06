@@ -79,7 +79,7 @@
 78	Already on the Black List
 79	The number of blocked enemies has already reached the maximum limit (5 names), it is not possible to continue blocking
 80	%s and %s They have met through the secret love system, Congratulations!
-81	Through the crystal, you and the %s player are lovers in the past life, together with the attack on Pluto, and finally lyrical, now %s hope to continue the front with you !
+81	Through the crystal, you and the %s player are lovers in the past life, together with the attack on Hades, and finally lyrical, now %s hope to continue the front with you !
 82	In the vicinity there is a player with the level similar to his own of the opposite sex, and he wishes to be his friend!
 83	In the vicinity there is a player with the level similar to his and the player wishes to be his friend!
 84	&%s& sent to &%s& %d Roses
@@ -1504,7 +1504,7 @@
 1503	Incubation! Nest of infernal butterflies
 1504	Mysterious cannibal flower from the Underworld, seductive red roses, five stone people are making a mysterious ceremony. The way to the Underworld is about to open, the Knights of Athena must destroy the ceremony!
 1505	Aquarius! Strongest trick
-1506	On the eve of the arrival of the Holy War, the long silence of the Aquarium House was interrupted by the horrified and burning Cosmo. The young Knight rushed to the Aquarium House but discovered that the Golden Knight Camus had already died. But this time, it was the Aquarius Gold Knight who taught the strongest trick to the Knight of the new generation ...
+1506	On the eve of the arrival of the Holy War, the long silence of the Aquarius House was interrupted by the horrified and burning Cosmo. The young Knight rushed to the Aquarius House but discovered that the Golden Knight Camus had already died. But this time, it was the Aquarius Gold Knight who taught the strongest trick to the Knight of the new generation ...
 1507	Pisces! Roses VS Demon Flower
 1508	The roses that surround the House of Pisces is the most important defense of all the Twelve Golden Houses. It is like Aphrodite of Pisces, they are not only beautiful, but also fatal. But the power of the Underworld will not give up invading the Earth. This time, the King of the netherworld sent the Demonic Star, Queen, and his Demonic Flower to enter the House of Gemini. The Demon Flower is constantly destroying the roses, in an attempt to break the protection of the roses of the House of Pisces
 1509	Resurrection! Dead warriors
@@ -1622,4 +1622,4 @@
 1621	Capricorn! Shura's Kendo
 1622	Rebirth! Big battlefield myth
 1623	National Day! Save Athena
-1624	Hades will go to the goddess Athena as the Saints celebrate the National Day. In order to save the goddess, the holy warriors embarked on the road to rescue Athena. When the people finally caught up with Pluto, they found that Hades and Goddess Athena became another look.
+1624	Hades will go to the goddess Athena as the Saints celebrate the National Day. In order to save the goddess, the holy warriors embarked on the road to rescue Athena. When the people finally caught up with Hades, they found that Hades and Goddess Athena became another look.

@@ -267,7 +267,7 @@
 266	Eagle
 267	Eide
 268	Apprentice
-269	​​Seiya
+269	Seiya
 270	Apprentice
 271	Marin
 272	Eagle
@@ -421,7 +421,7 @@
 420	Grand Master
 421	Alex
 422	Apprentice
-423	Black Clothes Girl
+423	Girl in Black
 424	Eudora
 425	Apprentice
 426	Euridice
@@ -451,7 +451,7 @@
 450	Apprentice
 451	Eudora
 452	Apprentice
-453	Black Clothes Girl
+453	Girl in Black
 454	Eudora
 455	Apprentice
 456	Eudora
@@ -560,7 +560,7 @@
 559	Alex
 560	Apprentice
 561	Boatman
-562	Black Clothes Girl
+562	Girl in Black
 563	Eudora
 564	Apprentice
 565	Eudora
@@ -572,7 +572,7 @@
 571	Eudora
 572	Apprentice
 573	Euridice
-574	Black Clothes Girl
+574	Girl in Black
 575	Aiolia
 576	Leo
 577	Scholes
@@ -580,7 +580,7 @@
 579	Orpheus
 580	Lira
 581	Dying Recruit
-582	Black Clothes Girl
+582	Girl in Black
 583	Orpheus
 584	Lira
 585	Euridice
@@ -1134,7 +1134,7 @@
 1133	Apprentice
 1134	Li-Yun
 1135	Apprentice
-1136	Sleeping Apprentice
+1136	Fainted Apprentice
 1137	Shiryu
 1138	Dragon
 1139	Soldier of the Sanctuary
@@ -2394,7 +2394,7 @@
 2393	Seiya
 2394	Pegasus
 2395	Crazy Spectrum
-2396	Prisoner Hiker
+2396	Prisoner Guard
 2397	Zelos
 2398	Frog
 2399	Zelos
@@ -2471,7 +2471,7 @@
 2470	Saga
 2471	Cufflinks
 2472	Camus
-2473	Aquarium
+2473	Aquarius
 2474	Shura
 2475	Capricorn
 2476	Radamanthys
@@ -2560,7 +2560,7 @@
 2559	Virgo
 2560	Athena
 2561	Alma de Camus
-2562	Aquarium
+2562	Aquarius
 2563	Shura soul
 2564	Capricorn
 2565	Alma Presa
@@ -3459,7 +3459,7 @@
 3458	Cosmo Black
 3459	Galactic Tournament19 Virginia called strange
 3460	Camus
-3461	Aquarium
+3461	Aquarius
 3462	Shaka
 3463	Virgo
 3464	Aiolia
@@ -4317,7 +4317,7 @@
 4316	Scorpio
 4317	Sagittarius
 4318	Capricorn
-4319	Aquarium
+4319	Aquarius
 4320	Pisces
 4321	Athena
 4322	Nachi
@@ -4368,7 +4368,7 @@
 4367	Hyoga
 4368	Cygnus
 4369	Drama_0 Saori Kido
-4370	Person in black clothes
+4370	Person in Black
 4371	Recruited Wounded
 4372	Guard of the Twelve Houses
 4373	Guard of the Twelve Houses
@@ -5965,11 +5965,11 @@
 5964	Golden Knight
 5965	Sagittarius
 5966	Golden Knight
-5967	Aquarium
+5967	Aquarius
 5968	Golden Knight
-5969	Aquarium
+5969	Aquarius
 5970	Golden Knight
-5971	Aquarium
+5971	Aquarius
 5972	Golden Knight
 5973	Leo
 5974	Golden Knight
@@ -6151,10 +6151,10 @@
 6150	Aiyu
 6151	Return to the Sanctuary
 6152	Camus
-6153	Aquarium
+6153	Aquarius
 6154	Camus
 6155	Aquarius
-6156	Aquarium
+6156	Aquarius
 6157	<Aquarius! Strongest trick>
 6158	Musa
 6159	Volte à Arena Galactic
@@ -6478,11 +6478,11 @@
 6477	Emily
 6478	Gautier
 6479	Camus
-6480	Aquarium
+6480	Aquarius
 6481	Camus
-6482	Aquarium
+6482	Aquarius
 6483	Camus
-6484	Aquarium
+6484	Aquarius
 6485	Polar bear contaminated
 6486	Spencer
 6487	Radamanthys
@@ -6618,7 +6618,7 @@
 6617	Aldebaran
 6618	Taurus
 6619	Camus
-6620	Aquarium
+6620	Aquarius
 6621	Aiolia
 6622	Leo
 6623	Shaka
@@ -6799,7 +6799,7 @@
 6798	Shura
 6799	Capricorn
 6800	Camus
-6801	Aquarium
+6801	Aquarius
 6802	Aphrodite
 6803	Pisces
 6804	Athena
@@ -6922,11 +6922,11 @@
 6921	Arbitration
 6922	Giant meatball
 6923	Prize
-6924	Bets (Mini Hyoga)
-6925	Bets (Mini Seiya)
+6924	Bets (Mini Poseidon)
+6925	Bets (Mini Hades)
 6926	Bets (Mini Saori)
 6927	Bets (Mini Ban)
-6928	Bets (Mini Shiryu)
+6928	Bets (Mini Pope)
 6929	Fantasy Stone
 6930	<Battle Ilim.>
 6931	Pandora
@@ -7560,15 +7560,15 @@
 7559	Wolf
 7560	Jabu
 7561	Unicorn
-7562	Person in black clothes
-7563	Person in black clothes
+7562	Person in Black
+7563	Person in Black
 7564	Leslie
 7565	<Deus do Zodíaco Dourado IV>
 7566	Archbishop
 7567	Aphrodite
 7568	Pisces
 7569	Camus
-7570	Aquarium
+7570	Aquarius
 7571	Shura
 7572	Capricorn
 7573	Mu
@@ -7643,7 +7643,7 @@
 7642	Shura
 7643	Capricorn
 7644	Camus
-7645	Aquarium
+7645	Aquarius
 7646	Gold Cufflinks
 7647	Gold Twins Armor
 7648	Saga
@@ -7673,9 +7673,9 @@
 7672	Gemini
 7673	Kanon
 7674	Camus
-7675	Aquarium
+7675	Aquarius
 7676	Camus
-7677	Aquarium
+7677	Aquarius
 7678	The Excalibur of Shura
 7679	Ikki
 7680	The illusion of the Phoenix
@@ -7728,7 +7728,7 @@
 7727	Shura
 7728	Capricorn
 7729	Camus
-7730	Aquarium
+7730	Aquarius
 7731	Shun
 7732	Andromeda
 7733	Kanon
@@ -8591,7 +8591,7 @@
 8590	Third gift of the Zodiac
 8591	Gemini
 8592	Pound
-8593	Aquarium
+8593	Aquarius
 8594	Second gift of the Zodiac
 8595	Taurus
 8596	Virgo
@@ -10094,7 +10094,7 @@
 10093	Torre del Reloj_animation of the person in black
 10094	Zodiac_Peixes [Boss]
 10095	Zodiac_Capricórnio [Boss]
-10096	Zodiac_Aquarium [Boss]
+10096	Zodiac_Aquarius [Boss]
 10097	Home of The Twelve Casas_Escojer option 1 of the Boss difficulty
 10098	Home of The Twelve Houses_Schooder option 2 of the Boss difficulty
 10099	Home of The Twelve Houses_Escojer option 3 of the Boss difficulty
@@ -10512,7 +10512,7 @@
 10511	Trick of the god of dreams_teletransporte - distribute mission
 10512	Trick of the god of dreams_distribution of mission
 10513	Aquarius monthly event_distribute inheritance
-10514	Aquarium Monthly Event_Open mission
+10514	Aquarius Monthly Event_Open mission
 10515	Aquarius monthly event_collect combat prize
 10516	Six stocks of Shaka_distribute inheritance
 10517	Six exisencias de Shaka_abrir mission
@@ -11107,7 +11107,7 @@
 11106	Treasure of the Wind Zodiac
 11107	Libra
 11108	Gemini
-11109	Aquarium
+11109	Aquarius
 11110	Change of test
 11111	Test
 11112	Official
@@ -13597,7 +13597,7 @@
 13596	Touch
 13597	Sagittarius
 13598	Touch
-13599	Aquarium
+13599	Aquarius
 13600	Touch
 13601	Pisces
 13602	Touch
@@ -13657,7 +13657,7 @@
 13656	Get
 13657	Training Stone
 13658	Storage Power
-13659	Stones of the beach
+13659	Beach Stones
 13660	Rebuscar
 13661	Lying apprentices
 13662	Hug and lift
@@ -13893,7 +13893,7 @@
 13892	Break
 13893	Training Stones
 13894	Aura of gold
-13895	Stones of the beach
+13895	Beach Stones
 13896	Flower of the Sacrifice
 13897	Picking up
 13898	Dry tree
@@ -13907,7 +13907,7 @@
 13906	Search
 13907	Search
 13908	Search
-13909	Sleeping Apprentice
+13909	Fainted Apprentice
 13910	Embrace and lift
 13911	Energy Vortex
 13912	Investigate
@@ -13916,7 +13916,7 @@
 13915	Uncover
 13916	Uncover
 13917	Uncover
-13918	Sanctuary guards unconscious
+13918	Unconscious Guard
 13919	Getting naked
 13920	Pegasus Armor Case
 13921	Upload
@@ -14231,7 +14231,7 @@
 14230	Retract
 14231	Enchantment of Athena
 14232	Investigate
-14233	Bush
+14233	Shrub
 14234	Collect
 14235	Small wallet
 14236	Collect
@@ -14693,15 +14693,15 @@
 14692	Prayer
 14693	Aquarius ★ ☆
 14694	Prayer
-14695	Aquarium ★★
+14695	Aquarius ★★
 14696	Prayer
 14697	Aquarius ★★ ☆
 14698	Prayer
-14699	Aquarium ★★★
+14699	Aquarius ★★★
 14700	Prayer
 14701	Aquarius ★★★ ☆
 14702	Prayer
-14703	Aquarium ★★★★
+14703	Aquarius ★★★★
 14704	Prayer
 14705	Aquarius ★★★★ ☆
 14706	Prayer
@@ -14817,7 +14817,7 @@
 14816	feel
 14817	Protection of Capricorn
 14818	feel
-14819	Aquarium Protection
+14819	Aquarius Protection
 14820	feel
 14821	Protection of Pisces
 14822	feel
@@ -15051,7 +15051,7 @@
 15050	Load
 15051	Scattered books
 15052	View
-15053	Sleeping Apprentice
+15053	Fainted Apprentice
 15054	Embrace and lift
 15055	Unconscious guard
 15056	Getting naked
@@ -15059,7 +15059,7 @@
 15058	Atear
 15059	Stone
 15060	Rebuscar
-15061	Flower of sacrifice
+15061	Sacrificial Flower
 15062	Picking up
 15063	Open
 15064	Energy Vortex

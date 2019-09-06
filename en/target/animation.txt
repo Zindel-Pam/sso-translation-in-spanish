@@ -42,7 +42,7 @@
 41	Sanctuary - The fire of the clock goes out_Escorpio
 42	Sanctuary - The fire of the clock goes out_Sagit
 43	Sanctuary - The fire of the clock goes out_Capricorn
-44	Sanctuary - The fire of the clock goes out_Aquarium
+44	Sanctuary - The fire of the clock goes out_Aquarius
 45	Sanctuary - The fire of the clock goes off_Piscis
 46	Sanctuary - Llamas in the Villa de Roderic
 47	Sanctuary - Found the fire .anm
@@ -956,7 +956,7 @@
 955	The Cosmo of Eide disappeared
 956	How is it possible?
 957	Eide, wake up!
-958	&name &that Cosmo is very dangerous. Stop it now!
+958	&name& that Cosmo is very dangerous. Stop it now!
 959	Listen ...
 960	The universe ....
 961	He was born 15 billion years ago, in the Big Bang.
@@ -1352,7 +1352,7 @@
 1351	Aiolia
 1352	No hurry! Soon it's your time
 1353	It can not end like this
-1354	&name &you are the last hope
+1354	&name& you are the last hope
 1355	Athena is with you
 1356	How dare you enter the Holy Underworld?
 1357	While they can not find it,

@@ -342,7 +342,7 @@
 341	Misty of Lizard
 342	Which Golden Knight is the most beautiful?
 343	Dohko of Libra
-344	Aquarium Camus
+344	Aquarius Camus
 345	Mask of the Death of Cancer
 346	Which of the following combinations have no blood relationship?
 347	Hyoga and Isaac
@@ -385,7 +385,7 @@
 384	What is the third of the Twelve Golden Houses?
 385	House of Gemini
 386	Taurus House
-387	Aquarium House
+387	Aquarius House
 388	Cancer House
 389	In relation to description of Andromeda, which article is not appropriate?
 390	Addict in battles

@@ -1356,8 +1356,8 @@
 1355	^5acbcc Netease Saints
 1356	^5acbcc Obtained in Netease Media Gift Pack
 1357	^fff600 end of sigh
-1358	Defeat the Pluto activist and rush into the pioneer of the Pure Land!
-1359	The event in the world - the end! In the wall of sigh, participate in the killing of Pluto, the actress of Pandora, to make the server enter the era of Pluto.
+1358	Defeat the Hades activist and rush into the pioneer of the Pure Land!
+1359	The event in the world - the end! In the wall of sigh, participate in the killing of Hades, the actress of Pandora, to make the server enter the era of Hades.
 1360	^0099cc God Warrior Icebreaker
 1361	Killing [Hero] All the god warriors in the Blue Ice Fortress BOSS
 1362	^0099cc sacred icebreaker
@@ -1380,7 +1380,7 @@
 1379	second place in the top-up activity list
 1380	^a800ff Heavenly rewards
 1381	Third place in the top-up activity list
-1382	^a800ff Jiu Xing Lianzhu·Pluto is coming
+1382	^a800ff Jiu Xing Lianzhu·Hades is coming
 1383	Anniversary Information Title Exclusive Title
 1384	^5acbcc embarked on the journey of the warrior
 1385	Guild exclusive title
@@ -1495,16 +1495,16 @@
 1494	^5acbcc beyond! Eternal glory
 1495	^5acbcc against the sky! Bonfire of firewood
 1496	^0099cc	God Warrior·The End of Holy War
-1497	Killing [Epic] BOSS of all the god warriors in the end of Pluto
+1497	Killing [Epic] BOSS of all the god warriors in the end of Hades
 1498	Unbelievable! Actually, I have successfully completed the challenge of all the god warriors!
 1499	^a800ff servant, the end of holy war
-1500	Killing [Epic] BOSS at the end of Pluto
+1500	Killing [Epic] BOSS at the end of Hades
 1501	Unbelievable! Actually, I have successfully completed the challenge of all the challenges!
 1502	^ff6c00 The demigod of the demigod
-1503	Killing [Epic] BOSS at the end of Pluto
+1503	Killing [Epic] BOSS at the end of Hades
 1504	Incredible! Actually, I have completely completed the challenge of all the demigods!
 1505	^ff6c00 sigh of God Hades
-1506	Killing [Epic] BOSS at the end of Pluto
+1506	Killing [Epic] BOSS at the end of Hades
 1507	Unstoppable! Actually, I have really completed all the challenges of the gods!
 1508	^ff6c00 Galaxy Fighter's Sanctioner
 1509	Galaxy Gymnastics Awards
@@ -1590,7 +1590,7 @@
 1589	^5acbcc	priest
 1590	The priest of the sea emperor, the sacred and solemn existence, the spokesperson of the emperor Poseidon.
 1591	^ff6c00 priest
-1592	The priest of Pluto, the sacred and solemn existence, the spokesperson of Hades.
+1592	The priest of Hades, the sacred and solemn existence, the spokesperson of Hades.
 1593	^ff6c00PGP Shining Star
 1594	Accumulated use of arc client to log in for 30 days exclusive title
 1595	^ff6c00 running, Saint Seiya

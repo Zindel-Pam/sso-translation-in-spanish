@@ -107,9 +107,9 @@
 106	Energy Center EXP Double
 107	Increase double EXP duration by 60 minutes.
 108	Hyper Potion IV
-109	Immediately restore the HP amount of half of the max HP. The total amount is 10 million HP.
+109	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
 110	Hyper Potion III
-111	Immediately restore the HP amount of half of the max HP. The total amount is 2 million HP.
+111	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
 112	Blood of Poseidon*20
 113	It can improve the effect when the star casts the Scales.
 114	Blood of Athena*20
@@ -197,9 +197,9 @@
 196	Brisa del Mar Sandals
 197	With the sea breeze hitting the face, the freshness leaves people in a good mood.
 198	Charming Bikini
-199	Mysterious charm, a different style. 
+199	Mysterious charm, a different style.\r
 200	Lovely Sandals
-201	Mysterious charm, a different style. 
+201	Mysterious charm, a different style.\r
 202	Tender Bikini
 203	Tenderness heats the hearts of people 
 204	Tender Sandals
@@ -295,9 +295,9 @@
 294	Book Oracle of Athena
 295	Open the highest-order Cosmo astrology, the high-grade star soul is no longer a dream.
 296	Hyper Potion IV
-297	Immediately restore the HP amount of half of the max HP. The total amount is 10 million HP.
+297	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
 298	Hyper Potion III
-299	Immediately restore the HP amount of half of the max HP. The total amount is 2 million HP.
+299	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
 300	Hyper Potion I
 301	Restores a small amount of HP.
 302	Energetic I*20
@@ -313,9 +313,9 @@
 312	Warehouse Expansion
 313	Expands warehouse space by 6 slots.
 314	World Megaphone x100
-315	Required to use World chat channel. Level 40 or above only.
+315	Required to use World chat channel.\rLevel 40 or above only.
 316	World Megaphone x10
-317	Required to use World chat channel. Level 40 or above only.
+317	Required to use World chat channel.\rLevel 40 or above only.
 318	Energy Center EXP Double
 319	Increase double EXP duration by 60 minutes.
 320	Destination Data*20
@@ -332,7 +332,7 @@
 331	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
 332	Ecliptic Heart V
 333	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
-334	Change of equipment [Squire]
+334	Item Voucher [Squire]
 335	Collect a certain amount to redeem the ruler equipment.
 336	Ben.Diosa ☆ Aries (II)
 337	Open the reputation of the goddess and gain extra rewards from the goddess.
@@ -429,9 +429,9 @@
 428	Brisa del Mar Sandals
 429	With the sea breeze hitting the face, the freshness leaves people in a good mood.
 430	Charming Bikini
-431	Mysterious charm, a different style. 
+431	Mysterious charm, a different style.\r
 432	Lovely Sandals
-433	Mysterious charm, a different style. 
+433	Mysterious charm, a different style.\r
 434	Tender Bikini
 435	Tenderness heats the hearts of people 
 436	Tender Sandals
@@ -527,9 +527,9 @@
 526	Book Oracle of Athena
 527	Open the highest-order Cosmo astrology, the high-grade star soul is no longer a dream.
 528	Hyper Potion IV
-529	Immediately restore the HP amount of half of the max HP. The total amount is 10 million HP.
+529	Immediately restore the HP amount of half of the max HP.\rThe total amount is 10 million HP.
 530	Hyper Potion III
-531	Immediately restore the HP amount of half of the max HP. The total amount is 2 million HP.
+531	Immediately restore the HP amount of half of the max HP.\rThe total amount is 2 million HP.
 532	Energetic I*20
 533	After use, you can get 500 magic box energy.
 534	Energetic I
@@ -561,7 +561,7 @@
 560	Ben.Diosa ☆ Aries (II)
 561	Open the reputation of the goddess and gain extra rewards from the goddess.
 562	Roses
-563	A valuable flower that can be used to give a friend. Activities above level 60.
+563	A valuable flower that can be used to give a friend.\rActivities above level 60.
 564	Card of Invasion
 565	A magical item that can directly sweep a copy of the activity.
 566	Ecliptic Heart I
@@ -576,48 +576,48 @@
 575	Increase the Squire slots, the guardian star that does not play will have attribute bonus to the guardian star.
 576	Condensed Star Light*5
 577	Material used in exchange for the related items of the ruler.
-578	Change of equipment [Squire]
+578	Item Voucher [Squire]
 579	Collect a certain amount to redeem the ruler equipment.
 580	Bronze Fragment*5
-581	After collecting a certain amount, you can exchange for Bronze Holy Armor. Drops in activities above level 20.
+581	After collecting a certain amount, you can exchange for Bronze Holy Armor.\rDrops in activities above level 20.
 582	Silver Fragment*5
-583	After collecting a certain amount, you can exchange for Silver Holy Armor. Drops in activities above level 60.
+583	After collecting a certain amount, you can exchange for Silver Holy Armor.\rDrops in activities above level 60.
 584	Armor Authorization [Bronze]
 585	In exchange for the certificate of the higher-grade Bronze Holy Armor.
 586	Armor Authorization [Silver]
 587	In exchange for the certificate of the higher-grade Silver Holy Armor.
 588	Black Star Jade*5
-589	Dark Saints 1-10 stars cast. Can be redeemed.
+589	Dark Saints 1-10 stars cast.\rCan be redeemed.
 590	Black Star Crystal*5
-591	Dark Saints 11-16 stars cast. Can be redeemed.
+591	Dark Saints 11-16 stars cast.\rCan be redeemed.
 592	Black Star Splendor*5
-593	Dark Saints 17-32 stars cast. Can be redeemed.
+593	Dark Saints 17-32 stars cast.\rCan be redeemed.
 594	Star Jade*5
-595	Pegasus Saint Cloth 1-10 stars cast. There is a large drop in activities above level 20.
+595	Pegasus Saint Cloth 1-10 stars cast.\rThere is a large drop in activities above level 20.
 596	Star Crystal*5
-597	Pegasus Saint Cloth 11-16 stars cast. There is a large drop in activity above level 50.
+597	Pegasus Saint Cloth 11-16 stars cast.\rThere is a large drop in activity above level 50.
 598	Star Splendor*5
-599	Pegasus Saint Cloth is a 17-32 star cast. There is a large drop in activity above level 70.
-600	Star Dust*5
-601	Used in ordinary bronze sacred clothing. There is a large drop in activity above level 30.
+599	Pegasus Saint Cloth is a 17-32 star cast.\rThere is a large drop in activity above level 70.
+600	Bronze Star Dust*5
+601	Used in ordinary bronze sacred clothing.\rThere is a large drop in activity above level 30.
 602	Silver Star Dust*5
-603	Used for ordinary silver sacred clothing. There is a large drop in activity above level 50.
+603	Used for ordinary silver sacred clothing.\rThere is a large drop in activity above level 50.
 604	Star Brightness [Earth]*5
-605	Used for gold sacred clothing. There is a large drop in activity above level 70.
+605	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
 606	Star Brightness [Fire]*5
-607	Used for gold sacred clothing. There is a large drop in activity above level 70.
+607	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
 608	Star Brightness [Water]*5
-609	Used for gold sacred clothing. There is a large drop in activity above level 70.
+609	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
 610	Star Bright [Wind]*5
-611	Used for gold sacred clothing. There is a large drop in activity above level 70.
+611	Used for gold sacred clothing.\rThere is a large drop in activity above level 70.
 612	Spiritual Light*10
-613	Used to equip the energy. There is a large drop in activity above level 30.
+613	Used to equip the energy.\rThere is a large drop in activity above level 30.
 614	Spiritual Light +*10
-615	Used to equip the energy. There is a large drop in activity above level 50.
+615	Used to equip the energy.\rThere is a large drop in activity above level 50.
 616	Soul Light*10
-617	Used to equip the energy. There is a large drop in activity above level 30.
+617	Used to equip the energy.\rThere is a large drop in activity above level 30.
 618	Soul Light +*10
-619	Used to equip the energy. There is a large drop in activity above level 50.
+619	Used to equip the energy.\rThere is a large drop in activity above level 50.
 620	Young Passionate
 621	Advance bravely and burn! Cosmo!
 622	Immature
@@ -641,23 +641,23 @@
 640	Young Passionate
 641	Young man with a burning heart 
 642	Pegasus
-643	Hairstyle of Seiya de Pegasus. 
+643	Hairstyle of Seiya de Pegasus.\r
 644	Dragon
 645	Dragon Shiryu hairstyle.
 646	Cygnus
 647	Cygnus Hyoga Hairstyle
 648	Andromeda
-649	Andromeda Shun Hairstyle. 
+649	Andromeda Shun Hairstyle.\r
 650	Phoenix
-651	Ikki de Phoenix hairstyle. 
+651	Ikki de Phoenix hairstyle.\r
 652	Aries
-653	Aries Mu hairstyle. 
+653	Aries Mu hairstyle.\r
 654	Virgo
-655	Shaka's Virgo Hairstyle. 
+655	Shaka's Virgo Hairstyle.\r
 656	Pisces
-657	Hairstyle of the Aphrodite of Pisces. 
+657	Hairstyle of the Aphrodite of Pisces.\r
 658	Cancer
-659	Hairstyle of the Cancer Death Mask. 
+659	Hairstyle of the Cancer Death Mask.\r
 660	Tender Girl
 661	I and my little Companion got so fond of us!
 662	Innocent Girl
@@ -723,23 +723,23 @@
 722	Young Passionate
 723	Young man with a burning heart 
 724	Pegasus
-725	Hairstyle of Seiya de Pegasus. 
+725	Hairstyle of Seiya de Pegasus.\r
 726	Dragon
 727	Dragon Shiryu hairstyle.
 728	Cygnus
 729	Cygnus Hyoga Hairstyle
 730	Andromeda
-731	Andromeda Shun Hairstyle. 
+731	Andromeda Shun Hairstyle.\r
 732	Phoenix
-733	Ikki de Phoenix hairstyle. 
+733	Ikki de Phoenix hairstyle.\r
 734	Aries
-735	Aries Mu hairstyle. 
+735	Aries Mu hairstyle.\r
 736	Virgo
-737	Shaka's Virgo Hairstyle. 
+737	Shaka's Virgo Hairstyle.\r
 738	Pisces
-739	Hairstyle of the Aphrodite of Pisces. 
+739	Hairstyle of the Aphrodite of Pisces.\r
 740	Cancer
-741	Hairstyle of the Cancer Death Mask. 
+741	Hairstyle of the Cancer Death Mask.\r
 742	Tender Girl
 743	I and my little Companion got so fond of us!
 744	Innocent Girl
@@ -805,11 +805,11 @@
 804	Blood of Hades*20
 805	It can improve the effect when the star casts the Holy Armour.
 806	Starlight*5
-807	The Pegasus Saint Cloth is a 33-48 star cast. There is a large drop in activity above level 80.
+807	The Pegasus Saint Cloth is a 33-48 star cast.\rThere is a large drop in activity above level 80.
 808	Arena of the Underworld*5
 809	Used for the necessities of the sacred clothing.
 810	Cosmic Key
-811	Essentials for stargazing. Activities above level 65 have fallen.
+811	Essentials for stargazing.\rActivities above level 65 have fallen.
 812	Venus Superior Suit
 813	Latest fashion on Venus 
 814	Venus Time Shorts
@@ -878,7 +878,7 @@
 877	Exchange for the essentials of the Sakura and Knight.
 878	Silver Star
 879	Redemption of the silver wing killer and storm.
-880	Sacred Light of Gold
+880	Sacred Golden Coin
 881	Used in conjunction with the Golden Saints Coupon, redeem the Gold Saint Cloth at the NPC Lightbringer
 882	Potion of Aphrodite
 883	can reshape the shape of your character after use.
@@ -960,10 +960,10 @@
 959	You can choose to use the enhanced artifact power value.
 960	Spiritual Source I
 961	Increase the aura of the character.
-962	Sacred Esplendor
-963	Used for Surplices. The pages of the gods obtained after winning through the battlefield can be exchanged.
+962	Sacred Splendor
+963	Used for Surplices.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
 964	Holy Splendor +
-965	Used for Surplices. The pages of the gods obtained after winning through the battlefield can be exchanged.
+965	Used for Surplices.\rThe pages of the gods obtained after winning through the battlefield can be exchanged.
 966	Sweetheart at First Sight
 967	The two are married and the boys must have props.
 968	Love at First Sight
@@ -1027,19 +1027,19 @@
 1026	Great Value Thanksgiving Gift Pack
 1027	It contains 18 times worth of value-added items, and each character can only be opened once.
 1028	LV10 Frenzy Pack
-1029	Those items with progression. Once per character.
+1029	Special rewards.\rOne time.
 1030	Paq. Frenzy LV59
-1031	Those items with progression. Once per character.
+1031	Special rewards.\rOne time.
 1032	Paq. de Frenesí LV79
-1033	Those items with progression. Once per character.
+1033	Special rewards.\rOne time.
 1034	Great Value Thanksgiving Gift Pack
 1035	It contains 18 times worth of value-added items, and each character can only be opened once.
 1036	LV10 Frenzy Pack
-1037	Those items with progression. Once per character.
+1037	Special rewards.\rOne time.
 1038	Paq. Frenzy LV59
-1039	Those items with progression. Once per character.
+1039	Special rewards.\rOne time.
 1040	Paq. de Frenesí LV79
-1041	Those items with progression. Once per character.
+1041	Special rewards.\rOne time.
 1042	Gem - Sun
 1043	Can be inlaid and enhance the attributes of the soul of the armor.
 1044	Gem - Moon
@@ -1058,7 +1058,7 @@
 1057	Can be inlaid and enhance the attributes of the soul of the armor.
 1058	Gem - Neptune
 1059	Can be inlaid and enhance the attributes of the soul of the armor.
-1060	Gema - Pluto
+1060	Gema - Hades
 1061	Can be inlaid and enhance the attributes of the soul of the armor.
 1062	Spirit of Gem
 1063	Additional upgrade experience can be added when the soul gem is upgraded.
@@ -1080,12 +1080,12 @@
 1079	Can be inlaid and enhance the attributes of the soul of the armor.
 1080	Gem - Neptune
 1081	Can be inlaid and enhance the attributes of the soul of the armor.
-1082	Gema - Pluto
+1082	Gema - Hades
 1083	Can be inlaid and enhance the attributes of the soul of the armor.
 1084	Spirit of Gem
 1085	Additional upgrade experience can be added when the soul gem is upgraded.
-1086	Aries Points Return Gift Pack
-1087	Blessing from Aries! You can return 800,000 stars in 30 days. Limited once.
+1086	Aries Gift Pack
+1087	Blessing from Aries! You can return 800,000 stars in 30 days.\rLimited once.
 1088	Spiritual Crystal
 1089	The necessary props to upgrade the soul of the armor.
 1090	Fragment of Gem
@@ -1097,11 +1097,11 @@
 1096	Metis Determination Light
 1097	The will of the intelligent goddess allows you to relearn combat skills.
 1098	Aries Reward Gift Pack
-1099	Blessing from Aries! Can return 20,000 stars in 30 days. Limited once.
-1100	Aries Points Return Gift Pack
-1101	Blessing from Aries! You can return 800,000 stars in 30 days. Limited once.
+1099	Blessing from Aries! Can return 20,000 stars in 30 days.\rLimited once.
+1100	Aries Gift Pack
+1101	Blessing from Aries! You can return 800,000 stars in 30 days.\rLimited once.
 1102	Aries Reward Gift Pack
-1103	Blessing from Aries! Can return 20,000 stars in 30 days. Limited once.
+1103	Blessing from Aries! Can return 20,000 stars in 30 days.\rLimited once.
 1104	Memento de Anima*1
 1105	When used in Anima, it enhances the intensified experience.
 1106	Memento de Anima*20
