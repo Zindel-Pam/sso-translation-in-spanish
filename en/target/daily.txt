@@ -162,15 +162,15 @@
 161	[monthly] memories of those years
 162	[monthly] approaching! Shooter's crisis
 163	[Monthly] Christmas! Reunion night
-164	[individual] attack! Golden zodiac
+164	[Solo] attack! Golden zodiac
 165	[Monthly] heavy snow! Defend the Christmas tree
 166	(4 or more people)
 167	[Event] Mourning! Hell sonata
 168	[Event] Tianbao treasure chest
 169	[Monthly] Ice and Snow Carnival
 170	[monthly] Christmas tree fantasy
-171	[monthly] double "egg" surprise
-172	[Monthly] the oath of resurrection
+171	[monthly] Double "egg" surprise
+172	[Monthly] Oath of resurrection
 173	Sanctuary - Aeoria
 174	${npc(38380,9)}
 175	Sea King-Gallon
@@ -255,7 +255,7 @@
 254	second legion pk 1v1
 255	[monthly] anniversary celebration! medal
 256	[monthly] anniversary celebration! Flying armor
-257	[Personal] practice eyesight! Leisurely bird
+257	[Mini-Game] Count the Birds!
 258	${jump(90)}
 259	[Monthly] anniversary celebration! Saint cloth
 260	[monthly] Cancer! Zombies are coming

@@ -23,7 +23,7 @@
 22	Leader of the Guard [Taurus]
 23	Stop! Do not make more progress - for I, Aldebaran, received orders to protect the House of Taurus.
 24	Aldebaran, the forces of the Underworld plan to revive the Armor of Hades. I need to inform the Grand Master!
-25	The Armor of the King of the Underworld! Hades ...? But the Grand Master finished ordering us not to bother him, no matter the emergency. You better go!
+25	The Armor of Hades! Hades ...? But the Grand Master finished ordering us not to bother him, no matter the emergency. You better go!
 26	This is a very important matter and I have to tell the Grand Master. No one can stop me, even if it's a Golden Knight!
 27	Ha ha ha, what confidence! Very well, if you make me step back half a step, I let you through! Show me what you are capable of!
 28	Welcome to the Space of Illusion of Pisces! I wish you good luck!
@@ -34,7 +34,7 @@
 33	Haha, how useless, you can not even kill a human being! Leave it with us.
 34	It's not so easy to kill that guy. But that's more fun! Kill him!
 35	Cer ... Cerberus, Run!
-36	You are very unfortunate, you have met me, Nachi de Lobo.
+36	You are very unfortunate, you have met me, Sirius Nazhi.
 37	Nachi
 38	Maybe the unfortunate one is you!
 39	Hunf! I'll show you my power After defeating you, the next will be the Phoenix Knight!
@@ -199,7 +199,7 @@
 198	Seiya!
 199	Or what is happening? Messages are not registered book ...... about the first generation of holy war!
 200	Stop! The village has undergone great changes, it is better not to enter a foreigner ...
-201	Villager [Villa Dragon]
+201	Villager [Village Dragon]
 202	Aiya, this is your life in exchange with Ed!!
 203	No entanto, is this really or what you want? Such Ed live hardly dor ... eu vou pessoally solve-it!
 204	Seiya, you will finally become a true saint ...... but I will not lose to you!
@@ -1726,7 +1726,7 @@
 1725	Unicorn Jabu
 1726	Although I had lost to Ikki, afraid that I may not represent the Phoenix seat!  %s, waiting for me to fight you in the original Aoki sea tree! - Sirius seat Nachi
 1727	Do not always look like an extremely arrogant! dog bite never called, is only willing to kill attack wolves!
-1728	Nachi de Lobo
+1728	Sirius Nazhi
 1729	Damn! That guy is very good, let's run!
 1730	Crazy Crew
 1731	Stop! Humans are not welcome here!
@@ -2815,7 +2815,7 @@
 2814	The soul is a Cosmo ...... locate it?
 2815	...... What is this place? How did I come here?
 2816	This is the place where your soul may rest in peace.
-2817	gold illusion
+2817	Gold Saint Illusion
 2818	You, who are you?
 2819	Go here to see, to look at here.
 2820	nymphs
@@ -3300,7 +3300,7 @@
 3299	The Hammer of Prometheus! Damn it! Quick, stop it!
 3300	Ah! - The Armor of Hades! All! Back off immediately!
 3301	What is going on? What happened ?!
-3302	What to do? It is better to go to Villa Rodorio to look for Aiolia.
+3302	What to do? It is better to go to Village Rodorio to look for Aiolia.
 3303	God! What happened here ?!
 3304	Hey, that was close! Luckily I dodged quickly, but I would be unconscious! That was very strange!
 3305	Sorry! I have to go to the Temple of the Titan!
@@ -3771,7 +3771,7 @@
 3770	Galactic Tournament
 3771	Ascending Sign
 3772	Fury of Hades
-3773	Click to use this article and complete the Quest
+3773	Click to use this item and complete the Quest
 3774	Try to awaken the force of the Cosmo within you
 3775	Burn your Cosmo, get rid of the black ice wall!
 3776	Burn your Cosmo, cast out the black serpent!

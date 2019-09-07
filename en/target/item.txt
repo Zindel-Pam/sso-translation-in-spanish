@@ -124,8 +124,8 @@
 123	The inventory is already organized.
 124	Now you can not organize the backpack, please try again later
 125	Do not organize so often, wait!
-126	This line is released at the %d level
-127	Recharge 1 dollar to reach the VIP level 1, you will earn a portable store
+126	Achieve LV%d to unlock
+127	Recharge 1 USD to reach the VIP level 1, you will earn a portable store
 128	On the Magic Box page, it is not possible to operate in this way
 129	Silver
 130	item
@@ -1182,7 +1182,7 @@
 1181	Largest
 1182	Huge
 1183	Large
-1184	Click with the left mouse button to go to: %s %s
+1184	Left-click to go to: %s %s
 1185	Can not be sold\r
 1186	Can not negotiate\r
 1187	bound after dressing\r
@@ -1774,7 +1774,7 @@
 1773	^ff7d2fYou can summon Nuclear Frost, by your side\r5 seconds later within 3 meters, all the Targets (including yourself) will suffer extra freeze damage
 1774	^ffffffA ball\rIt seems that there are some similarities with the element of that rubber ball with which he always plays
 1775	^ffffff Exhales fragrance, a good smell
-1776	^ffffff comet from the Villa del Tintilar, it looks like it's broken
+1776	^ffffff comet from the Village del Tintilar, it looks like it's broken
 1777	^ffffff Scattered Dragon Scales, emit a peculiar glow
 1778	^ffffff Falling Dragon Beard, Precious
 1779	^ffffff Dragon Horn knocked down, lovely
@@ -1850,7 +1850,7 @@
 1849	^fff600Medicine - Potion ^ffffff\r3 level formula\rUsing you can learn formula:\r^72fe00Magical Energy Potion of Blood Troops\rMagic Potion of Blood Troops Energy\r^ffffffEffect of use:\r^72fe00Recover the 1.7 %of your HP per second\r^fff600Fast 30 seconds\r^fff600Reloading equipment to 5 minutes\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use
 1850	^fff600Medicine - Potion ^ffffff\rForm level 4\rWith use you can learn the formula:\r^72fe00Purification of basic level elixir\rHighly effective HP elixir (+)\r^fff600Only this type of elixir can be used in the Arena Galactic\r^0184ffThe product produced with this formula will be bound\rRight mouse button to use it.
 1851	^fff600Medicine - Potion ^ffffff\rFormula level 5\rUsing you can learn formula:\r^72fe00Super Magic Energy Potion\rSuper Magic Potion of Energy\r^ffffff Effect of use:\r^72fe00Recovers 1.7 %of your HP per second and also the members of your team in a range of 5 meters\r^fff600Fast 30 seconds\r^fff600Recharge team to 5 minutes\r^0184ffClick on right button to use
-1852	^fff600Medicine - Potion ^ffffff\rForm level 6\rUsing you can learn formula:\r^72fe00Magic Charm Potion\rMagic Charm\r^ffffffGet randomly one of the following Magic Potions of Charm ^72fe00\rMagic Charm - Sanctuary ^72fe00\rMagic Charm Station - Grave Coliseum ^72fe00\rMagic Charm Station - Rozan ^72fe00\rMagic Resort of Charm - Forgotten Villa\r^0184ffUsed separately to increase the reputation of the corresponding area\r^0184ffThe product produced with this formula you will link\r^0184ffRight click to use
+1852	^fff600Medicine - Potion ^ffffff\rForm level 6\rUsing you can learn formula:\r^72fe00Magic Charm Potion\rMagic Charm\r^ffffffGet randomly one of the following Magic Potions of Charm ^72fe00\rMagic Charm - Sanctuary ^72fe00\rMagic Charm Station - Grave Coliseum ^72fe00\rMagic Charm Station - Rozan ^72fe00\rMagic Resort of Charm - Forgotten Village\r^0184ffUsed separately to increase the reputation of the corresponding area\r^0184ffThe product produced with this formula you will link\r^0184ffRight click to use
 1853	^fff600Medicine - Potion ^ffffff\r7 level formula\rUsing you can learn formula:\r^72fe00Magic Potion of Nothing\rNative Magic Potion\r^ffffffGet randomly one of the five types of Magic Potion out of nowhere\r^ffffff Effect of use:\r^72fe00Resistance of the corresponding property +5\r^fff600Lasts for 45 seconds\r^fff600Reloading equipment for 5 minutes\r^0184ffRight click to use
 1854	^fff600Medicine - Potion ^ffffff\rFormula level 8\rUsing you can learn formula:\r^72fe00Magical Cold Sepsis Potion\r^72fe00The enemy in a range of 5 meters suffers 1000 HP damage\r^fff600During 10 seconds\r^fff600Reloading equipment to 5 minutes\r^0184ffClick on right button to use
 1855	^fff600Medicine - Potion ^ffffff\rForm level 9\rWith use you can learn the formula:\r^72fe00Magic Potion of Rays of Light\rMagic Potion of Rays of Light\r^ffffffFollowing using it, you can get ^72fe00200 ^fffffff The Magic Box\rCan be used above the level 20\r^0184ffThe product produced with this formula will be bound\r^0184ffRight click to use it.
@@ -2162,7 +2162,7 @@
 2161	^ffffff Randomly get ^0184ffone of the four types of ^ffffff Golden Star Armor Splendor
 2162	^ffffffGet randomly one of the following equipment level 90 ^fff600from lower suit ^ffffff\rQuality:\r^a800ffépica
 2163	^ffffffGet randomly one of the following items\rWhat you receive depends on your luck :) ^a800ff\rLight of the Spiritual Bath advanced level ^a800ff\rSoul Bath Flora advanced level ^0184ff\rElement of the Star level 2 ^a800ff\rElement of the Star level 3 ^ffffff\rFragment of Impact ^ffffff\rFragment of Holy Defense ^a800ff\rDemonic Blood (moor)
-2164	^ffffffGet randomly one of the following Charm Magic Potions\r^72fe00Magic Charm Potion - Sanctuary ^72fe00\rCharacteristic Magic Charm - Grave Coliseum ^72fe00\rCharacteristic Magic Charm - Rozan ^72fe00\rCharacteristic Magic Charm - Forgotten Villa ^0184ff\rUsed separately to increase the reputation of the corresponding area
+2164	^ffffffGet randomly one of the following Charm Magic Potions\r^72fe00Magic Charm Potion - Sanctuary ^72fe00\rCharacteristic Magic Charm - Grave Coliseum ^72fe00\rCharacteristic Magic Charm - Rozan ^72fe00\rCharacteristic Magic Charm - Forgotten Village ^0184ff\rUsed separately to increase the reputation of the corresponding area
 2165	^ffffff Get Randomly ^72fe00Strength of Fist of Repression ^ffffffo ^72fe00Cords of Repentance\r^fff600Open Album Item\rChecking this item can improve ownership.\r^0184ffAfter you get the album, click on shift + button right mouse\rQuick delivery of this item
 2166	^ffffff Randomly get one of the five types of Pulse Element Medication\r^ffffff Use effect:\r^72fe00Increase corresponding property attack by 5 %\r^fff600Duration 45 seconds\r^fff6005 minute recharge equipment
 2167	^ffffffGet randomly one of the five types of Magic Potion from Nothing\r^ffffffEffect of use:\r^72fe00Resistance of the corresponding property +5\r^fff600Lasts 45 seconds\r^fff6005 minute recharge equipment
@@ -2444,7 +2444,7 @@
 2443	Today's Lucky Star's Daily Event: please click on the item, search for Kiki to participate ^ff0000Kiki's ^ffffffven to receive a generous prize!
 2444	^ffffffUsar: you can get 5 megaphones from the world channel\r^0184ffRight click to use
 2445	^fff600After using, you will get:\r20 Wave Crystals 20 Crystals of Death\r20 Crystals Cloud Print\r^0184ffRight click to use
-2446	^fff600Medal of qualification and faith of the Goddess of protection!\r^7fffff! With that item, you can raise Army with Zola, army administrator!
+2446	^fff600Medal of qualification and faith of the Goddess of protection!\r^7fffff! With that item, you can raise Army with Zara, army administrator!
 2447	^fff600After opening, you can obtain a random amount of Tears of Athena\r^0184ffClique to use
 2448	^fffffUse:\r^72fe00get EXP and bound currency\r^fff600Get random amount of level transformation\r^0184ffRight click to use
 2449	^ffffffRune Scroll ^fff600\rAffects: emblem, spiritual stone, bracelet\r^ffffffAdditional effect:\r^72fe00Reduction of random item resistance +3\r^fff600Effect will have a duration of: 7 days\r^0184ffUtilize ^72fe00rune spider service ^0184ffto proceed with the operation
@@ -2967,7 +2967,7 @@
 2966	^7fffffDivision of the use of the magic box\rNo damage when obtaining the corresponding amount of ^72fe00Fragment fragments 
 2967	^ffffffIngredients for the crafting of cookies\r^ffffffMrs Qin ^ffffff of the Hidden Dragon Village of Rozan ^fff600needs
 2968	^ffffffIngredients ^72fe00for the crafting of ^ffffffEgg Cupcakes\r^ffffffMrs Qin ^ffffff of the Hidden Dragon Village of Rozan ^fff600needs 
-2969	^ffffffIngredients ^72fe00of the crafting of ^ffffffEight Treasure Potatoes\r^ffffffMrs Qin ^ffffff Villa del Dragón Oculto de Rozan ^fff600needs of 
+2969	^ffffffIngredients ^72fe00of the crafting of ^ffffffEight Treasure Potatoes\r^ffffffMrs Qin ^ffffff Village del Dragón Oculto de Rozan ^fff600needs of 
 2970	^ffffffIngredients ^72fe00of the crafting of ^ffffffCornhouse Cakes\r^ffffffMrs Qin ^ffffff of the Hidden Dragon Village of Rozan ^fff600needs of 
 2971	^ffffffIngredients ^72fe00of the crafting of ^ffffffPastels by Anko\r^ffffffMrs Qin ^ffffff of the Hidden Dragon Village of Rozan ^fff600needs
 2972	^ffffffIngredients ^72fe00from the crafting of ^ffffffCampies of Ham\r^ffffffMrs Qin ^ffffff from the Hidden Dragon Village of Rozan ^fff600needs of 
@@ -5892,7 +5892,7 @@
 5891	^ffffffOpen with the right button to get:\r^72fe00Fragment Bronze ^ffffffx20\r^0184ffFragment Silver ^ffffffx20\r^a800ffHiper Potion III ^ffffffx1\r^a800ffRuin Shirt ^ffffffx1\r^a800ffWorld Megaphone x20\r1000 Gem\r1,000,000 Silver
 5892	^ffffff Congratulations for defeating Cerberus in the Well of the Dead.\r^ffffffWhen you use, you will get:\r^0184ffJade Estelar ^ffffffx20\r^0184ffLick with the right button to open.\r
 5893	^ffffff Congratulations for having confronted Aldebaran in the Twelve Houses and gaining his respect.\r^ffffffUsing, you will get:\r^0184ffJade Estelar ^ffffffx20\r^a800ffGold Blood ^ffffffx2\r^0184ffRight click with the right button to open.\r
-5894	^ffffff Congratulations for defeating Nachi de Lobo in the Galactic Tournament!\r^ffffffWhen you use, you will get:\r^0184ffJade Estelar ^ffffffx20\r^a800ffGold Blood ^ffffffx2\r^0184ffLeck with the right button to open.
+5894	^ffffff Congratulations for defeating Sirius Nazhi in the Galactic Tournament!\r^ffffffWhen you use, you will get:\r^0184ffJade Estelar ^ffffffx20\r^a800ffGold Blood ^ffffffx2\r^0184ffLeck with the right button to open.
 5895	^ffffff Congratulations for defeating Ikki in the Cave of the Ten Winds!\r^ffffffWhen you use, you will get:\r^0184ffJade Estelar ^ffffffx10\r^a800ffGold Blood ^ffffffx2\r^0184ffLeck with the right button to open.\r
 5896	^ffffff Congratulations for helping Shiryu defeat Argol of Perseus\r^ffffffWhen you use, you will get:\r^0184ffSpiritual Light ^ffffffx100\r^a800ffDemon Blood ^ffffffx20\r^0184ffRight click to open.\r
 5897	^ffffff Congratulations on resisting Leo's Aioria attacks!\r^ffffffWhen you use, you will get:\r^0184ffSpiritual Light ^ffffffx30\r^a800ffDemon Blood ^ffffffx10\r^0184ffLeck with the right button to open.
@@ -8223,12 +8223,12 @@
 8222	^fff600increased after the equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600additional increase after riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffno定光辉 Level 1 (injury)\r^0184ffCrimson blessing level 1 (Reply)\r^0184ffShenlong reincarnation level 1 (Reply)\r^0184ffShenlong flashing level 1 (blessing)\r^fff600It is said that the four dragons will be set There will be magical things happening!\r^ff0000Please note that the four dragons are placed in the package at the same time.
 8223	^fff600increased after the equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600additional increase after riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffno定光辉1级(害)\r^0184ff龙炎爆裂级级(群攻)\r^0184ff龙之怒1级(群攻)\r^0184ff神龙闪现1级(祝祝)\r^fff600is said to be There will be magical things happening in the four dragons!\r^ff0000Please note that the four dragons are placed in the package at the same time.
 8224	^fff600increased after the equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600additional increase after riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffno定光辉1级(害)\r^0184ffCurse of the night 1 level (deceleration)\r^0184ffchaos storm level 1 (chaos)\r^0184ffShenlong flash level 1 (blessing)\r^fff600is said to be four dragons There will be magical things happening!\r^ff0000Please note that the four dragons are placed in the package at the same time.
-8225^fff600Under	the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00Gemini gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rtime and space key X10\rspiritual source x10\rgoddess gift ☆ twin version x2\r^0184ffGemini gift will only get once
-8226^7fffff	The will of the goddess of intelligence allows you to relearn combat skills.\r^fff600can reset all the skills of the current occupation after use, 100% return to the experience value of learning consumption\r^ff000059 and above characters can use\r^ff0000non-current professional skills, hit mastery, cultivation skills Do not reset
-8227	^Bird wings ^0184ff\rredemption title with\r^ffffff in the daily activities to practice eyesight! Leisurely bird game\r^ffffff gathers 8 bird wings, you can go to the sanctuary ^ff7d2f Kigamei repair ^ffffff place\r^ffffff exchange training eyesight! High-order title--^a800ffeagle-like eyes
+8225	^fff600Under the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00Gemini gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rtime and space key X10\rspiritual source x10\rgoddess gift ☆ twin version x2\r^0184ffGemini gift will only get once
+8226	^7fffff	The will of the goddess of intelligence allows you to relearn combat skills.\r^fff600can reset all the skills of the current occupation after use, 100% return to the experience value of learning consumption\r^ff000059 and above characters can use\r^ff0000non-current professional skills, hit mastery, cultivation skills Do not reset
+8227	Bird Wings ^0184ff\rTitle Acquisition Item\r^ffffff Participate in daily Mini Game: Count the Birds to get a chance to win one.\r^ffffff Collect 8 and bring them to ^ff7d2fGilgamesh^ffffff in Sanctuary\r^ffffff , and exchange them for a special ^a800ffTitle: Eagle-like Eyes.
 8228	^fff600increased after the equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600additional increase after riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffdeep Red missile level 1 (damage)\r^0184ffsecluded blue missile level 1 (frozen)\r^0184ffice fire impact level 1 (group attack)\r^0184ffspace folding level 1 (blessing)
 8229	^fff600increased after the equipment\r^0184ffdefense +1000\rvitality +2000\r^fff600additional increase after riding\r^0184ffdefense +1000\r^fff600additional flight combat skills:\r^0184ffglare Missile level 1 (deceleration)\r^0184ffbound light 1 level (fixed body)\r^0184ffconfession light level 1 (coma)\r^0184ffspace folding level 1 (blessing)
-8230^fff600Under	the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00Cancer gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rspace-time key X10\rspiritual source x10\rgoddess gift ☆ giant crab version x2\r^0184ffCancer gift will only be obtained once
+8230	^fff600Under the blessing of the goddess, everyone has a chance\rGood luck!\r^0184ffRight click to use\r^fff600Use to receive:\r^72fe001Goddess' Gift prestige points\r^fff600An extra bonus will be given at the same time.\r^fff600Open the 10th time to get ^72fe00Cancer gift ^fff600package\ropen to get\r^72fe00Athena light x5\rsilver crystal x10\rgod blood x10\rspace-time key X10\rspiritual source x10\rgoddess gift ☆ giant crab version x2\r^0184ffCancer gift will only be obtained once
 8231	^fff600Admission ticket for the 2nd Legion Cross-service, so you can enter the battle to participate in the battle\rEntering time, please pay attention to the official website and in-game announcement\r^ff0000After all the games are over, you can get the participation prize with this ticket.
 8232	^fff600Admission ticket for the 2nd Legion Cross-service, so you can enter the battle to participate in the battle\rEntering time, please pay attention to the official website and in-game announcement\r^ff0000After all the games are over, you can get the participation prize with this ticket.
 8233	^fff600Admission ticket for the 2nd Legion Cross-service, so you can enter the battle to participate in the battle\rEntering time, please pay attention to the official website and in-game announcement\r^ff0000After all the games are over, you can get the participation prize with this ticket.

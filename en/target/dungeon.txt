@@ -570,7 +570,7 @@
 569	Talk to Santa Claus to start the fight
 570	Defeated Enemies: ^00ffff %d / 200 ^N \rPaste the Candy Jar ^to put it in the incubation screen!
 571	You resisted your enemies successfully, Santa decided to give them gifts! Go soon to receive them!
-572	The Sanctuary plunged into a silence that never was, surrounded by the despair and fear of the survivors. \rAnd what happened here? Talk to ^ffff00 Nachi de Lobo ^N
+572	The Sanctuary plunged into a silence that never was, surrounded by the despair and fear of the survivors. \rAnd what happened here? Talk to ^ffff00 Sirius Nazhi ^N
 573	It is necessary to pass through the Valley of the Black Ventania ^N, in order to continue! \rJuntar ^00ff00Universe of Light ^N, it can help them control the Black Wind of Evil: ^ffff00%d / 12
 574	Is the world going to face another catastrophe? Who is in charge of all this? On the way ahead a dense fog rises, the first step to discovering the truth, to defeat the Celestial Star of the Prison! Shaka's magician is hidden in the ^00ff00Santuary ^N, if two members of the group ^00ff00 come together ^N you can open it! Use it to contain the enemy!
 575	The Celestial Star of the Prisoner claims to have been deceived by the God of the Force, Naveen. But who is he? This is far from over! \rRemove the obstacles in front of you, ^ffff00 Demonic Celestial Star! full of tricks, but if you use the ^00ff00Cosmo ^N left by the Silver Knight, you can break his Magic Barrier!

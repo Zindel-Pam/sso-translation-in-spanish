@@ -411,7 +411,7 @@
 410	^ffff00Defense +100 \r ^NActivates the attributes by selecting the ^ffff00effect ^N
 411	Conclude the series of Quests "The Mystery of the Spheres of the Dragon", in Rozan to obtain the title
 412	^009933 Siren Hunter
-413	You have protected the Forgotten Villa, defeating Sirena.
+413	You have protected the Forgotten Village, defeating Sirena.
 414	^ffff00 Thunder Damage +40 \rPress +30 \r ^NActivate the attributes by selecting the ^ffff00 effect ^N
 415	Conclude the Quest "The great sea monster", on the Forgotten Path to obtain the title
 416	^009933Space of the Dream

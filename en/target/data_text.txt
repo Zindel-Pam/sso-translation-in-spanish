@@ -4,7 +4,7 @@
 3	Wow ...... Wow!
 4	Do you think that if I add a bit of magic from the mixture of Impressionism with Fauvism in the realistic style of ceramics, it will be easier to sell it?
 5	Long life to the Goddess! Death to the Grand Master!
-6	The Forest of Darkness seemed, initially, only the hunting ground of Villa Kohoutek, but now we must be cautious.
+6	The Forest of Darkness seemed, initially, only the hunting ground of Village Kohoutek, but now we must be cautious.
 7	Come with me, Natásia. You understand me, I just wanted everyone to stay a little better ......
 8	The Knights will protect us!
 9	The active volcano in the center of the Island of the Death Queen resembles the Phoenix that, in flames, rises to the skies. This site is found among dense smoke and lava all year round; even a grass is born here. The temperature of the surface exceeds 70 degrees. There is no ordinary person who manages to survive in this place, which is also the den of the Black Knights. In the middle of the lavas of the Phoenix Volcano, the brilliant Phoenix Armor is hidden, the object that the leader of the Black Knights, Jango, wanted to obtain
@@ -236,7 +236,7 @@
 235	...... (I can not see it clearly, it seems that it never fails)
 236	Collecting the "Red Team Entry (Blue) I (line 12)" and the "Red Team Entry (Blue) II (line 12)" ticket, you can enter the Red Team (Blue) of the Multiserver PK competition of line 12!
 237	Only the Knight who went through a training can get the inheritance of the great Shaka!
-238	Is this the Armor of the King of the Underworld? Although only by hearing, only seeing is that I can perceive how this force is wonderful.
+238	Is this the Armor of Hades? Although only by hearing, only seeing is that I can perceive how this force is wonderful.
 239	When he becomes a dragon, daring to die in the fight, he will not be able to return.
 240	I grew up in the Shrine since I was a child, you can ask me anything about the Shrine that I'm right for!
 241	Mercy towards the weak is a cruelty against oneself.
@@ -786,7 +786,7 @@
 785	I have a bad feeling, it seems that this place is going to go through a catastrophe shortly.
 786	I saw some flames in your eyes, let me see if it is the fire of life or destruction .....
 787	Surely I will take my mother to the place where she has grown up. There it is warm and comfortable, the four seasons are like spring and, definitely, it will not be colder.
-788	In Villa del Golfo, the love and hatred that each person has for the Knight are mixed. They are our relatives and also our enemies.
+788	In Village del Golfo, the love and hatred that each person has for the Knight are mixed. They are our relatives and also our enemies.
 789	Under this wall of ice, there is a cruel monster that mara people.
 790	You must recover this blood debit as the Underworld army
 791	I can use my telekinesis to easily transport you to the Sanctuary.
@@ -1793,7 +1793,7 @@
 1792	Do not ask my real name, I'm just the image of the Golden Rider that you have in your mind, not the Golden Rider that you know.
 1793	They can go to the last Holy War from here, from experience, the first fight is always devastating ("Memories of the Holy War" drops only once a day).
 1794	^000080The man confronts him with a look of disdain ^N \rHumpf ...
-1795	Everyone in the Xintoist Villa strives for the goal of becoming Knights!
+1795	Everyone in the Xintoist Village strives for the goal of becoming Knights!
 1796	All those who betray the Great Teacher must die!
 1797	Why ... Why do people hate each other?
 1798	Probably the battle is still to come, that's a good thing.
@@ -2301,7 +2301,7 @@
 2300	Saori, no matter what your desire, it will help you achieve it.
 2301	When can I become a Knight like Shiryu?
 2302	(stare) ...
-2303	The inhabitants of Villa Xintoísta also have the protection of Athena's heart.
+2303	The inhabitants of Village Xintoísta also have the protection of Athena's heart.
 2304	His army, under the leadership of the Chief, came first in the classification of last week's level of activity! Each member of the Army can receive, here with me, a reward! (The period for reception is 12:00 p.m. from Tuesday to 11:00 p.m. Sunday)
 2305	As a Knight, I swore allegiance and devotion to Athena! During the battle, you must understand that you must not hesitate to sacrifice your own life!
 2306	At the foot of Mount Fuji, due to a volcano, its relief forms a natural labyrinth with many confusing entries and forks. Mount Fuji is an important tourist spot. But if you are not familiar with the roads, so it enters, it is very easy to get lost. Many people used the method of hanging a small bell in the caves to maintain contact with each other, that practice also it is used by the Knights. Here the five Bronze Knights fought a decisive battle, which brought down the earth, thus ended the Galactic war.
@@ -2388,7 +2388,7 @@
 2387	Recently, many new and elegant faces have arrived at the Shrine. Thanks to the Grand Master, and the strength of the Shrine is increasingly powerful.
 2388	Esmeralda is the sweetest and most honest girl I've ever met.
 2389	Mom ...
-2390	Villa Kohoutek never bowed to any calamity!
+2390	Village Kohoutek never bowed to any calamity!
 2391	A good soldier must use all his strength in battle, but when the fight ends, you must also learn to respect the adversary.
 2392	The thunder and lightning are the wrath of the heavens, then, that is our wrath against those who as enemies to the Knights!
 2393	Training area on the Island of the Queen of Death, the conditions here are extreme and cruel. During the day, the temperature exceeds 40 degrees, at night the intense cold reaches minus 40. Food and water are scarce, there is hardly cruel practice, day after day. Here it is known as the most inhuman training area of ​​all, almost no one manages to endure the cruelty of the practice to become a Knight, some of them abandon their convictions to become Black Knights. But still there are people here who believe in the great effort of the Knight's training.

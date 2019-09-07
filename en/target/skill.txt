@@ -99,7 +99,7 @@
 98	Find the place where the item can be used.
 99	Can not be used in motion.
 100	Skill can not be moved.
-101	Skill: %d.
+101	EXpertise: %d
 102	Raises %d desired skill level: %.0f
 103	You have to be part of the Army.
 104	Restoration
@@ -8716,18 +8716,18 @@
 8715	^c0c0ff Needed LV.16 of Perseus Armor ^A2FFFF
 8716	Shura Road
 8717	^FFFF00 Skill ^c0c0ff[%s]^FFFF00 attacks 3x and damage increases by 50%% Exclusive Sign ability: ^00FF00 %s Dragon ^FFFF00
-8718	^c0c0ffNumber 10 of the Cerbero Armor ^A2FFFF
+8718	^c0c0ffNumber 10 of the Cerberus Armor ^A2FFFF
 8719	Powerful Sword
 8720	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rFloat: 3s \ : ^00FF00 %s Dragon ^FFFF00
 8721	Additional Damage: %d\rBonus Water damage: %d Minimum Damage: %d%% Fulfillment: 3s Exclusive Sign Attribute: ^00FF00 %s Dragon ^FFFF00
 8722	^c0c0ffNeedings of Perseus Armor ^A2FFFF\rProjects spades on the ground in a range of 10m
 8723	Reverse Blood
 8724	Consume 5%% of HP maximum\r(If the body has any protective effect, it does not consume the HP)\rRemove control status\rImunity to control: 6s Increase in damage reduction: 60%%\rIf the HP is less than 15%% of the maximum HP, it is not possible to use the signature's exclusive ability: ^00FF00 %s Dragon ^FFFF00
-8725	^c0c0ffNumber of Cerbero Armor ^A2FFFF
+8725	^c0c0ffNumber of Cerberus Armor ^A2FFFF
 8726	Agile Sword
 8727	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rHits 4 times\rDamage: {^FFABFC %d%% ^FFFF00}\rWhen used on monsters, apply the sword marking \t ^FFFF00 Sword Marking\r^00FF00Dream per second: %d\rDuration: 8s Exclusive Signability of: ^00FF00 %s Dragon ^FFFF00
 8728	Additional Damage: %d\rAdditional Earth Age: %d\rHits 4 times\rDamage: %d%%\rWhen used on monsters, apply sword dialing. \t ^FFFF00Sword Sword\r^00FF00Day by second: %d\rDuration: 8s\rExclusive Signability of: ^00FF00 %s Dragon ^FFFF00
-8729	^c0c0ffNumber of Cerbero Armor LV.16 ^A2FFFF\rAttack violently in area, applying Spell Marking to monsters
+8729	^c0c0ffNumber of Cerberus Armor LV.16 ^A2FFFF\rAttack violently in area, applying Spell Marking to monsters
 8730	crow killing
 8731	press
 8732	Declaration of war

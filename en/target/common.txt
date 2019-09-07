@@ -684,7 +684,7 @@
 683	Reached the maximum level allowed by the Era, please join the other troops to defeat the BOSS and open the new Ages, press Y for more details.
 684	Already reached the highest level allowed by the Era on the multi-server, please return to the initial service to try.
 685	It is not necessary to update manually at the current level
-686	^ffffff Awareness amount too low (in ${jump (6)} interface improvement ^00ff00 Fighting ^ffffff may increase), it is not possible to increase the level
+686	^ffffff Insufficient Expertise (learn more ${jump(6)} to improve expertise!)
 687	Insufficient EXP, not impossible to improve
 688	Astro EXP insufficient, not possible to improve
 689	Current EXP: %.0f \rNeeded: %.0f

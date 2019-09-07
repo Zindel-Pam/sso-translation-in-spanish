@@ -97,9 +97,9 @@
 96	Schedule: Through the commemorative events "Renaissance Festival", it is possible to receive ^ff00ffCupons for the Moon Festival, N, joining 1, 8, 14, 25 and 45 coupons, it is possible to receive great prizes from the Ambassador of Hyoga Awards. By putting together 70 coupons, you can exchange them for a special title of the limited edition.
 97	Starting today until 09/22
 98	${npc(39802, "Automatically search the way to Shiryu")}
-99	Press ESC to jump
+99	Press ESC to skip
 100	I say Safa Lasa Lasa Fanla Sanfa Kanfa Ahlong Kan ah Ah Long Long Kanfa Kanfa Lasa kanfa long Kan.
-101	Press ESC to jump
+101	Press ESC to skip
 102	Name of pets and monsters
 103	Hide models without important - Ex: pet and squire
 104	Hide other players
@@ -3746,18 +3746,18 @@
 3745	All
 3746	Name
 3747	System
-3748	Letter:
-3749	Letter:
-3750	Letter:
-3751	Letter:
-3752	Letter:
-3753	Letter:
-3754	Send:
-3755	Send:
-3756	Send:
-3757	Send:
-3758	Send:
-3759	Send:
+3748	Title: 
+3749	Title: 
+3750	Title: 
+3751	Title: 
+3752	Title: 
+3753	Title: 
+3754	Sender: 
+3755	Sender: 
+3756	Sender: 
+3757	Sender: 
+3758	Sender: 
+3759	Sender: 
 3760	How many characters does the subject of the email have?
 3761	How many characters does the subject of the email have?
 3762	How many characters does the subject of the email have?
@@ -8523,7 +8523,7 @@
 8522	Percentage of experience:
 8523	99.99%
 8524	Learning combat skills can increase your awareness.
-8525	Perception percentage:
+8525	Expertise:
 8526	Hidden cloak, can not be reused in a short time.
 8527	hidden cloak
 8528	Toggle fashion. This option has short cooldown.

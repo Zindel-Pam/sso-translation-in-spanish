@@ -124,7 +124,7 @@
 123	I came back again, to destroy the Sanctuary ......
 124	Hey, if you want to go down that road, you first have to go through me.
 125	Kill him, Pandora, and you will undoubtedly have great rewards! Hey ......
-126	Although the Hidden Dragon Village is hidden, before on the way to the Villa there was always one or two villagers, but now why is there no one?
+126	Although the Hidden Dragon Village is hidden, before on the way to the Village there was always one or two villagers, but now why is there no one?
 127	Let's go a little faster, I have a bad feeling.
 128	We arrived, here is the Hidden Dragon Village.
 129	From now on I want to pray with devotion to the dragon god.
@@ -201,7 +201,7 @@
 200	Thanks for sending me back.
 201	Why did such a fearsome soldier appear? I think it's not a bit safe here.
 202	I do not know what happened ... but when I woke up, you showed up.
-203	Ah! In front is the Villa Roderio, great!
+203	Ah! In front is the Village Roderio, great!
 204	Here is a forbidden zone !!! Get out fast!
 205	Protect the Sanctuary!
 206	Fidelity to the Goddess!
@@ -1056,15 +1056,15 @@
 1055	$spec questportrait_147
 1056	$spec sound_1016
 1057	Hahaha!
-1058	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+1058	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 1059	$spec sound_1016
 1060	Hahaha!
-1061	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+1061	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 1062	$spec questportrait_135
 1063	$spec sound_1019
 1064	$spec sound_1020
 1065	What?
-1066	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+1066	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 1067	$spec sound_1016
 1068	$spec sound_1016
 1069	$spec sound_1017
@@ -1212,7 +1212,7 @@
 1211	$noname$UImidTerrible Providence!
 1212	$noname$UImidAl be attacked by the Terrible Providence, the God of death will get a protective shield!
 1213	$noname$UImidBlocking the Soul!
-1214	$noname$UImidCare! Thanatos wants to learn you !!
+1214	$noname$UImidWatch out! Thanatos wants to learn you !!
 1215	$noname$UImid! When attacked by the Terrible Providence, the God of death will obtain a protective shield !!
 1216	$noname$UImid¡Destino Scary !!
 1217	$noname$UImidQuick, go with Seiya! He will defend you!
@@ -1400,7 +1400,7 @@
 1399	$noname$UImidCorre around Shaka! Escape from the Blessing of Darkness!
 1400	Cycle of the Six Stocks
 1401	$spec sound_1048
-1402	$noname$UImidRemove from Shaka! Beware of the final blow of the Six Stocks Cycle!
+1402	$noname$UImidGet away from Shaka! Beware of the final blow of the Six Stocks Cycle!
 1403	$spec sound_1038
 1404	$spec sound_1038
 1405	Die!
@@ -1492,7 +1492,7 @@
 1491	$spec sound_1029
 1492	$spec sound_1028
 1493	Fist of Another dimension !!!
-1494	$noname$UImidCare! Get away from the evil illusion, this attack is very powerful!
+1494	$noname$UImidWatch out! Get away from the evil illusion, this attack is very powerful!
 1495	$spec questportrait_121
 1496	In the end does history hide evil or evil history?
 1497	Ah! Feel also my pain, that sad pain in my heart, that loneliness !!!
@@ -1553,7 +1553,7 @@
 1552	Seiya! And now I will attack with all my strength!
 1553	What? Are there really blows that I can not see in the Seiya Meteor?
 1554	Even though you can see through my faults, you will not be able to take advantage of the opportunity, receive my blow!
-1555	You're very unlucky, you'll regret meeting me, Nachi de Lobo.
+1555	You're very unlucky, you'll regret meeting me, Sirius Nazhi.
 1556	Wolf Onslaught!
 1557	$spec questportrait_10
 1558	What? It looks like I'll have to take things seriously!
@@ -6121,18 +6121,18 @@
 6120	Very good!
 6121	$spec sound_1016
 6122	Hahaha!
-6123	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+6123	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6124	Not bad!
 6125	$spec sound_1016
 6126	Hahaha!
-6127	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+6127	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6128	$spec questportrait_135
 6129	$spec sound_1016
 6130	Hahaha!
-6131	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+6131	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6132	$spec sound_1016
 6133	Hahaha!
-6134	$noname$UImidCare! The shock wave emitted by Taurus laughter can knock you down!
+6134	$noname$UImidWatch out! The shock wave emitted by Taurus laughter can knock you down!
 6135	$spec sound_1020
 6136	What?
 6137	$spec sound_1018
@@ -6451,7 +6451,7 @@
 6450	$spec sound_1029
 6451	$spec sound_1028
 6452	Fist of Another dimension !!!
-6453	$noname$UImidCare! Get away from the evil illusion, this attack is very powerful!
+6453	$noname$UImidWatch out! Get away from the evil illusion, this attack is very powerful!
 6454	Furious
 6455	In the end does history hide evil or evil history?
 6456	Do not hit me! I have nothing

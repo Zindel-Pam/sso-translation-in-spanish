@@ -87,7 +87,7 @@
 86	Without target!
 87	$noname Shion: When closing a mechanism, the status of the other, which is connected to it, will change ... I believe that with their wisdom, they can deactivate all mechanisms
 88	$noname Shion: there in front is the magic circle with mechanisms that cause the Illusion of the Celestial World! Disable those mechanisms to eliminate the magic circle!
-89	Nachi de Lobo
+89	Sirius Nazhi
 90	$nobubble${lev(30-200)}$noname$UImid ${npc(%d)} appeared in ${line (4, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
 91	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
 92	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!

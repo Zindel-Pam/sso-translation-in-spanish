@@ -700,7 +700,7 @@
 699	Click to open the Friends List
 700	Select the character with the right button and click to challenge
 701	Press the W, A, S and D keys to move. In the guide, use ESQ to close.
-702	Click on the link to speak with the Gold Illusion and enter the Instance Zone.
+702	Click on the link to speak with the Gold Saint Illusion and enter the Instance Zone.
 703	Press the right mouse button and drag it to change the perspective.
 704	Double click and press the W key to activate the fast race!
 705	Running quickly will consume the energy bar, use it in moderation
@@ -731,7 +731,7 @@
 730	Click on the link to open the instruction guide
 731	Click on the link to speak with Athena
 732	Click on the link to automatically find the quest conclusion path
-733	Click on the link to pursue the Illusion of Gold
+733	Click on the link to pursue the Gold Saint Illusion
 734	Click here to use the "Megasores de Pegasus" ability
 735	Click here to use the "Diamond Dust" skill
 736	Click here to use the skill "Wrath of the Dragon"

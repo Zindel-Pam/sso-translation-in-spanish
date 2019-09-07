@@ -18,7 +18,7 @@
 17	Tianchi Lake
 18	Summit of the Reunion
 19	Exile Valley
-20	Forgotten Villa
+20	Forgotten Village
 21	Cape Sounion
 22	Field of Practice
 23	Mine
@@ -26,10 +26,10 @@
 25	Vestiges of the Shipwreck
 26	Yggdrasil
 27	Country of Ice
-28	Villa de Sirena
+28	Village de Sirena
 29	Lost City
 30	Temple of Poseidon
-31	Villa del Golfo
+31	Village del Golfo
 32	Stone of Sacrifice
 33	Tartar Volcano
 34	Constellation Myth
@@ -41,7 +41,7 @@
 40	Scattered Books
 41	List of Competitors
 42	Full Surplices
-43	Grass to stop bleeding
+43	Bloodless Grass
 44	Scattered Pearls
 45	Journal of Eide
 46	Flower of the Sacrifice
@@ -65,7 +65,7 @@
 64	Sword
 65	White Chrysanthemum
 66	Pump
-67	Grass to stop bleeding
+67	Bloodless Grass
 68	Pegasus armor
 69	Red Fruit
 70	Yellow Fruit
@@ -120,7 +120,7 @@
 119	Shunrei medication
 120	Aura Lotus Seeds
 121	Main Line 22 Casia Seed
-122	Book of the Head of the Villa
+122	Book of the Head of the Village
 123	Book Sheet
 124	Tumbled bottle
 125	Field with pollen
@@ -4148,25 +4148,25 @@
 4147	Use
 4148	Chameleon n ° 9 · yellow team three golds
 4149	Use
-4150	Cerbero n ° 10. team baron of hell VII
+4150	Cerberus n ° 10. team baron of hell VII
 4151	Use
 4152	Cerberus n ° 1 · older brother team of the Celestial Empire
 4153	Use
 4154	Cerberus n ° 2 · scimitar fire equipment
 4155	Use
-4156	Cerbero n ° 3. king lion king heart iron
+4156	Cerberus n ° 3. king lion king heart iron
 4157	Use
-4158	Cerbero n ° 4 · team pretty girl
+4158	Cerberus n ° 4 · team pretty girl
 4159	Use
-4160	Cerbero nº5 · Cook Boya equipment
+4160	Cerberus nº5 · Cook Boya equipment
 4161	Use
-4162	Cerbero nº6 · barn equipment
+4162	Cerberus nº6 · barn equipment
 4163	Use
-4164	Cerbero nº7 · Team Pegasus ★ mythological animal
+4164	Cerberus nº7 · Team Pegasus ★ mythological animal
 4165	Use
-4166	Cerbero nº8 · salsa equipment Simon
+4166	Cerberus nº8 · salsa equipment Simon
 4167	Use
-4168	Cerbero nº9 · team pretty girl
+4168	Cerberus nº9 · team pretty girl
 4169	Use
 4170	Virgo # 1. Ss, cold ice-free equipment
 4171	Use
@@ -7505,7 +7505,7 @@
 7504	Mount
 7505	Kaeru - Lucky Frog
 7506	Mount
-7507	Cerbero
+7507	Cerberus
 7508	Mount
 7509	Dragon guard
 7510	Mount
@@ -10848,7 +10848,7 @@
 10847Eudora	ointment
 10848	Smoke Pump
 10849	Hammer of Prometheus
-10850	Grass to stop bleeding
+10850	Bloodless Grass
 10851	Needle
 10852	Flower of Illusion
 10853	Recovery Ointment
@@ -10879,7 +10879,7 @@
 10878	Animal Trap
 10879	Trust in Destiny
 10880	Pump
-10881	Grass to stop bleeding
+10881	Bloodless Grass
 10882	Torch
 10883	Commands
 10884	Explosion
@@ -11243,7 +11243,7 @@
 11242	Old defense medicine
 11243	Sell Simple
 11244	Linen Bandage
-11245	Sale of Cotton
+11245	Cotton Bandage
 11246	Tough Selling
 11247	Sale of Silk
 11248	Selling rags
@@ -11910,7 +11910,7 @@
 11909	Chestnut
 11910	Anko
 11911	Ham
-11912	Chapter of the Faith
+11912	Chapter of Faith
 11913	Resources of Raw Material
 11914	Base of the Matter: Kill Mobs
 11915	Mysterious Prize
@@ -13307,7 +13307,7 @@
 13306	Witness to the little companions
 13307	Letter of request for help for financial group of the Foundation Kido
 13308	Unlimited Vitality
-13309	Bird's wings
+13309	Bird Wings
 13310	Love at First Sight
 13311	Sweetheart at First Sight
 13312	Demonic Blood Wedding Ceremony
@@ -13596,7 +13596,7 @@
 13595	Tianchi Lake
 13596	Summit of the Reencounter
 13597	Valley of Exile
-13598	Villa del Olvido
+13598	Village del Olvido
 13599	Cape Sounion
 13600	Training Camp
 13601	Mine
@@ -13604,10 +13604,10 @@
 13603	Wrecks of the Shipwreck
 13604	Yggdrasil
 13605	Ice Country
-13606	Villa of Sirena
+13606	Village of Sirena
 13607	Lost City
 13608	Temple of Poseidon
-13609	Villa del Golfo
+13609	Village del Golfo
 13610	Stone of Sacrifice
 13611	Volcano of Tartarus
 13612	Produce power tool cube 1Substitute
@@ -13784,7 +13784,7 @@
 13783	Cobra Facial Bone
 13784	Griffin Bone
 13785	Siren Bone
-13786	Cerbero's Bone
+13786	Cerberus's Bone
 13787	Fragment of Wind
 13788	Fragment of Water
 13789	Fragment of Fire

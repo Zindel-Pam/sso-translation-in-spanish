@@ -304,13 +304,13 @@
 303	The Legionnaire found a corps %s that you might be very appetizing. Would you like to join?
 304	Enter a name for the Army:
 305	Use 100000 Gold to create the Army?
-306	Confirm the consumption of the tool "Chapter of faith in the protection of the goddess" to create the Army?
+306	"Chapter of Faith" will be consumed!
 307	Please enter the name of the enemy Army:
 308	Please enter the character's name:
 309	Confirm the expenditure of 500,000 Gold to create the Army Alliance?
 310	Please enter the name of the Army Alliance created:
 311	The player level needs to reach level 25
-312	The tool "Chapter of faith in the protection of the goddess" is needed (After finishing the formation of the team, go to Zoe to receive "Creation of the Army! Mission of the chapter of faith in protection")
+312	The tool "Chapter of Faith" is needed (After finishing the formation of the team, go to Zoe to receive "Creation of the Army! Mission of the chapter of faith in protection")
 313	O 100,000 Gold
 314	Army Name contains characters not allowed
 315	It is necessary to have %d level up from the Army Base in order to create an Army Alliance
@@ -1582,7 +1582,7 @@
 1581	No enemies, no need to use enemy tracking props
 1582	Rejected Legion Application
 1583	Determined to spend 500000 gold coins to create a legion?
-1584	player level needs to reach level 30
+1584	Player level 30 required!
 1585	or gold coin 500000
 1586	1 Applicant needs to be the head of the army\r2 There is currently no legion base\r3 Application time is from Tuesday to Sunday\r3 (Note: After the maintenance on Tuesday, last week, the activity of 200 inner legions can be applied)
 1587	Successfully bid on %s, spent %I64d gold coins

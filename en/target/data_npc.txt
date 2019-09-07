@@ -245,7 +245,7 @@
 244	Seiya
 245	Pegasus
 246	Soul of a Knight
-247	Gold Illusion
+247	Gold Saint Illusion
 248	Mysterious Shadow
 249	Mysterious Shadow
 250	Mysterious Shadow
@@ -379,23 +379,23 @@
 378	Main line 26 Main city_Eudora 11
 379	Main line 27 Campamento_Shina 1
 380	Main line 28 Mountain Village of the Cumbre Salvaje_Shaka
-381	Main line 29 Villa of the Montaña del Cumbre Salvaje_jefe of the village
-382	Main line 30 Villa of the Montaña del Cumbre Salvaje_Shina 3
+381	Main line 29 Village of the Montaña del Cumbre Salvaje_jefe of the village
+382	Main line 30 Village of the Montaña del Cumbre Salvaje_Shina 3
 383	Main line 31 Temple of the Titans_ amnestic albino
 384	Main line 32 Mountain Village of the Wild Summit_Captain of the Specters
-385	Main line 33 Villa of the Montaña del Cumbre Salvaje_Shina 6
-386	Main line 34 Villa of the Montaña del Cumbre Salvaje_aldeano
-387	Main line 35 Villa of the Montaña del Cumbre Salvaje_Bjorn
+385	Main line 33 Village of the Montaña del Cumbre Salvaje_Shina 6
+386	Main line 34 Village of the Montaña del Cumbre Salvaje_aldeano
+387	Main line 35 Village of the Montaña del Cumbre Salvaje_Bjorn
 388	Main line 36 Mountain Village of the Wild Summit amnestic albino 2
-389	Main line 34 Villa of the Montaña del Cumbre Salvaje_enano beggar
+389	Main line 34 Village of the Montaña del Cumbre Salvaje_enano beggar
 390	Main line 38 entrance to the Camino del Olvido_Old World Underworld Soldier 2
 391	Main line 39 Mountain Village of the Cumbre Salvaje_Jamian 1
 392	Main line 40 Camino del Montaña del Cumbre Salvaje_Seika 2
 393	Main line 141 Mountain Village of the Cumbre Salvaje_Seika 4
-394	Main line 42 Villa de la Montaña del Cumbre Salvaje_Santiago
-395	Main line 43 Villa of the Montaña del Cumbre Salvaje_Eudora 13
+394	Main line 42 Village de la Montaña del Cumbre Salvaje_Santiago
+395	Main line 43 Village of the Montaña del Cumbre Salvaje_Eudora 13
 396	Main line 44 Camino de la Montaña del Cumbre Salvaje_Eudora 15
-397	Main line 45 Villa of the Montaña del Cumbre Salvaje_Ilusión de Cumelos 2
+397	Main line 45 Village of the Montaña del Cumbre Salvaje_Ilusión de Cumelos 2
 398	Main line 46 Mountain Village of the Wild Summit_Aldebaran 2
 399	Main line 47 Camino del Montaña del Cumbre Salvaje_Aiolia 1
 400	Main line 48 Mountain Road of the Cumbre Salvaje_Shaka
@@ -520,8 +520,8 @@
 519	Grand Master
 520	Girl without Memory
 521	Girl without Memory
-522	Chief [Villa]
-523	Chief [Villa]
+522	Chief [Village]
+523	Chief [Village]
 524	Bjorn
 525	Shaka
 526	Virgo
@@ -603,14 +603,14 @@
 602	Apprentice
 603	Aiolia
 604	Leo
-605	Chief [Villa]
+605	Chief [Village]
 606	Aiolia
 607	Leo
 608	Captain of the Underworld
 609	Bjorn
 610	Old Beggar
 611	Girl without Memory
-612	Chief [Villa]
+612	Chief [Village]
 613	Jamian
 614	Raven
 615	Jamian
@@ -621,7 +621,7 @@
 620	Apprentice
 621	Eudora
 622	Apprentice
-623	Chief [Villa]
+623	Chief [Village]
 624	Bjorn
 625	Girl without Memory
 626	Guard of the Twelve Houses
@@ -665,9 +665,9 @@
 664	Underworld Soldier
 665	Underworld Soldier
 666	Underworld Soldier
-667	Armor of the King of the Underworld
+667	Armor of Hades
 668	Claude
-669	Guardian of the Villa of Rodrio
+669	Guardian of the Village of Rodrio
 670	Claude
 671	Soldier of the Sanctuary
 672	Brave Soldier
@@ -675,7 +675,7 @@
 674	Soldier of the 1st Sign
 675	Orpheus
 676	Lira
-677	Chief [Villa]
+677	Chief [Village]
 678	Guard [Twelve Houses]
 679	Jabu
 680	Unicorn
@@ -729,10 +729,10 @@
 728	Taurus
 729	Shaka
 730	Virgo
-731	Guardian of the Villa of Rodrio
-732	Guardian of the Villa of Rodrio
-733	Guardian of the Villa of Rodrio
-734	Guardian of the Villa of Rodrio
+731	Guardian of the Village of Rodrio
+732	Guardian of the Village of Rodrio
+733	Guardian of the Village of Rodrio
+734	Guardian of the Village of Rodrio
 735	Created
 736	Created
 737	Militia Wound
@@ -757,7 +757,7 @@
 756	Cygnus
 757	Merchant
 758	Sportsman
-759	Illustrious
+759	Nobleman
 760	Collector
 761	Saori
 762	Official [Foundation]
@@ -811,7 +811,7 @@
 810	Seiya
 811	Tatsumi
 812	Sagittarius Armor Box
-813	Seiya Unconscious
+813	Unconscious Seiya
 814	Black Cygnus
 815	Black Cygnus
 816	Suzuna
@@ -830,7 +830,7 @@
 829	Ryoga
 830	Ryoga
 831	Ryoga
-832	Tianyi Unconscious
+832	Unconscious Tianyi
 833	Seiya
 834	Pegasus
 835	Tianyi
@@ -980,7 +980,7 @@
 979	Jabu Enraged
 980	Unicorn
 981	Old Eccentric
-982	Chief [Villa]
+982	Chief [Village]
 983	Bell
 984	Bell
 985	Nyx
@@ -1024,12 +1024,12 @@
 1023	Jabu
 1024	Unicorn
 1025	Jabel
-1026	Guard [Villa Tori]
+1026	Guard [Village Tori]
 1027	Ryoga
 1028	Children of the Stars orphanage
 1029	Children of the Stars orphanage
 1030	Boatman
-1031	Chief [Villa]
+1031	Chief [Village]
 1032	Li-Yun
 1033	Apprentice
 1034	Shunrei
@@ -1126,7 +1126,7 @@
 1125	Aries
 1126	Ali
 1127	Villager
-1128	Villager [Villa Dragon]
+1128	Villager [Village Dragon]
 1129	Shin Feng
 1130	Villager
 1131	Shunrei
@@ -1310,7 +1310,7 @@
 1309	Sirena
 1310	Tidis
 1311	Sirena
-1312	Gold Illusion
+1312	Gold Saint Illusion
 1313	Kanon
 1314	God of Sin
 1315	Sher Khan
@@ -1371,7 +1371,7 @@
 1370	D. Logistics
 1371	Colomba
 1372	Soldier of the Sanctuary
-1373	Chief [Villa]
+1373	Chief [Village]
 1374	Colomba
 1375	Colomba
 1376	Colomba
@@ -1404,9 +1404,9 @@
 1403	Exiled King
 1404	Augusta
 1405	Exiled King
-1406	Chief [Villa]
+1406	Chief [Village]
 1407	Illusion of the God of Destiny
-1408	Gold Illusion
+1408	Gold Saint Illusion
 1409	Sher Khan
 1410	Fugitive [Shrine]
 1411	Hyoga
@@ -1420,7 +1420,7 @@
 1419	Saori Kido
 1420	Kiki
 1421	Tatsumi Tokumaru
-1422	Gold Illusion
+1422	Gold Saint Illusion
 1423	Salatiel
 1424	Crazy
 1425	Dead Girl
@@ -1430,12 +1430,12 @@
 1429	Rondo
 1430	Rondo
 1431	Nereids
-1432	Villa del Olvido
-1433	Girl from the Villa del Olvido
+1432	Village del Olvido
+1433	Girl from the Village del Olvido
 1434	Leandro
 1435	Foreigners
 1436	Haina
-1437	Villa del Olvido
+1437	Village del Olvido
 1438	Lacan
 1439	Doctor
 1440	Igor
@@ -1772,7 +1772,7 @@
 1771	Hyoga
 1772	Cygnus
 1773	Berman
-1774	Villa de la Nieve
+1774	Village de la Nieve
 1775	Hyoga
 1776	Cygnus
 1777	Natassia Inconsicente
@@ -1973,12 +1973,12 @@
 1972	Siren
 1973	Guard of Nereo
 1974	Telos
-1975	Chief [Villa]
+1975	Chief [Village]
 1976	Suspicious Villager
 1977	Telos
-1978	Chief [Villa]
+1978	Chief [Village]
 1979	Telos
-1980	Head [Villa]
+1980	Head [Village]
 1981	Sacrifice
 1982	Little Mermaid
 1983	Little Mermaid
@@ -1995,7 +1995,7 @@
 1994	General Marine Horse
 1995	Shuya
 1996	Marina Ganancioso
-1997	Villagers of the Villa de Nereo Encadenados
+1997	Villagers of the Village de Nereo Encadenados
 1998	Shuya
 1999	Saori Kido
 2000	Sorento
@@ -2140,7 +2140,7 @@
 2139	Lily
 2140	Lily's grandmother
 2141	Kidnapped Child
-2142	Villager of the Villa de Nereus
+2142	Villager of the Village de Nereus
 2143	Old Whale
 2144	Merchant
 2145	Sentinel of Nereus
@@ -2201,7 +2201,7 @@
 2200	Hansel
 2201	Guard
 2202	Alcindor
-2203	Chief [Villa]
+2203	Chief [Village]
 2204	Captain of the Underworld
 2205	Underworld Soldier
 2206	June
@@ -2346,7 +2346,7 @@
 2345	Sentinel
 2346	Giant Rock
 2347	Hawkins
-2348	Chief [Villa]
+2348	Chief [Village]
 2349	Drake
 2350	Blacksmith
 2351	Bonus
@@ -2890,11 +2890,11 @@
 2889	Guard of Antenora
 2890	Soul of Aiolia
 2891	Leo
-2892	Villa del Olvido
+2892	Village del Olvido
 2893	Alma
-2894	Villa del Olvido
+2894	Village del Olvido
 2895	Alma
-2896	Villa del Olvido
+2896	Village del Olvido
 2897	Alma
 2898	Soul of Aiolia
 2899	Leo
@@ -3018,7 +3018,7 @@
 3017	Dragon
 3018	Shun
 3019	Andromeda
-3020	Main line 88 Villa de la Nieve_
+3020	Main line 88 Village de la Nieve_
 3021	Seiya
 3022	Apprentice
 3023	Seiya
@@ -3047,7 +3047,7 @@
 3046	Mausoleum guard
 3047	Martyr's Soul
 3048	Altar of Divinity
-3049	Gold illusion
+3049	Gold Saint Illusion
 3050	Seiya
 3051	Pegasus
 3052	Seiya
@@ -3075,12 +3075,12 @@
 3074	Ophiuchus
 3075	Seiya
 3076	Pegasus
-3077	Gold illusion
-3078	Gold illusion
-3079	Gold illusion
-3080	Illusion of gold
-3081	Gold illusion
-3082	Illusion of gold
+3077	Gold Saint Illusion
+3078	Gold Saint Illusion
+3079	Gold Saint Illusion
+3080	Gold Saint Illusion
+3081	Gold Saint Illusion
+3082	Gold Saint Illusion
 3083	Jamian
 3084	Raven
 3085	Tremi
@@ -3107,7 +3107,7 @@
 3106	Mysterious shadows
 3107	Mysterious Shadows
 3108	Mysterious Shadows
-3109	Gold illusion
+3109	Gold Saint Illusion
 3110	Resident
 3111	Indecisa Client
 3112	Young Seller [Crab]
@@ -3126,7 +3126,7 @@
 3125	Main line Dragon of the Sea_14_ Guard of the Tomb
 3126	Main line 15 Dragon of the Sea_Soul of the Martyrs
 3127	Soul of the Sea Dragon
-3128	Gold illusion
+3128	Gold Saint Illusion
 3129	Configuration to return to the point of the city
 3130	Traveler
 3131	Linda
@@ -3174,7 +3174,7 @@
 3173	Boatman
 3174	Guard
 3175	Bjorn
-3176	Chief [Villa]
+3176	Chief [Village]
 3177	Aiolia
 3178	Leo
 3179	Dying Recruit
@@ -3227,7 +3227,7 @@
 3226	Tatsumi Tokumaru
 3227	Mino
 3228	Empty Bag
-3229	Tianyi Unconscious
+3229	Unconscious Tianyi
 3230	Shunrei
 3231	Seiya
 3232	Pegasus
@@ -3403,7 +3403,7 @@
 3402	Teacher
 3403	Flight of the Dragon
 3404	Teacher
-3405	Villager [Villa Dragon]
+3405	Villager [Village Dragon]
 3406	Flight of the Dragon
 3407	Teacher
 3408	Prophet
@@ -3411,8 +3411,8 @@
 3410	Medic [Silver City]
 3411	Prophet
 3412	Prophet
-3413	Villa de Campana
-3414	Villa de Campana
+3413	Village de Campana
+3414	Village de Campana
 3415	Prophet
 3416	Guera Galatica_11 Ciudad de la Plata - after the doctor gathers medication
 3417	Marin
@@ -3430,7 +3430,7 @@
 3429	Friend of Yago
 3430	Friend of Yago
 3431	Yago
-3432	Gold Illusion
+3432	Gold Saint Illusion
 3433	Jaffet
 3434	Black Atmosphere
 3435	Black Beast
@@ -3454,7 +3454,7 @@
 3453	My dark side
 3454	Illusion of the great master
 3455	Elders
-3456	Villa of Xiao Ling
+3456	Village of Xiao Ling
 3457	Doctor
 3458	Cosmo Black
 3459	Galactic Tournament19 Virginia called strange
@@ -4326,7 +4326,7 @@
 4325	Shadow Transce.
 4326	Barrier
 4327	Aiolos
-4328	Tears Athena
+4328	Tears of Athena
 4329	Shun
 4330	Andromeda
 4331	Apprentice of the Island of the Queen Death
@@ -4413,9 +4413,9 @@
 4412	Seiya
 4413	Pegasus
 4414	Another point of view _ Point of birth
-4415	Gold Illusion
+4415	Gold Saint Illusion
 4416	Another point of view_ Resurrection point
-4417	Gold Illusion
+4417	Gold Saint Illusion
 4418	Captain of the Guard
 4419	Soldier of the Sanctuary
 4420	Orpheus
@@ -4423,18 +4423,18 @@
 4422	Euridice
 4423	Eudora
 4424	Another point of view _ Point of birth
-4425	Gold Illusion
-4426	Gold Illusion
-4427	Gold Illusion
-4428	Gold Illusion
-4429	Gold Illusion
+4425	Gold Saint Illusion
+4426	Gold Saint Illusion
+4427	Gold Saint Illusion
+4428	Gold Saint Illusion
+4429	Gold Saint Illusion
 4430	Another point of view_ Resurrection point
-4431	Gold Illusion
-4432	Gold Illusion
-4433	Gold Illusion
-4434	Gold Illusion
-4435	Gold Illusion
-4436	Gold Illusion
+4431	Gold Saint Illusion
+4432	Gold Saint Illusion
+4433	Gold Saint Illusion
+4434	Gold Saint Illusion
+4435	Gold Saint Illusion
+4436	Gold Saint Illusion
 4437	Shiryu
 4438	<Illusion of the ocean flower>
 4439	God of Death
@@ -5140,12 +5140,12 @@
 5139	Xue Lingyun
 5140	Artisans
 5141	Sale of materials of the Mansion Suelo
-5142	Sale of Materials of the Villa del Olvido
+5142	Sale of Materials of the Village del Olvido
 5143	Fujiwara in Genshin
 5144	Artisans
 5145	Katsushika Hokusai
 5146	Craftsman
-5147	Zoe
+5147	Zara
 5148	Army Administrator
 5149	Fire
 5150	Popularity Ambassador
@@ -5867,7 +5867,7 @@
 5866	<Road Cab.>
 5867	Vigilante
 5868	<Road Cab.>
-5869	Vigilante [Villa of the dead]
+5869	Vigilante [Village of the dead]
 5870	<Road Cab.>
 5871	Vigilante [Cast. of Hades]
 5872	<Road Cab.>
@@ -8915,7 +8915,7 @@
 8914	Chapter 2 main line Seika 1
 8915	Chapter 2 main line Seika 2
 8916	Chapter 2 main line Villager A
-8917	Chapter 2 main line Villa
+8917	Chapter 2 main line Village
 8918	Chapter 2 main line Santiago
 8919	Chapter 2 main line Bjorn
 8920	Chapter 2 main line Shaka
@@ -8963,7 +8963,7 @@
 8962	Snowman Invasion - Dark Ice Station
 8963	Invasion of the Snowman - Aurora in the Snow Camp
 8964	Snowman Invasion - Main Body Award
-8965	Invasion of the snowman - Villa de la Nieve
+8965	Invasion of the snowman - Village de la Nieve
 8966	Invasion of the snowman - diabolical reefs
 8967	Snowman Invasion - Forest of Darkness
 8968	01 Event of the Santuario_Camon
@@ -9003,7 +9003,7 @@
 9002	Invasion to the Underworld advanced level_horm of Poseidonia - western area
 9003	Invasion to the Underworld advanced level - Heart of the sea
 9004	Invasion to the Underworld advanced level - Surveillance Station of the Marinas
-9005	Invasion to the Underworld advanced level - Villa de Nereos
+9005	Invasion to the Underworld advanced level - Village de Nereos
 9006	Invasion to the Underworld advanced level - Coral Forest
 9007	Invasion to the Underworld advanced level - Castaway
 9008	Mission broadcast fight the boss
@@ -9121,7 +9121,7 @@
 9120	Main Realm 21 Marin on the way to escape 1
 9121	Main line 22 Marin on the way to escape 2
 9122	Main line 23 Seiya on the way to escape
-9123	Main line 24 ferryman of the Villa de los Principiantes
+9123	Main line 24 ferryman of the Village de los Principiantes
 9124	Shina arena main line
 9125	Main Realm 26 furious students
 9126	Tangle Instance Zone 06 Twins Illusion Award
@@ -9143,7 +9143,7 @@
 9142	Main Line 16 Celestial Star of the Fury - Seiya 1
 9143	Main Realm 17 Celestial Star of Fury
 9144	Main Realm 18 Celestial Star of the Fury - Almade the Knights
-9145	Main line 19 Celestial Star of the Fury - Illusion of Gold
+9145	Main line 19 Celestial Star of the Fury - Gold Saint Illusion
 9146	Main line 01 Dragon del Mar concession of Moya
 9147	Main line 02 Dragon of the Sea concession of the Nymph
 9148	Main line 03 Dragon del Mar concession of Ninfa
@@ -9220,21 +9220,21 @@
 9219	Main Realm 26 Main City_Eudora 11
 9220	Main Realm 27 Campamento_Shina 1
 9221	Main Realm 28 Mountain Village of the Cumbre Salvaje_Shaka
-9222	Main Realm 29 Villa of the Montaña del Cumbre Salvaje_jefe of the villa
-9223	Realm principal 30 Villa of the Mountain of the Cumbre Salvaje_Shina 3
+9222	Main Realm 29 Village of the Montaña del Cumbre Salvaje_jefe of the villa
+9223	Realm principal 30 Village of the Mountain of the Cumbre Salvaje_Shina 3
 9224	Main Realm 31 Temple of the Titans_ Amnestic Halibut
-9225	Main Realm 32 Villa of the Montaña del Cumbre Salvaje_Capitan de los Espectros
+9225	Main Realm 32 Village of the Montaña del Cumbre Salvaje_Capitan de los Espectros
 9226	Realm principal 33 Mountain Village of the Cumbre Salvaje_Shina 6
-9227	Main Realm 34 Villa of the Montaña del Cumbre Salvaje_aldeano
+9227	Main Realm 34 Village of the Montaña del Cumbre Salvaje_aldeano
 9228	Realm principal 35 Mountain Village of the Cumbre Salvaje_Bjorn
-9229	Main Realm 36 Villa of the Montaña del Cumbre Salvaje_ amnesiac aldeano 2
-9230	Main line 37 Villa of the mountain of the summit Salvaje_enano beggar
+9229	Main Realm 36 Village of the Montaña del Cumbre Salvaje_ amnesiac aldeano 2
+9230	Main line 37 Village of the mountain of the summit Salvaje_enano beggar
 9231	Main line 38 entrance to the Camino del Olvido_Old World Underworld Soldier 2
-9232	Main line 39 Villa of the Montaña del Cumbre Salvaje_Jamian 1
+9232	Main line 39 Village of the Montaña del Cumbre Salvaje_Jamian 1
 9233	Main line 40 Camino del Montaña del Cumbre Salvaje_Seika 2
-9234	Main line 141 Villa of the Montaña del Cumbre Salvaje_Seika 4
-9235	Main line 42 Villa de la Montaña del Cumbre Salvaje_Santiago
-9236	Main line 43 Villa of the Montaña del Cumbre Salvaje_Eudora 13
+9234	Main line 141 Village of the Montaña del Cumbre Salvaje_Seika 4
+9235	Main line 42 Village de la Montaña del Cumbre Salvaje_Santiago
+9236	Main line 43 Village of the Montaña del Cumbre Salvaje_Eudora 13
 9237	Main line 44 Camino de la Montaña del Cumbre Salvaje_Eudora 15
 9238	Main line 45 Camino de la Montaña del Cumbre Salvaje_Illusion of Twins 2
 9239	Main line 46 Camino del Montaña del Cumbre Salvaje_Aldebaran 2
@@ -9278,13 +9278,13 @@
 9277	26 Shaka priestly zone 1
 9278	27 Eudora entrance of the villa 5
 9279	25 Aiolia villa 4
-9280	29 Head of the Villa 1
+9280	29 Head of the Village 1
 9281	30 Aiolia is worth 5
 9282	31 Captain of the Underworld soldiers is worth
 9283	32 Bibisi villa 1
 9284	33 Old beggar temple
 9285	34 girl without valley memory 1
-9286	35 Head of Villa Village 2
+9286	35 Head of Village Village 2
 9287	36 Jamian temple 1
 9288	37 Jamian temple 2
 9289	38 Eudora temple 6
@@ -9307,18 +9307,18 @@
 9306	55 Aldebaran hill 2
 9307	56 Aiolia valley 9
 9308	57 Grand Master Temple 2
-9309	58 gold illusion 01
-9310	59 gold illusion 02
-9311	60 gold illusion 03
-9312	61 illusion of gold 04
-9313	62 illusion of gold 05
-9314	63 illusion of gold 06
-9315	64 gold illusion 07
-9316	65 illusion of gold 08
-9317	66 illusion of gold 09
-9318	67 illusion of gold 10
-9319	68 illusion of gold 11
-9320	69 illusion of gold 12
+9309	58 Gold Saint Illusion 01
+9310	59 Gold Saint Illusion 02
+9311	60 Gold Saint Illusion 03
+9312	61 Gold Saint Illusion 04
+9313	62 Gold Saint Illusion 05
+9314	63 Gold Saint Illusion 06
+9315	64 Gold Saint Illusion 07
+9316	65 Gold Saint Illusion 08
+9317	66 Gold Saint Illusion 09
+9318	67 Gold Saint Illusion 10
+9319	68 Gold Saint Illusion 11
+9320	69 Gold Saint Illusion 12
 9321	70 Elite troop of the priestly zone Sanctuary
 9322	71 girl without valley memory 5
 9323	72 valley spectra 1
@@ -9326,7 +9326,7 @@
 9325	74 valley spectra
 9326	54 Walk in Sawori
 9327	76 Warehouse Manager
-9328	77 Claude Villa de Rodrio
+9328	77 Claude Village de Rodrio
 9329	77 Petty Officer
 9330	78 Blacksmith
 9331	79 Bread vendor
@@ -9337,7 +9337,7 @@
 9336	zpersona misteriosode Andromeda moves
 9337	zShina of Andromeda is thrown into the river
 9338	zShina of Andromeda gets up
-9339	Nachi de Lobo de Fênix
+9339	Sirius Nazhi de Fênix
 9340	zpersona misteriosode Phoenix moves
 9341	zpersona misteriosode Phoenix gets up
 9342	zShina de Phoenix throws herself in the river
@@ -9395,21 +9395,21 @@
 9394	Secondary school 12 Floresta Aokigahara_Jabu injured
 9395	Secondary Realm 13 Floresta Aokigahara_ Jabu Explosion
 9396	Secondary Realm 14 Floresta Aokigahara_Sfinge
-9397	Secondary Realm 15 Villa de Campana_jefe de la villa
-9398	Secondary Realm 16 Villa de Campana_campana 1
-9399	Secondary line 17 Villa de Campana_campana 2
-9400	Secondary line 18 Villa de Campana_Nyx 1
-9401	Secondary line 19 Villa de Campana_Nyx 2
-9402	Secondary Realm 20 Villa de Campana_Nyx 3
-9403	Secondary Realm 21 Villa de Campana_Nyx 4
-9404	Secondary Realm 22 Villa de Campana_Ying
-9405	Secondary Realm 23 Villa de Campana_Kim
-9406	Secondary line 24 Villa de Campana_Ying 2
-9407	Secondary line 25 Villa de Campana_Kim 2
-9408	Secondary line 26 Villa de Campana_Ying 3
-9409	Secondary line 27 Villa de Campana_luciérnaga
-9410	Secondary line 28 Villa de Campana_Amir
-9411	Secondary line 29 Villa de Campana_Knucklerot
+9397	Secondary Realm 15 Village de Campana_jefe de la villa
+9398	Secondary Realm 16 Village de Campana_campana 1
+9399	Secondary line 17 Village de Campana_campana 2
+9400	Secondary line 18 Village de Campana_Nyx 1
+9401	Secondary line 19 Village de Campana_Nyx 2
+9402	Secondary Realm 20 Village de Campana_Nyx 3
+9403	Secondary Realm 21 Village de Campana_Nyx 4
+9404	Secondary Realm 22 Village de Campana_Ying
+9405	Secondary Realm 23 Village de Campana_Kim
+9406	Secondary line 24 Village de Campana_Ying 2
+9407	Secondary line 25 Village de Campana_Kim 2
+9408	Secondary line 26 Village de Campana_Ying 3
+9409	Secondary line 27 Village de Campana_luciérnaga
+9410	Secondary line 28 Village de Campana_Amir
+9411	Secondary line 29 Village de Campana_Knucklerot
 9412	Secondary line 30 Oshino_Aron farm
 9413	Secondary 31 Farm of Oshino_ mysterious lord
 9414	Secondary Line 32 Oshino Farm) _Albert
@@ -9424,31 +9424,31 @@
 9423	Secondary line 41 Sunset_sirena beach 2
 9424	Secondary line 42 Ciudad de la Plata_Caleb 1
 9425	Realm 44 Ciudad de la Plata_Jabu 4
-9426	Secondary line 45 Villa de Campana_Jabel
+9426	Secondary line 45 Village de Campana_Jabel
 9427	Secondary line Sunset beach Laxus 2
 9428	Galactic Tournament01_recepcionista
 9429	Main Realm 01 port boatman
-9430	Main line 02 Villa del Dragón Hidden village chief
-9431	Main Realm 03 Villa of the Hidden Dragon Li-yun
-9432	Main Realm 04 Villa of the Hidden Dragon Shunrei outside
-9433	Main Realm 05 Villa of the Hidden Dragon Dohko
-9434	Main Realm 06 Villa of the Hidden Dragon Shiryu 1
-9435	Main Realm 07 Villa of the Hidden Dragon Shiryu 2
-9436	Main Realm 08 Villa of the Hidden Dragon Shiryu
+9430	Main line 02 Village del Dragón Hidden village chief
+9431	Main Realm 03 Village of the Hidden Dragon Li-yun
+9432	Main Realm 04 Village of the Hidden Dragon Shunrei outside
+9433	Main Realm 05 Village of the Hidden Dragon Dohko
+9434	Main Realm 06 Village of the Hidden Dragon Shiryu 1
+9435	Main Realm 07 Village of the Hidden Dragon Shiryu 2
+9436	Main Realm 08 Village of the Hidden Dragon Shiryu
 9437	Main Realm 09 Dohko Rozan waterfall
 9438	Main Line 10 Shiryu waterfall of Rozan
 9439	Main line 11 Shunrei waterfall of Rozan 1
 9440	Main line 12 Shunrei waterfall of Rozan
 9441	Main line 13 Li-yun Bi Longtan
-9442	Main Realm 14 Shiryu entrance of the Villa del Bambú - outside
-9443	Main line 15 Ley-hu entrance of Villa del Bambú - outside
-9444	Main line 16 Shunrei entrance of the Villa del Bambú - outside
-9445	Main line 17 Li-yun hut of Villa del Bambú
-9446	Main line 18 Shunrei hut of Villa del Bambú
-9447	Main line 19 Shiryu hut of Villa del Bambú
-9448	Main line 20 Ley-hu hut of Villa del Bambú
-9449	Main line 21 apprentice of Rozan in Villa del Bambú
-9450	Main line 22 created from gold at Villa del Bambú
+9442	Main Realm 14 Shiryu entrance of the Village del Bambú - outside
+9443	Main line 15 Ley-hu entrance of Village del Bambú - outside
+9444	Main line 16 Shunrei entrance of the Village del Bambú - outside
+9445	Main line 17 Li-yun hut of Village del Bambú
+9446	Main line 18 Shunrei hut of Village del Bambú
+9447	Main line 19 Shiryu hut of Village del Bambú
+9448	Main line 20 Ley-hu hut of Village del Bambú
+9449	Main line 21 apprentice of Rozan in Village del Bambú
+9450	Main line 22 created from gold at Village del Bambú
 9451	Main line 23 apprentice of Rozan seriously injured
 9452	Realm principal 24 apprentice of Rozan Source Ling
 9453	Main line 25 Li-yun Ling source
@@ -9490,7 +9490,7 @@
 9489	Main line 61 villager of Rozan 2
 9490	Main line 62 villager of Rozan 3
 9491	Main Realm 63 Shunrei Temple
-9492	Main realm 64 entrance to the Villa Li-yun
+9492	Main realm 64 entrance to the Village Li-yun
 9493	Main Realm 65 Temple Li-yun
 9494	Realm main 66 apprentice Rozan unconscious
 9495	Main Realm 67 Shiryu fields
@@ -9499,9 +9499,9 @@
 9498	Main Realm 70 Shiryu waterfall of Rozan
 9499	Main line 71 Shiryu guard of Paradise
 9500	Main Realm 72 Dragon Summit guard
-9501	Main Realm 73 Shunrei Villa of the Hidden Dragon 1
-9502	Main Realm 74 Shunrei Villa of the Hidden Dragon 2
-9503	Main Realm 75 Shunrei Villa of the Hidden Dragon 3
+9501	Main Realm 73 Shunrei Village of the Hidden Dragon 1
+9502	Main Realm 74 Shunrei Village of the Hidden Dragon 2
+9503	Main Realm 75 Shunrei Village of the Hidden Dragon 3
 9504	Main line 76 fields child (th)
 9505	Main Realm 77 Li-yun Sneaky
 9506	Main Realm 78 Espion of the Sanctuary
@@ -9514,7 +9514,7 @@
 9513	Main realm Shiryu protects the Dragon - after
 9514	Sequence Instance Zone 01 semi-conscious zombie
 9515	Secondary line 01Abu running
-9516	Secondary line 01 Abu Villa of the Hidden Dragon
+9516	Secondary line 01 Abu Village of the Hidden Dragon
 9517	Secondary Realm 02 Kiki
 9518	Secondary Realm 02 Kiki running
 9519	Secondary Realm 03 Xiao Ling
@@ -9652,24 +9652,24 @@
 9651	Main Realm 25 Captain's Camp Captain
 9652	Realm main 26 camp of the Knights seller
 9653	Realm main 27 camp of the Colomba knights
-9654	Main Realm 28 Villa del olvido guard
-9655	Realm principal 29 Villa del olvido head of the village
-9656	Realm principal 30 Villa del olvido Colomba 1
-9657	Main Realm 31 Villa del olvido Colomba 2
-9658	Main Realm 32 Villa del olvido Colomba 3
-9659	Main Realm 33 Villa del olvido Pan 1
+9654	Main Realm 28 Village del olvido guard
+9655	Realm principal 29 Village del olvido head of the village
+9656	Realm principal 30 Village del olvido Colomba 1
+9657	Main Realm 31 Village del olvido Colomba 2
+9658	Main Realm 32 Village del olvido Colomba 3
+9659	Main Realm 33 Village del olvido Pan 1
 9660	Main Realm 34 Village of Oblivion Pan 2
 9661	Main Realm 34 Village of Oblivion Pan 3
 9662	Main Realm 36A villa del olvido villager A
 9663	Main Realm 36B villa del olvido villager B
-9664	Main Realm 36 Villa of Forgetfulness Leo
+9664	Main Realm 36 Village of Forgetfulness Leo
 9665	Main Realm 37 Cliff of the Red Stone Sher Khan
 9666	Main Realm 38 Cliff of the Red Stone destination of the goddess
-9667	Main Realm 39 Villa del olvido Augusta
-9668	Main Realm 40A Villa del olvido captain
-9669	Main Realm 40 Villa del olvido captain
+9667	Main Realm 39 Village del olvido Augusta
+9668	Main Realm 40A Village del olvido captain
+9669	Main Realm 40 Village del olvido captain
 9670	Main Realm 41A Village of Forgetfulness Sher Khan
-9671	Main Realm 41 Villa del olvido vendor
+9671	Main Realm 41 Village del olvido vendor
 9672	Main Realm 42 Passage forgotten Augusta 1
 9673	Main Realm 43 Passage forgotten Augusta 2
 9674	Main Realm 44 Secret Passage of Oblivion head of the village
@@ -9680,7 +9680,7 @@
 9679	Main Realm Camino del Olvido Saori
 9680	Main Realm Way of Oblivion Kiki
 9681	Main Realm Way of Oblivion Tatsumi Tokumaru
-9682	Main Realm Camino del Olvido Illusion of Gold 2
+9682	Main Realm Camino del Olvido Gold Saint Illusion 2
 9683	Tangle instance zone 02 Aioros leak
 9684	Zone of entanglement_portal instance of teleportation to the boss Gemini
 9685	Tangle instance zone_the corpse of the Grand Master
@@ -9756,22 +9756,22 @@
 9755	Main Realm 87 Demon Reef_ Imprisoned Blue Ice Warrior
 9756	Realm Main 88 Reef of the Demon_Hyoga
 9757	Engaging Instance Zone 01_Hyoga do the mission
-9758	Secondary Realm 01 Villa de los Celtas_Jonas 1
-9759	Secondary Realm 02 Villa de los Celtas_Jonas 2
+9758	Secondary Realm 01 Village de los Celtas_Jonas 1
+9759	Secondary Realm 02 Village de los Celtas_Jonas 2
 9760	Secondary Realm 03 Camp de entreno_Hyoga 1
 9761	Secondary Realm 04 Camp de entreno_Hyoga 2
 9762	Secondary Realm 05 in the wreck_person mysterious1
 9763	Secondary Realm 06 Floresta de la oscuridad_person mysterious2
 9764	Secondary Realm 07 Demon Reef_person mysterious3
 9765	Secondary Realm 08 Eternal Ice Wall_Feien
-9766	Secondary Realm 09 Villa de la Nieve_Miya 1
-9767	Secondary Realm 10 Villa de la Nieve_André 1
-9768	Secondary Realm 11 Villa de la Nieve_André 1 2
-9769	Secondary school 12 Villa de la Nieve_André 1 3
+9766	Secondary Realm 09 Village de la Nieve_Miya 1
+9767	Secondary Realm 10 Village de la Nieve_André 1
+9768	Secondary Realm 11 Village de la Nieve_André 1 2
+9769	Secondary school 12 Village de la Nieve_André 1 3
 9770	Secondary Realm 13 Frozen Tower_Prudence 1
 9771	Secondary Realm 14 Torre Congelada_Sam 1
 9772	Secondary Realm 15 Torre Congelada_Paulo 1
-9773	Realm principal 16 Villa de la Nieve_Natasia 1
+9773	Realm principal 16 Village de la Nieve_Natasia 1
 9774	Secondary Realm 17 Torre Congelada_Nicholas 1
 9775	Secondary Realm 18 Torre Congelada_Nicholas 2
 9776	Secondary Realm 19 Frozen Tower_man of beautiful costumes
@@ -9818,8 +9818,8 @@
 9817	Secondary Realm 60 Dark Ice Station_guard with Ice Sword Blue
 9818	Secondary Realm 61 Dark Ice Station_ Dark Ice Soldier
 9819	Secondary school 62_Villa de los Celtas_ Vasili
-9820	Secondary Realm 63 Villa de los Celtas_child of the snow storm
-9821	Secondary Realm 64 Villa de los Celtas_child of the storm
+9820	Secondary Realm 63 Village de los Celtas_child of the snow storm
+9821	Secondary Realm 64 Village de los Celtas_child of the storm
 9822	Main Realm 102 Shuya convinces the player
 9823	Principal Realm 81 Seiya in front of the city wall concession
 9824	Main Realm add 01 Kiki before the instance zone
@@ -10184,15 +10184,15 @@
 10183	Point of return to the Underworld city - Dicasteron
 10184	Point of return to the city Underworld - Caína Room
 10185	Point of return to the city Inframundo - Pozo de los Muertos
-10186	Point of return to the city Villa of the beginners
+10186	Point of return to the city Village of the beginners
 10187	Point to return to the city Isla de la Reina Muerte - Ruins of Tawana
 10188	Point to return to the city Isla de la Reina Muerte - Sleeping Volcano
 10189	Point to return to the city Isla de la Reina Muerte - Playa del Deseo
-10190	Point to return to the city Isla de la Reina Muerte - Villa of the miners
-10191	Point to return to the city Camino del Olvido - Villa of the Exiles
+10190	Point to return to the city Isla de la Reina Muerte - Village of the miners
+10191	Point to return to the city Camino del Olvido - Village of the Exiles
 10192	Point to return to the city Camino del Olvido - Ocean of Poseidón
 10193	Point to return to the city Camino del Olvido - Mansion Suelo
-10194	Point to return to the city Camino del Olvido - Villa del Olvido
+10194	Point to return to the city Camino del Olvido - Village del Olvido
 10195	Realm principal_20_transference 3rd floor
 10196	Celestial Fury Realm Main 01_concession of the purple girl
 10197	Celestial fury Realm main 02_ Marin concession
@@ -10225,8 +10225,8 @@
 10224	Main Realm 24 Sea of ​​trees_Seiya's childhood
 10225	Main Realm 25 Sea of ​​trees_Seiya
 10226	Main Realm 27 Mar de arboles_Hyoga
-10227	Main Realm 28 Villa of Campana_Seiya
-10228	Main Realm 29 Villa de Campana_Hyoga
+10227	Main Realm 28 Village of Campana_Seiya
+10228	Main Realm 29 Village de Campana_Hyoga
 10229	Main Realm 32 Farm of Oshino_Hyoga
 10230	Principal Realm 33 Farm of Oshino_Shina
 10231	Main Realm 34 Cave of the Wind_Kiki
@@ -10426,10 +10426,10 @@
 10425	Rozan practice site 04_ Yunkai partner after challenge 2
 10426	Rozan local practice 05_ Yunkai partner before challenge 1
 10427	Rozan practice room 06_ Yunkai partner before challenge 2
-10428	Rozan 07 Villa del Bambú_Yunkai 3
+10428	Rozan 07 Village del Bambú_Yunkai 3
 10429	Rozan 08_Villa del Bambú_Ilusión de oro
 10430	Rozan 09_Cumbre del Reecuentro_Cima cloudy
-10431	Rozan 10 Villa del Bambú_respiración negra
+10431	Rozan 10 Village del Bambú_respiración negra
 10432	Rozan 11 Ruins of the Sanctuary__ Shadow of the Black Beast_before the defeat
 10433	Rozan 12 Ruins of the Sanctuary__ Shadow of the Black Beast_After the defeat
 10434	Galactic Tournament01 Ciudad de la Plata_citizen young
@@ -10446,8 +10446,8 @@
 10445	Galactic Tournament12 Floresta Aokigahara_my black side 1
 10446	Galactic Tournament13 Floresta Aokigahara_my black side 2
 10447	Galactic Tournament14 Floresta Aokigahara_ilusion of the Grand Master
-10448	Galactic Tournament15 Villa de Campana_anciano
-10449	Galactic Tournament16 Villa de Campana_Villa de la Campanita
+10448	Galactic Tournament15 Village de Campana_anciano
+10449	Galactic Tournament16 Village de Campana_Villa de la Campanita
 10450	Galactic Tournament17 Ciudad de la Plata_medical
 10451	Galactic Tournament18 Floresta Aokigahara_cosmos black mysterious
 10452	Sanctuary_01 teacher of the Lost Forest
@@ -10455,8 +10455,8 @@
 10454	Sanctuary_03 Main city Marin
 10455	Sanctuary_04 Floresta Lost after competing with the master
 10456	Rozan_01 Bi Longtan Jun
-10457	Rozan_02 Villa del Bambú Jun
-10458	Rozan_03 Yun depths of the Villa del Bambú
+10457	Rozan_02 Village del Bambú Jun
+10458	Rozan_03 Yun depths of the Village del Bambú
 10459	Rozan_04 Reecuentro Summit down Jun
 10460	Rozan_05 Summit of the Reunion on Jun
 10461	Rozan_06 Cosmo of Jun
@@ -10471,7 +10471,7 @@
 10470	Rozan_15 illusion of the Mask of Death
 10471	Rozan_17 Master of the ruins of the Sanctuary
 10472	Rozan_17 master of the Hidden Dragon Village - final
-10473	Rozan_18 Villager [Villa del Dragon]
+10473	Rozan_18 Villager [Village del Dragon]
 10474	Galactic War_01 citizen of the City of La Plata
 10475	Galactic War_02 City of the silver master of the hut
 10476	Galactic War_03 City of silver - hut - unconscious prophet
@@ -10480,8 +10480,8 @@
 10479	Galactic War_06 City of silver - hut - prophet waking up
 10480	Galactic War_07 Forest of Aokigahara prophet
 10481	Galactic War_08 Aokigahara forest villager
-10482	Galactic War_09 Villa de Campana villager
-10483	Galactic War_10 Villa of Campana prophet
+10482	Galactic War_09 Village de Campana villager
+10483	Galactic War_10 Village of Campana prophet
 10484	Guera Galatica_11 Ciudad de la Plata - after the doctor gathers medication
 10485	Star - Mission released 12 Divine Houses II
 10486	Gemini monthly_service mission of monsters
@@ -11334,7 +11334,7 @@
 11333	Chapter 2 main line Seika 1
 11334	Chapter 2 main line Seika 2
 11335	Chapter 2 main line Villager A
-11336	Chapter 2 main line Villa
+11336	Chapter 2 main line Village
 11337	Chapter 2 main line Santiago
 11338	Chapter 2 main line Bjorn
 11339	Chapter 2 main line Shaka
@@ -11492,7 +11492,7 @@
 11491	Main line 16 Celestial Star of the Fury - Seiya 1
 11492	Main Realm 17 Celestial Star of the Fury
 11493	Principal Realm 18 Furia Celeste Star - Shina
-11494	Main line 19 Celestial Star of the Fury - Illusion of Gold
+11494	Main line 19 Celestial Star of the Fury - Gold Saint Illusion
 11495	Main Realm 20 Celestial Star of Fury - Shadow of Perdition 4
 11496	Realm Principal 21 Celestial Star of Fury - Shadow of Perdition 5
 11497	Main Realm 22 Celestial Star of Fury - Shadow of Perdition 6
@@ -11571,8 +11571,8 @@
 11570	Main Realm 26 Main City_Eudora 11
 11571	Main Realm 27 Campamento_Shina 1
 11572	Main Realm 28 Mountain Village of the Cumbre Salvaje_Shaka
-11573	Main Realm 29 Villa of the Montaña del Cumbre Salvaje_jefe of the villa
-11574	Main Realm 30 Villa of Mountain of the Cumbre Salvaje_Shina 3
+11573	Main Realm 29 Village of the Montaña del Cumbre Salvaje_jefe of the villa
+11574	Main Realm 30 Village of Mountain of the Cumbre Salvaje_Shina 3
 11575	Main Realm 31 Temple of the Titans_ amnestic albino
 11576	Realm Principal 32 Ridge Mountain Village Florestagem_Captain of the Spectra
 11577	Main Realm 33 Village of Mountain of the Wild Summit_Shina 6
@@ -11581,11 +11581,11 @@
 11580	Main Realm 36 Mountain Village of the Wild Summit amnestic albino 2
 11581	Main Realm 34 Mountain village of the Cumbre Salvaje_enano beggar
 11582	Main Realm 38 entrance of the Camino del Olvido_Soldade elite of the underworld
-11583	Main line 39 Villa of the Montaña del Cumbre Salvaje_Jamian 1
+11583	Main line 39 Village of the Montaña del Cumbre Salvaje_Jamian 1
 11584	Main line 40 Camino del Montaña del Cumbre Salvaje_Seika 2
 11585	Main line 141 Mountain Village of the Cumbre Salvaje_Seika 4
-11586	Main line 42 Villa of the Montaña del Cumbre Salvaje_Santiago
-11587	Main line 43 Villa of the Montaña del Cumbre Salvaje_Eudora 13
+11586	Main line 42 Village of the Montaña del Cumbre Salvaje_Santiago
+11587	Main line 43 Village of the Montaña del Cumbre Salvaje_Eudora 13
 11588	Main line 44 Camino de la Montaña del Cumbre Salvaje_Eudora 15
 11589	Main Realm 45 Mountain Village of the Wild Summit_Illusion of Gemini 2
 11590	Realm Principal 46 Mountain Village of the Cumbre Salvaje_Aldebrans 2
@@ -11630,13 +11630,13 @@
 11629	26 Shaka priestly zone 1
 11630	27 Eudora entrance of the villa 5
 11631	25 Aiolia villa 4
-11632	29 Head of the Villa 1
+11632	29 Head of the Village 1
 11633	30 Aiolia is worth 5
 11634	31 Captain of the Underworld soldiers is worth
 11635	32 Bibisi villa 1
 11636	33 Old beggar temple
 11637	34 girl without valley memory 1
-11638	35 Head of Villa Village 2
+11638	35 Head of Village Village 2
 11639	36 Jamian temple 1
 11640	37 Jamian temple 2
 11641	38 Eudora temple 6
@@ -11659,18 +11659,18 @@
 11658	55 Aldebaran hill 2
 11659	56 Aiolia valley 9
 11660	57 Grand Master Temple 2
-11661	58 gold illusion 01
-11662	59 illusion of gold 02
-11663	60 illusion of gold 03
-11664	61 illusion of gold 04
-11665	62 illusion of gold 05
-11666	63 illusion of gold 06
-11667	64 illusion of gold 07
-11668	65 illusion of gold 08
-11669	66 illusion of gold 09
-11670	67 illusion of gold 10
-11671	68 illusion of gold 11
-11672	69 illusion of gold 12
+11661	58 Gold Saint Illusion 01
+11662	59 Gold Saint Illusion 02
+11663	60 Gold Saint Illusion 03
+11664	61 Gold Saint Illusion 04
+11665	62 Gold Saint Illusion 05
+11666	63 Gold Saint Illusion 06
+11667	64 Gold Saint Illusion 07
+11668	65 Gold Saint Illusion 08
+11669	66 Gold Saint Illusion 09
+11670	67 Gold Saint Illusion 10
+11671	68 Gold Saint Illusion 11
+11672	69 Gold Saint Illusion 12
 11673	70 Elite troop of the priestly zone Sanctuary
 11674	71 girl without valley memory 5
 11675	72 valley spectra 1
@@ -11689,7 +11689,7 @@
 11688	zpersona misteriosode Andromeda moves
 11689	zShina of Andromeda throws herself in the river
 11690	Andromeda zShina gets up
-11691	Nachi de Lobo de Fênix
+11691	Sirius Nazhi de Fênix
 11692	zpersona misteriosode Phoenix moves
 11693	zpersona misteriosode Phoenix gets up
 11694	zShina de Phoenix throws herself in the river
@@ -11746,21 +11746,21 @@
 11745	Secondary school 12 Floresta Aokigahara_Jabu injured
 11746	Secondary Realm 13 Floresta Aokigahara_ Jabu Explosion
 11747	Secondary Realm 14 Floresta Aokigahara_Sfinge
-11748	Secondary Realm 15 Villa de Campana_jefe de la villa
-11749	Secondary Realm 16 Villa de Campana_campana 1
-11750	Secondary line 17 Villa de Campana_campana 2
-11751	Secondary line 18 Villa de Campana_Nyx 1
-11752	Secondary line 19 Villa de Campana_Nyx 2
-11753	Secondary Realm 20 Villa de Campana_Nyx 3
-11754	Secondary Realm 21 Villa de Campana_Nyx 4
-11755	Secondary Realm 22 Villa de Campana_Ying
-11756	Secondary Realm 23 Villa de Campana_Kim
-11757	Secondary line 24 Villa de Campana_Ying 2
-11758	Secondary line 25 Villa de Campana_Kim 2
-11759	Secondary line 26 Villa de Campana_Ying 3
-11760	Secondary line 27 Villa de Campana_luciérnaga
-11761	Secondary line 28 Villa de Campana_Amir
-11762	Secondary line 29 Villa de Campana_Knucklerot
+11748	Secondary Realm 15 Village de Campana_jefe de la villa
+11749	Secondary Realm 16 Village de Campana_campana 1
+11750	Secondary line 17 Village de Campana_campana 2
+11751	Secondary line 18 Village de Campana_Nyx 1
+11752	Secondary line 19 Village de Campana_Nyx 2
+11753	Secondary Realm 20 Village de Campana_Nyx 3
+11754	Secondary Realm 21 Village de Campana_Nyx 4
+11755	Secondary Realm 22 Village de Campana_Ying
+11756	Secondary Realm 23 Village de Campana_Kim
+11757	Secondary line 24 Village de Campana_Ying 2
+11758	Secondary line 25 Village de Campana_Kim 2
+11759	Secondary line 26 Village de Campana_Ying 3
+11760	Secondary line 27 Village de Campana_luciérnaga
+11761	Secondary line 28 Village de Campana_Amir
+11762	Secondary line 29 Village de Campana_Knucklerot
 11763	Secondary line 30 Oshino_Aron farm
 11764	Secondary 31 Farm of Oshino_ mysterious lord
 11765	Secondary line 32 Oshino farm) _Albert
@@ -11775,7 +11775,7 @@
 11774	Secondary line 41 Sunset_sirena beach 2
 11775	Secondary line 42 Ciudad de la Plata_Caleb 1
 11776	Secondary school 44 Ciudad de la plata_Jabu 4
-11777	Secondary line 45 Villa de Campana_Jabel
+11777	Secondary line 45 Village de Campana_Jabel
 11778	Secondary Realm 46 Pueblo del Sino_teleportador
 11779	Secondary school 47 Pueblo del Sino_Artesanos
 11780	Secondary school 48 Pueblo del Sino_farmaceuticos
@@ -11787,27 +11787,27 @@
 11786	Galactic Tournament01_recepcionista
 11787	Galactic Tournament01_Nachi final
 11788	Main Realm 01 port boatman
-11789	Main line 02 Villa del Dragón Hidden head of the villa
-11790	Main Realm 03 Villa of the Hidden Dragon Li-yun
-11791	Main Realm 04 Villa of the Hidden Dragon Shunrei outside
-11792	Main Realm 05 Villa of the Hidden Dragon Dohko
-11793	Main Realm 06 Villa of the Hidden Dragon Shiryu 1
-11794	Main Realm 07 Villa of the Hidden Dragon Shiryu 2
-11795	Main Realm 08 Villa of the Hidden Dragon Shiryu
+11789	Main line 02 Village del Dragón Hidden head of the villa
+11790	Main Realm 03 Village of the Hidden Dragon Li-yun
+11791	Main Realm 04 Village of the Hidden Dragon Shunrei outside
+11792	Main Realm 05 Village of the Hidden Dragon Dohko
+11793	Main Realm 06 Village of the Hidden Dragon Shiryu 1
+11794	Main Realm 07 Village of the Hidden Dragon Shiryu 2
+11795	Main Realm 08 Village of the Hidden Dragon Shiryu
 11796	Main Realm 09 Dohko Rozan waterfall
 11797	Main line 10 Shiryu waterfall of Rozan
 11798	Main line 11 Shunrei waterfall of Rozan 1
 11799	Main line 12 Shunrei Rozan waterfall
 11800	Main line 13 Li-yun Bi Longtan
-11801	Main Realm 14 Shiryu entrance to the Villa del Bambú - outside
-11802	Main line 15 Ley-hu entrance of the Villa del Bambú - outside
-11803	Main line 16 Shunrei entrance of the Villa del Bambú - outside
-11804	Main line 17 Li-yun hut of Villa del Bambú
-11805	Main line 18 Shunrei hut of Villa del Bambú
-11806	Main line 19 Shiryu hut of Villa del Bambú
-11807	Main line 20 Ley-hu hut of Villa del Bambú
-11808	Main line 21 apprentice Rozan in the Villa del Bambú
-11809	Main line 22 created from gold in Villa del Bambú
+11801	Main Realm 14 Shiryu entrance to the Village del Bambú - outside
+11802	Main line 15 Ley-hu entrance of the Village del Bambú - outside
+11803	Main line 16 Shunrei entrance of the Village del Bambú - outside
+11804	Main line 17 Li-yun hut of Village del Bambú
+11805	Main line 18 Shunrei hut of Village del Bambú
+11806	Main line 19 Shiryu hut of Village del Bambú
+11807	Main line 20 Ley-hu hut of Village del Bambú
+11808	Main line 21 apprentice Rozan in the Village del Bambú
+11809	Main line 22 created from gold in Village del Bambú
 11810	Main line 23 apprentice of Rozan seriously injured
 11811	Realm main 24 apprentice of Rozan Source Ling
 11812	Main line 25 Li-yun Ling source
@@ -11849,7 +11849,7 @@
 11848	Main line 61 villager of Rozan 2
 11849	Main line 62 villager of Rozan 3
 11850	Main Realm 63 Shunrei Temple
-11851	Main Realm 64 entrance to the Villa Li-yun
+11851	Main Realm 64 entrance to the Village Li-yun
 11852	Main Realm 65 Temple Li-yun
 11853	Realm principal 66 apprentice Rozan unconscious
 11854	Main Realm 67 Shiryu fields
@@ -11858,9 +11858,9 @@
 11857	​​Main Realm 70 Shiryu waterfall of Rozan
 11858	Main line 71 Shiryu guard of Paradise
 11859	Main Realm 72 Guard of the Dragon Summit
-11860	Main Realm 73 Shunrei Villa of the Hidden Dragon 1
-11861	Main Realm 74 Shunrei Villa of the Hidden Dragon 2
-11862	Main Realm 75 Shunrei Villa of the Hidden Dragon 3
+11860	Main Realm 73 Shunrei Village of the Hidden Dragon 1
+11861	Main Realm 74 Shunrei Village of the Hidden Dragon 2
+11862	Main Realm 75 Shunrei Village of the Hidden Dragon 3
 11863	Main line 76 fields child (th)
 11864	Main Realm 77 Li-yun Sneaky
 11865	Main Realm 78 Espion of the Sanctuary
@@ -11874,7 +11874,7 @@
 11873	Sequence Instance Zone 01 semi-conscious zombie
 11874	Tangle Instance Zone 02 Shunrei
 11875	Secondary line 01Abu running
-11876	Secondary line 01 Abu Villa of the Hidden Dragon
+11876	Secondary line 01 Abu Village of the Hidden Dragon
 11877	Secondary Realm 02 Kiki
 11878	Secondary Realm 02 Kiki running
 11879	Secondary Realm 03 Campanita
@@ -12017,24 +12017,24 @@
 12016	Main Realm 25 Captain's Camp Captain
 12017	Realm main 26 camp of the Knights seller
 12018	Main Realm 27 camp of the Colomba knights
-12019	Main Realm 28 Villa del olvido guard
-12020	Main Realm 29 Villa del olvido head of the village
-12021	Main Realm 30 Villa del olvido Colomba 1
-12022	Main Realm 31 Villa del olvido Colomba 2
-12023	Main Realm 32 Villa del olvido Colomba 3
-12024	Main Realm 33 Villa del olvido Pan 1
+12019	Main Realm 28 Village del olvido guard
+12020	Main Realm 29 Village del olvido head of the village
+12021	Main Realm 30 Village del olvido Colomba 1
+12022	Main Realm 31 Village del olvido Colomba 2
+12023	Main Realm 32 Village del olvido Colomba 3
+12024	Main Realm 33 Village del olvido Pan 1
 12025	Main Realm 34 Village of Oblivion Pan 2
 12026	Main Realm 34 Village of Oblivion Pan 3
 12027	Main Realm 36A villa del olvido villager A
 12028	Main Realm 36B villa del olvido villager B
-12029	Main Realm 36 Villa of Forgetfulness Leo
+12029	Main Realm 36 Village of Forgetfulness Leo
 12030	Main Realm 37 Cliff of the Red Stone Sher Khan
 12031	Main Realm 38 Cliff of the Red Stone destination of the goddess
-12032	Main Realm 39 Villa del olvido Augusta
-12033	Main Realm 40A Villa del olvido captain
-12034	Main Realm 40 Villa del olvido captain
+12032	Main Realm 39 Village del olvido Augusta
+12033	Main Realm 40A Village del olvido captain
+12034	Main Realm 40 Village del olvido captain
 12035	Main Realm 41A Village of Forgetfulness Sher Khan
-12036	Main Realm 41 Villa del olvido vendor
+12036	Main Realm 41 Village del olvido vendor
 12037	Main Realm 42 Passage forgotten Augusta 1
 12038	Main Realm 43 Passage forgotten Augusta 2
 12039	Main Realm 44 Secret Passage of Oblivion head of the village
@@ -12045,7 +12045,7 @@
 12044	Main Realm Camino del Olvido Saori
 12045	Main Realm Way of Oblivion Kiki
 12046	Main Realm Way of Oblivion Tatsumi Tokumaru
-12047	Main Realm Camino del Olvido Illusion of Gold 2
+12047	Main Realm Camino del Olvido Gold Saint Illusion 2
 12048	Instance zone 02 stone
 12049	Tangle instance zone 02 Aioros leak
 12050	Zona de instancia_zoombie that grants the mission
@@ -12134,22 +12134,22 @@
 12133	85 Realm main dark ice stall_Gallon 7 with missions
 12134	Main Realm 88 Demon_Hyoga Reef
 12135	Engaging instance zone 01_Hyoga do the mission
-12136	Secondary Realm 01 Villa de los Celtas_Jonas 1
-12137	Secondary Realm 02 Villa de los Celtas_Jonas 2
+12136	Secondary Realm 01 Village de los Celtas_Jonas 1
+12137	Secondary Realm 02 Village de los Celtas_Jonas 2
 12138	Secondary Realm 03 Camp de entreno_Hyoga 1
 12139	Secondary Realm 04 Camp de entreno_Hyoga 2
 12140	Secondary Realm 05 at the wreck_person mysterious1
 12141	Secondary Realm 06 Floresta de la oscuridad_person mysterious2
 12142	Secondary Realm 07 Demon Reef_person mysterious3
 12143	Secondary Realm 08 Ice Wall Eterna_Feien
-12144	Secondary Realm 09 Villa de la Nieve_Miya 1
-12145	Secondary Realm 10 Villa de la Nieve_André 1
-12146	Secondary Realm 11 Villa de la Nieve_André 1 2
-12147	Secondary Realm 12 Villa de la Nieve_André 1 3
+12144	Secondary Realm 09 Village de la Nieve_Miya 1
+12145	Secondary Realm 10 Village de la Nieve_André 1
+12146	Secondary Realm 11 Village de la Nieve_André 1 2
+12147	Secondary Realm 12 Village de la Nieve_André 1 3
 12148	Secondary Realm 13 Torre Congelada_Prudence 1
 12149	Secondary Realm 14 Torre Congelada_Sam 1
 12150	Secondary Realm 15 Torre Congelada_Paulo 1
-12151	Main Realm 16 Villa de la Nieve_Natasia 1
+12151	Main Realm 16 Village de la Nieve_Natasia 1
 12152	Secondary Realm 17 Torre Congelada_Nicholas 1
 12153	Secondary Realm 18 Frozen Tower_Nicholas 2
 12154	Secondary Realm 19 Frozen Tower_man of beautiful costumes
@@ -12630,8 +12630,8 @@
 12629	Main Realm 25 Sea of ​​trees_Seiya
 12630	Main Realm 26 Mar de arboles_Marin
 12631	Main Realm 27 Mar de arboles_Hyoga
-12632	Main Realm 28 Villa de Campana_Seiya
-12633	Main Realm 29 Villa de Campana_Hyoga
+12632	Main Realm 28 Village de Campana_Seiya
+12633	Main Realm 29 Village de Campana_Hyoga
 12634	Main Realm 30 Village of Sino_Shiryu
 12635	Main Realm 31 Village of Sino_Shun
 12636	Main Realm 32 Farm of Oshino_Hyoga
@@ -12756,10 +12756,10 @@
 12755	Rozan practice place 04_ Yunkai's mate after challenge 2
 12756	Rozan practice spot 05_ Yunkai's mate before challenge 1
 12757	Rozan practice site 06_ Yunkai partner before challenge 2
-12758	Rozan 07 Villa del Bambú_Yunkai 3
+12758	Rozan 07 Village del Bambú_Yunkai 3
 12759	Rozan 08_Villa del Bambú_Ilusión de oro
 12760	Rozan 09_Cumbre del Reecuentro_Cima cloudy
-12761	Rozan 10 Villa del Bambú_respiración negra
+12761	Rozan 10 Village del Bambú_respiración negra
 12762	Rozan 11 Ruins of the Sanctuary__ Shadow of the Black Beast_before the defeat
 12763	Rozan 12 ruins of the Sanctuary__Sombra de la bruta negra_ after the defeat
 12764	Galactic Tournament01 Ciudad de la Plata_young citizen
@@ -12776,8 +12776,8 @@
 12775	Galactic Tournament12 Floresta Aokigahara_my black side 1
 12776	Galactic Tournament13 Floresta Aokigahara_my black side 2
 12777	Galactic Tournament14 Floresta Aokigahara_ilusion of the Grand Master
-12778	Galactic Tournament15 Villa de Campana_anciano
-12779	Galactic Tournament16 Villa de Campana_Villa de la Campanita
+12778	Galactic Tournament15 Village de Campana_anciano
+12779	Galactic Tournament16 Village de Campana_Villa de la Campanita
 12780	Galactic Tournament17 Ciudad de la Plata_medical
 12781	Galactic Tournament18 Floresta Aokigahara_cosmos black mysterious
 12782	Sanctuary_01 teacher of the Lost Forest
@@ -12786,7 +12786,7 @@
 12785	Sanctuary_04 Floresta Perdida after competing with the master
 12786	Rozan_01 Bi Longtan Yunguang
 12787	Rozan_02 Bamboo Village Yunguang
-12788	Rozan_03 Yunguang depths of the Villa del Bambú
+12788	Rozan_03 Yunguang depths of the Village del Bambú
 12789	Rozan_04 Reecuentro Summit down Jun
 12790	Rozan_05 Summit of the Reencounter on Jun
 12791	Rozan_06 Cosmo of Jun
@@ -12801,7 +12801,7 @@
 12800	Rozan_15 illusion of the Mask of Death
 12801	Rozan_17 Master of the ruins of the Sanctuary
 12802	Rozan_17 master of the Hidden Dragon Village - final
-12803	Rozan_18 Villager [Villa del Dragon]
+12803	Rozan_18 Villager [Village del Dragon]
 12804	Galactic War_01 citizen of the City of La Plata
 12805	Galactic War_02 City of the silver master of the cabin
 12806	Galactic War_03 City of silver - hut - unconscious prophet
@@ -12810,8 +12810,8 @@
 12809	Galactic War_06 City of silver - hut - prophet waking up
 12810	Galactic War_07 Forest of Aokigahara prophet
 12811	Galactic War_08 Aokigahara forest villager
-12812	Galactic War_09 Villa de Campana villager
-12813	Galactic War_10 Villa de Campana prophet
+12812	Galactic War_09 Village de Campana villager
+12813	Galactic War_10 Village de Campana prophet
 12814	Galactic War_11 Galactic War after the doctor picks up medication
 12815	Escolta_completar dialog
 12816	Escort_event to complete the mission
@@ -13442,7 +13442,7 @@
 13441	Frozen warriors
 13442	Rescue
 13443	Fire off
-13444	Atear
+13444	Burn
 13445	Unconscious Sailor
 13446	Awakening
 13447	Cygnus's Armor
@@ -13897,7 +13897,7 @@
 13896	Flower of the Sacrifice
 13897	Picking up
 13898	Dry tree
-13899	Atear
+13899	Burn
 13900	Put
 13901	Eide cabin compartment
 13902	Search
@@ -13917,7 +13917,7 @@
 13916	Uncover
 13917	Uncover
 13918	Unconscious Guard
-13919	Getting naked
+13919	Changing clothes
 13920	Pegasus Armor Case
 13921	Upload
 13922	Cygnus Armor Box
@@ -13945,7 +13945,7 @@
 13944	Ivy
 13945	Spoon
 13946	Soul of Fire
-13947	Atear
+13947	Burn
 13948	Stone
 13949	Explore
 13950	Gold ring
@@ -13986,7 +13986,7 @@
 13985	Plucking
 13986	Rock of destiny
 13987	Change
-13988	Cube
+13988	Bucket
 13989	Keep
 13990	Pitcher
 13991	Catch water
@@ -14030,9 +14030,9 @@
 14029	Picking up
 14030	Pump
 14031	Acquire care
-14032	Grass to stop bleeding
+14032	Bloodless Grass
 14033	Picking up
-14034	Black ice wall
+14034	Dark Ice Wall
 14035	Condensing the Cosmo, breaking the wall of ice
 14036	Pegasus Armor
 14037	Keep
@@ -14042,12 +14042,12 @@
 14041	See the excavation
 14042	Awakening Seiya
 14043	Corpse
-14044	Atear
+14044	Burn
 14045	Space Distortion Camp
 14046	Destroy
-14047	Dream of the lily
+14047	Dream of the Lily
 14048	Collecting
-14049	Frost pump
+14049	Frost Bomb
 14050	Explode
 14051	Gina
 14052	Embrace and lift
@@ -14065,7 +14065,7 @@
 14064	Picking up
 14065	Small stones
 14066	Collect
-14067	Cube
+14067	Bucket
 14068	Keep
 14069	The big stones
 14070	Training notes
@@ -14158,7 +14158,7 @@
 14157	Destroying
 14158	Soul of the drowned
 14159	Picking up
-14160	Cube
+14160	Bucket
 14161	Collect
 14162	Destroying
 14163	Blood Fungus
@@ -14245,7 +14245,7 @@
 14244	Find
 14245	Eudora Ointment
 14246	Collect
-14247	Cube
+14247	Bucket
 14248	Collect
 14249	Embrace and lift
 14250	Petals of trees Equal rooms
@@ -15054,9 +15054,9 @@
 15053	Fainted Apprentice
 15054	Embrace and lift
 15055	Unconscious guard
-15056	Getting naked
+15056	Changing clothes
 15057	Dry tree
-15058	Atear
+15058	Burn
 15059	Stone
 15060	Rebuscar
 15061	Sacrificial Flower

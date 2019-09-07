@@ -387,7 +387,7 @@
 386	Siren of the Sanctuary
 387	Stone Siren of the Sanctuary
 388	Old Priest Helper of the Sanctuary
-389	Aging the Villa of the Elite Zone of the Sanctuary
+389	Aging the Village of the Elite Zone of the Sanctuary
 390	Elite Zone of the Sofia Shrine
 391	Knight's Tumulus Fairy
 392	Pegasus Knight's Tumulus
@@ -811,7 +811,7 @@
 810	Ophiuchus of the Underworld
 811	Alex
 812	Underworld Warrior
-813	Armor of the King of the Underworld
+813	Armor of Hades
 814	Eudora
 815	Eudora
 816	Apprentice
@@ -1019,7 +1019,7 @@
 1018	Unicorn
 1019	Security [Foundation]
 1020	Mystery Warrior
-1021	Suspicious person
+1021	Suspicious Person
 1022	Leader of the Black Knights
 1023	Black Army Guard
 1024	Black Phoenix
@@ -1088,10 +1088,10 @@
 1087	God of the Dream disappears Special Effect of Tactics
 1088	Seika
 1089	Rock
-1090	Wool
-1091	Cowboy
-1092	Wool
-1093	Cowboy
+1090	Lana
+1091	Wrangler
+1092	Lana
+1093	Wrangler
 1094	Seiya
 1095	Pegasus
 1096	Andromeda Black
@@ -1527,7 +1527,7 @@
 1526	Exiled King
 1527	Black Phoenix
 1528	Black Unicorn
-1529	Illusion of gold
+1529	Gold Saint Illusion
 1530	Gemini
 1531	Darío
 1532	Colomba
@@ -2227,7 +2227,7 @@
 2226	Underworld Reaper
 2227	Radamanthys
 2228	Wyvern
-2229	Criminous [Underworld]
+2229	Minion [Underworld]
 2230	Little Demon Walker
 2231	Souls Lamenting
 2232	Main Line 81 Cemetery of Peace XiaoQuiang Body Monster
@@ -2811,8 +2811,8 @@
 2810	Companion of Yago
 2811	Yago
 2812	Mysterious Satin Soldier
-2813	Illusion of gold
-2814	Gold illusion
+2813	Gold Saint Illusion
+2814	Gold Saint Illusion
 2815	Immortal Spirit
 2816	Demonic Spirit
 2817	Black Serpent
@@ -2843,7 +2843,7 @@
 2842	Hydra
 2843	Ian
 2844	My dark side
-2845	Villa by Xiao Ling
+2845	Village by Xiao Ling
 2846	False Apprentice
 2847	False Apprentice
 2848	Illusion of the God of the Dream
@@ -2877,7 +2877,7 @@
 2876	Flight of the Dragon
 2877	Teacher
 2878	Black Tracker Dress
-2879	Villager of the Villa de la Campana
+2879	Villager of the Village de la Campana
 2880	Faceless Golden Silhouette
 2881	Black Atmosphere
 2882	​​Black Shadow
@@ -6483,9 +6483,9 @@
 6482	Black Guide
 6483	Black Satin Soldier
 6484	Great Captain Black
-6485	Illusion of gold
-6486	Illusion of gold
-6487	Illusion of gold
+6485	Gold Saint Illusion
+6486	Gold Saint Illusion
+6487	Gold Saint Illusion
 6488	Birthplace
 6489	Great overcoming of the Illusion of Gemini
 6490	Aphrodite illusion
@@ -6517,13 +6517,13 @@
 6516	Underworld Soldier
 6517	Underworld Soldier
 6518	Underworld Soldier
-6519	Criminous [Underworld]
-6520	Criminous [Underworld]
-6521	Criminous [Underworld]
-6522	Criminous [Underworld]
+6519	Minion [Underworld]
+6520	Minion [Underworld]
+6521	Minion [Underworld]
+6522	Minion [Underworld]
 6523	Underworld Soldier
-6524	Criminoso [Underworld]
-6525	Black Fuegro
+6524	Minion [Underworld]
+6525	Black Fire
 6526	Serpent [Underworld]
 6527	Snake [Underworld]
 6528	King Serpent [Underworld]
@@ -6548,17 +6548,17 @@
 6547	Ice Pump
 6548	Your Illusion
 6549	Birthplace
-6550	Illusion of gold
-6551	Illusion of gold
-6552	Illusion of gold
-6553	Illusion of gold
-6554	Illusion of gold
-6555	Illusion of gold
-6556	Illusion of gold
-6557	Illusion of gold
-6558	Illusion of gold
-6559	Illusion of gold
-6560	Illusion of gold
+6550	Gold Saint Illusion
+6551	Gold Saint Illusion
+6552	Gold Saint Illusion
+6553	Gold Saint Illusion
+6554	Gold Saint Illusion
+6555	Gold Saint Illusion
+6556	Gold Saint Illusion
+6557	Gold Saint Illusion
+6558	Gold Saint Illusion
+6559	Gold Saint Illusion
+6560	Gold Saint Illusion
 6561	Great overcoming of the Illusion of Gemini
 6562	Gemini
 6563	Gemini
@@ -6584,11 +6584,11 @@
 6583	Place of Resuscitation
 6584	Your Illusion
 6585	Your Illusion
-6586	Illusion of Mask of Death
+6586	Mask of Death Illusion
 6587	Cancer
-6588	Illusion of Mask of Death
+6588	Mask of Death Illusion
 6589	Cancer
-6590	Illusion of Mask of Death
+6590	Mask of Death Illusion
 6591	Cancer
 6592	Dying with black gas
 6593	Camus illusion
@@ -6708,7 +6708,7 @@
 6707	Warrior of the Underworld
 6708	Warrior of the Crazy Underworld
 6709	Underworld Warden
-6710	Criminous [Underworld]
+6710	Minion [Underworld]
 6711	Warrior of the Crazy Underworld
 6712	Birthplace
 6713	Place of Resuscitation
@@ -7145,7 +7145,7 @@
 7144	Radamanthys
 7145	Wyvern
 7146	Shadow Saga
-7147	Nachi de Lobo
+7147	Sirius Nazhi
 7148	Oneros
 7149	God of the Dream
 7150	Poseidon
@@ -10160,8 +10160,8 @@
 10159	Barrel
 10160	The Pisces guard summoned
 10161	Monster Command
-10162	Daidalos Tortured
-10163	The Silver Knight Cefeu
+10162	Daidalos
+10163	Cepheus
 10164	Birthplace
 10165	Pisces Guard
 10166	Pisces Guard
@@ -11601,16 +11601,16 @@
 11600	Source of Experience
 11601	Brightness of the Force
 11602	Light of the Cosmo
-11603	Illusion of gold from the Magic Box
-11604	Illusion of gold from the Magic Box
-11605	Illusion of gold from the Magic Box
-11606	Illusion of gold from the Magic Box
-11607	Illusion of gold from the Magic Box
-11608	Illusion of gold from the Magic Box
+11603	Gold Saint Illusion from the Magic Box
+11604	Gold Saint Illusion from the Magic Box
+11605	Gold Saint Illusion from the Magic Box
+11606	Gold Saint Illusion from the Magic Box
+11607	Gold Saint Illusion from the Magic Box
+11608	Gold Saint Illusion from the Magic Box
 11609	New Sacred Urn of Capricorn's armor
-11610	Illusion of Gold from the Magic Box
-11611	Illusion of Gold from the Magic Box
-11612	Illusion of gold from the Magic Box
+11610	Gold Saint Illusion from the Magic Box
+11611	Gold Saint Illusion from the Magic Box
+11612	Gold Saint Illusion from the Magic Box
 11613	Spirit of fear
 11614	spirit of the disease
 11615	Fury of magic clothes

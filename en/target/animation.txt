@@ -44,7 +44,7 @@
 43	Sanctuary - The fire of the clock goes out_Capricorn
 44	Sanctuary - The fire of the clock goes out_Aquarius
 45	Sanctuary - The fire of the clock goes off_Piscis
-46	Sanctuary - Llamas in the Villa de Roderic
+46	Sanctuary - Llamas in the Village de Roderic
 47	Sanctuary - Found the fire .anm
 48	Sanctuary - The mystery of the blood of God Hades
 49	Sanctuary - Rumors thirteen years ago
@@ -157,9 +157,9 @@
 156	Regional Exhibition - Atlantis _ Poseidonia
 157	Three Leo Bows - Playing with fire
 158	Three Arcs of Leo - Surge Aiolia
-159	Event - Villa de Saori1
-160	Event - Villa de Saori2
-161	Event - Villa de Saori3
+159	Event - Village de Saori1
+160	Event - Village de Saori2
+161	Event - Village de Saori3
 162	Three Pisces Bows - Apparition of Aphrodite
 163	Tres arcos Libra - Suggestions Portal
 164	Three bows Libra - Surge Doko
@@ -197,8 +197,8 @@
 196	Two new Arcos - Tartaro _ Stage 3 presentation mechanism
 197	Two new Arches - Tartaro_Surge the shadow of the God of the Dream
 198	Pillars of the Seven Seas - Poseidon Surge
-199	Event - Q edition of the Villa de Saori 1
-200	Event - Q edition of the Villa de Saori 2
+199	Event - Q edition of the Village de Saori 1
+200	Event - Q edition of the Village de Saori 2
 201	Pillars of the Seven Seas - Broken Main Pillar
 202	Underworld and Twelve Houses - Invasion of the Underworld
 203	Underworld and Twelve Houses - The fate of battle
@@ -218,7 +218,7 @@
 217	History - The twelve gold houses _ The arrow of Saori
 218	History - The Twelve Houses of Gold _ The Resurrection of the Goddess
 219	The previous generation of the war
-220	Villa of beginners - Seiya VS Cassios
+220	Village of beginners - Seiya VS Cassios
 221	Beginners' Village - Seiya VS Shina
 222	Sanctuary - Orfeu vs. Cerberus
 223	Coliseum Graad_ Ikki takes the armor
@@ -278,7 +278,7 @@
 277	I have come once again to the temple of Titan looking for clues
 278	Aiolia fell into an endless sleep
 279	Does the proud leo also have to lower his head?
-280	The Villa de Roderio is my home,
+280	The Village de Roderio is my home,
 281	I am willing to protect her with my life!
 282	--Eudora
 283	Young Brave!
@@ -295,7 +295,7 @@
 294	Battle The Twelve Houses!
 295	The strength of the Golden Knights is beyond my imagination
 296	The powerful blow of Aldebaran has sent me out of the Twelve Houses
-297	When I woke up, I was already in Villa Roderio
+297	When I woke up, I was already in Village Roderio
 298	Chapter 3 - Battle! Death and Dream!
 299	Then the girl in black is Pandora from the underworld
 300	She managed to get the Blood of Hades
@@ -314,7 +314,7 @@
 313	Quick! Find the lost relic of Sagittarius before Jamian returns!
 314	Protect the girl and take her back to the village, be careful not to let her stay too far away from you
 315	Entrance to the Coliseum Grand
-316	Nachi de Lobo was knocked out!
+316	Sirius Nazhi was knocked out!
 317	The Sagittarius Armor was carried away by Ikki
 318	The Galactic Tournament is interrupted.
 319	To recover the Sagittarius Armor, Seiya and Hyoga ran out!
