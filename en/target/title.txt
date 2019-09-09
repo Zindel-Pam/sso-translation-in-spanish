@@ -496,26 +496,26 @@
 495	Reached 11th-100th place in the Individual Activity Ranking of last week
 496	^a800ffFollower
 497	Reached 101st-200th place in the Individual Activity Ranking of last week
-498	^a800ff Divine Medal of the Epic Army
-499	Your Army won first place in the Ranking of Activity last week! \rWith that title, the Army Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
-500	First place in the Ranking of Army's Degree of Activity last week
-501	^a800ffMedal of the Legendário Army
-502	Your Army won second place in the Ranking of Activity last week! \r With that title, the Army Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
-503	Second place in the Ranking of Army's Degree of Activity last week
-504	^a800ffMedal of the Supreme Army
-505	His Army got the third place in the Ranking of Activity last week! \r With that title, the Army Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
-506	Third place in the Ranking of Army's Degree of Activity last week
-507	^a800ffMedal of the Grand Army
-508	Your Army got a good place in the Ranking of Activity last week! \r With that title, the Army Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Army! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
-509	4th to 10th place in the Ranking of Army's Degree of Activity last week
-510	^a800ffMedal of the Glorious Army
-511	11th to 20th place of the Ranking of Army's Degree of Activity last week
-512	^a800ffMedal of the Resplendent Army
-513	21st to 30th place in the Ranking of Army's Degree of Activity last week
-514	^a800ffMember of the Shining Army
-515	31st to 40th place in the Ranking of Army's Degree of Activity last week
-516	^a800ffMember of the Encouraging Army
-517	41st to 50th place in the Ranking of Army's Degree of Activity last week
+498	^a800ff Divine Medal of the Epic Guild
+499	Your Guild won first place in the Ranking of Activity last week! \rWith that title, the Guild Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+500	First place in the Ranking of Guild's Degree of Activity last week
+501	^a800ffMedal of the Legendário Guild
+502	Your Guild won second place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous rewards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+503	Second place in the Ranking of Guild's Degree of Activity last week
+504	^a800ffMedal of the Supreme Guild
+505	His Guild got the third place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+506	Third place in the Ranking of Guild's Degree of Activity last week
+507	^a800ffMedal of the Grand Guild
+508	Your Guild got a good place in the Ranking of Activity last week! \r With that title, the Guild Marshal can receive generous awards with the Base Administrator! In addition, you can invoke the Priestess of the Goddess to reward the members of the Guild! (The period for the withdrawal of the prize is from 0h this Tuesday until 11pm on Sunday The Priestess of the Goddess will remain 12h)
+509	4th to 10th place in the Ranking of Guild's Degree of Activity last week
+510	^a800ffMedal of the Glorious Guild
+511	11th to 20th place of the Ranking of Guild's Degree of Activity last week
+512	^a800ffMedal of the Resplendent Guild
+513	21st to 30th place in the Ranking of Guild's Degree of Activity last week
+514	^a800ffMember of the Shining Guild
+515	31st to 40th place in the Ranking of Guild's Degree of Activity last week
+516	^a800ffMember of the Encouraging Guild
+517	41st to 50th place in the Ranking of Guild's Degree of Activity last week
 518	^a800ff Silver Pioneer
 519	He who defeated the Resentful Spirit of Poseidon and initiated the Silver Age of the Holy War.
 520	In the World Event - participated in the Era of the Counter-attack of Poseidon, defeated the Resentful Spirit of Poseidon and initiated the Silver Age of the Holy War
@@ -802,101 +802,101 @@
 801	^14b427 Wanted
 802	4th-10th Place of the Fresh Flowers List.
 803	^5acbcc 【Fruit Prohibited】 · Multi-Server Competitor
-804	As elite of the Army 【Fruit Prohibido】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+804	As elite of the Guild 【Fruit Prohibido】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 805	Qualification to participate in the PK Multi-Server Competition of Armies
 806	^5acbccCol de los Solitarios · Multi-Server Competitor
-807	As the elite of the Clan of Solitaires Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+807	As the elite of the Clan of Solitaires Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 808	^5acbccCreation · Multi-Server Competitor
-809	As elite of the breeding Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+809	As elite of the breeding Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 810	^5acbcc 一 Temple of the Gods 一 · Multi-Server Competitor
-811	As the elite of the Temple of the Gods Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+811	As the elite of the Temple of the Gods Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 812	^5acbccCity of the Gods KOG · Multi-Server Competitor
-813	As the elite of the City of Gods KOG Army, he was qualified to participate in the PK Multiserver Armies Competition!
+813	As the elite of the City of Gods KOG Guild, he was qualified to participate in the PK Multiserver Armies Competition!
 814	^5acbccOnly Paradise · Multiserver Competitor
-815	As the elite of the Army Only Paradise, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+815	As the elite of the Guild Only Paradise, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 816	^5acbccWar Shadow Warfare · Multiserver Competitor
-817	As the elite of the Shadow War Alliance Army, he obtained the qualification to participate in the PK Multiserver Armies Competition!
+817	As the elite of the Shadow War Alliance Guild, he obtained the qualification to participate in the PK Multiserver Armies Competition!
 818	^5acbccCefeo, Dioses · Multi-Server Competitor
-819	As elite of the Army Cefeus, Gods, obtained the qualification to participate in the Multiserver PK Competition of Armies!
-820	^5acbccThe Army of the Gods · Multi-Server Competitor
-821	As the elite of the Army of the Gods, he obtained the qualification to participate in the PK Multi-Server Armies Competition!
+819	As elite of the Guild Cefeus, Gods, obtained the qualification to participate in the Multiserver PK Competition of Armies!
+820	^5acbccThe Guild of the Gods · Multi-Server Competitor
+821	As the elite of the Guild of the Gods, he obtained the qualification to participate in the PK Multi-Server Armies Competition!
 822	^5acbcc 【Emperador】 · Multi-Server Competitor
-823	As elite of the Army 【Emperor】, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+823	As elite of the Guild 【Emperor】, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 824	^5acbccMassage of the Duel · Multi-Server Competitor
-825	As the elite of the Duel Massacre Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+825	As the elite of the Duel Massacre Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 826	^5acbccSigo Mi Camino · Multi-Server Competitor
-827	As the elite of the Army I Follow My Path, obtained the qualification to participate in the PK Multiserver Competition of Armies!
+827	As the elite of the Guild I Follow My Path, obtained the qualification to participate in the PK Multiserver Competition of Armies!
 828	^5acbccSonríe, Despite Everything · Multi-Server Competitor
-829	As elite of the Army Smile, In spite of Everything, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+829	As elite of the Guild Smile, In spite of Everything, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 830	^5acbccCampaña Militar · Multi-Server Competitor
-831	As the elite of the Military Campaign Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+831	As the elite of the Military Campaign Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 832	^5acbccPantheon · Multi-Server Competitor
-833	As the elite of the Pantheon Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+833	As the elite of the Pantheon Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 834	^5acbccSpace of the Second Dimension · Multi-Server Competitor
-835	As elite of the Army Space of the Second Dimension, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
+835	As elite of the Guild Space of the Second Dimension, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
 836	^5acbcc Furiosas · Multiserver Competitor
-837	As elite of the Army Furious Waves, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
+837	As elite of the Guild Furious Waves, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
 838	^5acbccTeam that dares to Kill A ★ S · Multiserver Competitor
-839	As elite of the Army Team that dares to Kill A ★ S, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
+839	As elite of the Guild Team that dares to Kill A ★ S, it obtained the qualification to participate in the PK Multiserver Competition of Armies!
 840	^5acbccPico, Cumbre de la Montanha · Multi-Server Competitor
-841	As elite of the Pico Army, Cumbre de la Montanha, obtained the qualification to participate in the Multiserver PK Competition of Armies!
+841	As elite of the Pico Guild, Cumbre de la Montanha, obtained the qualification to participate in the Multiserver PK Competition of Armies!
 842	^5acbccBelleza Real · Multi-Server Competitor
-843	As elite of the Royal Beauty Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+843	As elite of the Royal Beauty Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 844	^5acbcc Entire Earth Law · Multiserver Competitor
-845	As the elite of the Army King of the whole Earth, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+845	As the elite of the Guild King of the whole Earth, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 846	^5acbccThe Top of the Forbidden City · Multi-Server Competitor
-847	As the elite of the Army The Top of the Forbidden City, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+847	As the elite of the Guild The Top of the Forbidden City, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 848	^5acbccIra of the Gods · Multi-Server Competitor
-849	As elite of the Army of the Gods Wrath, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+849	As elite of the Guild of the Gods Wrath, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 850	^5acbcc ★ 灬 Gloria 灬 ★ · Multiserver Competitor
-851	As elite of the Army ★ 灬 Gloria 灬 ★, she obtained the qualification to participate in the Multiserver PK Competition of Armies!
+851	As elite of the Guild ★ 灬 Gloria 灬 ★, she obtained the qualification to participate in the Multiserver PK Competition of Armies!
 852	^5acbccPamirs · Multi-Server Competitor
-853	As the elite of the Pamirs Army, he obtained the qualification to participate in the PK Multiserver Armies Competition!
+853	As the elite of the Pamirs Guild, he obtained the qualification to participate in the PK Multiserver Armies Competition!
 854	^5acbcc〓First Force〓 · Multiserver Competitor
-855	As elite of the Army 〓First Force〓, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+855	As elite of the Guild 〓First Force〓, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 856	^5acbcc [Temple of the Assassin of the Gods] Multi-Server Competitor
-857	As the elite of the Army [Temple of the Assassin of the Gods], he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+857	As the elite of the Guild [Temple of the Assassin of the Gods], he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 858	^5acbcc⑧Cero⑨Cero · Multiserver Competitor
-859	As elite of the Army ⑧Cero⑨Cero, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+859	As elite of the Guild ⑧Cero⑨Cero, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 860	^5acbccQue World · Multiserver Competitor
-861	As elite of the Army That World, it obtained the qualification to participate in the Multiserver PK Competition of Armies!
+861	As elite of the Guild That World, it obtained the qualification to participate in the Multiserver PK Competition of Armies!
 862	^5acbccDivers of the DM War · Multi-Server Competitor
-863	As elite of the God of War Army DM, he obtained the qualification to participate in the PK Multiserver Armies Competition!
+863	As elite of the God of War Guild DM, he obtained the qualification to participate in the PK Multiserver Armies Competition!
 864	^5acbccClub International · Multi-Server Competitor
-865	As the elite of the International Club Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
-866	^5acbcc Army Sacred Hall · Multi-Server Competitor
-867	As elite of the Sacred Hall Army, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+865	As the elite of the International Club Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+866	^5acbcc Guild Sacred Hall · Multi-Server Competitor
+867	As elite of the Sacred Hall Guild, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 868	^5acbccLolu of Eternal Life · Multiserver Competitor
-869	As the elite of the Lolu Army of Eternal Life, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+869	As the elite of the Lolu Guild of Eternal Life, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 870	^5acbccDomínio 灬 Oculto · Multi-Server Competitor
-871	As elite of the Army Domínio 灬 Oculto, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+871	As elite of the Guild Domínio 灬 Oculto, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 872	^5acbccMundo de la Matanza · Multi-Server Competitor
-873	As the elite of the World of Slaughter Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+873	As the elite of the World of Slaughter Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 874	^5acbcc 〖News Channel〗 · Multi-Server Competitor
-875	As elite of the Army 〖News Channel obtuvo, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+875	As elite of the Guild 〖News Channel obtuvo, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 876	^5acbcc 「Família Real」 · Multi-Server Competitor
-877	As elite of the Army 「Royal Family, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+877	As elite of the Guild 「Royal Family, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 878	^5acbccAmor Lost · Multi-Server Competitor
-879	As elite of the Lost Love Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+879	As elite of the Lost Love Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 880	^5acbccConstructions Smart · Multiserver Competitor
-881	As elite of the Construcciones Elegantes Army, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+881	As elite of the Construcciones Elegantes Guild, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 882	^5acbcc 灬 Smoke Signal 灬 · Multiserver Competitor
-883	As the elite of the Army 灬 Smoke Sign 灬, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+883	As the elite of the Guild 灬 Smoke Sign 灬, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 884	^5acbcc 灬 From Dream to Reality 灬 · Multi-Server Competitor
-885	As elite of the Army 灬 Of the Dream for the Reality 灬, obtained the qualification to participate in the PK Multiserver Competition of Armies!
+885	As elite of the Guild 灬 Of the Dream for the Reality 灬, obtained the qualification to participate in the PK Multiserver Competition of Armies!
 886	^5acbccBack 丶 Free · Multiserver Competitor
-887	As an elite of the Free Battle Army, he obtained the qualification to participate in the PK Multiserver of Armies Competition!
+887	As an elite of the Free Battle Guild, he obtained the qualification to participate in the PK Multiserver of Armies Competition!
 888	^5acbccCity of the Free Gods · Multi-Server Competitor
-889	As the elite of the City of the Free Gods Army, he obtained the qualification to participate in the PK Multiserver of Armies Competition!
+889	As the elite of the City of the Free Gods Guild, he obtained the qualification to participate in the PK Multiserver of Armies Competition!
 890	^5acbccPilots · Multi-Server Competitor
-891	As elite of the Pilots Army, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
+891	As elite of the Pilots Guild, he obtained the qualification to participate in the PK Multiserver Competition of Armies!
 892	^5acbcc 【Hide the Truth】 · Multi-Server Competitor
-893	As the elite of the Army 【Hide the Truth】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
+893	As the elite of the Guild 【Hide the Truth】, he obtained the qualification to participate in the Multiserver PK Competition of Armies!
 894	^5acbccYin, Leading Fashion · Multiserver Competitor
-895	As the elite of the Yin Army, Leading Fashion, was qualified to participate in the PK Multiserver Competition of Armies!
-896	^5acbccCompetition Multi-Server PK of Armies · Army Leader
-897	As the Leader of the Army Seeds of the PK Multiserver Competition of Armies, he obtained this title!
-898	As proof, you can receive entrance certification and distribute to Army members!
+895	As the elite of the Yin Guild, Leading Fashion, was qualified to participate in the PK Multiserver Competition of Armies!
+896	^5acbccCompetition Multi-Server PK of Armies · Guild Leader
+897	As the Leader of the Guild Seeds of the PK Multiserver Competition of Armies, he obtained this title!
+898	As proof, you can receive entrance certification and distribute to Guild members!
 899	^ff4ca4The God of Love Arrived
 900	During the Tanabata festival, get the first place in the Ranking of Fresh Flowers to have a magnificent and permanent title!
 901	^ff4ca4Yo and My Pets
@@ -1300,8 +1300,8 @@
 1299	2013 Cross-Service Championship
 1300	^ff6c002013 cross-service competition
 1301	2013 runner-up competition
-1302	^ff6c002013 cross-service hegemony season army
-1303	2013 cross-service hegemony season army
+1302	^ff6c002013 cross-service hegemony season Guild
+1303	2013 cross-service hegemony season Guild
 1304	^a800ff2013 cross-service competition top 10
 1305	2013 Cross-service competition top 10
 1306	^a800ff2013 cross-service competition 18
@@ -1442,12 +1442,12 @@
 1441	The reward of the hardworking teacher
 1442	^a800ff San Diego College Class Teacher
 1443	^a800ff Dean of Sanctuary College
-1444	^a800ff played in the 2014 Legion
+1444	^a800ff played in the 2014 Guild
 1445	Cross-service competition title
-1446	^a800ff8 strong! 2014 Legion Hegemony
-1447	^a800ff third place! 2014 Legion Hegemony
-1448	^a800ff runner! 2014 Legion Hegemony
-1449	^a800ff champion! 2014 Legion Hegemony
+1446	^a800ff8 strong! 2014 Guild Hegemony
+1447	^a800ff third place! 2014 Guild Hegemony
+1448	^a800ff runner! 2014 Guild Hegemony
+1449	^a800ff champion! 2014 Guild Hegemony
 1450	^a800ff King of the Pisces
 1451	Private custom exclusive special effects title
 1452	^a800ff life puppet thread
@@ -1556,7 +1556,7 @@
 1555	Galaxy Championship honorary title
 1556	^a800ff balance battlefield murderer
 1557	^a800ff walking in the air and not fighting God of War
-1558	^a800ff	I shed blood for the Legion
+1558	^a800ff	I shed blood for the Guild
 1559	^ff6c00 third place! Golden Soul Warrior
 1560	^ff6c00 runner! Gold Soul
 1561	^ff6c00 champion! King of the Golden Soul
@@ -1726,7 +1726,7 @@
 1725	^ffffff reputation
 1726	^ffffff society
 1727	^ffffff epic
-1728	^ffffff Legion
+1728	^ffffff Guild
 1729	^ffffffPVP
 1730	^ffffff activities
 1731	^ffffff Festival

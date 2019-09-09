@@ -29,14 +29,14 @@
 28	Capricorn task guide
 29	Aquarius task guide
 30	Pisces task guide
-31	Atticas Arena
+31	Attica Battlefield
 32	Add Friend
-33	Add army
+33	Join Guild
 34	Auction
 35	Auction successfully made
 36	Fit Store
 37	Time montage sound
-38	Army sound
+38	Guild Voice
 39	Combo Edit
 40	Stuffing amulet
 41	PVP in slow pace
@@ -58,23 +58,23 @@
 57	Fulfill the mission of merging the equipment with the Magic Box.
 58	Win title 21301
 59	Complete 1x the Kiki Questionnaire
-60	In ${dynamic_dir(55, "Day Programming")}, complete Kiki Quiz.
+60	In ${dynamic_dir(55, "Activities")}, complete Kiki Quiz.
 61	Complete 1x Crisis of the Twelve Houses
-62	In ${dynamic_dir(55, "Day Programming")}, complete Crisis of the Twelve Houses.
+62	In ${dynamic_dir(55, "Activities")}, complete Crisis of the Twelve Houses.
 63	Complete 1x Tempest Atlantis
-64	In ${dynamic_dir(55, "Day Programming")}, complete Tempest at Atlantis.
+64	In ${dynamic_dir(55, "Activities")}, complete Tempest at Atlantis.
 65	Complete 1x Ten Caves
-66	In ${dynamic_dir(55, "Day Programming")}, complete Ten Caves.
+66	In ${dynamic_dir(55, "Activities")}, complete Ten Caves.
 67	Be victorious in [Arena] Ruinas de Atica
-68	In ${dynamic_dir(55, "Day Programming")}, complete Attic Ruins.
+68	In ${dynamic_dir(55, "Activities")}, complete Attic Ruins.
 69	Complete 1x Exterminate Evil
-70	In ${dynamic_dir(55, "Day Programming")}, complete Eradicate Evil.
+70	In ${dynamic_dir(55, "Activities")}, complete Eradicate Evil.
 71	Participate in the Memories of the Holy War and see the Golden Armor
 72	After Lv 15, go to the Recommendations Interface in the Calendar and participate in [Instance] Memories of the Holy War and test the power of the Golden Armor
 73	Refine any Armor up to LV 2
 74	Use ${dynamic_dir(5, "Refine")} to refine any Armor to the LV2
-75	Create or participate in an Army
-76	Go to ${npc(14799)} to create or participate in an Army
+75	Create or join Guild
+76	Go to ${npc(14799)} to create join Guild
 77	Participate in the Duel Arena
 78	Go to the interface of the ${dynamic_dir(26, "Duel Arena")} and conquer 10 wins.
 79	Change Constellation 1x
@@ -111,9 +111,9 @@
 110	Buy 1x supplies
 111	Go to ${npc(11303)} and ${npc(17282)} to buy 50 Danish Bread and 50 HP Potions
 112	Complete 1x Knights of the Goddess
-113	In ${dynamic_dir(55, "Programming of the Day")}, complete Knights of the Goddess.
+113	In ${dynamic_dir(55, "Activities")}, complete Knights of the Goddess.
 114	Complete 1x Destiny Challenge
-115	In ${dynamic_dir(55, "Day Programming")}, complete Destination Challenge.
+115	In ${dynamic_dir(55, "Activities")}, complete Destination Challenge.
 116	Power reached 5000 and LV 25
 117	Orientations Achievements
 118	combat power of 9000 and 35
@@ -921,11 +921,11 @@
 920	Best Friend
 921	Get 1000 Friendship with a friend
 922	Worker
-923	Complete "Elegy of the Reborn" 1x with the Army
+923	Complete "Elegy of the Reborn" 1x with the Guild
 924	Talented Worker
-925	Complete "Elegy of the Reborn" 10x with the Army
+925	Complete "Elegy of the Reborn" 10x with the Guild
 926	Base Stone of the Raid
-927	Complete "Elegy of the Reborn" 50x with the Army
+927	Complete "Elegy of the Reborn" 50x with the Guild
 928	Work Without Stopping
 929	Complete "Elegy of the Reborn" for 5 days
 930	Famous Battle
@@ -997,7 +997,7 @@
 996	Adventure
 997	Community
 998	Relationship
-999	Army
+999	Guild
 1000	Ruins of Attica
 1001	Chaotic CdB
 1002	CdB of Lava
@@ -1005,47 +1005,47 @@
 1004	World
 1005	Festival
 1006	Rare Monster
-1007	Army Growth
-1008	Army Level
-1009	Army Number
-1010	Construction of the army corps
-1011	Mission Army Corps
-1012	Legion Building
-1013	Legion PVE
-1014	Legion Copy
+1007	Guild Growth
+1008	Guild Level
+1009	Guild Number
+1010	Construction of the Guild corps
+1011	Mission Guild Corps
+1012	Guild Building
+1013	Guild PVE
+1014	Guild Copy
 1015	Level 1
-1016	Level 1 Legion Level
+1016	Level 1 Guild Level
 1017	Level 2
-1018	Legion Level for Level 2
+1018	Guild Level for Level 2
 1019	Level 3
-1020	Level Legion reaches Level 3
+1020	Level Guild reaches Level 3
 1021	Ten public
-1022	Toll Legion reached 10 people
+1022	Toll Guild reached 10 people
 1023	Fifty people from
-1024	Toll Legion reached 50 people
+1024	Toll Guild reached 50 people
 1025	Public hundred
-1026	Toll Legion reached 100 people
+1026	Toll Guild reached 100 people
 1027	Daily: 5 times
-1028	Complete 5 times Daily Legion
+1028	Complete 5 times Daily Guild
 1029	Daily: 10 times
-1030	10 times a day to complete the Legion
+1030	10 times a day to complete the Guild
 1031	Chang Zhou: 5 times
-1032	Chang completed Legion Week 5
+1032	Chang completed Guild Week 5
 1033	Chang Zhou: 10 times
-1034	Many times 10 weeks to complete the Legion
+1034	Many times 10 weeks to complete the Guild
 1035	The main building: Level 1
-1036	Legion building to reach the main level 1
+1036	Guild building to reach the main level 1
 1037	The main building: Level 2
-1038	Legion building to reach the main level 2
+1038	Guild building to reach the main level 2
 1039	The main building: Level 3
-1040	Legion reach level 3 main building
-1041	Legion: Atlantis
-1042	Four or more members of the Legion team to complete a copy of Atlantis
-1043	Legion: Judgment of gold
-1044	Four or more members of the Legion team to complete a gold trial copy
-1045	Legion: defense cables
+1040	Guild reach level 3 main building
+1041	Guild: Atlantis
+1042	Four or more members of the Guild team to complete a copy of Atlantis
+1043	Guild: Judgment of gold
+1044	Four or more members of the Guild team to complete a gold trial copy
+1045	Guild: defense cables
 1046	Four or more team members to complete the defense cables 5th Corps
-1047	Legion: Memories of the Holy War
+1047	Guild: Memories of the Holy War
 1048	Four or more team members to complete the memories of the Holy War 5th Corps
 1049	Day (s)
 1050	Week
@@ -1063,7 +1063,7 @@
 1062	First add friends
 1063	First team
 1064	First update manually
-1065	First he entered the speech of the Legion
+1065	First he entered the speech of the Guild
 1066	Shaped transfer equipment, for the first time
 1067	First portable disembarkation
 1068	The first system to receive double experience
@@ -1139,8 +1139,8 @@
 1138	Identification number to obtain a set of illustrations
 1139	Won the achievement
 1140	Achievement score to achieve the value of X
-1141	Legion reaches the level
-1142	Reached an army corps number
+1141	Guild reaches the level
+1142	Reached Guild corps number
 1143	Reaching reputation
 1144	Complete the task
 1145	Kill the creature

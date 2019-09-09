@@ -33,30 +33,30 @@
 32	[Activities] Underworld invasion
 33	20 or above
 34	[Personal] Star Epic Discard
-35	[Army] bathing glory
+35	[Guild] bathing glory
 36	none
-37	[The Legion] The Elegy of the Resurrection
-38	Legion Base
-39	[The Legion] God's Prank
-40	[Army] Legion welfare
-41	[Legion] Time treasure box
+37	[The Guild] The Elegy of the Resurrection
+38	Guild Base
+39	[The Guild] God's Prank
+40	[Guild] Guild welfare
+41	[Guild] Time treasure box
 42	[Warcraft] fight for treasure chest
 43	illusion
 44	[Warland] marching into the illusion
 45	[Event] Heritage! Holy War memories
-46	[Equipment] Ten Wind Cave
+46	[Items] Ten Wind Cave
 47	Mount Fuji
 48	(2-6 people recommended full team)
-49	[Equipment] Heart of the shooter
+49	[Items] Heart of Sagittarius
 50	above 40
-51	[Equipment] Golden Zodiac (Beginning)
-52	[Equipment] Ice Temple
+51	[Items] Twelve Houses (Part I)
+52	[Items] Ice Temple
 53	level 70 or higher
-54	[Equipment] Seven Ocean Giants (front)
+54	[Items] Seven Ocean Giants (front)
 55	80 or above
-56	[Equipment] Seven Ocean Giants (after)
+56	[Items] Seven Ocean Giants (after)
 57	[Battlefield] Attica Ruins (Mysterious Man Edition)
-58	[Equipment] Killing Evil
+58	[Items] Killing Evil
 59	victory! The glory of the battlefield (abandoned)
 60	[Personal] Run! Little brother (lucky star)
 61	${npc(20091,1)}
@@ -71,7 +71,7 @@
 70	Shadow of Saga
 71	${npc(17447,4)}
 72	The Road to Forgotten
-73	Yin Yang
+73	Blazing Yin Yang
 74	${npc(17448,7)}
 75	Death Queen Island
 76	level 50 or higher
@@ -94,14 +94,14 @@
 93	20-100 level (^fffd44 can only get 59 rewards ^N)
 94	25-100 level (^fffd44 can only get 59 rewards ^N)
 95	45-100 level (^fffd44 can only get 59 rewards ^N)
-96	[Equipment] Golden Zodiac (continued)
-97	[Equipment] Golden Zodiac (final)
+96	[Items] Twelve Houses (Part II)
+97	[Items] Twelve Houses (Part III)
 98	level 55 or higher
-99	[Equipment] Golden Zodiac (Me)
+99	[Items] Golden Zodiac (Me)
 100	[Hero] the elegy of the goddess (front)
 101	90 or above
 102	[Hero] the elegy of the goddess (post)
-103	[Army] Legion Qualifying
+103	[Guild] Guild Qualifying
 104	[Personal] Run! Little brother
 105	[person] snowman grabs the pro (lucky star)
 106	[personal] snowman grabs relatives
@@ -112,11 +112,11 @@
 111	${jump(58)}
 112	[Festival] Dragon Boat Festival Musk
 113	[Festival] A Midsummer Night's Dream
-114	[Monthly] war! Cancer front line
-115	${pos(-366,327,130,1, 'The Land of the Stars')}
+114	[Event] war! Cancer front line
+115	${pos(-366,327,130,1,'The Land of the Stars')}
 116	stars of the land
 117	(4 or more people)
-118	[Monthly] Midsummer Carnival Day Drop Gift
+118	[Event] Midsummer Carnival Day Drop Gift
 119	anywhere, online
 120	[Battlefield] Abandoning Charge! Attica ruins
 121	[Month] Goddess of God
@@ -127,50 +127,50 @@
 126	[Battlefield] Chaos Battlefield Test
 127	[Activity] Fighters return
 128	[personal] Saints! The glory of the stars
-129	[Monthly] Fight! Lion's tooth decay
-130	${pos(-20,302,451,2, 'Rodrio Village')}
+129	[Event] Fight! Lion's tooth decay
+130	${pos(-20,302,451,2,'Rodrio Village')}
 131	(3 or more people)
-132	[Monthly] Tanabata! Zilong and Chunli
+132	[Event] Tanabata! Zilong and Chunli
 133	[Battlefield] Chaos Battlefield
 134	above 100
 135	[Battlefield] Chaos Battlefield 3v3 Test
 136	[personal] challenge! Saint's limit
-137	[Monthly] Halloween! Crazy pumpkin
+137	[Event] Halloween! Crazy pumpkin
 138	[Fantasy] trial illusion
-139	[Monthly] Awakening! Six roads in Shaka
-140	[monthly] carnival coins
-141	[monthly] Attacking Ssangyong
-142	[monthly] day drop treasure chest
-143	[Monthly] me and my friends
+139	[Event] Awakening! Six roads in Shaka
+140	[Event] carnival coins
+141	[Event] Attacking Ssangyong
+142	[Event] day drop treasure chest
+143	[Event] me and my friends
 144	[Festival] Mid-Autumn Festival! Oyster of osmanthus wine
 145	[Battlefield] abandoned occupation! Chaos battlefield
 146	close
-147	[Monthly] National Day! Dragon of the East
-148	[Monthly] "Happy National Day" collection
-149	[Monthly] Libra! Tong Hu's memories
-150	[monthly] Halloween! Carnival night
+147	[Event] National Day! Dragon of the East
+148	[Event] "Happy National Day" collection
+149	[Event] Libra! Tong Hu's memories
+150	[Event] Halloween! Carnival night
 151	[Event] Magic Halloween
-152	[Equipment] Battle! Flame of the dead bird
-153	[Equipment] Battle! Shooter's will
-154	[Equipment] Battle! Gold rebellion
-155	[Equipment] Battle! Goddess of wonder
+152	[Items] Battle! Flame of the dead bird
+153	[Items] Battle! Shooter's will
+154	[Items] Battle! Gold rebellion
+155	[Items] Battle! Goddess of wonder
 156	[Festival] Thanksgiving! Heavenly turkey
 157	[Month] Thanksgiving feast
 158	[activity] happy eggs
-159	[Monthly] breakthrough! Trial of Scorpio
-160	[monthly] gift! Gratitude
-161	[monthly] memories of those years
-162	[monthly] approaching! Shooter's crisis
-163	[Monthly] Christmas! Reunion night
+159	[Event] breakthrough! Trial of Scorpio
+160	[Event] gift! Gratitude
+161	[Event] memories of those years
+162	[Event] approaching! Shooter's crisis
+163	[Event] Christmas! Reunion night
 164	[Solo] attack! Golden zodiac
-165	[Monthly] heavy snow! Defend the Christmas tree
+165	[Event] heavy snow! Defend the Christmas tree
 166	(4 or more people)
 167	[Event] Mourning! Hell sonata
 168	[Event] Tianbao treasure chest
-169	[Monthly] Ice and Snow Carnival
-170	[monthly] Christmas tree fantasy
-171	[monthly] Double "egg" surprise
-172	[Monthly] Oath of resurrection
+169	[Event] Ice and Snow Carnival
+170	[Event] Christmas tree fantasy
+171	[Event] Double "egg" surprise
+172	[Event] Oath of resurrection
 173	Sanctuary - Aeoria
 174	${npc(38380,9)}
 175	Sea King-Gallon
@@ -202,7 +202,7 @@
 201	Guardian - Hades Idol
 202	${npc(38393,11)}
 203	[Activity] Incubation! Shadow Butterfly Nest
-204	[Monthly] Capricorn! Shura's Kendo
+204	[Event] Capricorn! Shura's Kendo
 205	60-100 level (^fffd44 can only get 89 rewards ^N)
 206	[Sports] Ares ruins (single match)
 207	${jump(86)}
@@ -210,30 +210,30 @@
 209	(1 person only)
 210	[Sports] Ares ruins (team match)
 211	(only for 5 team captains to register)
-212	[Army] critical! Goddess of mind
-213	[Monthly] Year of the Horse Treasure Cavalry
-214	[Monthly] Happy New Year collection
-215	[Monthly] Year of the Horse
-216	[Monthly] Year of the Horse Happy Commemorative Coin
-217	[monthly] sweet still Valentine's Day
-218	[monthly] horse galloping
-219	[Army] Gold Legion
+212	[Guild] critical! Goddess of mind
+213	[Event] Year of the Horse Treasure Cavalry
+214	[Event] Happy New Year collection
+215	[Event] Year of the Horse
+216	[Event] Year of the Horse Happy Commemorative Coin
+217	[Event] sweet still Valentine's Day
+218	[Event] horse galloping
+219	[Guild] Gold Guild
 220	[Activities] Underworld Invasion (Advanced)
 221	[Event] New Year! Immediately
 222	[Event] New Year!
-223	[monthly] water bottle! The strongest trick
-224	[Monthly] Pisces! Rose against magic flower
+223	[Event] water bottle! The strongest trick
+224	[Event] Pisces! Rose against magic flower
 225	[Event] Rebirth! Big battlefield myth
-226	[monthly] white Valentine's Day
+226	[Event] white Valentine's Day
 227	[Hero] Blue Ice Fort
 228	above 95
-229	[monthly] eternal love
+229	[Event] eternal love
 230	[battlefield] no difference battlefield 1v1 test
-231	[Monthly] Aries! Master and mentoring
-232	[monthly] those forgotten fighters
+231	[Event] Aries! Master and mentoring
+232	[Event] those forgotten fighters
 233	[copy] battle! Ice castle
 234	[copy] battle! Dark castle
-235	[Monthly] Gemini! Good and evil
+235	[Event] Gemini! Good and evil
 236	[Battlefield] Push the tower! Narrow teenager
 237	level 12 or higher
 238	[Battlefield] Zoom out! juvenile
@@ -243,53 +243,53 @@
 242	victory! The Road to the King (Abandoned)
 243	[Battlefield] Lava Battlefield
 244	[Battlefield] Flight 1
-245	[Monthly] Labor Day! Goddess of gratitude
+245	[Event] Labor Day! Goddess of gratitude
 246	[Activity] Countercurrent! Atlantis
 247	[Activity] Countercurrent! Zodiac crisis
 248	[activity] inheritance! Gold trial countercurrent
-249	[monthly] labor glorious
-250	[monthly] laborer's reward
+249	[Event] labor glorious
+250	[Event] laborer's reward
 251	[Battlefield] Sky Battlefield 3v3
 252	[Battlefield] Sky Battlefield
-253	Second Army Corps pk 3v3
-254	second legion pk 1v1
-255	[monthly] anniversary celebration! medal
-256	[monthly] anniversary celebration! Flying armor
+253	Second Guild Corps pk 3v3
+254	second Guild pk 1v1
+255	[Event] anniversary celebration! medal
+256	[Event] anniversary celebration! Flying armor
 257	[Mini-Game] Count the Birds!
 258	${jump(90)}
-259	[Monthly] anniversary celebration! Saint cloth
-260	[monthly] Cancer! Zombies are coming
-261	[monthly] bloody battle! Nordic chaos
-262	[monthly] bloody battle! Nordic chaos 1V1
-263	[Monthly] participate in the war! Nordic chaos
-264	[Monthly] Indulge in the summer - vitality
-265	[monthly] indulge in midsummer - a cool moment
-266	[Monthly] I am BOSS today.
-267	[monthly] showdown! I am BOSS
+259	[Event] anniversary celebration! Saint cloth
+260	[Event] Cancer! Zombies are coming
+261	[Event] bloody battle! Nordic chaos
+262	[Event] bloody battle! Nordic chaos 1V1
+263	[Event] participate in the war! Nordic chaos
+264	[Event] Indulge in the summer - vitality
+265	[Event] indulge in midsummer - a cool moment
+266	[Event] I am BOSS today.
+267	[Event] showdown! I am BOSS
 268	Demon battlefield! Monthly Lion 1v1 test
 269	​​[Event] Heritage! Gold trial dream
-270	[monthly] monthly golden week - brave adventure
+270	[Event] monthly golden week - brave adventure
 271	[Hero] Hades City
-272	[Army] broke! Gate of the underworld
+272	[Guild] broke! Gate of the underworld
 273	(12-36 people)
-274	[Army] String Flower! Town soul lament
-275	[Army] Go deep! Underworld Hell
-276	[The Legion] at the end? Ice hell
-277	[Army] sniper! The Big Three
-278	[Army] Gemini! Death and sleep
-279	[Army] marching! Counterattack underworld
+274	[Guild] String Flower! Town soul lament
+275	[Guild] Go deep! Underworld Hell
+276	[The Guild] at the end? Ice hell
+277	[Guild] sniper! The Big Three
+278	[Guild] Gemini! Death and sleep
+279	[Guild] marching! Counterattack underworld
 280	Rehabilitated version of the coupon time (not shown)
-281	[Monthly] Rebirth Carnival - Event Celebration
-282	[Monthly] Rebirth Carnival - Mid-Autumn Night
+281	[Event] Rebirth Carnival - Event Celebration
+282	[Event] Rebirth Carnival - Mid-Autumn Night
 283	[Festival] Mid-Autumn Festival! Step on the dead
-284	[monthly] Libra! Tong Hu to Shi Ang
+284	[Event] Libra! Tong Hu to Shi Ang
 285	[Personal] gift! Goddess Treasure
 286	${jump(55)}
 287	[Festival] National Day! Save Athena
 288	[Festival] National Day Seven Days
 289	[Festival] Thanksgiving! Goddess of grace
 290	[Festival] National Day Clown
-291	${npc(1000002,15, '15 line sanctuary')}
+291	${npc(1000002,15,'Realm 15')}
 292	[Festival] Halloween Party
 293	[Battlefield] The first Galaxy platform
 294	[Battlefield] Shooter! Aiming at golden apple
@@ -365,7 +365,7 @@
 364	[Battlefield] The 2nd Galaxy Overlord
 365	[Activities] Red Fog Event II: The Gap of Void
 366	[Hero] God Golden Zodiac II
-367	[monthly] lion! Meet like a dream
+367	[Event] lion! Meet like a dream
 368	[Activities] Red Fog Event III: Volcano Overture
 369	[Event] Daily Gifts
 370	[Event] Active reward
@@ -374,15 +374,15 @@
 373	[Festival] Fireworks! Flying dragon flag
 374	[Hero] God Golden Zodiac III
 375	[Event] Hard work! Steel warrior
-376	[Event] Login! God's reward (need to enter the legion base)
+376	[Event] Login! God's reward (need to enter the Guild base)
 377	[Activity] planting trees! Sanctuary
-378	[Event] Shining の Fashion
-379	[Event] Carnival の 者
+378	[Event] Shining Fashion
+379	[Event] Carnival
 380	[Event] Hard work
 381	[Hero] God Golden Zodiac IV
-382	experience or experience
-383	experience
-384	experience
+382	EXP/AEXP
+383	EXP
+384	EXP
 385	energy props
 386	star casting props
 387	equipment synthetic props
@@ -395,7 +395,7 @@
 394	Hope Insignia
 395	Battlefield reputation points
 396	Light of Faith
-397	Legion Contribution
+397	Guild Contribution
 398	^12ff005 point activity ^N
 399	^12ff0010 point activity ^N
 400	^12ff0020 point activity ^N
@@ -460,22 +460,22 @@
 459	Holy War memories
 460	Meteorological recalls 3 people can participate in the team, it is recommended to call some teammates. \r "The Guladu consortium used its superb technology and abundant financial resources to simulate the battle of the last holy war. The holy warriors can go back and experience the hard battles in the holy war."
 461	Saint Goddess of the Goddess
-462	The story of the various Saints is circulated in the world of Saints. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi. More than \r30 will receive time debris, which can be used to redeem rewards in the Legion Base.
+462	The story of the various Saints is circulated in the world of Saints. The heroes of glory will be respected by the world, and the evil forces will be watched by the world. In order to spread these stories widely, Teacher Chetian decided to create a new work from the collected story materials. \rTask: Single participation. After the \r60 level, you can use the sweeping card directly at the sweeping messenger Andyfi. More than \r30 will receive time debris, which can be used to redeem rewards in the Guild Base.
 463	Desire of fate
 464	Breaking through the self, the body of tempering has been the goal pursued by the fighters in the sanctuary since the myth. A girl named Lacesis recently appeared in the sanctuary, claiming that the fortune can be summoned by each of the fighters in the life. After hearing this rumor, the fighters in the Sanctuary became eager to try...\r Mission: 3 or more participants.
-465	Legion Daily: The Elegy of the Resurrection
-466	Activity time: The head of the army will open at the addendum once a day. After the opening, all the members will take the task at the place of Pafia. \r Level number: The level is not limited, it is recommended that the team be full. \rThe legion needs a legion base to open this event.
-467	Legion Zhou Chang: God's Prank
-468	Activity time: Opened by the head of the army, the deputy head or the head of the agency, once a week. After the event is opened, a powerful monster will appear in the Legion Base. \rNumber: The entire legion. \rThe legion needs a legion base to open this event.
+465	Guild Daily: The Elegy of the Resurrection
+466	Activity time: The head of the Guild will open at the addendum once a day. After the opening, all the members will take the task at the place of Pafia. \r Level number: The level is not limited, it is recommended that the team be full. \rThe Guild needs a Guild base to open this event.
+467	Guild Zhou Chang: God's Prank
+468	Activity time: Opened by the head of the Guild, the deputy head or the head of the agency, once a week. After the event is opened, a powerful monster will appear in the Guild Base. \rNumber: The entire Guild. \rThe Guild needs a Guild base to open this event.
 469	heritage! Gold trial
 470	fate rotation, gold trial! This activity includes "Pisces Trial", "Libra Trial" and "Lion Trial". Each time you choose a copy to play. \rThis activity rewards a large number of vouchers. If you are short of vouchers, please brush this!
 471	stars of the epic
 472	The Star Epic is a copy of the personal challenge that can be used to test the strength of the teenagers and count the results once a week. Constantly challenging more powerful enemies will also receive more generous rewards.
 473	storm! Atlantis
 474	Counts with the high-level event "The Abyss! The End of the Magic Star". \rstorm! The level of monsters in Atlantis is the average rank of the team members. It can only be taken once a day. It is recommended to have 6 people to participate. \r Background: The tsunami is frequent and the disaster is heavy. People are praying for the glory of the goddess to shine on the earth. The sanctuary needs you to investigate the truth of the tsunami and calm it down.
-475	Legion Benefits: The Gift of the Goddess
-476	In order to encourage the members of the Legion to make painstaking efforts in the construction of the Legion, the Legion will distribute benefits to the members of the Legion every Saturday night from 19:40 to 19:55. Members are invited to participate on time. \rThis activity requires a legion base to participate.
-477	The Legion will open the Legion Qualifying Tournament every Saturday night from 22:00 to 23:00, and members are invited to participate on time. \rThis activity requires a legion base to participate.
+475	Guild Benefits: The Gift of the Goddess
+476	In order to encourage the members of the Guild to make painstaking efforts in the construction of the Guild, the Guild will distribute benefits to the members of the Guild every Saturday night from 19:40 to 19:55. Members are invited to participate on time. \rThis activity requires a Guild base to participate.
+477	The Guild will open the Guild Qualifying Tournament every Saturday night from 22:00 to 23:00, and members are invited to participate on time. \rThis activity requires a Guild base to participate.
 478	Ten Wind Cave
 479	Ten Wind Cave can get up to 10 rewards per week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saints led the Dark Saints to the Galaxy Arena and captured the gold saint of Sagittarius! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
 480	Battlefield: Attica Ruins
@@ -484,15 +484,15 @@
 483	In order to welcome the awakening of Hades, the world is attributed to the eternal darkness and horror, and the four gods of the goddess of death are killed by the gods of Nadousus and the life of the sleeping gods. They look for the gladiators who have not yet awakened, and wake up the dark universe that they lurk in their dreams. For love and justice, for the light and peace of the earth, stop them, the young Saints! \r Everyday 10:00-23:59 points, in the illusion will be a lot of monsters, the difficulty is high, I hope to team up. \r 幻境1 enters the lowest level is 50 level\r 幻境2 enters the lowest level is 65 level ^e12500 Note: The map is PK without penalty area, I hope the player pays attention. ^N
 484	is open all day, and a lot of monsters will be brushed out in the illusion. It is recommended to enter the team. \r^e12500 Note: This map is a safe area. ^N
 485	On time: Every Saturday and Sunday from 16:30-17:00 pm. \rReceive the task from the event messenger card. \r The more you kill, the more rewards you get. It is recommended to team up.
-486	The Golden Zodiac (starting) drops up to 10 times a week and is more difficult. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Arudiba of Taurus and the mysterious Gemini Saints?
-487	Golden Zodiac (continued) Drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
-488	Golden Zodiac (final) drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Tonghu teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
+486	The Twelve Houses (Part I) drops up to 10 times a week and is more difficult. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Arudiba of Taurus and the mysterious Gemini Saints?
+487	Twelve Houses (Part II) Drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
+488	Twelve Houses (Part III) drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Tonghu teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
 489	Golden Zodiac (reminder) drops up to 10 times a week. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Capricorn Palace, Aquarius Palace and Pisces Palace. \r Capricorn's holy sword can cut off all tangible things; Aquarius's frozen gas and even molecular movements can freeze; Pisces' poisonous rose is the last barrier that cannot be crossed. Teenagers of love and justice, can you move on?
-490	The heart of the shooter drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save Athena in the middle of the battle, protect Sagittarius from the pursuit of Capricorn!
+490	The Heart of Sagittarius drops up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save Athena in the middle of the battle, protect Sagittarius from the pursuit of Capricorn!
 491	can only be completed 2 times a week. \r After receiving the task, the team is completed according to the task prompt, and a lot of rewards can be obtained after completion!
 492	can only be completed 2 times a week. \r After receiving the task, follow the task prompts and get a lot of rewards after completion!
-493	Collect 10 "Golden Mansions" to redeem a "key of time" in the Legion Base. \r Players with the "Key of Time" can open the "Time Box" that appears randomly in their own or other legion bases. \r "Time treasure box" contains gold coins!
-494	You can enter the bathing glory state by clicking the “Bathing Glory” skill in the basic skill bar. You will get a storage experience every 5 minutes. The storage experience is related to the combat power. \rYou can "bath glory" up to 8 hours a day, and you can get extra bonus bonus in the Legion base.
+493	Collect 10 "Golden Mansions" to redeem a "key of time" in the Guild Base. \r Players with the "Key of Time" can open the "Time Box" that appears randomly in their own or other Guild bases. \r "Time treasure box" contains gold coins!
+494	You can enter the bathing glory state by clicking the “Bathing Glory” skill in the basic skill bar. You will get a storage experience every 5 minutes. The storage experience is related to the combat power. \rYou can "bath glory" up to 8 hours a day, and you can get extra bonus bonus in the Guild base.
 495	Every Monday, Wednesday, Friday and Sunday (between 6 pm and 6 pm) will be blessed by lucky stars and appear in front of everyone! \r This event is only open in Sanctuary 1 and is held every 4 minutes! \rEveryone to guess who is the first to run racing!
 496	Time Travel - Go and find the time and space ambassador to show you the young yarn weaving! \rIf today's lucky star is directed at gluttony yarn, then complete the gluttony yarn to get the extra bonus of Lucky Star!
 497	Lucky Stars - Lucky Star will guide you to the Super Run or Gui Gui Dictionary, and you can get a reward for the lucky star guide! Come and join!
@@ -517,7 +517,7 @@
 516	Goddess gives each Saints a 105-point battle point every week. God's battle point can pick up this mission at the god warrior Andina. Every 3 points, the battle point can pick up the mission once. After completing the mission, you can get a lot. Reward, limited to 2 times a day, can not be received when the war is insufficient.
 517	When the night falls, it is the time when the power of the god O'Neill is the most prosperous. At the touch of a holy war, Athena needs to complete an important star prayer ceremony before the battle, and she will consume a lot of energy in the ceremony. \r turned into a golden warrior, reviving the physical strength of the goddess with the golden universe and the resonance of God, and prevented the dream god and his party feathers coming to attack.
 518	[Hero] Ten Winds Point requires more than 30 heroes to participate, you can press the "V key" to view the hero points, customs clearance [copy] seven ocean giant columns (front) and [copy] seven ocean giant columns (after) available Hero points, you can participate in up to 5 times a week, together with the [Hero] shooter heart, the difficulty is very high, I hope everyone is careful.
-519	[Hero] The heart of the shooter needs more than 30 points to participate in the hero. You can press the "V key" to view the hero points, and the customs clearance [copy] seven ocean giant columns (front) and [copy] seven ocean giant columns (after) can be obtained Hero points, you can participate in up to 5 times a week, and the [Heroes] ten wind points together count, the difficulty is very high, I hope you be careful.
+519	[Hero] The Heart of Sagittarius needs more than 30 points to participate in the hero. You can press the "V key" to view the hero points, and the customs clearance [copy] seven ocean giant columns (front) and [copy] seven ocean giant columns (after) can be obtained Hero points, you can participate in up to 5 times a week, and the [Heroes] ten wind points together count, the difficulty is very high, I hope you be careful.
 520	Take part in the break! The Avengers need to consume 2 counterattacks, and the remaining counterattacks can't participate if they are less than 2 times! In order to dominate the world, the evil spirits cooperated with the Hades Sea Emperor, entangled a group of fallen silver, conspiring to attack the sanctuary, Athena's fighters, and go to destroy the plot of the evil spirits!
 521	Get a lot of storage experience and 1 hour of "indelible oath" status every day, and get a lot of experience every 5 minutes online!
 522	Saints! The glory of the stars can only be completed once a week. After taking the mission, you can complete the mission by performing the epic challenge of Stars at Coyes. The higher the historical record level, the higher the experience reward!
@@ -560,14 +560,14 @@
 559	A large amount of storage experience and 1 hour of “resurrection vows” status can be obtained every day, and a lot of experience can be obtained every 5 minutes online.
 560	It is open daily from 12:00-14:00 and 20:00-22:00. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 89. \rHate! The level of monsters in the Butterfly Nest is the average level of the team members. Only one event can be taken each day. It is recommended that the group be 6 people to participate. \r Background: The mysterious underworld cannibal flower, the enchanting red rose spreads the whole audience, it seems to be hidden in danger, the five stone people carry out mysterious rituals, the passage of the underworld will open, for the peace of the earth, the holy of Athena The fighter must destroy the ceremony!
 561	The underworld forces are preparing to invade the sanctuary with the night, and the Saints who know the news immediately go to meet the underworld soldiers. When the Saints arrived, they were surprised to find that a familiar figure had been guarded there. The soul of the Capricorn Golden Saint Sebastian is still fighting for the bravery of defending the sanctuary...
-562	can only be completed once a week, and a group of 6 people can participate. \r Captain needs to carry items: the power of the city's yarn woven book, at the Tatsumi Kyuma, the team to take the task: the commission of the city's yarn weaving, and then can participate. \rNote: The power of attorney is mainly produced in the Legion, so joining an active legion can make it easier to participate in this event.
+562	can only be completed once a week, and a group of 6 people can participate. \r Captain needs to carry items: the power of the city's yarn woven book, at the Tatsumi Kyuma, the team to take the task: the commission of the city's yarn weaving, and then can participate. \rNote: The power of attorney is mainly produced in the Guild, so joining an active Guild can make it easier to participate in this event.
 563	Event deadline: March 3, 2014. \rOnline online to get an activity of 20 points, you can receive a "Ma Nian Treasure Map Fragment" at the Year of the Horse New Year Ambassador Zilong. \r Collection 1, 7, 20, 30 can be exchanged for the Spring Festival. (After February 10th, the exchange will be started, and the exchange will not consume debris. After March 3, the "Yamao Treasure Map Debris" can be used directly).
 564	Event deadline: February 18, 2014. \r During the event, players above level 20 can get the items "new", "year", "fast", "le", "blessing" and "fu" through personal activities "super run", "snowman grabs the pro", "magic bell daily". "heart". \rCollect 7 words to receive the New Year blessing mission with the New Year Ambassador (limited to 1 time). \rCollect the "new", "year", "fast" and "le" four words to receive the Happy New Year mission with the New Year Ambassador (one time per day).
 565	Event deadline: February 2, 2014. Players above level 20 can choose one of the two idioms in the "Immediately Money" and "Thinking" events with the New Year Ambassador. Two batches of lottery draws will be opened during the two redemption periods. Winning players get a big prize! Players who have not won and did not participate in the selection process will also receive a special reward!
 566	Event deadline: February 24, 2014. Players above level 20, during the event, can be in the "rebirth! Sanctuary of the soul of the sanctuary" "assembly! The zodiac crisis" "incubation! The butterfly nest" "the abyss! the end of the magic star" "mourn! Hell Sonata" In the "Storm! Atlantis" copy, kill the copy of the final BOSS, you can drop the New Year special props Year of the Horse Commemorative Coin. Accumulate a certain number of Year of the Horse Commemorative Coins and exchange special awards with the New Year Ambassador Seiya.
 567	Event time: February 11th - February 17th, 2014. \rEvery day, you can take the husband and wife team task "sweet and still" in the blink of an eye, and you can get 60 points of love reward after completion.
 568	Activity time: February 11th - February 24th, 2014. \rOnline players who have been offline for more than 7 days can get the cyan title "Zemao Pentium" and 14 items "New Year Summon Scroll" after going online. \rYou can get a lifetime mission with Seiya through the title "Ze Ma Pentium", rewarding 6 title packages "Running to Your Arms" and 7 "New Year Experience Powerful Volume", and 7 "Red Bags for You" props .
-569	The Spring Festival fell, and the underworld forces were rushing to attack the various Saints. The Athena learned of the news and sent 12 gold Saints and the Saints Army to defend the base. \r Enter the legion base, pick up the mission at Athena near the miracle, and resist the underworld forces in the battlefield in the center of the base map. You can also wear the gold sacs around Athena and use the power of the Golden Saints to fight. \r The activity time is 9:00-22:30 on Mondays, Wednesdays, Fridays and Sundays.
+569	The Spring Festival fell, and the underworld forces were rushing to attack the various Saints. The Athena learned of the news and sent 12 gold Saints and the Saints Guild to defend the base. \r Enter the Guild base, pick up the mission at Athena near the miracle, and resist the underworld forces in the battlefield in the center of the base map. You can also wear the gold sacs around Athena and use the power of the Golden Saints to fight. \r The activity time is 9:00-22:30 on Mondays, Wednesdays, Fridays and Sundays.
 570	New Year, He Xinchun! The New Year is just around the corner, and the sanctuary is filled with a peaceful atmosphere. With good wishes, everyone is looking forward to the new year! Hang lanterns, golden eggs, and celebrate each other with everyone! I wish you a good local tyrant, immediately handsome and handsome!
 571	Opening time: Every Saturday and Sunday from 16:30-17:00 pm. \rReceive the mission from the event messenger Zara. \r The more you kill, the more rewards you get. It is recommended to team up.
 572	test activity name 5
@@ -576,7 +576,7 @@
 575	Roses around the Pisces Palace are an important defensive barrier to the Golden Saint, just like Pisces Abrodi, not only beautiful but also deadly. But the forces of the underworld will never give up the invasion of the earth. This time, Hades sent the demon star Quinn and its devil flowers to the Pisces. The devil flower is constantly eroding the rose, trying to break the rose barrier of the Pisces Palace...
 576	Event time: May 22nd - May 28th, every night from 20:00 to 21:00. \r Every 10 minutes will randomly pop up the treasure chest in the game interface, click on the treasure chest to receive massive experience and mystery award! Only 2 minutes of pick-up time per pop-up, please don't miss it!
 577	The Big Fighting Field is a trial field made by Mr. Mu using his power. Only the really powerful Saints can pass the trial here.
-578All	the people who receive chocolates and flowers on Valentine's Day, please note that the day of response to love comes. On Valentine's Day, convey your love and gratitude to those who love you, and let the Saints defend the love of the earth. The world!
+578	All the people who receive chocolates and flowers on Valentine's Day, please note that the day of response to love comes. On Valentine's Day, convey your love and gratitude to those who love you, and let the Saints defend the love of the earth. The world!
 579	Aries Mu and his disciple are preparing a trial for the Saints, a solid crystal wall and a mischievous noble ghost, which is really a headache.
 580	Once, the warriors who fought for the justice and peace of the earth, whether they eventually became holy or not, deserve to be admired by all. On the occasion of the Ching Ming Festival, visit the forgotten fighters.
 581	In the mysterious alien space, justice and evil are spreading. A brave and just boy, go to the alien space to help Gemini dispel the evil in your heart and let justice last forever!
@@ -599,7 +599,7 @@
 598	End? Ice hell
 599	sniper! The Big Three
 600	Gemini! Death and sleep
-601	The holy warriors are following the Athena finger to introduce the military underworld! From 6:00 to 3:00 every day, the head of the army led the members to enter the underworld from the Guladu employees of the Galaxy Arena. There are a total of 7 levels in the underworld, which require 12-36 Saints to complete together. First of all, you must pass the "Breakthrough! The Gate of the Underworld", and then randomly open one of the 2nd to 7th levels at the Legion Base to complete the battle of these two stages to receive the victory fruit at the Legion Base.
+601	The holy warriors are following the Athena finger to introduce the military underworld! From 6:00 to 3:00 every day, the head of the Guild led the members to enter the underworld from the Guladu employees of the Galaxy Arena. There are a total of 7 levels in the underworld, which require 12-36 Saints to complete together. First of all, you must pass the "Breakthrough! The Gate of the Underworld", and then randomly open one of the 2nd to 7th levels at the Guild Base to complete the battle of these two stages to receive the victory fruit at the Guild Base.
 602	Dream God with a group of gladiators preparing to ambush in the sky battlefield sneak attack on the Saints is known to the rabbits who are preparing for the Mid-Autumn Festival, the rabbits informed the Saints, and prepared a newly developed secret moon cake for Saints, Saints They all became huge, and in addition, the rabbits also made some special candy, which is said to have a mysterious effect, ready to step on the flat warriors together!
 603	Time to return to the moment when Shiang and the gladiators broke into the twelfth house, helping Tong Hu to fight against the former comrades--the challenge of Aries, the same powerful Aries as the teacher. \rProbability gets "Libra to treasure pieces" Oh!
 604	Hades Hades took the goddess Athena away as the Saints celebrated the National Day. In order to save the goddess, the holy warriors embarked on the road to rescue Athena. When the people finally caught up with Hades, they found that Hades and the goddess Athena became another look.
@@ -624,8 +624,8 @@
 623	Pet trap
 624	Pet Reinforcement
 625	Pet Skill Book
-626	Legion Fund
-627	Legion supplies
+626	Guild Fund
+627	Guild supplies
 628	all day
 629	Double-click to select an event to view details.
 630	heteromorphic ceremony
@@ -714,7 +714,7 @@
 713	The Emperor of the Sea represents the grace and glory of the emperor Poseidon. At certain times of the day, the Emperor's Idol will appear in the Sanctuary 11. The high-level players of the Emperor's camp can be rewarded by defending the Emperor. \r Players in other camps can also attack the sea god statue and plunder the treasures of the sea emperor. The camp is full of power, the strong is the king!
 714	The statue of Hades represents the grace and glory of Hades. At certain times of the day, the Phantom Idol will appear in the Sanctuary 11. The high-level players in the Hades camp can be rewarded by defending the Phantom. \r Players in other camps can also attack the Hades idol and plunder the treasures of Hades. The camp is full of power, the strong is the king!
 715	A group of ice warriors occupied the Blue Ice Fort. Trying to confront Athena, let the earth ignite the war again. \r Loyal Saints, go to the blue ice castle, crush their attempts. \r Hero points can be participated when they reach 60 or above. You can drop up to 5 rewards per week, and count them with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
-716Hades	City is the position of the Gladiator on the ground, and it is also the entrance to the underworld. \rSaints rushed into Hades City and smashed Hades's minions to get through the path to save Athena in the underworld. \r Hero points can be participated when they reach 60 or above. You can drop up to 5 rewards per week, and count them with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
+716	Hades City is the position of the Gladiator on the ground, and it is also the entrance to the underworld. \rSaints rushed into Hades City and smashed Hades's minions to get through the path to save Athena in the underworld. \r Hero points can be participated when they reach 60 or above. You can drop up to 5 rewards per week, and count them with other heroes. The difficulty is high, it is recommended to complete the team and then go to participate. \r
 717	Players who have an activity level of 20 per day can receive a true love token from Ayros, the son of the god of love, and can exchange a variety of precious items with true love tokens.
 718	Open the cross-service team Arena single-person registration every day at a fixed time. Players can register personally. The system matches the team with the same strength and then cross-service 5v5 duel. One of the three competition modes will be randomly selected for PK. The game receives rewards to redeem premium prizes!
 719	Open the cross-service team arena team registration every day at a fixed time. After the player group has 5 teams, the captain clicks to sign up. After the system matches the team with the same strength, the cross-service 5v5 showdown will be randomly selected from the three match modes for PK, and the prize will be redeemed by winning the game to redeem the prize!
@@ -819,9 +819,9 @@
 818	Event time: From now until January 3, players can go online to find "Santa Claus" to pick up the mission, kill the monster in the "Siberian" scene, get the snowman component, and send the component to Santa Claus to get rewards.
 819	Activity time: From now until January 9th, players can go online to find "Santa Claus" to pick up the task.
 820	To thank the All Saints for their contribution to the Sanctuary. The goddess gave the seedlings of the tree of the future of mankind. As long as we can take care of and develop the tree of the future, the power of the tree of the future will cover the whole world, and everyone will have unexpected gains.
-821	Event time: From December 11th to December 25th, you can get 3 hours of “blessing and blessing” status at the Legion Base every day, and get rewards every 15 minutes online.
+821	Event time: From December 11th to December 25th, you can get 3 hours of “blessing and blessing” status at the Guild Base every day, and get rewards every 15 minutes online.
 822	During the event: As of February 6th, equipped with the "early morning call" headdress, you can find the master of the car field to receive the task daily (limited once a day)
-823	During the event: As of February 6th, you can enter the army to find the army's funds to get the task every day (limited once a day)
+823	During the event: As of February 6th, you can enter the Guild to find the Guild's funds to get the task every day (limited once a day)
 824	Activity time: From March 7th to March 20th, a copy of the “Crisis! Goddess Guards” activity of the corresponding level of daily customs clearance, can be activated as “March Fund Card”, which can be redeemed at “Chetian Master” reward
 825	Event time: At 6 o'clock on March 8th, at 6 o'clock on March 9th, you can receive holiday rewards at the "Car Tian Master" on the line.
 826	Event time: From January 16th to January 23rd, you can get the activity task at the "Car Tian Master" every day.
@@ -853,11 +853,11 @@
 852	level 68 or above (^fffd44 drop 60-75 level equipment ^N)
 853	90 or above (^fffd44 drop 89-99 equipment ^N)
 854	[personal] super run
-855	[monthly] goddess! Midsummer god pray
-856	[Monthly] Rebirth Carnival - Heavenly Treasure Chest
-857	[Monthly] Mid-Autumn Festival! Oyster of osmanthus wine
+855	[Event] goddess! Midsummer god pray
+856	[Event] Rebirth Carnival - Heavenly Treasure Chest
+857	[Event] Mid-Autumn Festival! Oyster of osmanthus wine
 858	[Event] Critical! Goddess of mind
-859	[Army] over the years! Gold Legion
+859	[Guild] over the years! Gold Guild
 860	[Event] Resurrection! Big Fighter Field Myth (God War)
 861	[Battlefield] victory! The road to the king
 862	[Activity] Countercurrent! Gold Trial (God of War 3)
@@ -876,11 +876,11 @@
 875	All battles and three rings are counted together. \rThis activity includes 2 copies of the serial challenge with sequential relationship: \r "Pisces Trial" - "Litender Trial" or "Lion Trial"\r Participate in any copy count 1 time, can participate in 6 cumulatively per day Secondly, it takes 1 point of war to participate in the "Pisces Trial", and it takes 2 points to participate in the "Litli Trial" or "Lion Trial"!
 876	Ten Wind Cave can participate in up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then participate. \r The Phoenix Saint Seiya led the Dark Saint Seiya to the Galaxy Arena and captured the gold saint of Sagittarius! \rNow they are entrenched in the ten wind caves of Mount Fuji! Challenge the mighty Yihui and the Dark Saints to recapture the Golden Saint Cloth!
 877	Combat scale: 24v24\r grade segmentation: 40-59; 60-79; 80-94; 95-submersible 2; submersible 3-submersible 10\r in order to hone combat skills and meet new holy war, holy The fighters conducted actual training in the ruins of the ancient battlefield Attica! \r can use God's battle point to pick up the mission at the god warrior Andina: Charge! The Attica ruins can be rewarded with a lot of rewards.
-878	The Golden Zodiac (starting) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Arudiba of Taurus and the mysterious Gemini Saint Seiya?
-879	Golden Zodiac (continued) can participate up to 10 times a week, and the difficulty is high, it is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
-880	Golden Zodiac (final) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Tonghu teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
-881	Golden Zodiac (Yu) can participate in up to 10 times a week, you need to participate in [Copy] Golden Zodiac (final), get the item: ^61f2ff star trajectory ^N before you can participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Capricorn Palace, Aquarius Palace and Pisces Palace. \r Capricorn's holy sword can cut off all tangible things; Aquarius's frozen gas and even molecular movements can freeze; Pisces' poisonous rose is the last barrier that cannot be crossed. Teenagers of love and justice, can you move on?
-882	The heart of the shooter can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save Athena in the middle of the battle, protect Sagittarius from the pursuit of Capricorn!
+878	The Twelve Houses (Part I) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r Miss Saori came to the Sanctuary to confront the Pope, but the Assassin sent by the Pope shot with a gold arrow. In order to save the goddess' life, it is necessary to break through the twelfth house guarded by the Golden Saints within twelve hours. \r Can you beat Mr. Mu of Aries, Arudiba of Taurus and the mysterious Gemini Saint Seiya?
+879	Twelve Houses (Part II) can participate up to 10 times a week, and the difficulty is high, it is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, she must break through the Cancer Palace, the Lion Palace and the Virgin Palace. \r Cruel Cancer kills every opponent; the brave Leo's punching speed is close to the speed of light; the Virgo's Shaka is known as the closest to God. Teenagers of love and justice, can you defeat these powerful opponents?
+880	Twelve Houses (Part III) can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Libra Palace, the Scorpio Palace and the Archer Palace. \r Libra's Tonghu teacher retired in Lushan; Sagittarius's Ai Russia died in a conspiracy 13 years ago; thought it would be easy to pass? Scorpio's Miro is a killer that can't be resisted by anyone.
+881	Golden Zodiac (Yu) can participate in up to 10 times a week, you need to participate in [Copy] Twelve Houses (Part III), get the item: ^61f2ff star trajectory ^N before you can participate. \r In order to save the Miss Yao, who was shot by the Golden Arrow, he must break through the Capricorn Palace, Aquarius Palace and Pisces Palace. \r Capricorn's holy sword can cut off all tangible things; Aquarius's frozen gas and even molecular movements can freeze; Pisces' poisonous rose is the last barrier that cannot be crossed. Teenagers of love and justice, can you move on?
+882	The Heart of Sagittarius can participate up to 10 times a week, and the difficulty is high. It is recommended to complete the team and then go to participate. \r In order to save Athena in the middle of the battle, protect Sagittarius from the pursuit of Capricorn!
 883	The growth of Saint Seiya often needs to be accompanied by fierce battles. In order to hone her Saints, Athena decided to let them improve their strength through various tempering. Fighters, try to grow in all kinds of tests!
 884	All battles and three rings are counted together. This activity includes 2 copies of the serial challenge with sequential relationship: \r "Icefire Abyss" - "Giant Wolf Mountain" or "Ice Country Evil God"\r to participate in any copy count 1 time, can participate in 6 times a day, participate "Icefire Abyss" consumes 1 point of war, and participates in "Giant Snow Mountain" or "Ice Country Evil" consumes 2 points of war. \r can be completed directly using the sweeping card at the sweeping messenger Andy. \r Supports the "inheritance team mode". In the inheritance team mode, the customs clearance rewards the player's inheritance value based on the number of players below level 59.
 885	Ice Temple can participate up to 10 times a week, you need to participate in the [copy] Golden Zodiac (Yu), get the item: ^61f2ff ice wing ^N before you can participate. \rIceland Princess Valkyrie was cursed by Nibelungen's ring and turned into a female Valkyrie. She was controlled by the sea emperor and occupied the seal of the sea emperor under the ice sea against Athena. In order to save the Princess of Valkyrie from the curse, break through the night of this blockade of ice, the boy of love and justice, march toward the Temple of Ice and Ice!

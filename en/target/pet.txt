@@ -53,7 +53,7 @@
 52	Pet has already evolved to the highest form of stagnation
 53	Material used for evolution
 54	Pet%s improved successfully!
-55	Failure to improve Pet%S
+55	Failure to improve Pet %s
 56	%s Pet has reached the maximum limit, can not continue strengthening
 57	Level higher than the Pet load is%d
 58	Increase%s of Pet in%d points

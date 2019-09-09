@@ -1500,7 +1500,7 @@
 1499	Shadow of the Phoenix
 1500	Hinowa
 1501	Phoenix of Hell
-1502	Alma Presa
+1502	Lost Soul
 1503	Gabriel
 1504	Sacred Administrator of the Prison
 1505	Killer sanctuary
@@ -7141,7 +7141,7 @@
 7140	God of the Dream
 7141	Soul of Lei-hu
 7142	Wounded Monster on the Side of Atos
-7143	Llamas de Jango
+7143	Blazing Yin Yang
 7144	Radamanthys
 7145	Wyvern
 7146	Shadow Saga

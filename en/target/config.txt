@@ -629,7 +629,7 @@
 628	After meeting certain requirements in the game, you can receive a grand prize in the options of the Fire Clock of the Twelve Houses
 629	Do you want to know in what ways you can increase your fighting power? Come and use the physical force assessment system!
 630	The power of struggle is considered an imp
-631	When you reach a certain level, you can apply to join or create a legion in the Realm District to overcome the difficulties with other players.
+631	When you reach a certain level, you can apply to join or create a Guild in the Realm District to overcome the difficulties with other players.
 632	The more friends and the more friendly, the more help the player can provide.
 633	With the quick-travel, you can quickly navigate between different maps
 634	Hold down the ALT drag to separate the stacked items

@@ -1489,7 +1489,7 @@
 1488	Do you want to give a sensational marriage party? If you have the article "Start of Marriage" you can start the marriage ceremony phase. \rAfter starting the preparation phase, you will have a streaming system available, it is a good way to attract players for your marriage!
 1489	To celebrate the Renaissance Festival, the Knights brought an exclusive event to enjoy with the Fall Festival and spend time in an excellent game.
 1490	Service with a smile, application of civilized law!
-1491	%S is already flawed in killing!
+1491	%s is already flawed in killing!
 1492	We must guarantee the progress of the construction of the statue of the Goddess!
 1493	The Temple of Thanatos, God of Death, is ahead!
 1494	All property resistors +1
@@ -1562,7 +1562,7 @@
 1561	Do you want to give a sensational marriage party? If you have the article "Start of Marriage" you can start the marriage ceremony phase. \rAt the moment you start the marriage ceremony phase, it will be 60 minutes long. During this time, the other players will not be able to start the marriage ceremony phase. \rIf you have the article "Bride's Flower Bouquet" you can open the "Looking for Flower of Happiness" event. The player who finds the "Flower of Happiness" will get a generous prize. \rWith the article "Sweet sweet love" you can open the "Distribute Well-married" event. By giving the final blow to the "Well-Married" monster, the player can open the "Well-Married" article dropped, obtaining generous rewards!
 1562	Festival and Celebration of Renaissance, the Knights trajero
 1563	The shortest day is the true reality.
-1564	%unexpectedly, he managed to kill 3, and shows thumbs to bass to the other party
+1564	%s unexpectedly, he managed to kill 3, and shows thumbs to bass to the other party
 1565	Tremble! Deadly
 1566	For the Goddess, for this world!
 1567	All property resistances +3

@@ -249,20 +249,20 @@
 248	In this week, the round of the competition was W.O, it is not necessary that you enter the battlefield, please go directly to receive your prize of W.O
 249	This service for the Universe Competition has not yet been opened
 250	You did not arrive on the battlefield until the moment of opening, it is not possible to enter. Please try to enter again after 7:55 pm on Saturday
-251	The character creation time (% s) is ahead of the time when this type of gift card is available.
+251	The character creation time (%s) is ahead of the time when this type of gift card is available.
 252	Mission to train the sight has already been done
 253	Number of incorrect questions
 254	The mission can not be completed
 255	It is not possible to block the purple Star Soul and above
 256	Can not see the battle in the current schedule
-257	Renewed rating for% d, is lower than the current index, maintain the current index
+257	Renewed rating for %d, is lower than the current index, maintain the current index
 258	Incorrect Parameter
 259	Incorrect Status
 260	Incorrect Hour
 261	already wagered
 262	Incorrect Article
 263	This article does not belong to you, it is not possible to collect it
-264	This item does not belong to your army, it is not possible to collect it
+264	This item does not belong to your Guild, it is not possible to collect it
 265	Existing Movement
 266	You still have not learned this movement
 267	Remaining number of times to receive the insufficient gift package
@@ -282,7 +282,7 @@
 281	EXP to learn skill insufficient
 282	Coin to learn skill insufficient
 283	Cash to learn skill insufficient
-284	Army contribution level to learn skill insufficient
+284	Guild contribution level to learn skill insufficient
 285	Reputation consumed to learn skill insufficient
 286	Item consumed to learn skill insufficient
 287	Index of awareness to learn enough skills
@@ -336,7 +336,7 @@
 335	LINK - There are currently accounts pending change of ingot, or ingot message not received; you can not delete the character
 336	LINK - currently have apprentices, it is not possible to delete the character
 337	LINK - nonexistent data
-338	Please, first leave the army and then delete the character.
+338	Please, first leave the Guild and then delete the character.
 339	LINK - the access time to the server exceeded, please log in again and try again
 340	You have a relation in the game, please undo the marriage first to try to eliminate the character again
 341	This character has been authenticated by Athena, it can not be eliminated.

@@ -1,12 +1,12 @@
-0	Army benefit will be released in 10 minutes. Members of the Army return to the base to receive it.
-1	Army benefit will be released in 5 minutes. Members of the Army return to the base to receive it.
-2	Army benefit will be released in 3 minutes. Members of the Army return to the base to receive it.
-3	Army benefit will be released in 1 minute. Members of the Army return to the base to receive it.
-4	The benefit of the Army is liberated!
-5	The benefit of the Army this week is over. We appreciate the participation of the members. The higher the level of the Army Base, the greater the benefit. We have the participation of all in the construction of his Army.
-6	The current level of the Army Hall is: %d --- No. 11 Reputation
-7	The maintenance of the current base of the Army has not yet been made --- No. 12 Reputation %d
-8	It was made to maintain the current Army base --- No. 12 Reputation %d
+0	Guild benefit will be released in 10 minutes. Members of the Guild return to the base to receive it.
+1	Guild benefit will be released in 5 minutes. Members of the Guild return to the base to receive it.
+2	Guild benefit will be released in 3 minutes. Members of the Guild return to the base to receive it.
+3	Guild benefit will be released in 1 minute. Members of the Guild return to the base to receive it.
+4	The benefit of the Guild is liberated!
+5	The benefit of the Guild this week is over. We appreciate the participation of the members. The higher the level of the Guild Base, the greater the benefit. We have the participation of all in the construction of his Guild.
+6	The current level of the Guild Hall is: %d --- No. 11 Reputation
+7	The maintenance of the current base of the Guild has not yet been made --- No. 12 Reputation %d
+8	It was made to maintain the current Guild base --- No. 12 Reputation %d
 9	Total resource that was withdrawn that week: %d --- No. 5 Reputation
 10	Capital %d
 11	Food %d
@@ -134,9 +134,9 @@
 133	$nobubble$noname$UImid %s showed his power and killed the world BOSS ${npc(%d)}!
 134	$nobubble$noname$UImid${name(%s)} showed its power and killed the world BOSS ${npc(%d)}!
 135	$nobubble${lev(90-200)}$noname$UImid ${npc(%d)} appeared in ${line (6, %d)} ( %d, %d), brave warriors, go for there and accept the challenge!
-136	$nobubble$noname$UImid ${league ( %s)} of the Army ${name(%s)} It's in our base picking up the Treasure Box of Time! ( %d, %d)
-137	¡$nobubble$noname$UImid ${league ( %s)} The Army ${name(%s)} successfully ${league ( %s)} led the Treasury Fund of the Army Base and obtained a lot of Gold!
-138	$nobubble$noname$UImid ${league ( %s)} The Army ${name(%s)} appeared in Base ( %d, %d), and is doing something secretly!
+136	$nobubble$noname$UImid ${league ( %s)} of the Guild ${name(%s)} It's in our base picking up the Treasure Box of Time! ( %d, %d)
+137	¡$nobubble$noname$UImid ${league ( %s)} The Guild ${name(%s)} successfully ${league ( %s)} led the Treasury Fund of the Guild Base and obtained a lot of Gold!
+138	$nobubble$noname$UImid ${league ( %s)} The Guild ${name(%s)} appeared in Base ( %d, %d), and is doing something secretly!
 139	Mini Saori
 140	Mini Hades
 141	Mini Poseidon
@@ -298,22 +298,22 @@
 297	$UImid $noname Miro is about to release Scarlet Needle, it is better to have more people to split the attack!
 298	$UImid $noname When the "Scarlet Needle" suffered is greater than %d layers, Miro will release its fatal attack!
 299	layers, Miró will release his fatal attack!
-300	$noname$UImid ${league ( %s)} The Miracle Center ${league ( %s)} of the Army ${name(%s)} was totally destroyed by the powerful attack!
-301	$noname$UImid ^e12500 ${league ( %s)} The Miracle Center ${league ( %s)} of the Army ${name(%s)} was totally destroyed by the powerful attack!
-302	$noname$UImid ${league ( %s)} The Army ${name(%s)} burned the Cosmo and totally destroyed ${league ( %s)} the Army Miracle Center!
-303	$noname$UImid ^e12500 ${league ( %s)} The Army ${name(%s)} burned the Cosmo and totally destroyed ${league ( %s)} the Army Miracle Center!
-304	$noname$UImid ${league ( %s)} Army lost ${league ( %s)} Army, ${league ( %s)} Army ${name(%s)} completely destroyed ${league ( %s)} the Army Miracle Center!
-305	$noname$UImid ^e12500 ${league ( %s)} The Army lost ${league ( %s)} Army, ${league ( %s)} of the Army ${name(%s)} totally destroyed ${league ( %s)} the Army Miracle Center!
-306	$noname$UImid ${league ( %s)} The Army is ${name(%s)} under the leadership, has joined forces, ${league ( %s)} and completely destroyed the Miracle Center from army!
-307	$noname$UImid ^e12500 ${league ( %s)} The Army is ${name(%s)} under the leadership, which has joined forces, ${league ( %s)} and totally destroyed the Center of Miracle of the Army!
-308	$noname$UImid ${league ( %s)} Army ${name(%s)} made the miracle of the Army to enter the fight!
-309	$noname$UImid ${league ( %s)} The Army ${name(%s)} is attacking with all its might and the Army Miracle is already a little damaged.
-310	$noname$UImid ${league ( %s)} The Army ${name(%s)} is determined and the Army Miracle is already damaged, request support immediately!
-311	$noname$UImid ${league ( %s)} The Army ${name(%s)} is showing all its power and the Army Miracle hangs in the balance, request support immediately!
-312	$noname$UImid ${league ( %s)} The Army ${name(%s)} is all powerful and the Army Miracle is very destroyed, request support immediately!
-313	$noname$UImid ${league ( %s)} The Army ${name(%s)} burned the Cosmo and the Army Miracle will be destroyed shortly, request support immediately!
-314	$noname$UImid ^ff0000 ${league ( %s)} The Miracle of the Army was challenged, entering the status of the Miracle Challenge! The status of the Miracle Challenge lasts 1 hour!
-315	$noname$UImid ^ff0000 ${league ( %s)} All members of the Army joined forces, successfully defended the Miracle during the challenge status! It's a Royal Army that dominates the server!
+300	$noname$UImid ${league ( %s)} The Miracle Center ${league ( %s)} of the Guild ${name(%s)} was totally destroyed by the powerful attack!
+301	$noname$UImid ^e12500 ${league ( %s)} The Miracle Center ${league ( %s)} of the Guild ${name(%s)} was totally destroyed by the powerful attack!
+302	$noname$UImid ${league ( %s)} The Guild ${name(%s)} burned the Cosmo and totally destroyed ${league ( %s)} the Guild Miracle Center!
+303	$noname$UImid ^e12500 ${league ( %s)} The Guild ${name(%s)} burned the Cosmo and totally destroyed ${league ( %s)} the Guild Miracle Center!
+304	$noname$UImid ${league ( %s)} Guild lost ${league ( %s)} Guild, ${league ( %s)} Guild ${name(%s)} completely destroyed ${league ( %s)} the Guild Miracle Center!
+305	$noname$UImid ^e12500 ${league ( %s)} The Guild lost ${league ( %s)} Guild, ${league ( %s)} of the Guild ${name(%s)} totally destroyed ${league ( %s)} the Guild Miracle Center!
+306	$noname$UImid ${league ( %s)} The Guild is ${name(%s)} under the leadership, has joined forces, ${league ( %s)} and completely destroyed the Miracle Center from Guild!
+307	$noname$UImid ^e12500 ${league ( %s)} The Guild is ${name(%s)} under the leadership, which has joined forces, ${league ( %s)} and totally destroyed the Center of Miracle of the Guild!
+308	$noname$UImid ${league ( %s)} Guild ${name(%s)} made the miracle of the Guild to enter the fight!
+309	$noname$UImid ${league ( %s)} The Guild ${name(%s)} is attacking with all its might and the Guild Miracle is already a little damaged.
+310	$noname$UImid ${league ( %s)} The Guild ${name(%s)} is determined and the Guild Miracle is already damaged, request support immediately!
+311	$noname$UImid ${league ( %s)} The Guild ${name(%s)} is showing all its power and the Guild Miracle hangs in the balance, request support immediately!
+312	$noname$UImid ${league ( %s)} The Guild ${name(%s)} is all powerful and the Guild Miracle is very destroyed, request support immediately!
+313	$noname$UImid ${league ( %s)} The Guild ${name(%s)} burned the Cosmo and the Guild Miracle will be destroyed shortly, request support immediately!
+314	$noname$UImid ^ff0000 ${league ( %s)} The Miracle of the Guild was challenged, entering the status of the Miracle Challenge! The status of the Miracle Challenge lasts 1 hour!
+315	$noname$UImid ^ff0000 ${league ( %s)} All members of the Guild joined forces, successfully defended the Miracle during the challenge status! It's a Royal Guild that dominates the server!
 316	Cycle of the Six Stocks
 317	Treasure of Heaven
 318	Hearing Deprivation
@@ -353,7 +353,7 @@
 352	White roses that bloom in the blood. They must be very pretty
 353	I'm going to make them die in the fragrance of roses!
 354	$noname$UImidThe first Knight of level 30 has already appeared. End of the Iron Age. Knights, get together to build the Bronze Age!
-355	$noname$UImidThe first Army was created. The server entered the Bronze Age, officially.
+355	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
 356	$noname$UImidThe Soul of the resentful Emperor of the Seas tried to invade the Sanctuary and was imprisoned by Athena. After expelling it, the servant will enter the Silver Age.
 357	$noname$UImidThe Soul of the resentful Emperor of the Seas was expelled. The servant entered the Silver Age, releasing level 79 and the Episode of the Underwater World.
 358	$noname$UImid108 The Malignant Stars have already awakened and the God of the Dream is in the Sanctuary. Knights defeat Hypnos and protect Athena!
@@ -481,20 +481,20 @@
 480	$noname$UImid ^e12500Line 14, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 14, please look for the Entrance Emissary of the Competition on Line 14 to enter the field!
 481	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 15, please look for the Entrance Emissary of the Line 15 Competition to enter the field!
 482	$noname$UImid ^e12500Line 15, entry released! The battle will start after 5 minutes! Armies that are going to battle on Line 1, please look for the Entrance Emissary of the Line 15 Competition to enter the field!
-483	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 2! Members of the Army that are going to battle on Line 2, please come and receive your Ticket!
-484	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 3! Members of the Army who are going to battle on Line 3, please come and receive your Ticket!
-485	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 4! Members of the Army who are going to battle on Line 4, please come and receive your Ticket!
-486	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 5! Members of the Army who are going to battle on Line 5, please come and receive your Ticket!
-487	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 6! Members of the Army who are going to battle on Line 6, please come and receive your Ticket!
-488	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 7! Members of the Army who are going to battle on Line 7, please come and receive your Ticket!
-489	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 8! Members of the Army who are going to battle on Line 8, please come and receive your Ticket!
-490	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 9! Members of the Army who are going to battle on Line 9, please come and receive your Ticket!
-491	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 10! Members of the Army who are going to battle on Line 10, please come and receive your Ticket!
-492	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 11! Members of the Army that are going to battle on Line 11, please come and receive your Ticket!
-493	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 12! Members of the Army who are going to battle on Line 12, please come and receive your Ticket!
-494	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 13! Members of the Army who are going to battle on Line 13, please come and receive your Ticket!
-495	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 14! Members of the Army who are going to battle on Line 14, please come and receive your Ticket!
-496	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 15! Members of the Army who are going to battle on Line 15, please, come and receive your Ticket!
+483	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 2! Members of the Guild that are going to battle on Line 2, please come and receive your Ticket!
+484	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 3! Members of the Guild who are going to battle on Line 3, please come and receive your Ticket!
+485	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 4! Members of the Guild who are going to battle on Line 4, please come and receive your Ticket!
+486	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 5! Members of the Guild who are going to battle on Line 5, please come and receive your Ticket!
+487	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 6! Members of the Guild who are going to battle on Line 6, please come and receive your Ticket!
+488	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 7! Members of the Guild who are going to battle on Line 7, please come and receive your Ticket!
+489	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 8! Members of the Guild who are going to battle on Line 8, please come and receive your Ticket!
+490	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 9! Members of the Guild who are going to battle on Line 9, please come and receive your Ticket!
+491	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 10! Members of the Guild who are going to battle on Line 10, please come and receive your Ticket!
+492	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 11! Members of the Guild that are going to battle on Line 11, please come and receive your Ticket!
+493	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 12! Members of the Guild who are going to battle on Line 12, please come and receive your Ticket!
+494	$noname$UImid ^e12500PK The ticket office of the competitions appeared on Line 13! Members of the Guild who are going to battle on Line 13, please come and receive your Ticket!
+495	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 14! Members of the Guild who are going to battle on Line 14, please come and receive your Ticket!
+496	$noname$UImid ^e12500PK The box office of the competitions appeared on Line 15! Members of the Guild who are going to battle on Line 15, please, come and receive your Ticket!
 497	^FF7F00Northwest Domain Point ^N
 498	^FF7F00Northeast Domain Point ^N
 499	^FF7F00Southwest Domain Point ^N

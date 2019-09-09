@@ -186,7 +186,7 @@
 185	Hagen de Merak %d / 1
 186	Centurion of Ice Warriors %d / 3 \rElite of the Ice Warrior %d / 10 \rBattle Warrior of the Ice %d / 6
 187	Defeat Shido from Mizar %d / 1
-188	Ice Warrior Centurion %​​d / 4 \r Warrior Elite %d / 9 \ Polar Bear %d / 6
+188	Ice Warrior Centurion %d/4 \r Warrior Elite %d/9 \r Polar Bear %d/6
 189	Defeat Alioth's Fenrir %d / 1
 190	Go ahead under the guidance of the Goddess
 191	Thor of Phecda %d / 1
@@ -745,7 +745,7 @@
 744	Reputation of %s is insufficient to enter this Dungeon
 745	Missing BUFF for %s entering nessa Dungeon
 746	I can not enter, I do not know how to walk in such a Dungeon
-747	This Dungeon requires everyone to belong to the same Army
+747	This Dungeon requires everyone to belong to the same Guild
 748	%s is not on the same realm
 749	Fail to create Dungeon
 750	It is necessary to create group to activate this Dungeon
@@ -767,8 +767,8 @@
 766	Invalid Raid information
 767	Raid Group or Reputation does not correspond
 768	This Dungeon has ended, entry is not allowed
-769	Army Leader needs to participate
-770	Army Reputation does not correspond
+769	Guild Leader needs to participate
+770	Guild Reputation does not correspond
 771	Individual power surpasses the requirement of the Dungeon
 772	Individual power does not meet the requirement of the Dungeon
 773	You can not enter the Dungeon in your current status

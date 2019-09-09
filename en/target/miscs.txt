@@ -196,7 +196,7 @@
 195	Reserve type 30 of money sachet with the itinerant merchant
 196	Reserve type 31 of money sachet with the itinerant merchant
 197	Reserve type 32 of money sachet with the itinerant merchant
-198	You are not in any army.
+198	You are not in any Guild.
 199	You are not in any clan.
 200	External standard
 201	Alternative appearance
@@ -277,8 +277,8 @@
 276	Intimacy Relationship
 277	Embrace Embrace
 278	End multi-riding
-279	%s invites you to a milti ride, do you accept?
-280	%is grateful, but rejects the multi ride.
+279	%s invites you to a multi ride, do you accept?
+280	%s is grateful, but rejects the multi ride.
 281	Multi-ride
 282	Little Secretary
 283	Search results
@@ -348,7 +348,7 @@
 347	[Tomorrow]
 348	[Next week]
 349	[Group]
-350	[Army]
+350	[Guild]
 351	Liberate Protective Constellation [Aries]
 352	Liberate Protective Constellation [Taurus]
 353	Liberate Protective Constellation [Gemini]
@@ -384,7 +384,7 @@
 383	When many people enter the fight scenario, in order to make it more fluid and help you hide the unimportant models, you can use the Alt + N shortcut keys to restore.
 384	Error loading the construction. Please exit the game to check the version
 385	Brightness effect on the game screen
-386	Do you want to open the army teleport in the current location?
+386	Do you want to open the Guild teleport in the current location?
 387	【Red Team】 %s
 388	【Blue Team】 %s
 389	Energy Crystal %d %%
@@ -392,13 +392,13 @@
 391	Nuclear Crystal %d %%
 392	Remaining fight time: %dmin
 393	Do you want to leave the current battlefield?
-394	Open army teleportation
+394	Open Guild teleportation
 395	Situation of the fight - %s
 396	Fight waiting time: %dmin
 397	Exiting ( %ds)
 398	Number of war cars of the Red Team: %d
 399	Number of war cars of the Blue Team: %d
-400	The head of the army has launched the teleportation portal in %s, after 30 seconds, the members of the army can go to the teleportation!
+400	The head of the Guild has launched the teleportation portal in %s, after 30 seconds, the members of the Guild can go to the teleportation!
 401	A %ds recharge time is required
 402	You can open the teleport portal
 403	The portal has stabilized, the assault began Fight!

@@ -869,7 +869,7 @@
 868	That someone hid and went away. I need to eliminate evil and bring light back to Earth. What? Your……
 869	Idiot, are you going to interrupt me? Do you want to impede the progress of the story? Go dead!
 870	Twins of Evil
-871	Do you want to uncover my secret?  %S, you're also going to die!
+871	Do you want to uncover my secret?  %s, you're also going to die!
 872	Thank you, finally I'm free! The Siren Scale is going to find a new owner! Goodbye!
 873	Siren soul debating
 874	Thanks, finally I'm free! The road is more dangerous now, I hope you can get out alive!
@@ -1042,7 +1042,7 @@
 1041	Seiya, wait for me ...
 1042	For love and justice!
 1043	I swear to protect Athena with my own life!
-1044	All right!  %S, in the name of Athena, I declare you a Knight!
+1044	All right!  %s, in the name of Athena, I declare you a Knight!
 1045	Grand Master
 1046	Is this Ed's room?
 1047	Ed hoped to leave some clues ......
@@ -1711,7 +1711,7 @@
 1710	Has the world's most rigid shield, is not necessarily invincible, let me regret your strength now! Look fist!
 1711	%s, you really choose as the guardian of the Andromeda constellation! This is doomed to failure you! Look fist!
 1712	%s, the ashes of the Phoenix constellation will be because of its spotted fault! Look fist!
-1713	%Income? And who gave me pass book? Weird ......
+1713	%s closed? Who is the book for me? really weird……
 1714	Although I had lost to Seiya, that does not mean I may be afraid of Pegasus!  %s, waiting for me to fight you in the original Aoki sea tree! - Ursa Major Xi
 1715	%s, shot him, I'll be here to wash Pegasus Seiya brought to my shame!
 1716	Ursa Xi
@@ -2740,7 +2740,7 @@
 2739	The children are out of it! These bugs to show them.
 2740	to Yaoxing
 2741	Oh! What the hell, as soon as possible to buy something, I would go back to get it.
-2742	forces of the underworld began to invade the base Legion!
+2742	forces of the underworld began to invade the base Guild!
 2743	Meng Day Star Rhadamanthus appeared in the middle!
 2744	Tianxiong Star Aeacus appeared on the left side!
 2745	Minoan Day Its Wing Right appeared!
@@ -3450,7 +3450,7 @@
 3449	Disappearing? Haha ha. The day of my expected return will be exactly the day you are waiting to fall into the flames of hell ......
 3450	Shadow of Hades
 3451	Hell has awakened, the flames of darkness are coming! The shadow of Hades has already awakened in the Champs Elysees, the world ... will be hidden.
-3452	Alma Presa
+3452	Lost Soul
 3453	Hung! Hearts restless and full of sins. I will cast black fire to burn these unsaved spirits, Die, die! Remember, I did a favor of destroying all that; Now, let's create a new era!
 3454	Have not they appeared yet? I do not know if tomorrow morning the red mist will become even more dense ...
 3455	Good! You're really amazing, you killed a hundred specters ... those things of yours! I can not go back on my word ...... I must go back and think of a new way to provoke those impassioned without grace!
@@ -3465,7 +3465,7 @@
 3464	The invocation of spirits will reach the companion who has the least HP, Andromeda needs to help eliminate control of him!
 3465	Eliminate the hungry ghosts quickly, otherwise the Power of the Circle will defeat us!
 3466	Do you see that crack in the sky? I can not let this red haze cover the whole earth ...
-3467	Army puppets, listen to the command! Start the Slaughter! For your joy, kill each of them until there is nothing left ......
+3467	Guild puppets, listen to the command! Start the Slaughter! For your joy, kill each of them until there is nothing left ......
 3468	God of the Nothing Lamech
 3469	Humans are dust! Death is your destiny!
 3470	Disappointment? Impossible!
@@ -3628,7 +3628,7 @@
 3627	Defeat Tremi
 3628	Defeat Mu
 3629	Defeat Cassios
-3630	Defeat Aldebarán
+3630	Defeat Aldebaran
 3631	All guards hit ${solo_challenge.score} / ${solo_challenge.score_need}
 3632	Shina win
 3633	Beat elite saves ${solo_challenge.score} / ${solo_challenge.score_need}
@@ -3882,10 +3882,10 @@
 3881	Amistad does not meet the requirements
 3882	does not meet the requirements set forth in the title
 3883	The contribution of the Association is not satisfied
-3884	Quest requires members of the Army
-3885	Your occupation in the Army does not meet the requirements of the Quest
-3886	The level of your Army does not meet the requirements of the Quest
-3887	Legion requirement of proficiency skills is not satisfied
+3884	Quest requires members of the Guild
+3885	Your occupation in the Guild does not meet the requirements of the Quest
+3886	The level of your Guild does not meet the requirements of the Quest
+3887	Guild requirement of proficiency skills is not satisfied
 3888	Registry does not meet requirements
 3889	Blood refining magic value does not meet the requirements
 3890	Limit of use / conclusion reached
@@ -3921,7 +3921,7 @@
 3920	Team has players offline or not in line with the captain
 3921	Constellation players are not satisfied
 3922	Lack of illustrations needed
-3923	Count Limit Exceeded Legion
+3923	Count Limit Exceeded Guild
 3924	does not meet the requirements of your field guide points
 3925	does not meet the requirements of its conquest points
 3926	Can not access work team
@@ -3934,7 +3934,7 @@
 3933	You Epic Raiders in progress does not meet the requirements of the stars
 3934	This quest was deactivated
 3935	Your account does not use any secret security measures
-3936	status Reputation Legion is not satisfied
+3936	status Reputation Guild is not satisfied
 3937	Reputation account status is not satisfied
 3938	status Reputation team is not satisfied
 3939	Can not use in multiserver
@@ -3975,9 +3975,9 @@
 3974	You have a low-level missions in the week limit has not been completed, it is recommended to give up low-level tasks and quests limit week access and the current level of competition.
 3975	Required items: wire invitation.
 3976	Does not meet the requirements for registration
-3977	Army Raw Material Insufficient
+3977	Guild Raw Material Insufficient
 3978	Missing Goddess bless remembrance
-3979	Army resource insufficient or time period not yet reached
+3979	Guild resource insufficient or time period not yet reached
 3980	The number of times you can accept the <Destination Challenge> is exhausted
 3981	Insufficient level
 3982	This gift pack can only be used once
@@ -3997,25 +3997,25 @@
 3996	Need to get Armor: Oriolus
 3997	Need to get Armor: Fly
 3998	You can receive above level 40
-3999	Need 50 Army Contribution Points
-4000	Only five deputy chief of the Legion before they can receive Oh
-4001	The level of activity of the Army of the previous week needs to reach 10920
-4002	The Army's degree of activity from the previous week needs to reach 22930
-4003	The activity level of the Army of the previous week needs to reach 36030
-4004	The Army's level of activity from the previous week needs to reach 50230
+3999	Need 50 Guild Contribution Points
+4000	Only five deputy chief of the Guild before they can receive Oh
+4001	The level of activity of the Guild of the previous week needs to reach 10920
+4002	The Guild's degree of activity from the previous week needs to reach 22930
+4003	The activity level of the Guild of the previous week needs to reach 36030
+4004	The Guild's level of activity from the previous week needs to reach 50230
 4005	Already used today
 4006	Today, the mission access biography number is exhausted
-4007	You can not upload more Army Contributions
+4007	You can not upload more Guild Contributions
 4008	The limit of daily use was reached
-4009	Army Gold Resources already reached the limit
-4010	Army Hydromiel resources already reached the limit
-4011	Army Ivory resources have already reached the limit
-4012	Bronze resources of the Army already reached the limit
+4009	Guild Gold Resources already reached the limit
+4010	Guild Hydromiel resources already reached the limit
+4011	Guild Ivory resources have already reached the limit
+4012	Bronze resources of the Guild already reached the limit
 4013	In use
 4014	Please mysterious priest in the task of access "critical! Guard wire", and then I want to take you to the beach.
 4015	He has participated in 15 times "Inheritance! Trials of gold" and can not continue to participate.
 4016	Received taken or completed Destination Trials.
-4017	administrator Legion needs to receive: Legion Create! guardian task chapter of faith
+4017	administrator Guild needs to receive: Guild Create! guardian task chapter of faith
 4018	Every 10 minutes the captain can call test target 1
 4019	One week can only turn it on again
 4020	The number of players entering the trial or gold counter-attack series of copies have been exhausted
@@ -4049,8 +4049,8 @@
 4048	Completed "attack in the dark" task
 4049	Received taken or completed "attack in the dark" task
 4050	Update decelerate, be patient and loving treatment of the elderly
-4051	Army chief can accept the task
-4052	The former Army chief to take over the task received
+4051	Guild chief can accept the task
+4052	The former Guild chief to take over the task received
 4053	Wait Shunrei herbal preparation
 4054	His lack of activity
 4055	Your lack of recharge points
@@ -4122,7 +4122,7 @@
 4121	Please be patient, not for the turn-on time
 4122	Level is too low, you need 60 or more before they can summon the flag
 4123	Job Corps is not enough, only the deputy chief of the upper limbs and can call super-flag
-4124	Legion degree discrepancies or guardian call of the week the number of super flags have been exhausted
+4124	Guild degree discrepancies or guardian call of the week the number of super flags have been exhausted
 4125	Can not call, you were summoned common flag today
 4126	Job Corps is not enough, only the elite and more members can call common flag
 4127	level body guard discrepancies often called this common day flag or were exhausted

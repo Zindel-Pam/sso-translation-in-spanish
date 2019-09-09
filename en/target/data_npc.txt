@@ -2563,7 +2563,7 @@
 2562	Aquarius
 2563	Shura soul
 2564	Capricorn
-2565	Alma Presa
+2565	Lost Soul
 2566	Guard of the Judge's Chamber
 2567	Seiya
 2568	Pegasus
@@ -3482,7 +3482,7 @@
 3481	Athena emissary
 3482	Athena emissary
 3483	Hassan
-3484	Army builder
+3484	Guild builder
 3485	Mona
 3486	Receive the double
 3487	Manager [Foundation]
@@ -3538,7 +3538,7 @@
 3537	Start of the battle
 3538	Employee [Foundation]
 3539	<Life and Death! Final Battle of the Elisha Fields>
-3540	Legion assembly_ enter the NPC instance zone
+3540	Guild assembly_ enter the NPC instance zone
 3541	Shaka
 3542	Virgo
 3543	Dohko
@@ -3570,12 +3570,12 @@
 3569	Lisbela
 3570	Leave the base
 3571	Iris
-3572	Legion Training
+3572	Guild Training
 3573	Tub
-3574	Exchange of taxes of the army
+3574	Exchange of taxes of the Guild
 3575	Oracle Gift Shop
-3576	Army of the God
-3577	Army Base Administrator
+3576	Guild of the God
+3577	Guild Base Administrator
 3578	Sacrifice of the goddess Ana
 3579	Activity ranking award
 3580	Sacrifice of the Goddess
@@ -3710,13 +3710,13 @@
 3709	Level 6 Miracle Manager
 3710	Level 7 Miracle
 3711	Level 7 Miracle Manager
-3712	Army Miracle Center
-3713	Army miracle manager
-3714	Emissary [Army Funds]
+3712	Guild Miracle Center
+3713	Guild miracle manager
+3714	Emissary [Guild Funds]
 3715	Cronos
-3716	<Army Rank>
+3716	<Guild Rank>
 3717	Rosette
-3718	<Army Rank>
+3718	<Guild Rank>
 3719	Neutral teleport point
 3720	Teleport point of the red base _ occupation
 3721	Teleport point of the red base _ base
@@ -5146,7 +5146,7 @@
 5145	Katsushika Hokusai
 5146	Craftsman
 5147	Zara
-5148	Army Administrator
+5148	Guild Administrator
 5149	Fire
 5150	Popularity Ambassador
 5151	Witness of the goddess
@@ -7223,15 +7223,15 @@
 7222	Saori
 7223	Tatsumi's assistant
 7224	<Dream Goddess>
-7225	Army welfare
+7225	Guild welfare
 7226	<Dream Goddess>
-7227	Army Welfare
+7227	Guild Welfare
 7228	<Dream Goddess>
-7229	Army Welfare
+7229	Guild Welfare
 7230	<Dream Goddess>
-7231	Army welfare
+7231	Guild welfare
 7232	<Dream Goddess>
-7233	Army Welfare
+7233	Guild Welfare
 7234	<Dream Goddess>
 7235	Espion [Foundation]
 7236	Protect Saori
@@ -7963,7 +7963,7 @@
 7962	Admission Ambassador of the PK tournament
 7963	Cross-service courier of the PK tournament
 7964	Cross-service courier of the PK tournament teleport
-7965	Messenger of the Legion League
+7965	Messenger of the Guild League
 7966	Messenger of divine grace
 7967	Red team
 7968	Messenger of divine grace
@@ -7976,16 +7976,16 @@
 7975	Atlantis
 7976	Teleportation of the Sanctuary
 7977	Fighting against the boss of the world
-7978	Competition for the classification of the army _ Teleportation to the central door of the red team
-7979	Competition for the classification of the army_ teleport door of the red team
-7980	Competition for the classification of the army_ teleport door of the red_divinity team
-7981	Competition for the classification of the army_teletransporte to the front door of the red team
-7982	Competition for the classification of the army_teletrasport to the back of the red team
-7983	Competition for the competition for the classification of the army _Teletransporte to the central door of the blue team
-7984	Competition for the classification of the army_ teleport door of the blue team
-7985	Competition for the classification of the army_ teleport door of the blue_divinity team
-7986	Competition for the classification of the army_teletransporte to the front door of the blue team
-7987	Competition for the classification of the army_teletransporte to the back of the blue team
+7978	Competition for the classification of the Guild _ Teleportation to the central door of the red team
+7979	Competition for the classification of the Guild_ teleport door of the red team
+7980	Competition for the classification of the Guild_ teleport door of the red_divinity team
+7981	Competition for the classification of the Guild_teletransporte to the front door of the red team
+7982	Competition for the classification of the Guild_teletrasport to the back of the red team
+7983	Competition for the competition for the classification of the Guild _Teletransporte to the central door of the blue team
+7984	Competition for the classification of the Guild_ teleport door of the blue team
+7985	Competition for the classification of the Guild_ teleport door of the blue_divinity team
+7986	Competition for the classification of the Guild_teletransporte to the front door of the blue team
+7987	Competition for the classification of the Guild_teletransporte to the back of the blue team
 7988	01 dark room teleports to the platform
 7989	02 Teleportation of the infernal ice of the Underworld
 7990	03 Teleportation of the Hall of Kain in the Underworld
@@ -8030,7 +8030,7 @@
 8029	Atlantis_teletransporte 1
 8030	Atlantis_teletransporte 2
 8031	Crossed the river of the Underworld
-8032	Weekly Instance Zone of the Army 5 strokes of teleportation
+8032	Weekly Instance Zone of the Guild 5 strokes of teleportation
 8033	Tartarus_a illusion of the Queen of the Underworld
 8034	Tartaro_a illusion dDios del sueño
 8035	Cemetery - Stage 3 skill transfer box
@@ -8488,29 +8488,29 @@
 8487	Equipment
 8488	Elixir
 8489	Others
-8490	Store level 1 of the army base
+8490	Store level 1 of the Guild base
 8491	Benefit
-8492	Store level 2 of the army base
+8492	Store level 2 of the Guild base
 8493	Benefit
-8494	Store level 3 of the army base
+8494	Store level 3 of the Guild base
 8495	Profit
-8496	Shop level 4 of the army base
+8496	Shop level 4 of the Guild base
 8497	Benefit
-8498	Store level 5 of the army base
+8498	Store level 5 of the Guild base
 8499	Benefit
 8500	Collection
-8501	Store level 6 of the army base
+8501	Store level 6 of the Guild base
 8502	Benefit
 8503	Collection
-8504	Store level 7 of the army base
+8504	Store level 7 of the Guild base
 8505	Benefit
 8506	Collection
-8507	Store level 8 of the army base
+8507	Store level 8 of the Guild base
 8508	Benefit
 8509	Collection
 8510	Oracle Store
 8511	Oracle
-8512	Store level 7 of the army's resistance base
+8512	Store level 7 of the Guild's resistance base
 8513	Practice Room
 8514	Sale of Elixir del Castillo de Hades
 8515	Potion
@@ -8734,20 +8734,20 @@
 8733	Monte de las Estrellas history 1 dimension of the Cygnus
 8734	¡01 Crimson! Shadow of another world!
 8735	Version Q _ critical! feelings of the goddess
-8736	[Army] Vehicle Chimera of Thor!
+8736	[Guild] Vehicle Chimera of Thor!
 8737	Memories of Ikki
 8738	The seven official pillars of the ocean
 8739	Individual challenge instance zone
 8740	Lunar harvest festival! Deadly kick of the spectra
 8741	Festival of the Lunar harvest! Deadly kick of the specters - individual
 8742	History Intermediate Level - The Twelve Houses
-8743	Weekly Army 01 Underworld 1
-8744	Weekly Army 02 Underworld 2
-8745	Weekly Army 03 Underworld 3
-8746	Weekly Army 04 Underworld 4
-8747	Weekly Army 05 zone of instance of the three judges of the Underworld
-8748	Weekly Army 06 God of death and God of sleep
-8749	Weekly Army 07 the Emperor of the Underworld
+8743	Weekly Guild 01 Underworld 1
+8744	Weekly Guild 02 Underworld 2
+8745	Weekly Guild 03 Underworld 3
+8746	Weekly Guild 04 Underworld 4
+8747	Weekly Guild 05 zone of instance of the three judges of the Underworld
+8748	Weekly Guild 06 God of death and God of sleep
+8749	Weekly Guild 07 the Emperor of the Underworld
 8750	The end of Hades
 8751	Memories of Hyoga
 8752	Abyss of Fire and Ice
@@ -8980,7 +8980,7 @@
 8979	12 guide for beginners_racles offer sacrifice
 8980	13 Conceition of the armor_Joseph of Bronze
 8981	14 Awarding of silver Armor_Altai
-8982	15 Army Administrator
+8982	15 Guild Administrator
 8983	16 Sanctuary Auction
 8984	17 NPC sign change
 8985	18 Concession of the armor_Jason, artisan apprentice
@@ -9007,90 +9007,90 @@
 9006	Invasion to the Underworld advanced level - Coral Forest
 9007	Invasion to the Underworld advanced level - Castaway
 9008	Mission broadcast fight the boss
-9009	Army Foundation Summon Monsters NPC
-9010	Deliver NPC1 resources to the army base
-9011	Deliver NPC2 resources to the army base
-9012	Deliver NPC3 resources at the army base
-9013	Deliver NPC4 resources at the army base
-9014	Change of military resources NPC to army base
-9015	Conquest scale to receive NPC award to the army base
-9016	Scale of conquests to receive NPC accessories to the base of the army increase 1
-9017	Scale of conquests to receive NPC accessories to the base of the army increase 2
-9018	Scale of conquests to receive NPC accessories to the base of the army increase 3
-9019	Conquest scale to receive NPC accessories to the base of the army increase 4
-9020	Conquest scale to receive NPC accessories to the base of the army increase 5
-9021	Scale of conquests to receive NPC accessories to the base of the army increase 6
-9022	Scale of conquests to receive NPC accessories to the base of the army increase 7
-9023	Conquest scale to receive NPC accessories to the base of the army increase 8
+9009	Guild Foundation Summon Monsters NPC
+9010	Deliver NPC1 resources to the Guild base
+9011	Deliver NPC2 resources to the Guild base
+9012	Deliver NPC3 resources at the Guild base
+9013	Deliver NPC4 resources at the Guild base
+9014	Change of military resources NPC to Guild base
+9015	Conquest scale to receive NPC award to the Guild base
+9016	Scale of conquests to receive NPC accessories to the base of the Guild increase 1
+9017	Scale of conquests to receive NPC accessories to the base of the Guild increase 2
+9018	Scale of conquests to receive NPC accessories to the base of the Guild increase 3
+9019	Conquest scale to receive NPC accessories to the base of the Guild increase 4
+9020	Conquest scale to receive NPC accessories to the base of the Guild increase 5
+9021	Scale of conquests to receive NPC accessories to the base of the Guild increase 6
+9022	Scale of conquests to receive NPC accessories to the base of the Guild increase 7
+9023	Conquest scale to receive NPC accessories to the base of the Guild increase 8
 9024	Base update activities Corps and strange NPC missions
-9025	Army Base Administrator
+9025	Guild Base Administrator
 9026	Receiving NPC1 award for military mission payments
 9027	Receiving NPC2 award for military mission payments
 9028	Receiving NPC3 award for military mission payments
 9029	Receiving NPC4 award for military mission payments
 9030	Receipt of NPC5 reward for military missions
-9031	Construction of the army 1_administrator level 1
-9032	Army construction 1_administrator level 2
-9033	Construction of the army 1_administrator level 3
-9034	Construction of the army 1_administrator level 4
-9035	Construction of the army 1_administrator level 5
-9036	Construction of the army 1_administrator level 6
-9037	Army construction 1_administrator level 7
-9038	Army construction 1_administrator level 8
-9039	Army construction 1_administrator level 9
-9040	Construction of the army 2_administrator level 1
-9041	Construction of the army 2_administrator level 2
-9042	Army construction 2_administrator level 3
-9043	Construction of the army 2_administrator level 4
-9044	Army construction 2_administrator level 5
-9045	Construction of the army 2_administrator level 6
-9046	Construction of the army 2_administrator level 7
-9047	Army construction 2_administrator level 8
-9048	Army construction 2_administrator level 9
-9049	Granting of army capital for the construction of the new base
+9031	Construction of the Guild 1_administrator level 1
+9032	Guild construction 1_administrator level 2
+9033	Construction of the Guild 1_administrator level 3
+9034	Construction of the Guild 1_administrator level 4
+9035	Construction of the Guild 1_administrator level 5
+9036	Construction of the Guild 1_administrator level 6
+9037	Guild construction 1_administrator level 7
+9038	Guild construction 1_administrator level 8
+9039	Guild construction 1_administrator level 9
+9040	Construction of the Guild 2_administrator level 1
+9041	Construction of the Guild 2_administrator level 2
+9042	Guild construction 2_administrator level 3
+9043	Construction of the Guild 2_administrator level 4
+9044	Guild construction 2_administrator level 5
+9045	Construction of the Guild 2_administrator level 6
+9046	Construction of the Guild 2_administrator level 7
+9047	Guild construction 2_administrator level 8
+9048	Guild construction 2_administrator level 9
+9049	Granting of Guild capital for the construction of the new base
 9050	Award of double atlases
-9051	Event to protect the wonderful prize of the base PVP of the army
+9051	Event to protect the wonderful prize of the base PVP of the Guild
 9052	Grupo Divino Distribuir Extra Award
 9053	Engineer of the Winter Ice Tower of the red team
 9054	Engineer of the Torre de las Llamas of the blue team
 9055	Engineer of the Winter Ice Tower of the blue team
 9056	Engineer of the Torre de las Llamas of the blue team
 9057	Award of sun rays award
-9058	Army instance zone 0 send mission
-9059	Army instance zone 0 NPC1 sunbeams
-9060	Army instance zone 0 NPC2 sunbeams
-9061	Army instance zone 0 NPC3 sunbeams
-9062	Army instance zone 0 NPC4 sunbeams
-9063	Army instance zone 0 NPC5 sunbeams
-9064	Army instance zone 0 NPC6 sunbeams
-9065	Army instance zone 0 NPC7 sunbeams
-9066	Army instance zone 1 half mission path
-9067	Army instance zone 1 mission guide
-9068	Army instance zone 1 end of missions
-9069	Army Instance Zone 2 Middle Path of Missions
-9070	Army instance zone 2 mission guide
-9071	Army instance zone 2 end of missions
-9072	Army instance zone 3 Orpheus develops skills
-9073	Army instance zone 3 beginning of missions
-9074	Army Instance Area 3 Constellation of the Whale
-9075	Army instance zone 4 Shun develops skills
-9076	Army instance zone 4 Shun begins missions
-9077	Army instance zone 5 mission guide
-9078	Army instance zone 5 end of missions
-9079	Army instance zone 5 Ikki teleportation
-9080	Army Instance Zone 5 Ikki begins missions
-9081	Army instance zone 5 Shun teleportation
-9082	Zone of instance of army 5 teleportation of Shiryu
-9083	Army instance zone 7 send to mission
-9084	Army missions scale
-9085	Army Weekly Mission Award
-9086	Army Weekly Mission Award 2
-9087	Army Weekly Mission Award 3
-9088	Army Weekly Mission Award 4
-9089	Open weekly army mission
-9090	Prize_new army weekly mission
-9091	Open_new army weekly mission
-9092	Person who opens the daily mission of the army
+9058	Guild instance zone 0 send mission
+9059	Guild instance zone 0 NPC1 sunbeams
+9060	Guild instance zone 0 NPC2 sunbeams
+9061	Guild instance zone 0 NPC3 sunbeams
+9062	Guild instance zone 0 NPC4 sunbeams
+9063	Guild instance zone 0 NPC5 sunbeams
+9064	Guild instance zone 0 NPC6 sunbeams
+9065	Guild instance zone 0 NPC7 sunbeams
+9066	Guild instance zone 1 half mission path
+9067	Guild instance zone 1 mission guide
+9068	Guild instance zone 1 end of missions
+9069	Guild Instance Zone 2 Middle Path of Missions
+9070	Guild instance zone 2 mission guide
+9071	Guild instance zone 2 end of missions
+9072	Guild instance zone 3 Orpheus develops skills
+9073	Guild instance zone 3 beginning of missions
+9074	Guild Instance Area 3 Constellation of the Whale
+9075	Guild instance zone 4 Shun develops skills
+9076	Guild instance zone 4 Shun begins missions
+9077	Guild instance zone 5 mission guide
+9078	Guild instance zone 5 end of missions
+9079	Guild instance zone 5 Ikki teleportation
+9080	Guild Instance Zone 5 Ikki begins missions
+9081	Guild instance zone 5 Shun teleportation
+9082	Zone of instance of Guild 5 teleportation of Shiryu
+9083	Guild instance zone 7 send to mission
+9084	Guild missions scale
+9085	Guild Weekly Mission Award
+9086	Guild Weekly Mission Award 2
+9087	Guild Weekly Mission Award 3
+9088	Guild Weekly Mission Award 4
+9089	Open weekly Guild mission
+9090	Prize_new Guild weekly mission
+9091	Open_new Guild weekly mission
+9092	Person who opens the daily mission of the Guild
 9093	Almadel Knight NPC
 9094	Daily missions 01
 9095	Priestess of Athena 1
@@ -10120,7 +10120,7 @@
 10119	Memories Holy War _ daily mission experience elavada
 10120	Pandora Conspiracy
 10121	Start the Struggles
-10122	Army send q mission distribution service of Saori ticket
+10122	Guild send q mission distribution service of Saori ticket
 10123	Elegy of the goddess_BOSS_The Earth star of the Myu enchantment
 10124	Elegy of the goddess_BOSS_The Earth star of darkness Niobe
 10125	Elegy of the Goddess_BOSS_Shion of Aries
@@ -10776,9 +10776,9 @@
 10775	Sanctuary Reward
 10776	Gift from the Guladu financial group
 10777	The Talent of Athena
-10778	Army. God of Wealth
-10779	Army. Illumination Ring
-10780	Army. The Legend of the Treasure
+10778	Guild. God of Wealth
+10779	Guild. Illumination Ring
+10780	Guild. The Legend of the Treasure
 10781	Multiserver Teleport to competition distribute
 10782	Legendary mission_Libear Mu
 10783	Teleportation of the heart of the Cosmo 1
@@ -11388,7 +11388,7 @@
 11387	12 guide for beginners_racles offer sacrifice
 11388	13 Concentation of the armor_Joseph of Bronze
 11389	14 Awarding of silver Armor_Altai
-11390	15 Army Administrator
+11390	15 Guild Administrator
 11391	16 Auction of the Sanctuary
 11392	17 NPC sign change
 11393	18 Concession of the armor_Jason, apprentice craftsman
@@ -11421,50 +11421,50 @@
 11420	Individual Warehouse Mission Dialogue 4
 11421	Individual Warehouse Mission Dialogue 5
 11422	Individual Warehouse Mission Dialogue 6
-11423	Army Foundation Summon Monsters NPC
+11423	Guild Foundation Summon Monsters NPC
 11424	Deliver NPC1 resources in the barracks
 11425	Deliver NPC2 resources in the barracks
 11426	Deliver NPC3 resources in the barracks
 11427	Deliver NPC4 resources in the barracks
 11428	Change of military resources NPC in the barracks
 11429	Achievement scale to receive NPC award in the barracks
-11430	Achievement scale to receive NPC accessories at the base of the army increase 1
-11431	Achievement scale to receive NPC accessories to the base of the army increase 2
-11432	Achievement scale to receive NPC accessories to the army base increase 3
-11433	Achievement scale to receive NPC accessories to the base of the army increase 4
-11434	Achievement scale to receive NPC accessories to the base of the army increase 5
-11435	Achievement scale to receive NPC accessories to the base of the army increase 6
-11436	Achievement scale to receive NPC accessories to the base of the army increase 7
-11437	Achievement scale to receive NPC accessories to the base of the army increase 8
+11430	Achievement scale to receive NPC accessories at the base of the Guild increase 1
+11431	Achievement scale to receive NPC accessories to the base of the Guild increase 2
+11432	Achievement scale to receive NPC accessories to the Guild base increase 3
+11433	Achievement scale to receive NPC accessories to the base of the Guild increase 4
+11434	Achievement scale to receive NPC accessories to the base of the Guild increase 5
+11435	Achievement scale to receive NPC accessories to the base of the Guild increase 6
+11436	Achievement scale to receive NPC accessories to the base of the Guild increase 7
+11437	Achievement scale to receive NPC accessories to the base of the Guild increase 8
 11438	Base update activities Corps and strange NPC missions
-11439	Army Base Administrator
-11440	Receiving NPC1 prize from the payment of army missions
-11441	Receiving NPC2 prize from the payment of army missions
-11442	Receiving NPC3 prize from the payment of army missions
-11443	Receiving NPC4 prize from the payment of army missions
-11444	Receiving NPC5 prize from the payment of army missions
-11445	Army construction 1_administrator level 1
-11446	Construction of the army 1_ Administrator level 2
-11447	Army construction 1_administrator level 3
-11448	Army construction 1_administrator level 4
-11449	Construction of the army 1_administrator level 5
-11450	Army construction 1_administrator level 6
-11451	Army construction 1_administrator level 7
-11452	Construction of the army 1_administrator level 8
-11453	Construction of the army 1_administrator level 9
-11454	Construction of the army 2_administrator level 1
-11455	Construction of the army 2_administrator level 2
-11456	Construction of the army 2_administrator level 3
-11457	Construction of the army 2_administrator level 4
-11458	Army construction 2_administrator level 5
-11459	Army construction 2_administrator level 6
-11460	Army construction 2_administrator level 7
-11461	Army construction 2_administrator level 8
-11462	Army construction 2_administrator level 9
+11439	Guild Base Administrator
+11440	Receiving NPC1 prize from the payment of Guild missions
+11441	Receiving NPC2 prize from the payment of Guild missions
+11442	Receiving NPC3 prize from the payment of Guild missions
+11443	Receiving NPC4 prize from the payment of Guild missions
+11444	Receiving NPC5 prize from the payment of Guild missions
+11445	Guild construction 1_administrator level 1
+11446	Construction of the Guild 1_ Administrator level 2
+11447	Guild construction 1_administrator level 3
+11448	Guild construction 1_administrator level 4
+11449	Construction of the Guild 1_administrator level 5
+11450	Guild construction 1_administrator level 6
+11451	Guild construction 1_administrator level 7
+11452	Construction of the Guild 1_administrator level 8
+11453	Construction of the Guild 1_administrator level 9
+11454	Construction of the Guild 2_administrator level 1
+11455	Construction of the Guild 2_administrator level 2
+11456	Construction of the Guild 2_administrator level 3
+11457	Construction of the Guild 2_administrator level 4
+11458	Guild construction 2_administrator level 5
+11459	Guild construction 2_administrator level 6
+11460	Guild construction 2_administrator level 7
+11461	Guild construction 2_administrator level 8
+11462	Guild construction 2_administrator level 9
 11463	Double Atlas Award
 11464	Grupo Divino Distribuir Extra Award
-11465	new weekly events of the army_premios
-11466	Person who opens the daily mission of the army
+11465	new weekly events of the Guild_premios
+11466	Person who opens the daily mission of the Guild
 11467	Almadel knight NPC
 11468	Daily missions 01
 11469	Betina 2
@@ -13246,8 +13246,8 @@
 13245	Thanksgiving_ Poor Sanctuary 3
 13246	Thanksgiving_Atena
 13247	Recovery of the Disposable Mission of the Return of the Knight
-13248	Chinese New Year _Army_Mixed Basic Mission
-13249	Chinese New Year_Army_to eliminate the Three Judges Concluded
+13248	Chinese New Year _Guild_Mixed Basic Mission
+13249	Chinese New Year_Guild_to eliminate the Three Judges Concluded
 13250	Chinese New Year _Exercise Spy Completed
 13251	Chinese New Year_Mission Map 13_Atena
 13252	Chinese New Year _Mission Map 1_Coballeros de Oro 1
@@ -14363,17 +14363,17 @@
 14362	Open the secret treasure
 14363	The mysterious treasure of Gemini
 14364	Open the secret treasure
-14365	Army Insecticide
+14365	Guild Insecticide
 14366	Picking up
-14367	Army canteen
+14367	Guild canteen
 14368	Picking up
-14369	Army Seeds
+14369	Guild Seeds
 14370	Picking up
-14371	Army Fertilizers
+14371	Guild Fertilizers
 14372	Picking up
-14373	Army shovel
+14373	Guild shovel
 14374	Picking up
-14375	Army herbicide
+14375	Guild herbicide
 14376	Picking up
 14377	Base of the level 1 flag
 14378	Summon flag
@@ -15151,7 +15151,7 @@
 15150	Investigate
 15151	Pink snow
 15152	Picking up
-15153	Osmanthus
+15153	Devilwood
 15154	Picking up
 15155	Monstrous Wolf Nest
 15156	Investigate

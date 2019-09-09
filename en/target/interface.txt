@@ -306,38 +306,38 @@
 305	☆
 306	Mail
 307	Warehouse
-308	Army Warehouse
+308	Guild Warehouse
 309	Auction House
 310	Article Dismantling
 311	Refine Gear
 312	Transfer
-313	Create Army
-314	Application to join the army
-315	Application for army base
-316	Join the army base
+313	Create Guild
+314	Application to join the Guild
+315	Application for Guild base
+316	Join the Guild base
 317	Join other military bases
-318	Leave army base
+318	Leave Guild base
 319	Atlas Teleportation
 320	Runes
 321	Double EXP on / off
-322	Declaration of War of the Army
-323	Army fight for freedom (name of the character who has declared war)
-324	Army fight for freedom (name of the army that has declared war)
+322	Declaration of War of the Guild
+323	Guild fight for freedom (name of the character who has declared war)
+324	Guild fight for freedom (name of the Guild that has declared war)
 325	Change Sign
 326	Message from the Disseminator
 327	Golden Message from the Disseminator
 328	Equipment to strengthen fusion
 329	Treasure hunt
 330	Leave instance zone
-331	Receive for the indication contribution of the army
+331	Receive for the indication contribution of the Guild
 332	Gift Card
 333	[Challenge] Star Epic
 334	Bathroom of Glory
 335	Pet Procreation
 336	Receive a procreated baby
 337	See you later.
-338	Create army alliance
-339	Army Alliance List
+338	Create Guild alliance
+339	Guild Alliance List
 340	Element Transfer
 341	Change amount of Astro EXP
 342	Enter the competition arena
@@ -446,8 +446,8 @@
 445	Bereavement request
 446	System Information
 447	Message of Friends
-448	Army Battle Request
-449	Army Request
+448	Guild Battle Request
+449	Guild Request
 450	Request to join the team
 451	Request to form a group
 452	Force entry into the instance?
@@ -464,8 +464,8 @@
 463	Guardianship Invitation
 464	Athena authentication invitation
 465	Will be voted to be expelled from the troop
-466	Army Alliance Request
-467	Army Award
+466	Guild Alliance Request
+467	Guild Award
 468	Will be voted to be expelled from the battlefield
 469	Show all
 470	[Qst] General
@@ -506,13 +506,13 @@
 505	Individual
 506	Group
 507	World
-508	Army
+508	Guild
 509	Frien
 510	Glory in battle: %d
-511	%power
+511	%s power
 512	Power:
 513	Power
-514	Total power
+514	Power total
 515	Power: %d
 516	Armor:
 517	Bronze Armor
@@ -561,7 +561,7 @@
 560	Increasing the level of the character can raise the Power of Struggle
 561	Learning and honing fighting skills can improve the Consciousness amount
 562	It is not open yet
-563	Practicing army skills can raise the Power of Struggle
+563	Practicing Guild skills can raise the Power of Struggle
 564	Increasing the limit of the Cosmo can raise the Power of Struggle
 565	Due to the life points of the Solar Star and the Solar Star Soul, improving the quality and level of the Solar Star Soul can raise the Power of Struggle
 566	Due to the life points of the Lunar Star and the Lunar Star Soul, improving the quality and level of the Lunar Star Soul can raise the Power of Struggle
@@ -623,8 +623,8 @@
 622	Error sending the voice message, you need the support of the "World Channel Megaphone" to allow all people to hear your voice.
 623	Error when sending the voice message, you need the support of the "Megaphone of the Transmission Channel" to allow all the people to hear your voice.
 624	Error in the transmission, you need the support of the Divine Order of Hermes "to allow all the people to hear your voice.
-625	The message of the channel will consume Megaphone of the Multi-Server Channel
-626	The message of the channel will consume "Megaphone of the World Channel"
+625	Megaphone of the Multi-Server Channel is required
+626	Megaphone of "Megaphone of the World Channel"
 627	Channel message will consume %d Cash
 628	Channel message consumes "World Channel Megaphone" or Cash tips
 629	You can only send one article symbol to the dialog bar at a time
@@ -647,12 +647,12 @@
 646	Currently, you have no friends
 647	Currently, you do not participate in battlefields or qualifying events
 648	Currently, you did not join any organization to protect the 12 Houses
-649	Currently, you did not join any army alliance.
+649	Currently, you did not join any Guild alliance.
 650	There was a change in inventory items, causing an error in the link. Please, try again.
 651	[General]
 652	[World]
 653	[Group]
-654	[Army]
+654	[Guild]
 655	[MP]
 656	[Damage]
 657	[Battle]
@@ -721,7 +721,7 @@
 720	OFF
 721	I
 722	All
-723	Day Programming
+723	Activities
 724	In the row
 725	Activity: %d
 726	Click here to find details of your teammates,
@@ -737,9 +737,9 @@
 736	Can not form a row
 737	You are not the captain
 738	You're not the boss
-739	( %d people)
-740	( %d- %d people)
-741	%s- %s
+739	(%d people)
+740	(%d-%d people)
+741	%s-%s
 742	(In progress)
 743	Enter
 744	Confirming local
@@ -754,18 +754,18 @@
 753	will close in %s
 754	Dead
 755	Power: %s
-756	^e12500 %d days incomplete, the settlement of EXP increased to %d % %^N
-757	^e12500more than 2 days incomplete, EXP settlement increased to %d % %^N
-758	^e12500 EXP Compensation: %d incomplete days, EXP settlement increased to %d % %^N
-759	^e12500 EXP compensation: more than 2 days incomplete, EXP settlement increased to %d % %^N
-760	Today you participated in the %s events and you can get the %d % %award
+756	^e12500 %d days incomplete, the settlement of EXP increased to %d%%^N
+757	^e12500more than 2 days incomplete, EXP settlement increased to %d%%^N
+758	^e12500 EXP Compensation: %d incomplete days, EXP settlement increased to %d%%^N
+759	^e12500 EXP compensation: more than 2 days incomplete, EXP settlement increased to %d%%^N
+760	Today you participated in the %s events and you can get the %d%% award
 761	This prize can only be received tomorrow.
 762	Continue to strive and increase your level!
 763	Recommended activities:
 764	Complete the objectives and receive ^00ff00EXP and Gem ^ffffff.
 765	You can enter the auto-hunting events:
-766	${npc(33799, "Click here to search")}
-767	${jump (63, "Click here")}
+766	${npc(33799,'Click here to search')}
+767	${jump(63,'Click here')}
 768	You can get a lot of EXP and Cash
 769	You can get a lot of Astro EXP and Cash
 770	%d %s · %s
@@ -939,8 +939,8 @@
 938	Inserts the serial number
 939	The serial number does not have 20 characters, please check.
 940	Only after ( %s) is that the created character can use that card.
-941	${npc(39771, "Find the way to Hyoga")}
-942	${npc(39802, "Find the way to Shiryu")}
+941	${npc(39771,'Find the way to Hyoga')}
+942	${npc(39802,'Find the way to Shiryu')}
 943	Fold and lower ^Ffffff
 944	Orange and lower ^Ffffff
 945	Purple and lower ^Ffffff
@@ -1003,7 +1003,7 @@
 1002	SKI
 1003	MAP
 1004	COS
-1005	ARM
+1005	GLD
 1006	FRI
 1007	ARM
 1008	RAN
@@ -1108,13 +1108,13 @@
 1107	Learning and improving combat skills can increase awareness. Values need to reach a certain level of awareness when upgrading at 19, 29, 39, 49, and 59 levels.
 1108	Gain experience：
 1109	Get experience：
-1110	${npc(33799,\"Go to\")}
-1111	${jump(63,\"Click for details\")}
+1110	${npc(33799,'Go to')}
+1111	${jump(63,'Click for details')}
 1112	Get up to %s experience and %s cash today
 1113	Up to %s point experience and %s cash today
 1114	<Mall>Weekly package
-1115	${npc(39771,\"Go to\")}
-1116	${npc(39802,\"Go to\")}
+1115	${npc(39771,'Go to')}
+1116	${npc(39802,'Go to')}
 1117	Main shortcut bar 12
 1118	Main extension shortcut bar 1_12
 1119	Main extension shortcut bar 2_12

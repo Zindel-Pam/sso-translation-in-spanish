@@ -331,39 +331,39 @@
 330	Defeat me in 5 minutes, even if time runs out!
 331	Newbies, leave in 20 seconds! Can you defeat me, so that I have a little hope?
 332	Dying for a girl, it's worth it! Hunf!
-333	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-334	$UImid$noname Inside the Army Base, enemy forces appeared loaded with necessary resources for the Preparation Event to increase the level of the Base! Kill them and collect the resources!
-335	$noname$UImid It was not possible to collect the resources that the Army architect needs, within 30 minutes! The event failed! Try again after half an hour!
-336	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-337	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-338	$noname$UImid Inside the Army Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
-339	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-340	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-341	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-342	$noname$UImid Inside the Army Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
-343	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-344	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-345	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-346	$noname$UImid Inside the Army Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
-347	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-348	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-349	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-350	$noname$UImid Inside the Army Base, enemy forces appeared loaded with the necessary resources for the Preparation Event to increase the level of the Base! Kill them and collect the resources!
-351	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-352	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-353	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-354	$noname$UImid Inside the Army Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
-355	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-356	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-357	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-358	$noname$UImid Inside the Army Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
-359	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-360	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-361	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Army architect, Hassan, needs! Finish the test that the Goddess threw everyone!
-362	$noname$UImid Inside the Army Base, enemy forces appeared loaded with necessary resources for the Preparation Event to increase the Base level! Kill them and collect the resources!
-363	$noname$UImid It was not possible to collect the resources that the Army architect needed, within 30 minutes! The event failed! Try again after half an hour!
-364	$noname$UImid The Preparation Event to increase the level of the Base was completed! Army Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
-365	$UImid$noname The Army Boss will open the Treasure Box of the "Blessing of the Gods" and will receive the Gold Piece for the members of the Army who have striven in the struggle.
+333	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+334	$UImid$noname Inside the Guild Base, enemy forces appeared loaded with necessary resources for the Preparation Event to increase the level of the Base! Kill them and collect the resources!
+335	$noname$UImid It was not possible to collect the resources that the Guild architect needs, within 30 minutes! The event failed! Try again after half an hour!
+336	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+337	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+338	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
+339	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+340	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+341	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+342	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
+343	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+344	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+345	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+346	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
+347	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+348	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+349	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+350	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with the necessary resources for the Preparation Event to increase the level of the Base! Kill them and collect the resources!
+351	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+352	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+353	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+354	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
+355	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+356	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+357	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+358	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with resources needed for the Preparation Event to increase the Base level! Kill them and collect the resources!
+359	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+360	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+361	$UImid$noname The Preparation Event is released to increase the level of the Base! Within 30 minutes, collect the resources that the Guild architect, Hassan, needs! Finish the test that the Goddess threw everyone!
+362	$noname$UImid Inside the Guild Base, enemy forces appeared loaded with necessary resources for the Preparation Event to increase the Base level! Kill them and collect the resources!
+363	$noname$UImid It was not possible to collect the resources that the Guild architect needed, within 30 minutes! The event failed! Try again after half an hour!
+364	$noname$UImid The Preparation Event to increase the level of the Base was completed! Guild Administrator, remove the Souvenir of Protection of the Goddess with the Athena Emissary, as quickly as possible! The Athena Emissary will leave the Base after 10 minutes!
+365	$UImid$noname The Guild Boss will open the Treasure Box of the "Blessing of the Gods" and will receive the Gold Piece for the members of the Guild who have striven in the struggle.
 366	Attack of all the red team!
 367	Come for the decisive fight!
 368	Attack all the blue team!
@@ -376,25 +376,25 @@
 375	The ice tower of the blue team was destroyed
 376	Construction of the fire tower of the blue team completed
 377	The fire tower of the blue team was destroyed
-378	$noname$UImid The Confessor of Hermes will appear at the Army Base after 3 minutes. Members of the Army, come back to defend the base !!!
-379	$noname$UImid The Confident of Hermes appeared at Army Base. Members of the Army, find him and kill him.
-380	$noname$UImid The Confident of Hermes appeared at Army Base. Members of the Army, find him and kill him.
-381	$noname$UImid The Confident of Hermes appeared at Army Base. Members of the Army, find him and kill him.
-382	$noname$UImid The Confident of Hermes appeared at Army Base. Members of the Army, find him and kill him.
-383	$oname $UImid The Confident of Hermes left the Army Base shamelessly ......
-384	$noname$UImid The Confident of Hermes left the Army Base shamelessly ......
-385	$noname$UImid The Confident of Hermes left the Army Base unabashedly ......
-386	$noname$UImid The Confident of Hermes left the Army Base unabashedly ......
+378	$noname$UImid The Confessor of Hermes will appear at the Guild Base after 3 minutes. Members of the Guild, come back to defend the base !!!
+379	$noname$UImid The Confident of Hermes appeared at Guild Base. Members of the Guild, find him and kill him.
+380	$noname$UImid The Confident of Hermes appeared at Guild Base. Members of the Guild, find him and kill him.
+381	$noname$UImid The Confident of Hermes appeared at Guild Base. Members of the Guild, find him and kill him.
+382	$noname$UImid The Confident of Hermes appeared at Guild Base. Members of the Guild, find him and kill him.
+383	$oname $UImid The Confident of Hermes left the Guild Base shamelessly ......
+384	$noname$UImid The Confident of Hermes left the Guild Base shamelessly ......
+385	$noname$UImid The Confident of Hermes left the Guild Base unabashedly ......
+386	$noname$UImid The Confident of Hermes left the Guild Base unabashedly ......
 387	$UImid$noname The evil prank of Hermes was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 388	$UImid$noname The evil prank of Hermes was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 389	$UImid$noname The evil prank of Hermes was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 390	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
-391	$UImid$noname The Awards NPC will leave the base in 50 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-392	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-393	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-394	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-395	$UImid$noname The Awards NPC will leave the base in 10 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-396	$UImid$noname The Awards NPC will leave the base in 5 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
+391	$UImid$noname The Awards NPC will leave the base in 50 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+392	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+393	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+394	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+395	$UImid$noname The Awards NPC will leave the base in 10 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+396	$UImid$noname The Awards NPC will leave the base in 5 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
 397	Giant Hook!
 398	Powerful First Realm!
 399	Maximum damage!
@@ -500,18 +500,18 @@
 499	How can I die, aaah ......
 500	Damn Humans! Come to die!
 501	I really have lost ......
-502	$noname Through the efforts of all, finally the army of the base recovered peace.
-503	The Underworld forces invaded our base army, please the online members please come back to defend.
-504	The Underworld forces invaded our base army, please the online members please come back to defend.
-505	The invasion of the Underworld in the base's army ran out of control for some time and then they boasted ...
-506	Cerberos actually appeared at the base of the army, ask the members to go and destroy it !!!
-507	Due to the destruction of a large part of the invaders of the Underworld, their commander was alarmed, the Earth Star of Wealth appeared at the base of the army !!!
-508	$noname$UImid The messenger of Hermes will leave the army base after 10 minutes.
-509	$noname$UImid The messenger of Hermes left the base of the army ......
-510	$noname$UImid A large number of giants appeared at the base of the army, please ask the members of the army to return and defend quickly.
+502	$noname Through the efforts of all, finally the Guild of the base recovered peace.
+503	The Underworld forces invaded our base Guild, please the online members please come back to defend.
+504	The Underworld forces invaded our base Guild, please the online members please come back to defend.
+505	The invasion of the Underworld in the base's Guild ran out of control for some time and then they boasted ...
+506	Cerberos actually appeared at the base of the Guild, ask the members to go and destroy it !!!
+507	Due to the destruction of a large part of the invaders of the Underworld, their commander was alarmed, the Earth Star of Wealth appeared at the base of the Guild !!!
+508	$noname$UImid The messenger of Hermes will leave the Guild base after 10 minutes.
+509	$noname$UImid The messenger of Hermes left the base of the Guild ......
+510	$noname$UImid A large number of giants appeared at the base of the Guild, please ask the members of the Guild to return and defend quickly.
 511	$noname$UImid Attention! After 30 minutes of the start of the event it will be impossible to receive the Attack to the Giants mission again.
-512	$noname$UImid The giants suddenly disappeared at the base of the army
-513	$noname$UImid <God of Mischief> This event ends here, members of the army, please continue to work hard.
+512	$noname$UImid The giants suddenly disappeared at the base of the Guild
+513	$noname$UImid <God of Mischief> This event ends here, members of the Guild, please continue to work hard.
 514	$noname$UImid The giants at the base seem restless, according to reliable sources they will disappear in 5 minutes.
 515	Who saw my stainless steel sword?
 516	This mountain is mine, this tree was me who planted, if you want to go through here, come and defeat me ~
@@ -520,9 +520,9 @@
 519	Next time I will call more brothers, if you have courage do not run ...!
 520	Brothers, kill them!
 521	Brothers? Were they cooked?
-522	Our army is the most powerful!
+522	Our Guild is the most powerful!
 523	Do not envy my beauty and wealth, so we can not fight together!
-524	Out of the way, insignificant! In passing to our army!
+524	Out of the way, insignificant! In passing to our Guild!
 525	And do they have the courage to challenge us with that insignificant fighting power? They are very conscientious. Ha ~
 526	I'm going to bathe
 527	Strength, dear ones! Defeat them ~
@@ -534,16 +534,16 @@
 533	They killed my Fighting Pet .... Impossible ...
 534	Pet of Struggle, bite them, do not leave anything left over!
 535	Do not get or beat my Pet and dream of challenging me?
-536	$UImid$noname The spirits of the Reborn Knights were all purified !!! Find Betina immediately to receive the <Elegy of the Resurrection> award. Athena sent her Emissary, all the members of the army can receive the prize with Karin.
+536	$UImid$noname The spirits of the Reborn Knights were all purified !!! Find Betina immediately to receive the <Elegy of the Resurrection> award. Athena sent her Emissary, all the members of the Guild can receive the prize with Karin.
 537	$UImid $nonam The event <Elegy of the Resurrection> has already begun! The event lasts only 30 minutes, members must participate immediately.
-538	$UImid$noname The Spirits of the Advanced level Knights in the Army appeared, which possess strong powers. Qualified members, form a team to purify them.
-539	$UImid$noname The members of the Army have already purified 10 Spirits. The bigger the number, the bigger the final prize!
-540	$UImid$noname The members of the Army already purified 60 Spirits. The bigger the number, the bigger the final prize!
-541	$UImid$noname The members of the Army already purified 300 Spirits. The bigger the number, the bigger the final prize!
+538	$UImid$noname The Spirits of the Advanced level Knights in the Guild appeared, which possess strong powers. Qualified members, form a team to purify them.
+539	$UImid$noname The members of the Guild have already purified 10 Spirits. The bigger the number, the bigger the final prize!
+540	$UImid$noname The members of the Guild already purified 60 Spirits. The bigger the number, the bigger the final prize!
+541	$UImid$noname The members of the Guild already purified 300 Spirits. The bigger the number, the bigger the final prize!
 542	$UImid$noname The spirits of the Advanced Knights level were all purified !!!
-543	$UImid$noname The Athena Emissary has already appeared at the Army Base. Members who have not yet received the prize should immediately look for Karin !!!
-544	$UImid$noname The Athena Emissary will leave the Base in 5 minutes. Members who have not yet received the Army Award, look for Karin immediately !!!
-545	$UImid$noname The Emissaries of Athena, Berina and Karin have already left the Army Base.
+543	$UImid$noname The Athena Emissary has already appeared at the Guild Base. Members who have not yet received the prize should immediately look for Karin !!!
+544	$UImid$noname The Athena Emissary will leave the Base in 5 minutes. Members who have not yet received the Guild Award, look for Karin immediately !!!
+545	$UImid$noname The Emissaries of Athena, Berina and Karin have already left the Guild Base.
 546	$UImid$noname The event <Elegy of the Resurrection> is already closed!
 547	I felt the power
 548	Sow quickly!
@@ -556,10 +556,10 @@
 555	I've recovered
 556	Quick, weed!
 557	Give it to me, I will purify it!
-558	The benefit of the Army will be released in 10 minutes, members of the Army, return to the base to receive it, do not lose the opportunity.
-559	The benefit of the Army will be released in 5 minutes, members of the Army, return to the base to receive it, do not lose the opportunity.
-560	The benefit of the Army will be released in 1 minute, members of the Army, return to the base to receive it, do not lose the opportunity.
-561	The benefit of the Army is released.
+558	The benefit of the Guild will be released in 10 minutes, members of the Guild, return to the base to receive it, do not lose the opportunity.
+559	The benefit of the Guild will be released in 5 minutes, members of the Guild, return to the base to receive it, do not lose the opportunity.
+560	The benefit of the Guild will be released in 1 minute, members of the Guild, return to the base to receive it, do not lose the opportunity.
+561	The benefit of the Guild is released.
 562	Please; continue to strive in the next week, the more they participate, the more benefits they will have!
 563	Soc - Help! I ... I'm dying!
 564	My God, you finally arrived ... fast, he's there ahead ... go fast ...
@@ -1595,9 +1595,9 @@
 1594	$noname$UImidThe first Knight of level 30 has already appeared. End of the Iron Age. Knights, get together to build the Bronze Age!
 1595	$noname$UImidThe first Knight of level 30 has already appeared. End of the Iron Age. Knights, get together to build the Bronze Age!
 1596	$noname$UImidThe first Knight of level 30 already appeared. End of the Iron Age. Knights, get together to build the Bronze Age!
-1597	$noname$UImidThe first Army was created. The server entered the Bronze Age, officially.
-1598	$noname$UImidThe first Army was created. The server entered the Bronze Age, officially.
-1599	$noname$UImidThe first Army was created. The server entered the Bronze Age, officially.
+1597	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
+1598	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
+1599	$noname$UImidThe first Guild was created. The server entered the Bronze Age, officially.
 1600	$noname$UImidThe Soul of the Emperor of the Seas with resentment tried to invade the Sanctuary and was imprisoned by Athena. After ejecting it, the server will enter the Silver Age.
 1601	$noname$UImidThe Soul of the Emperor of the Seas with resentment tried to invade the Sanctuary and was imprisoned by Athena. After ejecting it, the server will enter the Silver Age.
 1602	$noname$UImidThe Soul of the Emperor of the Seas with resentment tried to invade the Sanctuary and was imprisoned by Athena. After ejecting it, the server will enter the Silver Age.
@@ -2439,7 +2439,7 @@
 2438	$spec questportrait_694
 2439	Red is the best color in the world
 2440	The curse of blood will cover the entire continent
-2441	$UImid$noname [Snowmen's Invasion] Snowmen's Army will invade Siberia within 10 minutes, please, Knights, get ready!
+2441	$UImid$noname [Snowmen's Invasion] Snowmen's Guild will invade Siberia within 10 minutes, please, Knights, get ready!
 2442	$UImid$noname [Invasion of the Snowmen] Snow Elite soldiers appeared in the boreal region (3,4,6,7), fast Knights, kill them!
 2443	$UImid$noname [Invasion of the Snowmen] Snow Elite soldiers appeared at the dark ice post (3,4,6,7), fast Knights, kill them!
 2444	$UImid$noname [Snow Men's Invasion] Snow Elite soldiers appeared in the training area (3,4,6,7), fast Knights, kill them!
@@ -2454,7 +2454,7 @@
 2453	$UImid$noname [Invasion of the Snowmen] The invasion of the Snowmen is about to begin, Knights can receive the mission with Silenus in the Sanctuary!
 2454	$UImid$noname [Invasion of the Snowmen] The snowmen have launched an attack on Siberia, then to the war Knights!
 2455	$UImid$noname [Invasion of the Snowmen] The event will close in five minutes!
-2456	$UImid$noname [Invasion of the Snowmen] The army of the snowmen retreated, Knights managed to protect the earth! End of the Event!
+2456	$UImid$noname [Invasion of the Snowmen] The Guild of the snowmen retreated, Knights managed to protect the earth! End of the Event!
 2457	Find a love! Find a love!
 2458	Look at my bachelor power!
 2459	I never want to be rejected again by someone, nor in the next reincarnation!
@@ -2476,7 +2476,7 @@
 2475	$UImid$noname [Invasion of the Underworld] A large number of Underworld troops launched an attack on the Sanctuary and Atlantis, then to the war Knights!
 2476	$UImid$noname [Invasion of the Underworld] The event will close in ten minutes!
 2477	$UImid$noname [Invasion of the Underworld] The event will close in five minutes!
-2478	$UImid$noname [Invasion of the Underworld] The Underworld army retreated, Knights managed to protect the earth! End of the Event!
+2478	$UImid$noname [Invasion of the Underworld] The Underworld Guild retreated, Knights managed to protect the earth! End of the Event!
 2479	$UImid$noname [Invasion of the Underworld] The Underworld will invade the earth within 10 minutes, please Knights, get ready!
 2480	$UImid$noname [Invasion of the Underworld] The Underworld will invade the earth within 5 minutes, please Knights, get ready!
 2481	$UImid$noname [Invasion of the Underworld] The Underworld is about to invade, Knights, you can receive the mission with Carmo (level 20 to 79) and Kantazaro (80 up).
@@ -2484,7 +2484,7 @@
 2483	$UImid$noname [Invasion of the Underworld] A large number of Underworld troops launched an attack on the Sanctuary and Atlantis, then to the war Knights!
 2484	$UImid$noname [Invasion of the Underworld] The event will close in ten minutes!
 2485	$UImid$noname [Invasion of the Underworld] The event will close in five minutes!
-2486	$UImid$noname [Invasion of the Underworld] The Underworld army retreated, Knights managed to protect the earth! End of the Event!
+2486	$UImid$noname [Invasion of the Underworld] The Underworld Guild retreated, Knights managed to protect the earth! End of the Event!
 2487	Praise ... eternal sleep!
 2488	$UImid$noname [Invasion of the Underworld] The Cobra of the Underworld appeared in the area of ​​the Servants of the Sanctuary (2,4,6,8,10), fast Knights, kill her!
 2489	$UImid$noname [Invasion of the Underworld] The black swan has already infiltrated the well of the dead (2,4,6,8,10), fast Knights kill him!
@@ -2574,7 +2574,7 @@
 2573	$noname$UImidThe Celestial Star of Courage, Aiacos, appeared on the left!
 2574	Damn! I have been seen!
 2575	11111	
-2576	$noname$UImidThe Power of the Underworld initiated an invasion at the Army Base!
+2576	$noname$UImidThe Power of the Underworld initiated an invasion at the Guild Base!
 2577	$noname$UImidJovenes! Defend the Earth together with my Golden Knights!
 2578	Feel the evil thoughts!
 2579	Feel the evil thoughts!
@@ -2615,7 +2615,7 @@
 2614	$UImid$noname Athena: Hades accepted your challenge, my Knights and I are surely going to expel you from this land !!!
 2615	Hades has already invaded the Temple of Athena, we have to go there as fast as possible!
 2616	This Cosmo ... it seems that only by defeating the three judges it is possible to pass through here!
-2617	So many soldiers of the Sanctuary dead ... the army of Hades is really unforgivable!
+2617	So many soldiers of the Sanctuary dead ... the Guild of Hades is really unforgivable!
 2618	The last of the three judges of the Underworld is in front of us, do not lower your guard!
 2619	Hades ahead, Athena seems to use her power to limit his actions, to overcome the Holy War, we can not let him escape from the Sanctuary!
 2620	Haha, well done! I will be your next opponent!
@@ -4201,10 +4201,10 @@
 4200	Pleasure in seeing them! So ... What kind of death do you prefer?
 4201	I must attack from another angle, who will be the weak point so I can move forward?
 4202	I'll curse them after ~~ of my death ~~
-4203	I did not think they could still fight! But you can not stop the attack of the Underworld army anyway!
+4203	I did not think they could still fight! But you can not stop the attack of the Underworld Guild anyway!
 4204	Soldiers of the Underworld, come help me!
 4205	Soldiers of the Underworld, come and help me!
-4206	Fear before the army of the Underworld!
+4206	Fear before the Guild of the Underworld!
 4207	$spec questportrait_165
 4208	$spec animation_2029
 4209	Titanic Hook!
@@ -4929,7 +4929,7 @@
 4928	Broadcast on the common channel GM 1 Baidu 2 Seeks 3 Receive Award 48964
 4929	Broadcast on the map GM 1 Baidu 2 Search 3 Receive Award 48964
 4930	Broadcast World GM 1 Baidu 2 Seeks 3 Receive Award 48964
-4931	Army Broadcast GM 1 Baidu 2 Seeks 3 Receive Prize 48964
+4931	Guild Broadcast GM 1 Baidu 2 Seeks 3 Receive Prize 48964
 4932	Propria Disappearance Monster Test
 4933	Use skills
 4934	Disappear 1
@@ -5062,26 +5062,26 @@
 5061	In the world of dreams I am invincible!
 5062	$noname Hypnos has been defeated, then players who will participate in the BOSS competition can search for Thalia to receive a trumpet piece!
 5063	I am a wooden stake, my ability to withstand blows is high!
-5064	$noname ^ffdf00The Flag Protection Area was released. All players above level 60 and having Army Base can search for the Entry Emissary in the 【Alert Area (213.254)】 to enter. Invoke protection to the flag to obtain prizes and glory!
-5065	$noname ^ffdf00The Flag Protection Area is released. All players above level 60 who have Army Base can search for the Entry Emissary in the 【Alert Area (213.254)】 to enter. Invoke protection to the flag to obtain prizes and glory!
+5064	$noname ^ffdf00The Flag Protection Area was released. All players above level 60 and having Guild Base can search for the Entry Emissary in the 【Alert Area (213.254)】 to enter. Invoke protection to the flag to obtain prizes and glory!
+5065	$noname ^ffdf00The Flag Protection Area is released. All players above level 60 who have Guild Base can search for the Entry Emissary in the 【Alert Area (213.254)】 to enter. Invoke protection to the flag to obtain prizes and glory!
 5066	$noname ^ffdf00The Flag Protection Area will close in 15 minutes
 5067	$noname ^ffdf00The Flag Protection Area will close in 1 minute
-5068	$noname ^ffdf00An Army member activated the Level 1 Flag in the Protection Area. Protect it with care.
-5069	$noname ^ffdf00The Army Level 1 Flag is under attack. Return to the Flag Protection Area to protect it!
-5070	$noname ^ffdf00The Army level 1 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+5068	$noname ^ffdf00An Guild member activated the Level 1 Flag in the Protection Area. Protect it with care.
+5069	$noname ^ffdf00The Guild Level 1 Flag is under attack. Return to the Flag Protection Area to protect it!
+5070	$noname ^ffdf00The Guild level 1 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
 5071	$noname ^ffdf00The Level 1 Flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
 5072	$noname ^ffdf00A member activated the Level 2 Flag in the Protection Area. Protect it carefully.
-5073	$noname ^ffdf00The Army level 2 flag is under attack. Return to the Flag Protection Area to protect it!
-5074	$noname ^ffdf00La Army level 2 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+5073	$noname ^ffdf00The Guild level 2 flag is under attack. Return to the Flag Protection Area to protect it!
+5074	$noname ^ffdf00La Guild level 2 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
 5075	$noname ^ffdf00 The level 2 flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
-5076	$noname ^ffdf00An Army member activated the Level 3 flag in the Protection Area. Protect it with care.
-5077	$noname ^ffdf00The Army Level 3 Flag is under attack. Return to the Flag Protection Area to protect it!
-5078	$noname ^ffdf00The Army level 3 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+5076	$noname ^ffdf00An Guild member activated the Level 3 flag in the Protection Area. Protect it with care.
+5077	$noname ^ffdf00The Guild Level 3 Flag is under attack. Return to the Flag Protection Area to protect it!
+5078	$noname ^ffdf00The Guild level 3 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
 5079	$noname ^ffdf00 The level 3 flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
-5080	$noname ^ffdf00An Army activated the Super Flag in the Protection Area! All players above level 60 and having Army Base can enter the dispute!
-5081	$noname ^ffdf00The Super Army Flag is under attack. Return to the Flag Protection Area to protect it!
-5082	$noname ^ffdf00The Super Army Banner was destroyed, decreasing the Protection EXP. Go to the Flag Protection Area to collect the Treasure Box of Destruction.
-5083	$noname ^ffdf00The Super Flag was successfully protected, due to the efforts of the members of the Army, increasing the Protection EXP. Go to the Flag Protection Area to collect the Treasure Box of Protection.
+5080	$noname ^ffdf00An Guild activated the Super Flag in the Protection Area! All players above level 60 and having Guild Base can enter the dispute!
+5081	$noname ^ffdf00The Super Guild Flag is under attack. Return to the Flag Protection Area to protect it!
+5082	$noname ^ffdf00The Super Guild Banner was destroyed, decreasing the Protection EXP. Go to the Flag Protection Area to collect the Treasure Box of Destruction.
+5083	$noname ^ffdf00The Super Flag was successfully protected, due to the efforts of the members of the Guild, increasing the Protection EXP. Go to the Flag Protection Area to collect the Treasure Box of Protection.
 5084	$spec questportrait_505
 5085	Death, 600
 5086	Did you hear that beautiful song of death?
@@ -6419,15 +6419,15 @@
 6418	$spec animation_2011
 6419	Experience the rage of the land of death!
 6420	Raaw!
-6421	The Underworld forces invaded our base army, please the online members please come back to defend.
+6421	The Underworld forces invaded our base Guild, please the online members please come back to defend.
 6422	Raaw !!!
-6423	$noname Through the efforts of all, finally the army of the base recovered peace.
-6424	The invasion of the Underworld in the base's army ran out of control for some time and then they boasted ...
-6425	Cerberos actually appeared at the base of the army, ask the members to go and destroy it !!!
-6426	$UImid$noname The members of the Army have already purified 10 Spirits. The bigger the number, the bigger the final prize!
+6423	$noname Through the efforts of all, finally the Guild of the base recovered peace.
+6424	The invasion of the Underworld in the base's Guild ran out of control for some time and then they boasted ...
+6425	Cerberos actually appeared at the base of the Guild, ask the members to go and destroy it !!!
+6426	$UImid$noname The members of the Guild have already purified 10 Spirits. The bigger the number, the bigger the final prize!
 6427	$UImid$noname The spirits of the Advanced Knights level were all purified !!!
 6428	$UImid$noname The event <Elegy of the Resurrection> is already closed!
-6429	$UImid$noname The spirits of the Reborn Knights were all purified !!! Find Betina immediately to receive the <Elegy of the Resurrection> award. Athena sent her Emissary, all the members of the army can receive the prize with Karin.
+6429	$UImid$noname The spirits of the Reborn Knights were all purified !!! Find Betina immediately to receive the <Elegy of the Resurrection> award. Athena sent her Emissary, all the members of the Guild can receive the prize with Karin.
 6430	Reckless, dare to invade the illusion of Pisces!
 6431	Impact of the shadows!
 6432	Restriction of Darkness!
@@ -6617,9 +6617,9 @@
 6616	The thief is audacious without equal, besides being awesome!
 6617	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
 6618	$UImid$noname Hermes mischief was not successful. To demonstrate admiration for the Knights, he decides that he will reward them.
-6619	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-6620	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
-6621	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Army Award, look for the Hermes Emissary immediately!
+6619	$UImid$noname The Awards NPC will leave the base in 40 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6620	$UImid$noname The Awards NPC will leave the base in 30 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
+6621	$UImid$noname The Awards NPC will leave the base in 20 minutes. Members who have not yet received the Guild Award, look for the Hermes Emissary immediately!
 6622	Here is a forbidden zone !!! Get out fast!
 6623	Guillotine!
 6624	Come, let's have a real fight!
@@ -7098,8 +7098,8 @@
 7097	Misty, you are the cutest Knight of all, strength! Force!
 7098	Sweet or Trick!
 7099	Hit me, hit me!
-7100	$noname$UImid The messenger of Hermes will leave the army base after 10 minutes.
-7101	$noname$UImid The messenger of Hermes left the base of the army ......
+7100	$noname$UImid The messenger of Hermes will leave the Guild base after 10 minutes.
+7101	$noname$UImid The messenger of Hermes left the base of the Guild ......
 7102	Impossible ......
 7103	Separation!
 7104	Deprivation of your fourth sense!
@@ -7275,14 +7275,14 @@
 7274	Damn, I've been discovered!
 7275	If you catch me, I'll tell you where the others are!
 7276	$noname$UImidUn a thief of turkey, who gave up everything, revealed the hiding place of the others and they were all discovered!
-7277	$noname ^ffdf00The Army Level 3 Flag is under attack. Return to the Flag Protection Area to protect it!
-7278	$noname ^ffdf00The Army level 3 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+7277	$noname ^ffdf00The Guild Level 3 Flag is under attack. Return to the Flag Protection Area to protect it!
+7278	$noname ^ffdf00The Guild level 3 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
 7279	$noname ^ffdf00 The level 3 flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
-7280	$noname ^ffdf00The Army level 2 flag is under attack. Return to the Flag Protection Area to protect it!
-7281	$noname ^ffdf00La Army level 2 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+7280	$noname ^ffdf00The Guild level 2 flag is under attack. Return to the Flag Protection Area to protect it!
+7281	$noname ^ffdf00La Guild level 2 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
 7282	$noname ^ffdf00 The level 2 flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
-7283	$noname ^ffdf00The Army Level 1 Flag is under attack. Return to the Flag Protection Area to protect it!
-7284	$noname ^ffdf00The Army level 1 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
+7283	$noname ^ffdf00The Guild Level 1 Flag is under attack. Return to the Flag Protection Area to protect it!
+7284	$noname ^ffdf00The Guild level 1 flag was destroyed, decreasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Treasure Box of Destruction.
 7285	$noname ^ffdf00The Level 1 Flag was successfully protected, increasing the Protection EXP. The member who invoked the Flag must go to the Flag Protection Area to collect the Protection Treasury Box.
 7286	The Sealed Amfora does not belong to you!
 7287	Fist of Arctic ice, purify everything!

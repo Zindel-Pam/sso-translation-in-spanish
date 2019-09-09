@@ -188,24 +188,24 @@
 187	Players receive the titles: \r1º place: Presbíterio \r2º - 10º places: Corazón del Cosmo \r11º - 100º places: Priest \r101º - 200º place: Apprentice
 188	List of fresh flowers of the Day of the Singles
 189	Level
-190	My army:
+190	My Guild:
 191	Level
 192	Power
 193	Power Statistics
-194	The Army's Fighting Power will become the sum of the highest Fighting Power in the history of the Army, of the 60 players with the highest Fighting Power in the history of the Army. The first two Armies with the greatest Fighting Power they can not make alliances with others
-195	General Army
+194	The Guild's Fighting Power will become the sum of the highest Fighting Power in the history of the Guild, of the 60 players with the highest Fighting Power in the history of the Guild. The first two Armies with the greatest Fighting Power they can not make alliances with others
+195	General Guild
 196	Activity
 197	Looting War
-198	My army:
+198	My Guild:
 199	Total Wars
 200	Victories
 201	Looting Wealth
 202	Fighting Spirit
 203	Activity
-204	Heads of the army obtain the titles: Medal of the Epic Divine Army. If it obtained the 1st Place in the ranking list of the Degree of Weekly Activity of the Gold Army obtained: 144000000 Medal of contribution obtained: 25Medal of the Lendário Army. If he obtained the 2nd place in the list of the rank of Weekly Activity Level of the Gold Army obtained: 12800000 Medal of Contribution obtained: 20 Medal of the Supreme Army. If it obtained the 3rd place in the list of the ranking of the Weekly Activity Level of the Gold Army Obtained: 12800000 Medal of Contribution obtained: 15 Medal of the Magnificent Army. If it obtained 4 ° -10 ° place in the list of the rank of the Weekly Activity of the obtained army Gold: 9600000 Medal of Contribution obtained: 10 Medal of the Glowing army. If it obtained from 21 ° -30 ° place in the list of the ranking of the Weekly Activity Level of the Bright Army. If he obtained from 31st -41st place in the list of the Weekly Activity Level of the Moralizing Army If he obtained from 41st -51st place in the ranking list of the Weekly Gold Army Activity Level obtained: 1600000
+204	Heads of the Guild obtain the titles: Medal of the Epic Divine Guild. If it obtained the 1st Place in the ranking list of the Degree of Weekly Activity of the Gold Guild obtained: 144000000 Medal of contribution obtained: 25Medal of the Lendário Guild. If he obtained the 2nd place in the list of the rank of Weekly Activity Level of the Gold Guild obtained: 12800000 Medal of Contribution obtained: 20 Medal of the Supreme Guild. If it obtained the 3rd place in the list of the ranking of the Weekly Activity Level of the Gold Guild Obtained: 12800000 Medal of Contribution obtained: 15 Medal of the Magnificent Guild. If it obtained 4 ° -10 ° place in the list of the rank of the Weekly Activity of the obtained Guild Gold: 9600000 Medal of Contribution obtained: 10 Medal of the Glowing Guild. If it obtained from 21 ° -30 ° place in the list of the ranking of the Weekly Activity Level of the Bright Guild. If he obtained from 31st -41st place in the list of the Weekly Activity Level of the Moralizing Guild If he obtained from 41st -51st place in the ranking list of the Weekly Gold Guild Activity Level obtained: 1600000
 205	Multi-server
 206	After the Qualification to participate in the Multi-Server Dispute, the statistic deadline is August 1, please visit the Official Page to confirm.
-207	Army Wealth
+207	Guild Wealth
 208	Alliances
 209	Domains
 210	Wealth
@@ -343,8 +343,8 @@
 342	Update the narrative <Knights of the Goddess> consumed ${point} points of the target's update amount
 343	Get ${point} cumulative recharge points
 344	Consume ${point} cumulative recharge points
-345	${name} of the Army increased by ${point} pts.
-346	${name} of the Army reduced by ${point} pts.
+345	${name} of the Guild increased by ${point} pts.
+346	${name} of the Guild reduced by ${point} pts.
 347	Air element damage bonus %d%%
 348	Fire element damage bonus %d%%
 349	Water element damage bonus %d%%
@@ -378,7 +378,7 @@
 377	SKI
 378	QUE
 379	SOC
-380	ARM
+380	GLD
 381	GUA
 382	PET
 383	CSH
@@ -598,7 +598,7 @@
 597	Attack Andromeda
 598	Phoenix Attack
 599	Sea Dragon Attack
-600	year %Y month %m day %d %H: %M: %S
+600	%Y-%m-%d %H:%M:%S
 601	%s behind
 602	%dd
 603	%dh
@@ -611,7 +611,7 @@
 610	Remaining time:
 611	Cont:
 612	%s x %d
-613	year %04d month %02d day %02d %02d: %02d
+613	%04d-%02d-%02d %02d:%02d
 614	Sunday
 615	Monday
 616	Tuesday
@@ -619,10 +619,10 @@
 618	Thursday
 619	Friday
 620	Saturday
-621	%of the year
-622	%of the month
-623	%0.1f sec
-624	%after
+621	%dY
+622	%dM
+623	%0.1fSEC
+624	%s ago
 625	Tomorrow
 626	Noon
 627	Afternoon
@@ -667,8 +667,8 @@
 666	%s %d Star reduced
 667	%s %d Emerald obtained
 668	%s %d Emerald reduced
-669	%of Emerald
-670	%d / %d Emerald
+669	%d Emeralds
+670	%d / %d Emeralds
 671	Due to death with the red name, he lost %s Gold
 672	Due to death with the red name, he lost %d % %of the durability of the equipment and of the Armor
 673	EXP lost: %I64d
@@ -732,7 +732,7 @@
 731	Holy of the Universe
 732	Moving
 733	Would ride
-734	Return to the base of the army
+734	Return to the base of the Guild
 735	Teleportation
 736	Fly
 737	Return to the original service
@@ -751,7 +751,7 @@
 750	During the multiplayer ride, you can not send messages
 751	During the multiplayer ride, you can not auction
 752	During the multiplayer ride, you can not negotiate in the Xunbao 178
-753	During the multiplayer ride, you can not join an army
+753	During the multiplayer ride, you can not join an Guild
 754	During the multiplayer ride, you can not open the store to negotiate
 755	Start the Glory Bath
 756	Suspend the Glory Bath
@@ -874,7 +874,7 @@
 873	Fail to delete!
 874	Waiver made successfully!
 875	Failure to resign!
-876	%I resigned the position of guardian %s gold!
+876	%s resigned from the position of the gold %s guard!
 877	You were exempted by the goddess Athena %s from Guardian's obligations!
 878	Declaration modified successfully!
 879	Fail to modify statement!
@@ -1055,18 +1055,18 @@
 1054	The password has not been activated yet, please define a password first
 1055	Currently, it is in the period to be unlocked, if it is necessary to protect an item, please cancel the unlocking first
 1056	After blocking an item, it is necessary to wait 7 days, do you want to block %s?
-1057	%s can only complete the %dun unlock. \rFirst, separate the correct amount and then click again to complete the unlock
-1058	%unlock time in progress
+1057	%s can only complete the %d unlock. \rFirst, separate the correct amount and then click again to complete the unlock
+1058	%s unlock time in progress
 1059	Number of unlocks
-1060	%unlockables: %d
+1060	You can unlock up to %s%d
 1061	Virtue: %d
-1062	Requirements: \rCharacter %s ^FFFFFF \rPericia %s ^FFFFFF
+1062	Requirements: \rCharacter %s ^FFFFFF \rExpertise %s ^FFFFFF
 1063	EXP %s ^FFFFFF
 1064	Astro EXP %s
 1065	Current level: %d \r
 1066	Virtue increased successfully
 1067	Failure to increase Virtue
-1068	Claveteado del Alma en el Virtud realized successfully
+1068	Spiked of the Soul in Virtue realized successfully
 1069	Failure in the spiking of the Soul in Virtue
 1070	Separation of the Soul in Virtue carried out successfully
 1071	Failure in the separation of the Soul in Virtue
@@ -1204,7 +1204,7 @@
 1203	Love that is revealed creative can only bring happiness
 1204	%s having a loving attitude that is revealed creative will make the sweetheart %s feel a sweet happiness.
 1205	Take the initiative to approach the opposite sex
-1206	%respectfully heard the oracle of the Goddess: if there was an approach initiative of the opposite sex of %s, it is necessary to take such opportunity well
+1206	%s listened to the gods from the goddess: there will be the opposite sex to the %s, and take the opportunity to grasp the opportunity.
 1207	How many loves, do not be ashamed to declare yourself!
 1208	%s brought to %s good luck in love, today, when declaring for the other person, there will be no mistakes in the result, do not be ashamed
 1209	We're getting married!
@@ -1240,7 +1240,7 @@
 1239	Keeping money well is the way to safety
 1240	%s look with envy for the pocket full of %s money
 1241	The way to make money in life quietly
-1242	%recalled that to increase financial luck %s, you can not act impulsively.
+1242	%s reminds us of the high %s of fortune, don't be impulsive.
 1243	Just keep the facts of the ancestors and squander the favorable financial luck of today.
 1244	%s It's a pity, because today the financial luck is very good, but %s decided to just keep their capital.
 1245	Financial luck that nobody can stop
@@ -1260,7 +1260,7 @@
 1259	Exuberant financial luck
 1260	%s so that %s brings an exuberant financial luck, now the way to obtain even more advantages is to earn money step by step.
 1261	Divine financial luck
-1262	%​​s observing the divine financial luck of %s, he drooled to the ground.
+1262	%s looks at %s the gods' wealth of the gods, and the saliva flowed to the ground.
 1263	Fortune beyond the divine
 1264	%s financial luck, which no one can avoid, compared to that of %s, overcomes the financial fate of the gods and continues to grow; When leaving, one should be careful not to be crushed between the gold bars.
 1265	Financial luck
@@ -1268,7 +1268,7 @@
 1267	The friend silently accompanied you in solitude
 1268	%s silently accompanied %s in solitude
 1269	Friends Card
-1270	%I said for %s: I will always have you as a friend.
+1270	%s said to %s: I have always only treated you as a friend.
 1271	Today, a fight with the friend may occur
 1272	Today, there may be a fight between %s and %s.
 1273	The discussion will also increase the affection
@@ -1448,7 +1448,7 @@
 1447	The invitation to join the Clan has already been sent, please wait for the answer.
 1448	%s invite you to join the clan %s. Do you agree to join this clan?
 1449	The interval of the customer support service since the last time can not be less than 3 minutes, please wait a while and try again.
-1450	The other party has no army or has already joined a clan, it is not possible to invite him to the clan.
+1450	The other party has no Guild or has already joined a clan, it is not possible to invite him to the clan.
 1451	Failed to produce %s
 1452	The invitation to the chat room has been sent, please wait for the answer.
 1453	The amount of currency in the inventory is insufficient.
@@ -1759,7 +1759,7 @@
 1758	Fire Golem
 1759	Mysterious Spectrum
 1760	Mysterious Marina
-1761	^9400D3Aldebarán
+1761	^9400D3Aldebaran
 1762	Golden Knight who protects the House of Taurus, known as "Golden Taurus". In spite of its giant physical bearing and its strong defense, its agility is not affected, being good also in dodging. In addition to fighting like a ferocious bull, he still has his famous deadly blow, the Big Horn - whose posture, normally, is to put both hands on his chest and quickly release both arms, forming electro-shock waves and doubling his power. This technique of struggle is also similar to the sword of "Iaido". \rThe personality of Aldebaran is that of an uninhibited, honest and big-hearted person, who is not limited to outward appearance and great principles, relying only on his own determination. While the battle of the Twelve Houses, he intentionally facilitated for Seiya and the others to pass safely, resulting in one of his horns cut off. In the battle in which the Wraith invaded the Sanctuary, Aldebaran resisted bravely against Niobe, the Earth Star of Darkness, and heroically sacrificed himself. Before dying, however, he completely destroyed the body of his adversary.
 1763	^00BFFFOrfeo
 1764	When young, Orpheus and Euridice fell in love - but, unexpectedly, Euridice ends up dying. Suffering, seeking to revive his beloved, he goes to the Underworld to ask Hades to revive her. The beautiful music of Orpheus ends up convincing Hades, who revives her; However, at the exit of the Underworld, Pandora tricks him with Pharaoh to turn Euridice into stone, so that Orpheus can continue stuck there. When Seiya and the others come, Orpheus helps them, but ends up not participating in the Holy War immediately. In the end, because of Seiya and Shun, Orpheus discovers that the trap that Pharaoh had planned is the one that transformed Euridice into stone. That has made Orpheus understand the reason of life and face Pharaoh. At the moment when Orpheus leads Seiya and Shun to kill Hades, he is surprised by Radamanthys attack, being seriously wounded. Later, the biggest blow Orpheus makes is, in reality, an illusion of Hades, causing his movement to fail. Orpheus dies in battle at the Temple of Hades. Following his beloved who had also left, Orpheus becomes stardust and, in heaven, plays his love song.
@@ -1959,7 +1959,7 @@
 1958	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to own the Leo Armor \r ^ffffffChange with the Emissary of the Golden Light of the Silver City \rNecessary items: \ Sacred insignia [Leão] × 32 \rThe insignia can be dropped in the Heilong World Boss
 1959	^ff0000You did not get the Armor yet. \r ^ffffffHow to get it: \r ^0184ffNecessary LV97 \ Necessary to possess the Scorpio Armor \r ^ffffffChange with the Emissary of the Golden Sacred Light in the Silver City \rNecessary items: \ Gold insignia × 120 \rThe badges can be obtained at major events
 1960	^ff0000You still did not get the Armor \r ^ffffffHow to obtain it: \r ^ff0000Require level 92 \rNecesario first obtain fff600Armor of ^ff0000Geminis \r ^72fe00con ^0184ffEmisary of the Golden Light of Sacred ^72fe00for the change \r ^ffffffFor the change it is necessary to gather ^fff600 Fifty Sacred Badges of Gemini \r ^ffffffMode to obtain badges: \r ^72fe00 Instance Zone ^0184ffInside of the 12 Golden Houses I ^72fe00Derrotar ^0184ffGeminis of degree of difficulty Assassin of Gods ^72fe00
-1961	^0184ffArmy Competitions for Galactic Sovereignty ^fff600 Winning Army Award
+1961	^0184ffGuild Competitions for Galactic Sovereignty ^fff600 Winning Guild Award
 1962	^ffffffCan obtain official events
 1963	^ff0000Not available at the moment \r ^fff600Available only through quest. \r ^ffffffHow to obtain (Future): \r ^ff0000Needdance LV59 \rProcure ^0184ffAllen ^72fe00 and change Constellation to ^0184ffTurned ^72fe00, then complete quest: \r ^0184ffTroca! Predestined Sign (Tornado)
 1964	^ff0000You still did not get the Armor \r ^ffffffHow to get: \r ^ff0000Needded LV50 \rYou need to have Tsunami Armor \r ^ffffffProcure ^fff600Altai ^ffffffna Silver City \r ^fff600 Items Needed: \r ^ffffff Silver Shield x120
@@ -2065,8 +2065,8 @@
 2064	After getting enough battlefield reputation points, you can visit ${pos(-182,339,402,2,'Sherlock')} to redeem rewards
 2065	Personal combat power
 2066	Personal instant
-2067	Within the legion
-2068	Legion
+2067	Within the Guild
+2068	Guild
 2069	     All players who settled at 24 o'clock this week accumulated accumulative data\r based on the list. After the maintenance on Tuesday, the first player will be given a time limit of 1 week. Black Pearl special effects wings fashion\r After the maintenance on Tuesday, Sanctuary The district will erect a statue for the first player this week and issue benefits to the players in its name!
 2070	
 2071	 A total list refresh will be performed every month, and the monthly list will be reset on the 1st of each month to display the list of the month. The first month of each month will be issued the title of the previous month after maintenance. \r The player gets the title\r The gorgeous individual flower list of the arrogant frost gets the 1st place\r The beautiful individual flower list of the bloom gets the 2nd place\r The 3rd place of the shining individual flower list in the flower cluster \r Born like a summer flower, the warmth of individual flower list won the 4th-10th

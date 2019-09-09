@@ -2,7 +2,7 @@
 1	Attention: If your password is exposed or your account stolen, click here to request recovery.
 2	The password does not meet the requirements: Possess 6-16 digits; Alphanumeric characters; Sensitive to uppercase and lowercase; The name of the account does not agree with the requirements, email account, write the address of the complete email, The name of the account and password can not be empty; In case you write the data incorrectly three times, you may have lost or forgotten the password. In this case, visit the site to change the password.
 3	The name of the account and password do not match, the reason may be:
-4	Army Conquests
+4	Guild Conquests
 5	Menu names eight characters
 6	Menu names eight characters
 7	Achievements
@@ -334,7 +334,7 @@
 333	30 seconds
 334	Preparation time:
 335	Countdown to start the battle
-336	Army
+336	Guild
 337	Alliances
 338	Galactic Tournament
 339	Warehouse
@@ -347,7 +347,7 @@
 346	Leave base
 347	My base
 348	Warehouse
-349	Army Achievements
+349	Guild Achievements
 350	General achievement
 351	Player Name
 352	Seventh step Fama
@@ -414,14 +414,14 @@
 413	Leader
 414	List name is 8 characters
 415	List name is 8 characters
-416	Army Level
+416	Guild Level
 417	Wealth
 418	Domain
 419	Marshal
 420	Player number
 421	Name
 422	Well.
-423	Voice GT of the army
+423	Voice GT of the Guild
 424	Harmonious society
 425	Name
 426	Wealth
@@ -433,7 +433,7 @@
 432	Leave Alliance
 433	Undo Alliance
 434	Rules
-435	Army Conquests
+435	Guild Conquests
 436	P. 2
 437	p. 3
 438	Pg. 1
@@ -455,17 +455,17 @@
 454	Restricting the configuration of items
 455	Cancel
 456	Configuration
-457	Contribution of the army used:
+457	Contribution of the Guild used:
 458	Enter the member name
 459	Base
-460	Army List
+460	Guild List
 461	Enter
 462	Cancel
 463	Name
 464	LV Base
 465	Activity
 466	War
-467	The army still has no basis
+467	The Guild still has no basis
 468	[Basic Base Award] \rTime Capsules: 7 per week \rBlon of Glória: 5 %more than EXP Reservetion \rTienda: Fusion Source and etc
 469	Ivory:
 470	Bronze:
@@ -478,7 +478,7 @@
 477	Protection EXP:
 478	LV 100
 479	Protection level:
-480	Army
+480	Guild
 481	Basic properties
 482	Count of each necessary resource gold, mead, ivory and bronze
 483	Counting the necessary resources gold, mead, ivory and bronze
@@ -486,7 +486,7 @@
 485	Activity of the week:
 486	Act of last week:
 487	Time capsule:
-488	When the "Army Fund" is not enough for the weekly maintenance of the Star Domain, it will be automatically collected at the base that the army stops, at 0 o'clock every Tuesday
+488	When the "Guild Fund" is not enough for the weekly maintenance of the Star Domain, it will be automatically collected at the base that the Guild stops, at 0 o'clock every Tuesday
 489	Weekly maintenance:
 490	Level 10
 491	Base Level:
@@ -494,7 +494,7 @@
 493	Leave base
 494	My base
 495	Warehouse
-496	[Basic Base Award] \rDouble EXP: 2h per week \rRespiration Elixir store. \rCaps. of Time, depends on \rLV Base and clas. from army.
+496	[Basic Base Award] \rDouble EXP: 2h per week \rRespiration Elixir store. \rCaps. of Time, depends on \rLV Base and clas. from Guild.
 497	Guardian Statue:
 498	Not destroyed
 499	Destruction = -40 of each resource
@@ -505,12 +505,12 @@
 504	Assent
 505	Reward
 506	Donation
-507	Army Classification
+507	Guild Classification
 508	Punctuation
 509	Invite the group
 510	Add as a Friend
 511	Private message
-512	Army leader transfer
+512	Guild leader transfer
 513	Designation of the position
 514	Eject member
 515	Annotation:
@@ -525,9 +525,9 @@
 524	Level
 525	Name
 526	Rank
-527	Army Voice GT
+527	Guild Voice GT
 528	Contribution
-529	The Army Fund is the army's financial base \rIt can be used in the Galactic Tournament, in the auction of the Domínio Estelar and in the weekly maintenance of the army base \rYou can gather resources for the Army Fund by participating in the daily events or through the donation of Star
+529	The Guild Fund is the Guild's financial base \rIt can be used in the Galactic Tournament, in the auction of the Domínio Estelar and in the weekly maintenance of the Guild base \rYou can gather resources for the Guild Fund by participating in the daily events or through the donation of Star
 530	Funds
 531	Sanctuary of Athena
 532	Faction
@@ -549,14 +549,14 @@
 548	Double click to modify the announcement and press Enter to confirm
 549	Basic Info
 550	Elevate LV
-551	Army Conquests
+551	Guild Conquests
 552	Flag
 553	End of the battle, you will leave in ^ff000030 seconds ^N of the battlefield
 554	Red Team / Blue team Winner
 555	Winning team:
 556	Losing team:
-557	Army Name xxxxx
-558	Army Name xxxxx
+557	Guild Name xxxxx
+558	Guild Name xxxxx
 559	Blue team: 99999
 560	Red Team: 99999
 561	Group III:
@@ -569,7 +569,7 @@
 568	The name must have eight characters
 569	Marshal:
 570	Name
-571	Army 1:
+571	Guild 1:
 572	Group III:
 573	Warehouse
 574	Divine Prize:
@@ -591,7 +591,7 @@
 590	Battle description
 591	Battlefield Name Battlefield Name Battlefield Name fifteen characters
 592	There are currently no events
-593	Donation of army funds.
+593	Donation of Guild funds.
 594	Enter a multiple of 10
 595	Cancel
 596	Confirm
@@ -633,15 +633,15 @@
 632	Style
 633	Shading
 634	Inserts a character to define as a central figure.
-635	Army Flag
-636	Apply to the Army
+635	Guild Flag
+636	Apply to the Guild
 637	Register
 638	All
-639	Army complete
-640	Active army
+639	Guild complete
+640	Active Guild
 641	PRV
 642	NXT
-643	Army recruitment announcement
+643	Guild recruitment announcement
 644	Reserve 2
 645	Rate
 646	Members
@@ -650,7 +650,7 @@
 649	Name
 650	Exit
 651	Undo
-652	Retrieve Army.
+652	Retrieve Guild.
 653	Invite
 654	Restore
 655	Apply
@@ -668,7 +668,7 @@
 667	Recruit
 668	Double click to modify the recruitment announcement, and press Enter to confirm.
 669	11 hours and 21 minutes
-670	To separate from the dissolved army:
+670	To separate from the dissolved Guild:
 671	Score
 672	Rate
 673	Defense Gate: increases the HP of the defense gate (Max. LV: 8)
@@ -687,7 +687,7 @@
 686	Delete record
 687	Modify
 688	See all
-689	Rank of the army
+689	Rank of the Guild
 690	Concentrated practice 100
 691	The name of the list is 8 characters
 692	Modify
@@ -703,7 +703,7 @@
 702	Add
 703	Confirm
 704	Cancel
-705	Rank of the army
+705	Rank of the Guild
 706	Name
 707	Qty
 708	Reason for change
@@ -712,7 +712,7 @@
 711	Remove
 712	Name
 713	Puest.
-714	Army Conquests
+714	Guild Conquests
 715	Modify
 716	Enter a negative number to reduce the integration!
 717	Are you sure you want to make the following changes?
@@ -735,7 +735,7 @@
 734	Schedule
 735	History
 736	Rewards
-737	Army Domains
+737	Guild Domains
 738	Looting War
 739	Wealth
 740	Reward
@@ -761,7 +761,7 @@
 760	Second round
 761	Second round
 762	First round
-763	Army construction
+763	Guild construction
 764	Sanctuary of Love
 765	Wine Sanctuary
 766	Sanctuary of the Moon
@@ -1581,22 +1581,22 @@
 1580	Clear
 1581	Loudspeaker
 1582	Loudspeaker
-1583	Bloq
-1584	Interno
-1585	Ms
-1586	Ge
-1587	Gr
-1588	Am
-1589	Co
-1590	Ej
-1591	Al
-1592	Mp
-1593	Mu
-1594	An
-1595	Vi
-1596	Fa
-1597	Ev
-1598	Gu
+1583	Lock
+1584	Internal
+1585	CLT
+1586	GEN
+1587	PTY
+1588	FRD
+1589	CIR
+1590	SQD
+1591	GLD
+1592	PRV
+1593	WRL
+1594	WID
+1595	V
+1596	BTG
+1597	CRS
+1598	GRD
 1599	General
 1600	Event
 1601	Adjusts the size of the chat window
@@ -1604,8 +1604,8 @@
 1603	Battle
 1604	Listen Channel information secret language, the channel can be customized.
 1605	Secret language
-1606	Listen to information from the secret language channel and the army, can be customized.
-1607	Army
+1606	Listen to information from the secret language channel and the Guild, can be customized.
+1607	Guild
 1608	Listening to information about the channel and the secret language team, can be customized.
 1609	Team
 1610	Listen to general channel information, the channel can not be customized.
@@ -1619,24 +1619,24 @@
 1618	Roll given
 1619	Expressions
 1620	in
-1621	Configuration
+1621	Settings
 1622	Clear
 1623	Block
 1624	Keyword
-1625	Ms
-1626	Ge
-1627	Eq
-1628	Am
-1629	Co
-1630	Ej
-1631	Al
-1632	Mp
-1633	Mu
-1634	An
-1635	Vi
-1636	Fa
-1637	Ev
-1638	Gu
+1625	INT
+1626	CMN
+1627	PTY
+1628	FRD
+1629	CIR
+1630	GLD
+1631	LEA
+1632	PRV
+1633	WRL
+1634	BRD
+1635	VIP
+1636	BTG
+1637	EVT
+1638	ATH
 1639	External
 1640	Loudspeaker
 1641	Loudspeaker
@@ -1650,8 +1650,8 @@
 1649	Battle
 1650	Listen Channel information secret language, the channel can be customized.
 1651	Secret language
-1652	Listen to information from the secret language channel and the army, you can customize it.
-1653	Army
+1652	Listen to information from the secret language channel and the Guild, you can customize it.
+1653	Guild
 1654	Listening to information about the channel and the secret language team, can be customized.
 1655	Team
 1656	Listening to general channel information, the channel can not be customized.
@@ -2222,8 +2222,8 @@
 2221	Security lock configuration
 2222	Minimize game
 2223	Exit the game
-2224	Army PK
-2225	Army PK
+2224	Guild PK
+2225	Guild PK
 2226	Duel Arena
 2227	VS
 2228	Duel Arena
@@ -2297,12 +2297,12 @@
 2296	Receive 30 minutes
 2297	Receive 10 minutes
 2298	Double free EXP system
-2299	The reputation system has become a corresponding duplicity time of 3.5 times to couple EXP, look at the interface's EXP pair
+2299	Check 2 or 3.5x EXP bonuses
 2300	Reward
 2301	Profits
 2302	Event
 2303	Notices
-2304	Day Programming
+2304	Activities
 2305	Send Roses
 2306	Confirm
 2307	Cancel
@@ -2855,7 +2855,7 @@
 2854	Quick access to my faction's channel
 2855	Help
 2856	Quick access to my team's canar
-2857	Gr
+2857	PTY
 2858	Enter the channel ID
 2859	Enter the voice group
 2860	Channel information management
@@ -2984,7 +2984,7 @@
 2983	I want to make an upgrade quickly ...
 2984	I want to earn money ...
 2985	I want to make friends ...
-2986	I want to join the Army ...
+2986	I want to join the Guild ...
 2987	Name, maximum, 8 conquests
 2988	Many of the achievements word: many words achievements achievements many words: many achievements words achievements of many words a lot of words of achievement many words of achievements of many words a lot of words, many achievements of many words many achievements word word word many achievements many achievements are many words word word many achievements many achievements are many words word word many achievements many achievements word word many achievements
 2989	Check details
@@ -3185,7 +3185,7 @@
 3184	xxx
 3185	xxx
 3186	xxx
-3187	Name of the Army Blue
+3187	Name of the Guild Blue
 3188	xxx
 3189	Number of murderers:
 3190	Number of buildings destroyed:
@@ -3198,7 +3198,7 @@
 3197	xxx
 3198	xxx
 3199	xxx
-3200	Name of the Red Army
+3200	Name of the Red Guild
 3201	Close
 3202	Divine Weapon
 3203	Great Shield of Ajax
@@ -3209,7 +3209,7 @@
 3208	Return to the city
 3209	Intelligence
 3210	Team
-3211	Multi-Server PK Army
+3211	Multi-Server PK Guild
 3212	Rank
 3213	Name
 3214	Number of deaths
@@ -3242,7 +3242,7 @@
 3241	Unit 1
 3242	Team
 3243	Become a Marshal
-3244	Start army teleportation
+3244	Start Guild teleportation
 3245	Teleportation
 3246	World Tournament! The playoffs are about to start!
 3247	My game
@@ -3370,10 +3370,10 @@
 3369	Temporary blocking
 3370	Protection coverage:
 3371	Protection coverage:
-3372	^ffff00Use the lock password to protect the store, applying the following restrictions: \rYou can not use store \rYou can not use the army store
+3372	^ffff00Use the lock password to protect the store, applying the following restrictions: \rYou can not use store \rYou can not use the Guild store
 3373	^ffff00Use the lock password to protect the store, applying the following restrictions: \rYou can not make purchases in the Item Mall
-3374	^ffff00Use temporary blocking to protect items, applying the following restrictions: \rYou will not be able to use store \rYou will not be able to use the army store \rYou will not be able to negotiate \rYou will not be able to use the auction \rYou will not be able to open personal store \rYou will not be able to destroy items \rYou will not be able to increase, separate or merge equipment \rYou will not be able to increase or transfer levels \rYou will not be able to produce items \rYou will not be able to perform Astrology \rYou will not be able to collect the prize of offerings
-3375	^ffff00Use temporary blocking to protect social relations, applying the following restrictions: \rYou will not be able to access the mail \rYou will not be able to expel or alter the position within the army
+3374	^ffff00Use temporary blocking to protect items, applying the following restrictions: \rYou will not be able to use store \rYou will not be able to use the Guild store \rYou will not be able to negotiate \rYou will not be able to use the auction \rYou will not be able to open personal store \rYou will not be able to destroy items \rYou will not be able to increase, separate or merge equipment \rYou will not be able to increase or transfer levels \rYou will not be able to produce items \rYou will not be able to perform Astrology \rYou will not be able to collect the prize of offerings
+3375	^ffff00Use temporary blocking to protect social relations, applying the following restrictions: \rYou will not be able to access the mail \rYou will not be able to expel or alter the position within the Guild
 3376	^ffff00Use temporary lock to protect pets, applying the following restrictions: \rYou can not use the pets procreation service
 3377	^ffff00Use temporary blocking to protect the store, applying the following restrictions: \rYou can not make purchases in the Item Mall
 3378	Protection Configuration
@@ -3596,7 +3596,7 @@
 3595	Shun
 3596	Shiryu
 3597	Seiya
-3598	First exit the army and then eliminate the character.
+3598	First exit the Guild and then eliminate the character.
 3599	Confirm
 3600	Exit the game
 3601	Exit the game
@@ -3971,10 +3971,10 @@
 3970	Are you sure?
 3971	Force close
 3972	Pending quests:
-3973	^ffffff after entering the ^ffff00 Glory Bath ^ffffffStatus ^a2ffff to every 5 ninth you will get stored experience ^ffff00 the greater the fighting power, the greater the experience stored in army bases from level 1 or above, use bonus extras ^ffffffOBS: Accumulated EXP can be released at the same time when you are winning the EXP normally, and it is twice the result!
+3973	^ffffff after entering the ^ffff00 Glory Bath ^ffffffStatus ^a2ffff to every 5 ninth you will get stored experience ^ffff00 the greater the fighting power, the greater the experience stored in Guild bases from level 1 or above, use bonus extras ^ffffffOBS: Accumulated EXP can be released at the same time when you are winning the EXP normally, and it is twice the result!
 3974	Glory Bath
 3975	Click to stop, or leave or open the event calendar
-3976	Programming
+3976	Activities
 3977	Event recommendation level
 3978	Event recommendation level
 3979	Event recommendation level
@@ -3983,7 +3983,7 @@
 3982	Cancel
 3983	Yes
 3984	Star insufficient, Do you want to spend on the speaker tool?
-3985	Every time you consume, a confirmation will appear
+3985	Ask for confirmation
 3986	Rice Valley Commerce
 3987	Rice Valley Technology - System provider specialized in virtual negotiation
 3988	Raide
@@ -4043,11 +4043,11 @@
 4042	Name
 4043	HP
 4044	Titles
-4045	Army
+4045	Guild
 4046	Name
 4047	HP
 4048	Title
-4049	Army
+4049	Guild
 4050	Name
 4051	HP
 4052	Faction
@@ -4058,14 +4058,14 @@
 4057	Monster
 4058	VIP
 4059	VIP
-4060	Description of the Army
+4060	Description of the Guild
 4061	LEAGUE_NO_LEAGUE_TEXT
-4062	Participating every day of the events, you will receive several divine offerings that can be sacrifices for the goddess. If one day, the sacrifices that the army offers exceeds the amount of 30, the goddess will increase the level of that army to level 2. After level 2, the army will be able to upgrade from New only if it is within the base of the army in the "Home of the gods".
-4063	At the foot of Mount Olympus, there is a piece of land known as "Home of the Gods", in the middle, mortals can find the knights who died, heroes of the past, as well as many gods. The goddess allows the Knights to enter and leave the center, in addition to delimiting a base, allowing the strong armies to be stationed in the center. The patents of the army will go to level 2 or one level above, if the current army chief was qualified to request the army base of the "Home of the gods". Due to the limited number of bases, the goddess will organize the strongest armies to park in the center!
-4064	In the home of the gods, Knights can get many gifts and blessings, and you can find items that do not exist in the mortal world. In order to improve communication with the gods, you need to raise the level of your army, as well as the level of the army temple. Of course, in between, there are some deities that do not like the human race, so, to protect Athena, the army needs even more knights to enter, the goddess will reward her!
-4065	Description of army upgrade
-4066	Description of army base
-4067	Description of army growth
+4062	Participating every day of the events, you will receive several divine offerings that can be sacrifices for the goddess. If one day, the sacrifices that the Guild offers exceeds the amount of 30, the goddess will increase the level of that Guild to level 2. After level 2, the Guild will be able to upgrade from New only if it is within the base of the Guild in the "Home of the gods".
+4063	At the foot of Mount Olympus, there is a piece of land known as "Home of the Gods", in the middle, mortals can find the knights who died, heroes of the past, as well as many gods. The goddess allows the Knights to enter and leave the center, in addition to delimiting a base, allowing the strong armies to be stationed in the center. The patents of the Guild will go to level 2 or one level above, if the current Guild chief was qualified to request the Guild base of the "Home of the gods". Due to the limited number of bases, the goddess will organize the strongest armies to park in the center!
+4064	In the home of the gods, Knights can get many gifts and blessings, and you can find items that do not exist in the mortal world. In order to improve communication with the gods, you need to raise the level of your Guild, as well as the level of the Guild temple. Of course, in between, there are some deities that do not like the human race, so, to protect Athena, the Guild needs even more knights to enter, the goddess will reward her!
+4065	Description of Guild upgrade
+4066	Description of Guild base
+4067	Description of Guild growth
 4068	You have not yet joined any group of colleagues. \rWhen you reach level 10, you will be automatically added to a group of colleagues. \rEach 10 levels achieved, you will be added to a New group.
 4069	You still have no friends! \r \rHow to add?: \r1º Right-click on the player's avatar, select "Add friend" to send the friend request. \r2º Type the character's name player and click on the button below "Agr friend" to send the request. \r3º The confirmation of the other player is required. \r \r \rAfter adding a friend, you can: \r1º Know if the player is online or no. \r2º Form a group or converse at any time. \r3º Receive emoticons that your friend sends remotely. \r4º Interaction with friends releases extra buff and opportunities to resuscitate.
 4070	Enter the name of the player to find the target
@@ -4359,7 +4359,7 @@
 4358	PK Configuration
 4359	VS attack does not start: red / amari names.
 4360	VS attack does not start: white names
-4361	Does not start VS attack: army
+4361	Does not start VS attack: Guild
 4362	Alter
 4363	Cancel
 4364	The current scenario can not be changed for PK configuration
@@ -4434,7 +4434,7 @@
 4433	Expand
 4434	Enlarge
 4435	Enlarge
-4436	1. The candidate of the competition for power of the Milky Way occupies the selected army of the main city
+4436	1. The candidate of the competition for power of the Milky Way occupies the selected Guild of the main city
 4437	Explain choices
 4438	Invite people name first name
 4439	Category of application
@@ -4618,7 +4618,7 @@
 4617	1899-12-31T08: 10: 00,000
 4618	Help friend
 4619	Help system.
-4620	Army Help
+4620	Guild Help
 4621	1. The response options, definitely, can not exceed 15 caraceres
 4622	2, The response options, definitely, can not exceed 15 caraceres
 4623	3, The response options, definitely, can not exceed 15 caraceres
@@ -4795,7 +4795,7 @@
 4794	Fury of Hades
 4795	Hide / Show Map
 4796	Athena
-4797	Army PK
+4797	Guild PK
 4798	Trace Configuration
 4799	All NPCs
 4800	Quests available
@@ -5696,13 +5696,13 @@
 5695	Advanced
 5696	Enter the automatic definition board settings
 5697	Camb. First name
-5698	MP
+5698	PRIV
 5699	Group
 5700	General
 5701	Battle
 5702	VIP
 5703	World
-5704	Army
+5704	Guild
 5705	Colleagues
 5706	Friends
 5707	Field B.
@@ -7265,7 +7265,7 @@
 7264	Spirit of Armor
 7265	Armor
 7266	Social
-7267	Army
+7267	Guild
 7268	Pet
 7269	Hide / Show Buttons
 7270	Character
@@ -7520,65 +7520,65 @@
 7519	Search for upcoming players
 7520	Enter the row
 7521	Attack
-7522	Army name is eight characters
-7523	Army name is eight characters
+7522	Guild name is eight characters
+7523	Guild name is eight characters
 7524	1h and 20min are missing
 7525	Pegasus domain
 7526	attacking and defensive statute
-7527	enemy Army
+7527	enemy Guild
 7528	Date
 7529	Domain
 7530	Date
 7531	Status
-7532	enemy Army
-7533	Allied Army
+7532	enemy Guild
+7533	Allied Guild
 7534	Domain
 7535	Alliance Schedule
 7536	In progress (1h and 20min)
 7537	Attack
-7538	Army name is eight characters
+7538	Guild name is eight characters
 7539	Pegasus domain
 7540	Enter the row
 7541	Date
-7542	Defensive Army
-7543	Army Attacker
+7542	Defensive Guild
+7543	Guild Attacker
 7544	1h and 20min are missing
-7545	Army name is eight characters.
-7546	Army name is eight characters.
+7545	Guild name is eight characters.
+7546	Guild name is eight characters.
 7547	LV Domains
 7548	Domains
 7549	Profit
 7550	Name
-7551	Army name is eight characters.
+7551	Guild name is eight characters.
 7552	Enter the battle
 7553	Declare
 7554	Period
-7555	Defensive Army
-7556	Army Attacker
+7555	Defensive Guild
+7556	Guild Attacker
 7557	Domain
 7558	In progress (1h and 20min are missing)
-7559	Army name is eight characters.
-7560	Army name is eight characters.
+7559	Guild name is eight characters.
+7560	Guild name is eight characters.
 7561	Pegasus Domain
 7562	Status of Alliance Domains
 7563	Profit: xxx
 7564	Pegasus domain
 7565	Lucro Maris.
 7566	Lucro Miem.
-7567	When the "Army Fund" is not enough for weekly maintenance, the Domain that the army has will be automatically picked up at 0 o'clock on all Thursdays
+7567	When the "Guild Fund" is not enough for weekly maintenance, the Domain that the Guild has will be automatically picked up at 0 o'clock on all Thursdays
 7568	Manut. of the Domain:
 7569	Pegasus domain
-7570	Domains of the army:
+7570	Domains of the Guild:
 7571	Total wealth:
 7572	Details
 7573	Profit: xxx
 7574	Profit: xxx
 7575	Competition Result
-7576	Army Defender
-7577	Army Attacker
+7576	Guild Defender
+7577	Guild Attacker
 7578	Victoria
-7579	Army name is eight characters.
-7580	Army name is eight characters.
+7579	Guild name is eight characters.
+7580	Guild name is eight characters.
 7581	Mobile location
 7582	Hide quest trace
 7583	Show quest trace
@@ -7667,7 +7667,7 @@
 7666	Danõs
 7667	Deaths
 7668	Kills
-7669	Name of the army is eight characters.
+7669	Name of the Guild is eight characters.
 7670	Rank
 7671	Total cure
 7672	Total damages
@@ -7683,7 +7683,7 @@
 7682	Ira de Hades
 7683	Recorded on the myth server "Hades Wrath" every time the server has reached the stage and kill the boss.
 7684	Conquer Event
-7685	Record after completing the rage programming Hades Universe tournament, ranking and vitorias
+7685	Record after completing the rage Activities Hades Universe tournament, ranking and win
 7686	Result of the competition
 7687	The Shadows
 7688	The Fog
@@ -8154,15 +8154,15 @@
 8153	Receive
 8154	Receive
 8155	MVIP Earn exclusive benefit of Level 1 gift package
-8156	Earning of the members of the army
+8156	Earning of the members of the Guild
 8157	MVIP Earn exclusive benefit of Level 1 gift package
-8158	Earning of the members of the army
+8158	Earning of the members of the Guild
 8159	MVIP Earn exclusive benefit of Level 1 gift package
-8160	Earning of the members of the army
+8160	Earning of the members of the Guild
 8161	MVIP Earn exclusive benefit of Level 1 gift package
-8162	Earning of the members of the army
+8162	Earning of the members of the Guild
 8163	MVIP Earn exclusive benefit of Level 1 gift package
-8164	Earning of the members of the army
+8164	Earning of the members of the Guild
 8165	From 6:00 to aHour
 8166	Level of recommendation
 8167	Level of recommendation

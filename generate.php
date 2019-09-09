@@ -167,7 +167,7 @@ ini_set('max_execution_time', 300000);
 		$sections=array('ai','skill','data_recipe','map','data_quest','common','ui','age','photobook','title','arena','countbirds','combat','data_treasures','policy','data_text','daily',
 		'item','error','data_item','quest','interface','questionaire','data_monster','data_npc','login','data_config','pet','miscs','help','achievement','config','lottery','question','animation',
 		'social','data_equip','dungeon');
-		$important_characters=array('%','&','$','{','}');
+		$important_characters=array('%','&','$','{','}','%s','%d');
 		$ic=count($important_characters);
 		$cnt=count($sections);
 		$binary.=saveInt16($cnt);

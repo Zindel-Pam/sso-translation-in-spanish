@@ -85,11 +85,11 @@
 84	In a group
 85	In any situation
 86	At specific times of the day
-87	Which of the following is not an advantage of joining an army?
+87	Which of the following is not an advantage of joining an Guild?
 88	Call attention and make fun of everyone
 89	Meet new friends
 90	Join other players in battle
-91	Get rewards for the army
+91	Get rewards for the Guild
 92	How to follow the other players?
 93	Use the "Follow" option
 94	Go immediately back from this player
@@ -250,7 +250,7 @@
 249	Anywhere on the map
 250	In the Galactic Arena
 251	On the Battlefield
-252	At the base of the army
+252	At the base of the Guild
 253	How to send map coordinates in the chat channel?
 254	SHIFT + click on the map
 255	In the symbol on the map
@@ -281,20 +281,20 @@
 280	Do not click on other players
 281	Stay away from everyone
 282	Advanced settings
-283	The Pegasus sign has an additional 50 %damage, but on what attribute?
+283	The Pegasus sign has an additional 50% damage, but on what attribute?
 284	Wind
 285	Water
 286	Earth
 287	Thunder
-288	The Cygnus sign has an additional 50 %damage, but on what attribute?
+288	The Cygnus sign has an additional 50% damage, but on what attribute?
 289	During the negotiation process, when to do the verification of the negotiated articles to avoid that the other party furtively reduces the quantity of the same?
 290	After both sides block
 291	After both sides put the goods
 292	After you put the goods
 293	Too much work, negotiate at once!
-294	The Dragon Sign has an additional 50 %damage, but on what attribute?
-295	The Sign of Andromeda has an additional 50 %damage, but on what attribute?
-296	The Phoenix sign has an additional 50 %damage, but on what attribute?
+294	The Dragon Sign has an additional 50% damage, but on what attribute?
+295	The Sign of Andromeda has an additional 50% damage, but on what attribute?
+296	The Phoenix sign has an additional 50% damage, but on what attribute?
 297	Fire
 298	How to make the wings of the Armor when the level is lower than 66?
 299	Reach 40000 of Power
@@ -554,12 +554,12 @@
 553	Clock Tower
 554	Grand Master's Hall
 555	Mountain of Stars
-556	The army that agrees with what conditions can request a base?
+556	The Guild that agrees with what conditions can request a base?
 557	Everyone can have a base
 558	5 first places in the ratings
-559	500 people in the army
-560	Army Level 3
-561	Under what circumstances will the base of the army be taken back through the system?
+559	500 people in the Guild
+560	Guild Level 3
+561	Under what circumstances will the base of the Guild be taken back through the system?
 562	Insufficient funds
 563	Number of people <100
 564	Marshal rejection of the base
@@ -615,4 +615,4 @@
 614	Judija
 615	gold dagger
 616	Last week, the top 200 regiments
-617	Last week, the Legion’s activeness fell to the top 200
+617	Last week, the Guild’s activeness fell to the top 200

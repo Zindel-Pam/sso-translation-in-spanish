@@ -101,7 +101,7 @@
 100	Skill
 101	Anima
 102	Anima
-103	Army Flag
+103	Guild Flag
 104	Grand Master
 105	Hot
 106	Energy Center EXP Double
@@ -806,7 +806,7 @@
 805	It can improve the effect when the star casts the Holy Armour.
 806	Starlight*5
 807	The Pegasus Saint Cloth is a 33-48 star cast.\rThere is a large drop in activity above level 80.
-808	Arena of the Underworld*5
+808	Underworld Starlight*5
 809	Used for the necessities of the sacred clothing.
 810	Cosmic Key
 811	Essentials for stargazing.\rActivities above level 65 have fallen.

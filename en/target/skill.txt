@@ -70,7 +70,7 @@
 69	Lack of designated reputation
 70	Lack of specified items
 71	Lack of EXP
-72	Not joining the army
+72	Not joining the Guild
 73	Insufficient constellation awareness prerequisite
 74	Lack of astro EXP
 75	You need to be advanced to have the Gold Constellation to learn
@@ -101,7 +101,7 @@
 100	Skill can not be moved.
 101	EXpertise: %d
 102	Raises %d desired skill level: %.0f
-103	You have to be part of the Army.
+103	You have to be part of the Guild.
 104	Restoration
 105	Attack
 106	Consume experience, do you want to continue?
@@ -174,7 +174,7 @@
 173	^O009 Basic Pet Care
 174	^O009Montar
 175	^O009Conversation
-176	^O009Base of the Army
+176	^O009Base of the Guild
 177	^O009Meditation
 178	^O009When you use, you enter Prayer status.\rGANacia of EXP every 10 seconds.\rDon seconds you retrieve 60 HP and 20 Energy points.\rThe automatic movement will be interrupted
 179	^O009Chant of Glory
@@ -286,7 +286,7 @@
 285	Position of stellar soul stone not corresponding
 286	Complete Soul
 287	Complete stellar soul storage
-288	%s LV. %D
+288	%s LV. %d
 289	You still did not get the %s armor.
 290	%s insufficient armor refinement level.
 291	Click to activate this armor ability
@@ -1117,29 +1117,29 @@
 1116	^O021^ffff00 inflexible
 1117	^O021^ffff00 absorb blood\r^O009^ffffff every second increases 1 %HP
 1118	^O021 ridicule ^O009 reinforce ridicule
-1119	^O021^ffff00 Army-attack\r^O009^ffffff increase defense blood
-1120	^O021 Army-Defense
-1121	^O021 Army-HP
+1119	^O021^ffff00 Guild-attack\r^O009^ffffff increase defense blood
+1120	^O021 Guild-Defense
+1121	^O021 Guild-HP
 1122	^O021^ffff00 Corps - Ignore Silence\r^O009^ffffff Ignore Silence
-1123	^O021^ffff00 Army-Ignore Chaos\r^O009^ffffff Chaos Ignored
-1124	^O021^ffff00 Army-Ignore Poisoning\r^O009^ffffff Ignore Enveniment
-1125	^O021^ffff00 Army-Ignore Bleeding\r^O009^ffffff Ignore Bleeding
-1126	^O021^ffff00 Legion - burning neglect \r^O009^ffffff burning neglect
-1127	^O021^ffff00 Legion - fell to the ground \r^O009^ffffff fell to the ground
-1128	^O021^ffff00 Army-Ignore Frozen\r^O009^ffffff Ignore Frozen
-1129	^O021^ffff00 Army-Petrified Ignore\r^O009^ffffff Petrified Ignore
-1130	^O021^ffff00 Army-Ignore Motion Control\r^O009^ffffff ignore motion control
-1131	^O021^ffff00 Army-Ignore Weak\r^O009^ffffff Ignore Weak
-1132	^O021^ffff00 Army-Resisting Silence\r^O009^ffffff Resisting Silence
-1133	^O021^ffff00 Army-Resisting Chaos\r^O009^ffffff Resisting Chaos
-1134	^O021^ffff00 Army-Resisting Poisoning\r^O009^ffffff Resisting Poisoning
-1135	^O021^ffff00 Army-Resisting Bleeding\r^O009^ffffff Resisting Bleeding
-1136	^O021^ffff00 Army-Resisting Burning\r^O009^ffffff Resisting Burning
-1137	^O021^ffff00 Army-Resist Fall\r^O009^ffffff Fall Resistance
-1138	^O021^ffff00 Army-Resisting Freezing\r^O009^ffffff Resisting Freezing
-1139	^O021^ffff00 Army-Resist Petrification\r^O009^ffffff Resist Petrification
-1140	^O021^ffff00 Army-Resist Movement Control\r^O009^ffffff Resist Movement Control
-1141	^O021^ffff00 Army-Resisting Weakness\r^O009^ffffff Resistance to Weakness
+1123	^O021^ffff00 Guild-Ignore Chaos\r^O009^ffffff Chaos Ignored
+1124	^O021^ffff00 Guild-Ignore Poisoning\r^O009^ffffff Ignore Enveniment
+1125	^O021^ffff00 Guild-Ignore Bleeding\r^O009^ffffff Ignore Bleeding
+1126	^O021^ffff00 Guild - burning neglect \r^O009^ffffff burning neglect
+1127	^O021^ffff00 Guild - fell to the ground \r^O009^ffffff fell to the ground
+1128	^O021^ffff00 Guild-Ignore Frozen\r^O009^ffffff Ignore Frozen
+1129	^O021^ffff00 Guild-Petrified Ignore\r^O009^ffffff Petrified Ignore
+1130	^O021^ffff00 Guild-Ignore Motion Control\r^O009^ffffff ignore motion control
+1131	^O021^ffff00 Guild-Ignore Weak\r^O009^ffffff Ignore Weak
+1132	^O021^ffff00 Guild-Resisting Silence\r^O009^ffffff Resisting Silence
+1133	^O021^ffff00 Guild-Resisting Chaos\r^O009^ffffff Resisting Chaos
+1134	^O021^ffff00 Guild-Resisting Poisoning\r^O009^ffffff Resisting Poisoning
+1135	^O021^ffff00 Guild-Resisting Bleeding\r^O009^ffffff Resisting Bleeding
+1136	^O021^ffff00 Guild-Resisting Burning\r^O009^ffffff Resisting Burning
+1137	^O021^ffff00 Guild-Resist Fall\r^O009^ffffff Fall Resistance
+1138	^O021^ffff00 Guild-Resisting Freezing\r^O009^ffffff Resisting Freezing
+1139	^O021^ffff00 Guild-Resist Petrification\r^O009^ffffff Resist Petrification
+1140	^O021^ffff00 Guild-Resist Movement Control\r^O009^ffffff Resist Movement Control
+1141	^O021^ffff00 Guild-Resisting Weakness\r^O009^ffffff Resistance to Weakness
 1142	^O021^ffff00 Body Beat
 1143	^O021 Throw
 1144	^O021 Arc 2 _QTE1
@@ -1231,7 +1231,7 @@
 1230	^O021 Grand Coliseum main line completing the Jabu mission
 1231	^O021^ffff00 Shun-Attack Status Strong 5
 1232	^O021^ffff00 Common Monster-Treatment
-1233	^O021^ffff00 Army Daily-Reduce Blood Status
+1233	^O021^ffff00 Guild Daily-Reduce Blood Status
 1234	^O021 Black Dragon complete mission buff
 1235	^O021^ffff00 Injured
 1236	^O021^ffff00 Burn
@@ -1713,13 +1713,13 @@
 1712	^O021^ffff00 issued QTE_centauro package hit Juli
 1713	^O021^ffff00Propension Increased Critical Chance
 1714	^O021^ffff00 centaur pisoteio_Juli disperse QTE
-1715	^O021 Legion abilities Great Divinity_Dan
+1715	^O021 Guild abilities Great Divinity_Dan
 1716	The invention is directed to the use of the compounds of the invention.
 1717	^O021^ffff00 Olympus Blessing\r^O009^ffffff Increases attack defense and speed of movement.
 1718	^O021^ffff00 Olympus blessing
 1719	^O021^ffff00 resurrection\r^O009^ffffff place after the death of a resurrection.
 1720	^O021^ffff00 resurrection
-1721	^O021^ffff00 Legion skills deity Evoking_Portal
+1721	^O021^ffff00 Guild skills deity Evoking_Portal
 1722	^O021 disperse injuries sustained
 1723	^O021^ffff00Laccination\r\r^O009^ffffff Each stack reduces the speed of movement by 1m/s
 1724	^O021 shield
@@ -1994,10 +1994,10 @@
 1993	^O021 silver war_dispersing transfiguration effect
 1994	^O021 Strange big fool invincible for a limited time
 1995	^O021^ffff00 burned\r^O009^ffffff continuously shorten life
-1996	^O021 Practice Legion-Attack ^O009 increase attack power
-1997	^O021 Practice Legion-defense
-1998	^O021 Practice Legion-hit increase ^O009 in offensive and defensive blood.
-1999	^O021 Practice Legion-rodeo
+1996	^O021 Practice Guild-Attack ^O009 increase attack power
+1997	^O021 Practice Guild-defense
+1998	^O021 Practice Guild-hit increase ^O009 in offensive and defensive blood.
+1999	^O021 Practice Guild-rodeo
 2000	^O021^ffff00 dawn brightness baptism\r^O009^ffffff dawn, there is dawn in place, you can significantly reduce the Sea Dragon residual ice storm damage
 2001	^O021^ffff00 baptism dawn
 2002	^O021^ffff00 Ghost Phantom\r\r^O009^ffffff Confused and trapped in an illusion
@@ -2008,7 +2008,7 @@
 2007	^O021^ffff00 Thunder bite
 2008	^O021^ffff00 violent thunder-pole\r^O009^ffffff damages increased by 100%
 2009	^O021^ffff00 violent thunder-pole
-2010	Thunderbolt Throw-Throwing Thunder-Thunder, sustained severe DOT, DOT effect after 90 %disappearance of its blood exceeding
+2010	Thunderbolt Throw-Throwing Thunder-Thunder, sustained severe DOT, DOT effect after 90% disappearance of its blood exceeding
 2011	^O021^ffff00 Thunder bite-pole
 2012	^O021^ffff00 violent thunder\r^O009^ffffff damages in 15%
 2013	^O021 graveyard turned silver-special individual damage skills
@@ -2100,7 +2100,7 @@
 2099	^O021^ffff00 effects repel + root
 2100	In order to reduce the resistance to damage
 2101	^O021^ffff00 seven seas prince Sea column _Seurat Thunder own chandelier buff
-2102	^O021 Experience Bonus\r^O009 The server is in a new era. %D%% Experience Bonus
+2102	^O021 Experience Bonus\r^O009 The server is in a new era. %d%%  Experience Bonus
 2103	^O021Experience Bonus
 2104	You're getting tired.
 2105	^O021^ffff00 hypnosis
@@ -2479,7 +2479,7 @@
 2478	^O021^ffff00 cure
 2479	^O021^ffff00 deceleration immunity ^ffffff riding on several immunity state deceleration.
 2480	^O021^ffff00 immunity deceleration
-2481	^O021 Legion qualification_recovery point
+2481	^O021 Guild qualification_recovery point
 2482	^O021^ffff00 protected\r^O009^ffffff is protected and there can be no other people take the initiative to attack, PK behavior will make any immediate lifting of this status.
 2483	^O021^ffff00 landed protection status
 2484	^O021^ffff00 killed protection innocent dead protection then PK behavior would make any immediate survey of this status.
@@ -3510,14 +3510,14 @@
 3509	^O021^ffff00 plus status
 3510	^O021^ffff00 summon monster pack
 3511	^O021 Waste
-3512	^O021^ffff00 magic source\r^O009^ffffff CritChance increased 2 %during this period, will not be subject to Experience Ball Box brings reward experience
+3512	^O021^ffff00 magic source\r^O009^ffffff CritChance increased 2% during this period, will not be subject to Experience Ball Box brings reward experience
 3513	^O021^ffff00 spell source
 3514	^O021 Players wash battlefield disperse flag
 3515	^O021^ffff00 ring Patrimony ^f ^fffff all sacred warriors will be fair competition.
 3516	^O021^ffff00 fair ring
 3517	^O021^ffff00Equipment Blue
 3518	^O021^ffff00 Red Computer
-3519	^O021^ffff00 Advantage\r^O009^ffffff home at home for Star, own crystal life ceiling lift of the Legion twice
+3519	^O021^ffff00 Advantage\r^O009^ffffff home at home for Star, own crystal life ceiling lift of the Guild twice
 3520	^O021^ffff00 home advantage
 3521	^O021^ffff00 lava Capture the Flag integral battle\r^O009^ffffff increase the integration chandelier
 3522	^O021 lava - God of War
@@ -4058,9 +4058,9 @@
 4057	^O021^ffff00 Hades force
 4058	^O021^ffff00 curse Quinn\r^O009^ffffff Flower effect Blood scissors was reached after, if less than 20 meters away from Quinn, it responded to life
 4059	^O021^ffff00 Quinn Curse
-4060	^O021 Legion copy 3_ Clear Bleed
-4061	^O021 Legion Copy 3_ scattered distortion look
-4062	^O021 Legion copy 6_ lifted transfiguration
+4060	^O021 Guild copy 3_ Clear Bleed
+4061	^O021 Guild Copy 3_ scattered distortion look
+4062	^O021 Guild copy 6_ lifted transfiguration
 4063	^O021^ffff00 key\r^O009^ffffff authorities raised as soon as possible through organ, closed end
 4064	^O021^ffff00 lifting bodies
 4065	^O021^ffff00 Force guard corps less blood debuff
@@ -4085,11 +4085,11 @@
 4084	^O021^ffff00 attack, the defense would be reinforced by reducing the damage
 4085	^O021^ffff00 lifting of power
 4086	^O021^ffff00 recovery being restored to life.
-4087	^O021 Legion copy 3_ General disperse serious death marks of damage
-4088	^O021 Legion copy 3_ swamp of corps superposition twisted
-4089	^O021 Legion download 3_ Quagmire Effect 1
-4090	^O021 Legion download 3_ Quagmire Effect 2
-4091	^O021 Legion copy 3_ effect mire 3
+4087	^O021 Guild copy 3_ General disperse serious death marks of damage
+4088	^O021 Guild copy 3_ swamp of corps superposition twisted
+4089	^O021 Guild download 3_ Quagmire Effect 1
+4090	^O021 Guild download 3_ Quagmire Effect 2
+4091	^O021 Guild copy 3_ effect mire 3
 4092	^O021 days Meng - triggered by status attack
 4093	^O021^ffff00 Dark Shadow\r^O009 ^ffffffReduce the damage taken by 20%
 4094	^O021^ffff00 Dark Shadow
@@ -4110,16 +4110,16 @@
 4109	^O021^ffff00 vampire\r^O009^ffffff test drive will hurt vampire
 4110	^O021 day_fierce trigger skills
 4111	^O021^ffff00 bloodshed\r^O009^ffffff was blood-stained Rolling Stones hit, other players need treatment.
-4112	^O021 Legion copy 4_ Treat Bloodstone Hemorrhages
-4113	^O021 Legion copy 4_ dispersed status General designate
+4112	^O021 Guild copy 4_ Treat Bloodstone Hemorrhages
+4113	^O021 Guild copy 4_ dispersed status General designate
 4114	^O021 I was the devil_involved in the reward luster
 4115	In the crevice hidden in the crevice can prevent the storm.
 4116	^O021^ffff00 shelter
-4117	^O021 Legion copy 4_ lifted protected status
+4117	^O021 Guild copy 4_ lifted protected status
 4118	^O021^ffff00 freeze\r^O009^ffffff hell hell storm
 4119	^O021^ffff00 Chilling Armor Day\r^O009^ffffff crying Star freeze enemies at the same time to join Ice Armor
 4120	^O021^ffff00 Chilling Armor
-4121	^O021 Legion copy mining premise 4_ scattered
+4121	^O021 Guild copy mining premise 4_ scattered
 4122	Aralia is blocked, unable to move.
 4123	^O021^ffff00 Aralia Wrath
 4124	^O021^ffff00 White Flame Dance\r^O009^ffffff Flying speed is greatly increased by the surrounding
@@ -4184,7 +4184,7 @@
 4183	^O021 fierce day star main line_dark effect
 4184	^O021 I was the devil_murder back to the blood
 4185	^O021 I was the devil_red side and the blue side to increase property
-4186	^O021 Legion flag called Status
+4186	^O021 Guild flag called Status
 4187	^O021^ffff00 Rozan occupied a ring
 4188	^O021^ffff00 test 64 after the status light efficiency
 4189	^O021^ffff00 test No. 0 operation
@@ -4203,8 +4203,8 @@
 4202	The speed of deceleration is reduced.
 4203	^O021^ffff00 body\r^O009^ffffff will not be moved.
 4204	^O021^ffff00 Wound\r^O009^ffffff not be moved.
-4205	^O021^ffff00 ban summon Legion flag\r^O009^ffffff close been legion flag, can not call
-4206	^O021^ffff00 ban summon Legion flag
+4205	^O021^ffff00 ban summon Guild flag\r^O009^ffffff close been Guild flag, can not call
+4206	^O021^ffff00 ban summon Guild flag
 4207	^O021^ffff00 floating\r^O009^ffffff was playing float
 4208	The freeze-dried pellets have been frozen.
 4209	^O021^ffff00 attacked frozen\r^O009^ffffff freezing attackers
@@ -4236,8 +4236,8 @@
 4235	^O021^ffff00 Shadow Protection
 4236	Save deceleration resistance\r^O009^ffffff is retarded and reduces the resistance to deceleration.
 4237	^O021^ffff00 Save the deceleration resistor
-4238	When the server reaches a more advanced process, Miracle Legion will receive a corresponding reinforcement
-4239	When the server reaches a more advanced process, Miracle Legion will receive a corresponding enhancement
+4238	When the server reaches a more advanced process, Miracle Guild will receive a corresponding reinforcement
+4239	When the server reaches a more advanced process, Miracle Guild will receive a corresponding enhancement
 4240	^O021^ffff00 of dioxins 2 stealth skills
 4241	^O021^ffff00 Individual display test effect disadvantages
 4242	^O021^ffff00 collected cold\r^O009^ffffff short period of time can not be frozen.
@@ -4262,7 +4262,7 @@
 4261	^O021^ffff00 Light Flame
 4262	^O021^ffff00 Liquid Lava\r^O009^ffffff Attached by lava, the flight speed is greatly reduced
 4263	^O021^ffff00 Liquid Lava
-4264	^O021^ffff00 ridiculous malicious\r^O009^ffffff you feel full of malice from a nearby legion, a substantial decline in fortune today!
+4264	^O021^ffff00 ridiculous malicious\r^O009^ffffff you feel full of malice from a nearby Guild, a substantial decline in fortune today!
 4265	^O021^ffff00 malicious ridiculous
 4266	^O021^ffff00 fierce day star\r^O009^ffffff after a hard workout, the body emitted dark light Sion.
 4267	^O021^ffff00 fierce star day
@@ -4429,12 +4429,12 @@
 4428	^O021^ffff00 Thunder Stimulation\r^O009^ffffff Stimulate itself with current, and the flight speed is greatly increased
 4429	^O021^ffff00 Thunder Stimulation
 4430	^O021 back blood
-4431	^O021 Legion copy 0_ level 2 chandelier
-4432	^O021 Legion copy 0_ 3 Off luster
-4433	^O021 Legion copy 0_ bedroom chandelier off
-4434	^O021 Legion copy 0_ 5 Off luster
-4435	^O021 Legion copy 0_ 6 Off luster
-4436	^O021 Legion copy 0_ 7 Off chandelier
+4431	^O021 Guild copy 0_ level 2 chandelier
+4432	^O021 Guild copy 0_ 3 Off luster
+4433	^O021 Guild copy 0_ bedroom chandelier off
+4434	^O021 Guild copy 0_ 5 Off luster
+4435	^O021 Guild copy 0_ 6 Off luster
+4436	^O021 Guild copy 0_ 7 Off chandelier
 4437	^O021^ffff00 Battle integration increase test
 4438	^O021 days of fierce - to increase the percentage of the blood line
 4439	^O021 Adjusted Life Attack Prevention
@@ -4480,8 +4480,8 @@
 4479	^O021^ffff00 Recovery Dreams
 4480	^O021^ffff00 high resistance flag and constantly restored to life, but the attack will be proportional to the DOT.
 4481	^O021^ffff00 flag of the guard
-4482	^O021 Legion stakes attack melee blame trigger skills
-4483	^O021^ffff00 occupation\r^O009^ffffff Legion flag is being invaded!
+4482	^O021 Guild stakes attack melee blame trigger skills
+4483	^O021^ffff00 occupation\r^O009^ffffff Guild flag is being invaded!
 4484	^O021^ffff00 occupation
 4485	^O021^ffff00 attentively\r^O009^ffffff Powerful BOSS does less damage.
 4486	^O021^ffff00 respiration
@@ -4528,7 +4528,7 @@
 4527	^O021^ffff00 Star Explosion
 4528	^O021 Zi - Spirit effects Genuflection
 4529	^O021^ffff00 occupying career adjustment Fighting Spirit
-4530	^O021^ffff00Progressively Ⅲ\r^O009 ^ffffffWhen the server reaches an even higher process level, the Army Millagro will obtain the corresponding reinforcement
+4530	^O021^ffff00Progressively Ⅲ\r^O009 ^ffffffWhen the server reaches an even higher process level, the Guild Millagro will obtain the corresponding reinforcement
 4531	^O021^ffff00 times Ⅲ
 4532	^O021^ffff00 Papa\r^O009^ffffff noble Pope, getting guards from the guardian sanctuary.
 4533	^O021^ffff00 war horn\r^O009^ffffff damage attack has been improved.
@@ -4759,7 +4759,7 @@
 4758	^O021 Star effects effects chandelier
 4759	^O021^ffff00 corps flag of the guard\r^O009^ffffff improve limbs of the body around the ratio of injuries and resistance to damage
 4760	^O021^ffff00 Flag Guard Corps
-4761	^O021^ffff00 Legion flag for the owner BUFF disperse
+4761	^O021^ffff00 Guild flag for the owner BUFF disperse
 4762	^O021^ffff00 end Hades - Hades - Feijian set of people
 4763	^O021 end Hades - the dream of DOT God-ae
 4764	^O021^ffff00 life for a life
@@ -5414,8 +5414,8 @@
 5413	^O021 Main pressure 03_ 01 Galaxy 2 players fail
 5414	^O021 Main pressure 04_01 players failed Galaxy 1
 5415	^O021 Main pressure 04_01 players failed Galaxy 2
-5416	^O021 Practice Legion - Storm Damage
-5417	^O021 Practice Legion - Waiver of storm damage
+5416	^O021 Practice Guild - Storm Damage
+5417	^O021 Practice Guild - Waiver of storm damage
 5418	^O021^ffff00 moral combustion\r^O009^ffffff near enemies more monster will becomes stronger.
 5419	^O021^ffff00 combustion morale
 5420	^O021 Area 03 Galaxy _boss disperse property
@@ -6051,7 +6051,7 @@
 6050	^O021^ffff00 Despicable Strike
 6051	^O021 Increases passive avoidance of squire, Terrestrial Star of Rarity
 6052	^O021^ffff00 LiraArmia\r^O009 ^ffffffDecrease the damage index
-6053	^O021^ffff00 LiraArmy
+6053	^O021^ffff00 LiraGuild
 6054	^O021Increases the passive attack of the squire, Celestial Star of the Beast
 6055	^O021Increases the passive attack of the squire, Celestial Star of Space
 6056	^O021^ffff00 Weakened resistance to damage is reduced.
@@ -6899,7 +6899,7 @@
 6898	Skill damage is reduced by 30%%, but the cooldown time is reduced by 15s and the skill slows down the enemy after cast
 6899	Target can not use healing abilities.
 6900	Dragon Soul
-6901	Dragon removes his armor and raises his Cosmo, activating the status ^00FF00Dragon Soul^FFFF00 that increases his strength considerably by 45s. \t ^00FF00Dragon Soul ^FFFF00\rThe maximum HP increases by 30%% and automatically regenerates this same amount of HP.% of FFFF00 is increased by 50 %%, damage of fc0c0ff[%s]^FFFF00 is increased by 25%% and the cooldown of fc0c0ff[%s]^FFFF00 is reduced by 2s. skill can be used to eliminate control status.
+6901	Dragon removes his armor and raises his Cosmo, activating the status ^00FF00Dragon Soul^FFFF00 that increases his strength considerably by 45s. \t ^00FF00Dragon Soul ^FFFF00\rThe maximum HP increases by 30%% and automatically regenerates this same amount of HP.^fc0c0ff[%s]^FFFF00 is increased by 50 %%, damage of ^fc0c0ff[%s]^FFFF00 is increased by 25%% and the cooldown of ^fc0c0ff[%s]^FFFF00 is reduced by 2s. skill can be used to eliminate control status.
 6902	Dragon reveals all his power, improving the efficiency of his abilities.\rThis ability removes control effects.
 6903	Cooldown decreased by 30 seconds
 6904	Spud_effective abilities of monster transfiguration test
@@ -7530,8 +7530,8 @@
 7529	Rozan_Habilidad de Espião del Santuário 2
 7530	Rozan Shadow Spy Ability 3
 7531	Star Extinction
-7532	Additional Attack: {^FFABFC %d ^FFFF00} Additional Land Property Attack: {^FFABFC %d ^FFFF00} Additional Fire Property Attack: {^FFABFC %d ^FFFF00} Bonus Water damage: { ^FFABFC %d ^FFFF00} Additional Air Property Attack: {^FFABFC %d ^FFFF00} Cause Damage {^FFABFC %d%% ^FFFF00}
-7533	Additional Attack: %Additional Land Ownership: %Additional Fire Ownership: %Additional Water Ownership: %d Additional Air Property Ownership: %dCount Damage %d %%
+7532	Additional Attack: {^FFABFC %d ^FFFF00}\rBonus Earth Damage: {^FFABFC %d ^FFFF00}\rBonus Fire Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: { ^FFABFC %d ^FFFF00}\rBonus Air Damage: {^FFABFC %d ^FFFF00}\r Cause Damage {^FFABFC %d%% ^FFFF00}
+7533	Additional Attack: %d\rBonus Earth Damage: %d\rBonus Fire Damage: %d\rBonus Water Damage: %d\rBonus Air Damage: %d\rCause Damage %d %%
 7534	Supernova Titanic
 7535	Galactic Explosion
 7536	Waves of Hell
@@ -7548,8 +7548,8 @@
 7547	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}
 7548	Additional Attack: %d Bonus Water damage: %d Cause Damage %d %%
 7549	Attack the target, enemies near him, enemies on the road, causing much damage and temporarily freezing them.
-7550	Additional Attack: {^FFABFC %d ^FFFF00} Additional Land Property Attack: {^FFABFC %d ^FFFF00} Cause Damage {^FFABFC %d%% ^FFFF00}
-7551	Additional Attack: %d Additional Land Ownership Attack: %d Cause Damage %d %%
+7550	Additional Attack: {^FFABFC %d ^FFFF00} Bonus Earth Damage: {^FFABFC %d ^FFFF00} Cause Damage {^FFABFC %d%% ^FFFF00}
+7551	Additional Attack: %d Bonus Earth Damage Attack: %d Cause Damage %d %%
 7552	Attack enemies around the target, causing a lot of damage and throwing them
 7553	Nebular Storm
 7554	Additional Attack: {^FFABFC %d ^FFFF00} Additional Ray Property Attack: {^FFABFC %d ^FFFF00} Cause Damage {^FFABFC %d%% ^FFFF00}
@@ -7570,73 +7570,73 @@
 7569	Ray Damage Rate
 7570	Lightning Strike
 7571	Resistance to Lightning
-7572	Army-Attack
+7572	Guild-Attack
 7573	Attack Increase {^FFABFC %d%% ^FFFF00}
 7574	Attack Increase %d %%
-7575	Army-Defense
+7575	Guild-Defense
 7576	Increased Defense {^FFABFC %d%% ^FFFF00}
 7577	Increase in Defense %d %%
-7578	Army-HP
+7578	Guild-HP
 7579	HP Limit Increase {^FFABFC %d%% ^FFFF00}
 7580	HP Limit Increase %d %%
-7581	Army-Ignore Muted
+7581	Guild-Ignore Muted
 7582	Ignore muted, increasing resistance in {^FFABFC %d ^FFFF00} points
 7583	Ignore muted, increasing resistance in %d points
-7584	Army-Ignore Confused
+7584	Guild-Ignore Confused
 7585	Ignore confusion, increasing resistance in {^FFABFC %d ^FFFF00} points
 7586	Ignore confusion, increasing resistance in %d points
-7587	Army-Ignore Poisoning
+7587	Guild-Ignore Poisoning
 7588	Ignore poisoning, increasing resistance in {^FFABFC %d ^FFFF00} points
 7589	Ignore poisoning, increasing resistance in %d points
-7590	Army-Ignore Bleeding
+7590	Guild-Ignore Bleeding
 7591	Ignore bleeding, increasing resistance in {^FFABFC %d ^FFFF00} points
 7592	Ignore bleeding, increasing resistance in %d points
-7593	Army-Ignore Calcination
+7593	Guild-Ignore Calcination
 7594	Ignore calcination, increasing resistance in {^FFABFC %d ^FFFF00} points
 7595	Ignore calcination, increasing resistance in %d points
-7596	Army-Overkill Fallen
+7596	Guild-Overkill Fallen
 7597	Ignore dropped, increasing resistance in {^FFABFC %d ^FFFF00} points
 7598	Ignore knocked down, increasing resistance in %d points
-7599	Army-Ignore Freezing
+7599	Guild-Ignore Freezing
 7600	Ignore freezing, increasing resistance in {^FFABFC %d ^FFFF00} points
 7601	Ignore freezing, increasing resistance in %d points
-7602	Army-Override Pedrification
+7602	Guild-Override Pedrification
 7603	Ignore pedaling by increasing resistance in {^FFABFC %d ^FFFF00} points
 7604	Ignore pedaling by increasing resistance in %d points
-7605	Army-Ignore Movement Control
+7605	Guild-Ignore Movement Control
 7606	Ignore motion control by increasing resistance in {^FFABFC %d ^FFFF00} points
 7607	Ignore motion control, increasing resistance in %d points
-7608	Army-Ignore Weak
+7608	Guild-Ignore Weak
 7609	Ignore weakened, increasing resistance in {^FFABFC %d ^FFFF00} points
 7610	Ignore weakened, increasing resistance in %d points
-7611	Army-Resistance to Silenced
+7611	Guild-Resistance to Silenced
 7612	Increase resistance to mute in {^FFABFC %d ^FFFF00} points
 7613	Increase resistance to mute in %d points
-7614	Army-Resistance to Confusion
+7614	Guild-Resistance to Confusion
 7615	Increase resistance to confusion in {^FFABFC %d ^FFFF00} points
 7616	Increase resistance to confusion in %d points
-7617	Army-Resistance to Poisoning
+7617	Guild-Resistance to Poisoning
 7618	Increase resistance to poisoning in {^FFABFC %d ^FFFF00} points
 7619	Increase resistance to poisoning in %d points
-7620	Army-Resistance to Bleeding
+7620	Guild-Resistance to Bleeding
 7621	Increase resistance to bleeding in {^FFABFC %d ^FFFF00} points
 7622	Increase resistance to bleeding in %d points
-7623	Army-Resistance to Calcination
+7623	Guild-Resistance to Calcination
 7624	Increase resistance to calcination in {^FFABFC %d ^FFFF00} points
 7625	Increase resistance to calcination in %d points
-7626	Army-Tension Resistance
+7626	Guild-Tension Resistance
 7627	Increase resistance to fall in {^FFABFC %d ^FFFF00} points
 7628	Increasing knock resistance in %d points
-7629	Army-Freeze Resistance
+7629	Guild-Freeze Resistance
 7630	Increase resistance to freezing in {^FFABFC %d ^FFFF00} points
 7631	Increase resistance to freezing in %d points
-7632	Army-Resistance to Pedrification
+7632	Guild-Resistance to Pedrification
 7633	Increase pedaling resistance in {^FFABFC %d ^FFFF00} points
 7634	Increase pedaling resistance in %d points
-7635	Army-Resistance to Movement Control
+7635	Guild-Resistance to Movement Control
 7636	Increase resistance to motion control in {^FFABFC %d ^FFFF00} points
 7637	Increase resistance to motion control in %d points
-7638	Army-Resistance to the Weakened
+7638	Guild-Resistance to the Weakened
 7639	Increase resistance to weakened in {^FFABFC %d ^FFFF00} points
 7640	Increase resistance to weakened in %d points
 7641	Coloring
@@ -7979,7 +7979,7 @@
 7978	^c0c0ff[%s]^FFFF00 has its Offensive nature cost reduced by half but it continues to cause a lot of damage\r\ n Exclusive Sign Attribute: ^00FF00 %s Andromeda ^FFFF00
 7979	^c0c0ffNeedles Armor of Heracles ^A2FFFF
 7980	Nebula Force
-7981	^c0c0ff[%s]^FFFF00 activates the status Nebula Force \t ^00FF00Flash Nebula ^FFFF00 \ Critical Chance boost: 50%%\rDuration: 10s\rExclusive Sign Enhance: ^00FF00 %sAndromeda ^FFFF00
+7981	^c0c0ff[%s]^FFFF00 activates the status Nebula Force \t ^00FF00Flash Nebula ^FFFF00 \ Critical Chance boost: 50%%\rDuration: 10s\rExclusive Sign Enhance: ^00FF00 %s Andromeda ^FFFF00
 7982	^c0c0ffNeedsite LV.10 of Cefeo Armor ^A2FFFF
 7983	Nebulous Wind
 7984	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Thunder damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\rWhen using ^c0c0ff [%s] FFFF00 there is a 20%% chance of resetting the cooldown of Nebulous Wind Exclusive Signability of: ^00FF00 %s Andromeda ^FFFF00
@@ -7989,7 +7989,7 @@
 7988	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[Phoenix Daystorm]^FFFF00 will add 2 layers of flame burning status each time, and the damage of these skills will increase by 15%%\r Exclusive guardian constellation: ^00FF00%s Phoenix ^FFFF00
 7989	^c0c0ffNeedings of Phoenix Armor ^A2FFFF
 7990	Powerful Flames
-7991	The abilities of ^FFFF00 and ^FFFF00 cause %25%% more damage in targets with 5 layers of FFFF00, %F, FFFF00, ^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 Burn\rThe Signal's exclusive ability to: ^00FF00 %s Phoenix ^FFFF00
+7991	When the target has 5 stack burning effect\r^c0c0ff[%s]^FFFF00，^c0c0ff[%s]^FFFF00，^c0c0ff[%s]^FFFF00 and ^c0c0ff[%s]^FFFF00 deals 25%% more damage\rrExclusive Sign Enhance：^00FF00%s Phoenix^FFFF00
 7992	^c0c0ffNeedings of the Phoenix Armor ^A2FFFF
 7993	Exaltation
 7994	^c0c0ff[%s]^FFFF00 has a 10%% chance of resetting the cooldown of ^c0c0ff[%s]^FFFF00Change time, increase of 1%% for each 1%% reduction in blood volume\rSecret's exclusive ability to: ^00FF00 %s Phoenix ^FFFF00
@@ -8037,7 +8037,7 @@
 8036	^c0c0ff [Shield of Arrogance] ^FFFF00 Counterattack the enemy Whenever a counterattack is carried out, it causes continuous bleeding of 5 seconds, %d damage per second. Not able to overlap E increases defense itself: %d Lasts 30 seconds
 8037	Increases self-defense and launches alacre status to the enemy who attacked you
 8038	Scarlet Waters
-8039	^c0c0ff [Scarlet Waters] ^FFFF00 Every 2 seconds recovers HP %d and initiates an enemy attack within a range of 8 m Additional Attack: %d Cause%% damage %Duration 30 seconds
+8039	^c0c0ff [Scarlet Waters] ^FFFF00 Every 2 seconds recovers HP %d and initiates an enemy attack within a range of 8 m Additional Attack: %d Cause %d%% damage Duration 30 seconds
 8040	Obtained aura, suffered damage to nearby enemies and make their own quick return of blood
 8041	Astromancy
 8042	Additional attack power: %d\r causes %d%% damage\r per second treatment %d life\r lasts 10 seconds
@@ -8321,7 +8321,7 @@
 8320	Powerful Fist
 8321	Attack: {^FFABFC %d ^FFFF00}\rPower: {^FFABFC %d ^FFFF00}
 8322	Attack: %d\rPower: %d
-8323	It is necessary to enter an army in order to raise the level
+8323	It is necessary to enter an Guild in order to raise the level
 8324	Powerful Shield
 8325	Defense: {^FFABFC %d ^FFFF00}\rPower: {^FFABFC %d ^FFFF00}
 8326	Defense: %d\rPower: %d
@@ -8366,7 +8366,7 @@
 8365	Additional attack: %d damage %d%% caused ^c0c0ff [reincarnation] ^FFFF00silence for 5 seconds.
 8366	^ff0000 Little space when you can use ^A2FFFF to enemies within 10 yards around each other, causing damage and silencing effect when releasing the skills skills suffered by 30 %%
 8367	Dance in Lun
-8368	To improve your defense forces %additional attack abilities% of the release period: %d%% causes damage
+8368	Increase your own defense power during the release of the skill %d\rAdditional attack power: %d\r causes %d%% damage
 8369	^ff0000 Little space when you can use ^A2FFFF on the enemies within their own range of 7 meters, causing damage, reduces energy swing when the self-defense during the launch of the skills be wounded release 30 %%
 8370	His enemies within the target range of damage about 4 meters and incidental hitting effect when the release of the wounds skills suffered by 30 %%
 8371	Attack Power: %d Damage Caused by %d%% Dropped to Ground for 3 seconds
@@ -8575,10 +8575,10 @@
 8574	Pegasus makes ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff [%s] ^FFF00 increased damage 20 %%
 8575	^c0c0ff Level cast of dark stars Pegasus Armor acquisition reaches level 3 ^A2FFFF
 8576	Strengthen the impact of the cloud
-8577	Pegasus makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 fixed body time becomes 6 seconds
+8577	Pegasus makes ^00FF00%s ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 fixed body time becomes 6 seconds
 8578	^c0c0ff Dark Pegasus Armor obtained when the star launched to reach level 10 ^A2FFFF
 8579	Move to strengthen the same invalid
-8580	Pegasus makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when they take effect, time control for each immunization increased to 5 seconds
+8580	Pegasus makes ^00FF00 %s ^FFFF00 ^c0c0ff[%s]^FFFF00 when they take effect, time control for each immunization increased to 5 seconds
 8581	^c0c0ff Level cast of dark stars Pegasus Armor acquire reaches 16 ^A2FFFF
 8582	decisive attack reinforcement
 8583	Make ^00FF00%s Pegasus ^FFFF00 fighting soul ^c0c0ff[%s]^FFFF00 effective, make ^c0c0ff[%s]^FFFF00 when the target blood volume is less than 50%%, the damage is also increased by 50%% with starlight Disciplinary effect
@@ -8614,7 +8614,7 @@
 8613	Then ^00FF00 %s combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 take effect when life drops to 40%% or less, increased resistance to additional raise of 20%% becomes 40 %%
 8614	^c0c0ff Level cast of dark stars Draco Armor acquire reaches 24 ^A2FFFF
 8615	Reinforcement of the Millennium dragon reborn
-8616	Then ^00FF00 %combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 recoverable in blood less than 30 %%, the spilled blood will be fully transferred to the target response
+8616	Then ^00FF00 %s combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00 recoverable in blood less than 30 %%, the spilled blood will be fully transferred to the target response
 8617	^c0c0ff Level cast of dark stars Draco Armor acquire reaches 32 ^A2FFFF
 8618	Strengthen the string tag
 8619	Then fairies 00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, releasing ^c0c0ff[%s]^FFFF00 after the target by an additional to improve the skills of the Andromeda 4%% lesions changed 10 %%
@@ -8632,7 +8632,7 @@
 8631	So fairies ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 additional duration of 15 seconds after the life trigger response value increased by 10 %%
 8632	^c0c0ff Level cast stars dark Armor Andromeda acquire reaches 32 ^A2FFFF
 8633	Improved Hell Fire
-8634	Phoenix makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 cooldown reduced to 15 seconds
+8634	Phoenix makes ^00FF00 %s ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 cooldown reduced to 15 seconds
 8635	^c0c0ff Armor seats level cast of Phoenix Black Acquire level reaches 3 ^A2FFFF
 8636	Improved Fire Elf
 8637	Phoenix makes ^00FF00 %s ^FFFF00 Fighting Spirit ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 in damage reduction becomes 25 %%
@@ -8641,7 +8641,7 @@
 8640	Phoenix does ^00FF00 %s Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in force, even if the target does not have the effect of Burn, ^c0c0ff[%s]^FFFF00 stays repelled 3 meters
 8641	^c0c0ff Armor seats level cast of stars Phoenix Black acquire reaches 16 ^A2FFFF
 8642	Strengthen days winin pressure
-8643	Phoenix makes ^00FF00 %Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 CritChance extra lift of 25%% changed 75 %%; the duration of the additional period from 3 seconds to 8 seconds
+8643	Phoenix makes ^00FF00 %s ^FFFF00 ^c0c0ff[%s]^FFFF00 when in effect, ^c0c0ff[%s]^FFFF00 CritChance extra lift of 25%% changed 75 %%; the duration of the additional period from 3 seconds to 8 seconds
 8644	^c0c0ff Armor seats level cast of stars Phoenix Black acquire reaches 24 ^A2FFFF
 8645	Reinforcement of coronal shock wave
 8646	Phoenix does ^00FF00 %s Fighting Spirit ^FFFF00 ^c0c0ff[%s]^FFFF00 damage increased 30 %%, fell to ground time in 1 second
@@ -8822,7 +8822,7 @@
 8821	Skills Teleport
 8822	Teleport to designated location
 8823	Senju God boxing sound
-8824	Additional Attack: %have five times in a total of %d%% damage target is less than 4, damage will increase, the smaller the number of targets, the greater the damage, damage will be increased to 90 %%
+8824	Additional Attack: %d\r have five times in a total of %d%% damage target is less than 4, damage will increase, the smaller the number of targets, the greater the damage, damage will be increased to 90 %%
 8825	Target 120 degree direction, enemy radius 6
 8826	Zhizhuxingling
 8827	The target is 6 seconds deformed abilities can not be released during deformation, the speed of movement becomes 1. Reduced by 5 m/s target distorted by 50%% damage.
@@ -8909,7 +8909,7 @@
 8908	Additional attack: %ddanos %d%% caused by reaching target deceleration of 4 m/s for 6 seconds
 8909	The enemy within the target range of about six meters, when damage caused by the release of damage skills is reduced by 30 %%
 8910	Giant Wing Cheung wind
-8911	Sustained additional damage attack:% of all %d%% damage causes under each enemy once again suffer damage, damage increased 3 %%, accumulating up to 10 stacks
+8911	Sustained additional damage attack: %d of all %d%% damage causes under each enemy once again suffer damage, damage increased 3 %%, accumulating up to 10 stacks
 8912	^ff0000 Little space when you can use ^A2FFFFpossui about 15 meters to inflict massive damage when the release of skills the damage is reduced by 30 %%
 8913	judgment of the dawn
 8914	Long range attacks verified radius 3 meters from the area, causing additional damage attack: %d Bonus Water damage: %ddos %d%% damage caused by the exclusive Fighting Spirit Guardian Constellation: ^00FF00 %s Cygnus ^FFFF00
@@ -9203,12 +9203,12 @@
 9202	Additional Attack: %d causedor %d%% Damage Damage reduced by 20%% for 10 seconds
 9203	^ff0000 Little space when you can use ^A2FFFF area selected cause area damage, weakening enemy damage
 9204	The Coming of the Lord
-9205	Summon assisting demons fighting demons plus 20 seconds Attack:% attack per second caused %d%% damage to demons
+9205	Summon assisting demons fighting demons plus 20 seconds Attack: %d attack per second caused %d%% damage to demons
 9206	Summon demons to help attack the enemy
 9207	Armageddon
 9208	^ff0000 Little space when you can use ^A2FFFFAttack enemies within a certain range in front of your own
 9209	Maldici. of Equi.
-9210	Additional Attack:% damage %d%% Caused Silence: 4 seconds
+9210	Additional Attack: %d damage %d%% Caused Silence: 4 seconds
 9211	Your enemies within the range of about 5 meters cause a lot of damage and, in effect, silence
 9212	Dark Kiss
 9213	^ff0000 Little space when you can use the area in front of your own ^A2FFFFcause a lot of damage.
@@ -9339,8 +9339,8 @@
 9338	There is %s extra probability of increasing a <Good Explosion> / <Evil Explosion>
 9339	Tsunami Nebula
 9340	The effect of the ability changes according to the current Personality. This ability consumes all of the Demon Personality points.
-9341	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00} Minimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: Additional water: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00 ^FFFF00 HP recovery: {^FFABFC %d ^FFFF00}\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases {^FFABFC %d ^FFFF00} accuracy\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Géminis level up ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Geninis Technique ^FFFF00\rIncreases damage by 10 %%
-9342	Additional Damage: %d\rBonus Water damage: %d Minimum Damage: %d %%%r \t ^00FF00Evil Explosion ^FFFF00\rAdditional Attack Power: %d \ %d%%\r\t ^00FF00Explosion of the Good ^FFFF00\rHP heal: %d\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases %d accuracy\rDuration: 4s\rAfter accumulate 2x, it is not possible to obtain the Blast Cure of this skill\r\t ^00FF00Géminis level up ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after consuming such status, you will not be able to trigger it again\r\t ^00FF00Technique of Gemini ^FFFF00\rIncreases damage by 10 %%
+9341	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rMinimum Damage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: {^FFABFC %d ^FFFF00}\rBonus Water damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r\t ^00FF00 ^FFFF00 HP recovery: {^FFABFC %d ^FFFF00}\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases {^FFABFC %d ^FFFF00} accuracy\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Gemini Advanced ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Gemini Advanced ^FFFF00\rIncreases damage by 10 %%
+9342	Additional Damage: %d\rBonus Water damage: %d\rMinimum Damage: %d%%\r\t ^00FF00Evil Explosion ^FFFF00 Additional water: %d\rBonus Water damage: %d\rDamage: %d%%\r\t ^00FF00 ^FFFF00 HP recovery: %d\rThe explosion adds an extra target to the target, can be accumulated 2x, each accumulation increases %d accuracy\rDuration: 4s\rAfter accumulating 2x , it is not possible to obtain the Blast Cure of that skill\r\t ^00ff00Gemini Advanced ^FFFF00\rAfter it is released, it enters status of ^c0c0ff [Gold Explosion] ^FFFF00\rIn 30s after Consume such status, you will not be able to trigger it again\r\t ^00FF00Gemini Advanced ^FFFF00\rIncreases damage by 10 %%
 9343	Causes damage to target and enemies around\r^00FF00 Demon personality ^A2FFFF\rThe damage increases according to the pointer position\rEach of the first three points increases the damage by 20%%\rThe fourth point increases damage in 40%% Area Two Evil Explosions Near Target\rCrea An Explosion of Good Near Each Other\r^00FF00Good state^A2FFFF\rSummon 2 crystals of goodness around yourself\rSummons a Crystal of Evil at the target location\rWhen the Crystal of Evil explodes, it will deal damage to enemies within 5 meters. ^c0c0ff [Star Fury] ^A2FFFF for 15s * Explosions of Good heal allies within a 15m radius and cure increases by 25%% for each point in Personality of Santo.
 9344	Petrificate the target. The time varies according to the position of the pointer in the Demon Personality. Each Demon Personality point equals 0.75s. Limit of 3s of petrification. This effect occurs once every 30s.
 9345	Reduces cooldown time by 2s.
@@ -9386,7 +9386,7 @@
 9385	Summons the power of the stars to bring an ally back to life.
 9386	Arrow of Light
 9387	Additional attacks: {^FFABFC %d ^FFFF00} cause {^FFABFC %d%% ^FFFF00} danosa targets not only damage reduced 50%% ^00FF00 broken wing ^FFFF00reduce the flight speed from 2m/sec to 4 seconds
-9388	Additional Attack:% damage damage %d%% damage to ground targets reduced by 50%% ^00FF00 Broken Wing ^FFFF00reduce flying speed of 2 m/s, 4 sec
+9388	Additional Attack: %d damage damage %d%% damage to ground targets reduced by 50%% ^00FF00 Broken Wing ^FFFF00reduce flying speed of 2 m/s, 4 sec
 9389	Shining Arrow release caused by a hit to the target, target probability ^00FF00 broken wing ^A2FFFF in status
 9390	flame Shock
 9391	After intense blast of impact on the target, explosions and all targets within the target range of 3 m radius around damage
@@ -9404,7 +9404,7 @@
 9403	Crimson breathing continued aiming to die, to attack up to five times; each time there is probably also causing damage effect ^00FF00 magenta ^A2FFFF swirl
 9404	deadly poison
 9405	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground reduced damage 50%% ^00FF00 deadly poison ^FFFF00reduce the flight speed from 5 m/s to 5 second additional effects on players, loss of life by 1%% of current value
-9406	Additional Attack:% damage damage %d%% damage to land targets reduced by 50%% ^00FF00 deadly poison ^FFFF00reduce 5 m/s flight speed for 5 seconds on players an additional effect, loss by 1%% The present value of life
+9406	Additional Attack: %d damage damage %d%% damage to land targets reduced by 50%% ^00FF00 deadly poison ^FFFF00reduce 5 m/s flight speed for 5 seconds on players an additional effect, loss by 1%% The present value of life
 9407	targets Spit venom simultaneously cause ^00FF00 mortal Venom ^A2FFFF effect
 9408	Release the fireball caused by a blow to the target, the target probability type ^00FF00 broken wing status ^A2FFFF; If the auto is at ^00FF00 stars combustion ^A2FFFF state, damage increased 200 %%
 9409	Healing Wave
@@ -9424,13 +9424,13 @@
 9423	Target and all its units around 3 meters wide causing damage, and affected units enter ^00FF00 frost on ^A2FFFF status
 9424	Sinopec's interest
 9425	Additional attack power: {^FFABFC%d^FFFF00}\r Damage: {^FFABFC%d%%^FFFF00}\r Reduces Earth damage by 50%%\r^00FF00 Petrifaction ^FFFF00\runable to move for 5 seconds
-9426	Additional attack power :d%\r Damage: %d%%\r Reduces Earth damage by 50%%^00FF00 Petrifaction ^FFFF00\runable to move for 5 seconds
+9426	Additional attack power : %d\r Damage: %d%%\r Reduces Earth damage by 50%%^00FF00 Petrifaction ^FFFF00\runable to move for 5 seconds
 9427	Stun the target and cause massive damage
 9428	^00FF00Cool of the Wind\r^FFFF00Increases speed to %dm/s, increases resistance to damage by 15 %%, lasts for 10s
 9429	Fireball
 9430	Breathing
 9431	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground damage reduced by 50 %%
-9432	Additional Attack:% damage %d%% Caused by Ground Target Damage Reduced by 50 %%
+9432	Additional Attack: %d damage %d%% Caused by Ground Target Damage Reduced by 50 %%
 9433	The enemy's direction within the target range of 60 degrees fan-shaped damage Breath
 9434	pole beam
 9435	Additional Attack: {^FFABFC %d ^FFFF00} attacked five times, totaling {^FFABFC %d%% ^FFFF00} damage to ground targets damage reduced by 50 %%
@@ -9521,7 +9521,7 @@
 9520	^fff962 fist atomic explosion
 9521	^fff962 Gold Advanced Effect Skills: ^c0c0ff damage increased 50%% significantly reduce target hit rate.
 9522	Additional attack: {^FFABFC %d ^FFFF00} additional attack property Wind: {^FFABFC %d ^FFFF00} At least {^FFABFC %d%% ^FFFF00} damage points every 25%% of the total moral elevation
-9523	Additional Attack: %additional wind property attack: %d caused by %d%% less damage per point of moral lift 25%% of total damage
+9523	Additional Attack: %d\radditional wind property attack: %d caused by %d%% less damage per point of moral lift 25%% of total damage
 9524	Movement of the base coat that consumes the entirety of the fan-shaped fighting area in front of the attack.
 9525	Cooldown reduced by 2 seconds, and get a little morale success effect Dodge minimum interval is 5 seconds
 9526	^fff962 Meteor Arrows
@@ -9610,7 +9610,7 @@
 9609	^fff962 Shadow of Leo
 9610	^fff962Ouro Advanced Effect Skills: ^c0c0ff summon Leo Aiolia's Shadow damage gold increased 100 %%, while the goal is disrupted by the release of abilities
 9611	Ghost additional attack: {^FFABFC %d ^FFFF00} ghost attack additional fire attribute: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to target organism: 4 seconds Ghost exists by most 20 seconds
-9612	Additional Phantom Attack: %Additional Fire Dates Phantom Power: %ddos %d%% Damage Caused to Target Body: Up to 4 seconds Second Phantom 20
+9612	Additional Phantom Attack: %d\rAdditional Fire Dates Phantom Power: %d\r do %d%% Damage Caused to Target Body: Up to 4 seconds Second Phantom 20
 9613	Shadow Aiolia flame with a target speed of light fist and break the target is casting skills, the attack will not be able to move
 9614	Reinforcement wither life
 9615	Then ^00FF00 %s combats ^FFFF00 Dragon spirit ^c0c0ff[%s]^FFFF00, when in force, ^00FF00 lives wither ^FFFF00 sustained damage effects of doubled
@@ -9707,7 +9707,7 @@
 9706	Starting distance: 15m\r^00FF00Dragon Fire Sacrifice ^FFFF00\rIncesantly attacks the surrounding enemies within an area of ​​5m, in addition inflicting ^00FF00burn ^FFFF00 for 5s.\rAdditional attack: %d\rEach second, cause %d%% of damage,\rreduce damage caused by ground targets by 50%%\r^00FF00Burn^FFFF00\rEvery second receives %d burn damage points, lasts for %ds
 9707	Sprint fast forward but they won sacrifice ^00FF00 Fire Dragon ^A2FFFF status
 9708	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} Damage targets on soil damage is reduced by 50%% ^00FF00 net ^FFFF00of glorious entry into force of players lost per second {^FFABFC %d ^FFFF00} life, reduce to fly speed of 2 m/sec, 4 s.
-9709	Additional attack:% damage %d%% damage caused by target ground damage reduced by 50%% ^00FF00 entry network ^FFFF00 glorious in force of players lost %d life, reduce to fly speed of 2 m/s per second to 4 seconds
+9709	Additional Attack: %d damage %d%% damage caused by target ground damage reduced by 50%% ^00FF00 entry network ^FFFF00 glorious in force of players lost %d life, reduce to fly speed of 2 m/s per second to 4 seconds
 9710	dragon glorious liberation against the enemy, the probability of the target to the net ^00FF00 glow ^A2FFFF
 9711	Cang blue blessing
 9712	^00FF00 pale blue cure ^FFFF00benefaction per second: {^FFABFC %d ^FFFF00} targets on the ground to reduce the stacking effect up to 3 times 50%% ^00FF00 light blessing ^FFFF00 accident rate increased by 30%% Accumulates up to 3 times
@@ -9718,7 +9718,7 @@
 9717	Restores Life: %d additional recovery value of each status: %d reduce the effects of the target soil 50 %%
 9718	In blue targets for pale blood treatment while according to target body ^00FF00Blue blue coloration ^A2FFFF stacks additional recovery value after the onset of phagocytic target ^00FF00blue light ^A2FFFF blessing and ^00FF00benzion ^A2FFFF, just companions team and their own release
 9719	Starting distance: 15m\r^00FF00Sangre de Vida ^FFFF00\rServe yourself and healing to your teammates within an area of ​​5m; each second recovers {^FFABFC %d ^FFFF00} from HP, has duration %ds\reduce the effects caused by the terrestrial targets by 50%%
-9720	Tear distance: 15m\r^00FF00 Lifeblood ^FFFF00 ^Holds himself and his healing teammates within an area of ​​5m, every second recovers %HP,\rtains a duration %dry substance, reduces the effects caused by plant is oriented to 50 %%
+9720	Tear distance: 15m\r^00FF00 Lifeblood ^FFFF00 ^Holds himself and his healing teammates within an area of ​​5m, every second recovers %d HP,\rtains a duration %dry substance, reduces the effects caused by plant is oriented to 50 %%
 9721	Sprint fast forward, but they won ^00FF00sangue of life ^A2FFFF status
 9722	Additional attack: {^FFABFC %d ^FFFF00}\rcausa {^FFABFC %d%% ^FFFF00} damage,\rreduction of damage caused by land targets by 50%%\r^00FF00 Glorious repression ^FFFF00\rAl receive glorious repression, can not move, lasts for 3s
 9723	Additional attack: %d\rcause %d%% damage, \ damage reduction caused by land targets by 50%%\r^00FF00 Glorious repression ^FFFF00\rWhen receiving glorious repression, can not move, has a duration of 3s
@@ -9779,7 +9779,7 @@
 9778	cooldown Reduced in 5s
 9779	Crimson Missiles
 9780	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the damage reduced damage 50%% ^00FF00 unstable flicker ^FFFF00 per second {^FFABFC %d ^FFFF00} damage during 3 seconds.
-9781	Additional Attack: %dcause %d%% Damage to Earth targets reduced by 50%%^00FF00 unstable flicker ^FFFF00% damage per second for 3 seconds
+9781	Additional Attack: %d cause %d%% Damage to Earth targets reduced by 50%%^00FF00 unstable flicker ^FFFF00%d damage per second for 3 seconds
 9782	Crimson on target missile launching, causing additional damage and ^00FF00charging ^A2FFFF unstable status, if target with unstable ^00FF00Frio ^A2FFFF launches the first blast, damage is folded
 9783	missiles weak
 9784	Additional attack: {^FFABFC %d ^FFFF00} cause {^FFABFC %d%% ^FFFF00} harmful targets not only reduced damage 50%% ^00FF00Frio unstable ^FFFF00 flight and speed of movement decrease 1m/s 3 s ^00FF00freeze ^FFFF00 was frozen, unable to move for 3 s ^00FF00 unstable temperature ^FFFF00 confusion temperatures caused freezing weak missiles of the immune system for 30 seconds.
@@ -9799,7 +9799,7 @@
 9798	Shine on target missile launching, causing damage over ^00FF00 ^A2FFFF flashing status, which when stacked five stacks, will target ^00FF00focus ^A2FFFF
 9799	light bondage
 9800	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets on the ground to reduce damage by 50%% ^00FF00 optical confinement ^FFFF00absorbed strong light, unable to move, for 4 seconds.
-9801	Additional Attack:% damage %d%% damage caused by ground damage reduced by 50%% ^00FF00lighted ^FFFF00 light is absorbed strong light, unable to move for 4 seconds.
+9801	Additional Attack: %d damage %d%% damage caused by ground damage reduced by 50%% ^00FF00lighted ^FFFF00 light is absorbed strong light, unable to move for 4 seconds.
 9802	light emission on, explosion hit the target, affecting all enemies around six meters wide, do it captive ^00FF00 light state ^A2FFFF
 9803	repentance light
 9804	In front of the repenting light
@@ -9950,7 +9950,7 @@
 9949	Floating Shadow
 9950	A shadow reflects around your body
 9951	Consume 10 points of Rage\rAdditional Attack Power: {^FFABFC %d ^FFFF00}\rBonus Earth damage: {^FFABFC %d ^FFFF00}\rDamage: {^FFABFC %d%% ^FFFF00}\r
-9952	Consumes 10 points of Rage\rAdditional Attack Power: %d\rBonus Earth damage: d %\rMinimum damage: %d%%\r
+9952	Consumes 10 points of Rage\rAdditional Attack Power: %d\rBonus Earth damage: %d\rMinimum damage: %d%%\r
 9953	Attaches a shadow to the nearby enemy and causes damage. Each shadow increases damage by 30 %%.
 9954	Absorb Shadow
 9955	Awakens the dark desire of the enemy. Drags and kills him
@@ -10211,7 +10211,7 @@
 10210	^00FF00Lead adhesion ^FFFF00\rreduces the flight speed to 3m/s, has a duration of %ds,\r^00FF00Light Flame ^FFFF00\raumenta the flight speed to 3m/s, lasts for %ds
 10211	To themselves as the center of the jet of flame light, spread to the entire enemy to the lava ^00FF00 attached ^A2FFFF itself ^00FF00 Status to the light status ^A2FFFF Flame
 10212	Call! Band. Ej.
-10213	In the vicinity of the players belonging to the so-called Legion of flags and defending tracks, flags of hostility around the players released curse make enemy players fortune value dropped significantly. After the flag guard can buy items in the mall to replace the use of guards who will attack hostile spirit players! Flags survival time of 1 hour, can no longer use skills within range around 30m. This ability can only be used on the enemy's own base or body. Call the banner owner if the switch or maps, banners will disappear. If the owner of the configuration pk scratched protection Legion and the protection of the Union, with Legion players will also be a curse flag, please note!
+10213	In the vicinity of the players belonging to the so-called Guild of flags and defending tracks, flags of hostility around the players released curse make enemy players fortune value dropped significantly. After the flag guard can buy items in the mall to replace the use of guards who will attack hostile spirit players! Flags survival time of 1 hour, can no longer use skills within range around 30m. This ability can only be used on the enemy's own base or body. Call the banner owner if the switch or maps, banners will disappear. If the owner of the configuration pk scratched protection Guild and the protection of the Union, with Guild players will also be a curse flag, please note!
 10214	Time and Space
 10215	When using ^c0c0ff[%s]^FFFF00 there is a 20%% chance to clear cooldown. * Exclusive sign ability: ^00FF00 %s Dragon of the Sea ^FFFF00
 10216	^c0c0ff Needs Surveillance No. 10 of E. Prison ^A2FFFF
@@ -10591,7 +10591,7 @@
 10590	Chung Burst Venom of Scorpio
 10591	Let me poison to spread around the world!
 10592	Additional attacks: {^FFABFC %d ^FFFF00} cause {^FFABFC %d%% ^FFFF00} damage to targets in the ground damage reduced 50%% ^00FF00 invincible body Scorpio ^FFFF00switch potential, sustained invincible natal four seconds ^00FF00 poisoning of the blood sera FFFF00 were eroded by the second {^FFABFC %d ^FFFF00} damage for 4 seconds, the BUFF could be overlapped stacks
-10593	Additional attack: %d %d%% causes damage to land targets reduced by 50%% ^00FF00incorporate body Scorpio ^FFFF00promote the natal potential, sustained four seconds ^00FF00 poisoning of the invincible blood ^FFFF00e to erosion Harm per second% damage to 4 seconds, the BUFF can be overlapped stacks
+10593	Additional attack: %d\r %d%% causes damage to land targets reduced by 50%% ^00FF00incorporate body Scorpio ^FFFF00promote the natal potential, sustained four seconds ^00FF00 poisoning of the invincible blood ^FFFF00e to erosion Harm per second %d damage to 4 seconds, the BUFF can be overlapped stacks
 10594	Many call Noxious suffered explosion damage, the impact of its own range of 10 meters all enemies in the release itself has the invincible effect
 10595	spread Scarlet
 10596	^00FF00Scorpio Match ^FFFF00\rReturns the Glory Thorns and Scorpio Poison Bubbles instantly.\rIncreases the damage rating by %d %%, lasts for 8s
@@ -10839,7 +10839,7 @@
 10838	[End] Tiamat Eater
 10839	Wyvern finishing movements, and when the lower target blood can occur when the head end of the identity, can end immediately, while its own response to a certain life.
 10840	intent to escape
-10841	Reduce Attack: %Drieve Successes: %D Reduce Dodge: %D Reduce Resistance: 10%%Reduce Attack: 4m/s Duration: 10 Seconds
+10841	Reduce Attack: %d \rSuccesses: %d\r Reduce Dodge: %d Reduce Resistance: 10%% \rReduce Attack: 4m/s Duration: 10 Seconds
 10842	Reduce target attack, hit, dodge, resistance to damage, and target deceleration.
 10843	Genma Ken
 10844	^ff0000 Little space when you can use ^A2FFFF targets within a certain range in front of the enemy.
@@ -11006,10 +11006,10 @@
 11005	^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00, ^c0c0ff[%s]^FFFF00 Curse duration increased by 6 seconds\r^c0c0ff[%s]^FFFF00 Duration increased by 3 seconds\r Fighting soul exclusive guardian constellation: ^00FF00%s Lira ^FFFF00
 11006	^c0c0ffNeedular Survice No. 244 of E.Silences for ^A2FFFF
 11007	Strengthen the weak
-11008	Lyra does ^00FF00 %Fighting Spirit ^FFFF00 when ^c0c0ff[%s]^FFFF00 is in effect, releasing ^c0c0ff[%s]^FFFF00 body effect when administered to stun
+11008	Lyra does ^00FF00 %s ^FFFF00 when ^c0c0ff[%s]^FFFF00 is in effect, releasing ^c0c0ff[%s]^FFFF00 body effect when administered to stun
 11009	^c0c0ffNeed Lira Armor LV.3 ^A2FFFF
 11010	reverberation seismic reinforcement
-11011	Lyra does ^00FF00 %Fighting Spirit ^FFFF00 [%s] ^FFFF00 when in force, the release [%s] ^FFFF00 reaches one target every 5 physical recovery
+11011	Lyra does ^00FF00 %s ^FFFF00 [%s] ^FFFF00 when in force, the release [%s] ^FFFF00 reaches one target every 5 physical recovery
 11012	^c0c0ffNeeds Lira Armor LV.10 ^A2FFFF
 11013	Strengthening blessing months
 11014	Lyra does ^00FF00 %s Fighting Spirit ^FFFF00 go into ^c0c0ff[%s]^FFFF00 force when the trigger, ^c0c0ff[%s]^FFFF00 extra effect to make your own health recovery 5 %%
@@ -11130,7 +11130,7 @@
 11129	Summon sea of ​​flowers, petals that dance around him to attack all enemies within a 10 meter radius, and they are confounded influence ^00FF00 of ^A2FFFF.
 11130	Heart healing
 11131	^00FF00 Nature Power ^FFFF00\rrequires immediately the HP {^FFABFC %d ^FFFF00}\rthe flight speed increases to 6m/s, has a duration %ds
-11132	^00FF00power of nature ^FFFF00\rrecupera immediately increases the flight speed from HP %to 6m/s, lasts d %s
+11132	^00FF00power of nature ^FFFF00\rrecupera immediately increases the flight speed from HP %d to 6m/s, lasts %d s
 11133	Feel the power of nature to inspire your potential, get ^00ff00 force of nature ^A2FFFF status
 11134	Pugong
 11135	Very common attack damage is also very common.
@@ -11254,7 +11254,7 @@
 11253	For your own enemies within 6 yards of damage range, and improve your attack skills when a period of time to release damage reduced by 40 %%
 11254	^ff0000When a small outbreak of the universe ^A2FFFF can be used against the enemy within the target range of 7 meters and its surrounding damage, reduced by 25%% 10%% injuries and resistance to damage, reduction of 9 seconds release abilities suffered 40 %%
 11255	For your own enemies within the range of 8 yards, causing damage and reduce the enemy to 20%% damage reduction, reduce to 9 sec injuries liberation skills suffered when 40 %%
-11256	Additional Attack: %d damage %d%% Caused ^c0c0ff [Spark ion] ^FFFF00 Reduce your hit %Dodge Dodge %d for 10 seconds
+11256	Additional Attack: %d damage %d%% Caused ^c0c0ff [Spark ion] ^FFFF00 Reduce your hit %d Dodge Dodge %d for 10 seconds
 11257	^ff0000 little space when you can use enemies ^A2FFFFem a damage line and reduces the enemy hit and avoid some time to release skills when damage reduced by 40 %%
 11258	The enemy within the damage inflicting sector of 120 degrees from the front and the effect of releasing the fixed bodily injuries suffered by 40 %%
 11259	^ff0000 can use small outbreak of the universe ^A2FFFFat the enemy within the target range of 5 meters and its surrounding damage reduce the enemy 10%% damage reduction, reduce injuries 9 sec abilities release suffered when 40 %%
@@ -11271,7 +11271,7 @@
 11270	After obtaining the use of Pope's blessing, fighting probability trigger ^c0c0ff [fire reincarnation industry] ^A2FFFF or ^c0c0ff [bodycare wisdom] ^A2FFFF
 11271	The fountain of life
 11272	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground reduced damage 50%% ^00ff00 legal ^ffff00 Vertigo two seconds
-11273	Additional Attack:% damage %d%% damage to land targets reduced by 50%% ^00FF00 legal ^FFFF00 Vertigo two seconds
+11273	Additional Attack: %d damage %d%% damage to land targets reduced by 50%% ^00FF00 legal ^FFFF00 Vertigo two seconds
 11274	target condensed water, the probability of the target to status ^00FF00 legal ^A2FFFF
 11275	Hurricane Desert
 11276	Priming force of a hurricane in target sectors the enemies where the region causing huge losses
@@ -11327,7 +11327,7 @@
 11326	spit lava bomb damage strong on the enemy, and in ^00FF00 Lava Explosion ^A2FFFF status
 11327	curse exploded
 11328	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets on reduced damage only 50%% ^00FF00 silence ^FFFF00silence for 4 seconds
-11329	Additional Attack:% damage %d%% damage to ground targets reduced by 50%% ^00FF00 silence ^FFFF00silence for 4 seconds.
+11329	Additional Attack: %d damage %d%% damage to ground targets reduced by 50%% ^00FF00 silence ^FFFF00silence for 4 seconds.
 11330	The selected area causing major damage to the sector and make it to status ^00FF00 silence ^A2FFFF
 11331	Ancestor of the Force
 11332	^00FF00Ancestral Power ^FFFF00precision and evasion increase considerably, has duration of %ds
@@ -11519,15 +11519,15 @@
 11518	The guard
 11519	To increase the stamina element: 2 * star squire
 11520	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets on reduced damage only 50%% ^00FF00 fragmented ^FFFF00reduced flying speed of 3 m/s, 2 sec
-11521	Additional Attack:% damage %d%% damage to ground targets reduced by 50%% ^00FF00 fragmented ^FFFF00reduced flying speed of 3 m/s, 2 sec
+11521	Additional Attack: %d damage %d%% damage to ground targets reduced by 50%% ^00FF00 fragmented ^FFFF00reduced flying speed of 3 m/s, 2 sec
 11522	Target Lion waving claws, the probability of the target being fragmented ^00FF00 status ^A2FFFF
 11523	Furious War
 11524	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets on reduced damage only 50%% ^00FF00 ashes ^FFFF00squivar dropped for 4 seconds
-11525	Additional Attack:% damage damage %d%% damage to ground targets reduced by 50%% ^00FF00 ashes ^FFFF00squivar fell for 4 seconds
+11525	Additional Attack: %d damage damage %d%% damage to ground targets reduced by 50%% ^00FF00 ashes ^FFFF00squivar fell for 4 seconds
 11526	Lion motivate the firepower to cause damage to the body, and in ^00FF00 ash status ^A2FFFF
 11527	Leo's Roar
 11528	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets on reduced damage only 50%% ^00FF00 dizziness ^FFFF00vertigem for 4 seconds
-11529	Additional Attack:% damage %d%% damage to ground targets reduced by 50%% ^00FF00 dizziness ^FFFF00vertigem for 4 seconds
+11529	Additional Attack: %d damage %d%% damage to ground targets reduced by 50%% ^00FF00 dizziness ^FFFF00vertigem for 4 seconds
 11530	The enemy around himself 10 meters from the circular area of ​​a series of losses, and in ^00FF00 vertigo status ^A2FFFF
 11531	Leo of the guardian
 11532	^00FF00Protection of the Lion King ^FFFF00recupera the blood, has a duration of %ds
@@ -11617,9 +11617,9 @@
 11616	killer god Poseidon: Neptune
 11617	\t ^c0c0ff [NOL Roughs] ^FFFF00Neptune God halberd roared to the target, causing huge damage and immediately reducing the enemy 10%% maximum lifetime value, forming a torrent within the next five seconds, reducing per second 3%% enemy maximum value of life, and God halberd enemy the speed of movement torrent hit and damage reduction were significantly reduced; 50 points, while increasing the master of all abnormal state resistance breaks, for 15 seconds. Damage Reduction Resistance: 30%% Damage %d %%. ^C0c0ff [storm destruction] ^FFFF00Deus calls storm killer destroyed power of 40%% per second within a range stun enemies and cause maximum health target 6%% damage, stun for 5 seconds, 80%% damage owner damage reduction, 50%% damage increased 8 sec incidental effect of release the \t effect artifact trigger value shot trigger control associated with the divine.
 11618	Blessing Poseidon to get accustomed after the fight provoked probability ^c0c0ff [NOL Roughs] ^A2FFFF or ^c0c0ff [storm destruction] ^A2FFFF
-11619	Additional Attack: %Dwarves %d%% from their enemies within 2 meters, will withstand the total damage of their own 2 to 4 meters enemy will suffer damage of their own 80%% of more than 6 meters of the enemy , 50%% will withstand damage.
+11619	Additional Attack: %d\r damage %d%% from their enemies within 2 meters, will withstand the total damage of their own 2 to 4 meters enemy will suffer damage of their own 80%% of more than 6 meters of the enemy , 50%% will withstand damage.
 11620	For your own enemies within 6 yards of damage range, the longer the distance, the lower the danoreduzir the enemy 20%% damage reduction, damage reduction abilities 9 seconds release received 40 %%
-11621	Additional Attack: %Dhanos caused %d%% by inner silence and reduce enemy range 5 Abnormal Resistance status for 5 seconds
+11621	Additional Attack: %d\rcaused %d%% by inner silence and reduce enemy range 5 Abnormal Resistance status for 5 seconds
 11622	Little space ^FF0000 when you can use enemies ^A2FFFF in front of the wide arc damage of 60 degrees, so that the enemy resistance silence interval and reduce abnormal status when the damage release skills suffered by 40 %%
 11623	frost bomb
 11624	Additional attack power: {^FFABFC%d^FFFF00}\r causes {^FFABFC%d%%^FFFF00} damage\r reduces ground damage by 50%%\r^00FF00 frost^FFFF00\r Flight speed decreases 3 m/s for 4 seconds
@@ -11629,14 +11629,14 @@
 11628	Double Dragon Cohesion Flame, within the goal of about 5 yards enemy damage
 11629	breath of frost
 11630	Additional attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground damage reduced 50%% ^00FF00 frozen vertigo ^FFFF00for 4 seconds
-11631	Additional Attack:% damage %d%% damage to ground targets reduced by 50%% ^00FF00Frozen Vertigo ^FFFF00for 4 seconds
+11631	Additional Attack: %d damage %d%% damage to ground targets reduced by 50%% ^00FF00Frozen Vertigo ^FFFF00for 4 seconds
 11632	Double Cohesion of the Frost Dragon, the target range of sectors in which the damage of the enemy, and comes ^00FF00 ice effect ^A2FFFF
 11633	Dragon Soul Awakening
 11634	^00FF00Treatment of the Dragon Spirit ^FFFF00 increases damage reduction by a %d %%, lasts for 6s
 11635	Dragon Force Addict grown significantly improve damage reduction
 11636	Divine Retribution
 11637	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets not only reduced damage 50%% ^00FF00discipline ^FFFF00date for 2 seconds.
-11638	Additional attack:% damage %d%% damage to ground targets reduced by 50%% ^00FF00discipline ^FFFF00atordoar for 2 seconds
+11638	Additional Attack: %d damage %d%% damage to ground targets reduced by 50%% ^00FF00discipline ^FFFF00atordoar for 2 seconds
 11639	The damage of discipline cohesion strength in the target, the probability of the target to the ^00FF00estado ^A2FFFF discipline
 11640	imprint light
 11641	respond immediately to the goal of life {^FFABFC %d ^FFFF00}
@@ -11644,7 +11644,7 @@
 11643	light force fell, a large number of objective responses to life (and can be used for his own teammate)
 11644	precepts of gold
 11645	Additional attacks: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} damage to targets in the ground damage reduced 50%% ^00FF00 gold precepts ^FFFF00silence for 4 seconds
-11646	Additional Attack:% damage damage %d%% Earth targets reduced by 50%% ^00FF00 Gold Precepts ^FFFF00silence for 4 seconds
+11646	Additional Attack: %d damage damage %d%% Earth targets reduced by 50%% ^00FF00 Gold Precepts ^FFFF00silence for 4 seconds
 11647	Full of divine power body, within the goal of about 5 yards enemy damage, and comes ^00FF00 golden precepts ^A2FFFF effect
 11648	blessing of light
 11649	^00FF00 Sacred Light Protection ^FFFF00th second, retrieve HP in {^FFABFC %d ^FFFF00} has duration of %ds
@@ -11658,7 +11658,7 @@
 11657	attack target dragon lightning Cohesion, the probability of the target to ^00FF00paralisia ^A2FFFF status
 11658	split waves
 11659	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} additional pilot damage of 1 will be increased by 30%% of total damage to Earth's target damage reduced by 50%% ^00FF00gigante ^FFFF00 waves hit significantly reduced reducing the flight speed of 5 horse m/s filled with six people, additional reduction of 20%% damage reduction in this status for 4 seconds.
-11660	Additional Attack:% of damage done %d%% for additional chase of 1 will be increased by 30%% of total damage to Earth's target damage reduced by 50%% ^00FF00 waves ^FFFF00reduced significantly hit flight speed decreases 5 horse m/s filled with six people, additional reduction of 20%% damage reduction in this status for 4 seconds.
+11660	Additional Attack: %d of damage done %d%% for additional chase of 1 will be increased by 30%% of total damage to Earth's target damage reduced by 50%% ^00FF00 waves ^FFFF00reduced significantly hit flight speed decreases 5 horse m/s filled with six people, additional reduction of 20%% damage reduction in this status for 4 seconds.
 11661	Dragon invoke the waves, where the linear range of the enemy target, the probability of the target for the ^00FF00 waves ^A2FFFF
 11662	grip of the dragon
 11663	Additional Attack: {^FFABFC %d ^FFFF00} causes {^FFABFC %d%% ^FFFF00} additional pilot damage of 1 will be increased by 30%% total damage to Earth's target damage reduced by 50%% ^00FF00 broken space ^FFFF00 vertigo for 4 seconds.
@@ -12057,7 +12057,7 @@
 12056	<Awakening of the Technique> extra increase of 10%% damage index
 12057	Libra Technique
 12058	^fff962Dios · Libra Technique
-12059	^00FF00 Wake of Technique ^FFFF00removes control effects immediately and immunity to control by ds %within 12s, damages increase by 20 %%, CritChance forcreases by %d%% ^00FF00Compression of Technique ^FFFF00La Resistance to all element that ^c0c0ff [Fragments] ^FFFF00 decreases will increase from 10 points to 20 points When using ^c0c0ff [Dragon Sacrifice] ^FFFF00 you will have an effect of 8s increase of 10%% damage index ^c0c0ff [Dragon Shield] ^FFFF00 increases the speed of movement within its duration, each time you use 1x ^c0c0ff [Dragon Fangs] ^FFFF00folding time of ^c0c0ff [Dragon Shield] ^FFFF00 will decrease in 1s
+12059	^00FF00 Wake of Technique ^FFFF00removes control effects immediately and immunity to control by %d within 12s, damages increase by 20 %%, CritChance forcreases by %d%% ^00FF00Compression of Technique ^FFFF00La Resistance to all element that ^c0c0ff [Fragments] ^FFFF00 decreases will increase from 10 points to 20 points When using ^c0c0ff [Dragon Sacrifice] ^FFFF00 you will have an effect of 8s increase of 10%% damage index ^c0c0ff [Dragon Shield] ^FFFF00 increases the speed of movement within its duration, each time you use 1x ^c0c0ff [Dragon Fangs] ^FFFF00folding time of ^c0c0ff [Dragon Shield] ^FFFF00 will decrease in 1s
 12060	God · Libra technique strengthens itself; obtains the active skill ^A2FFFF from the awakening of the technique ^00FF00, as well as the passive effect ^A2FFFF understanding the technique ^00FF00
 12061	<Technique Awakening> prolongs the immunity to control in 1s and gives an extra increase of 10%% CritChance
 12062	Virgo Technique
@@ -12330,7 +12330,7 @@
 12329	Wind Blade
 12330	Use Wind Blade to injure enemies around you ruthlessly (Invalid use if you have less than 20 points of Violent Wind, if you force use with less than 20 points, the action will fail during use)
 12331	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Wind Dwell: {^FFABFC %d ^FFFF00} \ nDownload of {^FFABFC %d%% ^FFFF00} \r Wake of the Wind ^FFFF00\rJust works with monsters, increases Wind Blade damage, duration of 10 seconds\r\tWhen it is in the state of ^c0c0ff [Controller] ^FFFF00 will consume ^c0c0ff [Controller] ^FFFF00 and will reduce the movement speed of targets around each attack in the next 8 seconds\rWhen you are in the state of ^c0c0ff [Sprinter] ^FFFF00 will consume ^c0c0ff [Sprinter] ^FFFF00 and leave you free of control effects for 4 seconds\rWhen you are in the state of ^c0c0ff [Destructive] FFFF00 will consume ^c0c0ff [Destructive] ^FFFF00 and will increase the Damage Rate by 50%% for 8 seconds\rWhen the states of ^F0F0 ^[Controller] ^FFFF00, ^c0c0ff [Sprinter] ^FFFF00, ^c0c0ff [Destructive] ^FFFF00 are the effect will not be triggered during the release, so it is necessary to use the Wind Blade again to trigger the effects.
-12332	Additional Damage: %d\rAdditional WindDrive: %d\rDoor %d%%\rConsome Energy 20\r^00FF00 Wind Awakening ^FFFF00\rJust works with monsters, increases Windslide damage, duration of 10 seconds\r\tWhen it is in the state of ^c0c0ff [Controller] ^FFFF00 will consume ^c0c0ff [Controller] ^FFFF00 and will slow the movement of targets around for each attack within the next 8 seconds\rWhen it is in the state of ^c0c0ff [Sprinter] ^FFFF00 will consume ^c0c0ff [Sprinter] ^FFFF00 and will leave you free of control effects for 4 seconds\rWhen you are in the state of ^c0c0ff [Destructive] ^FFFF00 will consume ^c0c0ff [Destructive] ^FFFF00 and increase the Damage Rate at 50%% for 8 seconds\rWhen the [F50], FFFF00, ^c0c0ff [Sprinter] ^FFFF00, ^c0c0ff [Destructive] ^FFFF00 states are activated the effect will not be triggered during the release, It is therefore necessary to use the Wind Blade again to trigger the effects
+12332	Additional Damage: %d\rBonus Air damage: %d\rDoor %d%%\rConsome Energy 20\r^00FF00 Wind Awakening ^FFFF00\rJust works with monsters, increases Windslide damage, duration of 10 seconds\r\tWhen it is in the state of ^c0c0ff [Controller] ^FFFF00 will consume ^c0c0ff [Controller] ^FFFF00 and will slow the movement of targets around for each attack within the next 8 seconds\rWhen it is in the state of ^c0c0ff [Sprinter] ^FFFF00 will consume ^c0c0ff [Sprinter] ^FFFF00 and will leave you free of control effects for 4 seconds\rWhen you are in the state of ^c0c0ff [Destructive] ^FFFF00 will consume ^c0c0ff [Destructive] ^FFFF00 and increase the Damage Rate at 50%% for 8 seconds\rWhen the [F50], FFFF00, ^c0c0ff [Sprinter] ^FFFF00, ^c0c0ff [Destructive] ^FFFF00 states are activated the effect will not be triggered during the release, It is therefore necessary to use the Wind Blade again to trigger the effects
 12333	When Tornado's Violent Wind points are higher than 20, it will have its life restored 1.5%% per second and cause damage over time to opponents around the target. Skill is broken when used again.\rThe player's damage is reduced by 10%% base damage and a Wind mark is added to non-players, increasing Wind Blade damage
 12334	Wind Blade has increased damage by 10 %%, its range is increased too
 12335	Wind Blade has %s%% chance to remove control effects per second
@@ -12352,7 +12352,7 @@
 12351	Thunderous Flow
 12352	A gust of air comes out of the hands and hits the target
 12353	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Wind damage: {^FFABFC %d ^FFFF00}\rFemale %d {^FFABFC %d%% ^FFFF00} %d%% chance of activating the effect ^c0c0ff [Sprinter] ^FFFF00 Sprinter effect adds extra powerful effects to some abilities\r^00FF00FragadoScale ^FFFF00\rEach stack improves your defense and CritBonus reduction by 20 seconds, accumulating up to 5 stacks [Flashing Gold] ^FFFF00\rAdvanced ability is ^c0c0ff [^fff962 Tornado Shot] ^FFFF00\r^c0c0ff It must be with the effect ^c0c0ff [Sprinter] ^FFFF00 active State of ^c0c0ff [Sprinter] ^FFFF00
-12354	Additional Damage: %d\rAdditional Wind Dane: %d\rDane %d%%\rReturn %d Wind Violent\rTem %d%% chance to activate effect ^c0c0ff [Sprinter] ^FFFF00 effect Sprinter adds extra and powerful effects to some abilities\r^00FF00 Tornado Shield ^FFFF00\rEach stack enhances your defense and CritBonus reduction by 20 seconds, accumulating up to 5 stacks. [FFFF00 \ Advanced ability is ^c0c0ff [^fff962 Tornado Shot] ^FFFF00\r^c0c0ff It is necessary to have the effect ^c0c0ff [Sprinter] ^FFFF00 active
+12354	Additional Damage: %d\rAdditional Wind Dane: %d\rDamage %d%%\rReturn %d Wind Violent\rTem %d%% chance to activate effect ^c0c0ff [Sprinter] ^FFFF00 effect Sprinter adds extra and powerful effects to some abilities\r^00FF00 Tornado Shield ^FFFF00\rEach stack enhances your defense and CritBonus reduction by 20 seconds, accumulating up to 5 stacks. [FFFF00 \ Advanced ability is ^c0c0ff [^fff962 Tornado Shot] ^FFFF00\r^c0c0ff It is necessary to have the effect ^c0c0ff [Sprinter] ^FFFF00 active
 12355	Medium-range attack ability, the attack can restore energy and activate the Tornado Shield itself
 12356	Boom Flow Damage is increased by 10 %%, %s%% chance of doubling damage
 12357	Boom Flow Damage is increased by 30 %%
@@ -12397,7 +12397,7 @@
 12396	Explosive Air Flow
 12397	^fff962Gold Ability\rEffect: ^c0c0ff Adds a ragged chaotic air to tear the targets forward
 12398	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Wind Dwell: {^FFABFC %d ^FFFF00} \r {FFABFC %d%% ^FFFF00} chance of causing 2x, 3x, or even 4x damage\r\t ^00FF00Áries ^FFFF00\rAfter using it will enter the state of ^c0c0ff [Gold Explosion] ^FFFF00\rThis state can not be activated again within 30 seconds after being FFFF00 becomes FFF00 ^FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shortage] ^FFFF00\r[Flurry Flow] ^FFFF00 becomes ^c0c0ff [^fff962 Hurricane Storm] FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [^fff962 Atmospheric Suppression] ^FFFF00
-12399	Additional Damage: %d\rAdditional WindDrive: %d\rDane %d%%\rRental Wind Restarture 50\rSave a small chance to cause 2x, 3x, or up to 4x damage\r\t ^00FF00Aries ^FFFF00\rAfter using it will enter the state of ^c0c0ff [Gold Explosion] ^FFFF00\rThis state can not be activated again in the next 30 seconds after being consumed\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Cyclonic Breeze] FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shift] ^FFFF00\r^c0c0ff [Thunderous Flow] ^FFFF00 becomes ^c0c0ff [^fff962Surrounding] ^FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [ ^fff962 Atmospheric Suppression] ^FFFF00
+12399	Additional Damage: %d\rBonus Air damage: %d\rDamage %d%%\rRental Wind Restarture 50\rSave a small chance to cause 2x, 3x, or up to 4x damage\r\t ^00FF00Aries ^FFFF00\rAfter using it will enter the state of ^c0c0ff [Gold Explosion] ^FFFF00\rThis state can not be activated again in the next 30 seconds after being consumed\r^00FF00 Gold Explosion ^FFFF00\r^c0c0ff [Cyclonic Breeze] FFFF00 becomes ^c0c0ff [^fff962 Cyclonic Shift] ^FFFF00\r^c0c0ff [Thunderous Flow] ^FFFF00 becomes ^c0c0ff [^fff962Surrounding] ^FFFF00\r^c0c0ff [Compression] ^FFFF00 becomes ^c0c0ff [ ^fff962 Atmospheric Suppression] ^FFFF00
 12400	Deals a large amount of damage on the forward target and receives 50 energy. There is a chance to deal 2x, 3x, or even 4x damage!\rRecharges the Wind Energy, Soul Magic, Speed ​​of Light and Vengeful Spirit abilities.
 12401	Increases Explosive Airflow damage by 20 %%
 12402	Justice of Aries
@@ -12489,8 +12489,8 @@
 12488	^c0c0ffArchive LV.24 of Force Armor ^A2FFFF
 12489	^fff962Soco Hurricane
 12490	^fff962Gold Ability\rEffect: ^c0c0ffObtain the [Sprinter]
-12491	Additional Damage: {^FFABFC %d ^FFFF00}\rAdditional Wind Drought: {^FFABFC %d ^FFFF00}\rMinimal Damage of: {^FFABFC %d%% ^FFFF00}\rRestore %d of Violent Wind\rObtenha the status of ^c0c0ff [Sprinter] ^FFFF00, Controller status will provide additional effects for some abilities
-12492	Additional Damage: %d\rAdditional WindDrive: %d\rDane %d%%\rRent Wind %rRestore\rObtain the status of ^c0c0ff [Sprinter] ^FFFF00, Sprinter status will provide additional effects for some skills
+12491	Additional Damage: {^FFABFC %d ^FFFF00}\rBonus Air damage: {^FFABFC %d ^FFFF00}\rMinimal Damage of: {^FFABFC %d%% ^FFFF00}\rRestore %d of Violent Wind\rObtenha the status of ^c0c0ff [Sprinter] ^FFFF00, Controller status will provide additional effects for some abilities
+12492	Additional Damage: %d\rBonus Air damage: %d\rDamage %d%%\rBonus Air damage %d\rRestore\rObtain the status of ^c0c0ff [Sprinter] ^FFFF00, Sprinter status will provide additional effects for some skills
 12493	Long-range attack ability, the attack can restore Strength
 12494	^fff962 Cyclonic Shortening
 12495	^fff962Gold Ability\rEffect: ^c0c0ffObtain the [Controller]
@@ -12849,7 +12849,7 @@
 12848	To use, it is necessary to be equipped with a mount.
 12849	Talk
 12850	Talk to the nearest NPC\rUse when there are too many people nearby to choose NPC
-12851	Return to the base of the army
+12851	Return to the base of the Guild
 12852	Prayer
 12853	^ffffff Start to ^ffff00Meditate^ffff00\r^a2ffffReceive an EXP every 10s. Regeneration: 60 HP per second and 20 Stamina per second\r^ffff00The experience received depends on character level.\rIf the player does not take any action in 1 minute, Meditation is automatically trigered.\r^ffffffMeditation is interrupted when the character is moved.
 12854	Hide Players
@@ -13037,7 +13037,7 @@
 13036	Inspire the light of the stars and attack all enemies within 10 meters of your surroundings and inflicts ^00FF00Shock^A2FFFF status on them.
 13037	^00FF00Star Blessing^FFFF00\rIncrease flight speed 6 m/s for 4 seconds\rSignificantly increase Accuracy and Evasion for 4 seconds
 13038	Cosmo is full, unable to perform astrological operations
-13039	%s (%d level) ^ffffff will fuse with %s (% d level) ^ffffff. You will receive ^00ff00%d ^ffffff EXP
+13039	%s (%d level) ^ffffff will fuse with %s (%d level) ^ffffff. You will receive ^00ff00%d ^ffffff EXP
 13040	The soul of the star has been locked, please unlock and then merge
 13041	The soul of the star is protected by the lock of the object. It can only fuse with other ghosts, but it cannot be merged.
 13042	^O021^ffff00 Energy Potion\r^O009^ffffff Restores maximum life by 10% per second

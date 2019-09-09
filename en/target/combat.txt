@@ -188,7 +188,7 @@
 187	%d Name
 188	%d Name later
 189	Because you are on the graph of the Coliseum of the constellation of the Milky Way %s (classification %d) of the excellent performance, this part %s is awarded in reward.
-190	You can not use personal fighting skills on the battlefield, and a copy of the Legion.
+190	You can not use personal fighting skills on the battlefield, and a copy of the Guild.
 191	^ff0000 ↑ %d
 192	^00ff00 ↓ %d
 193	New
@@ -318,10 +318,10 @@
 317	^FFFF00 %s ^FFFFFF used punch and kicks against ^00FF00 %s ^FFFFFF
 318	^FFFF00 %s ^FFFFFF used knee against ^00FF00 %s ^FFFFFF
 319	^FFFF00 %s ^FFFFFF used headbutton ^00FF00 %s ^FFFFFF
-320	After 5 minutes, the legion at high speed
-321	10 seconds from the base of the army corps at high speed
-322	Base of the army corps in high speed
-323	Beginning of the classification legion
+320	After 5 minutes, the Guild at high speed
+321	10 seconds from the base of the Guild corps at high speed
+322	Base of the Guild corps in high speed
+323	Beginning of the classification Guild
 324	^0000ff%d Blue player
 325	Occupation points
 326	0

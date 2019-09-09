@@ -373,7 +373,7 @@
 372	Snow Rose
 373	Flower
 374	Wolf Meat
-375	Purple Flower
+375	Devilwood
 376	Lost Resources
 377	Mysterious Information
 378	Photo
@@ -11285,7 +11285,7 @@
 11284	Personification of Camus
 11285	Personification of Aiolia
 11286	Mu personification
-11287	Personification of Aldebarán
+11287	Personification of Aldebaran
 11288	Expansion of the gold processing card
 11289	Raven Killer
 11290	Bamboo
@@ -12230,8 +12230,8 @@
 12229	Chapter I Sorrento
 12230	Chapter II Sorrento
 12231	Recorder
-12232	Chapter I Aldebarán
-12233	Chapter II Aldebarán
+12232	Chapter I Aldebaran
+12233	Chapter II Aldebaran
 12234	Golden Horn
 12235	Chapter I Shura
 12236	Chapter II Shura
@@ -12295,7 +12295,7 @@
 12294	Fragment 星 Frag
 12295	Starlight Fragment
 12296	Corrupted Crystal
-12297	Arena of the Underworld
+12297	Underworld Starlight
 12298	exchange note 4 coins 星 华
 12299	Starlight of Pegasus
 12300	Cygnus Starlight
@@ -13489,7 +13489,7 @@
 13488	Rare Title Snippet
 13489	Fragment of Pet of Isaac
 13490	Fragment of Pet of Aiolia
-13491	Fragment of Pet of Aldebarán
+13491	Fragment of Pet of Aldebaran
 13492	Lucky Star - Kiki Quiz
 13493	Lucky Star - Saori Golosa
 13494	Lucky Star - Super Race
@@ -14610,7 +14610,7 @@
 14609	Camus
 14610	Aiolia
 14611	Mu
-14612	Aldebarán
+14612	Aldebaran
 14613	Luck of the day [Friendship]
 14614	Luck of the day [Battle]
 14615	Luck of the Day [Romance]

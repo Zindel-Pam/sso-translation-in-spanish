@@ -3,7 +3,7 @@
 2	/Friends
 3	/Colleagues
 4	/MP
-5	/Army
+5	/Guild
 6	/World
 7	/Advertisement
 8	/Laugh
@@ -60,7 +60,7 @@
 59	A scream to heaven! My brilliant premiere!
 60	In the name of Athena! Burn, Cosmo!
 61	Feel good, the town does not need to worry
-62	Only after the %level can the alert function be used
+62	Only after the %d level can the alert function be used
 63	Unknown
 64	%d month %day
 65	An unknown error occurred with that friendly operation
@@ -234,7 +234,7 @@
 233	Unknown Player
 234	You joined the circle ( %s- %s), in the Social Interface, you can click on the "friends" tab to see more details.
 235	My colleagues ( %s- %s ^N)
-236	Unknown Army
+236	Unknown Guild
 237	Click twice to modify the recruitment announcement and Enter to save
 238	Click twice to modify the internal announcement and Enter to save
 239	Click twice to modify the observations and Enter to save
@@ -252,72 +252,72 @@
 251	Mayor
 252	Lieutenant
 253	Soldier
-254	You are already in an army, it is not possible to continue with this operation
-255	Only when you reach level 10 is that you can join the Army
-256	The level of the Target is too low, to join the Army you need to reach level 10
-257	You are not in an army, it is not possible to continue with this operation
+254	You are already in an Guild, it is not possible to continue with this operation
+255	Only when you reach level 10 is that you can join the Guild
+256	The level of the Target is too low, to join the Guild you need to reach level 10
+257	You are not in an Guild, it is not possible to continue with this operation
 258	You do not have permission to continue this operation
-259	You do not have permission to send a voice message in the Army channel, please contact the Army administrator
-260	No army position information
-261	Insufficient Army Information
+259	You do not have permission to send a voice message in the Guild channel, please contact the Guild administrator
+260	No Guild position information
+261	Insufficient Guild Information
 262	Did not reach the right place
-263	%successful
+263	%s successful
 264	%s failed: %s
-265	Obtain basic Army information
-266	Create Army
-267	Dissolve the army
-268	Restore Army
-269	​​Get detailed information about the Army
-270	Get Army list
-271	Solicitation to join the army
-272	Approve request for the Army
-273	Request to join the Army rejected
-274	Invitation to join the Army
-275	Exit the Army
-276	The player has been expelled from the Army
-277	Publish ad of the Army
-278	Uploading the Army logo
-279	The Army leader passed his position forward
-280	Change Army post
+265	Obtain basic Guild information
+266	Guild created
+267	Dissolve the Guild
+268	Restore Guild
+269	​​Get detailed information about the Guild
+270	Get Guild list
+271	Solicitation to join the Guild
+272	Approve request for the Guild
+273	Request to join the Guild rejected
+274	Invitation to join the Guild
+275	Exit the Guild
+276	The player has been expelled from the Guild
+277	Publish ad of the Guild
+278	Uploading the Guild logo
+279	The Guild leader passed his position forward
+280	Change Guild post
 281	Change member information
-282	Change titles of Army positions
-283	Change permit from Army posts
-284	Change Army faction
-285	Create Army Alliance
-286	Verify Army Alliance
-287	Join the Army Alliance
-288	Leave the Army Alliance
-289	Recruitment of the Army Alliance
-290	Rename Army Alliance
-291	Get list of the Army Alliance
-292	Application to join the Army Alliance
-293	Dissolve Army Alliance
-294	Eject someone from the Army Alliance
+282	Change titles of Guild positions
+283	Guild position changed
+284	Change Guild faction
+285	Create Guild Alliance
+286	Verify Guild Alliance
+287	Join the Guild Alliance
+288	Leave the Guild Alliance
+289	Recruitment of the Guild Alliance
+290	Rename Guild Alliance
+291	Get list of the Guild Alliance
+292	Application to join the Guild Alliance
+293	Dissolve Guild Alliance
+294	Eject someone from the Guild Alliance
 295	Change Leader
 296	Change Statement
 297	Change debit request
-298	You will request to join the Army %s as this Army is already configured, and this time, the request will consume %d Gold, do you want to confirm?
-299	The request to join the Army has already been sent %s, please await confirmation from the Chief
-300	The invitation to join the Army has already been sent, please wait for the other party's response.
-301	%s has invited you to join the Army %s, do you want to accept the invitation?
-302	%s has invited you to join the Army, but this request has been ignored, because it exceeded the time
+298	You will request to join the Guild %s as this Guild is already configured, and this time, the request will consume %d Gold, do you want to confirm?
+299	The request to join the Guild has already been sent %s, please await confirmation from the Chief
+300	The invitation to join the Guild has already been sent, please wait for the other party's response.
+301	%s has invited you to join the Guild %s, do you want to accept the invitation?
+302	%s has invited you to join the Guild, but this request has been ignored, because it exceeded the time
 303	The Legionnaire found a corps %s that you might be very appetizing. Would you like to join?
-304	Enter a name for the Army:
-305	Use 100000 Gold to create the Army?
+304	Enter a name for the Guild:
+305	Use 100000 Gold to create the Guild?
 306	"Chapter of Faith" will be consumed!
-307	Please enter the name of the enemy Army:
+307	Please enter the name of the enemy Guild:
 308	Please enter the character's name:
-309	Confirm the expenditure of 500,000 Gold to create the Army Alliance?
-310	Please enter the name of the Army Alliance created:
+309	Confirm the expenditure of 500,000 Gold to create the Guild Alliance?
+310	Please enter the name of the Guild Alliance created:
 311	The player level needs to reach level 25
-312	The tool "Chapter of Faith" is needed (After finishing the formation of the team, go to Zoe to receive "Creation of the Army! Mission of the chapter of faith in protection")
+312	The tool "Chapter of Faith" is needed (After finishing the formation of the team, go to Zoe to receive "Creation of the Guild! Mission of the chapter of faith in protection")
 313	O 100,000 Gold
-314	Army Name contains characters not allowed
-315	It is necessary to have %d level up from the Army Base in order to create an Army Alliance
-316	You need to have, at least, %I64d Gold to be able to create an Army Alliance
-317	Name of the Army Alliance contains characters not allowed
-318	You are already in an Army Alliance
-319	Insert rate for candidacy to the Army
+314	Guild Name contains characters not allowed
+315	It is necessary to have %d level up from the Guild Base in order to create an Guild Alliance
+316	You need to have, at least, %I64d Gold to be able to create an Guild Alliance
+317	Name of the Guild Alliance contains characters not allowed
+318	You are already in an Guild Alliance
+319	Insert rate for candidacy to the Guild
 320	Last Login
 321	Auto exit.
 322	Rename
@@ -325,54 +325,54 @@
 324	%s named %s as %s
 325	The number of people for the %s position is complete
 326	Do you want to confirm the nomination of %s as %s?
-327	Do you want to confirm the nomination of %s as %s? ^ff0000 Peripheral members can not obtain the benefit of the Army, enter the Army base and participate in the Galactic Tournament fights.
+327	Do you want to confirm the nomination of %s as %s? ^ff0000 Peripheral members can not obtain the benefit of the Guild, enter the Guild base and participate in the Galactic Tournament fights.
 328	^ff0000 Attention: Do you want to pass the Marshal title for %s?
 329	^ff0000 Are you sure you want to pass the Marshal title for %s?
-330	Do you want to confirm the dissolution of the Army %s?
-331	Do you want to confirm the restoration of the Army %s?
-332	Do you want to confirm the departure of the Army %s?
-333	Do you want to confirm the departure of the Army %s? (Your current position is %s, you will not leave the Army immediately, you will first become a peripheral member, and %s will automatically leave the Army)
+330	Do you want to confirm the dissolution of the Guild %s?
+331	Do you want to confirm the restoration of the Guild %s?
+332	Do you want to confirm the departure of the Guild %s?
+333	Do you want to confirm the departure of the Guild %s? (Your current position is %s, you will not leave the Guild immediately, you will first become a peripheral member, and %s will automatically leave the Guild)
 334	You can consider first before putting %s on the list of peripheral members, do you want to do that?
-335	Confirm the expulsion of %s from the Army?
-336	Confirm the expulsion of %s from the Army? (The current position of that person is %s, she will not leave the Army immediately, first, she will become a peripheral member, and %s will leave the Army automatically)
+335	Confirm the expulsion of %s from the Guild?
+336	Confirm the expulsion of %s from the Guild? (The current position of that person is %s, she will not leave the Guild immediately, first, she will become a peripheral member, and %s will leave the Guild automatically)
 337	Please enter the reason for the expulsion of %s:
 338	Unfounded
-339	%s accepted the %s request to join the Army
-340	%s rejected %s request to join the Army
-341	%s invited %s to join the Army
-342	%s passed his post of Army Chief for %s
-343	%s left the Army
-344	%s expelled %s from the Army
+339	%s accepted the %s request to join the Guild
+340	%s rejected %s request to join the Guild
+341	%s invited %s to join the Guild
+342	%s passed his post of Guild Chief for %s
+343	%s left the Guild
+344	%s expelled %s from the Guild
 345	%s \r %s \r %s Recommendation
-346	The Army %s does not agree that you join him.
-347	%s invited %s to join the Army, Welcome!
-348	%s agree that %s join the Army, Welcome!
+346	The Guild %s does not agree that you join him.
+347	%s invited %s to join the Guild, Welcome!
+348	%s agree that %s join the Guild, Welcome!
 349	There's still %s dissolution
-350	%s continued with the dissolution operation of the Army; after 15 days, the Army will dissolve
-351	Ej Army will dissolve after 60 minutes; The Army Chief can cancel the operation in the Control Panel
-352	The Army has already been dissolved
-353	[Army Announcement] %s
-354	Army restored from the dissolution status
-355	%s applied to join the Army; await administrator confirmation
-356	%s changed the name of the Army post
-357	Permit of the altered Army post
-358	Army recruitment announcement changed
+350	%s continued with the dissolution operation of the Guild; after 15 days, the Guild will dissolve
+351	Ej Guild will dissolve after 60 minutes; The Guild Chief can cancel the operation in the Control Panel
+352	The Guild has already been dissolved
+353	[Guild Announcement] %s
+354	Guild restored from the dissolution status
+355	%s applied to join the Guild; await administrator confirmation
+356	%s changed the name of the Guild post
+357	Guild position authority changed
+358	Guild recruitment announcement changed
 359	Boss %s does not have online status for a long period, therefore, the position will be automatically passed for %s
-360	Recovery of the Army Base
-361	The base of the Army has been recovered; Insufficient degree of activity
+360	Recovery of the Guild Base
+361	The base of the Guild has been recovered; Insufficient degree of activity
 362	A was collected for lack of funds for the maintenance fee. Request a new one
-363	The base of the Army has been recovered
-364	This week, his army won W.O. in the Classifications. Enter the Army base to directly obtain the prize of benefit of the Qualifications. Please return all to the base to receive the prize.
-365	He won an army conquest
-366	&%s& created the army %s Congratulations!
-367	&%s& joined the army %s Congratulations!
-368	The invitation to join the Army has been sent, please wait for the response.
-369	Army created Id = %I64
+363	The base of the Guild has been recovered
+364	This week, his Guild won W.O. in the Classifications. Enter the Guild base to directly obtain the prize of benefit of the Qualifications. Please return all to the base to receive the prize.
+365	He won an Guild conquest
+366	&%s& created the Guild %s Congratulations!
+367	&%s& joined the Guild %s Congratulations!
+368	The invitation to join the Guild has been sent, please wait for the response.
+369	Guild created Id = %I64
 370	To increase the scale, it is necessary that the Degree of Activity this week is reached %d
-371	It is not possible to increase, this week, the scale of the Army has already been increased (from level 10, it is only possible to increase the scale once a week)
-372	The scale of the Army has already been increased to the maximum
+371	It is not possible to increase, this week, the scale of the Guild has already been increased (from level 10, it is only possible to increase the scale once a week)
+372	The scale of the Guild has already been increased to the maximum
 373	You do not have permission for %s
-374	Send voice message in the Army Channel
+374	Send voice message in the Guild Channel
 375	Annotation
 376	Agr Member
 377	Eject
@@ -398,19 +398,19 @@
 397	Wrong permission
 398	Configure debit request
 399	Start looting war
-400	Star = %d Army Funds
-401	Operation of the Unknown Army: %d
+400	Star = %d Guild Funds
+401	Operation of the Unknown Guild: %d
 402	Impossible
-403	Army Base
-404	Solicitation for Army base
-405	Enter the base of the Army
-406	Leave Army base
-407	Ready to obtain the base of the Army
-408	1 The applicant needs to be the Chief of the Army2 Currently, he does not have an Army base3 The application period must be from Tuesday to Sunday4 Necessary Gold Consumption: %d
-409	You still do not have an Army
-410	The Army already has a Base, it is not necessary to request again
-411	The level of your Army has not yet reached level 1, it is not possible to request a base
-412	The army in which you are still does not have a base
+403	Guild Base
+404	Solicitation for Guild base
+405	Enter the base of the Guild
+406	Leave Guild base
+407	Ready to obtain the base of the Guild
+408	1 The applicant needs to be the Chief of the Guild2 Currently, he does not have an Guild base3 The application period must be from Tuesday to Sunday4 Necessary Gold Consumption: %d
+409	You still do not have an Guild
+410	The Guild already has a Base, it is not necessary to request again
+411	The level of your Guild has not yet reached level 1, it is not possible to request a base
+412	The Guild in which you are still does not have a base
 413	Gold required insufficient, it is not possible to request a base
 414	Perfect success
 415	Failure to collect raw material
@@ -418,20 +418,20 @@
 417	Success
 418	The requests of the base can only be made between Tuesday and Sunday
 419	Canceling
-420	Army level has not yet reached level 1
+420	Guild level has not yet reached level 1
 421	ID error
 422	Without permission
 423	It already exists
-424	Army Activity Level last week is not among the top 200 names
+424	Guild Activity Level last week is not among the top 200 names
 425	Error Distributing
-426	Insufficient army reputation
-427	Without Army base
-428	A fault appeared on the base line where your Army is, fails to enter
+426	Insufficient Guild reputation
+427	Without Guild base
+428	A fault appeared on the base line where your Guild is, fails to enter
 429	Without space for distribution
 430	This base is advancing for the Qualifiers
 431	You can not enter this base for the time being
 432	Operation failure
-433	There are no formal members of the Army, it is not possible to use
+433	There are no formal members of the Guild, it is not possible to use
 434	Must be in the Big World to operate
 435	The basis is in the preparation for the qualifiers
 436	The base qualifiers are over
@@ -441,16 +441,16 @@
 440	The sorters of the base will not start yet
 441	You have no right to preferential access, please try again after 20:03
 442	To enter the base of other Star Cities, the level needs to be greater than or equal to the base level of the Star City of the team itself
-443	Insufficient permission, it is not possible to enter the base of the Army
-444	Distribution of the number of Army Science and Technology points successfully made
-445	It is not possible to distribute number of Army Science and Technology points during Classification
-446	There is no Army; distribution of the number of points of Science and Technology of the Army made successfully
-447	There is no permit for the distribution of the number of Army Science and Technology points
+443	Insufficient permission, it is not possible to enter the base of the Guild
+444	Distribution of the number of Guild Science and Technology points successfully made
+445	It is not possible to distribute number of Guild Science and Technology points during Classification
+446	There is no Guild; distribution of the number of points of Science and Technology of the Guild made successfully
+447	There is no permit for the distribution of the number of Guild Science and Technology points
 448	There are not enough points to distribute them so well
 449	Base war of " %s" against " %s", the war will start in %s The two teams, please be prepared
 450	War of bases of " %s" against " %s", will begin after 15 minutes. The two teams, please, be prepared
 451	The war of the Armies began, the base is in status for preparation to enter the war; After 10 minutes, you can enter
-452	The preparation of the Army base has been completed, participants of the war, please, enter quickly
+452	The preparation of the Guild base has been completed, participants of the war, please, enter quickly
 453	The war will end after 15 minutes
 454	The war will end after 5 minutes
 455	Are you sure you want to declare war on %s?
@@ -459,31 +459,31 @@
 458	%s defeated " %s" in the world war
 459	The world war of " %s" against " %s" is over, the two sides are balanced
 460	Invalid user ID
-461	The player does not belong to any Army
+461	The player does not belong to any Guild
 462	Insufficient Permit
-463	This Army does not exist
+463	This Guild does not exist
 464	This player does not exist
-465	Target does not belong to any Army
+465	Target does not belong to any Guild
 466	In the middle of the fight
 467	War can only be declared once a day
-468	The Target Army received protection against the declaration of war
+468	The Target Guild received protection against the declaration of war
 469	%s: %d / %d Defense Index needed in this week: %d \r %s
 470	(Level %d)
 471	^999999 (inactive) ^N
 472	Destroyed
 473	Still not destroyed
-474	After 5 minutes, the Army will enter the status of preparation for the war.
-475	After 10 seconds, the base of the Army will enter status of preparation for war.
-476	The base of the army entered into a status of preparation for war; this status will continue for 5 minutes, during which it will not be possible for the player to enter the base
-477	The preparation for the war of the Army Sorters ended, players who do not participate in the competition, please enter the field.
-478	Army Sorters start, competitors, please fight without leaving regrets!
+474	After 5 minutes, the Guild will enter the status of preparation for the war.
+475	After 10 seconds, the base of the Guild will enter status of preparation for war.
+476	The base of the Guild entered into a status of preparation for war; this status will continue for 5 minutes, during which it will not be possible for the player to enter the base
+477	The preparation for the war of the Guild Sorters ended, players who do not participate in the competition, please enter the field.
+478	Guild Sorters start, competitors, please fight without leaving regrets!
 479	There are still 10 minutes left for the end of these Sorters; Armies that are still fighting, use all your strength to win!
-480	All competitions in this week's Army Qualifiers are officially closed.
-481	The Army Classifications have already started, do you want to immediately enter the battlefield?
+480	All competitions in this week's Guild Qualifiers are officially closed.
+481	The Guild Classifications have already started, do you want to immediately enter the battlefield?
 482	Remaining preparation time: %s
 483	Remaining competition time: %s
 484	The distance to complete may be ending, there are still %d seconds remaining!
-485	Failure %s in the Divine Power of the Army No. %d
+485	Failure %s in the Divine Power of the Guild No. %d
 486	Block Target
 487	Release
 488	Target blocked successfully
@@ -492,7 +492,7 @@
 491	The operation of the Divine Power
 492	The operation of the Divine Power has already been destroyed by fire
 493	Another Divine Power is being charged
-494	Without miracle of the Army, it is not possible to liberate the Divine Power
+494	Without miracle of the Guild, it is not possible to liberate the Divine Power
 495	The Divine Power no longer has a number of times of use
 496	Please, cancel another Divine Power ability first
 497	The teleport portal is already stabilized
@@ -503,7 +503,7 @@
 502	It is not possible to protect the enemy construction
 503	It is not possible to return to the city in the current status
 504	You have been expelled from the qualifiers due to a game error
-505	You have been expelled from the Classifications by a command of the Army troop
+505	You have been expelled from the Classifications by a command of the Guild troop
 506	The qualifiers are over, you have left the base
 507	Victory of the Red Team
 508	Blue Team Victory
@@ -521,48 +521,48 @@
 520	%s opened %s
 521	%s of %s is willing to close
 522	%s of %s closed
-523	The struggle between the Army %s and the Army %s of the Classifications ended in a draw
-524	Army %s defeated Army %s in the Qualifiers
-525	After the end of the Qualifiers, the Marshal of the divine group can receive an extra prize with ${npc(32788)}, at the Army Base
+523	The struggle between the Guild %s and the Guild %s of the Classifications ended in a draw
+524	Guild %s defeated Guild %s in the Qualifiers
+525	After the end of the Qualifiers, the Marshal of the divine group can receive an extra prize with ${npc(32788)}, at the Guild Base
 526	Glass resources of the red team: %d %d
 527	Blue team glass resources: %d %d
 528	Countdown to the term: %s
 529	For the withdrawal from the battlefield to start, there are still: %s
 530	The battlefield has closed
-531	You have not joined any Army
+531	You have not joined any Guild
 532	Without information of this Star City
 533	This is not a period for bets
-534	My Army will not occupy a Star City next to mine
+534	My Guild will not occupy a Star City next to mine
 535	The maximum that can be auctioned at the same time is %d pieces of Star City
 536	First it is necessary to occupy %d pieces of Star City
-537	My Army has already occupied this Star City
-538	Your Army has not yet joined any faction
+537	My Guild has already occupied this Star City
+538	Your Guild has not yet joined any faction
 539	First, it is necessary to attack the territory of this faction
-540	It is necessary that the main domain of the faction be occupied by any Army
+540	It is necessary that the main domain of the faction be occupied by any Guild
 541	can not attack the main domain of other factions
 542	It is only possible to attack / occupy maximum one main domain
 543	It is not possible to attack territories within the Alliance
 544	Only one of the domains of the Five Bronze Protagonists can occupy or declare war.
-545	The level of this Army in the Classification is less than %s
+545	The level of this Guild in the Classification is less than %s
 546	It is only possible to attack or declare war on the Star City of this faction
 547	Can only occupy the Star City in chaos
 548	Can only occupy 15 pieces of Star City
 549	First occupy at least 1 piece of level 1 or Star City level 2
 550	First occupy at least 1 piece of Star City level 3
-551	You have not yet joined an Army
-552	Only the Chief of the Army / substitute of the Chief can participate in the bet of the Star City
-553	Currently, the highest price is my Army, it is not possible to make another bet
+551	You have not yet joined an Guild
+552	Only the Chief of the Guild / substitute of the Chief can participate in the bet of the Star City
+553	Currently, the highest price is my Guild, it is not possible to make another bet
 554	It is necessary, at least %I64d to be able to make a bet
 555	It is necessary to at least increase the price %I64d in order to make a bet
-556	Launch for %s successful, spent %I64d of Army funds
-557	The funds of his Army are insufficient
+556	Launch for %s successful, spent %I64d of Guild funds
+557	The funds of his Guild are insufficient
 558	Its price is lower than the highest price currently
-559	The currently highest price is that of my Army
-560	This Star City has no relation to my Army or the Alliance
+559	The currently highest price is that of my Guild
+560	This Star City has no relation to my Guild or the Alliance
 561	The countdown to the fight is in preparation, please join soon
 562	Fighting is not currently happening in this Star City
-563	Only the official members of the Army can join the fight
-564	Only members of the Army with level %d or above are those who can enter the fight
+563	Only the official members of the Guild can join the fight
+564	Only members of the Guild with level %d or above are those who can enter the fight
 565	Can not join the attack or defense if there is a fight in which the two sides are from the same Alliance
 566	Please select a piece of Star City
 567	Can you attack ?: Yes
@@ -592,11 +592,11 @@
 591	Victoria
 592	Defeat
 593	%s Beat
-594	Only the Army Chief / Substitute of the Chief can receive the extra prize
+594	Only the Guild Chief / Substitute of the Chief can receive the extra prize
 595	Today the award of this Star City has already been received
 596	Today there are no more prizes that can be received
-597	Your Army / Alliance has not yet occupied any Star City
-598	Only the person who has become an official member of the Army can receive the prize
+597	Your Guild / Alliance has not yet occupied any Star City
+598	Only the person who has become an official member of the Guild can receive the prize
 599	Its level is too low, it is not possible to receive the gains of the Star City, it is necessary to reach the level %d
 600	Silver Domain
 601	Golden Domain
@@ -615,7 +615,7 @@
 614	<Galactic Tournament> Chief's profits
 615	<Torneio Galactico> members' profits
 616	^F6C95E %s ^N A new price was given as a bet!
-617	The Army %s started a looting war against the Army %s!
+617	The Guild %s started a looting war against the Guild %s!
 618	Victory of the defending team
 619	Victory of the attacking team
 620	Failure to reimburse the bet of the Galactic Tournament
@@ -638,28 +638,28 @@
 637	Defeat in territorial war, loot of losing team
 638	Successful launch for Star City %s
 639	The %s competition has been canceled, %s %s of the stake returned
-640	You have obtained the degree of contribution of the Army: %d
+640	You have obtained the degree of contribution of the Guild: %d
 641	Galactic Tournament Competition System
-642	Army Funds
+642	Guild Funds
 643	Explanation of the struggle of the Galactic Tournament competition
 644	Betting rules of the Galactic tournament competition
 645	Explanation of the prize of the Galactic Tournament competition
 646	Explanation of the Degree of Prosperity of the Galactic Tournament
-647	Rules for Army Alliance
+647	Rules for Guild Alliance
 648	Sacking War Rules
-649	① Conditions to win · Victory of the attacking team: destroy the Core Crystal of the Blue Team · Victory of the defending team: destroy the Core Crystal of the Red Team or when the time of the fight ends, the Core Crystal of the Blue Team does not has been destroyed② Presentation of the Crystals · Core Crystal: The most important crystal, located inside the base, when the Defense Crystal and the Energy Crystal of the corresponding faction were destroyed, the Core Crystal is sufficiently reached · Crystal Defense: Produces a Crystal defense area, located on one side of the surroundings of the base of this Team. It can only be attacked after the fight begins, if it was not destroyed, it is not possible to enter the base of the other Team's Army · Crystal of Energy: as well as the defense of the Crystal, it is located on one of the sides of the surroundings of the basis of this Team · Central Teleportation Glass: a yellow and neutral crystal, is located in the central zone of the Galactic Tournament competitions. The player who of the last blow and is affiliated to a faction will have the right of occupation. The team that has the Teleportation Crystal can through the teleportation area of ​​the center of the Army base, teleport directly to the Central Zone③ Targets de LuchaWhen you face a Star City that does not belong to anyone, there will be a fight against the monsters and when you attack a Star City that is occupied, there will be a pvp fight against the defending players. When the Star Cities occupied by the Army exceed 10, it may be that an invasion of another world begins; a large number of monsters will invade the Army's Star City; If the defense fails, the Army will lose the invaded Star City. The more occupied the Star City, the otherworldly invasions are likely to be also higher. Restriction of Participation. Peripheral members can not participate in the Galactic Tournament. On the battlefield of the Tournament Galactically, players who are downgraded to Peripheral members or who are expelled from the Army will be excluded from the battlefield. ⑤ Archer War Truck The maximum number of archery war chariots that can be possessed at the same time is 3. The main use is for destroy the crystal of the other team, being necessary to click on the war chariot to change shape, within this base⑥ Defense Tower At the base of the Galactic Tournament competitions, look for the spirit of the ruins of the NPC to receive the Defense Tower, which is divided into "Glorious Light Tower" and "Frozen Tower". After obtaining it, it is necessary to wait a period of time to be able to change it, using this tool in the base of unoccupied ruins can evoke the Defense Tower of this team⑦ Army Surprise Attack When the Army Chief is on the map of the Tournament competitions Galactic, an Army teleportation icon will appear at the bottom of the interface. By using it, it will produce a temporary teleport portal to make surprise attacks. Immortal Determination When the Army is defending its last piece of territory, it will activate the Immortal Determination. The Phoenix fire bath will help players defend themselves. Advantage of fighting at home. When the Army fights in the City. Stellar of his own faction, the amount of his team's crystal blood will double.When both sides were fighting at home, no advantage of fighting on the territory itself will be triggered⑩ Invocation CardThe hero invoked by the Invocation Card will cause damage to the Crystal of the enemy that was within a radius of 15 meters away from him.
-650	① Qualification for Bets · The Army can only participate in the Galactic Tournament competitions after it joins a faction: npc location of the faction guide: Coliseum Grad (207, 241): · Only the silver or above teams in the Competitions of the Army Classifications are those that can participate in bets in the Galactic Tournament. Rules of the Bets · Armies that have a faction can bet in Star Cities of the current level or any other Star City of even higher level The limit is of 3 bets per week; · Armies without a Faction can bet on Silver or Bronze Star Cities that are below the Starry Sky of Chaos. The limit of bets is 2. The armies that occupied Star Cities of the starry sky of chaos can bet on Star Cities of the current level or any other Star City of even higher level chaos · The Army can bet on the Main Domain of this faction but it does not get to bet in the Main Domain of other factions · The maximum that the Army can occupy or to bet is of a Main Domain; the Army can only occupy or bet in a Bronze Star City; · Bet in Star Cities consumes the "Army Funds"; ③ Betting Time: The betting window period in Star Cities is Thursday at 09:00 a.m. -> Thursday at 09:00 p.m., if the system for the bet is exceeded, it will be extended for, maximum, at 10:00 p.m. Thursday • After the entire betting system in Star Cities ends, a table will be produced with the schedules of the Star City Wars④ Money back of the bets · The Army that does not get permission to attack will have the whole amount of money restituted bet; · If the occupation is successful, a restitution of 60 %of the bet money will be given to the attacking team and at the same time, a reward of 10 %of the bet's money will be given to the defending team; the defense is successful, the defending team will get 30 %of the money from the attacking team's bet, and the 30 %refund will be given to the attacking team; ⑤ Rules of Occupation · Star cities open in the first week so that the system filter the Armies with conditions that correspond to the situation, so that they park in Stellar Cities without an owner. The limit for each Army is 1 piece: · In the second week, betting on the Star Cities begins; · Armies that are among the three major factions can only occupy Star Cities of these factions, is the maximum they can occupy 15 Stellar Cities; · Armies without a faction can occupy Star Cities of the Starry Sky of Chaos or below. The maximum limit that each Army can occupy is 2: · After the Army occupies the Star City of Chaos and enters again into a faction, the occupied Chaos Star City will automatically be recovered: ⑥ Others · When the Army leaves the faction current, to lose all the occupied Star Cities when the Army has bet in some Star City, it will not be possible to leave the current faction; · When the Army leaves the current faction, it does not manage to participate in Star Wars of factions for 2 weeks , but can participate in Star Wars of chaos wars;
-651	After the Army occupies a territory, it will get a prize according to the occupied territory. The members have their own prize, and the Chief of the Army / Substitute of the Chief has extra prizes. The reception schedule is Monday at 10:00 a.m. to Friday at 07:00 p.m. The people who receive the prizes need to complete level 40, and the Chief of the Army / Substitute of the Chief needs to be at level 60 to receive the special prize. · The Army that occupies the Main Domain of the starry sky of the Sanctuary will become, automatically , the "Grand Master" faction of the Sanctuary; · The Army that occupies the Main Domain of the starry sky of Poseidon will become, automatically, the "Priest" faction of Poseidon: · The Army that occupies the Main Dominion of the starry sky of Hades will automatically make Hades' "Official Divine" faction: The number of times that the common members of the Army receive the prizes has the same maximum limit of the members The maximum number of people in the Army is 200 people, and can receive only 200 times the common prizes every day① Next, the prizes of the members of the Army: (linked) Star City of the Zinc o Bronze Protagonists: Specialty Nebula x6, Nebula treasure bag x2Steel Silver City, Nebula SpecialtyStar Gold City: Specialty Nebula x10, Nebula Treasure Bag x2Main Domain: Specialty Nebula x10, Treasure Bag Haze x2② Next, the awards of the Army Chief: For the Army, whose Degree of Prosperity does not exceed 100, for every 100 Degrees of Prosperity, the Chief of the Army and the Substitute of the Chief can obtain, separately, 1 Treasury Stock of the Degree of Prosperity. For the Army, whose Degree of Prosperity surpasses 1500, the Chief of the Army and the Substitute of the Chief can obtain, in addition, a secret treasure of Degree of Prosperity. As the increase of the Degree of Prosperity increases, the probability of obtaining the Treasure Bag of the Degree of Prosperity diminishes, and the probability of obtaining the Secret Treasure of the Degree of Prosperity increases. The Army that occupies the Main domain will obtain, Nationally 5 Secret Treasures of the Nebula③ Army Chief's Skills CardThe army that occupies a Star City without Main Domain can all week, receive the mission of the Summoning Card and, in the first round on the battlefield of the Tournament competitions Galactic, may invoke the powerful hero of this faction to help in the fightAl occupy the Sanctuary, the Army of Atlantida and the City of Hades can receive the mission of the Transformation Card and, in the first round on the battlefield of the competitions of the Galactic Tournament, they became gods and launch an explosive and devastating attack with the enemy. The Army that occupies the Main Domain can, all week, obtain a Transformation Card that can be used outside the competitions of the Galactic Tournament and of the Galactic Arena to transform itself into god and cause immense damage to the enemy.④ Explanation of Related Articles Nebula: After using it, you will get Linked Star and EXP, It is related to the level of the user Treasure Bag Nebula Secret Treasure of the Nebula: large amount of Linked Star, Demonic Blood x5, Space Key time x5, Spirit of the Divine Artifact x5. Limit 2 times per day; teams at level 60 can use it. Prosperity Grade Treasure Bag: Large amount of Linked Star, Golden Blood, x5, Silver Crystal x5, Star Soul Essence x5. Limit 2 times per day, teams at level 60 can use it. Secret Treasure of the Prosperity Rating: large amount of Star Linked. Demonic Blood, x5. Spirit of the Divine Artifact x5, Essence of the Star Soul x5. Limit 2 times per day, teams at level 60 can use it. Excess items such as. Specialty Nebula and Nebula Treasure Bag, can be sold in the store, for the individual price of 20000/50000.
-652	① General Vision Degree of Prosperity is equal to the sum of the Prosperity Degree of each Star City occupied by the Army. Every week, before the beginning of the territorial war, the degree of prosperity of each stellar city will be restored to the initial rate After the territorial war is over, the rate index of the post-war prosperity of the week will be counted according to the result. According to the degree of prosperity, the captain of the army / Substitute of the chief can get many prizes all week Treasury Stocks of the degree of prosperity.② Restoring Every week, before the beginning of the territorial war, the degree of prosperity of each stellar city will be restored to the initial index. Initial index of the degree of prosperity of the stellar cities: Degree of prosperity 100, for stellar city level silver, degree of prosperity 200, for stellar city bronze level, degree of prosperity 400, for cities stellar gold level, degree of prosperity 1000, for main domain. Disputes When attacking and occupying a Star City that is not occupied by an Army, you can obtain the Degree of Prosperity of that City in its original index. By attacking and occupying the city For other armies, the index of the degree of prosperity obtained will be based on the degree of total prosperity of the other team. The greater the degree of general prosperity of the other team, the more degrees of prosperity can be plundered. The smaller the degree of prosperity. The other team's general prosperity, less degrees of prosperity can be plundered. When attacked and occupied, the stellar city's degree of prosperity will be temporarily nullified. When many armies attack and occupy the stellar city of the same army, the attacking armies will share the booty of the degree of prosperity equally, according to the number of stellar cities attacked and occupied. When the army fails to attack and occupies In the stellar city, the whole degree of prosperity of the city will be looted proportionally. At the same time, a pillaged compensation is obtained. Invoice, the degree of prosperity obtained by the army will be equally shared in each occupied stellar city. by the army. In the bill, the compensation obtained by the army that lost the territory will be equally shared in each stellar city occupied by the army.
-653	① The army must first join one of the three main factions and then join or create an alliance.② The alliance can only be formed between armies of this faction ③ The army that is inside an Alliance must first leave this Alliance to be able to change the faction of the army; ④ The maximum number of armies of the alliance is 4; ⑤ The members of the army that are in an alliance can join the competitions of the Galactic Tournament of other armies of the same alliance with the purpose of helping in the fight; ⑥ When the members of the Army that are in an Alliance receive the "Member Award" of the Galactic Tournament, the prize will be awarded according to the conditions of the Star City occupied by the Alliance; leaving the Alliance, the army can not join other alliances for 2 weeks, when the Army Chief who is in an Alliance (Substitute Chief) receives the "Chief Army Prize" of the Galactic Tournament, the prize will be awarded according to the number of Star Cities occupied by this army (Valid only for the army that was already inside the Alliance when it ended at 00:00 last week)
-654	Period of looting: \r Monday through Thursday, from 7:00 pm to 8:00 pm, the Looting War will begin. \r After half an hour of the declaration of war, you can enter the battlefield of the War of Looting. War Declaration Rules: \r 1. When the level of prosperity of the army is less than 200, you may not receive the declaration of war. \r 2. The army that has a Star City can declare war on an army that occupies a Star City of the same level or even higher (The calculation of the Star City will be according to the highest level). \r Stellar City armies of primary dominion, can declare war to armies of Star City of Gold or Superior. \r 3. Armies of the Alliance can not declare war against each other. \r 4. Armies that do not have Base can not enter the Looting War. \r 5. Armies of the same faction can not enter the Looting War. \r Looting Rules: \r 1. Each army can be ransacked once a week. \r 2. Each army can be ransacked once a week. \r 3. If the team that declared war wins, it can plunder 20 %of this week's Prosperity level of the other Army; If the team that declared war loses, there will be no gain in looting. \r 4. The level of Prosperity of the Army that is doing the looting will accumulate in the level of prosperity of the following week \r Rules of the Looting War: \r Use the original rules of the Universe Competition. Within the battlefield of the Sacking War, you can use: Invocation Card, Archer War Chariot, Defense Tower, Army Surprise Attack and Immortal Determination. (The Invocation Card is in common use with the Galactic Tournament competitions, its use requires caution.)
+649	① Conditions to win · Victory of the attacking team: destroy the Core Crystal of the Blue Team · Victory of the defending team: destroy the Core Crystal of the Red Team or when the time of the fight ends, the Core Crystal of the Blue Team does not has been destroyed② Presentation of the Crystals · Core Crystal: The most important crystal, located inside the base, when the Defense Crystal and the Energy Crystal of the corresponding faction were destroyed, the Core Crystal is sufficiently reached · Crystal Defense: Produces a Crystal defense area, located on one side of the surroundings of the base of this Team. It can only be attacked after the fight begins, if it was not destroyed, it is not possible to enter the base of the other Team's Guild · Crystal of Energy: as well as the defense of the Crystal, it is located on one of the sides of the surroundings of the basis of this Team · Central Teleportation Glass: a yellow and neutral crystal, is located in the central zone of the Galactic Tournament competitions. The player who of the last blow and is affiliated to a faction will have the right of occupation. The team that has the Teleportation Crystal can through the teleportation area of ​​the center of the Guild base, teleport directly to the Central Zone③ Targets de LuchaWhen you face a Star City that does not belong to anyone, there will be a fight against the monsters and when you attack a Star City that is occupied, there will be a pvp fight against the defending players. When the Star Cities occupied by the Guild exceed 10, it may be that an invasion of another world begins; a large number of monsters will invade the Guild's Star City; If the defense fails, the Guild will lose the invaded Star City. The more occupied the Star City, the otherworldly invasions are likely to be also higher. Restriction of Participation. Peripheral members can not participate in the Galactic Tournament. On the battlefield of the Tournament Galactically, players who are downgraded to Peripheral members or who are expelled from the Guild will be excluded from the battlefield. ⑤ Archer War Truck The maximum number of archery war chariots that can be possessed at the same time is 3. The main use is for destroy the crystal of the other team, being necessary to click on the war chariot to change shape, within this base⑥ Defense Tower At the base of the Galactic Tournament competitions, look for the spirit of the ruins of the NPC to receive the Defense Tower, which is divided into "Glorious Light Tower" and "Frozen Tower". After obtaining it, it is necessary to wait a period of time to be able to change it, using this tool in the base of unoccupied ruins can evoke the Defense Tower of this team⑦ Guild Surprise Attack When the Guild Chief is on the map of the Tournament competitions Galactic, an Guild teleportation icon will appear at the bottom of the interface. By using it, it will produce a temporary teleport portal to make surprise attacks. Immortal Determination When the Guild is defending its last piece of territory, it will activate the Immortal Determination. The Phoenix fire bath will help players defend themselves. Advantage of fighting at home. When the Guild fights in the City. Stellar of his own faction, the amount of his team's crystal blood will double.When both sides were fighting at home, no advantage of fighting on the territory itself will be triggered⑩ Invocation CardThe hero invoked by the Invocation Card will cause damage to the Crystal of the enemy that was within a radius of 15 meters away from him.
+650	① Qualification for Bets · The Guild can only participate in the Galactic Tournament competitions after it joins a faction: npc location of the faction guide: Coliseum Grad (207, 241): · Only the silver or above teams in the Competitions of the Guild Classifications are those that can participate in bets in the Galactic Tournament. Rules of the Bets · Armies that have a faction can bet in Star Cities of the current level or any other Star City of even higher level The limit is of 3 bets per week; · Armies without a Faction can bet on Silver or Bronze Star Cities that are below the Starry Sky of Chaos. The limit of bets is 2. The armies that occupied Star Cities of the starry sky of chaos can bet on Star Cities of the current level or any other Star City of even higher level chaos · The Guild can bet on the Main Domain of this faction but it does not get to bet in the Main Domain of other factions · The maximum that the Guild can occupy or to bet is of a Main Domain; the Guild can only occupy or bet in a Bronze Star City; · Bet in Star Cities consumes the "Guild Funds"; ③ Betting Time: The betting window period in Star Cities is Thursday at 09:00 a.m. -> Thursday at 09:00 p.m., if the system for the bet is exceeded, it will be extended for, maximum, at 10:00 p.m. Thursday • After the entire betting system in Star Cities ends, a table will be produced with the schedules of the Star City Wars④ Money back of the bets · The Guild that does not get permission to attack will have the whole amount of money restituted bet; · If the occupation is successful, a restitution of 60 %of the bet money will be given to the attacking team and at the same time, a reward of 10 %of the bet's money will be given to the defending team; the defense is successful, the defending team will get 30 %of the money from the attacking team's bet, and the 30 %refund will be given to the attacking team; ⑤ Rules of Occupation · Star cities open in the first week so that the system filter the Armies with conditions that correspond to the situation, so that they park in Stellar Cities without an owner. The limit for each Guild is 1 piece: · In the second week, betting on the Star Cities begins; · Armies that are among the three major factions can only occupy Star Cities of these factions, is the maximum they can occupy 15 Stellar Cities; · Armies without a faction can occupy Star Cities of the Starry Sky of Chaos or below. The maximum limit that each Guild can occupy is 2: · After the Guild occupies the Star City of Chaos and enters again into a faction, the occupied Chaos Star City will automatically be recovered: ⑥ Others · When the Guild leaves the faction current, to lose all the occupied Star Cities when the Guild has bet in some Star City, it will not be possible to leave the current faction; · When the Guild leaves the current faction, it does not manage to participate in Star Wars of factions for 2 weeks , but can participate in Star Wars of chaos wars;
+651	After the Guild occupies a territory, it will get a prize according to the occupied territory. The members have their own prize, and the Chief of the Guild / Substitute of the Chief has extra prizes. The reception schedule is Monday at 10:00 a.m. to Friday at 07:00 p.m. The people who receive the prizes need to complete level 40, and the Chief of the Guild / Substitute of the Chief needs to be at level 60 to receive the special prize. · The Guild that occupies the Main Domain of the starry sky of the Sanctuary will become, automatically , the "Grand Master" faction of the Sanctuary; · The Guild that occupies the Main Domain of the starry sky of Poseidon will become, automatically, the "Priest" faction of Poseidon: · The Guild that occupies the Main Dominion of the starry sky of Hades will automatically make Hades' "Official Divine" faction: The number of times that the common members of the Guild receive the prizes has the same maximum limit of the members The maximum number of people in the Guild is 200 people, and can receive only 200 times the common prizes every day① Next, the prizes of the members of the Guild: (linked) Star City of the Zinc o Bronze Protagonists: Specialty Nebula x6, Nebula treasure bag x2Steel Silver City, Nebula SpecialtyStar Gold City: Specialty Nebula x10, Nebula Treasure Bag x2Main Domain: Specialty Nebula x10, Treasure Bag Haze x2② Next, the awards of the Guild Chief: For the Guild, whose Degree of Prosperity does not exceed 100, for every 100 Degrees of Prosperity, the Chief of the Guild and the Substitute of the Chief can obtain, separately, 1 Treasury Stock of the Degree of Prosperity. For the Guild, whose Degree of Prosperity surpasses 1500, the Chief of the Guild and the Substitute of the Chief can obtain, in addition, a secret treasure of Degree of Prosperity. As the increase of the Degree of Prosperity increases, the probability of obtaining the Treasure Bag of the Degree of Prosperity diminishes, and the probability of obtaining the Secret Treasure of the Degree of Prosperity increases. The Guild that occupies the Main domain will obtain, Nationally 5 Secret Treasures of the Nebula③ Guild Chief's Skills CardThe Guild that occupies a Star City without Main Domain can all week, receive the mission of the Summoning Card and, in the first round on the battlefield of the Tournament competitions Galactic, may invoke the powerful hero of this faction to help in the fightAl occupy the Sanctuary, the Guild of Atlantida and the City of Hades can receive the mission of the Transformation Card and, in the first round on the battlefield of the competitions of the Galactic Tournament, they became gods and launch an explosive and devastating attack with the enemy. The Guild that occupies the Main Domain can, all week, obtain a Transformation Card that can be used outside the competitions of the Galactic Tournament and of the Galactic Arena to transform itself into god and cause immense damage to the enemy.④ Explanation of Related Articles Nebula: After using it, you will get Linked Star and EXP, It is related to the level of the user Treasure Bag Nebula Secret Treasure of the Nebula: large amount of Linked Star, Demonic Blood x5, Space Key time x5, Spirit of the Divine Artifact x5. Limit 2 times per day; teams at level 60 can use it. Prosperity Grade Treasure Bag: Large amount of Linked Star, Golden Blood, x5, Silver Crystal x5, Star Soul Essence x5. Limit 2 times per day, teams at level 60 can use it. Secret Treasure of the Prosperity Rating: large amount of Star Linked. Demonic Blood, x5. Spirit of the Divine Artifact x5, Essence of the Star Soul x5. Limit 2 times per day, teams at level 60 can use it. Excess items such as. Specialty Nebula and Nebula Treasure Bag, can be sold in the store, for the individual price of 20000/50000.
+652	① General Vision Degree of Prosperity is equal to the sum of the Prosperity Degree of each Star City occupied by the Guild. Every week, before the beginning of the territorial war, the degree of prosperity of each stellar city will be restored to the initial rate After the territorial war is over, the rate index of the post-war prosperity of the week will be counted according to the result. According to the degree of prosperity, the captain of the Guild / Substitute of the chief can get many prizes all week Treasury Stocks of the degree of prosperity.② Restoring Every week, before the beginning of the territorial war, the degree of prosperity of each stellar city will be restored to the initial index. Initial index of the degree of prosperity of the stellar cities: Degree of prosperity 100, for stellar city level silver, degree of prosperity 200, for stellar city bronze level, degree of prosperity 400, for cities stellar gold level, degree of prosperity 1000, for main domain. Disputes When attacking and occupying a Star City that is not occupied by an Guild, you can obtain the Degree of Prosperity of that City in its original index. By attacking and occupying the city For other armies, the index of the degree of prosperity obtained will be based on the degree of total prosperity of the other team. The greater the degree of general prosperity of the other team, the more degrees of prosperity can be plundered. The smaller the degree of prosperity. The other team's general prosperity, less degrees of prosperity can be plundered. When attacked and occupied, the stellar city's degree of prosperity will be temporarily nullified. When many armies attack and occupy the stellar city of the same Guild, the attacking armies will share the booty of the degree of prosperity equally, according to the number of stellar cities attacked and occupied. When the Guild fails to attack and occupies In the stellar city, the whole degree of prosperity of the city will be looted proportionally. At the same time, a pillaged compensation is obtained. Invoice, the degree of prosperity obtained by the Guild will be equally shared in each occupied stellar city. by the Guild. In the bill, the compensation obtained by the Guild that lost the territory will be equally shared in each stellar city occupied by the Guild.
+653	① The Guild must first join one of the three main factions and then join or create an alliance.② The alliance can only be formed between armies of this faction ③ The Guild that is inside an Alliance must first leave this Alliance to be able to change the faction of the Guild; ④ The maximum number of armies of the alliance is 4; ⑤ The members of the Guild that are in an alliance can join the competitions of the Galactic Tournament of other armies of the same alliance with the purpose of helping in the fight; ⑥ When the members of the Guild that are in an Alliance receive the "Member Award" of the Galactic Tournament, the prize will be awarded according to the conditions of the Star City occupied by the Alliance; leaving the Alliance, the Guild can not join other alliances for 2 weeks, when the Guild Chief who is in an Alliance (Substitute Chief) receives the "Chief Guild Prize" of the Galactic Tournament, the prize will be awarded according to the number of Star Cities occupied by this Guild (Valid only for the Guild that was already inside the Alliance when it ended at 00:00 last week)
+654	Period of looting: \r Monday through Thursday, from 7:00 pm to 8:00 pm, the Looting War will begin. \r After half an hour of the declaration of war, you can enter the battlefield of the War of Looting. War Declaration Rules: \r 1. When the level of prosperity of the Guild is less than 200, you may not receive the declaration of war. \r 2. The Guild that has a Star City can declare war on an Guild that occupies a Star City of the same level or even higher (The calculation of the Star City will be according to the highest level). \r Stellar City armies of primary dominion, can declare war to armies of Star City of Gold or Superior. \r 3. Armies of the Alliance can not declare war against each other. \r 4. Armies that do not have Base can not enter the Looting War. \r 5. Armies of the same faction can not enter the Looting War. \r Looting Rules: \r 1. Each Guild can be ransacked once a week. \r 2. Each Guild can be ransacked once a week. \r 3. If the team that declared war wins, it can plunder 20 %of this week's Prosperity level of the other Guild; If the team that declared war loses, there will be no gain in looting. \r 4. The level of Prosperity of the Guild that is doing the looting will accumulate in the level of prosperity of the following week \r Rules of the Looting War: \r Use the original rules of the Universe Competition. Within the battlefield of the Sacking War, you can use: Invocation Card, Archer War Chariot, Defense Tower, Guild Surprise Attack and Immortal Determination. (The Invocation Card is in common use with the Galactic Tournament competitions, its use requires caution.)
 655	Declaration of war
 656	Wait to enter
 657	Join the battlefield
 658	You do not have sufficient permission to continue this operation.
-659	Name of the army chief who received the invitation
-660	Change the name of the Army Alliance
-661	Army Alliance created successfully
+659	Name of the Guild chief who received the invitation
+660	Change the name of the Guild Alliance
+661	Guild Alliance created successfully
 662	Join the Alliance: request for %s sent
 663	Joined the Alliance successfully
 664	Successfully joined the Alliance: %s
@@ -667,35 +667,35 @@
 666	Joined the Alliance: %s
 667	Abandoned the Alliance: %s
 668	The Alliance: %s has been dissolved
-669	The army of %s joined our Alliance
-670	Army: %s joined our Alliance
-671	The Alliance rejected the entry of the Army: %s
+669	The Guild of %s joined our Alliance
+670	Guild: %s joined our Alliance
+671	The Alliance rejected the entry of the Guild: %s
 672	The Alliance changed the name to: %s
-673	Declaration of the army modified successfully
+673	Declaration of the Guild modified successfully
 674	Join our alliance to jointly balance the hegemony
 675	Owner of the Alliance
-676	Define army: move %s out of the Alliance?
-677	Army: %s have been moved out of the Alliance. we wish the best to them
+676	Define Guild: move %s out of the Alliance?
+677	Guild: %s have been moved out of the Alliance. we wish the best to them
 678	It is not necessary to transfer the leadership of the Alliance to himself
-679	Confirm the transfer of the leadership of the Alliance for the Army: %s?
-680	Army: %s became the owner of the Alliance
-681	There is no army alliance currently
+679	Confirm the transfer of the leadership of the Alliance for the Guild: %s?
+680	Guild: %s became the owner of the Alliance
+681	There is no Guild alliance currently
 682	Request to join
-683	Do you want to leave the Army Alliance?
-684	Do you want to undo the Army Alliance?
+683	Do you want to leave the Guild Alliance?
+684	Do you want to undo the Guild Alliance?
 685	different Factions
 686	did not join any faction
 687	Has occupied a Main Domain
 688	The maximum number of armies within the Alliance is %d
-689	Army system
-690	Army base automatically deducts
-691	Base maintenance deducts %d of Army funds in which you are
+689	Guild system
+690	Guild base automatically deducts
+691	Base maintenance deducts %d of Guild funds in which you are
 692	Parameter error
 693	The Galactic Tournament competition system is not yet open
 694	The character can not negotiate in the current status
 695	Star City data were not found
 696	The system is busy, try later
-697	Failure to bid, the army in which you are will not occupy a Star City bordering with yours
+697	Failure to bid, the Guild in which you are will not occupy a Star City bordering with yours
 698	Failure in bet offer, incorrect time
 699	Failure to bid, insufficient funds
 700	Failure in the offer of the bet, full message box. Please, delete the message box
@@ -704,8 +704,8 @@
 703	Failure to enter, insufficient level
 704	Can not receive daily earnings. The reception time is any time between 10:00 AM on Monday and 7:00 PM on Friday
 705	You can not receive the winnings, the number of times you have received has exceeded the maximum limit
-706	Fail to receive daily mission, have not yet completed 3 days of entry into the Army
-707	Fail to enter the competitions of the Galactic Tournament, have not yet completed 7 days of entry into the Army
+706	Fail to receive daily mission, have not yet completed 3 days of entry into the Guild
+707	Fail to enter the competitions of the Galactic Tournament, have not yet completed 7 days of entry into the Guild
 708	You must change before your bet offers expire.
 709	Giving the territory betting offers
 710	The system is busy
@@ -721,27 +721,27 @@
 720	Fail to enter the Galactic Tournament competitions, the time to form the Alliance has not yet completed 2 days
 721	Failure to offer the bet, you can not make an offer in the territory of the partners of Alliance
 722	Failure in the offer of the bet, has occupied 15 territories
-723	Replace Army during recharge time
+723	Replace Guild during recharge time
 724	Failure in bet offer, replace within field reload time
 725	Without permission to enter the Star City War
 726	You must have a corresponding classification territory
 727	Has occupied two Star Cities of Chaos
 728	Non-existent Alliance
-729	The Army is already within an Alliance
+729	The Guild is already within an Alliance
 730	The name of the Alliance already exists
 731	Can not negotiate in the current status
 732	The Alliance is full
 733	The other party rejected the request to join the Alliance
-734	The army that occupies the Main Domain, can not join or create Alliance
-735	Army does not belong to any Faction, can not participate or create Alliance
+734	The Guild that occupies the Main Domain, can not join or create Alliance
+735	Guild does not belong to any Faction, can not participate or create Alliance
 736	You can not participate in an alliance of another Faction
 737	Only the Owner of the Alliance can execute an operation
-738	Army is not in an Alliance
+738	Guild is not in an Alliance
 739	Applicant does not exist
 740	Base level is too low, you can not create Alliance
 741	Try again, please.
 742	enemy battle territory, can not participate in the Alliance
-743	The Army with power to fight between the first two places of the server, can not create or participate in Alliance
+743	The Guild with power to fight between the first two places of the server, can not create or participate in Alliance
 744	Different Factions can not participate in the Alliance
 745	Replace Alliance during recharge time
 746	Saque War has not started yet
@@ -750,15 +750,15 @@
 749	Fight of declaration of war received in progress
 750	This week, the number of times you declared war has been exceeded
 751	This week, the number of times he received a declaration of war has been exceeded
-752	This week can not declare war against the same Army once again
+752	This week can not declare war against the same Guild once again
 753	You can not declare war against yourself
 754	Can not declare war against Star City of low level
-755	The army that does not have occupied Star City, can not declare war
+755	The Guild that does not have occupied Star City, can not declare war
 756	Armies of the same Faction can not declare war on each other
 757	Faction chosen
 758	Do you want to choose a new Faction to participate: %s? If you have current Faction, you need to leave it first. After 48 hours, you can participate in nine Faction
-759	Do you want to leave the current Faction? When the Army has territory of auction, you can not use this service
-760	Only the Army Chief / Substitute of the Chief can alter Army Faction
+759	Do you want to leave the current Faction? When the Guild has territory of auction, you can not use this service
+760	Only the Guild Chief / Substitute of the Chief can alter Guild Faction
 761	Last exit of the Faction in less than 48 hours, can not join the new Faction
 762	This operation does not alter its faction
 763	None
@@ -774,11 +774,11 @@
 773	Join the Faction of the King of the Underworld
 774	Successful declaration of war
 775	%s remaining
-776	%s Exclusive Army Attachment (Current Army)
+776	%s Exclusive Guild Attachment (Current Guild)
 777	^ff0000 Exclusive item of Golds Armies
-778	The Army has not yet joined, this item can not be used
-779	Article does not belong to this Army, it can not be opened
-780	Army %d:
+778	The Guild has not yet joined, this item can not be used
+779	Article does not belong to this Guild, it can not be opened
+780	Guild %d:
 781	Group number %d:
 782	Divine Group
 783	Gold Group
@@ -794,23 +794,23 @@
 793	Grouped articles
 794	Change of article
 795	Password verification
-796	Obtain data from the Army Depot
+796	Obtain data from the Guild Depot
 797	Modify permission of article
 798	Add blocking code
 799	Remove blocking code
 800	Error in Warehouse Initiation
-801	There is no Army base or base level lower than 3
-802	Army Warehouse item has been changed, please make an update
+801	There is no Guild base or base level lower than 3
+802	Guild Warehouse item has been changed, please make an update
 803	Incorrect store password
 804	Different contribution
 805	Error in the operation of Warehouse items
-806	Entered the Army less than 3 days ago, can not use
+806	Entered the Guild less than 3 days ago, can not use
 807	Battle, personal trading shop, glory bath, multiplayer mount among other states can not be used
 808	The data has been changed. After updating, try the operation again.
 809	The number of changes to the icon today have already been exhausted. After midnight, the number will be updated, try again
 810	Cumulative score exceeded the limit (between -2 trillion and 2 trillion)
 811	The cumulative score record of the official has reached the limit (400) Please, after deleting part of your records, try to change again
-812	there is no related data from the Army Depot
+812	there is no related data from the Guild Depot
 813	Required password
 814	Please insert second level password
 815	Before adding blocking to the article, it is necessary to configure password
@@ -827,20 +827,20 @@
 826	There is no reception permit
 827	Required contribution of %d to be able to receive
 828	Issue in the reception permission of this article
-829	Army warehouse filled
+829	Guild warehouse filled
 830	This item can not be placed in the Warehouse
 831	Incorrect position of the vial
 832	Required to submit contribution of %d, Confirm receipt?
 833	Operation of received articles canceled
-834	There is no space in the Army warehouse, division of articles
+834	There is no space in the Guild warehouse, division of articles
 835	The permit has already been configured by the administration, it is not possible to group
 836	Articles here can not be grouped
 837	The properties of the articles are not the same, they can not be grouped
 838	%s deposited %dx %s
 839	%s excluded %dx %s
-840	%s deposited at the Army Depot %dx %s
-841	%s excluded from the Army Depot %dx %s
-842	%s changed the password of the Army Depot
+840	%s deposited at the Guild Depot %dx %s
+841	%s excluded from the Guild Depot %dx %s
+842	%s changed the password of the Guild Depot
 843	%s designated %s for %s
 844	Warehouse operation not described: %d
 845	Your post can not configure or change hosting permission
@@ -848,19 +848,19 @@
 847	Above the %s post can receive
 848	%s can receive
 849	Everyone can receive
-850	Name of the Army member not typed
+850	Name of the Guild member not typed
 851	ID of this player not found
-852	The player is not in this Army
+852	The player is not in this Guild
 853	Please select a Warehouse item
 854	Selected article does not exist
 855	You have a level of recommenders that you can use, do you want to use it?
 856	Necessary to write reason for the change
 857	Punctuations have not been changed
 858	%s %d ( %s: %s, %s)
-859	Change score of Army member
+859	Change score of Guild member
 860	It is necessary to choose change of member
-861	You have not entered any Army yet. Search for ${npc(14799)} to create or join one. After that, you can take advantage of a variety of benefits and, together with the other players, develop and improve your Army.
-862	There is no Army, it is not possible to configure the Army icon
+861	You have not entered any Guild yet. Search for ${npc(14799)} to create or join one. After that, you can take advantage of a variety of benefits and, together with the other players, develop and improve your Guild.
+862	There is no Guild, it is not possible to configure the Guild icon
 863	You have not selected icon color
 864	You have not selected icon margin
 865	Necessary to select a shading of the icon or insert a written symbol
@@ -884,13 +884,13 @@
 883	Complete
 884	Impossible to add, reward fee is now complete
 885	The team's reward has failed, you can not gather enough classmates
-886	The reward of your team within the army %s won in the %d Star event
-887	The reward of your team within the army has failed in the event, return of %d Star
+886	The reward of your team within the Guild %s won in the %d Star event
+887	The reward of your team within the Guild has failed in the event, return of %d Star
 888	Team reward successfully started
 889	Team formation can not start
 890	Unable to eliminate team reward, insufficient Star
 891	Team reward configuration has reached the maximum level
-892	Army Award
+892	Guild Award
 893	Message contains attachment, do you want to delete it?
 894	Attachment
 895	New
@@ -1010,7 +1010,7 @@
 1009	Refining %s of %s reached full level
 1010	%s of %s reached full level
 1011	Friends %s launched a new microblog " %s"
-1012	%s In the Army Forum they launched an invitation " %s"
+1012	%s In the Guild Forum they launched an invitation " %s"
 1013	%s Launched an unknown movement
 1014	%s motion analysis failed
 1015	%s (LV %d, %s) said: %s
@@ -1026,7 +1026,7 @@
 1025	Apply
 1026	Power
 1027	Find a good Teacher to help you!
-1028	%undo the tutelary relationship with his Master
+1028	%s will not be your disciple anymore
 1029	Your Apprentice %s graduated!
 1030	Congratulations, you have graduated!
 1031	Guardianship relationship with the Disciple successfully discards %s
@@ -1093,9 +1093,9 @@
 1092	Do you want your precious vote going to ^ff0000 %s ^ffffff?
 1093	Today you can only send this vote
 1094	Vote sent successfully
-1095	No information on the Army of the chosen candidate
-1096	Only the Chief of the Army can choose a candidate
-1097	Only the Chief of the Army who occupies the main domain can choose a candidate
+1095	No information on the Guild of the chosen candidate
+1096	Only the Chief of the Guild can choose a candidate
+1097	Only the Chief of the Guild who occupies the main domain can choose a candidate
 1098	Candidate of the reelected Grand Master
 1099	Substitute of Grand Master changed successfully
 1100	Grandmaster substitute functions altered
@@ -1122,7 +1122,7 @@
 1121	Edit
 1122	^ff0000 %s ^N Through intense competition and, with ^ff0000 %d votes ^N of support, become Grand Master of the Sanctuary!  %s
 1123	^ff0000 %s ^N By extraordinary force, obtain from the recognition ^ff0000 %s ^N of the Grand Master, to enter the role of substitute Grand Master!  %s
-1124	^ff0000 %s ^N Excess tyranny, lost popular support, Grand Master ^ff0000 %s ^N moved his substitute away from the post. %S
+1124	^ff0000 %s ^N Excess tyranny, lost popular support, Grand Master ^ff0000 %s ^N moved his substitute away from the post. %s
 1125	%d post
 1126	Busy server
 1127	The elector does not reach the conditions, election can not be opened
@@ -1132,8 +1132,8 @@
 1131	Within 24 hours you can only execute the Grandmaster substitute exclusion operation once.
 1132	Error configuring substitute permission
 1133	This Faction has already twice served as Grand Master, it can not be a candidate
-1134	If he is not the Army Chief fighting for the city, he can not establish the candidates
-1135	He has already been appointed by another Chief of the Army
+1134	If he is not the Guild Chief fighting for the city, he can not establish the candidates
+1135	He has already been appointed by another Chief of the Guild
 1136	It is not in the period of alteration of candidate, can not change candidate to Grand Master
 1137	Fashion has already been obtained
 1138	Free space in insufficient inventory
@@ -1144,7 +1144,7 @@
 1143	Only in the Sanctuary can you open a full announcement event
 1144	In the package there are no articles of the mission
 1145	This complete event can only be opened once a day
-1146	1, The candidate of the competition for the power of the Milky Way occupies the Army selected from the main domain.2, Enter the voting phase, voting period is half a day of martyrs until half a day of sixth.3, During the voting week, only the Knights who are on the list of the 500 best fighting powers on Tuesday may vote.4, The Knight who has qualification to vote, may receive a free voting paper.5, In the voting period , each person can put in the maximum 3 voting papers.6, The votes will be counted at midnight on Friday, the candidate with the most votes will become the next Grand Master.7, The new Grand Master will officially take over next Tuesday , after the voting period8, The same Faction can only occupy the position of Grand Master twice.
+1146	1, The candidate of the competition for the power of the Milky Way occupies the Guild selected from the main domain.2, Enter the voting phase, voting period is half a day of martyrs until half a day of sixth.3, During the voting week, only the Knights who are on the list of the 500 best fighting powers on Tuesday may vote.4, The Knight who has qualification to vote, may receive a free voting paper.5, In the voting period , each person can put in the maximum 3 voting papers.6, The votes will be counted at midnight on Friday, the candidate with the most votes will become the next Grand Master.7, The new Grand Master will officially take over next Tuesday , after the voting period8, The same Faction can only occupy the position of Grand Master twice.
 1147	Everyone is commemorating, congratulations %s and %s to the couple, we wish you a long and happy life, that you love forever, a lot of happiness for your whole life!
 1148	Your marriage with %s has been removed ToT
 1149	%s and %s became close friends, they need to keep in touch!
@@ -1155,58 +1155,58 @@
 1154	Data error
 1155	Error in the operation
 1156	Player name already exists
-1157	Army Name already exists
+1157	Guild Name already exists
 1158	Impossible error
 1159	Very long name or characters not allowed
 1160	Recommender Conflict
 1161	Full recommender fee
 1162	Player level is very low
 1163	Error in the player's permission
-1164	Player is already on the list of Army applications
+1164	Player is already on the list of Guild applications
 1165	Character is not in the list of applications
 1166	Player's status is not normal
 1167	Gold required is not enough
 1168	Player has already been excluded or is in exclusion status
-1169	You are already in an Army
-1170	Player is not in the Army
+1169	You are already in an Guild
+1170	Player is not in the Guild
 1171	Error in the player's temporary mark pack
-1172	The period to leave the Army did not reach 24 hours, you can not join an Army
-1173	Army ID is wrong
-1174	complete Army
-1175	List of complete Army applications
-1176	Army List is empty
-1177	Army is in exclusion status
-1178	At the time of change of the Chief of the Army, the changed character was not online
+1172	The period to leave the Guild did not reach 24 hours, you can not join an Guild
+1173	Guild ID is wrong
+1174	complete Guild
+1175	List of complete Guild applications
+1176	Guild List is empty
+1177	Guild is in exclusion status
+1178	At the time of change of the Chief of the Guild, the changed character was not online
 1179	Force cancellation in recharge time
-1180	The other person did not agree to participate in the Army
-1181	The period to join the Army does not exceed one day
-1182	Unable to find Army
-1183	Army is in normal status
+1180	The other person did not agree to participate in the Guild
+1181	The period to join the Guild does not exceed one day
+1182	Unable to find Guild
+1183	Guild is in normal status
 1184	Positions are now complete
-1185	Army level is very low
-1186	Army is in the classifiers
-1187	In the rating agencies, the player can not take Army
+1185	Guild level is very low
+1186	Guild is in the classifiers
+1187	In the rating agencies, the player can not take Guild
 1188	In the Sorters, you can not change player's ID
 1189	With Timelock in block status, it is not possible to continue with that operation
-1190	Army base can not be activated
-1191	Can not find army base
-1192	Army base is in battle status
-1193	The organization of the battle of the Army is now complete
+1190	Guild base can not be activated
+1191	Can not find Guild base
+1192	Guild base is in battle status
+1193	The organization of the battle of the Guild is now complete
 1194	You can not declare war at the current time
-1195	Your army has no base.
-1196	You left the base of the Army: %s
+1195	Your Guild has no base.
+1196	You left the base of the Guild: %s
 1197	Sorters Occurred in the Base
 1198	Non-existent base
 1199	In this period of time can not be accessed
 1200	Other reasons
-1201	Fail to enter / leave the base of the Army
+1201	Fail to enter / leave the base of the Guild
 1202	The other base is in confrontation, the entry of people is forbidden
 1203	Only other bases from 18h to 0h can be entered
-1204	Army Base not yet registered
-1205	Army Base not yet designated
-1206	The base of the Army is in status of preparation for the battle, try it later
-1207	The base of the Army is in clean status, try it later
-1208	Limit of persons in the army bas exceeded
+1204	Guild Base not yet registered
+1205	Guild Base not yet designated
+1206	The base of the Guild is in status of preparation for the battle, try it later
+1207	The base of the Guild is in clean status, try it later
+1208	Limit of persons in the Guild bas exceeded
 1209	Insufficient Reputation
 1210	Join the voice team
 1211	Expand voice channel
@@ -1231,32 +1231,32 @@
 1230	Stone to melt Bronze
 1231	Ivory sculpting knife
 1232	Yeast to Ferment Wine
-1233	Base pedestal status award: Double of time: 2 hours per week Open pharmacy for resistance practicesQuantity of the treasure box of time, level of qualifications and Army base related
+1233	Base pedestal status award: Double of time: 2 hours per week Open pharmacy for resistance practicesQuantity of the treasure box of time, level of qualifications and Guild base related
 1234	Additional benefit of the following level of the base: Store will sell: Tools as Source of Fusion
-1235	With the miraculous army destroyed, the resources of the Armies will be reduced by 40 points.
-1236	Level 1 base award: Store will sell: Tools as Source of Fusion Open pharmacy for resistance practicesQuantity of time treasure box, level of qualifications and Army base related
+1235	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 40 points.
+1236	Level 1 base award: Store will sell: Tools as Source of Fusion Open pharmacy for resistance practicesQuantity of time treasure box, level of qualifications and Guild base related
 1237	Additional benefit of the next level of the base: Store will sell: Tools like Starsand Source, stored EXP potion
-1238	With the miraculous army destroyed, the resources of the Armies will be reduced by 101 points.
-1239	Level 2 Base Prize: Store will sell: Tools like Starsand Source, stored EXP potionQuantity of the Treasure Box of Time, level of Army qualifications and base related
-1240	Additional benefit of the following level of the base: Army warehouse openDouble time: 3 hours per weekTienda will sell: Source of the territory, power crafting potion, among others
-1241	With the miraculous army destroyed, the resources of the Armies will be reduced by 270 points.
-1242	Level 3 Base Prize: Open Army DepotDouble Time: 3 hours per weekTienda will sell: Tools such as Territory Source, energy crafting potionQuantity of the treasure box of time, level of the qualifiers and the base of the Army related
+1238	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 101 points.
+1239	Level 2 Base Prize: Store will sell: Tools like Starsand Source, stored EXP potionQuantity of the Treasure Box of Time, level of Guild qualifications and base related
+1240	Additional benefit of the following level of the base: Guild warehouse openDouble time: 3 hours per weekTienda will sell: Source of the territory, power crafting potion, among others
+1241	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 270 points.
+1242	Level 3 Base Prize: Open Guild DepotDouble Time: 3 hours per weekTienda will sell: Tools such as Territory Source, energy crafting potionQuantity of the treasure box of time, level of the qualifiers and the base of the Guild related
 1243	Additional benefit of the next level of the base: Store will sell: Tools like Magic Box of energy supplement
-1244	With the miraculous army destroyed, the resources of the Armies will be reduced by 540 points.
-1245	Level 4 base award: Store will sell: Tools such as Magic Box of energy supplement. Amount of treasure box of time, level of qualifications and Army base related.
-1246	Additional benefit of the next level of the base: Store will sell: Tools such as Special Army Recovery Drugs
-1247	With the miraculous army destroyed, the resources of the Armies will be reduced by 675 points.
-1248	Level 5 base award: Store will sell: Tools such as Special Army Recovery DrugsQuantity of the Treasure Box of Time, level of qualifications and Army Base related
+1244	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 540 points.
+1245	Level 4 base award: Store will sell: Tools such as Magic Box of energy supplement. Amount of treasure box of time, level of qualifications and Guild base related.
+1246	Additional benefit of the next level of the base: Store will sell: Tools such as Special Guild Recovery Drugs
+1247	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 675 points.
+1248	Level 5 base award: Store will sell: Tools such as Special Guild Recovery DrugsQuantity of the Treasure Box of Time, level of qualifications and Guild Base related
 1249	Additional benefit of the following base level: Double of time: 4 hours per week Store will sell: Tools such as Star Jade Gift Package
-1250	With the miraculous army destroyed, the resources of the Armies will be reduced by 810 points.
-1251	Level 6 base award: Double time: 4 hours per week Store will sell: Tools such as Star Jade Gift Package Amount of time treasure box, level of Army qualifications and base related
+1250	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 810 points.
+1251	Level 6 base award: Double time: 4 hours per week Store will sell: Tools such as Star Jade Gift Package Amount of time treasure box, level of Guild qualifications and base related
 1252	Additional benefit of the next level of the base: Store will sell: Tools like Silver Blood
-1253	With the miraculous army destroyed, the resources of the Armies will be reduced by 1755 points.
-1254	Level 7 base award: Store will sell: Tools such as Silver BloodQuantity of the treasure box of time, level of qualifications and Army base related
+1253	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 1755 points.
+1254	Level 7 base award: Store will sell: Tools such as Silver BloodQuantity of the treasure box of time, level of qualifications and Guild base related
 1255	Additional benefit of the next level of the base: Store will sell: Tools like Demonic Blood
-1256	With the miraculous army destroyed, the resources of the Armies will be reduced by 2025 points.
-1257	Level 8 base award: Store will sell: Tools like Demonic BloodQuantity of the treasure box of time, level of qualifications and Army base related
-1258	His Army base has already reached a high category.
+1256	With the miraculous Guild destroyed, the resources of the Armies will be reduced by 2025 points.
+1257	Level 8 base award: Store will sell: Tools like Demonic BloodQuantity of the treasure box of time, level of qualifications and Guild base related
+1258	His Guild base has already reached a high category.
 1259	Stone of the City of the Gods
 1260	Stone produced on Mount Olympus, is the building material of the City of the Gods.
 1261	Wood of the City of the Gods
@@ -1292,11 +1292,11 @@
 1291	Place of offerings to Hephaestus, God of Fire. He is also known as the God of Craftsman! The higher the level of the Temple of the Fire God, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
 1292	Temple of the God of War
 1293	Place of offering to Ares, God of War. He is the God of war and battle! The higher the level of the Temple of the God of War, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
-1294	Army Power
-1295	Under the protection of the God of War, the strength and endurance of all players within the Army increases. The higher the level of the Temple of the God of War, the higher the level of property will increase!
-1296	With the Temple of the God of the Flocks in level 1 it is possible to activate, increasing the strength and resistance of the players within the army!
-1297	With the Temple of the God of the Flocks in level 2 it is possible to activate the next level, increasing the strength and resistance of the players within the army!
-1298	With the Temple of the God of the Flocks in level 3 it is possible to activate the next level, increasing the strength and resistance of the players within the army!
+1294	Guild Power
+1295	Under the protection of the God of War, the strength and endurance of all players within the Guild increases. The higher the level of the Temple of the God of War, the higher the level of property will increase!
+1296	With the Temple of the God of the Flocks in level 1 it is possible to activate, increasing the strength and resistance of the players within the Guild!
+1297	With the Temple of the God of the Flocks in level 2 it is possible to activate the next level, increasing the strength and resistance of the players within the Guild!
+1298	With the Temple of the God of the Flocks in level 3 it is possible to activate the next level, increasing the strength and resistance of the players within the Guild!
 1299	Temple of the God of the Flocks
 1300	Place of offerings to Hermes, God of the flocks. Its speed is as if it were flying, it is also known as the Merchants Pattern! The higher the level of the Temple of the God of the Flocks, the stronger its capacity, it can go to ${npc(23561)} increase the level of the Temple.
 1301	Hearts have a mutual sensitivity
@@ -1580,25 +1580,25 @@
 1579	Cancer! Zombies arrived
 1580	In the Castle of Hades, for a long time the wandering spirits entered the body of the dead, transforming themselves into terrible zombies. The Cancer Death Mask has experience in dealing with zombies, he will allow a Knight to use his strength to defeat the zombies, but the Death Mask also plays tricks, and can sometimes transform a Knight into a zombie.
 1581	No enemies, no need to use enemy tracking props
-1582	Rejected Legion Application
-1583	Determined to spend 500000 gold coins to create a legion?
+1582	Rejected Guild Application
+1583	Determined to spend 500000 gold coins to create a Guild?
 1584	Player level 30 required!
 1585	or gold coin 500000
-1586	1 Applicant needs to be the head of the army\r2 There is currently no legion base\r3 Application time is from Tuesday to Sunday\r3 (Note: After the maintenance on Tuesday, last week, the activity of 200 inner legions can be applied)
+1586	1 Applicant needs to be the head of the Guild\r2 There is currently no Guild base\r3 Application time is from Tuesday to Sunday\r3 (Note: After the maintenance on Tuesday, last week, the activity of 200 inner legions can be applied)
 1587	Successfully bid on %s, spent %I64d gold coins
 1588	Your gold coins are insufficient
 1589	markup (%I64d gold coin)
-1590	Galaxy competition registration has not been opened, opening time every Tuesday night 19:00%
+1590	Galaxy competition registration has not been opened, opening time every Tuesday night 19:00 %s
 1591	Ares Starry Sky
 1592	Galaxy Hegemony Victory Bonus (Head)
 1593	Bid star domain %s failed, refund %s%s
 1594	Defensive star field %s victory, as the head, you get the loot %s%s
 1595	Defensive star field %s victory, as a member, you get the spoils %s%s
 1596	Offensive star %s wins, returns to the auction's %s%s
-1597	    1 Winning conditions\r · Offensive side wins: Destroy the blue core crystal\r · Defensive side wins: Destroy the red core crystal or the end of the battle time, the blue core crystal is not destroyed\r 2 Crystal introduction\r · Core crystal The most important crystal is located in the base. When the defensive crystal and energy crystal of the corresponding camp are destroyed, the core crystal can be attacked. \ · Defensive crystal: enchantment guard crystal, located on the outer side of the base. After the battle begins, you can be attacked without breaking the enemy base. \r · Energy Crystal: The same as the defense crystal, located on the other side of the base of the base\r · Central transmission crystal: neutral yellow crystal, located in the Galaxy In the central area, the player's camp belonging to the last strike acquires the occupation right. The party that transmits the crystal can directly transmit to the central area through the intermediate transfer area in the base. \r 3 combat object\r When facing the unowned star field, it will be with the monster. Pve battle, when attacking the occupied star field, will pvp battle with the defensive player\r When the legion occupied the star field more than 10 , You may open the outsider invasion, a large number of monsters invading legions of star field. If the defense fails, the Legion will lose the invaded star field. The more the occupied star domain, the more opportunities there may be for alien invasions. \r 4 Participation in restrictions\r The members of the Legion cannot participate in the Galaxy. Players who are demoted to peripheral members or kicked out of the regiment in the battlefield of the Galaxy will be removed from the battlefield. \r 5 Shooter chariot\r Up to three shooter chariots at the same time, mainly used to destroy the crystal of each other, you need to click on the chariot in the base to transform into a \r 6 defense tower\r Find NPC in the Galaxy competition base The soul of the relics receives the defensive tower, which is divided into "Yaoguang Tower" and "Frost Tower". After receiving it, it takes a while to redeem. For the vacant remnant pedestal, the props can summon the defensive tower of the party. \r 7 Legion raid\r When the head of the army (the head of the agency) is located in the map of the Galaxy Hegemony, a banner transmitted by the legion will appear at the bottom of the interface to initiate a raid to create a temporary portal\r 8 will not destroy the will\ r When the Legion defends its last territory, it triggers an inexhaustible will. Bathfire Phoenix helps the player defend. \r The main city and the small strong star field will not trigger the immortal will. \r 9 Home advantage\r When the Legion fights in the star field of their own camp, the blood volume of their own crystal doubles. When both sides are at home, they will not trigger home advantage. \r 10 Summon Card\r The hero summoned by the summoning card will deal damage to enemy crystals within 15 meters of itself. \r
-1598	    1 Bidding Qualification\r · The corps can join the Galaxy to participate in the Galaxy Competition; the camp guides the npc location: Sanctuary (-265,110);\r · Legion qualifiers in the gold group and above can participate in the Galaxy bidding;\r 2 Auction Rules\r · The corps without the occupational star domain can bid for the lowest-order star field of the camp and the silver field of the sanctuary, and limit the bidding for one piece;\r ·The legion with the occupational star field can bid for the current possession of the star field Any of the neighboring stars, three shots per week; \r · The occupying star field and the camp of the main city of the camp has been occupied, you can bid for any silver star field of the Ares starry sky. After the main city of the camp has been occupied, the army with the small strong star field can directly bid for the gold-level star field of the God of Stars. After the starry sky has occupied the star field, it is necessary to bid for the adjacent star field according to the connection relationship. \r · The situation of the sun god is empty with the sky of the gods. \r · The main city is connected to all the stars in the starry sky, and the five small strong stars are connected to all other stars;\r · Legion can bid for the main city of the camp, the main city of the gods and the sun god City, but can not bid for other camp main cities; \r · Legion can only occupy or bid for a main city; the legion can only occupy or bid for a bronze star field;\r 3 bidding time\r · bidding star window window is week 4:00->Thursday at 21:00, if a premium is generated, it can be extended to 22:00 on Thursday;\r ·After the auction of all stars, the star-field battle schedule will be generated;\ r 4 Auction gold return\r · The army that has not obtained the offensive authority will return the bidding gold in full; \r · Successfully occupy the star field and return 90% of the auction money to the attacking party; when the auction amount exceeds 500 million, it will return 450 million; r · Successfully defended the star field, the defensive team leader and the legion successfully won 90% of the offensive party's bid; when the auction amount exceeds 500 million, the return is 450 million; \r 5 Others\r · The regiment withdraws from the current camp and loses all Astrological field; when the legion has a bidding star field Law exits the current camp;\r
-1599	    When the legion occupied the territory, it was rewarded according to the occupied territory. Members have their own rewards. The head of the team/agent leader has additional rewards. The time for receiving the prize is 10:00 on Monday and 19:00 on Friday. The winner needs to be 40. The head of the army/agent leader needs special prizes. Level 80. \r The average number of members of the legion is the same as the gang member's upper limit. That is, the upper limit of the legion is 200, and only 200 ordinary rewards per day can be received. \r 1 Legion member prizes are as follows: (Binding) \r Five small strong star field: Nebula special product × 6, Nebula treasure bag × 2 \r Silver star field: Nebula special product × 4, Nebula treasure bag × 2 \r Gold star field : Xingyun specialty × 10, Nebula treasure bag × 2 \r Main city: Nebula special product × 10 Nebula treasure bag × 2 \r 2 Army leader prizes are as follows:\r Legion with a boom of no more than 1000, according to the head of every 100 prosperous army A prosperous treasure bag can be obtained separately from the head of the agency. \r A regiment with a prosperity of more than 1,500, the head of the army and the head of the agency can gain extra prosperity. As the degree of prosperity increases, the rate of obtaining prosperous treasure bags gradually decreases, and the rate of gaining prosperity is gradually increasing. \r Occupy the army of the main city, you will get 5 additional nebula secrets\r 3 army chief skill card\r The army that occupied the non-main city star field can receive the summoning card mission every week, summon this camp in a battlefield of the Galaxy A powerful hero assists in the battle. \r The occupation of the Sanctuary, Atlantis and Hades City can receive the avatar card mission every week, incarnate as a god in a Galaxy hegemony, and devastating to the enemy. \r The corps occupying the main city can get another avatar card every week, which can be used outside the Galaxy Hegemony and the Galaxy Fighting Field. It is transformed into a god and takes great damage to the enemy. \r 4 Description of the item\r Nebula special product: Get the binding currency and experience after use, related to the user level; 30 times per day, 40 level can use \r Nebula treasure bag: Guardian star equipment exchange coupon × 2 Key to space and time × 1, star soul essence × 2, limited to 6 times a day, 40 level can use \r Nebula secret treasure: a large number of binding coins, the blood of the gods × 5, the key to space and time × 5, the spirit of artifact × 5, 2 times a day, 60 level can use \r Prosperity treasure bag: a large number of binding coins, gold blood × 5, silver crystal × 5, star soul essence × 5, 2 times a day, 60 level You can use \r prosperity secret treasure: a large number of binding coins, the blood of the demon × 5, the spirit of the artifact × 5, the essence of the soul soul × 5, 2 times a day, 60 can use \r extra items, such as nebula Specialties, Xingyun Baobao can be sold at the price of 20000/50000. \r
-1600	    1 The legion must first join one of the three camps before joining or creating an alliance. \r 2 Alliance can form between the regiments that do not occupy the three main cities. The legions of the Palace of Occupation and the Legion of the Occupation War Temple cannot be aligned. When the legion of the Alliance seizes the main city, it will automatically withdraw from the alliance. \r 3 Legion strength in the top two servers can not unite with other forces. When the corps in the league reaches the top two servers, they will automatically withdraw from the league. \r 4 The army in the league needs to withdraw from the league before they can change the legion camp. \r 5 The rank of the Legion of the Legion Alliance is four. \r 6 The members of the Legion in the league can join the Galaxy hegemony competition with other legions of the Alliance to assist in the battle. \r 7 When the members of the Legion in the Alliance receive the "Member Reward" for the Galaxy hegemony, they are rewarded according to the situation of the Alliance's occupation of the Stars. (At the end of last week - at 24 o'clock on Sunday, the Legion is already in force within the Alliance.)\r
+1597	    1 Winning conditions\r · Offensive side wins: Destroy the blue core crystal\r · Defensive side wins: Destroy the red core crystal or the end of the battle time, the blue core crystal is not destroyed\r 2 Crystal introduction\r · Core crystal The most important crystal is located in the base. When the defensive crystal and energy crystal of the corresponding camp are destroyed, the core crystal can be attacked. \ · Defensive crystal: enchantment guard crystal, located on the outer side of the base. After the battle begins, you can be attacked without breaking the enemy base. \r · Energy Crystal: The same as the defense crystal, located on the other side of the base of the base\r · Central transmission crystal: neutral yellow crystal, located in the Galaxy In the central area, the player's camp belonging to the last strike acquires the occupation right. The party that transmits the crystal can directly transmit to the central area through the intermediate transfer area in the base. \r 3 combat object\r When facing the unowned star field, it will be with the monster. Pve battle, when attacking the occupied star field, will pvp battle with the defensive player\r When the Guild occupied the star field more than 10 , You may open the outsider invasion, a large number of monsters invading legions of star field. If the defense fails, the Guild will lose the invaded star field. The more the occupied star domain, the more opportunities there may be for alien invasions. \r 4 Participation in restrictions\r The members of the Guild cannot participate in the Galaxy. Players who are demoted to peripheral members or kicked out of the regiment in the battlefield of the Galaxy will be removed from the battlefield. \r 5 Shooter chariot\r Up to three shooter chariots at the same time, mainly used to destroy the crystal of each other, you need to click on the chariot in the base to transform into a \r 6 defense tower\r Find NPC in the Galaxy competition base The soul of the relics receives the defensive tower, which is divided into "Yaoguang Tower" and "Frost Tower". After receiving it, it takes a while to redeem. For the vacant remnant pedestal, the props can summon the defensive tower of the party. \r 7 Guild raid\r When the head of the Guild (the head of the agency) is located in the map of the Galaxy Hegemony, a banner transmitted by the Guild will appear at the bottom of the interface to initiate a raid to create a temporary portal\r 8 will not destroy the will\ r When the Guild defends its last territory, it triggers an inexhaustible will. Bathfire Phoenix helps the player defend. \r The main city and the small strong star field will not trigger the immortal will. \r 9 Home advantage\r When the Guild fights in the star field of their own camp, the blood volume of their own crystal doubles. When both sides are at home, they will not trigger home advantage. \r 10 Summon Card\r The hero summoned by the summoning card will deal damage to enemy crystals within 15 meters of itself. \r
+1598	    1 Bidding Qualification\r · The corps can join the Galaxy to participate in the Galaxy Competition; the camp guides the npc location: Sanctuary (-265,110);\r · Guild qualifiers in the gold group and above can participate in the Galaxy bidding;\r 2 Auction Rules\r · The corps without the occupational star domain can bid for the lowest-order star field of the camp and the silver field of the sanctuary, and limit the bidding for one piece;\r ·The Guild with the occupational star field can bid for the current possession of the star field Any of the neighboring stars, three shots per week; \r · The occupying star field and the camp of the main city of the camp has been occupied, you can bid for any silver star field of the Ares starry sky. After the main city of the camp has been occupied, the Guild with the small strong star field can directly bid for the gold-level star field of the God of Stars. After the starry sky has occupied the star field, it is necessary to bid for the adjacent star field according to the connection relationship. \r · The situation of the sun god is empty with the sky of the gods. \r · The main city is connected to all the stars in the starry sky, and the five small strong stars are connected to all other stars;\r · Guild can bid for the main city of the camp, the main city of the gods and the sun god City, but can not bid for other camp main cities; \r · Guild can only occupy or bid for a main city; the Guild can only occupy or bid for a bronze star field;\r 3 bidding time\r · bidding star window window is week 4:00->Thursday at 21:00, if a premium is generated, it can be extended to 22:00 on Thursday;\r ·After the auction of all stars, the star-field battle schedule will be generated;\ r 4 Auction gold return\r · The Guild that has not obtained the offensive authority will return the bidding gold in full; \r · Successfully occupy the star field and return 90% of the auction money to the attacking party; when the auction amount exceeds 500 million, it will return 450 million; r · Successfully defended the star field, the defensive team leader and the Guild successfully won 90% of the offensive party's bid; when the auction amount exceeds 500 million, the return is 450 million; \r 5 Others\r · The regiment withdraws from the current camp and loses all Astrological field; when the Guild has a bidding star field Law exits the current camp;\r
+1599	    When the Guild occupied the territory, it was rewarded according to the occupied territory. Members have their own rewards. The head of the team/agent leader has additional rewards. The time for receiving the prize is 10:00 on Monday and 19:00 on Friday. The winner needs to be 40. The head of the Guild/agent leader needs special prizes. Level 80. \r The average number of members of the Guild is the same as the gang member's upper limit. That is, the upper limit of the Guild is 200, and only 200 ordinary rewards per day can be received. \r 1 Guild member prizes are as follows: (Binding) \r Five small strong star field: Nebula special product × 6, Nebula treasure bag × 2 \r Silver star field: Nebula special product × 4, Nebula treasure bag × 2 \r Gold star field : Xingyun specialty × 10, Nebula treasure bag × 2 \r Main city: Nebula special product × 10 Nebula treasure bag × 2 \r 2 Guild leader prizes are as follows:\r Guild with a boom of no more than 1000, according to the head of every 100 prosperous Guild A prosperous treasure bag can be obtained separately from the head of the agency. \r A regiment with a prosperity of more than 1,500, the head of the Guild and the head of the agency can gain extra prosperity. As the degree of prosperity increases, the rate of obtaining prosperous treasure bags gradually decreases, and the rate of gaining prosperity is gradually increasing. \r Occupy the Guild of the main city, you will get 5 additional nebula secrets\r 3 Guild chief skill card\r The Guild that occupied the non-main city star field can receive the summoning card mission every week, summon this camp in a battlefield of the Galaxy A powerful hero assists in the battle. \r The occupation of the Sanctuary, Atlantis and Hades City can receive the avatar card mission every week, incarnate as a god in a Galaxy hegemony, and devastating to the enemy. \r The corps occupying the main city can get another avatar card every week, which can be used outside the Galaxy Hegemony and the Galaxy Fighting Field. It is transformed into a god and takes great damage to the enemy. \r 4 Description of the item\r Nebula special product: Get the binding currency and experience after use, related to the user level; 30 times per day, 40 level can use \r Nebula treasure bag: Guardian star equipment exchange coupon × 2 Key to space and time × 1, star soul essence × 2, limited to 6 times a day, 40 level can use \r Nebula secret treasure: a large number of binding coins, the blood of the gods × 5, the key to space and time × 5, the spirit of artifact × 5, 2 times a day, 60 level can use \r Prosperity treasure bag: a large number of binding coins, gold blood × 5, silver crystal × 5, star soul essence × 5, 2 times a day, 60 level You can use \r prosperity secret treasure: a large number of binding coins, the blood of the demon × 5, the spirit of the artifact × 5, the essence of the soul soul × 5, 2 times a day, 60 can use \r extra items, such as nebula Specialties, Xingyun Baobao can be sold at the price of 20000/50000. \r
+1600	    1 The Guild must first join one of the three camps before joining or creating an alliance. \r 2 Alliance can form between the regiments that do not occupy the three main cities. The legions of the Palace of Occupation and the Guild of the Occupation War Temple cannot be aligned. When the Guild of the Alliance seizes the main city, it will automatically withdraw from the alliance. \r 3 Guild strength in the top two servers can not unite with other forces. When the corps in the league reaches the top two servers, they will automatically withdraw from the league. \r 4 The Guild in the league needs to withdraw from the league before they can change the Guild camp. \r 5 The rank of the Guild of the Guild Alliance is four. \r 6 The members of the Guild in the league can join the Galaxy hegemony competition with other legions of the Alliance to assist in the battle. \r 7 When the members of the Guild in the Alliance receive the "Member Reward" for the Galaxy hegemony, they are rewarded according to the situation of the Alliance's occupation of the Stars. (At the end of last week - at 24 o'clock on Sunday, the Guild is already in force within the Alliance.)\r
 1601	Bid failed, insufficient gold coins
 1602	Failed to receive daily tasks, the number is full
 1603	The auction failed, and the qualifying group was below the gold group.
@@ -1607,7 +1607,7 @@
 1606	Successfully appointed Acting Pope
 1607	The great and sacred Pope %s of the Sanctuary appeared in this Realm.
 1608	requires 500000 gold coins
-1609	Your army has no base, and the 200-strong team in the weekly activity can apply for the base.
+1609	Your Guild has no base, and the 200-strong team in the weekly activity can apply for the base.
 1610	Other bases can only enter between 18:00 and 2 am
 1611	
 1612	Retriever
