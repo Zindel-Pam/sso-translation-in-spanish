@@ -102,9 +102,9 @@
 101	Normal
 102	Lleno
 103	2x EXP
-104	EXP en Triple
-105	DROP en Doble
-106	GOLD en Doble
+104	EXP Por Tres
+105	DROP por Dos
+106	Oro Por Dos
 107	Gratis
 108	Fila
 109	Círculo
@@ -199,24 +199,24 @@
 198	8
 199	9
 200	10
-201	Detalles Masculino 1
-202	Detalles Masculino 2
-203	Detalles Masculino 3
-204	Detalles Masculino 4
-205	Detalles Masculino 5
-206	Detalles Masculino 6
-207	Detalles Masculino 7
-208	Detalles Masculino 8
-209	Detalles Masculino 9
-210	Detalles Femenino 1
-211	Detalles Femenino 2
-212	Detalles Femenino 3
-213	Detalles Femenino 4
-214	Detalles Femenino 5
-215	Detalles Femenino 6
-216	Detalles Femenino 7
-217	Detalles Femenino 8
-218	Detalles Femenino 9
+201	Detalles Masculinos 1
+202	Detalles Masculinos 2
+203	Detalles Masculinos 3
+204	Detalles Masculinos 4
+205	Detalles Masculinos 5
+206	Detalles Masculinos 6
+207	Detalles Masculinos 7
+208	Detalles Masculinos 8
+209	Detalles Masculinos 9
+210	Detalles Femeninos 1
+211	Detalles Femeninos 2
+212	Detalles Femeninos 3
+213	Detalles Femeninos 4
+214	Detalles Femeninos 5
+215	Detalles Femeninos 6
+216	Detalles Femeninos 7
+217	Detalles Femeninos 8
+218	Detalles Femeninos 9
 219	Col 1
 220	Col 2
 221	Col 3
@@ -326,7 +326,7 @@
 325	Col 12
 326	Col 13
 327	Col 14
-328	Não é possível criar um personagem com este signo. É necessário alterar o signo de um personagem já existente, contanto que ele possua, no mínimo, nível 59
+328	No es posible crear un personaje con este signo. Es necesario cambiar el signo a un personaje ya existente, si este ya se encuentra a lvl 59.
 329	正在登录游戏……请稍候
 330	^a4d1ff攻击距离：\r  ^fff2c8近（3米）\r\r^a4d1ff属性偏向:\r  ^fff2c8防高血多的肉盾\r\r^a4d1ff特殊能力：\r  ^fff2c8◆吸血\r  ^fff2c8◆给队友加护盾\r  ^fff2c8◆多人倒地、沉默\r  ^fff2c8◆消耗生命的强力技能\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
 331	^a4d1ff攻击距离：\r  ^fff2c8远(15米)\r\r^a4d1ff属性偏向:\r  ^fff2c8强大的治疗者\r\r^a4d1ff特殊能力：\r  ^fff2c8◆加血\r  ^fff2c8◆复活\r  ^fff2c8◆召唤天使回血加攻\r  ^fff2c8◆召唤星之守护帮你打\r\r^a4d1ff出生地：\r  ^fff2c8死亡皇后岛
