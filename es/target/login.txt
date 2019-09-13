@@ -6,12 +6,12 @@
 5	Más tarde
 6	Bienvenido a Saint Seiya Online - Reborn!
 7	Cuenta
-8	Contraseña
-9	Olvidé
-10	Forzar inicio de sesión
+8	Clave
+9	R.Clave
+10	Entrar Auto
 11	Confirmar
 12	Cancelar
-13	Login
+13	Entrar
 14	Salir del Juego
 15	Animación
 16	Eliminar
@@ -22,14 +22,14 @@
 21	Jugar
 22	Aleatorio
 23	Selección Aleatoria
-24	Verifica trajes del personaje
+24	Verifica tu Servidor
 25	Seleccionar Servidor
 26	Anterior
 27	Siguiente
-28	¿Ovidaste tus informaciones en el servidor?<br/> ¡Pregunta a la comunidad!
+28	¿Ovidaste en que servidor jugabas?<br/> ¡Pregunta a la comunidad!
 29	El siguiente personaje será enviado en la próxima caza al tesoro, puedes cancelar el envío de personaje.
 30	Contraseña de la Tarjeta de Seguridad
-31	Servidor recomendado
+31	S. Recomendado
 32	Haga click abajo para elegir como acceder
 33	Por favor, introduzca el token de 6 números que aparecen en tu smartphone
 34	Por favor, introduzca los 6 dígitos
